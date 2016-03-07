@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>文件 &apos;{0}&apos; 无法被保存。文件已经在用。</value>
+    <value>文件 '{0}' 无法被保存。文件已经在用。</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -416,7 +416,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>无法找到&apos;{0}&apos;。请重新确认文件所在位置是否正确。</value>
+    <value>无法找到'{0}'。请重新确认文件所在位置是否正确。</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
@@ -554,7 +554,7 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>你写道 &quot;{0}&quot; 所以我们猜测你想添加一个附件。
+    <value>你写道 "{0}" 所以我们猜测你想添加一个附件。
 如果你想发送不带附件的邮件，只需要点击下面的 OK 即可。</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
@@ -2020,7 +2020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
-    <value>将消息标识为&apos;已读&apos;并跳至下一条消息.</value>
+    <value>将消息标识为'已读'并跳至下一条消息.</value>
     <comment>Marks your message as 'read' and skip to the next message.</comment>
   </data>
   <data name="Shortcut_Refresh" xml:space="preserve">
@@ -2132,7 +2132,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
-    <value>标记你的消息为&apos;未读&apos;以便你之后查看.</value>
+    <value>标记你的消息为'未读'以便你之后查看.</value>
     <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
@@ -2535,8 +2535,8 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird发现服务器端的SSL证书: &apos;{0}&apos;, 不可用.
-继续前请点击下面的&quot;阅读更多&quot;按键来了解更多信息.
+    <value>Mailbird发现服务器端的SSL证书: '{0}', 不可用.
+继续前请点击下面的"阅读更多"按键来了解更多信息.
 
 你想要永久忽略此服务器的错误吗?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2856,7 +2856,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>同步&apos;{0}&apos;文件夹的更改出错</value>
+    <value>同步'{0}'文件夹的更改出错</value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -2872,7 +2872,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>服务器不允许文件夹名称内含&apos;{0}&apos;字符</value>
+    <value>服务器不允许文件夹名称内含'{0}'字符</value>
     <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -3092,7 +3092,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>标识为&apos;已读&apos;</value>
+    <value>标识为'已读'</value>
     <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
@@ -3158,7 +3158,7 @@ Please check the identity setup and try again.</comment>
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>点击下面的&apos;浏览&apos;选择需要导入的文件.</value>
+    <value>点击下面的'浏览'选择需要导入的文件.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -3548,7 +3548,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird无法发送消息. 请检查你&apos;发件人&apos;身份的发送服务器设置.</value>
+    <value>Mailbird无法发送消息. 请检查你'发件人'身份的发送服务器设置.</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
@@ -3926,7 +3926,7 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>当你加入多个账号到Mailbird时，一个新的&quot;统一&quot;账号会在导航栏的账号列表的顶部显示. 该账号将来自所有账号的系统文件夹内的邮件整合在一处，你可以像正常一样的与这些邮件交互.
+    <value>当你加入多个账号到Mailbird时，一个新的"统一"账号会在导航栏的账号列表的顶部显示. 该账号将来自所有账号的系统文件夹内的邮件整合在一处，你可以像正常一样的与这些邮件交互.
 
 你可以在选项内禁用统一账号, 或者编辑每一个你的账号以决定哪些账号会被包括在统一账号内.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
@@ -4122,7 +4122,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>无法添加文件&apos;{0}&apos;为附件因为你没有权限访问该文件, 请检查你的用户权限并且再试一次. </value>
+    <value>无法添加文件'{0}'为附件因为你没有权限访问该文件, 请检查你的用户权限并且再试一次. </value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
@@ -4134,7 +4134,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>请确保&quot;允许稍低安全级的应用&quot;设施在Gmail里已启用:
+    <value>请确保"允许稍低安全级的应用"设施在Gmail里已启用:
 https://mailbird.zendesk.com/entries/53544244
 
 如果问题依然存在，请按照以下链接尝试解决问题:
@@ -4210,7 +4210,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>无法添加文件&apos;{0}&apos;为附件。请检查该文件并未被其他程序使用并再试一次。</value>
+    <value>无法添加文件'{0}'为附件。请检查该文件并未被其他程序使用并再试一次。</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4369,7 +4369,7 @@ Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
     <value>Select the accounts you want to import to Mailbird.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4402,7 +4402,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird will restart and remove account(s) that you&apos;ve already added. 
+    <value>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
@@ -4447,7 +4447,7 @@ Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
     <value>Select the account or PST file to import from.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4577,7 +4577,11 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>This account cannot be imported because it&apos;s already added to Mailbird</value>
+    <value>This account cannot be imported because it's already added to Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
+  </data>
+<data name="TestStrings" xml:space="preserve">
+    <value>Test</value>
+    <comment>Do not translate</comment>
   </data>
 </root>
