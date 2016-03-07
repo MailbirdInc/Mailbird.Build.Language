@@ -278,7 +278,7 @@
     <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
-    <value>Nincs levél ebben a mappában</value>
+    <value>Nincs beszélgetés ebben a mappában</value>
     <comment>No conversations in this folder</comment>
   </data>
   <data name="Conversation_Print" xml:space="preserve">
@@ -298,11 +298,11 @@
     <comment>Sending</comment>
   </data>
   <data name="Conversation_To" xml:space="preserve">
-    <value>Címzett:</value>
+    <value>Címzett: </value>
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>részemre</value>
+    <value>részemre </value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -440,7 +440,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Az URL nem nyitható meg. Kérlek ellenőrizze, hogy az alapértelmezett böngésző helyesen lett telepítve és próbálja meg telepíteni pl. Google Chrome vagy Internet Explorer vagy OPERA</value>
+    <value>Az URL nem nyitható meg. Kérlek ellenőrizze, hogy az alapértelmezett böngésző helyesen lett telepítve és próbálja meg telepíteni pl. Google Chrome vagy Internet Explorer vagy OPERA.</value>
     <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
@@ -732,15 +732,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>Bcc:</value>
+    <value>Másolat2: </value>
     <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
-    <value>Bcc</value>
+    <value>Másolat2</value>
     <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
-    <value>Cc:</value>
+    <value>Cc: </value>
     <comment>Cc:</comment>
   </data>
   <data name="Conversation_Cc1" xml:space="preserve">
@@ -920,7 +920,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Sent</comment>
   </data>
   <data name="FolderIdentity_Spam" xml:space="preserve">
-    <value>Spam</value>
+    <value>SPAM</value>
     <comment>Spam</comment>
   </data>
   <data name="FolderIdentity_Starred" xml:space="preserve">
@@ -1348,7 +1348,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Fw:</comment>
   </data>
   <data name="Message_Fwd" xml:space="preserve">
-    <value>Fwd:</value>
+    <value>Továbbít:</value>
     <comment>Fwd:</comment>
   </data>
   <data name="Message_InMaking" xml:space="preserve">
@@ -1408,7 +1408,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Elküldött:</value>
+    <value>Elküldött: </value>
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -1424,7 +1424,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Subject</comment>
   </data>
   <data name="Message_Subject1" xml:space="preserve">
-    <value>Tárgy:</value>
+    <value>Tárgy: </value>
     <comment>Subject:</comment>
   </data>
   <data name="Message_Wrote" xml:space="preserve">
@@ -1520,7 +1520,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Accounts</comment>
   </data>
   <data name="Options_Advanced" xml:space="preserve">
-    <value>Előmozdít</value>
+    <value>Haladó</value>
     <comment>Advanced</comment>
   </data>
   <data name="Options_AlwaysDownloadImage" xml:space="preserve">
@@ -1568,7 +1568,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Download messages on demand</comment>
   </data>
   <data name="Options_Facebook" xml:space="preserve">
-    <value>Facebook</value>
+    <value>FACEBOOK</value>
     <comment>Facebook</comment>
   </data>
   <data name="Options_FacebookExplanation" xml:space="preserve">
@@ -1784,11 +1784,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Houston, we have a problem!</comment>
   </data>
   <data name="Report_HoustonExplanation" xml:space="preserve">
-    <value>Sajnáljuk, de valami elromlott és Mailbird-öt be kellett zárni. Segítsen nekünk, kérjük ossza meg velünk, hogy mit csinált akkor amikor ez történt. Megköszönjük a segítséget, hogy tudjunk fejleszteni ezt a valaha készült legjobb levelezőt.</value>
+    <value>Sajnáljuk, de valami elromlott és Mailbird-öt be kellett zárni. Segítsen nekünk, kérjük ossza meg velünk, hogy mit csinált akkor amikor ez történt. Megköszönjük a segítséget, hogy tudjunk fejleszteni ezt a valaha készült legjobb levelezőt!</value>
     <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
   </data>
   <data name="Report_Include" xml:space="preserve">
-    <value>Tartalmaz:</value>
+    <value>Tartalmaz: </value>
     <comment>Include: </comment>
   </data>
   <data name="Report_Intro" xml:space="preserve">
@@ -1868,7 +1868,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
-    <value>Beszélgetés áthelyezése a kukába</value>
+    <value>Beszélgetés áthelyezése a kukába.</value>
     <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
@@ -2004,11 +2004,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Print Conversation</comment>
   </data>
   <data name="Shortcut_PrintConversationExplanation" xml:space="preserve">
-    <value>Összes üzenet és beszélgetés nyomtatása</value>
+    <value>Összes üzenet és beszélgetés nyomtatása.</value>
     <comment>Print all messages in the selected conversation.</comment>
   </data>
   <data name="Shortcut_PrintExplanation" xml:space="preserve">
-    <value>Kijelölt üzenet nyomtatása</value>
+    <value>Kijelölt üzenet nyomtatása.</value>
     <comment>Print the selected message.</comment>
   </data>
   <data name="Shortcut_QuickPreview" xml:space="preserve">
@@ -2016,7 +2016,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Attachment Quick Preview</comment>
   </data>
   <data name="Shortcut_QuickPreviewExplanation" xml:space="preserve">
-    <value>Gyors nézet megnyitása ablakban és a melléklet kijelölése</value>
+    <value>Gyors nézet megnyitása ablakban és a melléklet kijelölése.</value>
     <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
@@ -2080,7 +2080,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Puts your cursor in the search box.</comment>
   </data>
   <data name="Shortcut_SearchExplanation1" xml:space="preserve">
-    <value>Kezdje az új e-mail kereséssel</value>
+    <value>Kezdje az új e-mail kereséssel.</value>
     <comment>Start new email search.</comment>
   </data>
   <data name="Shortcut_Send" xml:space="preserve">
@@ -2236,7 +2236,7 @@ We will never post anything to Facebook.</comment>
     <comment>Server settings are correct.</comment>
   </data>
   <data name="Welcome_ServerConnCheck2" xml:space="preserve">
-    <value>A tűzfal nem blokkolja a Mailbird-öt</value>
+    <value>A tűzfal nem blokkolja a Mailbird-öt.</value>
     <comment>No firewall is blocking Mailbird.</comment>
   </data>
   <data name="Welcome_ServerConnCheck3" xml:space="preserve">
@@ -2484,7 +2484,7 @@ Ha szeretné újratelepíteni a Mailbirdöt, azt nem, hogy ne állítsanak fel m
     <comment>Edit folder</comment>
   </data>
   <data name="Folder_Unmap" xml:space="preserve">
-    <value>Unmap</value>
+    <value>Zárás feloldása</value>
     <comment>Unmap</comment>
   </data>
   <data name="Shortcut_Backspace" xml:space="preserve">
@@ -2674,7 +2674,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
-    <value>Válassza ki a nyelvet, azután indítsa újra a Mailbird-et.</value>
+    <value>Válassza ki a nyelvet, azután indítsa újra a Mailbird-et</value>
     <comment>The selected language will be applied after you restart Mailbird</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
@@ -3164,7 +3164,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
-    <value>Gmail</value>
+    <value>G-mail</value>
     <comment>Gmail</comment>
   </data>
   <data name="App_Contacts_Import_Import" xml:space="preserve">
@@ -3172,7 +3172,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Import from vCard</comment>
   </data>
   <data name="App_Contacts_Import_Yahoo" xml:space="preserve">
-    <value>Yahoo!</value>
+    <value>YAHOO!</value>
     <comment>Yahoo!</comment>
   </data>
   <data name="App_Contacts_Import_Success_Plural" xml:space="preserve">
@@ -3260,15 +3260,15 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Locked</comment>
   </data>
   <data name="AvatarIconMailCom" xml:space="preserve">
-    <value>MailCom</value>
+    <value>MailCOM</value>
     <comment>MailCom</comment>
   </data>
   <data name="AvatarIconOneMail" xml:space="preserve">
-    <value>OneMail</value>
+    <value>OneMAIL</value>
     <comment>OneMail</comment>
   </data>
   <data name="AvatarIconOutlook" xml:space="preserve">
-    <value>Outlook</value>
+    <value>OUTLOOK</value>
     <comment>Outlook</comment>
   </data>
   <data name="AvatarIconPhone" xml:space="preserve">
@@ -3300,7 +3300,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Work</comment>
   </data>
   <data name="AvatarIconYahoo" xml:space="preserve">
-    <value>Yahoo!</value>
+    <value>YAHOO!</value>
     <comment>Yahoo!</comment>
   </data>
   <data name="SecurityProtocol_SSL" xml:space="preserve">
@@ -4200,7 +4200,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Mailbird was unable to initialize the repair. Please uninstall and reinstall Mailbird.</comment>
   </data>
   <data name="Trial_GetDiscount" xml:space="preserve">
-    <value>Frissíts Mailbird Pro verzióra - 33% kedvezmény </value>
+    <value>Frissíts Mailbird Pro verzióra - 33% kedvezmény</value>
     <comment>Get Mailbird Pro - 33% off</comment>
   </data>
   <data name="UpdateToPro_Coupon" xml:space="preserve">
@@ -4363,7 +4363,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importáló [bold] {0} [/ bold]. Kérjük, adja meg a jelszót, és minden egyéb hiányzó részleteket alul.
+    <value>Importáló [bold]{0}[/ bold]. Kérjük, adja meg a jelszót, és minden egyéb hiányzó részleteket alul. 
 Fiók {1} a {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
@@ -4429,7 +4429,7 @@ Are you sure you want to continue?</comment>
     <comment>No file selected</comment>
   </data>
   <data name="Dialog_PstLocationNotValidExplanation" xml:space="preserve">
-    <value>Kérjük, válassza ki a fájlt vagy a könyvtárat</value>
+    <value>Kérjük, válassza ki a fájlt vagy a könyvtárat.</value>
     <comment>Please select a file or folder.</comment>
   </data>
   <data name="Import_Browse" xml:space="preserve">
