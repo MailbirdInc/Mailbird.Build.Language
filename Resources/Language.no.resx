@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Denne filen &apos;{0}&apos; kunne ikke lagres. Fil er allerede i bruk.</value>
+    <value>Denne filen '{0}' kunne ikke lagres. Fil er allerede i bruk.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -416,7 +416,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>Kan ikke finne &apos;{0}&apos;. Vennligst sjekk om filen er på riktig sted eller ikke.</value>
+    <value>Kan ikke finne '{0}'. Vennligst sjekk om filen er på riktig sted eller ikke.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
@@ -464,7 +464,7 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Er du sikker på at du vil fjerne identiteten for &apos;{0}&apos;?
+    <value>Er du sikker på at du vil fjerne identiteten for '{0}'?
 Denne handlingen kan ikke omgjøres.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
@@ -554,8 +554,8 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Du skrev &quot;{0}&quot;, og vi tenkte du kanskje ville legge ved en fil.
-Hvis du vil sende e-posten uten vedlegg, trykk &quot;Ok&quot; nedenfor.</value>
+    <value>Du skrev "{0}", og vi tenkte du kanskje ville legge ved en fil.
+Hvis du vil sende e-posten uten vedlegg, trykk "Ok" nedenfor.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -1220,7 +1220,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Text to display:</comment>
   </data>
   <data name="LinkEditor_UrlExplanation" xml:space="preserve">
-    <value>Denne koblingen vil gå til URL&apos;en ovenfor</value>
+    <value>Denne koblingen vil gå til URL'en ovenfor</value>
     <comment>This link will go to URL above</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
@@ -1608,7 +1608,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>Vis &quot;viktig e-post&quot;-indikator</value>
+    <value>Vis "viktig e-post"-indikator</value>
     <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
@@ -1744,7 +1744,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Updates</comment>
   </data>
   <data name="Options_UseGmailShortcut" xml:space="preserve">
-    <value>Bruk Gmail&apos;s tastatursnarveier</value>
+    <value>Bruk Gmail's tastatursnarveier</value>
     <comment>Use Gmail keyboard shortcuts</comment>
   </data>
   <data name="Options_VersionHistory" xml:space="preserve">
@@ -1932,7 +1932,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Viser &apos;Flere Handlinger&apos;-meny.</value>
+    <value>Viser 'Flere Handlinger'-meny.</value>
     <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
@@ -1960,7 +1960,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Flytter musepekeren til neste melding. Du kan trykke &lt;Enter&gt; for å utvide eller skjule en melding. (Bare aktuelt i &apos;Samtalevisning.&apos;)</value>
+    <value>Flytter musepekeren til neste melding. Du kan trykke &lt;Enter&gt; for å utvide eller skjule en melding. (Bare aktuelt i 'Samtalevisning.')</value>
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
@@ -1972,7 +1972,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Åpner din samtale. Utvider eller skjuler en melding om du er i &apos;Samtalevisning.&apos;</value>
+    <value>Åpner din samtale. Utvider eller skjuler en melding om du er i 'Samtalevisning.'</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -1992,7 +1992,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Flytter musepekeren til forrige melding. Du kan trykke &lt;Enter&gt; for å utvide eller skjule en melding. (Bare aktuelt i &apos;Samtalevisning.&apos;)</value>
+    <value>Flytter musepekeren til forrige melding. Du kan trykke &lt;Enter&gt; for å utvide eller skjule en melding. (Bare aktuelt i 'Samtalevisning.')</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2020,7 +2020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
-    <value>Merker din melding som &apos;lest&apos; og går videre til neste melding.</value>
+    <value>Merker din melding som 'lest' og går videre til neste melding.</value>
     <comment>Marks your message as 'read' and skip to the next message.</comment>
   </data>
   <data name="Shortcut_Refresh" xml:space="preserve">
@@ -2068,7 +2068,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Lagrer den gjeldende teksten som utkast når du skriver en melding. Hold &lt;Ctrl&gt;-tasten mens du presser &quot;s&quot;, og sikre deg at musepekeren er i et av tekstfeltene -- enten i svarfeltet, eller ett av Til-, Kopi-, Blindkopi- eller emnefeltene -- når du bruker denne snarveien.</value>
+    <value>Lagrer den gjeldende teksten som utkast når du skriver en melding. Hold &lt;Ctrl&gt;-tasten mens du presser "s", og sikre deg at musepekeren er i et av tekstfeltene -- enten i svarfeltet, eller ett av Til-, Kopi-, Blindkopi- eller emnefeltene -- når du bruker denne snarveien.</value>
     <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
@@ -2128,11 +2128,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Undo</comment>
   </data>
   <data name="Shortcut_UndoExplanation" xml:space="preserve">
-    <value>Angrer din forrige handling om mulig (virker for handlinger med en &apos;angre&apos;-kobling).</value>
+    <value>Angrer din forrige handling om mulig (virker for handlinger med en 'angre'-kobling).</value>
     <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
-    <value>Merker din melding som &apos;ulest&apos;, slik at du kan komme tilbake til den senere.</value>
+    <value>Merker din melding som 'ulest', slik at du kan komme tilbake til den senere.</value>
     <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
@@ -2536,9 +2536,9 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird har oppdaget at SSL-sertifikatet til server: &apos;{0}&apos;, er ugyldig.
+    <value>Mailbird har oppdaget at SSL-sertifikatet til server: '{0}', er ugyldig.
 
-Vennligst klikk på &quot;les mer&quot; nedenfor for mer informasjon før du fortsetter.
+Vennligst klikk på "les mer" nedenfor for mer informasjon før du fortsetter.
 
 Ønsker du å ignorere denne feilmeldingen permanent for denne serveren?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2858,7 +2858,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>Feil ved synkronisering av &apos;{0}&apos; mappeendringer</value>
+    <value>Feil ved synkronisering av '{0}' mappeendringer</value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -2866,7 +2866,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Er du sikker på at du vil fjerne &quot;{0}&quot;?</value>
+    <value>Er du sikker på at du vil fjerne "{0}"?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
@@ -2874,7 +2874,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>Serveren tillater ikke &apos;{0}&apos; som tegn i mappenavn.</value>
+    <value>Serveren tillater ikke '{0}' som tegn i mappenavn.</value>
     <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -3094,7 +3094,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>Merk din melding som &apos;lest&apos;</value>
+    <value>Merk din melding som 'lest'</value>
     <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
@@ -3160,7 +3160,7 @@ Her er et par koblinger for og hjelpe å produsere vCard-filer fra ulike tjenest
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>Klikk på &apos;Bla gjennom&apos; nedenfor for å velge filen(e) og importere fra.</value>
+    <value>Klikk på 'Bla gjennom' nedenfor for å velge filen(e) og importere fra.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -3550,7 +3550,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird var ikke i stand til å sende meldingen. Vennligst sjekk din &apos;Fra&apos;-identitets utgående serverinnstillinger.</value>
+    <value>Mailbird var ikke i stand til å sende meldingen. Vennligst sjekk din 'Fra'-identitets utgående serverinnstillinger.</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
@@ -3802,7 +3802,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>&quot;{0}&quot; (legg til mappe)</value>
+    <value>"{0}" (legg til mappe)</value>
     <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
@@ -3928,7 +3928,7 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Når du legger til flere kontoer i Mailbird, blir en ny &quot;enhetlig&quot; konto vist på toppen av kontolisten i navigasjonspanelet. Denne inneholder alle meldinger fra alle dine kontoer på ett sted, og du kan samhandle med dem som du normalt ville gjort til vanlig.
+    <value>Når du legger til flere kontoer i Mailbird, blir en ny "enhetlig" konto vist på toppen av kontolisten i navigasjonspanelet. Denne inneholder alle meldinger fra alle dine kontoer på ett sted, og du kan samhandle med dem som du normalt ville gjort til vanlig.
 Du kan deaktivere den enhetlige kontoen fra Alternativer, eller redigére hver av kontoene du vil inkludere i den.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
@@ -4123,7 +4123,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>Det er ikke mulig å legge til filen &apos;{0}&apos; som vedlegg fordi du ikke har tilgang, vennligst sjekk din rettigheter og prøv igjen.</value>
+    <value>Det er ikke mulig å legge til filen '{0}' som vedlegg fordi du ikke har tilgang, vennligst sjekk din rettigheter og prøv igjen.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
@@ -4135,7 +4135,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Vennligst sørg for at &apos;Tillat mindre sikre apper&apos; er aktivert i Gmail:
+    <value>Vennligst sørg for at 'Tillat mindre sikre apper' er aktivert i Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 Hvis det enda ikke fungerer, vennligst prøv denne koblingen for å feilsøke problemet: https://support.google.com/mail/accounts/answer/78754</value>
@@ -4210,7 +4210,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>Det er ikke mulig å legge til filen &apos;{0}&apos; som vedlegg. Vennligst sjekk at filen ikke er i bruk av et annet program og prøv igjen.</value>
+    <value>Det er ikke mulig å legge til filen '{0}' som vedlegg. Vennligst sjekk at filen ikke er i bruk av et annet program og prøv igjen.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4579,5 +4579,21 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
     <value>Denne kontoen kan ikke bli importert fordi den allerede er lagt til i Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
+  </data>
+<data name="Invite_SendAllExplanation" xml:space="preserve">
+    <value>Er du sikker på at du vil sende invitasjoner til alle dine kontakter?</value>
+    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+  </data>
+  <data name="Invite_SendAllTitle" xml:space="preserve">
+    <value>Send invitasjoner</value>
+    <comment>Send invitation</comment>
+  </data>
+  <data name="Invite_SendToAllContacts" xml:space="preserve">
+    <value>Invitér mine kontakter</value>
+    <comment>Invite my contacts</comment>
+  </data>
+  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
+    <value>Få ubegrenset Mailbird Pro helt gratis. Dine kontakter vil få en invitasjon til Mailbird.</value>
+    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
 </root>
