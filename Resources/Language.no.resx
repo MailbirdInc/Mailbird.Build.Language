@@ -302,7 +302,7 @@
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>til meg</value>
+    <value>til meg </value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -664,7 +664,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Account</comment>
   </data>
   <data name="Identity_SendFromSmtp" xml:space="preserve">
-    <value>SMTP Server</value>
+    <value>SMTP-tjener</value>
     <comment>SMTP Server</comment>
   </data>
   <data name="Identity_SendThrough" xml:space="preserve">
@@ -684,7 +684,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Port:</comment>
   </data>
   <data name="Identity_SmtpServer" xml:space="preserve">
-    <value>SMTP server:</value>
+    <value>SMTP-tjener:</value>
     <comment>SMTP server:</comment>
   </data>
   <data name="Identity_SmtpUsername" xml:space="preserve">
@@ -732,7 +732,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>Blindkopi:</value>
+    <value>Blindkopi: </value>
     <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
@@ -740,7 +740,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
-    <value>Kopi:</value>
+    <value>Kopi: </value>
     <comment>Cc:</comment>
   </data>
   <data name="Conversation_Cc1" xml:space="preserve">
@@ -836,7 +836,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter a password</comment>
   </data>
   <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
-    <value>Vennligst skriv inn et portnummer:</value>
+    <value>Vennligst skriv inn et portnummer</value>
     <comment>Please enter a port number</comment>
   </data>
   <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
@@ -1084,7 +1084,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
-    <value>Lim inn filen(e) som vedlegg.</value>
+    <value>Lim inn filen(e) som vedlegg</value>
     <comment>Paste file(s) as attachment</comment>
   </data>
   <data name="InboxZero_HighFive" xml:space="preserve">
@@ -1384,7 +1384,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Re:</comment>
   </data>
   <data name="Message_RemoteImagesNotDisplayed" xml:space="preserve">
-    <value>Eksterne bilder vises ikke</value>
+    <value>Eksterne bilder vises ikke.</value>
     <comment>Remote images are not displayed.</comment>
   </data>
   <data name="Message_Save" xml:space="preserve">
@@ -1408,7 +1408,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Sendt:</value>
+    <value>Sendt: </value>
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -1424,7 +1424,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Subject</comment>
   </data>
   <data name="Message_Subject1" xml:space="preserve">
-    <value>Emne:</value>
+    <value>Emne: </value>
     <comment>Subject:</comment>
   </data>
   <data name="Message_Wrote" xml:space="preserve">
@@ -1484,7 +1484,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Draft discarded</comment>
   </data>
   <data name="Notification_MailbirdWaiting" xml:space="preserve">
-    <value>Din Mailbird er her og venter på deg</value>
+    <value>Din Mailbird er her og venter på deg.</value>
     <comment>Your Mailbird is right here waiting for you.</comment>
   </data>
   <data name="Notification_Press" xml:space="preserve">
@@ -1872,7 +1872,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
-    <value>Slett utkast eller flytt samtalen til papirkurven.</value>
+    <value>Slett utkast eller flytt samtalen til papirkurven</value>
     <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
@@ -2212,7 +2212,7 @@ Vi vil aldri poste noe til Facebook.</value>
 We will never post anything to Facebook.</comment>
   </data>
   <data name="Welcome_IncomingServer" xml:space="preserve">
-    <value>Innkommende server</value>
+    <value>Innkommende tjener</value>
     <comment>Incoming server</comment>
   </data>
   <data name="Welcome_LearnMore" xml:space="preserve">
@@ -2220,7 +2220,7 @@ We will never post anything to Facebook.</comment>
     <comment>Learn more</comment>
   </data>
   <data name="Welcome_OutgoingServerLabel" xml:space="preserve">
-    <value>Utgående server</value>
+    <value>Utgående tjener</value>
     <comment>Outgoing server</comment>
   </data>
   <data name="Welcome_PortLabel" xml:space="preserve">
@@ -2240,7 +2240,7 @@ We will never post anything to Facebook.</comment>
     <comment>No firewall is blocking Mailbird.</comment>
   </data>
   <data name="Welcome_ServerConnCheck3" xml:space="preserve">
-    <value>Proxyinnstillingene er korrekte i Windows Egenskaper for Internett</value>
+    <value>Proxyinnstillingene er korrekte i Windows 'Egenskaper for Internett'.</value>
     <comment>Proxy settings are correct in Windows Internet Options.</comment>
   </data>
   <data name="Welcome_ServerConnFailed" xml:space="preserve">
@@ -2276,7 +2276,7 @@ We will never post anything to Facebook.</comment>
     <comment>skip</comment>
   </data>
   <data name="Welcome_SMTPServerLabel" xml:space="preserve">
-    <value>SMTP server:</value>
+    <value>SMTP-tjener:</value>
     <comment>SMTP server:</comment>
   </data>
   <data name="Welcome_Username" xml:space="preserve">
@@ -2309,7 +2309,7 @@ We will never post anything to Facebook.</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
     <value>Kunne ikke opprette bufferfil for vedlegg. Sannsynligvis er det et antivirusprogram som forhindrer dette.
-Bane: {0} </value>
+Bane: {0}</value>
     <comment>Could not create attachment cache file. Most likely anti-virus program prevented this.
 Path: {0}</comment>
   </data>
@@ -2710,7 +2710,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Default font:</comment>
   </data>
   <data name="Options_DefaultFontPreview" xml:space="preserve">
-    <value>Dette er din forhåndsvisning av tekst</value>
+    <value>Dette er din forhåndsvisning av tekst.</value>
     <comment>This is your text preview.</comment>
   </data>
   <data name="Dialog_Save" xml:space="preserve">
@@ -2870,7 +2870,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
-    <value>En mappe med samme navn finnes allerede i valgt lokasjon</value>
+    <value>En mappe med samme navn finnes allerede i valgt lokasjon.</value>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
@@ -3562,7 +3562,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Mailbird tips</comment>
   </data>
   <data name="Options_LimitingAccounts" xml:space="preserve">
-    <value>Ikke alle kontoer er blitt lastet inn pågrunn av at prøveversjonen er utgått. Vennligst oppgrader til Pro og start Mailbird på nytt for å laste inn alle kontoer.</value>
+    <value>Ikke alle kontoer er blitt lastet inn pågrunn av at prøveversjonen er utgått. Vennligst oppgrader til Pro og start Mailbird på nytt for å laste inn alle kontoer</value>
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
@@ -4146,7 +4146,7 @@ If the issue persists, please follow this for further troubleshooting:
 https://support.google.com/mail/accounts/answer/78754</comment>
   </data>
   <data name="Notification_AuthenticationErrorHeader" xml:space="preserve">
-    <value>Server-autentisering mislyktes</value>
+    <value>Tjener-autentisering mislyktes</value>
     <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
@@ -4361,7 +4361,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importerer [bold]{0}[bold]. Vennligst angi ditt passord og annen informasjon som mangler nedenfor.
+    <value>Importerer [bold]{0}[/bold]. Vennligst angi ditt passord og annen informasjon som mangler nedenfor.
 Konto {1} av {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
@@ -4428,7 +4428,7 @@ Are you sure you want to continue?</comment>
     <comment>No file selected</comment>
   </data>
   <data name="Dialog_PstLocationNotValidExplanation" xml:space="preserve">
-    <value>Vennligst velg en fil eller mappe</value>
+    <value>Vennligst velg en fil eller mappe.</value>
     <comment>Please select a file or folder.</comment>
   </data>
   <data name="Import_Browse" xml:space="preserve">
@@ -4544,7 +4544,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Back</comment>
   </data>
   <data name="Welcome_ImportSettingsFoundSubTitle" xml:space="preserve">
-    <value>Importerer [bold]{0}[bold]. Konto {1} av {2}.</value>
+    <value>Importerer [bold]{0}[/bold]. Konto {1} av {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Account 1 of 4.</comment>
   </data>
@@ -4569,7 +4569,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Tidsmeldingene vil være forsinket ved sending, slik at du har alternativ til å angre</value>
+    <value>Tidsmeldingene vil bli forsinket ved sending, slik at du har alternativ til å angre.</value>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
