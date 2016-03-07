@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>&apos;{0}&apos; fájl nem menthető, mert használatban van.</value>
+    <value>'{0}' fájl nem menthető, mert használatban van.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -554,8 +554,8 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Az üzenetben a &quot;{0}&quot; sz szerepel, ezért úgy gondoltuk, hogy szeretne egy mellékletet csatolni.
-Ha melléklet nélkül szeretné küldeni az emailt, kattintson az &quot;OK&quot; gombra.</value>
+    <value>Az üzenetben a "{0}" sz szerepel, ezért úgy gondoltuk, hogy szeretne egy mellékletet csatolni.
+Ha melléklet nélkül szeretné küldeni az emailt, kattintson az "OK" gombra.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -1932,7 +1932,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Megjeleníti a &quot;További műveleteket&quot; a legördülő menüben.</value>
+    <value>Megjeleníti a "További műveleteket" a legördülő menüben.</value>
     <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
@@ -1960,7 +1960,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Mozgatja a kurzort a következő üzenetre. Akkor nyomja az &lt;Enter&gt; kibontásához vagy egy üzenetet. (Csak a &quot;Beszélgetési nézetben.&quot; alkalmazható)</value>
+    <value>Mozgatja a kurzort a következő üzenetre. Akkor nyomja az &lt;Enter&gt; kibontásához vagy egy üzenetet. (Csak a "Beszélgetési nézetben." alkalmazható)</value>
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
@@ -1972,7 +1972,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Megnyitja a beszélgetést. Ugyanakkor kibővíti vagy összeomlik egy üzenetet, ha &quot;Beszélgetési nézetben.&quot;</value>
+    <value>Megnyitja a beszélgetést. Ugyanakkor kibővíti vagy összeomlik egy üzenetet, ha "Beszélgetési nézetben."</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -1992,7 +1992,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Mozgatja a kurzort az előző üzenetre. Akkor nyomja az &lt;Enter&gt; kibontásához vagy egy üzenetet. (Csak akkor alkalmazandó, &quot;Beszélgetési nézetben.&quot;)</value>
+    <value>Mozgatja a kurzort az előző üzenetre. Akkor nyomja az &lt;Enter&gt; kibontásához vagy egy üzenetet. (Csak akkor alkalmazandó, "Beszélgetési nézetben.")</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2020,7 +2020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
-    <value>Megjelöli az üzenetet &quot;olvasottnak&quot;, és ugorjon a következő üzenetre.</value>
+    <value>Megjelöli az üzenetet "olvasottnak", és ugorjon a következő üzenetre.</value>
     <comment>Marks your message as 'read' and skip to the next message.</comment>
   </data>
   <data name="Shortcut_Refresh" xml:space="preserve">
@@ -2128,11 +2128,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Undo</comment>
   </data>
   <data name="Shortcut_UndoExplanation" xml:space="preserve">
-    <value>Visszavonja az előző műveletet, ha lehetséges (műveletek esetében működik a &quot;visszavonás&quot; link).</value>
+    <value>Visszavonja az előző műveletet, ha lehetséges (műveletek esetében működik a "visszavonás" link).</value>
     <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
-    <value>Megjelöli az üzenetet &quot;olvasatlannak&quot; így visszatérhet később.</value>
+    <value>Megjelöli az üzenetet "olvasatlannak" így visszatérhet később.</value>
     <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
@@ -2536,9 +2536,9 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird azt észlelte, hogy az SSL tanúsítvány a kiszolgáló: &apos;{0}&apos;, nem valós.
+    <value>Mailbird azt észlelte, hogy az SSL tanúsítvány a kiszolgáló: '{0}', nem valós.
 
-Kérjük, kattintson a &quot;Tovább&quot; gombra a további információkért mielőtt tovább lép.
+Kérjük, kattintson a "Tovább" gombra a további információkért mielőtt tovább lép.
 
 Szeretné hogy figyelmen kívül hagyja a hibát véglegesen, erre a szerverre?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2858,7 +2858,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>Hiba szinkronizáló &apos;{0}&apos; mappát változások</value>
+    <value>Hiba szinkronizáló '{0}' mappát változások</value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -2866,7 +2866,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Biztosan el akarod távolítani &quot;{0}&quot;?</value>
+    <value>Biztosan el akarod távolítani "{0}"?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
@@ -2874,7 +2874,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>A kiszolgáló nem engedélyezi a &apos;{0}&apos; karaktert a mappanevekben.</value>
+    <value>A kiszolgáló nem engedélyezi a '{0}' karaktert a mappanevekben.</value>
     <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -3094,7 +3094,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>Megjelöli az üzenetet &apos;olvasottnak&apos;</value>
+    <value>Megjelöli az üzenetet 'olvasottnak'</value>
     <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
@@ -3160,7 +3160,7 @@ Itt van egy pár link, hogy segítsen téged vCard fájlokat a különböző szo
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>Kattintson a &quot;Tallózás&quot; alatt, hogy válassza ki a fájl (-okat) importáláshoz.</value>
+    <value>Kattintson a "Tallózás" alatt, hogy válassza ki a fájl (-okat) importáláshoz.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -3550,7 +3550,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird nem tudta elküldeni az üzenetet. Kérjük, ellenőrizze a &apos;From&apos; identitás kimenő szerver beállításokat.</value>
+    <value>Mailbird nem tudta elküldeni az üzenetet. Kérjük, ellenőrizze a 'From' identitás kimenő szerver beállításokat.</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
@@ -3802,7 +3802,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>&quot;{0}&quot; (mappát hozzáad)</value>
+    <value>"{0}" (mappát hozzáad)</value>
     <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
@@ -3928,7 +3928,7 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Több Mailbird fiók esetén, egy új &quot;egységes&quot; számla tetején látható a számla lista a navigációs sorban. Ez tartalmazza az összes üzenetet a rendszer mappák minden számla egy helyen, és kölcsönhatásba léphet velük, amikor az normális.
+    <value>Több Mailbird fiók esetén, egy új "egységes" számla tetején látható a számla lista a navigációs sorban. Ez tartalmazza az összes üzenetet a rendszer mappák minden számla egy helyen, és kölcsönhatásba léphet velük, amikor az normális.
 
 Ön kikapcsolhatja az egységes számlára a lehetőségek közül, vagy szerkeszteni egyes fiókjai, hogy melyik kell tartalmaznia.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
@@ -4124,7 +4124,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>Nem lehet hozzáadni a fájlt &apos;{0}&apos; csatolmányként, mert nem jogosult hozzáférni, kérjük, ellenőrizze a felhasználói jogokat, és próbálja újra.</value>
+    <value>Nem lehet hozzáadni a fájlt '{0}' csatolmányként, mert nem jogosult hozzáférni, kérjük, ellenőrizze a felhasználói jogokat, és próbálja újra.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
@@ -4136,7 +4136,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Kérjük, hogy &quot;lehetővé teszi kevésbé biztonságos apps&quot; engedélyezve van a Gmailben:
+    <value>Kérjük, hogy "lehetővé teszi kevésbé biztonságos apps" engedélyezve van a Gmailben:
 https://mailbird.zendesk.com/entries/53544244
 
 Ha a probléma továbbra is fennáll, kérjük, kövesse ezt a további hibaelhárítási:
@@ -4212,7 +4212,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>Nem lehet hozzáadni ezt a fájlt &apos;{0}&apos; mellékletként. Kérjük, ellenőrizze, hogy a fájlt nem használja-e egy másik program, és próbálkozzon újra.</value>
+    <value>Nem lehet hozzáadni ezt a fájlt '{0}' mellékletként. Kérjük, ellenőrizze, hogy a fájlt nem használja-e egy másik program, és próbálkozzon újra.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4580,5 +4580,21 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
     <value>Ezt a fiókot nem lehet importálni, mert már hozzá van adva a Mailbirdhöz</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
+  </data>
+<data name="Invite_SendAllExplanation" xml:space="preserve">
+    <value>Biztosan el szeretné küldeni a meghívót az összes ismerősnek?</value>
+    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+  </data>
+  <data name="Invite_SendAllTitle" xml:space="preserve">
+    <value>Meghívó küldése</value>
+    <comment>Send invitation</comment>
+  </data>
+  <data name="Invite_SendToAllContacts" xml:space="preserve">
+    <value>Ismerőseim meghívása</value>
+    <comment>Invite my contacts</comment>
+  </data>
+  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
+    <value>Nyerj korlátlan Mailbird Pro verziót ingyen. Az ismerősedid mind meghívót fognak kapni Mailbird levelezőhöz.</value>
+    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
 </root>
