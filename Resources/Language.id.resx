@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Berkas &apos;{0}&apos; tidak bisa di simpan karena sedang digunakan.</value>
+    <value>Berkas '{0}' tidak bisa di simpan karena sedang digunakan.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -416,7 +416,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>Tidak bisa menemukan &apos;{0}&apos;. Pastikan berkas sudah berada di lokasi yang benar.</value>
+    <value>Tidak bisa menemukan '{0}'. Pastikan berkas sudah berada di lokasi yang benar.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
@@ -464,7 +464,7 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Apakah Anda yakin hendak menghapus identitas &apos;{0}&apos;?
+    <value>Apakah Anda yakin hendak menghapus identitas '{0}'?
 Proses ini tidak bisa dibatalkan.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
@@ -554,8 +554,8 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Anda menulis &quot;{0}&quot;, apakah Anda berniat mengirim surel dengan lampiran?
-Jika Anda hendak mengirim surel tanpa lampiran, silakan melanjutkan dengan menekan tombol &quot;Oke&quot; di bawah ini.</value>
+    <value>Anda menulis "{0}", apakah Anda berniat mengirim surel dengan lampiran?
+Jika Anda hendak mengirim surel tanpa lampiran, silakan melanjutkan dengan menekan tombol "Oke" di bawah ini.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -1608,7 +1608,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>Tampilkan indikator &quot;surel penting&quot;;</value>
+    <value>Tampilkan indikator "surel penting";</value>
     <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
@@ -1932,7 +1932,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Menampilkan menu turun &quot;Aksi Tambahan&quot;.</value>
+    <value>Menampilkan menu turun "Aksi Tambahan".</value>
     <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
@@ -1960,7 +1960,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Memindahkan kursor Anda ke pesan selanjutnya. Anda bisa menekan &lt;Enter&gt; untuk memperbesar atau meperkecil pesan yang sedang dipilih. (Hanya berfungsi pada &quot;Tilik Percakapan&quot;)</value>
+    <value>Memindahkan kursor Anda ke pesan selanjutnya. Anda bisa menekan &lt;Enter&gt; untuk memperbesar atau meperkecil pesan yang sedang dipilih. (Hanya berfungsi pada "Tilik Percakapan")</value>
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
@@ -1972,7 +1972,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Membuka percakapan. Juga berfungsi untuk meperbesar atau memperkecil percakapan jika sedang dalam &apos;Tilik Percakapan&apos;.</value>
+    <value>Membuka percakapan. Juga berfungsi untuk meperbesar atau memperkecil percakapan jika sedang dalam 'Tilik Percakapan'.</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -1992,7 +1992,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Memindahkan kursor Anda ke pesan sebelumnya. Anda bisa menekan &lt;Enter&gt; untuk memperbesar atau meperkecil pesan yang sedang dipilih. (Hanya berfungsi di &quot;Tilik Percakapan&quot;)</value>
+    <value>Memindahkan kursor Anda ke pesan sebelumnya. Anda bisa menekan &lt;Enter&gt; untuk memperbesar atau meperkecil pesan yang sedang dipilih. (Hanya berfungsi di "Tilik Percakapan")</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2020,7 +2020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
-    <value>Menandai bahwa pesan &apos;sudah dibaca&apos; dan melewatkan ke pesan selanjutnya.</value>
+    <value>Menandai bahwa pesan 'sudah dibaca' dan melewatkan ke pesan selanjutnya.</value>
     <comment>Marks your message as 'read' and skip to the next message.</comment>
   </data>
   <data name="Shortcut_Refresh" xml:space="preserve">
@@ -2128,11 +2128,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Undo</comment>
   </data>
   <data name="Shortcut_UndoExplanation" xml:space="preserve">
-    <value>Membatalkan aksi Anda sebelumnya, jika memungkinkan (hanya berfungsi untuk aksi yang memiliki tautan &apos;tak jadi&apos;)</value>
+    <value>Membatalkan aksi Anda sebelumnya, jika memungkinkan (hanya berfungsi untuk aksi yang memiliki tautan 'tak jadi')</value>
     <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
-    <value>Menandai bahwa surel &apos;belum terbaca&apos;, agar Anda dapat membacanya kelak.</value>
+    <value>Menandai bahwa surel 'belum terbaca', agar Anda dapat membacanya kelak.</value>
     <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
@@ -2536,9 +2536,9 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird telah mendeteksi bahwa sertifikat SSL dari server: &apos;{0}&apos;, tidak sahih.
+    <value>Mailbird telah mendeteksi bahwa sertifikat SSL dari server: '{0}', tidak sahih.
 
-Mohon tekan tombol &quot;baca selengkapnya&quot; di bawah ini sebelum melanjutkan.
+Mohon tekan tombol "baca selengkapnya" di bawah ini sebelum melanjutkan.
 
 Apakah Anda ingin mengabaikan galat terhadap server ini secara permanen?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2548,7 +2548,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it&apos;s time to invite others to unlock your Mailbird Pro rewards.
+    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
@@ -2858,7 +2858,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>Gagal menyelaraskan &apos;{0}&apos; perubahan direktori</value>
+    <value>Gagal menyelaraskan '{0}' perubahan direktori</value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -2866,7 +2866,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Apakah Anda yakin hendak menghapus &quot;{0}&quot;?</value>
+    <value>Apakah Anda yakin hendak menghapus "{0}"?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
@@ -2874,7 +2874,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>Server tak memperbolehkan adanya karakter &apos;{0}&apos; di dalam nama direktorinya.</value>
+    <value>Server tak memperbolehkan adanya karakter '{0}' di dalam nama direktorinya.</value>
     <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -3094,7 +3094,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>Menandai pesan Anda sebagai &apos;terbaca&apos;</value>
+    <value>Menandai pesan Anda sebagai 'terbaca'</value>
     <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
@@ -3160,7 +3160,7 @@ Berikut ini beberapa tautan untuk membantu membuat Anda berkas vCard dari berbag
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>Klik &apos;Ramban&apos; di bawah ini untuk memilih berkas asal pengimporan.</value>
+    <value>Klik 'Ramban' di bawah ini untuk memilih berkas asal pengimporan.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -3550,7 +3550,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird tak berhasil mengirimkan pesan. Silakan periksa penataan server keluar identitas &apos;Dari&apos; Anda</value>
+    <value>Mailbird tak berhasil mengirimkan pesan. Silakan periksa penataan server keluar identitas 'Dari' Anda</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
@@ -3802,7 +3802,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>&quot;{0}&quot; (tambah direktori)</value>
+    <value>"{0}" (tambah direktori)</value>
     <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
@@ -3929,7 +3929,7 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Pada waktu Anda menambahkan multiakun, sebuah akun &quot;gabungan&quot; baru akan tampil di puncak senarai akun pada batang navigasi, yang memuat semua pesan dari direktori sistem seluruh akun di satu tempat, dan Anda dapat berinteraksi dengannya seperti biasa.
+    <value>Pada waktu Anda menambahkan multiakun, sebuah akun "gabungan" baru akan tampil di puncak senarai akun pada batang navigasi, yang memuat semua pesan dari direktori sistem seluruh akun di satu tempat, dan Anda dapat berinteraksi dengannya seperti biasa.
 
 Anda dapat melumpuhkan akun gabungan melalui opsi, atau mengedit tiap-tiap akun untuk menentukan akun mana yang mesti disertakan di dalamnya.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
@@ -4125,7 +4125,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>Tak memungkinkan untuk menambahkan berkas &apos;{0}&apos; sebagai lampiran karena Anda tak berwenang untuk mengaksesnya, silakan periksa hak pengguna Anda lalu coba lagi.</value>
+    <value>Tak memungkinkan untuk menambahkan berkas '{0}' sebagai lampiran karena Anda tak berwenang untuk mengaksesnya, silakan periksa hak pengguna Anda lalu coba lagi.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
@@ -4137,7 +4137,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Please ensure that &apos;allow less secure apps&apos; is enabled in Gmail:
+    <value>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 If the issue persists, please follow this for further troubleshooting:
@@ -4215,7 +4215,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>Berkas &apos;{0}&apos; tak bisa ditambahkan sebagai lampiran. Silakan periksa apakah berkas tidak sedang digunakan oleh program lain lalu coba lagi.</value>
+    <value>Berkas '{0}' tak bisa ditambahkan sebagai lampiran. Silakan periksa apakah berkas tidak sedang digunakan oleh program lain lalu coba lagi.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4223,7 +4223,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>No contacts found</comment>
   </data>
   <data name="Welcome_InviteDescription" xml:space="preserve">
-    <value>For every friend who installs Mailbird on their computer, we&apos;ll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
+    <value>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
     <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
@@ -4374,7 +4374,7 @@ Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
     <value>Select the accounts you want to import to Mailbird.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4407,7 +4407,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird will restart and remove account(s) that you&apos;ve already added. 
+    <value>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
@@ -4452,7 +4452,7 @@ Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
     <value>Select the account or PST file to import from.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4582,7 +4582,23 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>This account cannot be imported because it&apos;s already added to Mailbird</value>
+    <value>This account cannot be imported because it's already added to Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
+  </data>
+<data name="Invite_SendAllExplanation" xml:space="preserve">
+    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+  </data>
+  <data name="Invite_SendAllTitle" xml:space="preserve">
+    <value>Send invitation</value>
+    <comment>Send invitation</comment>
+  </data>
+  <data name="Invite_SendToAllContacts" xml:space="preserve">
+    <value>Invite my contacts</value>
+    <comment>Invite my contacts</comment>
+  </data>
+  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
+    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
+    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
 </root>

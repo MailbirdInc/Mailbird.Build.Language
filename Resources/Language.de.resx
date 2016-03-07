@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Die Datei &apos;{0}&apos; konnte nicht gespeichert werden, weil sie von einer anderen Anwendung verwendet wird.</value>
+    <value>Die Datei '{0}' konnte nicht gespeichert werden, weil sie von einer anderen Anwendung verwendet wird.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -2547,7 +2547,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it&apos;s time to invite others to unlock your Mailbird Pro rewards.
+    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
@@ -2865,7 +2865,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Möchten Sie &quot;{0}&quot; wirklich löschen?</value>
+    <value>Möchten Sie "{0}" wirklich löschen?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
@@ -3801,7 +3801,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>&quot;{0}&quot; (Ordner hinzufügen)</value>
+    <value>"{0}" (Ordner hinzufügen)</value>
     <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
@@ -4103,7 +4103,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Install Calify</comment>
   </data>
   <data name="Dialog_CalifyExplanation" xml:space="preserve">
-    <value>We notice you don&apos;t have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</value>
+    <value>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</value>
     <comment>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</comment>
   </data>
   <data name="App_Wunderlist_Description" xml:space="preserve">
@@ -4123,7 +4123,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>It is not possible to add the file &apos;{0}&apos; as attachment because you are not authorized to access it, please check your user rights and try again.</value>
+    <value>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
@@ -4135,7 +4135,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Please ensure that &apos;allow less secure apps&apos; is enabled in Gmail:
+    <value>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 If the issue persists, please follow this for further troubleshooting:
@@ -4185,7 +4185,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
     <value>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
-If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don&apos;t delete the storage directory when asked by the uninstaller.</value>
+If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -4211,7 +4211,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>It is not possible to add the file &apos;{0}&apos; as attachment. Please check that the file is not being used in another program and try again.</value>
+    <value>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4219,7 +4219,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>No contacts found</comment>
   </data>
   <data name="Welcome_InviteDescription" xml:space="preserve">
-    <value>For every friend who installs Mailbird on their computer, we&apos;ll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
+    <value>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
     <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
@@ -4370,7 +4370,7 @@ Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
     <value>Select the accounts you want to import to Mailbird.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4403,7 +4403,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird will restart and remove account(s) that you&apos;ve already added. 
+    <value>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
@@ -4448,7 +4448,7 @@ Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
     <value>Select the account or PST file to import from.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4578,7 +4578,23 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>This account cannot be imported because it&apos;s already added to Mailbird</value>
+    <value>This account cannot be imported because it's already added to Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
+  </data>
+<data name="Invite_SendAllExplanation" xml:space="preserve">
+    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+  </data>
+  <data name="Invite_SendAllTitle" xml:space="preserve">
+    <value>Send invitation</value>
+    <comment>Send invitation</comment>
+  </data>
+  <data name="Invite_SendToAllContacts" xml:space="preserve">
+    <value>Invite my contacts</value>
+    <comment>Invite my contacts</comment>
+  </data>
+  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
+    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
+    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
 </root>

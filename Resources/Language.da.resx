@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Filen &apos;{0}&apos; kunne ikke gemmes. Filen er allerede i brug.</value>
+    <value>Filen '{0}' kunne ikke gemmes. Filen er allerede i brug.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -416,7 +416,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>Kan ikke finde &apos;{0}&apos;. Undersøg venligst om filen er på den korrekte placering.</value>
+    <value>Kan ikke finde '{0}'. Undersøg venligst om filen er på den korrekte placering.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
@@ -440,7 +440,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Kan ikke åbne URL&apos;en. Verificer venligst at din standard browser er korrekt installeret og prøv evt. at gen-installere f.eks. Google Chrome eller Internet Explorer.</value>
+    <value>Kan ikke åbne URL'en. Verificer venligst at din standard browser er korrekt installeret og prøv evt. at gen-installere f.eks. Google Chrome eller Internet Explorer.</value>
     <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
@@ -462,7 +462,7 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Er du sikker på du vil fjerne identiteten for &apos;{0}&apos;?\nDette kan ikke fortrydes.</value>
+    <value>Er du sikker på du vil fjerne identiteten for '{0}'?\nDette kan ikke fortrydes.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
   </data>
@@ -551,8 +551,8 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Du skrev &quot;{0}&quot;, så vi tænkte at du nok ville vedhæfte en fil.
-Hvis du ønsker at sende meddelelsen uden at vedhæfte filer, skal du bare trykke &quot;Ok&quot; herunder.</value>
+    <value>Du skrev "{0}", så vi tænkte at du nok ville vedhæfte en fil.
+Hvis du ønsker at sende meddelelsen uden at vedhæfte filer, skal du bare trykke "Ok" herunder.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -1217,7 +1217,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Text to display:</comment>
   </data>
   <data name="LinkEditor_UrlExplanation" xml:space="preserve">
-    <value>Dette link vil gå til URL&apos;en ovenfor</value>
+    <value>Dette link vil gå til URL'en ovenfor</value>
     <comment>This link will go to URL above</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
@@ -1605,7 +1605,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>Vis &quot;vigtig mail&quot; indikator</value>
+    <value>Vis "vigtig mail" indikator</value>
     <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
@@ -1929,7 +1929,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Vis &apos;Flere handlinger&apos; menuen.</value>
+    <value>Vis 'Flere handlinger' menuen.</value>
     <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
@@ -1957,7 +1957,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Flytter din markør til den næste besked. Du kan trykke &lt;Enter&gt; for at vise eller skjule en besked. (Kun muligt i &apos;samtale visning&apos;)</value>
+    <value>Flytter din markør til den næste besked. Du kan trykke &lt;Enter&gt; for at vise eller skjule en besked. (Kun muligt i 'samtale visning')</value>
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
@@ -1969,7 +1969,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Åbner din samtale. Viser eller skjuler en besked, hvis du er i &apos;samtale visning&apos;.</value>
+    <value>Åbner din samtale. Viser eller skjuler en besked, hvis du er i 'samtale visning'.</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -1989,7 +1989,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Flytter markøren til den forrige besked. Du kan trykke &lt;Enter&gt; for at vise eller skjule en besked. (Kun muligt i &apos;samtale visning&apos;)</value>
+    <value>Flytter markøren til den forrige besked. Du kan trykke &lt;Enter&gt; for at vise eller skjule en besked. (Kun muligt i 'samtale visning')</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2017,7 +2017,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
-    <value>Marker din besked som &apos;læst&apos; og gå til den næste besked.</value>
+    <value>Marker din besked som 'læst' og gå til den næste besked.</value>
     <comment>Marks your message as 'read' and skip to the next message.</comment>
   </data>
   <data name="Shortcut_Refresh" xml:space="preserve">
@@ -2125,11 +2125,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Undo</comment>
   </data>
   <data name="Shortcut_UndoExplanation" xml:space="preserve">
-    <value>Fortryder din forrige handling, hvis muligt (virker kun for handlinger med et &apos;fortryd&apos; link).</value>
+    <value>Fortryder din forrige handling, hvis muligt (virker kun for handlinger med et 'fortryd' link).</value>
     <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
-    <value>Marker din besked som &apos;ulæst&apos; så du kan komme tilbage til den senere.</value>
+    <value>Marker din besked som 'ulæst' så du kan komme tilbage til den senere.</value>
     <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
@@ -2533,9 +2533,9 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird har opdaget at SSL certifikatet på serveren: &apos;{0}&apos; er ugyldigt.
+    <value>Mailbird har opdaget at SSL certifikatet på serveren: '{0}' er ugyldigt.
 
-Klik på &quot;læs mere&quot; knappen nedenfor for yderlige information inden du fortsætter.
+Klik på "læs mere" knappen nedenfor for yderlige information inden du fortsætter.
 
 Ønsker du at ignorere denne fejl permanent for denne server?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2807,7 +2807,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart</comment>
   </data>
   <data name="Upgrade_SpeedRead" xml:space="preserve">
-    <value>Læs mail hurtigere med &apos;Hurtig læs&apos; funktionen</value>
+    <value>Læs mail hurtigere med 'Hurtig læs' funktionen</value>
     <comment>Read email more quickly with the speed reader</comment>
   </data>
   <data name="Options_Minutes" xml:space="preserve">
@@ -2855,7 +2855,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>Fejl under synkronisering &apos;{0} mappe ændringer </value>
+    <value>Fejl under synkronisering '{0} mappe ændringer </value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -2863,7 +2863,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Er du sikker på du vil fjerne&quot;{0}&quot;?</value>
+    <value>Er du sikker på du vil fjerne"{0}"?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
@@ -2871,7 +2871,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>Serveren tillader ikke &apos;{0}&apos; tegn i mappe navne.</value>
+    <value>Serveren tillader ikke '{0}' tegn i mappe navne.</value>
     <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -3091,7 +3091,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>Markér din besked som &apos;læst&apos;</value>
+    <value>Markér din besked som 'læst'</value>
     <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
@@ -3155,7 +3155,7 @@ Her er et par links til forskellige tjenester som hjælper dig med at oprette vC
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>Klik på &apos;Gennemse&apos; herunder, for at vælge de(n) fil(er) der skal importeres fra.</value>
+    <value>Klik på 'Gennemse' herunder, for at vælge de(n) fil(er) der skal importeres fra.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -3545,7 +3545,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird var ikke i stand til at afsende meddelelsen. Kontrollér venligst indstillingerne under &apos;Fra&apos; identiteten (udgående server indstillinger).</value>
+    <value>Mailbird var ikke i stand til at afsende meddelelsen. Kontrollér venligst indstillingerne under 'Fra' identiteten (udgående server indstillinger).</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
@@ -3597,7 +3597,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>You just snoozed a message!</comment>
   </data>
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
-    <value>Vi flyttede meddelelsen til mappen &apos;Udsat&apos;, så den ikke længere er synlig. Den vil senere vende tilbage til din indbakke, sorteret øverst, så du let kan se den. Den vil forblive der indtil den er blevet læst.
+    <value>Vi flyttede meddelelsen til mappen 'Udsat', så den ikke længere er synlig. Den vil senere vende tilbage til din indbakke, sorteret øverst, så du let kan se den. Den vil forblive der indtil den er blevet læst.
 
 Bemærk at Mailbird programmet skal køre for at meddelelsen bliver flyttet tilbage. Hvis Mailbird ikke kører, vil meddelelsen først blive flyttet tilbage, næste gang du starter programmet.</value>
     <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
@@ -3777,7 +3777,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Markér dette, hvis du oplever mærkelige problemer med visning såsom bogstaver der bliver pixeleret eller skifter farve, og hvor opdatering af dit grafikkort&apos;s drivere ikke løser problemet.
+    <value>Markér dette, hvis du oplever mærkelige problemer med visning såsom bogstaver der bliver pixeleret eller skifter farve, og hvor opdatering af dit grafikkort's drivere ikke løser problemet.
 
 Bemærk ved aktivering af denne funktion, vil i de fleste tilfælde resultere i en dårligere brugerflade ydeevne og et højere CPU forbrug. I sjældne tilfælde med low-end grafikkort, kan det dog forbedre ydeevnen.</value>
     <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
@@ -3797,7 +3797,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>&apos;{0}&apos; (tilføj mappe)</value>
+    <value>'{0}' (tilføj mappe)</value>
     <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
@@ -3923,7 +3923,7 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Når du tilføjer flere konti til Mailbird, vises en ny &apos;Samlet&apos; konto øverst på listen i navigationsruden. Den samlede konto, indeholder alle dine meddelelser fra alle dine indbakker, på ét sted, og du kan her interagere med dem, lige som du normalt ville.
+    <value>Når du tilføjer flere konti til Mailbird, vises en ny 'Samlet' konto øverst på listen i navigationsruden. Den samlede konto, indeholder alle dine meddelelser fra alle dine indbakker, på ét sted, og du kan her interagere med dem, lige som du normalt ville.
 
 Du kan deaktivere den samlede konto i indstillingerne eller du kan redigere hver af dine konti, for derefter at beslutte hvilke konti der skal indgå og vises under den samlede konto.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
@@ -4119,11 +4119,11 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>Det er ikke muligt at tilføje filen &apos;{0}&apos; som en vedhæftet fil, da du ikke har tilladelse og adgang til den. Kontroller venligst dine brugerrettigheder og prøv så igen.</value>
+    <value>Det er ikke muligt at tilføje filen '{0}' som en vedhæftet fil, da du ikke har tilladelse og adgang til den. Kontroller venligst dine brugerrettigheder og prøv så igen.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>Den BEDSTE mail, kommunikation &amp; produktivitet&apos;s pakke lavet til Windows via @mailbird</value>
+    <value>Den BEDSTE mail, kommunikation &amp; produktivitet's pakke lavet til Windows via @mailbird</value>
     <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
@@ -4131,7 +4131,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Vær sikker på at &apos;tillad mindre sikre apps&apos; er aktiveret i Gmail:
+    <value>Vær sikker på at 'tillad mindre sikre apps' er aktiveret i Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 Hvis problemet fortsætter, så følg denne fejlsøgning:
@@ -4207,7 +4207,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>Det er ikke muligt at vedhæfte filen &apos;{0}&apos;. Tjek venligst om filen ikke allerede bliver brugt i et andet program og prøv så igen.</value>
+    <value>Det er ikke muligt at vedhæfte filen '{0}'. Tjek venligst om filen ikke allerede bliver brugt i et andet program og prøv så igen.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4576,5 +4576,21 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
     <value>Denne konto kan ikke importeres da den allerede er tilføjet til Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
+  </data>
+<data name="Invite_SendAllExplanation" xml:space="preserve">
+    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+  </data>
+  <data name="Invite_SendAllTitle" xml:space="preserve">
+    <value>Send invitation</value>
+    <comment>Send invitation</comment>
+  </data>
+  <data name="Invite_SendToAllContacts" xml:space="preserve">
+    <value>Invite my contacts</value>
+    <comment>Invite my contacts</comment>
+  </data>
+  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
+    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
+    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
 </root>

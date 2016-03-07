@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Файл &apos;{0}&apos; не может быть сохранен. Файл сейчас используется.</value>
+    <value>Файл '{0}' не может быть сохранен. Файл сейчас используется.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -416,7 +416,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>Невозможно найти &apos;{0}&apos;. Проверьте что файл находится в нужном месте.</value>
+    <value>Невозможно найти '{0}'. Проверьте что файл находится в нужном месте.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
@@ -462,7 +462,7 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Вы уверены что хотите удалить этот профиль для  &apos;{0}&apos;?\nЭто действие невозможно отменить.</value>
+    <value>Вы уверены что хотите удалить этот профиль для  '{0}'?\nЭто действие невозможно отменить.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
   </data>
@@ -551,8 +551,8 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Вы написали &quot;{0}&quot;, и нам кажется что вы хотели бы добавить файл.
-Если хотите отправить письмо без вложений, просто нажмите &quot;Ок&quot;.</value>
+    <value>Вы написали "{0}", и нам кажется что вы хотели бы добавить файл.
+Если хотите отправить письмо без вложений, просто нажмите "Ок".</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -1149,7 +1149,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Invalid license key</comment>
   </data>
   <data name="License_InvalidExplanation" xml:space="preserve">
-    <value>Укажите новый лицензионный ключ и нажмите &quot;Продолжить&quot; для обновления лицензии.</value>
+    <value>Укажите новый лицензионный ключ и нажмите "Продолжить" для обновления лицензии.</value>
     <comment>Please enter the new license key and press continue to update the license.</comment>
   </data>
   <data name="License_License" xml:space="preserve">
@@ -1605,7 +1605,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>Показывать индикатор &quot;Важное сообщение&quot;</value>
+    <value>Показывать индикатор "Важное сообщение"</value>
     <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
@@ -1657,7 +1657,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Compose even when Mailbird is closed.</comment>
   </data>
   <data name="Options_QuitOnClose" xml:space="preserve">
-    <value>Завершать программу при нажатии кнопки &quot;Закрыть&quot;</value>
+    <value>Завершать программу при нажатии кнопки "Закрыть"</value>
     <comment>Quit Mailbird on close</comment>
   </data>
   <data name="Options_RecordShortcut" xml:space="preserve">
@@ -1693,7 +1693,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Disable DirectWrite</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Показывать кнопку &quot;Отправить и архивировать&quot;</value>
+    <value>Показывать кнопку "Отправить и архивировать"</value>
     <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
@@ -1929,7 +1929,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Показывает выпадающее меню &apos;Еще действия&apos;.</value>
+    <value>Показывает выпадающее меню 'Еще действия'.</value>
     <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
@@ -1957,7 +1957,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Перемещает курсору к следующему сообщению. Вы можете нажимать &lt;Enter&gt; чтобы развернуть или свернуть сообщение. (Применяется только в режиме &apos;Цепочки сообщений&apos;)</value>
+    <value>Перемещает курсору к следующему сообщению. Вы можете нажимать &lt;Enter&gt; чтобы развернуть или свернуть сообщение. (Применяется только в режиме 'Цепочки сообщений')</value>
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
@@ -1969,7 +1969,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Открывает цепочку сообщений. Также разворачивает и сворачивает сообщения если вы находитесь в режиме  &apos;Цепочка сообщений&apos;.</value>
+    <value>Открывает цепочку сообщений. Также разворачивает и сворачивает сообщения если вы находитесь в режиме  'Цепочка сообщений'.</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -1989,7 +1989,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Перемещает курсор к следующему сообщению. Вы можете нажать &apos;Enter&apos; чтобы развернуть или свернуть сообщение. (Применимо только в режиме &apos;Показывать цепочки сообщений&apos;)</value>
+    <value>Перемещает курсор к следующему сообщению. Вы можете нажать 'Enter' чтобы развернуть или свернуть сообщение. (Применимо только в режиме 'Показывать цепочки сообщений')</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2125,7 +2125,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Undo</comment>
   </data>
   <data name="Shortcut_UndoExplanation" xml:space="preserve">
-    <value>Отменяет последнее действие, если это возможно (работает с действиями с ссылкой &apos;отменить&apos;).</value>
+    <value>Отменяет последнее действие, если это возможно (работает с действиями с ссылкой 'отменить').</value>
     <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
@@ -2418,7 +2418,7 @@ Path: {0}</comment>
     <comment>Pro only features</comment>
   </data>
   <data name="UpdateToPro_Subtitle" xml:space="preserve">
-    <value>Получить функцию &quot;Быстрый просмотр&quot; и другие привелегии</value>
+    <value>Получить функцию "Быстрый просмотр" и другие привелегии</value>
     <comment>Get Quick Preview and many other benefits</comment>
   </data>
   <data name="UpdateToPro_Title" xml:space="preserve">
@@ -2484,7 +2484,7 @@ Path: {0}</comment>
     <comment>Unmap</comment>
   </data>
   <data name="Shortcut_Backspace" xml:space="preserve">
-    <value>Кнопка &quot;Возврат&quot;</value>
+    <value>Кнопка "Возврат"</value>
     <comment>Backspace</comment>
   </data>
   <data name="Shortcut_Enter" xml:space="preserve">
@@ -2532,9 +2532,9 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>SSL сертификат сервера &apos;{0}&apos; недействителен.
+    <value>SSL сертификат сервера '{0}' недействителен.
 
-Нажмите кнопку &quot;Читать далее&quot; чтобы получить дополнительную информацию.
+Нажмите кнопку "Читать далее" чтобы получить дополнительную информацию.
 
 Желаете игнорировать ошибку этого сервера?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2544,7 +2544,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it&apos;s time to invite others to unlock your Mailbird Pro rewards.
+    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
@@ -2830,7 +2830,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Leave a copy of messages on the server</comment>
   </data>
   <data name="Welcome_Pop3LeaveMessagesInfo" xml:space="preserve">
-    <value>POP3 сервера по умолчанию хранят сообщения пока вы их не загрузите. Вы можете включить опцию &quot;Оставлять сообщения на сервере&quot;, но это может привести к быстрому заполнению вашего почтового ящика, и вы не будете иметь возможности получать важные сообщения пока не очистите копии писем на сервере.</value>
+    <value>POP3 сервера по умолчанию хранят сообщения пока вы их не загрузите. Вы можете включить опцию "Оставлять сообщения на сервере", но это может привести к быстрому заполнению вашего почтового ящика, и вы не будете иметь возможности получать важные сообщения пока не очистите копии писем на сервере.</value>
     <comment>POP3 servers by default store messages on the server only until you download them. You can choose to leave messages on the server, but note that doing so can cause your mailbox to become full very quickly, and so you might not receive important messages until you delete the server copies.</comment>
   </data>
   <data name="Welcome_Pop3RemoveAfter" xml:space="preserve">
@@ -2854,7 +2854,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>Ошибка синхронизации изменений для папки &apos;{0}&apos;</value>
+    <value>Ошибка синхронизации изменений для папки '{0}'</value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -2862,7 +2862,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Вы уверены что хотите удалить &quot;{0}&quot;?</value>
+    <value>Вы уверены что хотите удалить "{0}"?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
@@ -2870,7 +2870,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>Недопустимый символ &apos;{0}&apos;  в названии папки.</value>
+    <value>Недопустимый символ '{0}'  в названии папки.</value>
     <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -3090,7 +3090,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>Помечает сообщение как &apos;прочитанное&apos;</value>
+    <value>Помечает сообщение как 'прочитанное'</value>
     <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
@@ -3156,7 +3156,7 @@ Please check the identity setup and try again.</comment>
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>Нажмите кнопку &quot;Выбрать&quot; ниже чтобы выбрать файлы для импорта.</value>
+    <value>Нажмите кнопку "Выбрать" ниже чтобы выбрать файлы для импорта.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -3546,7 +3546,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird не может отправить сообщение. Пожалуйста, проверьте поле &apos;От&apos; настроек сервера исходящий сообщений текущего профиля.</value>
+    <value>Mailbird не может отправить сообщение. Пожалуйста, проверьте поле 'От' настроек сервера исходящий сообщений текущего профиля.</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
@@ -3798,7 +3798,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>&quot;{0}&quot; (добавить папку)</value>
+    <value>"{0}" (добавить папку)</value>
     <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
@@ -3924,7 +3924,7 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Если Вы используете несколько аккаунтов в Mailbird, новый &quot;объединенный&quot; аккаунт появляется наверху панели навигации. Он содержит сообщения всех папок всех ваших аккаунтов в одном месте, и вы можете использовать его как обычно делали это раньше.
+    <value>Если Вы используете несколько аккаунтов в Mailbird, новый "объединенный" аккаунт появляется наверху панели навигации. Он содержит сообщения всех папок всех ваших аккаунтов в одном месте, и вы можете использовать его как обычно делали это раньше.
 
 Вы можете отключить объединенный аккаунт в Настройках, или выбрать какие аккаунты включать в объединенный.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
@@ -4120,7 +4120,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>Невозможно прикрепить файл &apos;{0}&apos; к письму из-за ошибки доступа. Проверьте что у вас достаточно прав для доступа к файлу.</value>
+    <value>Невозможно прикрепить файл '{0}' к письму из-за ошибки доступа. Проверьте что у вас достаточно прав для доступа к файлу.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
@@ -4132,7 +4132,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Please ensure that &apos;allow less secure apps&apos; is enabled in Gmail:
+    <value>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 If the issue persists, please follow this for further troubleshooting:
@@ -4207,7 +4207,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>Невозможно прикрепить файл &apos;{0}&apos; к письму. Убедитесь что файл не открыт в другой программе и попробуйте снова.</value>
+    <value>Невозможно прикрепить файл '{0}' к письму. Убедитесь что файл не открыт в другой программе и попробуйте снова.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4215,7 +4215,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>No contacts found</comment>
   </data>
   <data name="Welcome_InviteDescription" xml:space="preserve">
-    <value>For every friend who installs Mailbird on their computer, we&apos;ll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
+    <value>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
     <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
@@ -4255,7 +4255,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Закрепить Mailbird в меню &quot;Пуск&quot;</value>
+    <value>Закрепить Mailbird в меню "Пуск"</value>
     <comment>Pin Mailbird to start menu</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
@@ -4366,7 +4366,7 @@ Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
     <value>Select the accounts you want to import to Mailbird.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4399,7 +4399,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird will restart and remove account(s) that you&apos;ve already added. 
+    <value>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
@@ -4444,7 +4444,7 @@ Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
     <value>Select the account or PST file to import from.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4574,7 +4574,23 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>This account cannot be imported because it&apos;s already added to Mailbird</value>
+    <value>This account cannot be imported because it's already added to Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
+  </data>
+<data name="Invite_SendAllExplanation" xml:space="preserve">
+    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+  </data>
+  <data name="Invite_SendAllTitle" xml:space="preserve">
+    <value>Send invitation</value>
+    <comment>Send invitation</comment>
+  </data>
+  <data name="Invite_SendToAllContacts" xml:space="preserve">
+    <value>Invite my contacts</value>
+    <comment>Invite my contacts</comment>
+  </data>
+  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
+    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
+    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
 </root>

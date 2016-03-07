@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -234,7 +234,7 @@
     <comment>Copy to...</comment>
   </data>
   <data name="Options_SettingsMoreInfo" xml:space="preserve">
-    <value>Mailbird DPI ayarını her değiştirdiğinizde bu ayarı otomatik olarak ayarlar. Fakat bu değeri kendiniz el ile değiştirmeniz halinde siz DPI ayarını tekrar değiştirene kadar Mailbird bunu saklar. Varsayılan değer %100&apos;dür.</value>
+    <value>Mailbird DPI ayarını her değiştirdiğinizde bu ayarı otomatik olarak ayarlar. Fakat bu değeri kendiniz el ile değiştirmeniz halinde siz DPI ayarını tekrar değiştirene kadar Mailbird bunu saklar. Varsayılan değer %100'dür.</value>
     <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
@@ -274,7 +274,7 @@
     <comment>Move to...</comment>
   </data>
   <data name="Conversation_MoveToInbox" xml:space="preserve">
-    <value>Gelen Kutusu&apos;na taşı</value>
+    <value>Gelen Kutusu'na taşı</value>
     <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>&apos;{0}&apos; adlı dosya kaydedilemedi. Dosya zaten kullanılıyor.</value>
+    <value>'{0}' adlı dosya kaydedilemedi. Dosya zaten kullanılıyor.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -416,7 +416,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>&apos;{0}&apos; bulunamad. Lütfen dosyanın doğru konumda olup olmadığını kontrol edin.</value>
+    <value>'{0}' bulunamad. Lütfen dosyanın doğru konumda olup olmadığını kontrol edin.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
@@ -454,7 +454,7 @@ Do you want to reconnect your Facebook?</comment>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
     <value>Tüm hesapları ve bağlı tüm kimlikleri silmek istediğinize emin misiniz?
 
-Bu eylem Mailbird&apos;ü yeniden başlatır ve birkaç dakika sürebilir.</value>
+Bu eylem Mailbird'ü yeniden başlatır ve birkaç dakika sürebilir.</value>
     <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
@@ -464,7 +464,7 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>&apos;{0}&apos; için olan kimliği kaldırmak istediğinize emin misiniz?
+    <value>'{0}' için olan kimliği kaldırmak istediğinize emin misiniz?
 Bu işlem geri alınamaz.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
@@ -475,7 +475,7 @@ This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
     <value>Üzgünüz, raporunuz gönderilemedi.
-Raporu {0} &apos;a direkt olarak göndermenizi rica ederiz.
+Raporu {0} 'a direkt olarak göndermenizi rica ederiz.
 Mesaj: </value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
@@ -510,7 +510,7 @@ Message:</comment>
     <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>25 MB&apos;tan daha büyük dosya ekleyemezsiniz.</value>
+    <value>25 MB'tan daha büyük dosya ekleyemezsiniz.</value>
     <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
@@ -554,8 +554,8 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>&quot;{0}&quot; yazdınız ve dosya eklemek istediğinizi düşünüyoruz.
-Epostanızı ek olmadan göndermek istiyorsanız, aşağıda bulunan Tamam&apos;a basın.</value>
+    <value>"{0}" yazdınız ve dosya eklemek istediğinizi düşünüyoruz.
+Epostanızı ek olmadan göndermek istiyorsanız, aşağıda bulunan Tamam'a basın.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -648,7 +648,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Use a different reply-to address</comment>
   </data>
   <data name="Identity_DifferentSignature" xml:space="preserve">
-    <value>{0} &apos;dan farklı bir imza kullanın</value>
+    <value>{0} 'dan farklı bir imza kullanın</value>
     <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
   </data>
   <data name="Identity_Edit" xml:space="preserve">
@@ -756,7 +756,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
-    <value>Mailbird&apos;i varsayılan e-posta istemciniz olarak kullanmak istiyor musunuz?</value>
+    <value>Mailbird'i varsayılan e-posta istemciniz olarak kullanmak istiyor musunuz?</value>
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
@@ -996,7 +996,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search Attachments</comment>
   </data>
   <data name="App_Calendar_Description" xml:space="preserve">
-    <value>Randevunuz mu var? Mailbird&apos;de ekleyin, takip edin ve onaylayın. Gmail kullanıcıları için mükemmel bir uygulama.</value>
+    <value>Randevunuz mu var? Mailbird'de ekleyin, takip edin ve onaylayın. Gmail kullanıcıları için mükemmel bir uygulama.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
@@ -1008,7 +1008,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Easily edit, manage and email your contacts and contact groups.</comment>
   </data>
   <data name="App_Contacts_FailedFacebook" xml:space="preserve">
-    <value>Kişinin bilgileri Facebook&apos;tan getirilemedi.</value>
+    <value>Kişinin bilgileri Facebook'tan getirilemedi.</value>
     <comment>Could not fetch information on contact from Facebook.</comment>
   </data>
   <data name="App_Contacts_LoadingFacebook" xml:space="preserve">
@@ -1036,23 +1036,23 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Contacts</comment>
   </data>
   <data name="App_DailySocial_Description" xml:space="preserve">
-    <value>Endonezya&apos;daki teknoloji  startup&apos;ları hakkındaki en son ve en iyi haberleri alın.</value>
+    <value>Endonezya'daki teknoloji  startup'ları hakkındaki en son ve en iyi haberleri alın.</value>
     <comment>Get the latest and greatest news on tech startups in Indonesia.</comment>
   </data>
   <data name="App_Dropbox_Description" xml:space="preserve">
-    <value>Mailbird&apos;ü terk etmeden tüm dosyalarınıza erişin, paylaşın ve organize edin.</value>
+    <value>Mailbird'ü terk etmeden tüm dosyalarınıza erişin, paylaşın ve organize edin.</value>
     <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Evernote_Description" xml:space="preserve">
-    <value>Mailbird&apos;ün içinde notlar oluturun, görüntüleyin ve düzenleyin! Basit ve üretken.</value>
+    <value>Mailbird'ün içinde notlar oluturun, görüntüleyin ve düzenleyin! Basit ve üretken.</value>
     <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
   </data>
   <data name="App_Facebook_Description" xml:space="preserve">
-    <value>Sosyal medyanın kralı olun. Facebook&apos;a bağlanıp arkadaşlarınızla Mailbird üzerinden sohbet edin.</value>
+    <value>Sosyal medyanın kralı olun. Facebook'a bağlanıp arkadaşlarınızla Mailbird üzerinden sohbet edin.</value>
     <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
   <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Mailbird&apos;ü dünyadaki en iyi eposta uygulaması yap.</value>
+    <value>Mailbird'ü dünyadaki en iyi eposta uygulaması yap.</value>
     <comment>Help make Mailbird the best email app in the world.</comment>
   </data>
   <data name="App_Feedback_Title" xml:space="preserve">
@@ -1064,7 +1064,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Quickly navigate to your important documents from Mailbird.</comment>
   </data>
   <data name="App_Lifehacker_Description" xml:space="preserve">
-    <value>Dijital çağ&apos;da daha iyi yaşamak için ipuçları, hileler ve teknoloji haberleri verir.</value>
+    <value>Dijital çağ'da daha iyi yaşamak için ipuçları, hileler ve teknoloji haberleri verir.</value>
     <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
   </data>
   <data name="App_RetroSift_Description" xml:space="preserve">
@@ -1084,7 +1084,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
-    <value>Dosya(lar)&apos;ı ek olarak yapıştır</value>
+    <value>Dosya(lar)'ı ek olarak yapıştır</value>
     <comment>Paste file(s) as attachment</comment>
   </data>
   <data name="InboxZero_HighFive" xml:space="preserve">
@@ -1192,7 +1192,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>From Computer</comment>
   </data>
   <data name="LinkEditor_FromUrl" xml:space="preserve">
-    <value>URL&apos;den</value>
+    <value>URL'den</value>
     <comment>From URL</comment>
   </data>
   <data name="LinkEditor_Large" xml:space="preserve">
@@ -1220,7 +1220,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Text to display:</comment>
   </data>
   <data name="LinkEditor_UrlExplanation" xml:space="preserve">
-    <value>Bu kısayol yukarıdaki URL&apos;yi açacaktır</value>
+    <value>Bu kısayol yukarıdaki URL'yi açacaktır</value>
     <comment>This link will go to URL above</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
@@ -1404,7 +1404,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send &amp; Archive</comment>
   </data>
   <data name="Message_SendEmailTo" xml:space="preserve">
-    <value>{0} &apos;a posta gönderin</value>
+    <value>{0} 'a posta gönderin</value>
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
@@ -1484,7 +1484,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Draft discarded</comment>
   </data>
   <data name="Notification_MailbirdWaiting" xml:space="preserve">
-    <value>Mailbird&apos;ünüz tam burada sizi beklemekte.</value>
+    <value>Mailbird'ünüz tam burada sizi beklemekte.</value>
     <comment>Your Mailbird is right here waiting for you.</comment>
   </data>
   <data name="Notification_Press" xml:space="preserve">
@@ -1576,7 +1576,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Go social. See profile pictures and contact information of your friends.</comment>
   </data>
   <data name="Options_FacebookExplanation1" xml:space="preserve">
-    <value>Facebook hesabınız artık bağlı. Fotoğraflar ve kişiler otomatik olarak Mailbird&apos;de güncelledi.</value>
+    <value>Facebook hesabınız artık bağlı. Fotoğraflar ve kişiler otomatik olarak Mailbird'de güncelledi.</value>
     <comment>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</comment>
   </data>
   <data name="Options_ZoomLevel" xml:space="preserve">
@@ -1608,7 +1608,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>&quot; Önemli Posta &quot; simgesini göster</value>
+    <value>" Önemli Posta " simgesini göster</value>
     <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
@@ -1660,7 +1660,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Compose even when Mailbird is closed.</comment>
   </data>
   <data name="Options_QuitOnClose" xml:space="preserve">
-    <value>Çıkışta Mailbird&apos;ü kapat</value>
+    <value>Çıkışta Mailbird'ü kapat</value>
     <comment>Quit Mailbird on close</comment>
   </data>
   <data name="Options_RecordShortcut" xml:space="preserve">
@@ -1692,7 +1692,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show animations</comment>
   </data>
   <data name="Options_DisableDirectWrite" xml:space="preserve">
-    <value>DirectWrite&apos;ı devre dışı bırak</value>
+    <value>DirectWrite'ı devre dışı bırak</value>
     <comment>Disable DirectWrite</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
@@ -1868,7 +1868,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
-    <value>Konuşmayı Çöp Kutusu&apos;na taşır.</value>
+    <value>Konuşmayı Çöp Kutusu'na taşır.</value>
     <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
@@ -1924,7 +1924,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
   </data>
   <data name="Shortcut_ImportantExplanation" xml:space="preserve">
-    <value>Yanlış kategorilendirilmiş mesajlarınızı işaretleyerek Gmail&apos;e sizin için neyin önemli olduğunu anlatır. (Öncelikli Gelen Kutusu için geçerlidir)</value>
+    <value>Yanlış kategorilendirilmiş mesajlarınızı işaretleyerek Gmail'e sizin için neyin önemli olduğunu anlatır. (Öncelikli Gelen Kutusu için geçerlidir)</value>
     <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_MoreAction" xml:space="preserve">
@@ -1932,7 +1932,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Displays the &apos;More Actions&apos; drop-down menu.</value>
+    <value>Displays the 'More Actions' drop-down menu.</value>
     <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
@@ -1960,11 +1960,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Fare imlecinizi  bir sonraki mesaja götürür. Mesajları genişletmek ya da küçültmek için &lt;Enter&gt; tuşuna basabilirsiniz. (Sadece &apos;Konuşma Görünümü&apos;nde geçerlidir.)</value>
+    <value>Fare imlecinizi  bir sonraki mesaja götürür. Mesajları genişletmek ya da küçültmek için &lt;Enter&gt; tuşuna basabilirsiniz. (Sadece 'Konuşma Görünümü'nde geçerlidir.)</value>
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
-    <value>Yanlış kategorilendirilmiş mesajlarınızı işaretleyerek Gmail&apos;e sizin için neyin önemli olmadığını anlatır. (Öncelikli Gelen Kutusu için geçerlidir)</value>
+    <value>Yanlış kategorilendirilmiş mesajlarınızı işaretleyerek Gmail'e sizin için neyin önemli olmadığını anlatır. (Öncelikli Gelen Kutusu için geçerlidir)</value>
     <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_Open" xml:space="preserve">
@@ -1972,7 +1972,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Konuşmayı açar. Konuşma Görünümü&apos;nde iseniz mesajı açıp kapatır.</value>
+    <value>Konuşmayı açar. Konuşma Görünümü'nde iseniz mesajı açıp kapatır.</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -1992,7 +1992,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Fare imlecinizi  bir önceki mesaja götürür. Mesajları genişletmek ya da küçültmek için &lt;Enter&gt; tuşuna basabilirsiniz. (Sadece &apos;Konuşma Görünümü&apos;nde geçerlidir.)</value>
+    <value>Fare imlecinizi  bir önceki mesaja götürür. Mesajları genişletmek ya da küçültmek için &lt;Enter&gt; tuşuna basabilirsiniz. (Sadece 'Konuşma Görünümü'nde geçerlidir.)</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2020,7 +2020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
-    <value>Mesajı &apos;okunmuş&apos; olarak işaretleyip bir sonraki mesaja geçer.</value>
+    <value>Mesajı 'okunmuş' olarak işaretleyip bir sonraki mesaja geçer.</value>
     <comment>Marks your message as 'read' and skip to the next message.</comment>
   </data>
   <data name="Shortcut_Refresh" xml:space="preserve">
@@ -2092,11 +2092,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Sends the current composed email in view.</comment>
   </data>
   <data name="Shortcut_ShowMailbird" xml:space="preserve">
-    <value>Mailbird&apos;ü göster</value>
+    <value>Mailbird'ü göster</value>
     <comment>Show Mailbird</comment>
   </data>
   <data name="Shortcut_ShowMailbirdExplanation" xml:space="preserve">
-    <value>Mailbird&apos;ü öne getir.</value>
+    <value>Mailbird'ü öne getir.</value>
     <comment>Bring Mailbird to foreground.</comment>
   </data>
   <data name="Shortcut_Star" xml:space="preserve">
@@ -2132,7 +2132,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
-    <value>Mesajı &apos;okunmadı&apos; olarak işaretler böylece o mesaja geri dönebilirsiniz.</value>
+    <value>Mesajı 'okunmadı' olarak işaretler böylece o mesaja geri dönebilirsiniz.</value>
     <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
@@ -2207,7 +2207,7 @@ https://support.google.com/accounts/answer/185833</comment>
   </data>
   <data name="Welcome_Facebook" xml:space="preserve">
     <value>Arkadaşlarınızın ve ailenizin profil fotoğraflarını görün.
-Facebook&apos;ta bil şey paylaşılmayacaktır.</value>
+Facebook'ta bil şey paylaşılmayacaktır.</value>
     <comment>See profile photos of your friends and family in Mailbird. 
 We will never post anything to Facebook.</comment>
   </data>
@@ -2240,7 +2240,7 @@ We will never post anything to Facebook.</comment>
     <comment>No firewall is blocking Mailbird.</comment>
   </data>
   <data name="Welcome_ServerConnCheck3" xml:space="preserve">
-    <value>Windows Internet Seçenekleri&apos;nde ağ geçidi ayarları doğru.</value>
+    <value>Windows Internet Seçenekleri'nde ağ geçidi ayarları doğru.</value>
     <comment>Proxy settings are correct in Windows Internet Options.</comment>
   </data>
   <data name="Welcome_ServerConnFailed" xml:space="preserve">
@@ -2426,7 +2426,7 @@ Path: {0}</comment>
     <comment>Get Quick Preview and many other benefits</comment>
   </data>
   <data name="UpdateToPro_Title" xml:space="preserve">
-    <value>Mailbird Pro&apos;ya yükselt</value>
+    <value>Mailbird Pro'ya yükselt</value>
     <comment>Upgrade to Mailbird Pro</comment>
   </data>
   <data name="UpdateToPro_UnlimitedAccounts" xml:space="preserve">
@@ -2462,7 +2462,7 @@ Path: {0}</comment>
     <comment>The identity containing the outgoing settings for this account</comment>
   </data>
   <data name="Contact_LinkedInLookup" xml:space="preserve">
-    <value>LinkedIn&apos;de ara</value>
+    <value>LinkedIn'de ara</value>
     <comment>Look up on LinkedIn</comment>
   </data>
   <data name="Dialog_Uninstall" xml:space="preserve">
@@ -2536,9 +2536,9 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird has detected that the SSL certificate of the server: &apos;{0}&apos;, is invalid.
+    <value>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
 
-Please click &quot;read more&quot; button below for further information before continuing.
+Please click "read more" button below for further information before continuing.
 
 Would you like to ignore the error permanently for this server?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2548,7 +2548,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it&apos;s time to invite others to unlock your Mailbird Pro rewards.
+    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
@@ -2590,7 +2590,7 @@ Message: {0}</comment>
     <comment>Please select at least one friend to invite.</comment>
   </data>
   <data name="Invite_Send" xml:space="preserve">
-    <value>Mailbird&apos;e davet et</value>
+    <value>Mailbird'e davet et</value>
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_Sent" xml:space="preserve">
@@ -2602,7 +2602,7 @@ Message: {0}</comment>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>Ömür boyu Mailbird Pro&apos;yu ücretsiz edinin</value>
+    <value>Ömür boyu Mailbird Pro'yu ücretsiz edinin</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -2626,7 +2626,7 @@ Message: {0}</comment>
     <comment>Network</comment>
   </data>
   <data name="Options_ProxyExplanation" xml:space="preserve">
-    <value>Mailbird is using your computer&apos;s system proxy settings to connect to the network.</value>
+    <value>Mailbird is using your computer's system proxy settings to connect to the network.</value>
     <comment>Mailbird is using your computer's system proxy settings to connect to the network.</comment>
   </data>
   <data name="Options_ProxyNeedAuthentication" xml:space="preserve">
@@ -2858,7 +2858,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>&apos;{0}&apos; klasör değişikliği eşitlenirken hata oluştu</value>
+    <value>'{0}' klasör değişikliği eşitlenirken hata oluştu</value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -2866,7 +2866,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove &quot;{0}&quot;?</value>
+    <value>Are you sure you want to remove "{0}"?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
@@ -2874,7 +2874,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>Sunucu klasör isimlerinde &apos;{0}&apos; karakterine izin vermiyor.</value>
+    <value>Sunucu klasör isimlerinde '{0}' karakterine izin vermiyor.</value>
     <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -3014,7 +3014,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>{0} will be replaced by the phone number, so the result will be "Call (Phone) +62000000"</comment>
   </data>
   <data name="App_Contacts_CallSkype" xml:space="preserve">
-    <value>Skype&apos;ı ara {0}</value>
+    <value>Skype'ı ara {0}</value>
     <comment>{0} will be replaced by the skype name, so the result will be "Call (Skype) skypename"</comment>
   </data>
   <data name="App_Contacts_SearchCompany" xml:space="preserve">
@@ -3094,7 +3094,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>Marks your message as &apos;read&apos;</value>
+    <value>Marks your message as 'read'</value>
     <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
@@ -3160,7 +3160,7 @@ Here are a couple of links to help produce vCard files from various services:</v
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>İçe aktarılacak dosya(lar)ı seçmek için &apos;Gözat&apos; tuşuna tıklayın.</value>
+    <value>İçe aktarılacak dosya(lar)ı seçmek için 'Gözat' tuşuna tıklayın.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -3432,7 +3432,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Select your preferred layout</comment>
   </data>
   <data name="Welcome_ThemeAndLayout" xml:space="preserve">
-    <value>Mailbird&apos;ü kişiselleştir</value>
+    <value>Mailbird'ü kişiselleştir</value>
     <comment>Customize Mailbird</comment>
   </data>
   <data name="Menu_Trial" xml:space="preserve">
@@ -3444,7 +3444,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Lisans sunucusuna bağlanılamıyor. Lütfen internet bağlantınızı kontrol edip devam edin. Lütfen Mailbird&apos;ün internet erişimi için güvenlik duvarı, antivirüs, vekil sunucu ayarlarınızı kapatın ya da ayarlayın.</value>
+    <value>Lisans sunucusuna bağlanılamıyor. Lütfen internet bağlantınızı kontrol edip devam edin. Lütfen Mailbird'ün internet erişimi için güvenlik duvarı, antivirüs, vekil sunucu ayarlarınızı kapatın ya da ayarlayın.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -3452,11 +3452,11 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>License key</comment>
   </data>
   <data name="Menu_Purchase" xml:space="preserve">
-    <value>Mailbird Pro&apos;ya geçin</value>
+    <value>Mailbird Pro'ya geçin</value>
     <comment>Upgrade to Mailbird Pro</comment>
   </data>
   <data name="Options_ActivatePro" xml:space="preserve">
-    <value>Mailbird Pro&apos;yu aktive edin</value>
+    <value>Mailbird Pro'yu aktive edin</value>
     <comment>Activate Mailbird Pro</comment>
   </data>
   <data name="Options_StatusLite" xml:space="preserve">
@@ -3464,11 +3464,11 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>Pro denemeniz için {0} gününüz kaldı. Deneme süresi bittikten sonra Mailbird Pro Mailbird Lite&apos;a dönecek.</value>
+    <value>Pro denemeniz için {0} gününüz kaldı. Deneme süresi bittikten sonra Mailbird Pro Mailbird Lite'a dönecek.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
-    <value>Hesabınız şimdi Mailbird Lite&apos;a (ücretsiz) dönüşecek ve Mailbird Pro özelliklerine erişemeyeceksiniz. Mailblrd Pro&apos;yu satın almaya kara verip, aşağı lisans anahtarınızı girerseniz, bütün özellikleri kullanmaya devam edebileceksiniz.</value>
+    <value>Hesabınız şimdi Mailbird Lite'a (ücretsiz) dönüşecek ve Mailbird Pro özelliklerine erişemeyeceksiniz. Mailblrd Pro'yu satın almaya kara verip, aşağı lisans anahtarınızı girerseniz, bütün özellikleri kullanmaya devam edebileceksiniz.</value>
     <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
   </data>
   <data name="Trial_EndTitle" xml:space="preserve">
@@ -3500,7 +3500,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Learn more</comment>
   </data>
   <data name="Trial_Purchase" xml:space="preserve">
-    <value>Mailbird Pro&apos;yu Satın Alın</value>
+    <value>Mailbird Pro'yu Satın Alın</value>
     <comment>Buy Mailbird Pro</comment>
   </data>
   <data name="Trial_StartText" xml:space="preserve">
@@ -3550,7 +3550,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird mesajı gönderemedi. Lütfen &apos;Kimden&apos; satırında yazan kimliğin giden sunucu ayarlarını kontrol edin.</value>
+    <value>Mailbird mesajı gönderemedi. Lütfen 'Kimden' satırında yazan kimliğin giden sunucu ayarlarını kontrol edin.</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
@@ -3582,7 +3582,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Profile photos</comment>
   </data>
   <data name="Welcome_GuideCompletedDescription" xml:space="preserve">
-    <value>Biz mesajlarınızı eşleştirirken siz Mailbird&apos;ü kullanamya başlayabilirsiniz. </value>
+    <value>Biz mesajlarınızı eşleştirirken siz Mailbird'ü kullanamya başlayabilirsiniz. </value>
     <comment>You can now start using Mailbird while we sync your messages in the background.</comment>
   </data>
   <data name="Welcome_GuideCompletedTitle" xml:space="preserve">
@@ -3602,9 +3602,9 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>You just snoozed a message!</comment>
   </data>
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
-    <value>We moved it to the snooze folder so it&apos;s out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it&apos;s been read.
+    <value>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
 
-Note that Mailbird must be running for the message to be moved back. If it&apos;s not, the message will be moved back the next time you start Mailbird.</value>
+Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</value>
     <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
 
 Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</comment>
@@ -3706,11 +3706,11 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Want to add more email accounts?</comment>
   </data>
   <data name="License_RestartToConvertLiteExplanation" xml:space="preserve">
-    <value>{0} hesaptan fazla hesap eklemiş olduğunuz için Mailbird yenide başlayacak ve hesaplarınızın sadece {0} tanesi yüklenecek. Diğer hesaplar gizlenecek ve sadece kullanılan bir hesabın kaldırılması ya da Pro&apos;ya yükseltme yapılarak erişilebilecektir.</value>
+    <value>{0} hesaptan fazla hesap eklemiş olduğunuz için Mailbird yenide başlayacak ve hesaplarınızın sadece {0} tanesi yüklenecek. Diğer hesaplar gizlenecek ve sadece kullanılan bir hesabın kaldırılması ya da Pro'ya yükseltme yapılarak erişilebilecektir.</value>
     <comment>Because you have more than {0} accounts added, Mailbird will now restart and load only {0} of your accounts. The other accounts will be hidden, and can be loaded by either removing a loaded account or upgrading to Pro.</comment>
   </data>
   <data name="License_RestartToConvertLiteTitle" xml:space="preserve">
-    <value>Mailbird Lite&apos;a çevir?</value>
+    <value>Mailbird Lite'a çevir?</value>
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Options_RestartToLoadAccountsExplanation" xml:space="preserve">
@@ -3738,7 +3738,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Compose window</comment>
   </data>
   <data name="SpellChecker_RestartAfterSpellCheckChanged" xml:space="preserve">
-    <value>The changes you&apos;ve made will be applied after you restart Mailbird.</value>
+    <value>The changes you've made will be applied after you restart Mailbird.</value>
     <comment>The changes you've made will be applied after you restart Mailbird.</comment>
   </data>
   <data name="Options_Apps" xml:space="preserve">
@@ -3770,7 +3770,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Blocked by Webroot SecureAnywhere. Please set Webroot Identity Protection to protect or allow Mailbird</comment>
   </data>
   <data name="Options_ImproveMailbird" xml:space="preserve">
-    <value>Mailbird&apos;ün gelişimine katkıda bulunun</value>
+    <value>Mailbird'ün gelişimine katkıda bulunun</value>
     <comment>Help improve Mailbird</comment>
   </data>
   <data name="Options_ShareDataUsage" xml:space="preserve">
@@ -3802,7 +3802,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>&quot;{0}&quot; (klasör ekle)</value>
+    <value>"{0}" (klasör ekle)</value>
     <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
@@ -3882,11 +3882,11 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Awaiting installation</comment>
   </data>
   <data name="Contact_Invite" xml:space="preserve">
-    <value>Mailbird&apos;e davet et</value>
+    <value>Mailbird'e davet et</value>
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Do you know of others who&apos;d benefit from unifying all online communication channels in one place with Mailbird? 
+    <value>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
@@ -3928,7 +3928,7 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>When you add multiple accounts to Mailbird, a new &quot;unified&quot; account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
+    <value>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
@@ -3940,7 +3940,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Select on startup</comment>
   </data>
   <data name="Options_SelectUnifiedAccountOnStartupTooltip" xml:space="preserve">
-    <value>Mailbird&apos;ü seçili birleşik hesap ile başlatır.</value>
+    <value>Mailbird'ü seçili birleşik hesap ile başlatır.</value>
     <comment>Starts Mailbird with the unified account selected.</comment>
   </data>
   <data name="Notification_UnifiedAccountReleasedHeader" xml:space="preserve">
@@ -4024,7 +4024,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Gravatar</comment>
   </data>
   <data name="Tutorial_Heading" xml:space="preserve">
-    <value>Mailbird&apos;ü daha iyi tanı</value>
+    <value>Mailbird'ü daha iyi tanı</value>
     <comment>Become familiar with Mailbird</comment>
   </data>
   <data name="Tutorial_MainMenu" xml:space="preserve">
@@ -4104,7 +4104,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Install Calify</comment>
   </data>
   <data name="Dialog_CalifyExplanation" xml:space="preserve">
-    <value>Fark ettikki takvim dosyasını açacak varsayılan bir programa sahip değilsin. Eğer takvimini içeri aktarmaya ihtiyacın varsa, sana Calify&apos;i yüklemeni ve kurmanı önerebiliriz. Mailbird ile çok iyi çalışıyor.</value>
+    <value>Fark ettikki takvim dosyasını açacak varsayılan bir programa sahip değilsin. Eğer takvimini içeri aktarmaya ihtiyacın varsa, sana Calify'i yüklemeni ve kurmanı önerebiliriz. Mailbird ile çok iyi çalışıyor.</value>
     <comment>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</comment>
   </data>
   <data name="App_Wunderlist_Description" xml:space="preserve">
@@ -4112,7 +4112,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Your beautiful and simple online to-do list App.</comment>
   </data>
   <data name="InboxZero_Facebook" xml:space="preserve">
-    <value>Facebook&apos;ta Paylaş</value>
+    <value>Facebook'ta Paylaş</value>
     <comment>Share on Facebook</comment>
   </data>
   <data name="InboxZero_Twitter" xml:space="preserve">
@@ -4124,7 +4124,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>It is not possible to add the file &apos;{0}&apos; as attachment because you are not authorized to access it, please check your user rights and try again.</value>
+    <value>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
@@ -4136,7 +4136,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Please ensure that &apos;allow less secure apps&apos; is enabled in Gmail:
+    <value>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 If the issue persists, please follow this for further troubleshooting:
@@ -4186,7 +4186,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
     <value>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
-If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don&apos;t delete the storage directory when asked by the uninstaller.</value>
+If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -4212,7 +4212,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>It is not possible to add the file &apos;{0}&apos; as attachment. Please check that the file is not being used in another program and try again.</value>
+    <value>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4220,7 +4220,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>No contacts found</comment>
   </data>
   <data name="Welcome_InviteDescription" xml:space="preserve">
-    <value>For every friend who installs Mailbird on their computer, we&apos;ll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
+    <value>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
     <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
@@ -4371,7 +4371,7 @@ Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
     <value>Select the accounts you want to import to Mailbird.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4449,7 +4449,7 @@ Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
     <value>Select the account or PST file to import from.
-To prevent errors, please close the email client you&apos;ll import from before continuing.</value>
+To prevent errors, please close the email client you'll import from before continuing.</value>
     <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4579,7 +4579,23 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>This account cannot be imported because it&apos;s already added to Mailbird</value>
+    <value>This account cannot be imported because it's already added to Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
+  </data>
+<data name="Invite_SendAllExplanation" xml:space="preserve">
+    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+  </data>
+  <data name="Invite_SendAllTitle" xml:space="preserve">
+    <value>Send invitation</value>
+    <comment>Send invitation</comment>
+  </data>
+  <data name="Invite_SendToAllContacts" xml:space="preserve">
+    <value>Invite my contacts</value>
+    <comment>Invite my contacts</comment>
+  </data>
+  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
+    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
+    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
 </root>
