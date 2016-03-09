@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -298,11 +298,11 @@
     <comment>Sending</comment>
   </data>
   <data name="Conversation_To" xml:space="preserve">
-    <value>Кому:</value>
+    <value>Кому: </value>
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>мне</value>
+    <value>мне </value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -398,7 +398,7 @@ Url: {1}</comment>
     <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
-    <value>Сообщения еще отправляются. Вы уверены что хотите закрыть программу и отложить отправку сообщений.</value>
+    <value>Сообщения еще отправляются. Вы уверены что хотите закрыть программу и отложить отправку сообщений?</value>
     <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
   </data>
   <data name="Dialog_FacebookConnect" xml:space="preserve">
@@ -448,11 +448,13 @@ Do you want to reconnect your Facebook?</comment>
     <comment>OK</comment>
   </data>
   <data name="Dialog_RemoveAccount" xml:space="preserve">
-    <value>Удалить локальную учётную запись? </value>
+    <value>Удалить локальную учётную запись?</value>
     <comment>Remove local account?</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
-    <value>Вы уверены что хотите удалить эту учётную запись и все связанные с ней профили?\n\nЭто займет какое-то время и приведет к перезапуску Mailbird.</value>
+    <value>Вы уверены что хотите удалить эту учётную запись и все связанные с ней профили?
+
+Это займет какое-то время и приведет к перезапуску Mailbird.</value>
     <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
@@ -462,7 +464,8 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Вы уверены что хотите удалить этот профиль для  '{0}'?\nЭто действие невозможно отменить.</value>
+    <value>Вы уверены что хотите удалить этот профиль для  '{0}'?
+Это действие невозможно отменить.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
   </data>
@@ -499,7 +502,7 @@ Message:</comment>
     <comment>Confirm sending screenshot</comment>
   </data>
   <data name="Dialog_SendScreenshotExplanation" xml:space="preserve">
-    <value>Вы включили отправку снимка события прилагаемого к отчету об ошибке, чтобы мы могли выяснить причину этой ошибки. Пожалуйста, подтвердите.  </value>
+    <value>Вы включили отправку снимка события прилагаемого к отчету об ошибке, чтобы мы могли выяснить причину этой ошибки. Пожалуйста, подтвердите.</value>
     <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
   </data>
   <data name="Dialog_SizeLimit" xml:space="preserve">
@@ -523,7 +526,7 @@ Message:</comment>
     <comment>SMTP connection success</comment>
   </data>
   <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
-    <value>Мы успешно соединились с сервером SMTP. Все в порядке. </value>
+    <value>Мы успешно соединились с сервером SMTP. Все в порядке.</value>
     <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
   </data>
   <data name="Dialog_Thanks" xml:space="preserve">
@@ -1017,7 +1020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Пожалуйста, подключите Facebook в Настройках чтобы получить больше информации об этом контакте. </value>
+    <value>Пожалуйста, подключите Facebook в Настройках чтобы получить больше информации об этом контакте.</value>
     <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
@@ -1069,7 +1072,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Easily search and find lost photos in your emails.</comment>
   </data>
   <data name="App_RetroSift_Title" xml:space="preserve">
-    <value>Потерянные фотографии </value>
+    <value>Потерянные фотографии</value>
     <comment>Lost Photos</comment>
   </data>
   <data name="App_Support_Description" xml:space="preserve">
@@ -1093,7 +1096,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>You did it! Impressive!</comment>
   </data>
   <data name="InboxZero_FeelsGood" xml:space="preserve">
-    <value>О да... Как же это здорово!</value>
+    <value>О да... Как же это здорово.</value>
     <comment>Ahhh... that feels good.</comment>
   </data>
   <data name="InboxZero_TrueInspiration" xml:space="preserve">
@@ -1109,7 +1112,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Wow. You're flying!</comment>
   </data>
   <data name="InboxZero_Rock" xml:space="preserve">
-    <value>Вот и доказательство! Ты крут! </value>
+    <value>Вот и доказательство. Ты крут!</value>
     <comment>There's the proof. You rock!</comment>
   </data>
   <data name="InboxZero_RockStar" xml:space="preserve">
@@ -1405,7 +1408,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Отправлено:</value>
+    <value>Отправлено: </value>
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -1421,7 +1424,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Subject</comment>
   </data>
   <data name="Message_Subject1" xml:space="preserve">
-    <value>Тема:</value>
+    <value>Тема: </value>
     <comment>Subject:</comment>
   </data>
   <data name="Message_Wrote" xml:space="preserve">
@@ -1429,7 +1432,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>wrote</comment>
   </data>
   <data name="Migration_Updating" xml:space="preserve">
-    <value>Обновляю базу данных... Пожалуйста, ждите </value>
+    <value>Обновляю базу данных... Пожалуйста, ждите</value>
     <comment>Updating database... please wait</comment>
   </data>
   <data name="NewMessages_BaloonHeader" xml:space="preserve">
@@ -1785,7 +1788,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
   </data>
   <data name="Report_Include" xml:space="preserve">
-    <value>Включения:</value>
+    <value>Включения: </value>
     <comment>Include: </comment>
   </data>
   <data name="Report_Intro" xml:space="preserve">
@@ -1829,7 +1832,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Archive and previous</comment>
   </data>
   <data name="Shortcut_ArchivePreviousExplanation" xml:space="preserve">
-    <value>Удаляет ярлык текущего вида из цепочки сообщений, и переходит к  предыдущей цепочке</value>
+    <value>Удаляет ярлык текущего вида из цепочки сообщений, и переходит к  предыдущей цепочке.</value>
     <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
   </data>
   <data name="Shortcut_Close" xml:space="preserve">
@@ -1873,7 +1876,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Удалить выбранный черновик или переместить выбранную цепочку сообщений в Корзину</value>
+    <value>Удалить выбранный черновик или переместить выбранную цепочку сообщений в Корзину.</value>
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
@@ -1969,7 +1972,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Открывает цепочку сообщений. Также разворачивает и сворачивает сообщения если вы находитесь в режиме  'Цепочка сообщений'.</value>
+    <value>Открывает цепочку сообщений. Также разворачивает и сворачивает сообщения если вы находитесь в режиме  'Цепочка сообщений.'</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -1977,7 +1980,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>or</comment>
   </data>
   <data name="Shortcut_CopyToFolder" xml:space="preserve">
-    <value>Копировать в / добавить ярлык </value>
+    <value>Копировать в / добавить ярлык</value>
     <comment>Copy to / label</comment>
   </data>
   <data name="Shortcut_CopyToFolderExplanation" xml:space="preserve">
@@ -2085,7 +2088,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send Email</comment>
   </data>
   <data name="Shortcut_SendExplanation" xml:space="preserve">
-    <value>Отправляет редактируемое в текущем представлении письмо. </value>
+    <value>Отправляет редактируемое в текущем представлении письмо.</value>
     <comment>Sends the current composed email in view.</comment>
   </data>
   <data name="Shortcut_ShowMailbird" xml:space="preserve">
@@ -2161,7 +2164,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Refresh</comment>
   </data>
   <data name="Welcome_AuthenticationFailed" xml:space="preserve">
-    <value> Ошибка аутентификации.</value>
+    <value>Ошибка аутентификации.</value>
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
@@ -2570,7 +2573,7 @@ Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
 Message: {0}</comment>
   </data>
   <data name="Invite_FailedUpdateInvitationList" xml:space="preserve">
-    <value>Не могу обновить список приглашенных</value>
+    <value>Не могу обновить список приглашенных.</value>
     <comment>Could not update invitation list.</comment>
   </data>
   <data name="Invite_InviteMore" xml:space="preserve">
@@ -2878,7 +2881,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Send without subject?</comment>
   </data>
   <data name="Dialog_EmptySubjectExplanation" xml:space="preserve">
-    <value>Действительно хотите отправить сообщение без темы? </value>
+    <value>Действительно хотите отправить сообщение без темы?</value>
     <comment>Do you really want to send this message without a subject?</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorMessage" xml:space="preserve">
@@ -3144,7 +3147,7 @@ Please check the identity setup and try again.</comment>
     <comment>Browse</comment>
   </data>
   <data name="App_Contacts_Import_Success_Singular" xml:space="preserve">
-    <value>Импортирован 1 контакт</value>
+    <value>Импортирован 1 контакт.</value>
     <comment>1 contact imported.</comment>
   </data>
   <data name="App_Contacts_Import_Description" xml:space="preserve">
@@ -3501,7 +3504,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   </data>
   <data name="Trial_StartText" xml:space="preserve">
     <value>На следцющие 30 дней все функции Mailbird Pro будет активны.
-После завершения пробного периода ваш аккаунт будет преобразован обратно в Lite (бесплатную) версию. </value>
+После завершения пробного периода ваш аккаунт будет преобразован обратно в Lite (бесплатную) версию.</value>
     <comment>For the next 30 days, you will get unlimited access to all Mailbird Pro features. 
 Once your trial is over your account will revert to the Lite (free) version.</comment>
   </data>
@@ -3558,7 +3561,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Mailbird tips</comment>
   </data>
   <data name="Options_LimitingAccounts" xml:space="preserve">
-    <value>Не все ваши аккаунты были загружены так как закончился пробный период. Обновите до Pro и перезапустите Mailbird, чтобы загрузить все аккаунты.</value>
+    <value>Не все ваши аккаунты были загружены так как закончился пробный период. Обновите до Pro и перезапустите Mailbird, чтобы загрузить все аккаунты</value>
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
@@ -3578,7 +3581,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Profile photos</comment>
   </data>
   <data name="Welcome_GuideCompletedDescription" xml:space="preserve">
-    <value>Вы можете начинать пользоваться Mailbird пока загружаются ваши сообщения. </value>
+    <value>Вы можете начинать пользоваться Mailbird пока загружаются ваши сообщения.</value>
     <comment>You can now start using Mailbird while we sync your messages in the background.</comment>
   </data>
   <data name="Welcome_GuideCompletedTitle" xml:space="preserve">
@@ -3690,7 +3693,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>In 1 month</comment>
   </data>
   <data name="Conversation_Snooze" xml:space="preserve">
-    <value>Отложить </value>
+    <value>Отложить</value>
     <comment>Snooze</comment>
   </data>
   <data name="Upgrade_Snooze" xml:space="preserve">
@@ -3710,7 +3713,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Options_RestartToLoadAccountsExplanation" xml:space="preserve">
-    <value>Не все аккаунты были загружены по причине окончания лицензии/пробного периода. Mailbird перезапустится и загрузит все аккаунты. </value>
+    <value>Не все аккаунты были загружены по причине окончания лицензии/пробного периода. Mailbird перезапустится и загрузит все аккаунты.</value>
     <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
   </data>
   <data name="Options_RestartToLoadAccountsTitle" xml:space="preserve">
@@ -3896,7 +3899,7 @@ Help us grow and improve by simply inviting your friends to Mailbird today.</com
     <comment>Unified Account</comment>
   </data>
   <data name="Options_EnableUnifiedAccount" xml:space="preserve">
-    <value>Включить объединенный аккаунт </value>
+    <value>Включить объединенный аккаунт</value>
     <comment>Enable unified account</comment>
   </data>
   <data name="Welcome_UnifyLabel" xml:space="preserve">
@@ -4181,7 +4184,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
     <value>Mailbird обнаружил что в папке программы отсутствует один или несколько файлов, и попытается их восстановить.
-Если восстановление не удастся, пожалуйста, удалите и установите программу заново. Все настройки, письма и т.д. будут сохранены если вы не выберите опцию удаления папки программы при деинсталяции. </value>
+Если восстановление не удастся, пожалуйста, удалите и установите программу заново. Все настройки, письма и т.д. будут сохранены если вы не выберите опцию удаления папки программы при деинсталяции.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -4598,7 +4601,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>[Quoted text hidden]</comment>
   </data>
 <data name="Text_Test" xml:space="preserve">
-    <value>Test</value>
+    <value>Тест</value>
     <comment>Don't translate this</comment>
   </data>
 </root>
