@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -298,11 +298,11 @@
     <comment>Sending</comment>
   </data>
   <data name="Conversation_To" xml:space="preserve">
-    <value>Til:</value>
+    <value>Til: </value>
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>til mig</value>
+    <value>til mig </value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -452,7 +452,9 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Remove local account?</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
-    <value>Er du sikker på at du vil fjerne kontoen og alle forbundne identiteter?\n\nDette vil genstarte Mailbird og vil tage et øjeblik.</value>
+    <value>Er du sikker på at du vil fjerne kontoen og alle forbundne identiteter?
+
+Dette genstarter Mailbird og vil tage et øjeblik.</value>
     <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
@@ -462,7 +464,8 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Er du sikker på du vil fjerne identiteten for '{0}'?\nDette kan ikke fortrydes.</value>
+    <value>Er du sikker på du vil fjerne identiteten for '{0}'?
+Dette kan ikke fortrydes.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
   </data>
@@ -543,7 +546,7 @@ Message:</comment>
     <comment>Who'd you like to email?</comment>
   </data>
   <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
-    <value>Angiv venligst mindst en modtager</value>
+    <value>Angiv venligst mindst en modtager.</value>
     <comment>Please specify at least one recipient.</comment>
   </data>
   <data name="Dialog_WithoutAttachment" xml:space="preserve">
@@ -573,7 +576,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
-    <value>Du er fantastisk.</value>
+    <value>Du er fantastisk!</value>
     <comment>You are awesome!</comment>
   </data>
   <data name="Dialog_Close" xml:space="preserve">
@@ -729,7 +732,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>Bcc:</value>
+    <value>Bcc: </value>
     <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
@@ -737,7 +740,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
-    <value>Cc:</value>
+    <value>Cc: </value>
     <comment>Cc:</comment>
   </data>
   <data name="Conversation_Cc1" xml:space="preserve">
@@ -1005,7 +1008,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Easily edit, manage and email your contacts and contact groups.</comment>
   </data>
   <data name="App_Contacts_FailedFacebook" xml:space="preserve">
-    <value>Kunne ikke finde information på kontakt fra facebook. </value>
+    <value>Kunne ikke finde information på kontakt fra Facebook.</value>
     <comment>Could not fetch information on contact from Facebook.</comment>
   </data>
   <data name="App_Contacts_LoadingFacebook" xml:space="preserve">
@@ -1021,7 +1024,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
-    <value>Intet info fundet.</value>
+    <value>Ingen info fundet</value>
     <comment>No matches found</comment>
   </data>
   <data name="App_Contacts_SearchLabel" xml:space="preserve">
@@ -1057,7 +1060,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Feedback</comment>
   </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
-    <value>Navigér hurtigt til dine vigtige dokumenter fra Mailbird</value>
+    <value>Navigér hurtigt til dine vigtige dokumenter fra Mailbird.</value>
     <comment>Quickly navigate to your important documents from Mailbird.</comment>
   </data>
   <data name="App_Lifehacker_Description" xml:space="preserve">
@@ -1165,7 +1168,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
-    <value>Din Pro licens er gyldig indtil {0}. Hvis du ikke har annulleret dit abonnement, så vil den automatisk fornyes ved udløb. </value>
+    <value>Din Pro licens er gyldig indtil {0}. Hvis du ikke har annulleret dit abonnement, så vil den automatisk fornyes ved udløb.</value>
     <comment>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
@@ -1405,7 +1408,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Sendt:</value>
+    <value>Sendt: </value>
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -1421,7 +1424,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Subject</comment>
   </data>
   <data name="Message_Subject1" xml:space="preserve">
-    <value>Emne:</value>
+    <value>Emne: </value>
     <comment>Subject:</comment>
   </data>
   <data name="Message_Wrote" xml:space="preserve">
@@ -1733,7 +1736,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Type shortcut</comment>
   </data>
   <data name="Options_UnreadNotification" xml:space="preserve">
-    <value>Vis antal ulæste i proceslinjen &amp; systembakken </value>
+    <value>Vis antal ulæste i proceslinjen &amp; systembakken</value>
     <comment>Show unread count in taskbar &amp; system tray</comment>
   </data>
   <data name="Options_Updates" xml:space="preserve">
@@ -1781,11 +1784,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Houston, we have a problem!</comment>
   </data>
   <data name="Report_HoustonExplanation" xml:space="preserve">
-    <value>Vi er kede af det, men der gik noget galt og Mailbird var nød til at lukke ned. For at hjælpe os med at rette dette, vil det være en stor hjælp, hvis du vil fortælle os, hvad du var ved at lave lige før det skete. Tak fordi du vil være med til at lave verdens bedste mail program.</value>
+    <value>Vi er kede af det, men der gik noget galt og Mailbird var nød til at lukke ned. For at hjælpe os med at rette dette, vil det være en stor hjælp, hvis du vil fortælle os, hvad du var ved at lave lige før det skete. Tak fordi du vil være med til at lave verdens bedste mail program!</value>
     <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
   </data>
   <data name="Report_Include" xml:space="preserve">
-    <value>Inkluder:</value>
+    <value>Inkluder: </value>
     <comment>Include: </comment>
   </data>
   <data name="Report_Intro" xml:space="preserve">
