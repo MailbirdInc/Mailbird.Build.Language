@@ -2168,14 +2168,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Mailbird does not support 2-step verification.
-Consider using an application specific password instead.
+    <value>Google does not support 2-step verification when using username and password authentication.
 
-https://support.google.com/accounts/answer/185833</value>
-    <comment>Mailbird does not support 2-step verification.
-Consider using an application specific password instead.
+Consider configuring the account in Mailbird to use OAuth 2.0 authentication instead. </value>
+    <comment>Google does not support 2-step verification when using username and password authentication.
 
-https://support.google.com/accounts/answer/185833</comment>
+Consider configuring the account in Mailbird to use OAuth 2.0 authentication instead.</comment>
   </data>
   <data name="Welcome_ConnectionsLabel" xml:space="preserve">
     <value>Connections:</value>
@@ -2255,7 +2253,7 @@ We will never post anything to Facebook.</comment>
     <value>Server type:</value>
     <comment>Server type:</comment>
   </data>
-  <data name="Welcome_SettingsFoundSubTitle" xml:space="preserve">
+  <data name="Welcome_SettingsFoundSubTitle_OAuth" xml:space="preserve">
     <value>We've found server settings for your account.</value>
     <comment>We've found server settings for your account.</comment>
   </data>
@@ -2454,8 +2452,8 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>The preselected sender identity when composing a new message with this account selected</value>
-    <comment>The preselected sender identity when composing a new message with this account selected</comment>
+    <value>The preselected sender identity when composing a new message with this account selected.</value>
+    <comment>The preselected sender identity when composing a new message with this account selected.</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
     <value>The identity containing the outgoing settings for this account</value>
@@ -4136,12 +4134,12 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Please ensure that 'allow less secure apps' is enabled in Gmail:
+    <value>Please configure your account to use OAuth 2.0 authentication instead of username and password, or ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 If the issue persists, please follow this for further troubleshooting:
 https://support.google.com/mail/accounts/answer/78754</value>
-    <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
+    <comment>Please configure your account to use OAuth 2.0 authentication instead of username and password, or ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 If the issue persists, please follow this for further troubleshooting:
@@ -4363,10 +4361,12 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold]. Please input your password and any other missing details below.
+    <value>Importing [bold]{0}[/bold].
+Please input any missing details below.
 Account {1} of {2}.</value>
     <comment>Leave the number within {}, it will be like this:
-Importing johndoe@gmail.com. Please input your password and any other missing details below.
+Importing johndoe@gmail.com.
+Please input any missing details below.
 Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
@@ -4582,28 +4582,72 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <value>This account cannot be imported because it's already added to Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
-  <data name="Invite_SendAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to send invitation to all of your contacts?</value>
-    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+  <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
+    <value>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</value>
+    <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
-  <data name="Invite_SendAllTitle" xml:space="preserve">
-    <value>Send invitation</value>
-    <comment>Send invitation</comment>
+  <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
+    <value>Authentication</value>
+    <comment>Authentication</comment>
   </data>
-  <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
-    <comment>Invite my contacts</comment>
+  <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
+    <value>Username and password</value>
+    <comment>Username and password</comment>
   </data>
-  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
-    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
+  <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
+    <value>Google OAuth 2.0</value>
+    <comment>Google OAuth 2.0</comment>
   </data>
-  <data name="Quoted_TextHidden" xml:space="preserve">
-    <value>[Quoted text hidden]</value>
-    <comment>[Quoted text hidden]</comment>
+  <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
+    <value>Authorize access to {0}</value>
+    <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
-  <data name="Text_Test" xml:space="preserve">
-    <value>Test</value>
-    <comment>Don't translate this</comment>
+  <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
+    <value>Enter the password used to log in to {0}.</value>
+    <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
+  </data>
+  <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
+    <value>An error occured authorizing Mailbird to access the email account.
+
+Please try again or switch to username and password authentication.</value>
+    <comment>An error occured authorizing Mailbird to access the email account.
+
+Please try again or switch to username and password authentication.</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
+    <value>An unknown error occured during authorization.
+
+Please try again, or contact support if the issue persists.</value>
+    <comment>An unknown error occured during authorization.
+
+Please try again, or contact support if the issue persists.</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationErrorTitle" xml:space="preserve">
+    <value>Error authorizing access</value>
+    <comment>Error authorizing access</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError_AccountChanged" xml:space="preserve">
+    <value>The account used to authorize the access is incorrect.
+
+Please try again and log in with the correct account before granting access.</value>
+    <comment>The account used to authorize the access is incorrect.
+
+Please try again and log in with the correct account before granting access.</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError_AccountChangedTitle" xml:space="preserve">
+    <value>Incorrect account</value>
+    <comment>Incorrect account</comment>
+  </data>
+  <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
+    <value>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</value>
+    <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
+  </data>
+  <data name="Welcome_MailboxChangeError" xml:space="preserve">
+    <value>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
+
+To access another mailbox, please add it as a new account in Mailbird.</value>
+    <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
+
+To access another mailbox, please add it as a new account in Mailbird.</comment>
   </data>
 </root>
