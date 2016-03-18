@@ -2254,10 +2254,6 @@ We will never post anything to Facebook.</comment>
     <value>Protokoll:</value>
     <comment>Server type:</comment>
   </data>
-  <data name="Welcome_SettingsFoundSubTitle" xml:space="preserve">
-    <value>Wir konnten automatische Einstellungen für dein Konto finden.</value>
-    <comment>We've found server settings for your account.</comment>
-  </data>
   <data name="Welcome_SettingsFoundTitle" xml:space="preserve">
     <value>Einstellungen wurden gefunden</value>
     <comment>Settings found</comment>
@@ -4581,28 +4577,76 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <value>This account cannot be imported because it's already added to Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
-<data name="Invite_SendAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to send invitation to all of your contacts?</value>
-    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+<data name="Welcome_SettingsFoundSubTitle_OAuth" xml:space="preserve">
+    <value>We've found server settings for your account.</value>
+    <comment>We've found server settings for your account.</comment>
   </data>
-  <data name="Invite_SendAllTitle" xml:space="preserve">
-    <value>Send invitation</value>
-    <comment>Send invitation</comment>
+  <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
+    <value>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</value>
+    <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
-  <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
-    <comment>Invite my contacts</comment>
+  <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
+    <value>Authentication</value>
+    <comment>Authentication</comment>
   </data>
-  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
-    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
+  <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
+    <value>Username and password</value>
+    <comment>Username and password</comment>
   </data>
-<data name="Quoted_TextHidden" xml:space="preserve">
-    <value>[Quoted text hidden]</value>
-    <comment>[Quoted text hidden]</comment>
+  <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
+    <value>Google OAuth 2.0</value>
+    <comment>Google OAuth 2.0</comment>
   </data>
-<data name="Text_Test" xml:space="preserve">
-    <value>Test</value>
-    <comment>Don't translate this</comment>
+  <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
+    <value>Authorize access to {0}</value>
+    <comment>Authorize access to [johndoe@domain.com]</comment>
+  </data>
+  <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
+    <value>Enter the password used to log in to {0}.</value>
+    <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
+  </data>
+  <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
+    <value>An error occured authorizing Mailbird to access the email account.
+
+Please try again or switch to username and password authentication.</value>
+    <comment>An error occured authorizing Mailbird to access the email account.
+
+Please try again or switch to username and password authentication.</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
+    <value>An unknown error occured during authorization.
+
+Please try again, or contact support if the issue persists.</value>
+    <comment>An unknown error occured during authorization.
+
+Please try again, or contact support if the issue persists.</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationErrorTitle" xml:space="preserve">
+    <value>Error authorizing access</value>
+    <comment>Error authorizing access</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError_AccountChanged" xml:space="preserve">
+    <value>The account used to authorize the access is incorrect.
+
+Please try again and log in with the correct account before granting access.</value>
+    <comment>The account used to authorize the access is incorrect.
+
+Please try again and log in with the correct account before granting access.</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError_AccountChangedTitle" xml:space="preserve">
+    <value>Incorrect account</value>
+    <comment>Incorrect account</comment>
+  </data>
+  <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
+    <value>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</value>
+    <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
+  </data>
+  <data name="Welcome_MailboxChangeError" xml:space="preserve">
+    <value>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
+
+To access another mailbox, please add it as a new account in Mailbird.</value>
+    <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
+
+To access another mailbox, please add it as a new account in Mailbird.</comment>
   </data>
 </root>
