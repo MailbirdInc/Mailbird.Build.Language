@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -2168,10 +2168,9 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Mailbird støtter ikke 2-trinns verifisering.
-Vurdér å bruke et programspesifikt passord istedenfor.
+    <value>Google støtter ikke 2-trinns verifisering ved autentisering av brukernavn og passord.
 
-https://support.google.com/accounts/answer/185833</value>
+Vurdere dermed å konfigurere kontoen i Mailbird ved å bruke OAuth 2.0 autentisering istedenfor. </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
@@ -2450,7 +2449,7 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>Den forhåndsvalgte identiteten for denne kontoen ved opprettelse av ny melding</value>
+    <value>Den forhåndsvalgte identiteten for denne kontoen ved opprettelse av ny melding.</value>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
@@ -4131,10 +4130,11 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Vennligst sørg for at 'Tillat mindre sikre apper' er aktivert i Gmail:
+    <value>Vennligst konfigurér din konto til å bruke OAuth 2.0 autentisering istedenfor brukernavn og passord, eller sørg for at 'Tillat mindre sikre apper' er aktivert i Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
-Hvis det enda ikke fungerer, vennligst prøv denne koblingen for å feilsøke problemet: https://support.google.com/mail/accounts/answer/78754</value>
+Hvis det enda ikke fungerer, vennligst prøv denne koblingen for å feilsøke problemet:
+https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
@@ -4357,7 +4357,8 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importerer [bold]{0}[/bold]. Vennligst angi ditt passord og annen informasjon som mangler nedenfor.
+    <value>Importerer [bold]{0}[/bold].
+Vennligst angi informasjon som mangler nedenfor.
 Konto {1} av {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
