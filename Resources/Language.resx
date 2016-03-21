@@ -1704,8 +1704,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>Play sound when receiving a message</value>
-    <comment>Play sound when receiving a message</comment>
+    <value>New message sound:</value>
+    <comment>New message sound:</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
     <value>Start minimized</value>
@@ -4602,6 +4602,50 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <value>Authorize access to {0}</value>
     <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
+  <data name="Options_TestSound" xml:space="preserve">
+    <value>Test sound</value>
+    <comment>Test sound</comment>
+  </data>
+  <data name="Options_CustomSound" xml:space="preserve">
+    <value>Custom...</value>
+    <comment>Custom...</comment>
+  </data>
+  <data name="Notification_OpenOptions" xml:space="preserve">
+    <value>Open options</value>
+    <comment>Open options</comment>
+  </data>
+  <data name="Notification_SoundFailedToPlay" xml:space="preserve">
+    <value>Failed to play new message sound</value>
+    <comment>Failed to play new message sound</comment>
+  </data>
+  <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
+    <value>Please select the correct audio file from options</value>
+    <comment>Please select the correct audio file from options</comment>
+  </data>
+  <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
+    <value>Please select the correct audio file</value>
+    <comment>Please select the correct audio file</comment>
+  </data>
+  <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
+    <value>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</value>
+    <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
+  </data>
+  <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
+    <value>Authentication</value>
+    <comment>Authentication</comment>
+  </data>
+  <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
+    <value>Username and password</value>
+    <comment>Username and password</comment>
+  </data>
+  <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
+    <value>Google OAuth 2.0</value>
+    <comment>Google OAuth 2.0</comment>
+  </data>
+  <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
+    <value>Authorize access to {0}</value>
+    <comment>Authorize access to [johndoe@domain.com]</comment>
+  </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
     <value>Enter the password used to log in to {0}.</value>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
@@ -4649,5 +4693,17 @@ To access another mailbox, please add it as a new account in Mailbird.</value>
     <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
 
 To access another mailbox, please add it as a new account in Mailbird.</comment>
+  </data>
+  <data name="Sound_Default" xml:space="preserve">
+    <value>Default (Chirp)</value>
+    <comment>Default (Chirp)</comment>
+  </data>
+  <data name="Sound_Electronic" xml:space="preserve">
+    <value>Electronic</value>
+    <comment>Electronic</comment>
+  </data>
+  <data name="Sound_None" xml:space="preserve">
+    <value>None</value>
+    <comment>None</comment>
   </data>
 </root>
