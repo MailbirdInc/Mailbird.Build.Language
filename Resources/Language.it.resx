@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -4648,5 +4648,41 @@ To access another mailbox, please add it as a new account in Mailbird.</value>
     <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
 
 To access another mailbox, please add it as a new account in Mailbird.</comment>
+  </data>
+<data name="Options_TestSound" xml:space="preserve">
+    <value>Test sound</value>
+    <comment>Test sound</comment>
+  </data>
+  <data name="Options_CustomSound" xml:space="preserve">
+    <value>Custom...</value>
+    <comment>Custom...</comment>
+  </data>
+  <data name="Notification_OpenOptions" xml:space="preserve">
+    <value>Open options</value>
+    <comment>Open options</comment>
+  </data>
+  <data name="Notification_SoundFailedToPlay" xml:space="preserve">
+    <value>Failed to play new message sound</value>
+    <comment>Failed to play new message sound</comment>
+  </data>
+  <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
+    <value>Please select the correct audio file from options</value>
+    <comment>Please select the correct audio file from options</comment>
+  </data>
+  <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
+    <value>Please select the correct audio file</value>
+    <comment>Please select the correct audio file</comment>
+  </data>
+  <data name="Sound_Default" xml:space="preserve">
+    <value>Default (Chirp)</value>
+    <comment>Default (Chirp)</comment>
+  </data>
+  <data name="Sound_Electronic" xml:space="preserve">
+    <value>Electronic</value>
+    <comment>Electronic</comment>
+  </data>
+  <data name="Sound_None" xml:space="preserve">
+    <value>None</value>
+    <comment>None</comment>
   </data>
 </root>
