@@ -4626,26 +4626,6 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <value>Please select the correct audio file</value>
     <comment>Please select the correct audio file</comment>
   </data>
-  <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</value>
-    <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
-  </data>
-  <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
-    <value>Authentication</value>
-    <comment>Authentication</comment>
-  </data>
-  <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
-    <value>Username and password</value>
-    <comment>Username and password</comment>
-  </data>
-  <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
-    <value>Google OAuth 2.0</value>
-    <comment>Google OAuth 2.0</comment>
-  </data>
-  <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
-    <value>Authorize access to {0}</value>
-    <comment>Authorize access to [johndoe@domain.com]</comment>
-  </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
     <value>Enter the password used to log in to {0}.</value>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
@@ -4705,5 +4685,25 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
   <data name="Sound_None" xml:space="preserve">
     <value>None</value>
     <comment>None</comment>
+  </data>
+  <data name="Invite_SendAllExplanation" xml:space="preserve">
+    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+  </data>
+  <data name="Invite_SendAllTitle" xml:space="preserve">
+    <value>Send invitation</value>
+    <comment>Send invitation</comment>
+  </data>
+  <data name="Invite_SendToAllContacts" xml:space="preserve">
+    <value>Invite my contacts</value>
+    <comment>Invite my contacts</comment>
+  </data>
+  <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
+    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
+    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
+  </data>
+  <data name="Quoted_TextHidden" xml:space="preserve">
+    <value>[Quoted text hidden]</value>
+    <comment>[Quoted text hidden]</comment>
   </data>
 </root>
