@@ -4619,12 +4619,12 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Please select the correct audio file from options</value>
-    <comment>Please select the correct audio file from options</comment>
+    <value>Please select the correct audio file from options.</value>
+    <comment>Please select the correct audio file from options.</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
-    <value>Please select the correct audio file</value>
-    <comment>Please select the correct audio file</comment>
+    <value>Please select the correct audio file.</value>
+    <comment>Please select the correct audio file.</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
     <value>Enter the password used to log in to {0}.</value>
@@ -4705,5 +4705,23 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
   <data name="Quoted_TextHidden" xml:space="preserve">
     <value>[Quoted text hidden]</value>
     <comment>[Quoted text hidden]</comment>
+  </data>
+  <data name="Notification_FailedToSetSound" xml:space="preserve">
+    <value>Failed to set new message sound</value>
+    <comment>Failed to set new message sound</comment>
+  </data>
+  <data name="Notification_FailedToSetSoundExplanation" xml:space="preserve">
+    <value>Please make sure the file is not being used by another program and try again.</value>
+    <comment>Please make sure the file is not being used by another program and try again.</comment>
+  </data>
+  <data name="Notification_FileSize" xml:space="preserve">
+    <value>The file is too large</value>
+    <comment>The file is too large</comment>
+  </data>
+  <data name="Notification_FileSizeExplanation" xml:space="preserve">
+    <value>The maximum sound file size is {0}.
+Please choose another file.</value>
+    <comment>The maximum sound file size is {0}.
+Please choose another file.</comment>
   </data>
 </root>
