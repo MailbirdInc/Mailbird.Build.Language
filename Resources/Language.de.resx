@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -230,11 +230,11 @@
     <comment>Copy to</comment>
   </data>
   <data name="Conversation_CopyTo2" xml:space="preserve">
-    <value>Kopieren</value>
+    <value>Kopieren nach...</value>
     <comment>Copy to...</comment>
   </data>
   <data name="Options_SettingsMoreInfo" xml:space="preserve">
-    <value>Mailbird passt diese Einstellung automatisch an, wenn deine DPI-Einstellung sich verändert. Wenn du diese Einstellung jedoch manuell anpasst, wird sie nicht mehr automatisch eingestellt, bis du den ursprünglichen Wert wiederherstellst. Der Standardwert beträgt 100%.</value>
+    <value>Mailbird passt diese Einstellung automatisch an, wenn deine DPI-Einstellung sich verändert. Wenn du diese Einstellung jedoch manuell anpasst, wird sie nicht mehr automatisch eingestellt, bis du den ursprünglichen Wert wiederherstellst. Der Standardwert beträgt 100%</value>
     <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
@@ -398,7 +398,7 @@ Url: {1}</comment>
     <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
-    <value>Nachrichten werden immer noch versandt. Bist du sicher, dass du das Programm schließen willst? Der Versand noch ausstehender Nachrichten wird damit verschoben.</value>
+    <value>Nachrichten werden immer noch versandt. Bist du sicher, dass du das Programm schließen willst?</value>
     <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
   </data>
   <data name="Dialog_FacebookConnect" xml:space="preserve">
@@ -420,7 +420,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
-    <value>Bitte warten ...</value>
+    <value>Bitte warten</value>
     <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
@@ -498,7 +498,7 @@ Message:</comment>
     <comment>Thank you for reporting this issue!</comment>
   </data>
   <data name="Dialog_SendScreenshot" xml:space="preserve">
-    <value>Bestätige das Senden eines Screenshots.</value>
+    <value>Bestätige das Senden des Screenshots</value>
     <comment>Confirm sending screenshot</comment>
   </data>
   <data name="Dialog_SendScreenshotExplanation" xml:space="preserve">
@@ -554,7 +554,8 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Du hast „{0}“ geschrieben und wir dachten, dass du möglicherweise eine Datei anhängen willst. Wenn du die E-Mail ohne Anhänge versenden willst, klicke auf „OK“. </value>
+    <value>Du hast „{0}“ geschrieben und wir dachten, dass du möglicherweise eine Datei anhängen willst.
+Wenn du die E-Mail ohne Anhänge versenden willst, klicke auf „OK“.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -819,7 +820,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
-    <value>Bitte gib eine gültige E-Mail Adresse ein.</value>
+    <value>Bitte gib eine gültige E-Mail Adresse ein</value>
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
@@ -863,7 +864,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter a valid license key</comment>
   </data>
   <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
-    <value>Bitte gib eine gültige URL ein.</value>
+    <value>Bitte gib eine gültige URL ein</value>
     <comment>Please enter a valid url</comment>
   </data>
   <data name="AccountValidationRule_SenderName" xml:space="preserve">
@@ -1095,7 +1096,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>You did it! Impressive!</comment>
   </data>
   <data name="InboxZero_FeelsGood" xml:space="preserve">
-    <value>Das fühlt sich gut an, oder?</value>
+    <value>Ahhh... Das fühlt sich gut an.</value>
     <comment>Ahhh... that feels good.</comment>
   </data>
   <data name="InboxZero_TrueInspiration" xml:space="preserve">
@@ -1219,7 +1220,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Text to display:</comment>
   </data>
   <data name="LinkEditor_UrlExplanation" xml:space="preserve">
-    <value>Dieser Link führt zu oben angegebener URL.</value>
+    <value>Dieser Link führt zu oben angegebener URL</value>
     <comment>This link will go to URL above</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
@@ -1703,7 +1704,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>Akustisches Signal bei neuer Nachricht</value>
+    <value>Neuer Benachrichtigungston:</value>
     <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
@@ -2167,10 +2168,9 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Mailbird unterstützt die Zwei-Faktor-Authentifizierung nicht.
-Bitte verwenden Sie stattdessen ein App-Passwort.
+    <value>Google unterstützt die Zwei-Faktor-Authentifizierung nicht wenn Benutzername und Password zur Identifizierung werden.
 
-https://support.google.com/accounts/answer/185833</value>
+Konfigurieren Sie ihr Google Konto stattdessen in Mailbird. </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
@@ -2449,7 +2449,7 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>Die Standardidentität für diesen Account wenn eine neue Nachricht verfasst wird</value>
+    <value>Die Standardidentität für diesen Account wenn eine neue Nachricht verfasst wird.</value>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
@@ -4358,8 +4358,9 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold]. Please input your password and any other missing details below.
-Account {1} of {2}.</value>
+    <value>Importiere [bold]{0}[/bold].
+Bitte füllen Sie die fehlenden Informationen aus.
+Konto {1} of {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
 Account 1 of 4.</comment>
@@ -4690,11 +4691,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Are you sure you want to send invitation to all of your contacts?</comment>
   </data>
   <data name="Invite_SendAllTitle" xml:space="preserve">
-    <value>Send invitation</value>
+    <value>Einladung senden</value>
     <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
+    <value>Meine Kontakte einladen</value>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
