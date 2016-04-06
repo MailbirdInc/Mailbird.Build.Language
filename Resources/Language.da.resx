@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -1704,7 +1704,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>Afspil lyd ved modtagelse af besked</value>
+    <value>Lyd ved Ny besked:</value>
     <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
@@ -2168,10 +2168,9 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Mailbird understøtter ikke 2 trins godkendelse.
-Overvej at bruge program specifik adgangskode i stedet.
+    <value>Google understøtter ikke 2 trins godkendelse, ved samtidig brug af Brugernavn og adgangskode godkendelse.
 
-https://support.google.com/accounts/answer/185833</value>
+Overvej at konfigurere kontoen i Mailbird ved at bruge OAuth 2.0 godkendelse i stedet. </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
@@ -2450,7 +2449,7 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>Den forvalgte afsender identitet, når du skriver en ny meddelelse og når denne konto er valgt</value>
+    <value>Den forvalgte afsender identitet, ved ny meddelelse og når denne konto er valgt.</value>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
@@ -4130,7 +4129,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Vær sikker på at 'tillad mindre sikre apps' er aktiveret i Gmail:
+    <value>Indstil din konto til brug af OAuth 2.0 godkendelse i stedet for Brugernavn og adgangskode, eller vær sikker på at 'tillad mindre sikre apps' er aktiveret i Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 Hvis problemet fortsætter, så følg denne fejlsøgning:
@@ -4357,7 +4356,8 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importerer [bold]{0}[/bold]. Angiv venligst din adgangskode og andre manglende informationer herunder.
+    <value>Importerer [bold]{0}[/bold]. 
+Udfyld venligst manglende informationer herunder.
 Konto {1} af {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
