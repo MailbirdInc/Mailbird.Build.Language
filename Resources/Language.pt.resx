@@ -1423,10 +1423,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>Assunto</value>
     <comment>Subject</comment>
   </data>
-  <data name="Message_Subject1" xml:space="preserve">
-    <value>Assunto:</value>
-    <comment>Subject:</comment>
-  </data>
   <data name="Message_Wrote" xml:space="preserve">
     <value>escreveu</value>
     <comment>wrote</comment>
@@ -3849,10 +3845,6 @@ Note that enabling this will in most cases result in worse interface performance
     <value>Hoje</value>
     <comment>Today</comment>
   </data>
-  <data name="Timeline_ExpireThisMonth" xml:space="preserve">
-    <value>Hoje (Expira em {0} dias)</value>
-    <comment>Today (Expires in {0} days)</comment>
-  </data>
   <data name="Invite_Accepted" xml:space="preserve">
     <value>Aceite</value>
     <comment>Accepted</comment>
@@ -4705,5 +4697,205 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
   <data name="Quoted_TextHidden" xml:space="preserve">
     <value>[Quoted text hidden]</value>
     <comment>[Quoted text hidden]</comment>
+  </data>
+<data name="Timeline_ExpireDays" xml:space="preserve">
+    <value>{0} days</value>
+    <comment>{0} days</comment>
+  </data>
+  <data name="Reward_AddAccount" xml:space="preserve">
+    <value>Add a second email account</value>
+    <comment>Add a second email account</comment>
+  </data>
+  <data name="Reward_AddAccountExplanation" xml:space="preserve">
+    <value>Add a second email account and manage all your accounts in the same place!</value>
+    <comment>Add a second email account and manage all your accounts in the same place!</comment>
+  </data>
+  <data name="Reward_Apps" xml:space="preserve">
+    <value>Connect 2 apps</value>
+    <comment>Connect 2 apps</comment>
+  </data>
+  <data name="Reward_AppsExplanation" xml:space="preserve">
+    <value>Enhance your Mailbird experience by customizing your Mailbird with your favorite apps</value>
+  </data>
+  <data name="Reward_Compose" xml:space="preserve">
+    <value>Compose your 1st email</value>
+    <comment>Compose your 1st email</comment>
+  </data>
+  <data name="Reward_ComposeExplanation" xml:space="preserve">
+    <value>Discover Mailbird by composing and sending your first email</value>
+    <comment>Discover Mailbird by composing and sending your first email</comment>
+  </data>
+  <data name="Reward_Share" xml:space="preserve">
+    <value>Spread the love</value>
+    <comment>Spread the love</comment>
+  </data>
+  <data name="Reward_ShareExplanation" xml:space="preserve">
+    <value>Share Mailbird with your friends, family, co-workers</value>
+    <comment>Share Mailbird with your friends, family, co-workers</comment>
+  </data>
+  <data name="Reward_Snooze" xml:space="preserve">
+    <value>Snooze email</value>
+    <comment>Snooze email</comment>
+  </data>
+  <data name="Reward_SnoozeExplanation" xml:space="preserve">
+    <value>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</value>
+    <comment>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</comment>
+  </data>
+  <data name="Reward_Use" xml:space="preserve">
+    <value>Use Mailbird for 5 consecutive days</value>
+    <comment>Use Mailbird for 5 consecutive days</comment>
+  </data>
+  <data name="Reward_UseExplanation" xml:space="preserve">
+    <value>Send emails and use apps with Mailbird for 5 days - easy as pie!</value>
+    <comment>Send emails and use apps with Mailbird for 5 days - easy as pie!</comment>
+  </data>
+  <data name="Reward_Completed" xml:space="preserve">
+    <value>Completed</value>
+    <comment>Completed</comment>
+  </data>
+  <data name="Reward_ExtraDays" xml:space="preserve">
+    <value>+{0} days</value>
+    <comment>+{0} days, 
+{0} will be replaced with number, so it will be +5 days</comment>
+  </data>
+  <data name="Print_TextHidden" xml:space="preserve">
+    <value>[Quoted text hidden]</value>
+    <comment>[Quoted text hidden]</comment>
+  </data>
+  <data name="Print_Attachments" xml:space="preserve">
+    <value>Attachments</value>
+    <comment>Attachments</comment>
+  </data>
+  <data name="Print_Message" xml:space="preserve">
+    <value>Message {0} of {1}</value>
+    <comment>Will be converted to:
+Message 1 to 2</comment>
+  </data>
+  <data name="Print_PrintNow" xml:space="preserve">
+    <value>Print now</value>
+    <comment>Print now</comment>
+  </data>
+  <data name="Notification_FailedToSetSound" xml:space="preserve">
+    <value>Failed to set new message sound</value>
+    <comment>Failed to set new message sound</comment>
+  </data>
+  <data name="Notification_FailedToSetSoundExplanation" xml:space="preserve">
+    <value>Please make sure the file is not being used by another program and try again.</value>
+    <comment>Please make sure the file is not being used by another program and try again.</comment>
+  </data>
+  <data name="Notification_FileSize" xml:space="preserve">
+    <value>The file is too large</value>
+    <comment>The file is too large</comment>
+  </data>
+  <data name="Notification_FileSizeExplanation" xml:space="preserve">
+    <value>The maximum sound file size is {0}.
+Please choose another file.</value>
+    <comment>The maximum sound file size is {0}.
+Please choose another file.</comment>
+  </data>
+  <data name="Invite_LimitReached" xml:space="preserve">
+    <value>Too many recipients</value>
+    <comment>Too many recipients</comment>
+  </data>
+  <data name="Invite_LimitReachedExplanation" xml:space="preserve">
+    <value>The maximum number of recipients is {0}.
+Please remove some and try again.</value>
+    <comment>The maximum number of recipients is {0}.
+Please remove some and try again.</comment>
+  </data>
+  <data name="Options_ShowInboxZero" xml:space="preserve">
+    <value>Show Inbox Zero</value>
+    <comment>Show Inbox Zero</comment>
+  </data>
+  <data name="Options_ShowInboxZeroSharing" xml:space="preserve">
+    <value>Show share buttons</value>
+    <comment>Show share buttons</comment>
+  </data>
+  <data name="Reward_TryIt" xml:space="preserve">
+    <value>Try it now!</value>
+    <comment>Try it now!</comment>
+  </data>
+  <data name="Reward_Title" xml:space="preserve">
+    <value>Extend Your Mailbird Pro Free Trial</value>
+    <comment>Extend Your Mailbird Pro Free Trial</comment>
+  </data>
+  <data name="Reward_GotReward" xml:space="preserve">
+    <value>Congratulations!</value>
+    <comment>Congratulations!</comment>
+  </data>
+  <data name="Reward_GotRewardExplanation" xml:space="preserve">
+    <value>You just unlocked [bold]{0} extra days[/bold] of Mailbird Pro.
+Want to unlock more rewards?</value>
+    <comment>You just unlocked [bold]{0} extra days[/bold] of Mailbird Pro.
+Want to unlock more rewards?</comment>
+  </data>
+  <data name="Timeline_ExpireMonths" xml:space="preserve">
+    <value>{0} months</value>
+    <comment>{0} months</comment>
+  </data>
+  <data name="Menu_RewardsList" xml:space="preserve">
+    <value>Rewards list</value>
+    <comment>Rewards list</comment>
+  </data>
+  <data name="Signature_SentFrom" xml:space="preserve">
+    <value>Sent from {0}</value>
+    <comment>Sent from {0}
+{0} will be replaced by "Mailbird"</comment>
+  </data>
+  <data name="Ads_BuyNow" xml:space="preserve">
+    <value>Buy Now</value>
+    <comment>Buy Now</comment>
+  </data>
+  <data name="Ads_GoPro" xml:space="preserve">
+    <value>Go Pro and Boost Your Productivity</value>
+    <comment>Go Pro and Boost Your Productivity</comment>
+  </data>
+  <data name="Ads_GoProExplanation" xml:space="preserve">
+    <value>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</value>
+    <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
+  </data>
+  <data name="Ads_Invite" xml:space="preserve">
+    <value>Invite Friends</value>
+    <comment>Invite Friends</comment>
+  </data>
+  <data name="Ads_Refer" xml:space="preserve">
+    <value>Enjoy Mailbird Pro without needing to pay</value>
+    <comment>Enjoy Mailbird Pro without needing to pay</comment>
+  </data>
+  <data name="Ads_ReferExplanation" xml:space="preserve">
+    <value>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</value>
+    <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
+  </data>
+  <data name="Reward_LaunchStartup" xml:space="preserve">
+    <value>Always show this window when Mailbird starts</value>
+    <comment>Always show this window when Mailbird starts</comment>
+  </data>
+  <data name="Reward_TitleSubscription" xml:space="preserve">
+    <value>Extend Your Mailbird Pro Subscription</value>
+    <comment>Extend Your Mailbird Pro Subscription</comment>
+  </data>
+  <data name="Trial_Feature2Singular" xml:space="preserve">
+    <value>More than 1 account</value>
+    <comment>More than 1 account</comment>
+  </data>
+  <data name="Print_Loading" xml:space="preserve">
+    <value>Preparing content and loading images...</value>
+    <comment>Preparing content and loading images...</comment>
+  </data>
+  <data name="Print_NotLoaded" xml:space="preserve">
+    <value>[Content not loaded]</value>
+    <comment>[Content not loaded]</comment>
+  </data>
+  <data name="License_NonPurchaseValidUntil" xml:space="preserve">
+    <value>Your license is valid until {0}.</value>
+    <comment>Your license is valid until {0}.</comment>
+  </data>
+  <data name="Options_SubscriptionStatus" xml:space="preserve">
+    <value>View subscription details</value>
+    <comment>View subscription details</comment>
+  </data>
+  <data name="Test" xml:space="preserve">
+    <value>test</value>
+    <comment>Please don't translate this</comment>
   </data>
 </root>
