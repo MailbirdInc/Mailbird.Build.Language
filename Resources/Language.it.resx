@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -1409,7 +1409,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Inviate:</value>
+    <value>Inviato il</value>
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -3470,7 +3470,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Speed Reader</comment>
   </data>
   <data name="Trial_Feature2" xml:space="preserve">
-    <value>Più di 3 account</value>
+    <value>Più di {0} account</value>
     <comment>More than 3 accounts</comment>
   </data>
   <data name="Trial_Feature3" xml:space="preserve">
@@ -3836,7 +3836,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
-    <value>Scadenza</value>
+    <value>Scadenza licenza: {0} (fra {1})</value>
     <comment>Expires</comment>
   </data>
   <data name="Timeline_Today" xml:space="preserve">
@@ -4630,7 +4630,7 @@ Please try again and log in with the correct account before granting access.</co
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</value>
+    <value>Controlla le impostazioni dell'account per verificare che siano corrette e che Mailbird sia autorizzato ad accedere al tuo account email.</value>
     <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
@@ -4658,11 +4658,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Please select the correct audio file from options</value>
+    <value>Please select the correct audio file from options.</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
-    <value>Please select the correct audio file</value>
+    <value>Please select the correct audio file.</value>
     <comment>Please select the correct audio file</comment>
   </data>
   <data name="Sound_Default" xml:space="preserve">
@@ -4686,7 +4686,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
+    <value>Invita i miei contatti principali</value>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
