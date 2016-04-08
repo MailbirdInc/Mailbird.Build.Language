@@ -1168,8 +1168,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
-    <value>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</value>
-    <comment>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
+    <value>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</value>
+    <comment>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
     <value>http://example.com/image.jpg</value>
@@ -1408,8 +1408,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Sent: </value>
-    <comment>Sent:</comment>
+    <value>Sent at</value>
+    <comment>Sent at</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
     <value>Show {0} older messages</value>
@@ -1422,10 +1422,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <data name="Message_Subject" xml:space="preserve">
     <value>Subject</value>
     <comment>Subject</comment>
-  </data>
-  <data name="Message_Subject1" xml:space="preserve">
-    <value>Subject: </value>
-    <comment>Subject:</comment>
   </data>
   <data name="Message_Wrote" xml:space="preserve">
     <value>wrote</value>
@@ -2727,10 +2723,6 @@ Please exit out of this window to check the credentials and try again.</comment>
     <value>to</value>
     <comment>to</comment>
   </data>
-  <data name="Message_From2" xml:space="preserve">
-    <value>From:</value>
-    <comment>From:</comment>
-  </data>
   <data name="Title_License" xml:space="preserve">
     <value>Mailbird License Agreement</value>
     <comment>Mailbird License Agreement</comment>
@@ -3478,8 +3470,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Speed Reader</comment>
   </data>
   <data name="Trial_Feature2" xml:space="preserve">
-    <value>More than 3 accounts</value>
-    <comment>More than 3 accounts</comment>
+    <value>More than {0} accounts</value>
+    <comment>More than {0} accounts
+{0} will be changed to number: 1, 2, or 3</comment>
   </data>
   <data name="Trial_Feature3" xml:space="preserve">
     <value>Attachment Quick Preview</value>
@@ -4654,9 +4647,30 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <value>Google OAuth 2.0</value>
     <comment>Google OAuth 2.0</comment>
   </data>
+  <data name="Print_TextHidden" xml:space="preserve">
+    <value>[Quoted text hidden]</value>
+    <comment>[Quoted text hidden]</comment>
+  </data>
   <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
     <value>Authorize access to {0}</value>
     <comment>Authorize access to [johndoe@domain.com]</comment>
+  </data>
+  <data name="Message_From2" xml:space="preserve">
+    <value>From:</value>
+    <comment>From:</comment>
+  </data>
+  <data name="Print_Attachments" xml:space="preserve">
+    <value>Attachments</value>
+    <comment>Attachments</comment>
+  </data>
+  <data name="Print_Message" xml:space="preserve">
+    <value>Message {0} of {1}</value>
+    <comment>Will be converted to:
+Message 1 to 2</comment>
+  </data>
+  <data name="Print_PrintNow" xml:space="preserve">
+    <value>Print now</value>
+    <comment>Print now</comment>
   </data>
   <data name="Options_TestSound" xml:space="preserve">
     <value>Test sound</value>
@@ -4719,8 +4733,8 @@ Please try again and log in with the correct account before granting access.</co
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</value>
-    <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
+    <value>Please check the account settings to verify they are correct and that Mailbird is authorized to access your email account.</value>
+    <comment>Please check the account settings to verify they are correct and that Mailbird is authorized to access your email account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
     <value>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
@@ -4751,8 +4765,8 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
-    <comment>Invite my contacts</comment>
+    <value>Invite my main contacts</value>
+    <comment>Invite my main contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
     <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
@@ -4780,7 +4794,7 @@ Please choose another file.</value>
     <comment>The maximum sound file size is {0}.
 Please choose another file.</comment>
   </data>
-<data name="Invite_LimitReached" xml:space="preserve">
+  <data name="Invite_LimitReached" xml:space="preserve">
     <value>Too many recipients</value>
     <comment>Too many recipients</comment>
   </data>
@@ -4828,5 +4842,57 @@ Want to unlock more rewards?</comment>
     <value>Sent from {0}</value>
     <comment>Sent from {0}
 {0} will be replaced by "Mailbird"</comment>
+  </data>
+  <data name="Ads_BuyNow" xml:space="preserve">
+    <value>Buy Now</value>
+    <comment>Buy Now</comment>
+  </data>
+  <data name="Ads_GoPro" xml:space="preserve">
+    <value>Go Pro and Boost Your Productivity</value>
+    <comment>Go Pro and Boost Your Productivity</comment>
+  </data>
+  <data name="Ads_GoProExplanation" xml:space="preserve">
+    <value>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</value>
+    <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
+  </data>
+  <data name="Ads_Invite" xml:space="preserve">
+    <value>Invite Friends</value>
+    <comment>Invite Friends</comment>
+  </data>
+  <data name="Ads_Refer" xml:space="preserve">
+    <value>Enjoy Mailbird Pro without needing to pay</value>
+    <comment>Enjoy Mailbird Pro without needing to pay</comment>
+  </data>
+  <data name="Ads_ReferExplanation" xml:space="preserve">
+    <value>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</value>
+    <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
+  </data>
+  <data name="Reward_LaunchStartup" xml:space="preserve">
+    <value>Always show this window when Mailbird starts</value>
+    <comment>Always show this window when Mailbird starts</comment>
+  </data>
+  <data name="Reward_TitleSubscription" xml:space="preserve">
+    <value>Extend Your Mailbird Pro Subscription</value>
+    <comment>Extend Your Mailbird Pro Subscription</comment>
+  </data>
+  <data name="Trial_Feature2Singular" xml:space="preserve">
+    <value>More than 1 account</value>
+    <comment>More than 1 account</comment>
+  </data>
+  <data name="Print_Loading" xml:space="preserve">
+    <value>Preparing content and loading images...</value>
+    <comment>Preparing content and loading images...</comment>
+  </data>
+  <data name="Print_NotLoaded" xml:space="preserve">
+    <value>[Content not loaded]</value>
+    <comment>[Content not loaded]</comment>
+  </data>
+  <data name="License_NonPurchaseValidUntil" xml:space="preserve">
+    <value>Your license is valid until {0}.</value>
+    <comment>Your license is valid until {0}.</comment>
+  </data>
+  <data name="Options_SubscriptionStatus" xml:space="preserve">
+    <value>View subscription details</value>
+    <comment>View subscription details</comment>
   </data>
 </root>
