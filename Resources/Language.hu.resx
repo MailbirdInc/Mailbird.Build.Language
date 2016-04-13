@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -198,7 +198,7 @@
     <comment>Send new mail</comment>
   </data>
   <data name="Conversation_Archive" xml:space="preserve">
-    <value>Archivál</value>
+    <value>Archiv</value>
     <comment>Archive</comment>
   </data>
   <data name="Conversation_DeletePermanently" xml:space="preserve">
@@ -900,7 +900,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>All</comment>
   </data>
   <data name="FolderIdentity_Archived" xml:space="preserve">
-    <value>Archivált</value>
+    <value>Archiválva</value>
     <comment>Archived</comment>
   </data>
   <data name="FolderIdentity_Drafts" xml:space="preserve">
@@ -1168,7 +1168,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
-    <value>Az Ön Pro licenc-ig érvényes {0}. Ha még nem törölték az előfizetést, akkor automatikusan meghosszabbodnak.</value>
+    <value>Az Ön licence még érvényes {0}. Ha még nem törölték az előfizetést, akkor automatikusan meghosszabbodnak.</value>
     <comment>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
@@ -1408,7 +1408,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Elküldött: </value>
+    <value>Elküldeni</value>
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -1812,7 +1812,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>No messages matched your search</comment>
   </data>
   <data name="Shortcut_ArchiveExplanation" xml:space="preserve">
-    <value>Archív beszélgetés minden néző.</value>
+    <value>Archiválja a beszélgetést.</value>
     <comment>Archive your conversation from any view.</comment>
   </data>
   <data name="Shortcut_ArchiveNext" xml:space="preserve">
@@ -3471,7 +3471,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Speed Reader</comment>
   </data>
   <data name="Trial_Feature2" xml:space="preserve">
-    <value>Több mint 3 fiók</value>
+    <value>Több mint {0} fiók</value>
     <comment>More than 3 accounts</comment>
   </data>
   <data name="Trial_Feature3" xml:space="preserve">
@@ -3837,7 +3837,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
-    <value>Lejár</value>
+    <value>Előfizetés lejár: {0} (in {1})</value>
     <comment>Expires</comment>
   </data>
   <data name="Timeline_Today" xml:space="preserve">
@@ -4630,7 +4630,7 @@ Please try again and log in with the correct account before granting access.</co
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Kérjük, ellenőrizze a fiók beállításait annak ellenőrzésére, hogy a beállítások helyesek, és Mailbird számára engedélyezi, hogy a fiókot elérhesse.</value>
+    <value>Kérjük, ellenőrizze a fiók beállításait ellenőrizze azok helyességét, és Mailbird jogosult hozzáférni az e-mail fiókhoz.</value>
     <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
@@ -4658,11 +4658,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Kérjük, válassza ki a megfelelő audio fájlokat</value>
+    <value>Kérjük, válassza ki a megfelelő audio fájlokat.</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
-    <value>Kérjük, válassza ki a megfelelő audio fájlt</value>
+    <value>Kérjük, válassza ki a megfelelő audio fájlt.</value>
     <comment>Please select the correct audio file</comment>
   </data>
   <data name="Sound_Default" xml:space="preserve">
@@ -4686,7 +4686,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Meghívom az ismerőseim</value>
+    <value>Meghívom az én ismerőseimet</value>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
