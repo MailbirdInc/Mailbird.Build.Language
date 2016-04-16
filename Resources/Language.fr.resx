@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -294,15 +294,15 @@
     <comment>Reply to all</comment>
   </data>
   <data name="Conversation_Sending" xml:space="preserve">
-    <value>Envoi en cours...</value>
+    <value>Envoi en cours</value>
     <comment>Sending</comment>
   </data>
   <data name="Conversation_To" xml:space="preserve">
-    <value>À :</value>
+    <value>À : </value>
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>pour moi</value>
+    <value>pour moi </value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -378,7 +378,7 @@ Description: {0}
 Url: {1}</comment>
   </data>
   <data name="Dialog_DownloadProgress" xml:space="preserve">
-    <value>Téléchargement en cours...</value>
+    <value>Téléchargement en cours</value>
     <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
@@ -420,7 +420,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
-    <value>Chargement en cours...</value>
+    <value>Chargement en cours</value>
     <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
@@ -462,7 +462,7 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Etes-vous sûr de vouloir supprimer l'identité de '{0}' ?\n Cette action est irréversible.</value>
+    <value>Êtes-vous sûr de vouloir supprimer l'identité de '{0}' ?\n Cette action est irréversible.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
   </data>
@@ -573,7 +573,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
-    <value>Vous êtes génial.</value>
+    <value>Vous êtes génial!</value>
     <comment>You are awesome!</comment>
   </data>
   <data name="Dialog_Close" xml:space="preserve">
@@ -729,7 +729,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>Cci :</value>
+    <value>Cci : </value>
     <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
@@ -737,7 +737,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
-    <value>Cc :</value>
+    <value>Cc : </value>
     <comment>Cc:</comment>
   </data>
   <data name="Conversation_Cc1" xml:space="preserve">
@@ -1121,7 +1121,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>La clé d'activation a été désactivée par l'administrateur. Veuillez nous contacter à l'adresse support@getmailbird.com pour l'activer</value>
+    <value>Votre licence a été désactivée par l'administrateur. Veuillez nous contacter à l'adresse support@getmailbird.com pour l'activer.</value>
     <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
@@ -1165,7 +1165,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
-    <value>Votre licence Pro est valide jusqu'au {0}. Si vous n'avez pas annulé votre abonnement, il sera renouvellé automatiquement.</value>
+    <value>Votre licence est valide jusqu'au {0}. Si vous n'avez pas annulé votre abonnement, il sera renouvelé automatiquement.</value>
     <comment>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
@@ -1289,7 +1289,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Mailbird support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
-    <value>Invite friends</value>
+    <value>Invite vos contacts</value>
     <comment>Invite friends</comment>
   </data>
   <data name="Message_AddAttachments" xml:space="preserve">
@@ -1353,7 +1353,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email in the making.</comment>
   </data>
   <data name="Message_Loading" xml:space="preserve">
-    <value>Chargement en cours...</value>
+    <value>Chargement en cours</value>
     <comment>Loading</comment>
   </data>
   <data name="Message_On" xml:space="preserve">
@@ -1697,7 +1697,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>Jouer un son lors de la réception d'un message</value>
+    <value>Emettre un son lors de la réception d'un message</value>
     <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
@@ -2161,10 +2161,10 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Mailbird ne supporte pas la vérification en 2-étapes.
-Envisagez l'utilisation d'un mot de passe d'application.
+    <value>Mailbird ne supporte pas la vérification en 2 étapes avec la méthode "Username and password".
+Veuillez utiliser la méthode d'authentification OAuth 2.0
 
-https://support.google.com/accounts/answer/185833</value>
+https://support.google.com/accounts/answer/185833 </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
@@ -3471,7 +3471,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Speed Reader</comment>
   </data>
   <data name="Trial_Feature2" xml:space="preserve">
-    <value>Plus de 3 comptes</value>
+    <value>Plus de {0} comptes</value>
     <comment>More than 3 accounts</comment>
   </data>
   <data name="Trial_Feature3" xml:space="preserve">
@@ -3836,7 +3836,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
-    <value>Expire</value>
+    <value>Licence expire: {0} (dans {1})</value>
     <comment>Expires</comment>
   </data>
   <data name="Timeline_Today" xml:space="preserve">
@@ -4627,7 +4627,7 @@ Please try again and log in with the correct account before granting access.</co
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</value>
+    <value>Merci de vérifier que le paramétrage est correct et que Mailbird est autorisé à accéder à votre compte e-mail.</value>
     <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
@@ -4655,11 +4655,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Please select the correct audio file from options</value>
+    <value>Veuillez sélectionner un autre fichier audio</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
-    <value>Please select the correct audio file</value>
+    <value>Veuillez sélectionner un fichier audio conforme.</value>
     <comment>Please select the correct audio file</comment>
   </data>
   <data name="Sound_Default" xml:space="preserve">
@@ -4683,7 +4683,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
+    <value>Inviter mes principaux contacts</value>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
