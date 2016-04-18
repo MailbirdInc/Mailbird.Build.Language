@@ -1219,10 +1219,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>Vis tekst:</value>
     <comment>Text to display:</comment>
   </data>
-  <data name="LinkEditor_UrlExplanation" xml:space="preserve">
-    <value>Dette link vil gå til URL'en ovenfor</value>
-    <comment>This link will go to URL above</comment>
-  </data>
   <data name="Link_Edit" xml:space="preserve">
     <value>Rediger</value>
     <comment>Edit</comment>
@@ -4892,4 +4888,16 @@ Want to unlock more rewards?</comment>
     <value>View subscription details</value>
     <comment>View subscription details</comment>
   </data>
-  </root>
+  <data name="Options_AutoCollapseBlockquote" xml:space="preserve">
+    <value>Collapse message by default when replying</value>
+    <comment>Collapse message by default when replying</comment>
+  </data>
+  <data name="Invite_NoInvitee" xml:space="preserve">
+    <value>You haven't invited any contacts</value>
+    <comment>You haven't invited any contacts</comment>
+  </data>
+  <data name="Error_DownloadingMessagePop3" xml:space="preserve">
+    <value>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</value>
+    <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
+  </data>
+</root>
