@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root><data name="Attachment_Open" xml:space="preserve">
     <value>Άνοιγμα</value>
     <comment>Open</comment>
@@ -508,17 +508,17 @@ Message:</comment>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>You wrote "{0}", and we thought you might want to attach a file.
-If you want to send the email without attachments, just press "Ok" below.</value>
+    <value>Γράψατε "{0}", και μπορεί να θέλετε να επισυνάψετε κανένα αρχείο.
+Εάν θέλετε να αποστείλετε το e-email χωρίς να επισυνάψετε κάποιο αρχείο, πατήστε "Ok" παρακάτω.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
   <data name="Dialog_DiscardDraft" xml:space="preserve">
-    <value>Discard draft?</value>
+    <value>Απόρριψη του προσχεδίου;</value>
     <comment>Discard Draft?</comment>
   </data>
   <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard your draft?</value>
+    <value>Είστε σίγουροι ότι θέλετε να απορρίψετε το προσχέδιο σας;</value>
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
@@ -530,23 +530,23 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Account:</comment>
   </data>
   <data name="Identity_Add" xml:space="preserve">
-    <value>Add identity</value>
+    <value>Προσθήκη ταυτότητας</value>
     <comment>Add identity</comment>
   </data>
   <data name="Identity_DifferentReplyTo" xml:space="preserve">
-    <value>Use a different reply-to address</value>
+    <value>Χρήση μίας διαφορετικής διεύθυνσης απάντησης</value>
     <comment>Use a different reply-to address</comment>
   </data>
   <data name="Identity_DifferentSignature" xml:space="preserve">
-    <value>Use a different signature than for {0}</value>
+    <value>Χρήση διαφορετικής υπογραφής από την {0}</value>
     <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
   </data>
   <data name="Identity_Edit" xml:space="preserve">
-    <value>Edit identity</value>
+    <value>Επεξεργασία ταυτότητας</value>
     <comment>Edit identity</comment>
   </data>
   <data name="Identity_ReplyTo" xml:space="preserve">
-    <value>Reply-to:</value>
+    <value>Απάντηση σε:</value>
     <comment>Reply-to:</comment>
   </data>
   <data name="Identity_SendFromAccount" xml:space="preserve">
@@ -554,15 +554,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Account</comment>
   </data>
   <data name="Identity_SendFromSmtp" xml:space="preserve">
-    <value>SMTP Server</value>
+    <value>Διακομηστής SMTP</value>
     <comment>SMTP Server</comment>
   </data>
   <data name="Identity_SendThrough" xml:space="preserve">
-    <value>Send through:</value>
+    <value>Αποστολή μέσω:</value>
     <comment>Send through:</comment>
   </data>
   <data name="Identity_Signature" xml:space="preserve">
-    <value>Signature:</value>
+    <value>Υπογραφή:</value>
     <comment>Signature:</comment>
   </data>
   <data name="Identity_SmtpPassword" xml:space="preserve">
@@ -574,47 +574,47 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Port:</comment>
   </data>
   <data name="Identity_SmtpServer" xml:space="preserve">
-    <value>SMTP server:</value>
+    <value>Διακομιστής SMTP:</value>
     <comment>SMTP server:</comment>
   </data>
   <data name="Identity_SmtpUsername" xml:space="preserve">
-    <value>Username:</value>
+    <value>Όνομα χρήστη:</value>
     <comment>Username:</comment>
   </data>
   <data name="Identity_Test" xml:space="preserve">
-    <value>Test connection</value>
+    <value>Δοκιμή σύνδεσης</value>
     <comment>Test connection</comment>
   </data>
   <data name="Identity_Testing" xml:space="preserve">
-    <value>Testing connection...</value>
+    <value>Δοκιμή Σύνδεσης...</value>
     <comment>Testing connection...</comment>
   </data>
   <data name="Dialog_Report" xml:space="preserve">
-    <value>Report this problem</value>
+    <value>Αναφορά αυτού του προβλήματος</value>
     <comment>Report this problem</comment>
   </data>
   <data name="Dialog_Restart" xml:space="preserve">
-    <value>Restart</value>
+    <value>Επανεκκίνηση</value>
     <comment>Restart</comment>
   </data>
   <data name="Find_Close" xml:space="preserve">
-    <value>Close find window</value>
+    <value>Κλείσιμο του παραθύρου Αναζήτηση</value>
     <comment>Close find window</comment>
   </data>
   <data name="Find_Find" xml:space="preserve">
-    <value>Find</value>
+    <value>Αναζήτηση</value>
     <comment>Find</comment>
   </data>
   <data name="Find_Next" xml:space="preserve">
-    <value>Next</value>
+    <value>Επόμενο</value>
     <comment>Next</comment>
   </data>
   <data name="Find_Previous" xml:space="preserve">
-    <value>Previous</value>
+    <value>Προηγούμενο</value>
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright 2015 Mailbird. All Rights Reserved.</value>
+    <value>Πνευματικά δικαιώματα 2015 Mailbird. Όλα τα δικαιώματα διατηρούνται.</value>
     <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -622,11 +622,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>Bcc: </value>
+    <value>Κρυφή κοιν: </value>
     <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
-    <value>Bcc</value>
+    <value>Κρυφή κοιν</value>
     <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
@@ -638,7 +638,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Cc</comment>
   </data>
   <data name="Default_AlwaysAsk" xml:space="preserve">
-    <value>Always perform this check when starting Mailbird</value>
+    <value>Πάντα θα γίνετε αυτός ο έλεγχος κατά την έναρξη του Mailbird</value>
     <comment>Always perform this check when starting Mailbird</comment>
   </data>
   <data name="Default_SetAs" xml:space="preserve">
@@ -646,123 +646,123 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
-    <value>Do you want to use Mailbird as your default email client?</value>
+    <value>Θέλετε να χρησιμοποιήσετε τον Mailbird ως προεπιλεγμένο πρόγραμμα του ηλεκτρονικού ταχυδρομείου σας;</value>
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
-    <value>Overwrite Existing Files?</value>
+    <value>Αντικατάσταση των υπάρχουσων αρχείων;</value>
     <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
-    <value>Would you like to overwrite existing files?</value>
+    <value>Θέλετε να γίνει αντικατάσταση των υπάρχουσων αρχείων;</value>
     <comment>Would you like to overwrite existing files?</comment>
   </data>
   <data name="Dialog_Purchase" xml:space="preserve">
-    <value>Purchase</value>
+    <value>Αγορά</value>
     <comment>Purchase</comment>
   </data>
   <data name="Dialog_SaveFolder" xml:space="preserve">
-    <value>Select the folder to save the selected attachments in:</value>
+    <value>Επιλέξτε το φάκελο για να αποθηκεύσετε τα επιλεγμένα συνημμένα σε:</value>
     <comment>Select the folder to save the selected attachments in:</comment>
   </data>
   <data name="Draft_Saved" xml:space="preserve">
-    <value>Saved</value>
+    <value>Αποθηκεύτηκε</value>
     <comment>saved</comment>
   </data>
   <data name="Day_Friday" xml:space="preserve">
-    <value>Friday</value>
+    <value>Παρασκευή</value>
     <comment>Friday</comment>
   </data>
   <data name="Day_Monday" xml:space="preserve">
-    <value>Monday</value>
+    <value>Δευτέρα</value>
     <comment>Monday</comment>
   </data>
   <data name="Day_Saturday" xml:space="preserve">
-    <value>Saturday</value>
+    <value>Σάββατο</value>
     <comment>Saturday</comment>
   </data>
   <data name="Day_Sunday" xml:space="preserve">
-    <value>Sunday</value>
+    <value>Κυριακή</value>
     <comment>Sunday</comment>
   </data>
   <data name="Day_Thursday" xml:space="preserve">
-    <value>Thursday</value>
+    <value>Πέμπτη</value>
     <comment>Thursday</comment>
   </data>
   <data name="Day_Tuesday" xml:space="preserve">
-    <value>Tuesday</value>
+    <value>Τρίτη</value>
     <comment>Tuesday</comment>
   </data>
   <data name="Day_Wednesday" xml:space="preserve">
-    <value>Wednesday</value>
+    <value>Τετάρτη</value>
     <comment>Wednesday</comment>
   </data>
   <data name="Day_Yesterday" xml:space="preserve">
-    <value>Yesterday</value>
+    <value>Χθες</value>
     <comment>Yesterday</comment>
   </data>
   <data name="Download_Always" xml:space="preserve">
-    <value>Always download</value>
+    <value>Λήψη πάντα</value>
     <comment>Always download</comment>
   </data>
   <data name="Download_Never" xml:space="preserve">
-    <value>Never download</value>
+    <value>Λήψη ποτέ</value>
     <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
-    <value>Please enter your email address</value>
+    <value>Παρακαλώ εισάγετε την διεύθυνση email σας</value>
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
-    <value>Please enter a link address</value>
+    <value>Παρακαλώ εισάγετε μία διεύθυνση email</value>
     <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
-    <value>You cannot send an empty invitation</value>
+    <value>Δεν μπορείτε να στείλετε μία κενή πρόσκληση</value>
     <comment>You cannot send an empty invitation</comment>
   </data>
   <data name="AccountValidationRule_EmptyPassword" xml:space="preserve">
-    <value>Please enter a password</value>
+    <value>Παρακαλώ εισάγετε έναν κωδικό</value>
     <comment>Please enter a password</comment>
   </data>
   <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
-    <value>Please enter a port number</value>
+    <value>Παρακαλώ εισάγετε έναν αριθμό θύρας</value>
     <comment>Please enter a port number</comment>
   </data>
   <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
-    <value>Please enter the server name</value>
+    <value>Παρακαλώ εισάγετε ένα όνομα διακομιστή</value>
     <comment>Please enter the server name</comment>
   </data>
   <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
-    <value>Please enter subject</value>
+    <value>Παρακαλώ εισάγετε ένα θέμα</value>
     <comment>Please enter subject</comment>
   </data>
   <data name="AccountValidationRule_EmptyUsername" xml:space="preserve">
-    <value>Please enter a username</value>
+    <value>Παρακαλώ εισάγετε ένα όνομα χρήστη</value>
     <comment>Please enter a username</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
-    <value>Email is invalid</value>
+    <value>Το eimal είναι άκυρο</value>
     <comment>Email is invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail2" xml:space="preserve">
-    <value>Email appears invalid</value>
+    <value>Το Email φαίνετε πως είναι άκυρο</value>
     <comment>Email appears invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
-    <value>Please enter a valid license key</value>
+    <value>Παρακαλώ εισάγετε ένα έγκυρο κλειδί άδειας χρήσης</value>
     <comment>Please enter a valid license key</comment>
   </data>
   <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
-    <value>Please enter a valid url</value>
+    <value>Παρακαλώ εισάγετε μία έγκυρη διεύθυνση url</value>
     <comment>Please enter a valid url</comment>
   </data>
   <data name="AccountValidationRule_SenderName" xml:space="preserve">
-    <value>Please enter your name</value>
+    <value>Παρακαλώ εισάγετε το όνομα σας</value>
     <comment>Please enter your name</comment>
   </data>
   <data name="Facebook_HowMailbirdConnectsLink" xml:space="preserve">
-    <value>How can Mailbird connect with your Facebook?</value>
+    <value>Πως μπορεί το Mailbird να συνδεθεί με τον λογαριασμό σας Facebook;</value>
     <comment>How can Mailbird connect with your Facebook?</comment>
   </data>
   <data name="Dialog_URL" xml:space="preserve">
@@ -778,67 +778,67 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Name:</comment>
   </data>
   <data name="EditFolderWindow_NestFolderUnderLabel" xml:space="preserve">
-    <value>Nest folder under:</value>
+    <value>Δημιουργία υπό-φακέλου:</value>
     <comment>Nest folder under:</comment>
   </data>
   <data name="EditFolderWindow_Title" xml:space="preserve">
-    <value>Add folder</value>
+    <value>Προσθήκη φακέλου</value>
     <comment>Add folder</comment>
   </data>
   <data name="FolderIdentity_AllMail" xml:space="preserve">
-    <value>All</value>
+    <value>Όλα</value>
     <comment>All</comment>
   </data>
   <data name="FolderIdentity_Archived" xml:space="preserve">
-    <value>Archived</value>
+    <value>Αρχειοθετημένα</value>
     <comment>Archived</comment>
   </data>
   <data name="FolderIdentity_Drafts" xml:space="preserve">
-    <value>Drafts</value>
+    <value>Προσχέδια</value>
     <comment>Drafts</comment>
   </data>
   <data name="FolderIdentity_Important" xml:space="preserve">
-    <value>Important</value>
+    <value>Σημαντικά</value>
     <comment>Important</comment>
   </data>
   <data name="FolderIdentity_Inbox" xml:space="preserve">
-    <value>Inbox</value>
+    <value>Εισερχόμενα</value>
     <comment>Inbox</comment>
   </data>
   <data name="FolderIdentity_Sent" xml:space="preserve">
-    <value>Sent</value>
+    <value>Απεσταλμένα</value>
     <comment>Sent</comment>
   </data>
   <data name="FolderIdentity_Spam" xml:space="preserve">
-    <value>Spam</value>
+    <value>Μη επιθυμητή αλληλογραφία</value>
     <comment>Spam</comment>
   </data>
   <data name="FolderIdentity_Starred" xml:space="preserve">
-    <value>Starred</value>
+    <value>Με αστέρι</value>
     <comment>Starred</comment>
   </data>
   <data name="FolderIdentity_Trash" xml:space="preserve">
-    <value>Trash</value>
+    <value>Κάδος ανακύκλωσης</value>
     <comment>Trash</comment>
   </data>
   <data name="AppStore_Title" xml:space="preserve">
-    <value>Apps</value>
+    <value>Εφαρμογές</value>
     <comment>Apps</comment>
   </data>
   <data name="Conversation_ShowSource" xml:space="preserve">
-    <value>Message source</value>
+    <value>Πηγή μηνύματος</value>
     <comment>Message source</comment>
   </data>
   <data name="Dialog_ReadMore" xml:space="preserve">
-    <value>Read more</value>
+    <value>Διαβάστε περισσότερα</value>
     <comment>Read more</comment>
   </data>
   <data name="Dialog_ServerResponse" xml:space="preserve">
-    <value>Server response:</value>
+    <value>Απάντηση διακομιστή:</value>
     <comment>Server response:</comment>
   </data>
   <data name="AppStore_Description" xml:space="preserve">
-    <value>Find and install new apps.</value>
+    <value>Εύρεση και εγκατάσταση νέων εφαρμογών.</value>
     <comment>Find and install new apps.</comment>
   </data>
   <data name="AppStore_Off" xml:space="preserve">
@@ -850,7 +850,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>ON</comment>
   </data>
   <data name="AppStore_SearchLabel" xml:space="preserve">
-    <value>Search apps</value>
+    <value>Αναζήτηση εφαρμογών</value>
     <comment>Search apps</comment>
   </data>
   <data name="App_Asana_Description" xml:space="preserve">
