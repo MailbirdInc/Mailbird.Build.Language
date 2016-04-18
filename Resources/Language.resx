@@ -568,8 +568,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit Html</comment>
   </data>
   <data name="Editor_Picture" xml:space="preserve">
-    <value>Insert picture</value>
-    <comment>Insert picture</comment>
+    <value>Insert image</value>
+    <comment>Insert image</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
     <value>Inbox Zero</value>
@@ -632,8 +632,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
-    <value>Insert Link</value>
-    <comment>Insert Link</comment>
+    <value>Insert link</value>
+    <comment>Insert link</comment>
   </data>
   <data name="Identity_Account" xml:space="preserve">
     <value>Account:</value>
@@ -724,8 +724,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright 2015 Mailbird. All Rights Reserved.</value>
-    <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
+    <value>Copyright 2016 Mailbird. All Rights Reserved.</value>
+    <comment>Copyright 2016 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
     <value>Version</value>
@@ -1188,8 +1188,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>http://example.com</comment>
   </data>
   <data name="LinkEditor_FromComputer" xml:space="preserve">
-    <value>From Computer</value>
-    <comment>From Computer</comment>
+    <value>From computer</value>
+    <comment>From computer</comment>
   </data>
   <data name="LinkEditor_FromUrl" xml:space="preserve">
     <value>From URL</value>
@@ -1204,8 +1204,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Medium</comment>
   </data>
   <data name="LinkEditor_OriginalSize" xml:space="preserve">
-    <value>Original Size</value>
-    <comment>Original Size</comment>
+    <value>Original size</value>
+    <comment>Original size</comment>
   </data>
   <data name="LinkEditor_Size" xml:space="preserve">
     <value>Which size do you prefer?</value>
@@ -1216,12 +1216,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Small</comment>
   </data>
   <data name="LinkEditor_TextToDisplay" xml:space="preserve">
-    <value>Text to display:</value>
-    <comment>Text to display:</comment>
-  </data>
-  <data name="LinkEditor_UrlExplanation" xml:space="preserve">
-    <value>This link will go to URL above</value>
-    <comment>This link will go to URL above</comment>
+    <value>Display text:</value>
+    <comment>Display text:</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
     <value>Edit</value>
@@ -2368,12 +2364,12 @@ Path: {0}</comment>
     <comment>Increase size</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertHyperlink" xml:space="preserve">
-    <value>Insert hyperlink</value>
-    <comment>Insert hyperlink</comment>
+    <value>Insert link</value>
+    <comment>Insert link</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
-    <value>Insert picture</value>
-    <comment>Insert picture</comment>
+    <value>Insert image</value>
+    <comment>Insert image</comment>
   </data>
   <data name="MailEditorFormattingBar_Italic" xml:space="preserve">
     <value>Italic</value>
@@ -4894,5 +4890,17 @@ Want to unlock more rewards?</comment>
   <data name="Options_SubscriptionStatus" xml:space="preserve">
     <value>View subscription details</value>
     <comment>View subscription details</comment>
+  </data>
+  <data name="Options_AutoCollapseBlockquote" xml:space="preserve">
+    <value>Collapse message by default when replying</value>
+    <comment>Collapse message by default when replying</comment>
+  </data>
+  <data name="Invite_NoInvitee" xml:space="preserve">
+    <value>You haven't invited any contacts</value>
+    <comment>You haven't invited any contacts</comment>
+  </data>
+  <data name="Error_DownloadingMessagePop3" xml:space="preserve">
+    <value>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</value>
+    <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 </root>
