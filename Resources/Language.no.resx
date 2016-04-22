@@ -2235,7 +2235,7 @@ We will never post anything to Facebook.</comment>
     <comment>Proxy settings are correct in Windows Internet Options.</comment>
   </data>
   <data name="Welcome_ServerConnFailed" xml:space="preserve">
-    <value>Kunne ikke koble til server. Vennligst sjekk:</value>
+    <value>Kunne ikke koble til tjener. Vennligst sjekk:</value>
     <comment>Could not connect to server. Please check:</comment>
   </data>
   <data name="Welcome_ServerNameLabel" xml:space="preserve">
@@ -2433,7 +2433,7 @@ Path: {0}</comment>
     <comment>Default identity</comment>
   </data>
   <data name="Welcome_EditIdentityOutgoingServer" xml:space="preserve">
-    <value>Redigér identitet og utgående server</value>
+    <value>Redigér identitet og utgående tjener</value>
     <comment>Edit identity and outgoing server</comment>
   </data>
   <data name="Welcome_Identity" xml:space="preserve">
@@ -2523,11 +2523,11 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird har oppdaget at SSL-sertifikatet til server: '{0}', er ugyldig.
+    <value>Mailbird har oppdaget at SSL-sertifikatet til tjener: '{0}', er ugyldig.
 
 Vennligst klikk på "les mer" nedenfor for mer informasjon før du fortsetter.
 
-Ønsker du å ignorere denne feilmeldingen permanent for denne serveren?</value>
+Ønsker du å ignorere denne feilmeldingen permanent for denne tjeneren?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
 
 Please click "read more" button below for further information before continuing.
@@ -4098,7 +4098,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Share on Facebook</comment>
   </data>
   <data name="InboxZero_Twitter" xml:space="preserve">
-    <value>Tweet det</value>
+    <value>Tvitre det</value>
     <comment>Tweet it</comment>
   </data>
   <data name="Notification_AttachmentCannotBeAddedTitle" xml:space="preserve">
@@ -4890,15 +4890,15 @@ Want to unlock more rewards?</comment>
     <comment>View subscription details</comment>
   </data>
   <data name="Options_AutoCollapseBlockquote" xml:space="preserve">
-    <value>Collapse message by default when replying</value>
+    <value>Skjul melding som standard ved svar</value>
     <comment>Collapse message by default when replying</comment>
   </data>
   <data name="Invite_NoInvitee" xml:space="preserve">
-    <value>You haven't invited any contacts</value>
+    <value>Du har ikke invitert noen kontakter</value>
     <comment>You haven't invited any contacts</comment>
   </data>
   <data name="Error_DownloadingMessagePop3" xml:space="preserve">
-    <value>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</value>
+    <value>Meldingskilden kunne ikke lastes ned. Sannsynligvis finnes ikke meldingen i innboksen på tjeneren.</value>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 </root>
