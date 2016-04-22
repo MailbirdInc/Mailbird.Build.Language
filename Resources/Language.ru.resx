@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -1168,7 +1168,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
-    <value>Ваша лицензия Pro действительна до {0}. Если вы не отменили подписки она обновится автоматически.</value>
+    <value>Ваша лицензия Pro действительна до {0}. Если вы не отменили подписку, она обновится автоматически.</value>
     <comment>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
@@ -3239,7 +3239,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Idea</comment>
   </data>
   <data name="AvatarIconLike" xml:space="preserve">
-    <value>Нравиться</value>
+    <value>Нравится</value>
     <comment>Like</comment>
   </data>
   <data name="AvatarIconLocked" xml:space="preserve">
@@ -3491,7 +3491,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Buy Mailbird Pro</comment>
   </data>
   <data name="Trial_StartText" xml:space="preserve">
-    <value>На следцющие 30 дней все функции Mailbird Pro будет активны.
+    <value>На следующие 30 дней все функции Mailbird Pro будет активны.
 После завершения пробного периода ваш аккаунт будет преобразован обратно в Lite (бесплатную) версию.</value>
     <comment>For the next 30 days, you will get unlimited access to all Mailbird Pro features. 
 Once your trial is over your account will revert to the Lite (free) version.</comment>
@@ -4266,9 +4266,9 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Start Mailbird</comment>
   </data>
   <data name="Notification_Gmail_WebLoginRequired" xml:space="preserve">
-    <value>Google is requesting you login via the web interface.
+    <value>Google запрашивает ваош логин через веб-интерфейс.
+Пожалуйста, пройдите по этой ссылке чтобы решить проблему:
 
-Please follow this link to further troubleshoot the issue:
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Google is requesting you login via the web interface.
 
@@ -4280,30 +4280,30 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Import</comment>
   </data>
   <data name="Notification_LostDraftHeader" xml:space="preserve">
-    <value>An error occurred with your draft</value>
+    <value>Ошибка при сохранении черновика</value>
     <comment>An error occurred with your draft</comment>
   </data>
   <data name="Notification_LostDraftMessage" xml:space="preserve">
-    <value>An error occurred with your draft and your latest saved version has been restored.
+    <value>Ошибка сохранения черновика. Мы восстановили последнюю сохраненную версию.
 
-If you are seeing this error frequently, please contact Mailbird support.</value>
+Если вы видите эту ошибку часто, пожалуйста, обратитесь в поддержку.</value>
     <comment>An error occurred with your draft and your latest saved version has been restored.
 
 If you are seeing this error frequently, please contact Mailbird support.</comment>
   </data>
   <data name="Notification_OpenDraft" xml:space="preserve">
-    <value>Go to draft</value>
+    <value>В черновик</value>
     <comment>Go to draft</comment>
   </data>
   <data name="LostDraft_ContactSupport" xml:space="preserve">
-    <value>contact Mailbird support</value>
+    <value>обратитесь в поддержку Mailbird</value>
     <comment>contact Mailbird support</comment>
   </data>
   <data name="LostDraft_Explanation" xml:space="preserve">
-    <value>Something went wrong while trying to display your draft. To continue, please [btn_1]
+    <value>Ошибка при отображении черновика. Чтобы продолжить,  [btn_1]
 
 
-If you are seeing this error frequently, please [btn_2]</value>
+Если вы видите эту ошибку часто,  [btn_2]</value>
     <comment>Note:
 The final text will look like this,
 Something went wrong while trying to display your draft. To continue, please reload it
@@ -4321,7 +4321,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>reload the draft</comment>
   </data>
   <data name="Options_BackgroundPattern" xml:space="preserve">
-    <value>Choose background/pattern</value>
+    <value>Выбрать бэкграунд</value>
     <comment>Choose background/pattern</comment>
   </data>
   <data name="Import_NoAccounts" xml:space="preserve">
@@ -4329,138 +4329,138 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Invite friends - earn Pro</value>
+    <value>Пригласите друзей - получите Pro</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
-    <value>No Account Selected</value>
+    <value>Аккаунт не выбран</value>
     <comment>No Account Selected</comment>
   </data>
   <data name="Dialog_NoAccountExplanation" xml:space="preserve">
-    <value>Please select at least 1 account to import.</value>
+    <value>Пожалуйста выберете хотя бы один аккаунт для импорта</value>
     <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
-    <value>Or import from another email client.</value>
+    <value>Или импортировать из другого клиента</value>
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold]. Please input your password and any other missing details below.
-Account {1} of {2}.</value>
+    <value>Импорт [bold]{0}[/bold]. Пожалуйста, введите все необходимые данные
+Аккаунт {1} из {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
 Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
-    <value>Select the accounts you want to import to Mailbird.
-To prevent errors, please close the email client you'll import from before continuing.</value>
+    <value>Выберете аккаунты которые вы хотите импортировать в Mailbird.
+Чтобы избежать ошибок, пожалуйста закройте все другие email клиенты.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
   <data name="Welcome_ImportTitle" xml:space="preserve">
-    <value>Import existing accounts</value>
+    <value>Импорт существующих аккаунтов</value>
     <comment>Import existing accounts</comment>
   </data>
   <data name="Welcome_SkipAccount" xml:space="preserve">
-    <value>Skip this account</value>
+    <value>Пропустить</value>
     <comment>Skip this account</comment>
   </data>
   <data name="Welcome_CancelImportData" xml:space="preserve">
-    <value>Cancel import</value>
+    <value>Отменить импорт</value>
     <comment>Cancel import</comment>
   </data>
   <data name="Welcome_CancelImportDataExplanation" xml:space="preserve">
-    <value>Are you sure you want to cancel import? Any data not imported will be unavailable in Mailbird.</value>
+    <value>Вы уверены что хотите отменить импорт? Все неимпортированные данные будут недоступны в Mailbird.</value>
     <comment>Are you sure you want to cancel import? Any data not imported will be unavailable in Mailbird.</comment>
   </data>
   <data name="Welcome_CancelImportDataTitle" xml:space="preserve">
-    <value>Cancel import?</value>
+    <value>Отменить импорт?</value>
     <comment>Cancel import?</comment>
   </data>
   <data name="Welcome_ImportDataSubTitle" xml:space="preserve">
-    <value>Please wait while Mailbird imports the data for your account.</value>
+    <value>Подождите пока Mailbird импортирует ваш аккаунт</value>
     <comment>Please wait while Mailbird imports the data for your account.</comment>
   </data>
   <data name="Welcome_ImportDataTitle" xml:space="preserve">
-    <value>Importing data</value>
+    <value>Импорт</value>
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird will restart and remove account(s) that you've already added. 
-Are you sure you want to continue?</value>
+    <value>Mailbird перезагрузится и удалит все аккаунты которые вы добавили.
+Уверены, что хотите продолжить?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
   </data>
   <data name="Welcome_CancelImportTitle" xml:space="preserve">
-    <value>Are you sure you want to cancel import?</value>
+    <value>Вы уверены, что хотите отменить импорт?</value>
     <comment>Are you sure you want to cancel import?</comment>
   </data>
   <data name="Import_ImportMessage" xml:space="preserve">
-    <value>Import messages</value>
+    <value>Импорт сообщений</value>
     <comment>Import messages</comment>
   </data>
   <data name="Dialog_NoAccountPst" xml:space="preserve">
-    <value>No account or PST file selected</value>
+    <value>Не выбрано ни одного аккаунта / PST файла</value>
     <comment>No account or PST file selected</comment>
   </data>
   <data name="Dialog_NoAccountPstExplanation" xml:space="preserve">
-    <value>Please select at least 1 account or a PST file to import.</value>
+    <value>Пожалуйста, выберете хотя бы 2 аккаунт или PST файл для импорта</value>
     <comment>Please select at least 1 account or a PST file to import.</comment>
   </data>
   <data name="Dialog_PstLocationNotValid" xml:space="preserve">
-    <value>No file selected</value>
+    <value>Файл не выбран</value>
     <comment>No file selected</comment>
   </data>
   <data name="Dialog_PstLocationNotValidExplanation" xml:space="preserve">
-    <value>Please select a file or folder.</value>
+    <value>Пожалуйста выберете файл или папку</value>
     <comment>Please select a file or folder.</comment>
   </data>
   <data name="Import_Browse" xml:space="preserve">
-    <value>Browse</value>
+    <value>Обзор</value>
     <comment>Browse</comment>
   </data>
   <data name="Import_SelectFile" xml:space="preserve">
-    <value>Select file or folder to import from</value>
+    <value>Выберете файл или папку для импорта</value>
     <comment>Select file or folder to import from</comment>
   </data>
   <data name="Welcome_ImportDataToExistingSubTitle" xml:space="preserve">
-    <value>Please wait while Mailbird imports the data for your account.
-Canceling will not remove already imported data.</value>
+    <value>Пожалуйста подождите пока Mailbird импортирует данные для вашего аккаунта.
+Отмена не приведет к потере уже импортированных данных.</value>
     <comment>Please wait while Mailbird imports the data for your account.
 Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
-    <value>Select the account or PST file to import from.
-To prevent errors, please close the email client you'll import from before continuing.</value>
+    <value>Выберите аккаунт или PST файл для импорта
+Чтобы избежать ошибок, пожалуйста закройте клиент из которого вы импортируете</value>
     <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
   <data name="Welcome_ImportToExistingTitle" xml:space="preserve">
-    <value>Import source</value>
+    <value>Импорт из</value>
     <comment>Import source</comment>
   </data>
   <data name="Import_AccountData" xml:space="preserve">
-    <value>Importing account data</value>
+    <value>Импорт данных аккаунта</value>
     <comment>Importing account data</comment>
   </data>
   <data name="Import_Cancelled" xml:space="preserve">
-    <value>Import cancelled</value>
+    <value>Импорт отменен</value>
     <comment>Import cancelled</comment>
   </data>
   <data name="Import_Error_Client_Running" xml:space="preserve">
-    <value>{0} is running. Please close it an try again</value>
+    <value>{0} в процессе. Пожалуйста закройте и попробуйте заново</value>
     <comment>{0} is running. Please close it an try again</comment>
   </data>
   <data name="Import_Error_General" xml:space="preserve">
-    <value>There was an error while importing. Please contact Support</value>
+    <value>Ошибка во время импорта. Пожалуйста, обратитесь в поддержку</value>
     <comment>There was an error while importing. Please contact Support</comment>
   </data>
   <data name="Import_Error_Invalid_Pst" xml:space="preserve">
-    <value>{0} is not a valid .pst file</value>
+    <value>{0} неверный .pst файл</value>
     <comment>{0} is not a valid pst file</comment>
   </data>
   <data name="Import_Error_Messages" xml:space="preserve">
-    <value>One or more messages could not be imported</value>
+    <value>Одно или несколько сообщений невозможно импортировать</value>
     <comment>One or more messages could not be imported</comment>
   </data>
   <data name="Import_Finished" xml:space="preserve">
@@ -4472,112 +4472,112 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Initializing...</comment>
   </data>
   <data name="Import_Error_Data_NotFound" xml:space="preserve">
-    <value>Account Data does not exist. Cannot import</value>
+    <value>Аккаунт не существует. Импорт невозможен</value>
     <comment>Account Data does not exist. Cannot import</comment>
   </data>
   <data name="Dialog_ClientRunning_Message" xml:space="preserve">
-    <value>One or more selected clients are still running. Please close them and try again</value>
+    <value>Один или более выбранных email клиентов все еще не закрыты. Пожалуйста, закройте их и попробуйте снова</value>
     <comment>One or more selected clients are still running. Please close them and try again</comment>
   </data>
   <data name="Dialog_ClientRunning_Title" xml:space="preserve">
-    <value>Selected client is running</value>
+    <value>Выбранный клиент открыт и работает</value>
     <comment>Selected client is running</comment>
   </data>
   <data name="Import_Error_FileFormatNotValid" xml:space="preserve">
-    <value>Mailbird cannot import from selected file</value>
+    <value>Mailbird не может импортировать из выбранного файла</value>
     <comment>Mailbird cannot import from selected file</comment>
   </data>
   <data name="Dialog_Error_DragOperationFailed" xml:space="preserve">
-    <value>The drag operation failed, please try again. If the error persists, please contact support.</value>
+    <value>Перетягивание файла не сработало, попробуйте заново. Если ошибка повторяется, обратитесь в поддержку</value>
     <comment>The drag operation failed, please try again. If the error persists, please contact support.</comment>
   </data>
   <data name="Dialog_Error_OperationFailed" xml:space="preserve">
-    <value>Operation failed</value>
+    <value>Ошибка</value>
     <comment>Operation failed</comment>
   </data>
   <data name="Import_Folder_ImportedMessges" xml:space="preserve">
-    <value>Imported messages</value>
+    <value>Импортированные сообщения</value>
     <comment>Imported messages</comment>
   </data>
   <data name="Import_FromExternalSource" xml:space="preserve">
-    <value>From external source</value>
+    <value>Из внешнего источника</value>
     <comment>From external source</comment>
   </data>
   <data name="Import_ImportingFromFile" xml:space="preserve">
-    <value>Importing from external source</value>
+    <value>Импорт из внешнего источника</value>
     <comment>Importing from file or folder</comment>
   </data>
   <data name="Import_EmlFile" xml:space="preserve">
-    <value>Eml files</value>
+    <value>Файлы .eml</value>
     <comment>Eml files</comment>
   </data>
   <data name="Import_EmlFolder" xml:space="preserve">
-    <value>Folder with eml files</value>
+    <value>Папка с .eml файлами</value>
     <comment>Folder with eml files</comment>
   </data>
   <data name="Import_MsfFile" xml:space="preserve">
-    <value>Msf file</value>
+    <value>Файл Msf</value>
     <comment>Msf file</comment>
   </data>
   <data name="Import_PstFile" xml:space="preserve">
-    <value>Pst file</value>
+    <value>Файл Pst</value>
     <comment>Pst file</comment>
   </data>
   <data name="Dialog_Back" xml:space="preserve">
-    <value>Back</value>
+    <value>Назад</value>
     <comment>Back</comment>
   </data>
   <data name="Welcome_ImportSettingsFoundSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold]. Account {1} of {2}.</value>
+    <value>Импорт[bold]{0}[/bold]. Аккаунт {1} of {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Account 1 of 4.</comment>
   </data>
   <data name="Notification_SendingMessage" xml:space="preserve">
-    <value>Sending message...</value>
+    <value>Отправка сообщения...</value>
     <comment>Sending message...</comment>
   </data>
   <data name="Options_Seconds" xml:space="preserve">
-    <value>{0} seconds</value>
+    <value>{0} секунд</value>
     <comment>{0} seconds</comment>
   </data>
   <data name="Options_Sending" xml:space="preserve">
-    <value>Sending</value>
+    <value>Отправка</value>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>Undo send period</value>
+    <value>Период отмены отправки</value>
     <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Не активно</value>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>The time messages will be delayed when sending, giving you the option to undo.</value>
+    <value>Период времени на который отправка будет задержана, предоставляя вам опцию отмены</value>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</value>
+    <value>Количество выбранных аккаунтов превышает норму для Lite пользователей. Если вы продолжите, некоторые аккаунты не будут отображены в следующий раз когда вы откроете Mailbird. Пожалуйста, используйте Pro версию чтобы видеть все ваши аккаунты</value>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>This account cannot be imported because it's already added to Mailbird</value>
+    <value>Этот аккаунт невозможно импортировать потому что он уже добавлен в Mailbird</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
 <data name="Welcome_SettingsFoundSubTitle_OAuth" xml:space="preserve">
-    <value>We've found server settings for your account.</value>
+    <value>Мы нашли настройки сервера для вашего аккаунта</value>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</value>
+    <value>Тип авторизации. Google OAuth 2.0 работает только с аккаунтами Google</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
-    <value>Authentication</value>
+    <value>Авторизация</value>
     <comment>Authentication</comment>
   </data>
   <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
-    <value>Username and password</value>
+    <value>Имя пользователя и пароль</value>
     <comment>Username and password</comment>
   </data>
   <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
@@ -4585,83 +4585,83 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Google OAuth 2.0</comment>
   </data>
   <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
-    <value>Authorize access to {0}</value>
+    <value>Предоставить доступ {0}</value>
     <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Enter the password used to log in to {0}.</value>
+    <value>Введите пароль для входа в {0}.</value>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
-    <value>An error occured authorizing Mailbird to access the email account.
+    <value>Ошибка во время авторизации.
 
-Please try again or switch to username and password authentication.</value>
+Пожалуйста попробуйте еще раз или переключитесь на авторизацию с логином и паролем.</value>
     <comment>An error occured authorizing Mailbird to access the email account.
 
 Please try again or switch to username and password authentication.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
-    <value>An unknown error occured during authorization.
+    <value>Неизвестная ошибка во время авторизации.
 
-Please try again, or contact support if the issue persists.</value>
+Пожалуйста попробуйте еще раз или обратитесь в поддержку если ошибка повторяется.</value>
     <comment>An unknown error occured during authorization.
 
 Please try again, or contact support if the issue persists.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationErrorTitle" xml:space="preserve">
-    <value>Error authorizing access</value>
+    <value>Ошибка авторизации</value>
     <comment>Error authorizing access</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_AccountChanged" xml:space="preserve">
-    <value>The account used to authorize the access is incorrect.
+    <value>Аккаунтт используемый для авторизации неверный.
 
-Please try again and log in with the correct account before granting access.</value>
+Пожалуйста попробуйте еще раз с корректным аккаунтом.</value>
     <comment>The account used to authorize the access is incorrect.
 
 Please try again and log in with the correct account before granting access.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_AccountChangedTitle" xml:space="preserve">
-    <value>Incorrect account</value>
+    <value>Некорректный аккаунт</value>
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</value>
+    <value>Пожалуйста проверьте настройки аккаунта чтобы убедиться что они корректны и Mailbird имеет доступ к аккаунту</value>
     <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
-    <value>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
+    <value>Сделанные изменения не поддерживаютсяю
 
-To access another mailbox, please add it as a new account in Mailbird.</value>
+Чтобы получить доступ к другому почтовому ящику, пожалуйста добавьте новый аккаут в Mailbird.</value>
     <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
 
 To access another mailbox, please add it as a new account in Mailbird.</comment>
   </data>
 <data name="Options_TestSound" xml:space="preserve">
-    <value>Test sound</value>
+    <value>Тест аудио</value>
     <comment>Test sound</comment>
   </data>
   <data name="Options_CustomSound" xml:space="preserve">
-    <value>Custom...</value>
+    <value>Из файла...</value>
     <comment>Custom...</comment>
   </data>
   <data name="Notification_OpenOptions" xml:space="preserve">
-    <value>Open options</value>
+    <value>Открыть опции</value>
     <comment>Open options</comment>
   </data>
   <data name="Notification_SoundFailedToPlay" xml:space="preserve">
-    <value>Failed to play new message sound</value>
+    <value>Ошибка воспроизведения звука</value>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Please select the correct audio file from options</value>
+    <value>Пожалуйста выберите файл корректного формата из опций</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
-    <value>Please select the correct audio file</value>
+    <value>Пожалуйста выберите корректный аудио файл</value>
     <comment>Please select the correct audio file</comment>
   </data>
   <data name="Sound_Default" xml:space="preserve">
-    <value>Default (Chirp)</value>
+    <value>Стандартный (Chirp)</value>
     <comment>Default (Chirp)</comment>
   </data>
   <data name="Sound_Electronic" xml:space="preserve">
@@ -4669,27 +4669,27 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Electronic</comment>
   </data>
   <data name="Sound_None" xml:space="preserve">
-    <value>None</value>
+    <value>Нет</value>
     <comment>None</comment>
   </data>
 <data name="Invite_SendAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <value>Вы уверены что хотите отправить приглашения всем вашим контактам?</value>
     <comment>Are you sure you want to send invitation to all of your contacts?</comment>
   </data>
   <data name="Invite_SendAllTitle" xml:space="preserve">
-    <value>Send invitation</value>
+    <value>Отправить приглашение</value>
     <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
+    <value>Пригласить мои контакты</value>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
+    <value>Получите безлимитный Mailbird Pro бесплатно. Ваши контакты получат приглашение в Mailbird</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Quoted_TextHidden" xml:space="preserve">
-    <value>[Quoted text hidden]</value>
+    <value>[Цитата скрыта]</value>
     <comment>[Quoted text hidden]</comment>
   </data>
 <data name="Timeline_ExpireDays" xml:space="preserve">
@@ -4697,207 +4697,207 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>{0} days</comment>
   </data>
   <data name="Reward_AddAccount" xml:space="preserve">
-    <value>Add a second email account</value>
+    <value>Добавить второй аккаунт</value>
     <comment>Add a second email account</comment>
   </data>
   <data name="Reward_AddAccountExplanation" xml:space="preserve">
-    <value>Add a second email account and manage all your accounts in the same place!</value>
+    <value>Добавьте второй аккаунт и управляйте всей почтой в одном месте!</value>
     <comment>Add a second email account and manage all your accounts in the same place!</comment>
   </data>
   <data name="Reward_Apps" xml:space="preserve">
-    <value>Connect 2 apps</value>
+    <value>Подключить 2 приложения</value>
     <comment>Connect 2 apps</comment>
   </data>
   <data name="Reward_AppsExplanation" xml:space="preserve">
-    <value>Enhance your Mailbird experience by customizing your Mailbird with your favorite apps</value>
-  </data>
+    <value>Улучшите свой Mailbird добавив ваши любимые приложения</value>
+    </data>
   <data name="Reward_Compose" xml:space="preserve">
-    <value>Compose your 1st email</value>
+    <value>Напишите ваше первое письмо</value>
     <comment>Compose your 1st email</comment>
   </data>
   <data name="Reward_ComposeExplanation" xml:space="preserve">
-    <value>Discover Mailbird by composing and sending your first email</value>
+    <value>Откройте для себя Mailbird отправив первое письмо</value>
     <comment>Discover Mailbird by composing and sending your first email</comment>
   </data>
   <data name="Reward_Share" xml:space="preserve">
-    <value>Spread the love</value>
+    <value>Делитесь любовью</value>
     <comment>Spread the love</comment>
   </data>
   <data name="Reward_ShareExplanation" xml:space="preserve">
-    <value>Share Mailbird with your friends, family, co-workers</value>
+    <value>Расскажите про Mailbird своим друзьям, семье и коллегам</value>
     <comment>Share Mailbird with your friends, family, co-workers</comment>
   </data>
   <data name="Reward_Snooze" xml:space="preserve">
-    <value>Snooze email</value>
+    <value>Отложить</value>
     <comment>Snooze email</comment>
   </data>
   <data name="Reward_SnoozeExplanation" xml:space="preserve">
-    <value>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</value>
+    <value>Отложите чтение письма на день или час. В назначенное время email вернется во Входящие</value>
     <comment>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</comment>
   </data>
   <data name="Reward_Use" xml:space="preserve">
-    <value>Use Mailbird for 5 consecutive days</value>
+    <value>Используйте Mailbird 5 дней непрерывно</value>
     <comment>Use Mailbird for 5 consecutive days</comment>
   </data>
   <data name="Reward_UseExplanation" xml:space="preserve">
-    <value>Send emails and use apps with Mailbird for 5 days - easy as pie!</value>
+    <value>Отправляйте email и пользуйтесь приложениями в течение 5 дней. Проще простого!</value>
     <comment>Send emails and use apps with Mailbird for 5 days - easy as pie!</comment>
   </data>
   <data name="Reward_Completed" xml:space="preserve">
-    <value>Completed</value>
+    <value>Завершено</value>
     <comment>Completed</comment>
   </data>
   <data name="Reward_ExtraDays" xml:space="preserve">
-    <value>+{0} days</value>
+    <value>+{0} дней</value>
     <comment>+{0} days, 
 {0} will be replaced with number, so it will be +5 days</comment>
   </data>
   <data name="Print_TextHidden" xml:space="preserve">
-    <value>[Quoted text hidden]</value>
+    <value>[Скрытая цитата]</value>
     <comment>[Quoted text hidden]</comment>
   </data>
   <data name="Print_Attachments" xml:space="preserve">
-    <value>Attachments</value>
+    <value>Вложения</value>
     <comment>Attachments</comment>
   </data>
   <data name="Print_Message" xml:space="preserve">
-    <value>Message {0} of {1}</value>
+    <value>Сообщение {0} of {1}</value>
     <comment>Will be converted to:
 Message 1 to 2</comment>
   </data>
   <data name="Print_PrintNow" xml:space="preserve">
-    <value>Print now</value>
+    <value>Печать</value>
     <comment>Print now</comment>
   </data>
   <data name="Notification_FailedToSetSound" xml:space="preserve">
-    <value>Failed to set new message sound</value>
+    <value>Ошибка установки нового звукового файла</value>
     <comment>Failed to set new message sound</comment>
   </data>
   <data name="Notification_FailedToSetSoundExplanation" xml:space="preserve">
-    <value>Please make sure the file is not being used by another program and try again.</value>
+    <value>Пожалуйста, убедитесь что файл не используется другой программой и попробуйте снова.</value>
     <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_FileSize" xml:space="preserve">
-    <value>The file is too large</value>
+    <value>Слишком большой файл</value>
     <comment>The file is too large</comment>
   </data>
   <data name="Notification_FileSizeExplanation" xml:space="preserve">
-    <value>The maximum sound file size is {0}.
-Please choose another file.</value>
+    <value>Максимально допустимый размер файла {0}.
+Пожалуйста выберите другой файл.</value>
     <comment>The maximum sound file size is {0}.
 Please choose another file.</comment>
   </data>
   <data name="Invite_LimitReached" xml:space="preserve">
-    <value>Too many recipients</value>
+    <value>Слишком много получателей</value>
     <comment>Too many recipients</comment>
   </data>
   <data name="Invite_LimitReachedExplanation" xml:space="preserve">
-    <value>The maximum number of recipients is {0}.
-Please remove some and try again.</value>
+    <value>Максимально допустимое количество получателей {0}.
+Пожалуйста, удалите лишние и попробуйте снова.</value>
     <comment>The maximum number of recipients is {0}.
 Please remove some and try again.</comment>
   </data>
   <data name="Options_ShowInboxZero" xml:space="preserve">
-    <value>Show Inbox Zero</value>
+    <value>Показывать Inbox Zero</value>
     <comment>Show Inbox Zero</comment>
   </data>
   <data name="Options_ShowInboxZeroSharing" xml:space="preserve">
-    <value>Show share buttons</value>
+    <value>Показывать кнопки "Поделиться"</value>
     <comment>Show share buttons</comment>
   </data>
   <data name="Reward_TryIt" xml:space="preserve">
-    <value>Try it now!</value>
+    <value>Попробуйте сейчас!</value>
     <comment>Try it now!</comment>
   </data>
   <data name="Reward_Title" xml:space="preserve">
-    <value>Extend Your Mailbird Pro Free Trial</value>
+    <value>Продлите ваш пробный период Mailbird Pro!</value>
     <comment>Extend Your Mailbird Pro Free Trial</comment>
   </data>
   <data name="Reward_GotReward" xml:space="preserve">
-    <value>Congratulations!</value>
+    <value>Поздравляем!</value>
     <comment>Congratulations!</comment>
   </data>
   <data name="Reward_GotRewardExplanation" xml:space="preserve">
-    <value>You just unlocked [bold]{0} extra days[/bold] of Mailbird Pro.
-Want to unlock more rewards?</value>
+    <value>Вы только что получили [bold]{0} дополнительных дней[/bold] Mailbird Pro.
+Хотите еще больше?</value>
     <comment>You just unlocked [bold]{0} extra days[/bold] of Mailbird Pro.
 Want to unlock more rewards?</comment>
   </data>
   <data name="Timeline_ExpireMonths" xml:space="preserve">
-    <value>{0} months</value>
+    <value>{0} месяцев</value>
     <comment>{0} months</comment>
   </data>
   <data name="Menu_RewardsList" xml:space="preserve">
-    <value>Rewards list</value>
+    <value>Список наград</value>
     <comment>Rewards list</comment>
   </data>
   <data name="Signature_SentFrom" xml:space="preserve">
-    <value>Sent from {0}</value>
+    <value>Отправлено из {0}</value>
     <comment>Sent from {0}
 {0} will be replaced by "Mailbird"</comment>
   </data>
   <data name="Ads_BuyNow" xml:space="preserve">
-    <value>Buy Now</value>
+    <value>Купить сейчас</value>
     <comment>Buy Now</comment>
   </data>
   <data name="Ads_GoPro" xml:space="preserve">
-    <value>Go Pro and Boost Your Productivity</value>
+    <value>Попробуйте Mailbird Pro и улучшайте свою продуктивность</value>
     <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
-    <value>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</value>
+    <value>Получите Mailbird Pro с супер-функциями для повышения продуктивности: Snooze, Quick Preview, безлимитные аккаунты и многое другое.</value>
     <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
   </data>
   <data name="Ads_Invite" xml:space="preserve">
-    <value>Invite Friends</value>
+    <value>Пригласить друзей</value>
     <comment>Invite Friends</comment>
   </data>
   <data name="Ads_Refer" xml:space="preserve">
-    <value>Enjoy Mailbird Pro without needing to pay</value>
+    <value>Наслаждайтесь Mailbird Pro бесплатно</value>
     <comment>Enjoy Mailbird Pro without needing to pay</comment>
   </data>
   <data name="Ads_ReferExplanation" xml:space="preserve">
-    <value>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</value>
+    <value>Пригласите друзей и получите 1 бесплатный месяц Mailbird Pro за каждого приглашенного друга</value>
     <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
   </data>
   <data name="Reward_LaunchStartup" xml:space="preserve">
-    <value>Always show this window when Mailbird starts</value>
+    <value>Всегда показывать это окно при старте Mailbird</value>
     <comment>Always show this window when Mailbird starts</comment>
   </data>
   <data name="Reward_TitleSubscription" xml:space="preserve">
-    <value>Extend Your Mailbird Pro Subscription</value>
+    <value>Продлите свою подписку Mailbird Pro</value>
     <comment>Extend Your Mailbird Pro Subscription</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
-    <value>More than 1 account</value>
+    <value>Больше чем 1 аккаунт</value>
     <comment>More than 1 account</comment>
   </data>
   <data name="Print_Loading" xml:space="preserve">
-    <value>Preparing content and loading images...</value>
+    <value>Подготовка контента и загрузка изображений...</value>
     <comment>Preparing content and loading images...</comment>
   </data>
   <data name="Print_NotLoaded" xml:space="preserve">
-    <value>[Content not loaded]</value>
+    <value>[Контент не загружен]</value>
     <comment>[Content not loaded]</comment>
   </data>
   <data name="License_NonPurchaseValidUntil" xml:space="preserve">
-    <value>Your license is valid until {0}.</value>
+    <value>Ваша лицензия действительна до {0}.</value>
     <comment>Your license is valid until {0}.</comment>
   </data>
   <data name="Options_SubscriptionStatus" xml:space="preserve">
-    <value>View subscription details</value>
+    <value>Просмотр деталей подписки</value>
     <comment>View subscription details</comment>
   </data>
   <data name="Options_AutoCollapseBlockquote" xml:space="preserve">
-    <value>Collapse message by default when replying</value>
+    <value>Скрывать цитату при ответе</value>
     <comment>Collapse message by default when replying</comment>
   </data>
   <data name="Invite_NoInvitee" xml:space="preserve">
-    <value>You haven't invited any contacts</value>
+    <value>Вы не пригласили ни одного контакта</value>
     <comment>You haven't invited any contacts</comment>
   </data>
   <data name="Error_DownloadingMessagePop3" xml:space="preserve">
-    <value>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</value>
+    <value>Исходный код сообщения не может быть загружен. Скорее всего причина в том что сообщения уже нет на сервере.</value>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 </root>
