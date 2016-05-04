@@ -724,8 +724,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright 2016 Mailbird. All Rights Reserved.</value>
-    <comment>Copyright 2016 Mailbird. All Rights Reserved.</comment>
+    <value>Copyright {0} Mailbird. All Rights Reserved.</value>
+    <comment>Copyright {current year} Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
     <value>Version</value>
@@ -2550,10 +2550,8 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
-Keep inviting friends and you can enjoy Mailbird Pro free for life.</value>
-    <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
-Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
+    <value>Invite your friends to try Mailbird &amp; get [bold]Mailbird Pro Lifetime for free [/bold] when {0} or more friends install it from your invites. Invite as many friends as you like!</value>
+    <comment>Invite your friends to try Mailbird &amp; get [bold]Mailbird Pro Lifetime for free [/bold] when {0} or more friends install it from your invites. Invite as many friends as you like!</comment>
   </data>
   <data name="Invite_FailedConnectionMessage" xml:space="preserve">
     <value>The connection failed. Please try again later.
@@ -2592,8 +2590,10 @@ Message: {0}</comment>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Pro free for life</value>
-    <comment>Get Mailbird Pro free for life</comment>
+    <value>[bold]Invite friends to fly together[/bold]
+and get Mailbird Lifetime for free!</value>
+    <comment>[bold]Invite friends to fly together[/bold]
+and get Mailbird Lifetime for free!</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
     <value>Sent invitations</value>
@@ -2604,8 +2604,8 @@ Message: {0}</comment>
     <comment>Could not invite people</comment>
   </data>
   <data name="Invite_ViewList" xml:space="preserve">
-    <value>View invitations</value>
-    <comment>View invitations</comment>
+    <value>See invitations</value>
+    <comment>See invitations</comment>
   </data>
   <data name="Options_ChangeProxy" xml:space="preserve">
     <value>Change proxy settings</value>
@@ -2664,12 +2664,12 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
-    <value>The selected language will be applied after you restart Mailbird</value>
-    <comment>The selected language will be applied after you restart Mailbird</comment>
+    <value>The selected language will be applied after you restart Mailbird.</value>
+    <comment>The selected language will be applied after you restart Mailbird.</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
-    <value>Restart required for the changes to take effect</value>
-    <comment>Restart required for the changes to take effect</comment>
+    <value>Restart required for the changes to take effect.</value>
+    <comment>Restart required for the changes to take effect.</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
     <value>Setup your avatar at http://gravatar.com</value>
@@ -3873,10 +3873,8 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
-Help us grow and improve by simply inviting your friends to Mailbird today.</value>
-    <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
-Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
+    <value>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</value>
+    <comment>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="Invite_TitleBlockLifetime" xml:space="preserve">
     <value>Tell your friends so we can grow together!</value>
@@ -4902,5 +4900,54 @@ Want to unlock more rewards?</comment>
   <data name="Error_DownloadingMessagePop3" xml:space="preserve">
     <value>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</value>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
+  </data>
+  <data name="Options_RestartNow" xml:space="preserve">
+    <value>Restart now</value>
+    <comment>Restart now</comment>
+  </data>
+  <data name="Awesomium_GoogleSearch" xml:space="preserve">
+    <value>Search Google for "{0}"</value>
+    <comment>PS: leave the {0},
+the final result will be: Search Google for "query"</comment>
+  </data>
+  <data name="FolderControl_Search" xml:space="preserve">
+    <value>Search folders</value>
+    <comment>Search folders</comment>
+  </data>
+  <data name="Shortcut_SearchFolders" xml:space="preserve">
+    <value>Search Folders</value>
+    <comment>Search Folders</comment>
+  </data>
+  <data name="Shortcut_SearchFoldersExplanation" xml:space="preserve">
+    <value>Puts your cursor in the search folders box.</value>
+    <comment>Puts your cursor in the search folders box.</comment>
+  </data>
+  <data name="Invite_AcceptedProgress" xml:space="preserve">
+    <value>Nice! [bold]{0} of {1}[/bold] invitations accepted!</value>
+    <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
+  </data>
+  <data name="Invite_SeeAll" xml:space="preserve">
+    <value>See all</value>
+    <comment>See all</comment>
+  </data>
+  <data name="Message_CloseSpeedRead" xml:space="preserve">
+    <value>Back to normal reading</value>
+    <comment>Back to normal reading</comment>
+  </data>
+  <data name="Shortcut_SpeedRead" xml:space="preserve">
+    <value>Speed read</value>
+    <comment>Speed read</comment>
+  </data>
+  <data name="Shortcut_SpeedReadExplanation" xml:space="preserve">
+    <value>Read the selected email more quickly in speed read mode</value>
+    <comment>Read the selected email more quickly in speed read mode</comment>
+  </data>
+  <data name="SpeedRead_Finish" xml:space="preserve">
+    <value>Finish</value>
+    <comment>Finish</comment>
+  </data>
+  <data name="WebControl_Print" xml:space="preserve">
+    <value>Print...</value>
+    <comment>Print...</comment>
   </data>
 </root>
