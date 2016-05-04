@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -724,7 +724,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright 2016 Mailbird. Med enerett.</value>
+    <value>Copyright {0} Mailbird. Med enerett.</value>
     <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -2547,8 +2547,7 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Hver gang en venn bruker Mailbird fra din invitasjon, vil dere begge få 1 måned gratis Mailbird Pro.
-Fortsett og invitér venner, og du kan nyte Mailbird Pro gratis for alltid.</value>
+    <value>Inviter dine venner til å prøve Mailbird &amp; få [bold]Mailbird Pro for livstid helt gratis[/bold] når {0} eller flere venner installerer fra dine invitasjoner. Inviter så mange venner du bare vil!</value>
     <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
@@ -2661,11 +2660,11 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
-    <value>Det valgte språket vil bli aktivert etter at du starter Mailbird på nytt</value>
+    <value>Det valgte språket vil bli aktivert etter at du starter Mailbird på nytt.</value>
     <comment>The selected language will be applied after you restart Mailbird</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
-    <value>Restart er nødvendig for at endringene skal aktiveres</value>
+    <value>Restart er nødvendig for at endringene skal aktiveres.</value>
     <comment>Restart required for the changes to take effect</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
@@ -3869,8 +3868,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Vet du om andre som kunne ha nytte av å foréne alle kommunikasjonskanaler på ett sted med Mailbird?
-Hjelp oss og vokse ved å enkelt invitere dine venner til Mailbird i dag.</value>
+    <value>Elsker du Mailbird? Hjelp oss og vokse ved å enkelt invitere dine venner til Mailbird i dag.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
@@ -4902,52 +4900,52 @@ Want to unlock more rewards?</comment>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 <data name="Options_RestartNow" xml:space="preserve">
-    <value>Restart now</value>
+    <value>Start på nytt nå</value>
     <comment>Restart now</comment>
   </data>
   <data name="Awesomium_GoogleSearch" xml:space="preserve">
-    <value>Search Google for "{0}"</value>
+    <value>Søk på Google etter "{0}"</value>
     <comment>PS: leave the {0},
 the final result will be: Search Google for "query"</comment>
   </data>
   <data name="FolderControl_Search" xml:space="preserve">
-    <value>Search folders</value>
+    <value>Søk mapper</value>
     <comment>Search folders</comment>
   </data>
   <data name="Shortcut_SearchFolders" xml:space="preserve">
-    <value>Search Folders</value>
+    <value>Søk mapper</value>
     <comment>Search Folders</comment>
   </data>
   <data name="Shortcut_SearchFoldersExplanation" xml:space="preserve">
-    <value>Puts your cursor in the search folders box.</value>
+    <value>Setter musepekeren i søkeboksen for mapper.</value>
     <comment>Puts your cursor in the search folders box.</comment>
   </data>
   <data name="Invite_AcceptedProgress" xml:space="preserve">
-    <value>Nice! [bold]{0} of {1}[/bold] invitations accepted!</value>
+    <value>Flott! [bold]{0} av {1}[/bold] invitasjoner akseptert!</value>
     <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
   </data>
   <data name="Invite_SeeAll" xml:space="preserve">
-    <value>See all</value>
+    <value>Se alle</value>
     <comment>See all</comment>
   </data>
   <data name="Message_CloseSpeedRead" xml:space="preserve">
-    <value>Back to normal reading</value>
+    <value>Tilbake til normal lesing</value>
     <comment>Back to normal reading</comment>
   </data>
   <data name="Shortcut_SpeedRead" xml:space="preserve">
-    <value>Speed read</value>
+    <value>Hurtiglesning</value>
     <comment>Speed read</comment>
   </data>
   <data name="Shortcut_SpeedReadExplanation" xml:space="preserve">
-    <value>Read the selected email more quickly in speed read mode</value>
+    <value>Les valgt e-post raskere med hurtiglesning</value>
     <comment>Read the selected email more quickly in speed read mode</comment>
   </data>
   <data name="SpeedRead_Finish" xml:space="preserve">
-    <value>Finish</value>
+    <value>Ferdig</value>
     <comment>Finish</comment>
   </data>
   <data name="WebControl_Print" xml:space="preserve">
-    <value>Print...</value>
+    <value>Skriv ut ...</value>
     <comment>Print...</comment>
   </data>
 </root>
