@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -721,7 +721,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright 2015 Mailbird. Tous droits réservés.</value>
+    <value>Copyright {0} Mailbird. Tous droits réservés.</value>
     <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -1213,7 +1213,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Small</comment>
   </data>
   <data name="LinkEditor_TextToDisplay" xml:space="preserve">
-    <value>Texte à afficher :</value>
+    <value>Afficher le texte :</value>
     <comment>Text to display:</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
@@ -2440,7 +2440,7 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>L'identité de l'expéditeur qui sera présélectionné lors de la composition d'un nouveau message utilisant ce compte</value>
+    <value>Identité de l'expéditeur qui sera présélectionné lors de la composition d'un nouveau message utilisant ce compte</value>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
@@ -2546,8 +2546,7 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Chaque fois qu'un de vos amis rejoint Mailbird via votre invitation, vous obtenez tous les deux un mois d'abonnement gratuit à Mailbird Pro.
-Continuez à inviter des amis et vous pourrez ainsi profiter de Mailbird Pro gratuit à vie !</value>
+    <value>Faîtes s'inscrire {0} de vos amis et obtenez Mailbird Pro Lifetime gratuitement!</value>
     <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
@@ -2588,7 +2587,7 @@ Message: {0}</comment>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>Obtenez Mailbird Pro gratuitement, à vie</value>
+    <value>Obtenez Mailbird Pro Lifetime gratuitement :)</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -2664,7 +2663,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>The selected language will be applied after you restart Mailbird</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
-    <value>Un redémarrage est nécessaire pour que les modifications soient prises en compte </value>
+    <value>Un redémarrage est nécessaire pour que les modifications soient prises en compte</value>
     <comment>Restart required for the changes to take effect</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
@@ -3868,8 +3867,8 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Connaissez-vous d'autres personnes qui souhaiterai unifier tous les canaux de communication en ligne en un seul endroit avec Mailbird ?
-Aidez-nous à en invitant vos amis à essayer Mailbird aujourd'hui.</value>
+    <value>Vous adorez Mailbird ?
+Aidez-nous à en invitant vos amis à découvrir Mailbird aujourd'hui!</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
@@ -4343,7 +4342,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold]. Please input your password and any other missing details below.
+    <value>Import [bold]{0}[/bold]. Merci d'insérer les éléments manquants ci-dessous.
 Account {1} of {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
