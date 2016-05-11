@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -724,7 +724,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright 2016 Mailbird. Tutti i diritti riservati.</value>
+    <value>Copyright {0} Mailbird. Tutti i diritti riservati.</value>
     <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -2546,8 +2546,7 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Ogni volta che un amico che hai invitato si iscrive a Mailbird, riceverete entrambi 1 mese gratuito di Mailbird Pro.
-Continua a invitare amici per riuscire ad avere Mailbird Pro, gratis per tutta la vita.</value>
+    <value>Invita i tuoi amici a provare Mailbird e ricevi [bold]Mailbird Pro gratis per sempre[/bold] quando {0} o più amici installano Mailbird. Invita quanti amici vuoi!</value>
     <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
@@ -2588,7 +2587,8 @@ Message: {0}</comment>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>Ottieni Mailbord Pro gratis per sempre</value>
+    <value>[bold]Invita i tuoi amici[/bold]
+e ottieni Mailbird gratis per sempre!</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -2660,11 +2660,11 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
-    <value>La lingua selezionata verrà applicata dopo il riavvio di Mailbird</value>
+    <value>La lingua selezionata verrà applicata dopo il riavvio di Mailbird.</value>
     <comment>The selected language will be applied after you restart Mailbird</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
-    <value>Riavvia per applicare le modifiche</value>
+    <value>Riavvia Mailbird per applicare le modifiche.</value>
     <comment>Restart required for the changes to take effect</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
@@ -3868,8 +3868,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Conosci qualcuno a cui piacerebbe unire tutti i canali di comunicazione in una sola applicazione come Mailbird?
-Aiutaci a crescere e a migliorarci invitando i tuoi amici su Mailbird.</value>
+    <value>Ti piace Mailbird? Aiutaci a crescere e a migliorarci invitando i tuoi amici su Mailbird, ora.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>

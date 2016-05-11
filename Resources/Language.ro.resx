@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -2547,8 +2547,7 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>De fiecare dată când un prieten se alătură lui Mailbird la invitația dvs., amândoi primiți 1 lună gratuită de Mailbird Pro.
-Continuați să invitați prieteni și vă puteți bucura gratuit de Mailbird Pro pe viață.</value>
+    <value>Invite your friends to try Mailbird &amp; get [bold]Mailbird Pro Lifetime for free [/bold] when {0} or more friends install it from your invites. Invite as many friends as you like!</value>
     <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
@@ -2589,7 +2588,8 @@ Message: {0}</comment>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>Obțineți Mailbird Pro gratuit pe viață</value>
+    <value>[bold] Invitați prietenii să zburați împreună [/ bold]
+și să obțineți Mailbird pe viață gratuit!</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -2661,11 +2661,11 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
-    <value>Limba selectată va fi aplicată după ce reporniți Mailbird</value>
+    <value>Limba selectată va fi aplicată după ce reporniți Mailbird.</value>
     <comment>The selected language will be applied after you restart Mailbird</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
-    <value>Repornirea este necesară pentru ca modificările să aibă efect</value>
+    <value>Este necesară repornirea programului pentru ca modificările să aibă efect.</value>
     <comment>Restart required for the changes to take effect</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
@@ -3869,8 +3869,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Știți alte persoane care ar beneficia din unificarea tuturor canalelor de comunicare online într-un singur loc, cu Mailbird?
-Ajutați-ne să creștem și să ne îmbunătățim prin simpla invitație a prietenilor dvs. la Mailbird astăzi.</value>
+    <value>Vă place Mailbird? Ajutați-ne să creștem și să ne îmbunătățim pur și simplu prin invitarea prietenilor dvs. la Mailbird astăzi.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
@@ -4903,52 +4902,52 @@ Want to unlock more rewards?</comment>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 <data name="Options_RestartNow" xml:space="preserve">
-    <value>Restart now</value>
+    <value>Reporniți acum</value>
     <comment>Restart now</comment>
   </data>
   <data name="Awesomium_GoogleSearch" xml:space="preserve">
-    <value>Search Google for "{0}"</value>
+    <value>Căutați pe Google "{0}"</value>
     <comment>PS: leave the {0},
 the final result will be: Search Google for "query"</comment>
   </data>
   <data name="FolderControl_Search" xml:space="preserve">
-    <value>Search folders</value>
+    <value>Căutare dosare</value>
     <comment>Search folders</comment>
   </data>
   <data name="Shortcut_SearchFolders" xml:space="preserve">
-    <value>Search Folders</value>
+    <value>Căutare dosare</value>
     <comment>Search Folders</comment>
   </data>
   <data name="Shortcut_SearchFoldersExplanation" xml:space="preserve">
-    <value>Puts your cursor in the search folders box.</value>
+    <value>Plasează cursorul în caseta de căutare a dosarelor.</value>
     <comment>Puts your cursor in the search folders box.</comment>
   </data>
   <data name="Invite_AcceptedProgress" xml:space="preserve">
-    <value>Nice! [bold]{0} of {1}[/bold] invitations accepted!</value>
+    <value>Frumos! [bold] {0} din {1} [/ bold] invitații acceptate!</value>
     <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
   </data>
   <data name="Invite_SeeAll" xml:space="preserve">
-    <value>See all</value>
+    <value>Vezi toate</value>
     <comment>See all</comment>
   </data>
   <data name="Message_CloseSpeedRead" xml:space="preserve">
-    <value>Back to normal reading</value>
+    <value>Înapoi la citire normală</value>
     <comment>Back to normal reading</comment>
   </data>
   <data name="Shortcut_SpeedRead" xml:space="preserve">
-    <value>Speed read</value>
+    <value>Citire rapidă</value>
     <comment>Speed read</comment>
   </data>
   <data name="Shortcut_SpeedReadExplanation" xml:space="preserve">
-    <value>Read the selected email more quickly in speed read mode</value>
+    <value>Citiți emailul selectat mai rapid în modul citire rapidă</value>
     <comment>Read the selected email more quickly in speed read mode</comment>
   </data>
   <data name="SpeedRead_Finish" xml:space="preserve">
-    <value>Finish</value>
+    <value>Finalizare</value>
     <comment>Finish</comment>
   </data>
   <data name="WebControl_Print" xml:space="preserve">
-    <value>Print...</value>
+    <value>Printare...</value>
     <comment>Print...</comment>
   </data>
 </root>
