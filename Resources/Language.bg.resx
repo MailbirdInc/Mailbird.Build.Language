@@ -1,2 +1,592 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root></root>
+<?xml version='1.0' encoding='UTF-8'?>
+<root><data name="Attachment_QuickPreview" xml:space="preserve">
+    <value>Бърз преглед</value>
+    <comment>Quick preview</comment>
+  </data>
+  <data name="Attachment_Remove" xml:space="preserve">
+    <value>Премахни</value>
+    <comment>Remove</comment>
+  </data>
+  <data name="Attachment_Save" xml:space="preserve">
+    <value>Запиши като...</value>
+    <comment>Save as...</comment>
+  </data>
+  <data name="Attachment_SaveAll" xml:space="preserve">
+    <value>Запиши всичко като...</value>
+    <comment>Save all as...</comment>
+  </data>
+  <data name="Awesomium_CopyEmail" xml:space="preserve">
+    <value>Копирай имейл адрес</value>
+    <comment>Copy email address</comment>
+  </data>
+  <data name="Awesomium_CopyHtml" xml:space="preserve">
+    <value>Копирай HTML</value>
+    <comment>Copy HTML</comment>
+  </data>
+  <data name="Awesomium_CopyImage" xml:space="preserve">
+    <value>Копирай изображението</value>
+    <comment>Copy image</comment>
+  </data>
+  <data name="Awesomium_CopyImageUrl" xml:space="preserve">
+    <value>Копирай адреса на изображението</value>
+    <comment>Copy image address</comment>
+  </data>
+  <data name="Awesomium_CopyLink" xml:space="preserve">
+    <value>Копирай адреса на линка</value>
+    <comment>Copy link address</comment>
+  </data>
+  <data name="Awesomium_Cut" xml:space="preserve">
+    <value>Изрежи</value>
+    <comment>Cut</comment>
+  </data>
+  <data name="Awesomium_Ignore" xml:space="preserve">
+    <value>Игнорирай дума</value>
+    <comment>Ignore word</comment>
+  </data>
+  <data name="Awesomium_Paste" xml:space="preserve">
+    <value>Постави</value>
+    <comment>Paste</comment>
+  </data>
+  <data name="Attachment_Open" xml:space="preserve">
+    <value>Отвори</value>
+    <comment>Open</comment>
+  </data>
+  <data name="Awesomium_Copy" xml:space="preserve">
+    <value>Копирай</value>
+    <comment>Copy</comment>
+  </data>
+  <data name="Awesomium_PastePlain" xml:space="preserve">
+    <value>Постави като обикновен текст</value>
+    <comment>Paste as plain text</comment>
+  </data>
+  <data name="Awesomium_SaveImage" xml:space="preserve">
+    <value>Запиши изображението като...</value>
+    <comment>Save image as...</comment>
+  </data>
+  <data name="Awesomium_SelectAll" xml:space="preserve">
+    <value>Избери всичко</value>
+    <comment>Select all</comment>
+  </data>
+  <data name="Contact_Copy" xml:space="preserve">
+    <value>Копирай имейл</value>
+    <comment>Copy email</comment>
+  </data>
+  <data name="Contact_CopyMailName" xml:space="preserve">
+    <value>Копирай име и имейл</value>
+    <comment>Copy name and email</comment>
+  </data>
+  <data name="Contact_NewMail" xml:space="preserve">
+    <value>Изпрати ново писмо</value>
+    <comment>Send new mail</comment>
+  </data>
+  <data name="Conversation_Archive" xml:space="preserve">
+    <value>Архив</value>
+    <comment>Archive</comment>
+  </data>
+  <data name="Conversation_DeletePermanently" xml:space="preserve">
+    <value>Изтрий завинаги</value>
+    <comment>Delete permanently</comment>
+  </data>
+  <data name="Conversation_Discard" xml:space="preserve">
+    <value>Откажи</value>
+    <comment>Discard</comment>
+  </data>
+  <data name="Conversation_Draft" xml:space="preserve">
+    <value>Чернова</value>
+    <comment>Draft</comment>
+  </data>
+  <data name="Conversation_EmptyFolder" xml:space="preserve">
+    <value>Празна папка</value>
+    <comment>Empty folder</comment>
+  </data>
+  <data name="Conversation_Forward" xml:space="preserve">
+    <value>Препрати</value>
+    <comment>Forward</comment>
+  </data>
+  <data name="Conversation_Folders" xml:space="preserve">
+    <value>Папки</value>
+    <comment>Folders</comment>
+  </data>
+  <data name="Conversation_CopyTo" xml:space="preserve">
+    <value>Копирай в</value>
+    <comment>Copy to</comment>
+  </data>
+  <data name="Conversation_CopyTo2" xml:space="preserve">
+    <value>Копирай в...</value>
+    <comment>Copy to...</comment>
+  </data>
+  <data name="Options_SettingsMoreInfo" xml:space="preserve">
+    <value>Mailbird автоматично ще коригира тази настройка всеки път, когато вашите dpi настройки се променят. Но ако вие ръчно промените тази настройка, Mailbird ще запази стойността до като вие не промените вашите dpi настройки. Стойността по подразбиране е 100%</value>
+    <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
+  </data>
+  <data name="Conversation_MarkImportant" xml:space="preserve">
+    <value>Маркирай като важно</value>
+    <comment>Mark as important</comment>
+  </data>
+  <data name="Conversation_MarkNotImportant" xml:space="preserve">
+    <value>Маркирай като маловажно</value>
+    <comment>Mark as not important</comment>
+  </data>
+  <data name="Conversation_MarkNotRead" xml:space="preserve">
+    <value>Маркирай като непрочетено</value>
+    <comment>Mark as unread</comment>
+  </data>
+  <data name="Conversation_MarkNotSpam" xml:space="preserve">
+    <value>Маркирай като не спам</value>
+    <comment>Mark as not spam</comment>
+  </data>
+  <data name="Conversation_MarkRead" xml:space="preserve">
+    <value>Маркирай като прочетено</value>
+    <comment>Mark as read</comment>
+  </data>
+  <data name="Conversation_MarkSpam" xml:space="preserve">
+    <value>Маркирай като спам</value>
+    <comment>Mark as spam</comment>
+  </data>
+  <data name="Conversation_MoveTo" xml:space="preserve">
+    <value>Премести в...</value>
+    <comment>Move to...</comment>
+  </data>
+  <data name="Conversation_MoveToInbox" xml:space="preserve">
+    <value>Премести във 'Входящи'</value>
+    <comment>Move to Inbox</comment>
+  </data>
+  <data name="Conversation_NoConversations" xml:space="preserve">
+    <value>Няма разговори в тази папка</value>
+    <comment>No conversations in this folder</comment>
+  </data>
+  <data name="Conversation_Print" xml:space="preserve">
+    <value>Принтирай разговор</value>
+    <comment>Print conversation</comment>
+  </data>
+  <data name="Conversation_Reply" xml:space="preserve">
+    <value>Отговори</value>
+    <comment>Reply</comment>
+  </data>
+  <data name="Conversation_ReplyAll" xml:space="preserve">
+    <value>Отговори до всички</value>
+    <comment>Reply to all</comment>
+  </data>
+  <data name="Conversation_Sending" xml:space="preserve">
+    <value>Изпращане</value>
+    <comment>Sending</comment>
+  </data>
+  <data name="Conversation_To" xml:space="preserve">
+    <value>До: </value>
+    <comment>To: </comment>
+  </data>
+  <data name="Conversation_ToMe" xml:space="preserve">
+    <value>до мен </value>
+    <comment>to me</comment>
+  </data>
+  <data name="Conversation_To2" xml:space="preserve">
+    <value>До</value>
+    <comment>To</comment>
+  </data>
+  <data name="Dialog_AbortReport" xml:space="preserve">
+    <value>Затваряне на диалоговият прозорец по време на изпращане също ще прекрати доклада. Сигурни ли сте, че искате да прекратите доклада?</value>
+    <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
+  </data>
+  <data name="Dialog_AlreadyAttached" xml:space="preserve">
+    <value>Вече прикачено</value>
+    <comment>Already attached</comment>
+  </data>
+  <data name="Dialog_AlreadyAttachedExplanation" xml:space="preserve">
+    <value>Не може да добавите файл, който е вече прикачен.</value>
+    <comment>You can't add file that is already attached.</comment>
+  </data>
+  <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
+    <value>Моля изчакайте до като всички прикачени файлове се свалят преди препращане</value>
+    <comment>Please wait until all attachments have been downloaded before forwarding</comment>
+  </data>
+  <data name="Dialog_Cancel" xml:space="preserve">
+    <value>Отмени</value>
+    <comment>Cancel</comment>
+  </data>
+  <data name="Dialog_Stop" xml:space="preserve">
+    <value>Спри</value>
+    <comment>Stop</comment>
+  </data>
+  <data name="Dialog_CantRemoveIdentity" xml:space="preserve">
+    <value>Не може да премахне самоличност</value>
+    <comment>Cannot remove identity</comment>
+  </data>
+  <data name="Dialog_CantRemoveIdentityExplanation" xml:space="preserve">
+    <value>Тази самоличност е главната самоличност за акаунт и не може да бъде премахната.</value>
+    <comment>This identity is the main identity of an account and cannot be removed.</comment>
+  </data>
+  <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
+    <value>Не може да извлече достъп</value>
+    <comment>Could not retrieve access</comment>
+  </data>
+  <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
+    <value>Маркер за достъп до facebook не беше върнат. Моля опитайте отново.</value>
+    <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
+  </data>
+  <data name="Dialog_AttachmentNotDownloaded" xml:space="preserve">
+    <value>Неизтеглени файлове</value>
+    <comment>Attachment(s) not downloaded</comment>
+  </data>
+  <data name="Dialog_CantSave" xml:space="preserve">
+    <value>Файлът не беше записан</value>
+    <comment>Could not save file</comment>
+  </data>
+  <data name="Dialog_CantSaveExplanation" xml:space="preserve">
+    <value>Файл '{0}' не беше записан. Файлът все още се ползва.</value>
+    <comment>The file '{0}' could not be saved. File already in use.</comment>
+  </data>
+  <data name="Dialog_DownloadFail" xml:space="preserve">
+    <value>Неуспешно изтегляне</value>
+    <comment>Download failed</comment>
+  </data>
+  <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
+    <value>Прикачения файл не беше свален
+Описание: {0}
+Url: {1}</value>
+    <comment>Could not download the attachment. 
+Description: {0}
+Url: {1}</comment>
+  </data>
+  <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
+    <value>Моля изчакайте до като всички прикачени файлове се свалят или премахнете всички прикачени файлове.</value>
+    <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
+  </data>
+  <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
+    <value>Самоличността не може да бъде създадена</value>
+    <comment>Cannot create identity</comment>
+  </data>
+  <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
+    <value>Вече съществува самоличност със същия имейл адрес.</value>
+    <comment>An identity with the same email address already exists.</comment>
+  </data>
+  <data name="Dialog_EmailSending" xml:space="preserve">
+    <value>Имейлите се изпращат</value>
+    <comment>Emails are sending</comment>
+  </data>
+  <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
+    <value>Все още се изпращат съобщения. Сигурни ли сте, че искате да излезете сега и да забавите изпращането?</value>
+    <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
+  </data>
+  <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
+    <value>Трябва отново да се удостоверим с Facebook.
+Искате ли да свържете вашият Facebook отново?</value>
+    <comment>We need to re-authenticate with Facebook.
+Do you want to reconnect your Facebook?</comment>
+  </data>
+  <data name="Dialog_FileNotFound" xml:space="preserve">
+    <value>Файлът не е намерен</value>
+    <comment>File not found</comment>
+  </data>
+  <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
+    <value>Не може да намери '{0}'. Моля проверете дали файлът е на правилното място или не.</value>
+    <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
+  </data>
+  <data name="Dialog_Loading" xml:space="preserve">
+    <value>Зареждане</value>
+    <comment>Loading</comment>
+  </data>
+  <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
+    <value>Вие добавихте връзки към локални файлове на вашия компютър, които получателят не може да достъпи. Възнамерявате ли да направите това?</value>
+    <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
+  </data>
+  <data name="Dialog_No" xml:space="preserve">
+    <value>Не</value>
+    <comment>No</comment>
+  </data>
+  <data name="Dialog_NoBrowser" xml:space="preserve">
+    <value>Не беше намерен браузър по подразбиране</value>
+    <comment>No default browser found</comment>
+  </data>
+  <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
+    <value>URL адреса не може да бъде отворен. Моля проверете, че правилно сте инсталирали браузъра по подразбиране и опитайте да преинсталирате на пример Google Chrome или Internet Explorer.</value>
+    <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
+  </data>
+  <data name="Dialog_OK" xml:space="preserve">
+    <value>ОК</value>
+    <comment>OK</comment>
+  </data>
+  <data name="Dialog_RemoveAccount" xml:space="preserve">
+    <value>Премахване на локален акаунт?</value>
+    <comment>Remove local account?</comment>
+  </data>
+  <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да премахнете акаунта и всички свързани самоличности?
+
+Това ще рестартира Mailbird и може да отнеме няколко минути.</value>
+    <comment>Are you sure you want to remove the account and all connected identities?
+
+This will restart Mailbird and may take a few minutes.</comment>
+  </data>
+  <data name="Dialog_RemoveIdentity" xml:space="preserve">
+    <value>Премахване на самоличност?</value>
+    <comment>Remove identity?</comment>
+  </data>
+  <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да премахнете самоличността за '{0}'?
+Това действие е необратимо.</value>
+    <comment>Are you sure you want to remove the identity for '{0}'?
+This action is irreversible.</comment>
+  </data>
+  <data name="Dialog_ReportCantSend" xml:space="preserve">
+    <value>Не може да изпрати</value>
+    <comment>Could not send</comment>
+  </data>
+  <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
+    <value>Съжаляваме, но вашият доклад не може да бъде изпратен.
+Ние ще го оценим, ако го изпратите като имейл директно до {0}.
+Съобщение:</value>
+    <comment>We're sorry, but your report could not be sent. 
+We would appreciate it, if you could email it directly to {0} instead.
+Message:</comment>
+  </data>
+  <data name="InstallationForm_StartMailbird" xml:space="preserve">
+    <value/>
+    <comment>Start Mailbird</comment>
+  </data>
+  <data name="InstallationForm_RunStartup" xml:space="preserve">
+    <value/>
+    <comment>Start automatically with Windows</comment>
+  </data>
+  <data name="Dialog_ReportSent" xml:space="preserve">
+    <value>Доклад изпратен</value>
+    <comment>Report sent</comment>
+  </data>
+  <data name="Dialog_ReportSentExplanation" xml:space="preserve">
+    <value>Благодарим ви, че докладвахте този проблем!</value>
+    <comment>Thank you for reporting this issue!</comment>
+  </data>
+  <data name="Dialog_SendingDescription" xml:space="preserve">
+    <value>Изпращане на описание</value>
+    <comment>Sending description</comment>
+  </data>
+  <data name="Dialog_SendingDescriptionExplanation" xml:space="preserve">
+    <value>Благодарим ви, че докладвахте този проблем!</value>
+    <comment>Thank you for reporting this issue!</comment>
+  </data>
+  <data name="Dialog_SendScreenshot" xml:space="preserve">
+    <value>Потвърдете изпращането на снимката</value>
+    <comment>Confirm sending screenshot</comment>
+  </data>
+  <data name="Dialog_SendScreenshotExplanation" xml:space="preserve">
+    <value>Вие избрахте полето за изпращане на сника заедно с този доклад за да ни помогнете да идентифицираме причината за проблема. Моля потвърдете.</value>
+    <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
+  </data>
+  <data name="Dialog_SizeLimit" xml:space="preserve">
+    <value>Границата за размер е превишена</value>
+    <comment>Size limit exceeded</comment>
+  </data>
+  <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
+    <value>Не може да добавите файл по голям от 25 MB.</value>
+    <comment>You can't add file larger than 25 mb each.</comment>
+  </data>
+  <data name="Dialog_SmtpFail" xml:space="preserve">
+    <value>SMTP грешка</value>
+    <comment>SMTP connection error</comment>
+  </data>
+  <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
+    <value>Възникна грешка по време на верифицирането на настройките за връзка. Моля проверете, че всичко е правилно добавено.</value>
+    <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
+  </data>
+  <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
+    <value>Успешно се свързахме с SMTP сървъра. Всичко изглежда наред.</value>
+    <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
+  </data>
+  <data name="Dialog_Thanks" xml:space="preserve">
+    <value>Благодаря!</value>
+    <comment>Thanks!</comment>
+  </data>
+  <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
+    <value>Моля изчакайте до като вашата входяща поща се зареди</value>
+    <comment>Please wait until your Inbox has loaded</comment>
+  </data>
+  <data name="Dialog_Warning" xml:space="preserve">
+    <value>Предупреждение</value>
+    <comment>Warning</comment>
+  </data>
+  <data name="Dialog_WhoToEmail" xml:space="preserve">
+    <value>До кой бихте искали да изпратите имейл?</value>
+    <comment>Who'd you like to email?</comment>
+  </data>
+  <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
+    <value>Моля, посочете поне един получател.</value>
+    <comment>Please specify at least one recipient.</comment>
+  </data>
+  <data name="Dialog_WithoutAttachment" xml:space="preserve">
+    <value>Изпрати без прекачени файлове?</value>
+    <comment>Send without attachments?</comment>
+  </data>
+  <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
+    <value>Вие написахте '{0}' и за това решихме, че може би искате да прикачите файл.
+Ако искате да изпратите имейла без прикачени файлове, просто натиснете "Ок" по-долу.</value>
+    <comment>You wrote "{0}", and we thought you might want to attach a file.
+If you want to send the email without attachments, just press "Ok" below.</comment>
+  </data>
+  <data name="Dialog_Yes" xml:space="preserve">
+    <value>Да</value>
+    <comment>Yes</comment>
+  </data>
+  <data name="Editor_Html" xml:space="preserve">
+    <value>Редактиране на Html</value>
+    <comment>Edit Html</comment>
+  </data>
+  <data name="Editor_Picture" xml:space="preserve">
+    <value>Вмъкване на изображение</value>
+    <comment>Insert image</comment>
+  </data>
+  <data name="InboxZero" xml:space="preserve">
+    <value>Нула входящи</value>
+    <comment>Inbox Zero</comment>
+  </data>
+  <data name="InboxZero_Awesome" xml:space="preserve">
+    <value>Вие сте страхотни!</value>
+    <comment>You are awesome!</comment>
+  </data>
+  <data name="Dialog_Close" xml:space="preserve">
+    <value>Затваряне</value>
+    <comment>Close</comment>
+  </data>
+  <data name="Dialog_Help" xml:space="preserve">
+    <value>Помощ</value>
+    <comment>Help</comment>
+  </data>
+  <data name="Account_Create" xml:space="preserve">
+    <value>Създаване на акаунт</value>
+    <comment>Create account</comment>
+  </data>
+  <data name="Account_Edit" xml:space="preserve">
+    <value>Редакция на акаунт</value>
+    <comment>Edit account</comment>
+  </data>
+  <data name="Account_Email" xml:space="preserve">
+    <value>Имейл:</value>
+    <comment>Email:</comment>
+  </data>
+  <data name="Account_Name" xml:space="preserve">
+    <value>Вашето име:</value>
+    <comment>Your name:</comment>
+  </data>
+  <data name="Account_Password" xml:space="preserve">
+    <value>Парола:</value>
+    <comment>Password:</comment>
+  </data>
+  <data name="Account_WrongPassword" xml:space="preserve">
+    <value>Моля въведете правилната парола</value>
+    <comment>Please enter the correct password</comment>
+  </data>
+  <data name="Dialog_Add" xml:space="preserve">
+    <value>Добави</value>
+    <comment>Add</comment>
+  </data>
+  <data name="Dialog_Browse" xml:space="preserve">
+    <value>Преглед</value>
+    <comment>Browse</comment>
+  </data>
+  <data name="Dialog_Continue" xml:space="preserve">
+    <value>Продължи</value>
+    <comment>Continue</comment>
+  </data>
+  <data name="Dialog_DiscardDraft" xml:space="preserve">
+    <value>Отхвърляне на чернова?</value>
+    <comment>Discard Draft?</comment>
+  </data>
+  <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да отхвърлите вашата чернова?</value>
+    <comment>Are you sure you want to discard your draft?</comment>
+  </data>
+  <data name="Editor_InsertLink" xml:space="preserve">
+    <value>Вмъкване на връзка</value>
+    <comment>Insert link</comment>
+  </data>
+  <data name="Identity_Account" xml:space="preserve">
+    <value>Акаунт:</value>
+    <comment>Account:</comment>
+  </data>
+  <data name="Identity_Add" xml:space="preserve">
+    <value>Добавяне на самоличност</value>
+    <comment>Add identity</comment>
+  </data>
+  <data name="Identity_DifferentReplyTo" xml:space="preserve">
+    <value>Използвайте различен адрес за отговор</value>
+    <comment>Use a different reply-to address</comment>
+  </data>
+  <data name="Identity_DifferentSignature" xml:space="preserve">
+    <value>Използвайте различен подпис от {0}</value>
+    <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
+  </data>
+  <data name="Identity_Edit" xml:space="preserve">
+    <value>Редактиране на самоличност</value>
+    <comment>Edit identity</comment>
+  </data>
+  <data name="Identity_ReplyTo" xml:space="preserve">
+    <value>Отговори:</value>
+    <comment>Reply-to:</comment>
+  </data>
+  <data name="Identity_SendFromAccount" xml:space="preserve">
+    <value>Акаунт</value>
+    <comment>Account</comment>
+  </data>
+  <data name="Identity_SendFromSmtp" xml:space="preserve">
+    <value>SMTP сървър</value>
+    <comment>SMTP Server</comment>
+  </data>
+  <data name="Identity_SendThrough" xml:space="preserve">
+    <value>Изпрати чрез:</value>
+    <comment>Send through:</comment>
+  </data>
+  <data name="Identity_Signature" xml:space="preserve">
+    <value>Подпис:</value>
+    <comment>Signature:</comment>
+  </data>
+  <data name="Identity_SmtpPassword" xml:space="preserve">
+    <value>Парола:</value>
+    <comment>Password:</comment>
+  </data>
+  <data name="Identity_SmtpPort" xml:space="preserve">
+    <value>Порт:</value>
+    <comment>Port:</comment>
+  </data>
+  <data name="Identity_SmtpServer" xml:space="preserve">
+    <value>SMTP сървър:</value>
+    <comment>SMTP server:</comment>
+  </data>
+  <data name="Identity_SmtpUsername" xml:space="preserve">
+    <value>Потребителско име:</value>
+    <comment>Username:</comment>
+  </data>
+  <data name="Identity_Test" xml:space="preserve">
+    <value>Тест на връзката</value>
+    <comment>Test connection</comment>
+  </data>
+  <data name="Identity_Testing" xml:space="preserve">
+    <value>Тестване на връзката...</value>
+    <comment>Testing connection...</comment>
+  </data>
+  <data name="Dialog_Report" xml:space="preserve">
+    <value>Докладвайте този проблем</value>
+    <comment>Report this problem</comment>
+  </data>
+  <data name="Dialog_Restart" xml:space="preserve">
+    <value>Рестартиране</value>
+    <comment>Restart</comment>
+  </data>
+  <data name="Find_Close" xml:space="preserve">
+    <value>Затвори прозореца за търсене</value>
+    <comment>Close find window</comment>
+  </data>
+  <data name="Find_Find" xml:space="preserve">
+    <value>Търсене</value>
+    <comment>Find</comment>
+  </data>
+  <data name="Find_Next" xml:space="preserve">
+    <value>Следващ</value>
+    <comment>Next</comment>
+  </data>
+  <data name="Find_Previous" xml:space="preserve">
+    <value>Предишен</value>
+    <comment>Previous</comment>
+  </data>
+  <data name="About_Version" xml:space="preserve">
+    <value>Версия</value>
+    <comment>Version</comment>
+  </data>
+  </root>
