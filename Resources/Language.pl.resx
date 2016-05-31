@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -298,11 +298,11 @@
     <comment>Sending</comment>
   </data>
   <data name="Conversation_To" xml:space="preserve">
-    <value>Do:</value>
+    <value>Do: </value>
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>do mnie</value>
+    <value>do mnie </value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -534,7 +534,7 @@ Message:</comment>
     <comment>Thanks!</comment>
   </data>
   <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
-    <value>Poczekaj na załadowanie się twojej Skrzynki odbiorczej.</value>
+    <value>Poczekaj na załadowanie się twojej Skrzynki odbiorczej</value>
     <comment>Please wait until your Inbox has loaded</comment>
   </data>
   <data name="Dialog_Warning" xml:space="preserve">
@@ -576,7 +576,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
-    <value>Jesteś świetny.</value>
+    <value>Jesteś świetny!</value>
     <comment>You are awesome!</comment>
   </data>
   <data name="Dialog_Close" xml:space="preserve">
@@ -724,7 +724,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright 2015 Mailbird. Wszelkie prawa zastrzeżone.</value>
+    <value>Copyright {0} Mailbird. Wszelkie prawa zastrzeżone.</value>
     <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -732,7 +732,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>UDW:</value>
+    <value>UDW: </value>
     <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
@@ -740,7 +740,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
-    <value>DW:</value>
+    <value>DW: </value>
     <comment>Cc:</comment>
   </data>
   <data name="Conversation_Cc1" xml:space="preserve">
@@ -984,7 +984,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Minimum size:</comment>
   </data>
   <data name="App_Attachments_ThumbSizeLabel" xml:space="preserve">
-    <value>Rozmiar miniatury</value>
+    <value>Rozmiar miniatury:</value>
     <comment>Thumbnail size:</comment>
   </data>
   <data name="App_Attachments_Title" xml:space="preserve">
@@ -1008,11 +1008,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Easily edit, manage and email your contacts and contact groups.</comment>
   </data>
   <data name="App_Contacts_FailedFacebook" xml:space="preserve">
-    <value>Nie można było pobrać informacji o tym kontakcie z Facebooka</value>
+    <value>Nie można było pobrać informacji o tym kontakcie z Facebooka.</value>
     <comment>Could not fetch information on contact from Facebook.</comment>
   </data>
   <data name="App_Contacts_LoadingFacebook" xml:space="preserve">
-    <value>Pobieranie informacji o tym kontakcie z Facebooka</value>
+    <value>Pobieranie informacji o tym kontakcie z Facebooka...</value>
     <comment>Loading info on this contact from Facebook...</comment>
   </data>
   <data name="App_Contacts_LoadingText" xml:space="preserve">
@@ -1168,7 +1168,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
-    <value>Twoja licencja na edycję Pro jest ważna do {0}. Jeśli jej nie anulowałeś, zostanie odnowiona automatycznie.</value>
+    <value>Twoja licencja jest ważna do {0}. Jeśli jej nie anulowałeś, zostanie odnowiona automatycznie.</value>
     <comment>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
@@ -1216,7 +1216,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Small</comment>
   </data>
   <data name="LinkEditor_TextToDisplay" xml:space="preserve">
-    <value>Tekst do wyświetlenia</value>
+    <value>Tekst do wyświetlenia:</value>
     <comment>Text to display:</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
@@ -1348,7 +1348,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Fwd:</comment>
   </data>
   <data name="Message_InMaking" xml:space="preserve">
-    <value>Wiadomość w trakcie tworzenia</value>
+    <value>Wiadomość w trakcie tworzenia.</value>
     <comment>Email in the making.</comment>
   </data>
   <data name="Message_Loading" xml:space="preserve">
@@ -1404,7 +1404,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Wysłane:</value>
+    <value>Wysłane</value>
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -1448,11 +1448,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>No Name</comment>
   </data>
   <data name="Notification_ArchiveFail" xml:space="preserve">
-    <value>Konwersacja została już zarchiwizowana.</value>
+    <value>Konwersacja została już zarchiwizowana</value>
     <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} konwersacji zarchiwizowano.</value>
+    <value>{0} konwersacji zarchiwizowano</value>
     <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
@@ -1528,7 +1528,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Attachment auto-download limit:</comment>
   </data>
   <data name="Options_AutoDownloadExplanation" xml:space="preserve">
-    <value>Automatycznie pobieraj załączniki mniejsze niż ustawiony rozmiar</value>
+    <value>Automatycznie pobieraj załączniki mniejsze niż ustawiony rozmiar.</value>
     <comment>Automatically download attachments smaller than the chosen size.</comment>
   </data>
   <data name="Options_AutomaticUpdate" xml:space="preserve">
@@ -1696,7 +1696,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>Odtwórz dźwięk po otrzymaniu wiadomości</value>
+    <value>Dźwięk nowej wiadomości:</value>
     <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
@@ -1780,7 +1780,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
   </data>
   <data name="Report_Include" xml:space="preserve">
-    <value>Dołącz:</value>
+    <value>Dołącz: </value>
     <comment>Include: </comment>
   </data>
   <data name="Report_Intro" xml:space="preserve">
@@ -1868,7 +1868,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Usuń zaznaczony szkic lub konwersację</value>
+    <value>Usuń zaznaczony szkic lub konwersację.</value>
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
@@ -1964,7 +1964,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Otwiera twoją konwersację. Rozszerza lub zwija również wiadomość jeśli jesteś w widoku Konwersacji.</value>
+    <value>Otwiera twoją konwersację. Rozszerza lub zwija również wiadomość jeśli jesteś w widoku 'Konwersacji.'</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -2160,10 +2160,9 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Mailbird nie obługuje dwustopniowej weryfikacji.
-Zamiast tego, użyj hasła aplikacji.
+    <value>Google nie obsługuje dwustopniowej weryfikacji, kiedy używasz uwierzytelniania nazwą użytkownika i hasłem.
 
-https://support.google.com/accounts/answer/185833</value>
+Rozważ w zamian skonfigurowanie konta w Mailbird przy użyciu autoryzacji OAuth 2.0. </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
@@ -2224,11 +2223,11 @@ We will never post anything to Facebook.</comment>
     <comment>Requires authentication</comment>
   </data>
   <data name="Welcome_ServerConnCheck1" xml:space="preserve">
-    <value>Ustawienia serwera są poprawne</value>
+    <value>Ustawienia serwera są poprawne.</value>
     <comment>Server settings are correct.</comment>
   </data>
   <data name="Welcome_ServerConnCheck2" xml:space="preserve">
-    <value>Żaden firewall nie blokuje Mailbirda</value>
+    <value>Żaden firewall nie blokuje Mailbirda.</value>
     <comment>No firewall is blocking Mailbird.</comment>
   </data>
   <data name="Welcome_ServerConnCheck3" xml:space="preserve">
@@ -2362,7 +2361,7 @@ Path: {0}</comment>
     <comment>Increase size</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertHyperlink" xml:space="preserve">
-    <value>Wstał hiperłącze</value>
+    <value>Wstaw łącze</value>
     <comment>Insert hyperlink</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
@@ -2442,7 +2441,7 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>Domyślna toższamość nadawcy, gdy tworzona jest wiadomość z tym kontem ustawionym jako aktywne.</value>
+    <value>Domyślna tożsamość nadawcy, gdy tworzona jest wiadomość z tym kontem ustawionym jako aktywne.</value>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
@@ -2571,7 +2570,7 @@ Message: {0}</comment>
     <comment>No friends selected</comment>
   </data>
   <data name="Invite_NoFriendSelectedExplanation" xml:space="preserve">
-    <value>Proszę zaznaczyć przynajmniej jednego znajomego</value>
+    <value>Proszę zaznaczyć przynajmniej jednego znajomego.</value>
     <comment>Please select at least one friend to invite.</comment>
   </data>
   <data name="Invite_Send" xml:space="preserve">
@@ -2587,8 +2586,8 @@ Message: {0}</comment>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>[bold]Invite friends to fly together[/bold]
-and get Mailbird Lifetime for free!</value>
+    <value>[bold]Zaproś znajomych do wspólnego lotu[/bold]
+i uzyskaj dożywotnią licencję Malbird za darmo!</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -2600,7 +2599,7 @@ and get Mailbird Lifetime for free!</value>
     <comment>Could not invite people</comment>
   </data>
   <data name="Invite_ViewList" xml:space="preserve">
-    <value>Wyświetl zaproszenia</value>
+    <value>Pokaż zaproszenia</value>
     <comment>View invitations</comment>
   </data>
   <data name="Options_ChangeProxy" xml:space="preserve">
@@ -2660,11 +2659,11 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
-    <value>Wybrany język zostanie ustawiony po restarcie Mailbirda</value>
+    <value>Wybrany język zostanie ustawiony po restarcie Mailbirda.</value>
     <comment>The selected language will be applied after you restart Mailbird</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
-    <value>Wymagane jest ponownie uruchomienie programu w celu uwzględnienia zmian</value>
+    <value>Wymagane jest ponownie uruchomienie programu w celu uwzględnienia zmian.</value>
     <comment>Restart required for the changes to take effect</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
@@ -2676,7 +2675,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>attach|attached|attaches|reattach|attaching|attachment|reattached|reattaches|unattached|attachments|reattaching</comment>
   </data>
   <data name="MailViewer_DownloadFailed" xml:space="preserve">
-    <value>Pobieranie nie powiodło się</value>
+    <value>Pobieranie nie powiodło się.</value>
     <comment>Download failed.</comment>
   </data>
   <data name="MailViewer_DownloadingMessage" xml:space="preserve">
@@ -2796,7 +2795,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart</comment>
   </data>
   <data name="Upgrade_SpeedRead" xml:space="preserve">
-    <value>Czytaj maile krócej dzięki funkcji szybkiego czytnika </value>
+    <value>Czytaj maile krócej dzięki funkcji szybkiego czytnika</value>
     <comment>Read email more quickly with the speed reader</comment>
   </data>
   <data name="Options_Minutes" xml:space="preserve">
@@ -2804,7 +2803,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>\{0\} minutes</comment>
   </data>
   <data name="Attachment_Lost" xml:space="preserve">
-    <value>Ten załącznik został usunięty i nie jest już dostępny.</value>
+    <value>Ten załącznik został usunięty i nie jest już dostępny</value>
     <comment>This attachment has been deleted and is no longer available</comment>
   </data>
   <data name="AccountValidationRule_NonZeroInteger" xml:space="preserve">
@@ -2844,7 +2843,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>Błąd podczas synchronizacji '{0}' zmian w folderach </value>
+    <value>Błąd podczas synchronizacji '{0}' zmian w folderach</value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -3048,7 +3047,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Delete group?</comment>
   </data>
   <data name="Dialog_DeleteGroupExplanation" xml:space="preserve">
-    <value>Czy jesteś pewien, że chcesz usunąć tę grupę? Kontakty do niej należące nie zostaną usunięte. </value>
+    <value>Czy jesteś pewien, że chcesz usunąć tę grupę? Kontakty do niej należące nie zostaną usunięte.</value>
     <comment>Are you sure you want to delete this group? Contacts belonging to it will not be deleted.</comment>
   </data>
   <data name="Contact_RemoveFromGroup" xml:space="preserve">
@@ -3235,7 +3234,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Idea</comment>
   </data>
   <data name="AvatarIconLike" xml:space="preserve">
-    <value>Like</value>
+    <value>Lubię to</value>
     <comment>Like</comment>
   </data>
   <data name="AvatarIconLocked" xml:space="preserve">
@@ -3463,7 +3462,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Speed Reader</comment>
   </data>
   <data name="Trial_Feature2" xml:space="preserve">
-    <value>Więcej niż 3 konta</value>
+    <value>Więcej niż {0} konta</value>
     <comment>More than 3 accounts</comment>
   </data>
   <data name="Trial_Feature3" xml:space="preserve">
@@ -3513,7 +3512,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>New tip</comment>
   </data>
   <data name="MailViewer_LoadingMessage" xml:space="preserve">
-    <value>Wczytywanie wiadomości</value>
+    <value>Wczytywanie wiadomości...</value>
     <comment>Loading message...</comment>
   </data>
   <data name="Notification_OpenSettingsLabel" xml:space="preserve">
@@ -3545,7 +3544,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Mailbird tips</comment>
   </data>
   <data name="Options_LimitingAccounts" xml:space="preserve">
-    <value>Nie wszystkie konta zostały wczytane ze względu na wygaśnięcie okresu testowego. Kup wersję Pro i zrestartuj Mailbirda w celu wczytania wszystkich kont.</value>
+    <value>Nie wszystkie konta zostały wczytane ze względu na wygaśnięcie okresu testowego. Proszę uaktualnić do wersji Pro i zrestartować Mailbirda w celu wczytania wszystkich kont</value>
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
@@ -3761,7 +3760,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Share performance and usage data</comment>
   </data>
   <data name="Options_DisableDirectWriteExplanation" xml:space="preserve">
-    <value>Zaznacz tę opcję, jeśli doświadczasz rozmytego tekst w mailach i części aplikacji</value>
+    <value>Zaznacz tę opcję, jeśli doświadczasz rozmytego tekst w mailach i części aplikacji.</value>
     <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
@@ -3829,7 +3828,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
-    <value>Wygasa</value>
+    <value>Licencja wygasa: {0} (w {1})</value>
     <comment>Expires</comment>
   </data>
   <data name="Timeline_Today" xml:space="preserve">
@@ -3865,7 +3864,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</value>
+    <value>Kochasz Mailbirda? Pomóż nam urosnąć i ulepszyć się zapraszając swoich znajomych do Mailbirda już dziś.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
@@ -4114,10 +4113,10 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Please ensure that 'allow less secure apps' is enabled in Gmail:
+    <value>Proszę skonfigurować konto przy użyciu autoryzacji OAuth 2.0 zamiast nazwy użytkownika i hasła, lub upewnić się, że dostęp do mniej bezpiecznych aplikacji jest włączony.
 https://mailbird.zendesk.com/entries/53544244
 
-If the issue persists, please follow this for further troubleshooting:
+Jeśli problem nie ustąpi, należy postępować zgodnie z tym dla dalszej diagnostyki:
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
@@ -4313,7 +4312,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Uh Oh!</comment>
   </data>
   <data name="LostDraft_Reload" xml:space="preserve">
-    <value>reload it</value>
+    <value>przeładuj to</value>
     <comment>reload the draft</comment>
   </data>
   <data name="Options_BackgroundPattern" xml:space="preserve">
@@ -4333,11 +4332,11 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No Account Selected</comment>
   </data>
   <data name="Dialog_NoAccountExplanation" xml:space="preserve">
-    <value>Proszę wybrać co najmniej 1 konto do importu</value>
+    <value>Proszę wybrać co najmniej 1 konto do importu.</value>
     <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
-    <value>Lub zaimportować z innego klienta pocztowego</value>
+    <value>Lub zaimportować z innego klienta pocztowego.</value>
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
@@ -4408,7 +4407,7 @@ Are you sure you want to continue?</comment>
     <comment>No file selected</comment>
   </data>
   <data name="Dialog_PstLocationNotValidExplanation" xml:space="preserve">
-    <value>Proszę wybrać plik lub folder</value>
+    <value>Proszę wybrać plik lub folder.</value>
     <comment>Please select a file or folder.</comment>
   </data>
   <data name="Import_Browse" xml:space="preserve">
@@ -4488,7 +4487,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>The drag operation failed, please try again. If the error persists, please contact support.</comment>
   </data>
   <data name="Dialog_Error_OperationFailed" xml:space="preserve">
-    <value>Operacja nie powiodła się.</value>
+    <value>Operacja nie powiodła się</value>
     <comment>Operation failed</comment>
   </data>
   <data name="Import_Folder_ImportedMessges" xml:space="preserve">
@@ -4561,7 +4560,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
 <data name="Welcome_SettingsFoundSubTitle_OAuth" xml:space="preserve">
-    <value>We've found server settings for your account.</value>
+    <value>Znaleźliśmy ustawienia serwera dla twojego konta.</value>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
@@ -4633,11 +4632,11 @@ To access another mailbox, please add it as a new account in Mailbird.</value>
 To access another mailbox, please add it as a new account in Mailbird.</comment>
   </data>
 <data name="Options_TestSound" xml:space="preserve">
-    <value>Test sound</value>
+    <value>Testuj dźwięk</value>
     <comment>Test sound</comment>
   </data>
   <data name="Options_CustomSound" xml:space="preserve">
-    <value>Custom...</value>
+    <value>Własny...</value>
     <comment>Custom...</comment>
   </data>
   <data name="Notification_OpenOptions" xml:space="preserve">
@@ -4645,23 +4644,23 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Open options</comment>
   </data>
   <data name="Notification_SoundFailedToPlay" xml:space="preserve">
-    <value>Failed to play new message sound</value>
+    <value/>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Please select the correct audio file from options</value>
+    <value>Proszę wybrać odpowiedni plik audio z opcji.</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
-    <value>Please select the correct audio file</value>
+    <value>Proszę wybrać odpowiedni plik audio.</value>
     <comment>Please select the correct audio file</comment>
   </data>
   <data name="Sound_Default" xml:space="preserve">
-    <value>Default (Chirp)</value>
+    <value>Domyślny (Ćwierkanie)</value>
     <comment>Default (Chirp)</comment>
   </data>
   <data name="Sound_Electronic" xml:space="preserve">
-    <value>Electronic</value>
+    <value>Elektroniczny</value>
     <comment>Electronic</comment>
   </data>
   <data name="Sound_None" xml:space="preserve">
@@ -4669,15 +4668,15 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>None</comment>
   </data>
 <data name="Invite_SendAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <value>Czy na pewno chcesz wysłać zaproszenia do wszystkich swoich kontaktów?</value>
     <comment>Are you sure you want to send invitation to all of your contacts?</comment>
   </data>
   <data name="Invite_SendAllTitle" xml:space="preserve">
-    <value>Send invitation</value>
+    <value>Wyślij zaproszenie</value>
     <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
+    <value>Zaproś moje główne kontakty</value>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
@@ -4689,11 +4688,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>[Quoted text hidden]</comment>
   </data>
 <data name="Timeline_ExpireDays" xml:space="preserve">
-    <value>{0} days</value>
+    <value>{0} dni</value>
     <comment>{0} days</comment>
   </data>
   <data name="Reward_AddAccount" xml:space="preserve">
-    <value>Add a second email account</value>
+    <value>Dodaj drugie konto e-mail</value>
     <comment>Add a second email account</comment>
   </data>
   <data name="Reward_AddAccountExplanation" xml:space="preserve">
@@ -4708,11 +4707,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <value>Enhance your Mailbird experience by customizing your Mailbird with your favorite apps</value>
   </data>
   <data name="Reward_Compose" xml:space="preserve">
-    <value>Compose your 1st email</value>
+    <value>Skomponuj swój pierwszy e-mail</value>
     <comment>Compose your 1st email</comment>
   </data>
   <data name="Reward_ComposeExplanation" xml:space="preserve">
-    <value>Discover Mailbird by composing and sending your first email</value>
+    <value>Odkryj Mailbirda poprzez skomponowanie and wysłanie swojego pierwszego e-maila</value>
     <comment>Discover Mailbird by composing and sending your first email</comment>
   </data>
   <data name="Reward_Share" xml:space="preserve">
@@ -4753,7 +4752,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>[Quoted text hidden]</comment>
   </data>
   <data name="Print_Attachments" xml:space="preserve">
-    <value>Attachments</value>
+    <value>Załączniki</value>
     <comment>Attachments</comment>
   </data>
   <data name="Print_Message" xml:space="preserve">
@@ -4762,7 +4761,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
 Message 1 to 2</comment>
   </data>
   <data name="Print_PrintNow" xml:space="preserve">
-    <value>Print now</value>
+    <value>Drukuj teraz</value>
     <comment>Print now</comment>
   </data>
   <data name="Notification_FailedToSetSound" xml:space="preserve">
@@ -4802,7 +4801,7 @@ Please remove some and try again.</comment>
     <comment>Show share buttons</comment>
   </data>
   <data name="Reward_TryIt" xml:space="preserve">
-    <value>Try it now!</value>
+    <value>Wypróbuj teraz!</value>
     <comment>Try it now!</comment>
   </data>
   <data name="Reward_Title" xml:space="preserve">
@@ -4810,7 +4809,7 @@ Please remove some and try again.</comment>
     <comment>Extend Your Mailbird Pro Free Trial</comment>
   </data>
   <data name="Reward_GotReward" xml:space="preserve">
-    <value>Congratulations!</value>
+    <value>Gratulacje!</value>
     <comment>Congratulations!</comment>
   </data>
   <data name="Reward_GotRewardExplanation" xml:space="preserve">
@@ -4820,20 +4819,20 @@ Want to unlock more rewards?</value>
 Want to unlock more rewards?</comment>
   </data>
   <data name="Timeline_ExpireMonths" xml:space="preserve">
-    <value>{0} months</value>
+    <value>{0} miesięcy</value>
     <comment>{0} months</comment>
   </data>
   <data name="Menu_RewardsList" xml:space="preserve">
-    <value>Rewards list</value>
+    <value>Lista nagród</value>
     <comment>Rewards list</comment>
   </data>
   <data name="Signature_SentFrom" xml:space="preserve">
-    <value>Sent from {0}</value>
+    <value>Wysłano z {0}</value>
     <comment>Sent from {0}
 {0} will be replaced by "Mailbird"</comment>
   </data>
   <data name="Ads_BuyNow" xml:space="preserve">
-    <value>Buy Now</value>
+    <value>Kup teraz</value>
     <comment>Buy Now</comment>
   </data>
   <data name="Ads_GoPro" xml:space="preserve">
@@ -4857,7 +4856,7 @@ Want to unlock more rewards?</comment>
     <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
   </data>
   <data name="Reward_LaunchStartup" xml:space="preserve">
-    <value>Always show this window when Mailbird starts</value>
+    <value>Zawsze pokazuj to okno przy starcie Mailbird</value>
     <comment>Always show this window when Mailbird starts</comment>
   </data>
   <data name="Reward_TitleSubscription" xml:space="preserve">
@@ -4865,7 +4864,7 @@ Want to unlock more rewards?</comment>
     <comment>Extend Your Mailbird Pro Subscription</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
-    <value>More than 1 account</value>
+    <value>Więcej niż 1 konto</value>
     <comment>More than 1 account</comment>
   </data>
   <data name="Print_Loading" xml:space="preserve">
@@ -4877,7 +4876,7 @@ Want to unlock more rewards?</comment>
     <comment>[Content not loaded]</comment>
   </data>
   <data name="License_NonPurchaseValidUntil" xml:space="preserve">
-    <value>Your license is valid until {0}.</value>
+    <value>Twoja licencja jest ważna do {0}.</value>
     <comment>Your license is valid until {0}.</comment>
   </data>
   <data name="Options_SubscriptionStatus" xml:space="preserve">
@@ -4897,11 +4896,11 @@ Want to unlock more rewards?</comment>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 <data name="Options_RestartNow" xml:space="preserve">
-    <value>Restart now</value>
+    <value>Zrestartuj teraz</value>
     <comment>Restart now</comment>
   </data>
   <data name="Awesomium_GoogleSearch" xml:space="preserve">
-    <value>Search Google for "{0}"</value>
+    <value>Szukaj w Google dla "{0}"</value>
     <comment>PS: leave the {0},
 the final result will be: Search Google for "query"</comment>
   </data>
@@ -4942,7 +4941,7 @@ the final result will be: Search Google for "query"</comment>
     <comment>Finish</comment>
   </data>
   <data name="WebControl_Print" xml:space="preserve">
-    <value>Print...</value>
+    <value>Drukuj...</value>
     <comment>Print...</comment>
   </data>
 <data name="WebControl_OpenLink" xml:space="preserve">
@@ -4950,23 +4949,23 @@ the final result will be: Search Google for "query"</comment>
     <comment>Open link</comment>
   </data>
   <data name="WelcomeMessage_Afternoon" xml:space="preserve">
-    <value>Good afternoon, {0}</value>
+    <value>Dzień dobry, {0}</value>
     <comment>Good afternoon, {0}</comment>
   </data>
   <data name="WelcomeMessage_Morning" xml:space="preserve">
-    <value>Good morning, {0}</value>
+    <value>Dzień dobry, {0}</value>
     <comment>Good morning, {0}</comment>
   </data>
   <data name="WelcomeMessage_Night" xml:space="preserve">
-    <value>Good evening, {0}</value>
+    <value>Dobry wieczór, {0}</value>
     <comment>Good evening, {0}</comment>
   </data>
   <data name="Options_Interface" xml:space="preserve">
-    <value>Interface</value>
+    <value>Interfejs</value>
     <comment>Interface</comment>
   </data>
   <data name="Options_ShowWelcomeMessage" xml:space="preserve">
-    <value>Show welcome message</value>
+    <value>Pokaż wiadomość powitalną</value>
     <comment>Show welcome message</comment>
   </data>
 </root>
