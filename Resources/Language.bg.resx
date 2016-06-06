@@ -1170,7 +1170,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Quick reply</comment>
   </data>
   <data name="Message_Re" xml:space="preserve">
-    <value/>
+    <value>Re:</value>
     <comment>Re:</comment>
   </data>
   <data name="Message_Save" xml:space="preserve">
@@ -1400,5 +1400,165 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <data name="Options_EditSignatures" xml:space="preserve">
     <value>Редактиране на подписи</value>
     <comment>Edit signatures</comment>
+  </data>
+  <data name="Message_Fw" xml:space="preserve">
+    <value>Fw:</value>
+    <comment>Fw:</comment>
+  </data>
+  <data name="Message_Fwd" xml:space="preserve">
+    <value>Fwd:</value>
+    <comment>Fwd:</comment>
+  </data>
+  <data name="Options_IsDefault" xml:space="preserve">
+    <value>Mailbird е вашият имейл клиент по подразбиране</value>
+    <comment>Mailbird is the default email client</comment>
+  </data>
+  <data name="Options_NotDefault" xml:space="preserve">
+    <value>Mailbird не е имейл клиента по подразбиране</value>
+    <comment>Mailbird is not the default email client</comment>
+  </data>
+  <data name="Options_Notifications" xml:space="preserve">
+    <value>Известия</value>
+    <comment>Notifications</comment>
+  </data>
+  <data name="Options_Performance" xml:space="preserve">
+    <value>Производителност</value>
+    <comment>Performance</comment>
+  </data>
+  <data name="Options_QuickCompose" xml:space="preserve">
+    <value>Пряк път за бързо съставяне</value>
+    <comment>Quick compose shortcut</comment>
+  </data>
+  <data name="Options_QuickComposeExplanation" xml:space="preserve">
+    <value>Чрез задаването на този пряк път, вие ще можете да съставяте имейли дори, когато Mailibrd е минимизиран.</value>
+    <comment>By setting this shortcut, you'll be able to compose email even if Mailbird is minimized.</comment>
+  </data>
+  <data name="Options_QuickComposeExplanation1" xml:space="preserve">
+    <value>Съставяне дори, когато Mailbird е затворен.</value>
+    <comment>Compose even when Mailbird is closed.</comment>
+  </data>
+  <data name="Options_QuitOnClose" xml:space="preserve">
+    <value>Излез от Mailbird при затваряне</value>
+    <comment>Quit Mailbird on close</comment>
+  </data>
+  <data name="Options_RecordShortcut" xml:space="preserve">
+    <value>Натиснете за запис</value>
+    <comment>Click to record</comment>
+  </data>
+  <data name="Options_RecordShortcut1" xml:space="preserve">
+    <value>Натиснете за да създадете пряк път</value>
+    <comment>Click to create shortcut</comment>
+  </data>
+  <data name="Options_SendArchive" xml:space="preserve">
+    <value>Изпрати &amp; Архивирай</value>
+    <comment>Send &amp; Archive</comment>
+  </data>
+  <data name="Options_SetDefault" xml:space="preserve">
+    <value>Задай по подразбиране</value>
+    <comment>Set as default</comment>
+  </data>
+  <data name="Options_LayoutThemeColor" xml:space="preserve">
+    <value>Оформление и цвят на темата</value>
+    <comment>Layout and theme color</comment>
+  </data>
+  <data name="Options_ChooseMenuColor" xml:space="preserve">
+    <value>Изберете цят на темата</value>
+    <comment>Choose theme color</comment>
+  </data>
+  <data name="Options_ShowAnimations" xml:space="preserve">
+    <value>Показване на анимации</value>
+    <comment>Show animations</comment>
+  </data>
+  <data name="Options_DisableDirectWrite" xml:space="preserve">
+    <value>Забраняване на DirectWrite</value>
+    <comment>Disable DirectWrite</comment>
+  </data>
+  <data name="Options_ShowSendArchive" xml:space="preserve">
+    <value>Показване на 'Изпрати &amp; Архивирай' бутон</value>
+    <comment>Show send &amp; archive button</comment>
+  </data>
+  <data name="Options_SoftwareRendering" xml:space="preserve">
+    <value/>
+    <comment>Force software rendering</comment>
+  </data>
+  <data name="Options_SoundNotification" xml:space="preserve">
+    <value>Нов звук за съобщение:</value>
+    <comment>New message sound:</comment>
+  </data>
+  <data name="Options_StartMinimized" xml:space="preserve">
+    <value>Стартирай минимизирана</value>
+    <comment>Start minimized</comment>
+  </data>
+  <data name="Options_StartStartup" xml:space="preserve">
+    <value>Изпълни при стартиране на Windows</value>
+    <comment>Run on Windows startup</comment>
+  </data>
+  <data name="Options_SyncBehavior" xml:space="preserve">
+    <value>Поведение на синхронизиране</value>
+    <comment>Sync behavior</comment>
+  </data>
+  <data name="Options_SyncWithServer" xml:space="preserve">
+    <value>Синхронизиране със сървър</value>
+    <comment>Sync with server</comment>
+  </data>
+  <data name="Options_SyncWithServer1" xml:space="preserve">
+    <value>Синхронизиране...</value>
+    <comment>Syncing..</comment>
+  </data>
+  <data name="Options_TrayNotification" xml:space="preserve">
+    <value>Покажи уведомление при получаване на съобщение</value>
+    <comment>Show tray notification when receiving a message</comment>
+  </data>
+  <data name="Options_UnreadNotification" xml:space="preserve">
+    <value>Покажи броят на непрочетените съобщения в лентата със задачи &amp; системния панел</value>
+    <comment>Show unread count in taskbar &amp; system tray</comment>
+  </data>
+  <data name="Options_Updates" xml:space="preserve">
+    <value>Актуализации</value>
+    <comment>Updates</comment>
+  </data>
+  <data name="Options_UseGmailShortcut" xml:space="preserve">
+    <value>Използвайте клавишните комбинации на Gmail</value>
+    <comment>Use Gmail keyboard shortcuts</comment>
+  </data>
+  <data name="Options_VersionHistory" xml:space="preserve">
+    <value>Преглед на хронологията на версиите</value>
+    <comment>View version history</comment>
+  </data>
+  <data name="Options_ViewLicense" xml:space="preserve">
+    <value>Преглед на лицензионното споразумение</value>
+    <comment>View license agreement</comment>
+  </data>
+  <data name="Options_Zoom" xml:space="preserve">
+    <value>Увеличи с 125%</value>
+    <comment>Zoom by 125%</comment>
+  </data>
+  <data name="Option_Invalid" xml:space="preserve">
+    <value>Невалидна:</value>
+    <comment>Invalid:</comment>
+  </data>
+  <data name="QuickPreview_NotDownloaded" xml:space="preserve">
+    <value>Прикаченият файл все още не е изтеглен</value>
+    <comment>Attachment not yet downloaded</comment>
+  </data>
+  <data name="Report_DontSend" xml:space="preserve">
+    <value>Не изпращай</value>
+    <comment>Don't send</comment>
+  </data>
+  <data name="Report_Houston" xml:space="preserve">
+    <value>Хюстън, имаме проблем!</value>
+    <comment>Houston, we have a problem!</comment>
+  </data>
+  <data name="Report_HoustonExplanation" xml:space="preserve">
+    <value>Извиняваме се, но нещо се обърка и Mailbird трябва се затвори. За да ни помогнете да решим това за миг, моля да ни уведомите какво сте правили преди и по време на случилото се. Благодарим ве, че сте част от създаването на най-добрия имейл клиент!</value>
+    <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
+  </data>
+  <data name="Report_Include" xml:space="preserve">
+    <value>Включи: </value>
+    <comment>Include: </comment>
+  </data>
+  <data name="Report_Intro" xml:space="preserve">
+    <value>Аз бях...</value>
+    <comment>I was..</comment>
   </data>
   </root>
