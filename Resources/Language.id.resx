@@ -3420,10 +3420,6 @@ Here are a couple of links to help produce vCard files from various services:</c
     <value>Sesuaikan Mailbird</value>
     <comment>Customize Mailbird</comment>
   </data>
-  <data name="Menu_Trial" xml:space="preserve">
-    <value>Aktifkan 30 hari cobakala</value>
-    <comment>Activate 30 days trial</comment>
-  </data>
   <data name="License_Deactivated" xml:space="preserve">
     <value>Lisensi Tidak Aktif</value>
     <comment>Inactive License</comment>
@@ -3456,10 +3452,6 @@ Here are a couple of links to help produce vCard files from various services:</c
     <value>Akun Anda kini akan diturunkan mutunya menjadi versi Lite (gratis) dengan keterbatasan dari seluruh fitur Mailbird Pro. Anda tetap dapat menggunakan seluruh fitur bila Anda memutuskan untuk membeli Mailbird Pro dan memasukkan kunci lisensi ke dalam ruas di bawah ini.</value>
     <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
   </data>
-  <data name="Trial_EndTitle" xml:space="preserve">
-    <value>30 hari Cobakala Anda sudah Usai</value>
-    <comment>Your 30 Day Pro Trial Has Ended</comment>
-  </data>
   <data name="Trial_Feature1" xml:space="preserve">
     <value>Pembaca Cepat</value>
     <comment>Speed Reader</comment>
@@ -3487,16 +3479,6 @@ Here are a couple of links to help produce vCard files from various services:</c
   <data name="Trial_Purchase" xml:space="preserve">
     <value>Beli Mailbird Pro</value>
     <comment>Buy Mailbird Pro</comment>
-  </data>
-  <data name="Trial_StartText" xml:space="preserve">
-    <value>Untuk 30 hari ke depan, Anda akan mendapatkan akses tak terbatas atas seluruh fitur Mailbird Pro.
-Begitu cobakala Anda usai, akun Anda akan diturunkan mutunya menjadi versi Lite (gratis).</value>
-    <comment>For the next 30 days, you will get unlimited access to all Mailbird Pro features. 
-Once your trial is over your account will revert to the Lite (free) version.</comment>
-  </data>
-  <data name="Trial_StartTitle" xml:space="preserve">
-    <value>30 hari Cobakala Pro Anda Dimulai Sekarang</value>
-    <comment>Your Free 30 Day Pro Trial Starts Now</comment>
   </data>
   <data name="Trial_SwitchLite" xml:space="preserve">
     <value>Tidak, saya cukup dengan versi gratis</value>
@@ -4972,5 +4954,61 @@ the final result will be: Search Google for "query"</comment>
   <data name="Options_ShowWelcomeMessage" xml:space="preserve">
     <value>Show welcome message</value>
     <comment>Show welcome message</comment>
+  </data>
+<data name="Notification_FailedToLoadBackground" xml:space="preserve">
+    <value>Failed to load background image</value>
+    <comment>Failed to load background image</comment>
+  </data>
+  <data name="Notification_FailedToLoadBackgroundExplanation" xml:space="preserve">
+    <value>Please select the correct image file from options.</value>
+    <comment>Please select the correct image file from options.</comment>
+  </data>
+  <data name="Notification_FailedToSetBackground" xml:space="preserve">
+    <value>Failed to set background image</value>
+    <comment>Failed to set background image</comment>
+  </data>
+  <data name="Notification_FailedToSetBackgroundExplanation" xml:space="preserve">
+    <value>Please make sure the file is not being used by another program and try again.</value>
+    <comment>Please make sure the file is not being used by another program and try again.</comment>
+  </data>
+  <data name="Notification_ImageFileSizeExplanation" xml:space="preserve">
+    <value>The maximum image file size is {0}.
+Please choose another file.</value>
+    <comment>The maximum image file size is {0}.
+Please choose another file.</comment>
+  </data>
+  <data name="Options_Background" xml:space="preserve">
+    <value>Background</value>
+    <comment>Background</comment>
+  </data>
+  <data name="Upgrade_CustomCover" xml:space="preserve">
+    <value>Upgrade now to enable custom covers.</value>
+    <comment>Upgrade now to enable custom covers.</comment>
+  </data>
+  <data name="Tips_Failed" xml:space="preserve">
+    <value>Tip failed to load, please check your internet connection.</value>
+    <comment>Tip failed to load, please check your internet connection.</comment>
+  </data>
+  <data name="Tips_ViewInBrowser" xml:space="preserve">
+    <value>View tip in browser</value>
+    <comment>View tip in browser</comment>
+  </data>
+  <data name="Menu_Trial2" xml:space="preserve">
+    <value>Activate pro trial</value>
+    <comment>Activate pro trial</comment>
+  </data>
+  <data name="Trial_EndTitle2" xml:space="preserve">
+    <value>Your Pro Trial Has Ended</value>
+    <comment>Your Pro Trial Has Ended</comment>
+  </data>
+  <data name="Trial_StartText2" xml:space="preserve">
+    <value>For the next few days, you will get unlimited access to all Mailbird Pro features. 
+Once your trial is over your account will revert to the Lite (free) version.</value>
+    <comment>For the next few days, you will get unlimited access to all Mailbird Pro features. 
+Once your trial is over your account will revert to the Lite (free) version.</comment>
+  </data>
+  <data name="Trial_StartTitle2" xml:space="preserve">
+    <value>Your Free Pro Trial Starts Now</value>
+    <comment>Your Free Pro Trial Starts Now</comment>
   </data>
 </root>
