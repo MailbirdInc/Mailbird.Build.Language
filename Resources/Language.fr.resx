@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -2795,7 +2795,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart</comment>
   </data>
   <data name="Upgrade_SpeedRead" xml:space="preserve">
-    <value>Lire les messages plus rapidement avec le lecteur de vitesse</value>
+    <value>Lire les messages plus rapidement avec le lecteur de vitesse.</value>
     <comment>Read email more quickly with the speed reader</comment>
   </data>
   <data name="Options_Minutes" xml:space="preserve">
@@ -4096,10 +4096,10 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Please ensure that 'allow less secure apps' is enabled in Gmail:
-https://mailbird.zendesk.com/entries/53544244
+    <value>Veuillez configurer votre compte pour utiliser l'authentification OAuth 2.0 au lieu du nom d'utilisateur et mot de passe, ou faire en sorte de «permettre à des applications moins sécurisées» d'être activé dans Gmail:
+{0}
 
-If the issue persists, please follow this for further troubleshooting:
+Si le problème persiste, veuillez suivre les étapes suivantes:
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
