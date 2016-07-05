@@ -1,2 +1,426 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root></root>
+<?xml version='1.0' encoding='UTF-8'?>
+<root><data name="Attachment_Open" xml:space="preserve">
+    <value>Mở</value>
+    <comment>Open</comment>
+  </data>
+  <data name="Attachment_QuickPreview" xml:space="preserve">
+    <value>Xem nhanh</value>
+    <comment>Quick preview</comment>
+  </data>
+  <data name="Attachment_Remove" xml:space="preserve">
+    <value>Xóa</value>
+    <comment>Remove</comment>
+  </data>
+  <data name="Attachment_Save" xml:space="preserve">
+    <value>Lưu mới...</value>
+    <comment>Save as...</comment>
+  </data>
+  <data name="Attachment_SaveAll" xml:space="preserve">
+    <value>Lưu mới tất cả...</value>
+    <comment>Save all as...</comment>
+  </data>
+  <data name="Awesomium_Copy" xml:space="preserve">
+    <value>Sao chép</value>
+    <comment>Copy</comment>
+  </data>
+  <data name="Awesomium_CopyEmail" xml:space="preserve">
+    <value>Sao chép địa chỉ email</value>
+    <comment>Copy email address</comment>
+  </data>
+  <data name="Awesomium_CopyHtml" xml:space="preserve">
+    <value>Sao chép HTML</value>
+    <comment>Copy HTML</comment>
+  </data>
+  <data name="Awesomium_CopyImage" xml:space="preserve">
+    <value>Sao chép hình ảnh</value>
+    <comment>Copy image</comment>
+  </data>
+  <data name="Awesomium_CopyImageUrl" xml:space="preserve">
+    <value>Sao chép địa chỉ ảnh</value>
+    <comment>Copy image address</comment>
+  </data>
+  <data name="Awesomium_CopyLink" xml:space="preserve">
+    <value>Sao chép địa chỉ liên kết</value>
+    <comment>Copy link address</comment>
+  </data>
+  <data name="Awesomium_Cut" xml:space="preserve">
+    <value>Cắt</value>
+    <comment>Cut</comment>
+  </data>
+  <data name="Awesomium_Ignore" xml:space="preserve">
+    <value>Bỏ qua từ</value>
+    <comment>Ignore word</comment>
+  </data>
+  <data name="Awesomium_Paste" xml:space="preserve">
+    <value>Dán</value>
+    <comment>Paste</comment>
+  </data>
+  <data name="Awesomium_PastePlain" xml:space="preserve">
+    <value>Dán dạng văn bản</value>
+    <comment>Paste as plain text</comment>
+  </data>
+  <data name="Awesomium_SaveImage" xml:space="preserve">
+    <value>Lưu hình ảnh...</value>
+    <comment>Save image as...</comment>
+  </data>
+  <data name="Awesomium_SelectAll" xml:space="preserve">
+    <value>Chọn tất cả</value>
+    <comment>Select all</comment>
+  </data>
+  <data name="Contact_Copy" xml:space="preserve">
+    <value>Sao chép email</value>
+    <comment>Copy email</comment>
+  </data>
+  <data name="Contact_CopyMailName" xml:space="preserve">
+    <value>Sao chép tên và email</value>
+    <comment>Copy name and email</comment>
+  </data>
+  <data name="Contact_NewMail" xml:space="preserve">
+    <value>Gửi email mới</value>
+    <comment>Send new mail</comment>
+  </data>
+  <data name="Conversation_Archive" xml:space="preserve">
+    <value>Lưu trữ</value>
+    <comment>Archive</comment>
+  </data>
+  <data name="Conversation_DeletePermanently" xml:space="preserve">
+    <value>Xóa vĩnh viễn</value>
+    <comment>Delete permanently</comment>
+  </data>
+  <data name="Conversation_Discard" xml:space="preserve">
+    <value>Bỏ qua</value>
+    <comment>Discard</comment>
+  </data>
+  <data name="Conversation_Draft" xml:space="preserve">
+    <value>Bản dự thảo</value>
+    <comment>Draft</comment>
+  </data>
+  <data name="Conversation_EmptyFolder" xml:space="preserve">
+    <value>Thư mục rỗng</value>
+    <comment>Empty folder</comment>
+  </data>
+  <data name="Conversation_Forward" xml:space="preserve">
+    <value>Chuyển tiếp</value>
+    <comment>Forward</comment>
+  </data>
+  <data name="Conversation_Folders" xml:space="preserve">
+    <value>Thư mục</value>
+    <comment>Folders</comment>
+  </data>
+  <data name="Conversation_CopyTo" xml:space="preserve">
+    <value>Sao chép đến</value>
+    <comment>Copy to</comment>
+  </data>
+  <data name="Conversation_CopyTo2" xml:space="preserve">
+    <value>Sao chép đến...</value>
+    <comment>Copy to...</comment>
+  </data>
+  <data name="Options_SettingsMoreInfo" xml:space="preserve">
+    <value>Mailbird sẽ tự động điều chỉnh cấu hình này bất cứ khi nào cấu hình dpi của bạn thay đổi. Nhưng nếu bạn thay đổi cấu hình này bằng tay Mailbird sẽ giữ giá trị đến khi cấu hình dpi thay đổi. Giá trị mặc định là 100%</value>
+    <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
+  </data>
+  <data name="Conversation_MarkImportant" xml:space="preserve">
+    <value>Đánh dấu là quan trọng</value>
+    <comment>Mark as important</comment>
+  </data>
+  <data name="Conversation_MarkNotImportant" xml:space="preserve">
+    <value>Đánh dấu là không quan trọng</value>
+    <comment>Mark as not important</comment>
+  </data>
+  <data name="Conversation_MarkNotRead" xml:space="preserve">
+    <value>Đánh dấu chưa đọc</value>
+    <comment>Mark as unread</comment>
+  </data>
+  <data name="Conversation_MarkNotSpam" xml:space="preserve">
+    <value>Đánh dấu không phải rác</value>
+    <comment>Mark as not spam</comment>
+  </data>
+  <data name="Conversation_MarkNotStarred" xml:space="preserve">
+    <value>Đánh dấu là không chính</value>
+    <comment>Mark as not starred</comment>
+  </data>
+  <data name="Conversation_MarkRead" xml:space="preserve">
+    <value>Đánh dấu đã đọc</value>
+    <comment>Mark as read</comment>
+  </data>
+  <data name="Conversation_MarkSpam" xml:space="preserve">
+    <value>Đánh dấu là rác</value>
+    <comment>Mark as spam</comment>
+  </data>
+  <data name="Conversation_MarkStarred" xml:space="preserve">
+    <value>Đánh dấu là chính</value>
+    <comment>Mark as starred</comment>
+  </data>
+  <data name="Conversation_MoveTo" xml:space="preserve">
+    <value>Di chuyển đến...</value>
+    <comment>Move to...</comment>
+  </data>
+  <data name="Conversation_MoveToInbox" xml:space="preserve">
+    <value>Di chuyển đến Hộp thư đến</value>
+    <comment>Move to Inbox</comment>
+  </data>
+  <data name="Conversation_NoConversations" xml:space="preserve">
+    <value>Không có trao đổi nào trong thư mục này</value>
+    <comment>No conversations in this folder</comment>
+  </data>
+  <data name="Conversation_Print" xml:space="preserve">
+    <value>In trao đổi</value>
+    <comment>Print conversation</comment>
+  </data>
+  <data name="Conversation_Reply" xml:space="preserve">
+    <value>Trả lời</value>
+    <comment>Reply</comment>
+  </data>
+  <data name="Conversation_ReplyAll" xml:space="preserve">
+    <value>Trả lời đến tất cả</value>
+    <comment>Reply to all</comment>
+  </data>
+  <data name="Conversation_Sending" xml:space="preserve">
+    <value>Đang gửi</value>
+    <comment>Sending</comment>
+  </data>
+  <data name="Conversation_To" xml:space="preserve">
+    <value>Đến: </value>
+    <comment>To: </comment>
+  </data>
+  <data name="Conversation_ToMe" xml:space="preserve">
+    <value>đến tôi </value>
+    <comment>to me</comment>
+  </data>
+  <data name="Conversation_To2" xml:space="preserve">
+    <value>Đến</value>
+    <comment>To</comment>
+  </data>
+  <data name="Conversation_Trash" xml:space="preserve">
+    <value>Thư rác</value>
+    <comment>Trash</comment>
+  </data>
+  <data name="Dialog_AbortReport" xml:space="preserve">
+    <value>Việc đóng hộp thoại trong quá trình gửi sẽ hủy bỏ báo cáo. Bạn có chắc bạn muốn hủy bỏ báo cáo?</value>
+    <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
+  </data>
+  <data name="Dialog_AlreadyAttached" xml:space="preserve">
+    <value>Đã có đính kèm</value>
+    <comment>Already attached</comment>
+  </data>
+  <data name="Dialog_AlreadyAttachedExplanation" xml:space="preserve">
+    <value>Bạn không thể thêm tập tin đã đính kèm.</value>
+    <comment>You can't add file that is already attached.</comment>
+  </data>
+  <data name="Dialog_AttachmentNotDownloaded" xml:space="preserve">
+    <value>Đính kèm chưa được tải về</value>
+    <comment>Attachment(s) not downloaded</comment>
+  </data>
+  <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
+    <value>Vui lòng chờ đến khi tất cả các đính kèm được tải về trước khi chuyển tiếp thư</value>
+    <comment>Please wait until all attachments have been downloaded before forwarding</comment>
+  </data>
+  <data name="Dialog_Cancel" xml:space="preserve">
+    <value>Hủy bỏ</value>
+    <comment>Cancel</comment>
+  </data>
+  <data name="Dialog_Stop" xml:space="preserve">
+    <value>Dừng</value>
+    <comment>Stop</comment>
+  </data>
+  <data name="Dialog_CantRemoveIdentity" xml:space="preserve">
+    <value>Không thể xóa định danh</value>
+    <comment>Cannot remove identity</comment>
+  </data>
+  <data name="Dialog_CantRemoveIdentityExplanation" xml:space="preserve">
+    <value>Định danh này là định danh chính của tài khoản và không thể xóa.</value>
+    <comment>This identity is the main identity of an account and cannot be removed.</comment>
+  </data>
+  <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
+    <value>Không thể lấy lại truy cập</value>
+    <comment>Could not retrieve access</comment>
+  </data>
+  <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
+    <value>Hiện tại không thể lấy lại thẻ truy cập facebook. Vui lòng thử lại.</value>
+    <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
+  </data>
+  <data name="Dialog_CantSave" xml:space="preserve">
+    <value>Không thể lưu tập tin</value>
+    <comment>Could not save file</comment>
+  </data>
+  <data name="Dialog_CantSaveExplanation" xml:space="preserve">
+    <value>Tập tin '{0}' không thể lưu. Tập tin đang được sử dụng.</value>
+    <comment>The file '{0}' could not be saved. File already in use.</comment>
+  </data>
+  <data name="Dialog_DownloadFail" xml:space="preserve">
+    <value>Tải về thất bại</value>
+    <comment>Download failed</comment>
+  </data>
+  <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
+    <value>Không thể tải về đính kèm.
+Mô tả: {0}
+Đường dẫn: {1}</value>
+    <comment>Could not download the attachment. 
+Description: {0}
+Url: {1}</comment>
+  </data>
+  <data name="Dialog_DownloadProgress" xml:space="preserve">
+    <value>Đang tải về</value>
+    <comment>Download in progress</comment>
+  </data>
+  <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
+    <value>Vui lòng chờ đến khi tất cả các đính kèm được tải về hoặc xóa các đính kèm.</value>
+    <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
+  </data>
+  <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
+    <value>Không thể tạo định danh</value>
+    <comment>Cannot create identity</comment>
+  </data>
+  <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
+    <value>Đã tồn tại một định danh có cùng địa chỉ email.</value>
+    <comment>An identity with the same email address already exists.</comment>
+  </data>
+  <data name="Dialog_EmailSending" xml:space="preserve">
+    <value>Đang gửi các email</value>
+    <comment>Emails are sending</comment>
+  </data>
+  <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
+    <value>Thư vẫn đang gửi. Bạn có chắc muốn thoát và tạm dừng việc gửi thư?</value>
+    <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
+  </data>
+  <data name="Dialog_FacebookConnect" xml:space="preserve">
+    <value>Kết nối Facebook</value>
+    <comment>Facebook connect</comment>
+  </data>
+  <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
+    <value>Chúng tôi cần xác thực lại với Facebook.
+Bạn có muốn kết nối lại với Facebook của bạn?</value>
+    <comment>We need to re-authenticate with Facebook.
+Do you want to reconnect your Facebook?</comment>
+  </data>
+  <data name="Dialog_FileNotFound" xml:space="preserve">
+    <value>Không tìm thấy tập tin</value>
+    <comment>File not found</comment>
+  </data>
+  <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
+    <value>Không thể tìm '{0}'. Vui lòng kiểm tra tập tin có đúng vị trí hay không.</value>
+    <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
+  </data>
+  <data name="Dialog_Loading" xml:space="preserve">
+    <value>Đang nạp</value>
+    <comment>Loading</comment>
+  </data>
+  <data name="Dialog_LocalLink" xml:space="preserve">
+    <value>Gửi liên kết tập tin nội bộ?</value>
+    <comment>Send local file links?</comment>
+  </data>
+  <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
+    <value>Bạn để liên kết đến tập tin nội bộ trong máy của bạn người nhận không thể truy cập được. Bạn thực sự muốn như vậy?</value>
+    <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
+  </data>
+  <data name="Dialog_No" xml:space="preserve">
+    <value>Không</value>
+    <comment>No</comment>
+  </data>
+  <data name="Dialog_NoBrowser" xml:space="preserve">
+    <value>Không tìm thấy trình duyệt mặc định</value>
+    <comment>No default browser found</comment>
+  </data>
+  <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
+    <value>Không thể mở URL. Vui lòng kiểm tra xem bạn đã có trình duyệt mặc định chưa và thử cài lại trình duyệt như Google Chrome hay Internet Explorer.</value>
+    <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
+  </data>
+  <data name="Dialog_OK" xml:space="preserve">
+    <value>Đồng ý</value>
+    <comment>OK</comment>
+  </data>
+  <data name="Dialog_RemoveAccount" xml:space="preserve">
+    <value>Xóa tài khoản nội bộ?</value>
+    <comment>Remove local account?</comment>
+  </data>
+  <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
+    <value>Bạn có chắc muốn xóa tài khoản và tất cả các định danh đã kết nối?
+
+Mailbird sẽ khởi động lại và có thể mất vài phút.</value>
+    <comment>Are you sure you want to remove the account and all connected identities?
+
+This will restart Mailbird and may take a few minutes.</comment>
+  </data>
+  <data name="Dialog_RemoveIdentity" xml:space="preserve">
+    <value>Xóa định danh?</value>
+    <comment>Remove identity?</comment>
+  </data>
+  <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
+    <value>Bạn có chắc muốn xóa định danh cho '{0}'?
+Hành động này không thể phục hồi.</value>
+    <comment>Are you sure you want to remove the identity for '{0}'?
+This action is irreversible.</comment>
+  </data>
+  <data name="Dialog_ReportCantSend" xml:space="preserve">
+    <value>Không thể gửi</value>
+    <comment>Could not send</comment>
+  </data>
+  <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
+    <value>Chúng tôi xin lỗi vì báo cáo của bạn không thể gửi.
+Chúng tôi đánh giá cao nó nhưng bạn có thể gửi email trực tiếp đến {0}.
+Thông điệp:</value>
+    <comment>We're sorry, but your report could not be sent. 
+We would appreciate it, if you could email it directly to {0} instead.
+Message:</comment>
+  </data>
+  <data name="Dialog_ReportSent" xml:space="preserve">
+    <value>Báo cáo đã gửi</value>
+    <comment>Report sent</comment>
+  </data>
+  <data name="Dialog_ReportSentExplanation" xml:space="preserve">
+    <value>Cảm ơn bạn đã gửi báo cáo vấn đề này!</value>
+    <comment>Thank you for reporting this issue!</comment>
+  </data>
+  <data name="Dialog_SendingDescription" xml:space="preserve">
+    <value>Mô tả việc gửi</value>
+    <comment>Sending description</comment>
+  </data>
+  <data name="Dialog_SendingDescriptionExplanation" xml:space="preserve">
+    <value>Cảm ơn bạn vì việc báo cáo vấn đề này!</value>
+    <comment>Thank you for reporting this issue!</comment>
+  </data>
+  <data name="Dialog_SendScreenshot" xml:space="preserve">
+    <value>Xác nhận việc gửi ảnh chụp màn hình</value>
+    <comment>Confirm sending screenshot</comment>
+  </data>
+  <data name="Dialog_SendScreenshotExplanation" xml:space="preserve">
+    <value>Bạn đã chọn gửi hình chụp màn hình cùng với báo cáo để giúp chúng tôi xác định nguyên nhân vấn đề. Vui lòng xác nhận.</value>
+    <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
+  </data>
+  <data name="Dialog_SizeLimit" xml:space="preserve">
+    <value>Vượt quá kích thước giới hạn</value>
+    <comment>Size limit exceeded</comment>
+  </data>
+  <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
+    <value>Bạn không thể thêm tập tin lớn hơn 25 mb.</value>
+    <comment>You can't add file larger than 25 mb each.</comment>
+  </data>
+  <data name="Dialog_SmtpFail" xml:space="preserve">
+    <value>Lỗi kết nối SMTP</value>
+    <comment>SMTP connection error</comment>
+  </data>
+  <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
+    <value>Xảy ra lỗi khi cố gắng xác minh các thiết lập kết nối. Hãy kiểm tra xem tất cả mọi thứ đã được nhập chính xác.</value>
+    <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
+  </data>
+  <data name="Dialog_SmtpSuccess" xml:space="preserve">
+    <value>Kết nối SMTP thành công</value>
+    <comment>SMTP connection success</comment>
+  </data>
+  <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
+    <value>Kết nối đến máy chủ SMTP thành công. Mọi thứ đang theo thứ tự.</value>
+    <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
+  </data>
+  <data name="Dialog_Thanks" xml:space="preserve">
+    <value>Cảm ơn!</value>
+    <comment>Thanks!</comment>
+  </data>
+  <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
+    <value>Vui lòng chờ đến khi Hộp thư đến của bạn được nạp xong</value>
+    <comment>Please wait until your Inbox has loaded</comment>
+  </data>
+  <data name="Dialog_Warning" xml:space="preserve">
+    <value>Cảnh báo</value>
+    <comment>Warning</comment>
+  </data>
+  </root>
