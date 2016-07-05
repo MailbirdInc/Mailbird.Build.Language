@@ -2160,10 +2160,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Mailbird does not support 2-step verification.
-Consider using an application specific password instead.
+    <value>Google ondersteunt geen 2 staps authenticatie wanneer gebruik wordt gemaakt van gebruikersnaam en wachtwoord.
 
-https://support.google.com/accounts/answer/185833</value>
+Configureer het account in mailbird om OAuth 2.0 verificatie tr gebruiken.
+
+https://support.google.com/accounts/answer/185833 </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
@@ -2454,7 +2455,7 @@ Path: {0}</comment>
     <comment>Look up on LinkedIn</comment>
   </data>
   <data name="Dialog_Uninstall" xml:space="preserve">
-    <value>Mailbird Storage verwijderen?</value>
+    <value>Opgeslagen bestanden van mailbird verwijderen?</value>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
@@ -2548,7 +2549,7 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Invite your friends to try Mailbird &amp; get [bold]Mailbird Pro Lifetime for free [/bold] when {0} or more friends install it from your invites. Invite as many friends as you like!</value>
+    <value>Nodig je vrienden uit en krijg mailbird pro lifetime gratis wanneer {0} of meer vrienden mailbird installeren. Nodig zoveel vrienden uit als je wilt.</value>
     <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
