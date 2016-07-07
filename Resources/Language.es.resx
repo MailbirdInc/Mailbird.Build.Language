@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Attachment_Open" xml:space="preserve">
-    <value>Open</value>
+    <value>Abrir</value>
     <comment>Open</comment>
   </data>
   <data name="Attachment_QuickPreview" xml:space="preserve">
@@ -126,15 +126,15 @@
     <comment>Quick preview</comment>
   </data>
   <data name="Attachment_Remove" xml:space="preserve">
-    <value>Remove</value>
+    <value>Remover</value>
     <comment>Remove</comment>
   </data>
   <data name="Attachment_Save" xml:space="preserve">
-    <value>Save as...</value>
+    <value>Guardar como...</value>
     <comment>Save as...</comment>
   </data>
   <data name="Attachment_SaveAll" xml:space="preserve">
-    <value>Save all as...</value>
+    <value>Guardar todo como...</value>
     <comment>Save all as...</comment>
   </data>
   <data name="Awesomium_Copy" xml:space="preserve">
@@ -154,7 +154,7 @@
     <comment>Copy image</comment>
   </data>
   <data name="Awesomium_CopyImageUrl" xml:space="preserve">
-    <value>Copiar dirección de la Imagen </value>
+    <value>Copiar dirección de la Imagen</value>
     <comment>Copy image address</comment>
   </data>
   <data name="Awesomium_CopyLink" xml:space="preserve">
@@ -234,7 +234,7 @@
     <comment>Copy to...</comment>
   </data>
   <data name="Options_SettingsMoreInfo" xml:space="preserve">
-    <value>Mailbird ajustará automáticamente esta configuración cada vez que la configuración de dpi cambie. Aunque si cambias esta configuración manualmente, Mailbird conservará el valor hasta que cambies la configuración de dpi. El valor por defecto es 100%.</value>
+    <value>Mailbird ajustará automáticamente esta configuración cada vez que la configuración de dpi cambie. Aunque si cambias esta configuración manualmente, Mailbird conservará el valor hasta que cambies la configuración de dpi. El valor por defecto es 100%</value>
     <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
@@ -724,7 +724,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Derechos de Autor 2015 Mailbird. Todos Los Derechos Reservados.</value>
+    <value>Derechos de Autor {0} Mailbird. Todos Los Derechos Reservados.</value>
     <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -2160,7 +2160,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Google no soporta el segundo paso de verificación cuando usa el usuario y la clave para la autenticacion
+    <value>Google no soporta la verificacion en 2 pasos cuando usa el usuario y la clave para la autenticacion
 Considere configurar la cuenta en Mailbird para que use OAuth 2.0 como autenticacion.
 
 https://support.google.com/accounts/answer/185833 </value>
