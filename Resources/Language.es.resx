@@ -1188,7 +1188,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>http://example.com</comment>
   </data>
   <data name="LinkEditor_FromComputer" xml:space="preserve">
-    <value>Desde el PC</value>
+    <value>Desde el equipo</value>
     <comment>From Computer</comment>
   </data>
   <data name="LinkEditor_FromUrl" xml:space="preserve">
@@ -2160,10 +2160,10 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Mailbird does not support 2-step verification.
-Consider using an application specific password instead.
+    <value>Google no soporta el segundo paso de verificación cuando usa el usuario y la clave para la autenticacion
+Considere configurar la cuenta en Mailbird para que use OAuth 2.0 como autenticacion.
 
-https://support.google.com/accounts/answer/185833</value>
+https://support.google.com/accounts/answer/185833 </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
@@ -4237,11 +4237,11 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Pin Mailbird to taskbar</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Start automatically with Windows</value>
+    <value>Iniciar automáticamente con Windows</value>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>Start Mailbird</value>
+    <value>Iniciar Mailbird</value>
     <comment>Start Mailbird</comment>
   </data>
   <data name="Notification_Gmail_WebLoginRequired" xml:space="preserve">
