@@ -2459,9 +2459,9 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Would you like to also remove the Mailbird storage directory, including the settings and local message database?
+    <value>Wilt u ook de Mailbird opslag directory verwijderen, inclusief instellingen en de lokale berichten opslag?
 
-If you intend to reinstall Mailbird, say no to keep from setting up everything again.</value>
+Selecteer nee als u van plan bent mailbird opnieuw te installeren en uw instelling te bewaren.</value>
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
@@ -3959,7 +3959,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>On the left is your navigation pane. You can use it to switch between accounts, folders and apps.</comment>
   </data>
   <data name="Tutorial_ExplanationStep2" xml:space="preserve">
-    <value>Gebruik deze bovenste knoppen om regelmatige taken te doen.</value>
+    <value>Gebruik deze bovenste knoppen om vaak voorkomende taken te doen.</value>
     <comment>Use these top buttons to do frequent tasks.</comment>
   </data>
   <data name="Tutorial_ExplanationStep3" xml:space="preserve">
@@ -4019,7 +4019,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Unifed account</comment>
   </data>
   <data name="Conversation_AutoLayout" xml:space="preserve">
-    <value>Auto-rotatie</value>
+    <value>Automatisch draaien</value>
     <comment>Auto Rotation Layout</comment>
   </data>
   <data name="Options_AutoLayoutMoreInfo" xml:space="preserve">
@@ -4099,10 +4099,10 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Please ensure that 'allow less secure apps' is enabled in Gmail:
-https://mailbird.zendesk.com/entries/53544244
+    <value>Configureer uw account om gebruik te maken van OAuth 2.0 authenticatie in plaats van het gebruik van de gebruikersnaam en wachtwoord, of zorg er voor dat 'allow less secure apps' is ingeschakeld in Gmail.
 
-If the issue persists, please follow this for further troubleshooting:
+Als dit probleem zich voor blijft doen, ga dan naar onderstaande link voor verdere hulp.
+
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
@@ -4326,7 +4326,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold]. Please input your password and any other missing details below.
+    <value>Importeren van [bold]{0}[/bold]. vul aub de missende gegevens in
 Account {1} of {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
@@ -4606,7 +4606,7 @@ Please try again and log in with the correct account before granting access.</co
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</value>
+    <value>Controleer uw account instellingen om zeker te zijn dat deze correct zijn en dat Mailbird toegang heeft tot je account.</value>
     <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
@@ -4634,7 +4634,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Please select the correct audio file from options</value>
+    <value>Selecteer het juiste bestand vanuit opties.</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
@@ -4662,7 +4662,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
+    <value>Nodig contacten uit</value>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
@@ -4981,7 +4981,7 @@ Please choose another file.</comment>
     <comment>Background</comment>
   </data>
   <data name="Upgrade_CustomCover" xml:space="preserve">
-    <value>Upgrade now to enable custom covers.</value>
+    <value>Upgrade nu om nieuwe covers te gebruiken.</value>
     <comment>Upgrade now to enable custom covers.</comment>
   </data>
   <data name="Tips_Failed" xml:space="preserve">
