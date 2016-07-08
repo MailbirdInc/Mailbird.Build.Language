@@ -1964,7 +1964,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Öffnet deine Konversation. Außerdem wird eine Nachricht ausgeklappt oder eingeklappt, wenn du in der Konverations-Ansicht bist.</value>
+    <value>Öffnet deine Konversation. Außerdem wird eine Nachricht aus- oder eingeklappt, wenn du in der 'Konversation-Ansicht' bist.</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -1984,7 +1984,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Bewegt deinen Cursor zur vorherigen Nachricht. Du kannst &lt;Enter&gt; drücken, um eine Nachricht auszuklappen oder einzuklappen (Funktioniert nur in der „Konversations-Ansicht“).</value>
+    <value>Bewegt deinen Cursor zur vorherigen Nachricht. Du kannst &lt;Enter&gt; drücken, um eine Nachricht aus- oder einzuklappen. (Funktioniert nur in der 'Konversation-Ansicht').</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2060,7 +2060,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Speichert einen Entwurf während der Erstellung der Nachricht. Halte während Du S drückst gleichzeitig &lt;strg&gt;  und stelle sicher das Dein Cursor sich in einem der Textfelder befindet - Entweder im Textfeld oder an: Cc: Bcc: oder dem Betrefffeld, während DU den Tastaturbefehl ausübst.</value>
+    <value>Speichert einen Entwurf während der Erstellung der Nachricht. Halte, während Du S drückst, gleichzeitig &lt;strg&gt;  und stelle sicher, dass sich Dein Cursor in einem der folgenden Textfelder befindet - entweder im E-Mail Textfenster oder in den Feldern: Cc: Bcc: oder Betreff, während Du den Tastaturbefehl ausübst.</value>
     <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
@@ -2483,7 +2483,7 @@ If you intend to reinstall Mailbird, say no to keep from setting up everything a
     <comment>Enter</comment>
   </data>
   <data name="Shortcut_NotFound" xml:space="preserve">
-    <value>Keine Suchergebnisse</value>
+    <value>Keine Suchergebnisse gefunden.</value>
     <comment>No shortcut found based on the search.</comment>
   </data>
   <data name="Shortcut_Space" xml:space="preserve">
@@ -2547,8 +2547,8 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Laden Sie Ihre Freunde zu Mailbird ein! Als Dankeschön geben wir Ihnen Mailbird Lifetime kostenfrei, wenn mindestens {0} Ihrer Freunde die Einladung annehmen und Mailbird installieren. 
-Sie können so viele Freunde einladen wie Sie mögen.</value>
+    <value>Laden Sie Ihre Freunde zu Mailbird ein! Als Dankeschön geben wir Ihnen [bold] 1 Mailbird Pro Lifetime kostenlos  [/bold] 2, wenn mindestens {0} Ihrer Freunde die Einladung annehmen und Mailbird installieren. 
+Sie können so viele Freunde einladen wie Sie!</value>
     <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
@@ -2589,8 +2589,8 @@ Message: {0}</comment>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>Laden Sie Ihre Freunde ein 
-und erhalten sie Mailbird Lifetime als Dankeschön kostenfrei</value>
+    <value>[bold] 1 Laden Sie Ihre Freunde ein [/bold] 2
+und erhalten sie als Dankeschön Mailbird Lifetime kostenlos!</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -3697,7 +3697,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
-    <value>Das Empfänger-Feld automatisch verstecken, wenn es den Fokus verliert.</value>
+    <value>Das Empfänger-Feld wird automatisch geschlossen, wenn es keine Email-Adresse enthält</value>
     <comment>Auto-collapse recipient fields on lost focus</comment>
   </data>
   <data name="Options_ComposeWindow" xml:space="preserve">
@@ -3733,7 +3733,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Loading is taking longer than usual. Please check your internet connection.</comment>
   </data>
   <data name="MailEditor_WebrootPasteError" xml:space="preserve">
-    <value>Blockiert von Webroot SecureAnywhere. Bitte ändern Sie die Programmeinstellungen um Mailbird zu erlauben.</value>
+    <value>Blockiert durch Webroot SecureAnywhere. Bitte ändere unter Webroot Identity Protection ob Mailbird geschützt oder ausgeführt wird</value>
     <comment>Blocked by Webroot SecureAnywhere. Please set Webroot Identity Protection to protect or allow Mailbird</comment>
   </data>
   <data name="Options_ImproveMailbird" xml:space="preserve">
@@ -4607,7 +4607,7 @@ Please try again and log in with the correct account before granting access.</co
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Bitte überprüfe Deine Kontoeinstellungen um zu bestätigen das sie korrekt sind und Mailbird die Erlaubnis hat auf Dein Email-Konto zuzugreifen.</value>
+    <value>Bitte überprüfe Deine Kontoeinstellungen um zu bestätigen, dass sie korrekt sind und dass Mailbird die Erlaubnis, hat auf Dein Email-Konto zuzugreifen.</value>
     <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
@@ -4635,7 +4635,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Bitte wähle die korrekte Audiodatei aus den Optionen.</value>
+    <value>Bitte wähle aus den Optionen die korrekte Audiodatei.</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
