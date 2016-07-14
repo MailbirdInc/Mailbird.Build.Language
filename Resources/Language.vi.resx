@@ -423,4 +423,406 @@ Message:</comment>
     <value>Cảnh báo</value>
     <comment>Warning</comment>
   </data>
+  <data name="Dialog_WhoToEmail" xml:space="preserve">
+    <value>Bạn muốn gửi email đến ai?</value>
+    <comment>Who'd you like to email?</comment>
+  </data>
+  <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
+    <value>Vui lòng điền ít nhất một người nhận.</value>
+    <comment>Please specify at least one recipient.</comment>
+  </data>
+  <data name="Dialog_WithoutAttachment" xml:space="preserve">
+    <value>Gửi không có đính kèm?</value>
+    <comment>Send without attachments?</comment>
+  </data>
+  <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
+    <value>Bạn viết "{0}" và chúng tôi nghĩ bạn muốn đính kèm tập tin.
+Nếu bạn muốn gửi không đính kèm hãy bấm "Đồng ý".</value>
+    <comment>You wrote "{0}", and we thought you might want to attach a file.
+If you want to send the email without attachments, just press "Ok" below.</comment>
+  </data>
+  <data name="Dialog_Yes" xml:space="preserve">
+    <value>Đồng ý</value>
+    <comment>Yes</comment>
+  </data>
+  <data name="Editor_Html" xml:space="preserve">
+    <value>Sửa Html</value>
+    <comment>Edit Html</comment>
+  </data>
+  <data name="Editor_Picture" xml:space="preserve">
+    <value>Chèn hình</value>
+    <comment>Insert image</comment>
+  </data>
+  <data name="InboxZero" xml:space="preserve">
+    <value>Hộp thư đến trống</value>
+    <comment>Inbox Zero</comment>
+  </data>
+  <data name="InboxZero_Awesome" xml:space="preserve">
+    <value>Bạn thật tuyệt vời!</value>
+    <comment>You are awesome!</comment>
+  </data>
+  <data name="Dialog_Close" xml:space="preserve">
+    <value>Đóng</value>
+    <comment>Close</comment>
+  </data>
+  <data name="Dialog_Help" xml:space="preserve">
+    <value>Trợ giúp</value>
+    <comment>Help</comment>
+  </data>
+  <data name="Account_Create" xml:space="preserve">
+    <value>Tạo tài khoản</value>
+    <comment>Create account</comment>
+  </data>
+  <data name="Account_Edit" xml:space="preserve">
+    <value>Sửa tài khoản</value>
+    <comment>Edit account</comment>
+  </data>
+  <data name="Account_Email" xml:space="preserve">
+    <value>Email:</value>
+    <comment>Email:</comment>
+  </data>
+  <data name="Account_Name" xml:space="preserve">
+    <value>Họ tên:</value>
+    <comment>Your name:</comment>
+  </data>
+  <data name="Account_Password" xml:space="preserve">
+    <value>Mật khẩu:</value>
+    <comment>Password:</comment>
+  </data>
+  <data name="Account_WrongPassword" xml:space="preserve">
+    <value>Vui lòng nhập mật khẩu đúng</value>
+    <comment>Please enter the correct password</comment>
+  </data>
+  <data name="Dialog_Add" xml:space="preserve">
+    <value>Thêm</value>
+    <comment>Add</comment>
+  </data>
+  <data name="Dialog_Browse" xml:space="preserve">
+    <value>Duyệt</value>
+    <comment>Browse</comment>
+  </data>
+  <data name="Dialog_Continue" xml:space="preserve">
+    <value>Tiếp tục</value>
+    <comment>Continue</comment>
+  </data>
+  <data name="Dialog_DiscardDraft" xml:space="preserve">
+    <value>Hủy thư?</value>
+    <comment>Discard Draft?</comment>
+  </data>
+  <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
+    <value>Bạn có chắc chắn hủy thư đang soạn không?</value>
+    <comment>Are you sure you want to discard your draft?</comment>
+  </data>
+  <data name="Editor_InsertLink" xml:space="preserve">
+    <value>Thêm liên kết</value>
+    <comment>Insert link</comment>
+  </data>
+  <data name="Identity_Account" xml:space="preserve">
+    <value>Tài khoản:</value>
+    <comment>Account:</comment>
+  </data>
+  <data name="Identity_Add" xml:space="preserve">
+    <value>Thêm định danh</value>
+    <comment>Add identity</comment>
+  </data>
+  <data name="Identity_DifferentReplyTo" xml:space="preserve">
+    <value>Sử dụng địa chỉ khác cho trả lời</value>
+    <comment>Use a different reply-to address</comment>
+  </data>
+  <data name="Identity_DifferentSignature" xml:space="preserve">
+    <value>Sử dụng chữ ký khác cho {0}</value>
+    <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
+  </data>
+  <data name="Identity_Edit" xml:space="preserve">
+    <value>Sửa định danh</value>
+    <comment>Edit identity</comment>
+  </data>
+  <data name="Identity_ReplyTo" xml:space="preserve">
+    <value>Trả lời đến:</value>
+    <comment>Reply-to:</comment>
+  </data>
+  <data name="Identity_SendFromAccount" xml:space="preserve">
+    <value>Tài khoản</value>
+    <comment>Account</comment>
+  </data>
+  <data name="Identity_SendFromSmtp" xml:space="preserve">
+    <value>Máy chủ SMTP</value>
+    <comment>SMTP Server</comment>
+  </data>
+  <data name="Identity_SendThrough" xml:space="preserve">
+    <value>Gửi qua:</value>
+    <comment>Send through:</comment>
+  </data>
+  <data name="Identity_Signature" xml:space="preserve">
+    <value>Chữ ký:</value>
+    <comment>Signature:</comment>
+  </data>
+  <data name="Identity_SmtpPassword" xml:space="preserve">
+    <value>Mật khẩu:</value>
+    <comment>Password:</comment>
+  </data>
+  <data name="Identity_SmtpPort" xml:space="preserve">
+    <value>Cổng:</value>
+    <comment>Port:</comment>
+  </data>
+  <data name="Identity_SmtpServer" xml:space="preserve">
+    <value>Máy chủ SMTP:</value>
+    <comment>SMTP server:</comment>
+  </data>
+  <data name="Identity_SmtpUsername" xml:space="preserve">
+    <value>Tên đăng nhập:</value>
+    <comment>Username:</comment>
+  </data>
+  <data name="Identity_Test" xml:space="preserve">
+    <value>Kiểm tra kết nối</value>
+    <comment>Test connection</comment>
+  </data>
+  <data name="Identity_Testing" xml:space="preserve">
+    <value>Đang kiểm tra kết nối...</value>
+    <comment>Testing connection...</comment>
+  </data>
+  <data name="Dialog_Report" xml:space="preserve">
+    <value>Báo cáo lỗi này</value>
+    <comment>Report this problem</comment>
+  </data>
+  <data name="Dialog_Restart" xml:space="preserve">
+    <value>Khởi động lại</value>
+    <comment>Restart</comment>
+  </data>
+  <data name="Find_Close" xml:space="preserve">
+    <value>Đóng cửa sổ tìm kiếm</value>
+    <comment>Close find window</comment>
+  </data>
+  <data name="Find_Find" xml:space="preserve">
+    <value>Tìm</value>
+    <comment>Find</comment>
+  </data>
+  <data name="Find_Next" xml:space="preserve">
+    <value>Tiếp</value>
+    <comment>Next</comment>
+  </data>
+  <data name="Find_Previous" xml:space="preserve">
+    <value>Trước</value>
+    <comment>Previous</comment>
+  </data>
+  <data name="About_Copyright" xml:space="preserve">
+    <value>Bản quyền {0} Mailbird. Bảo lưu mọi quyền.</value>
+    <comment>Copyright {current year} Mailbird. All Rights Reserved.</comment>
+  </data>
+  <data name="About_Version" xml:space="preserve">
+    <value>Phiên bản</value>
+    <comment>Version</comment>
+  </data>
+  <data name="Conversation_Bcc" xml:space="preserve">
+    <value>Sao ẩn BCC: </value>
+    <comment>Bcc:</comment>
+  </data>
+  <data name="Conversation_Bcc1" xml:space="preserve">
+    <value>Sao ẩn BCC</value>
+    <comment>Bcc</comment>
+  </data>
+  <data name="Conversation_Cc" xml:space="preserve">
+    <value>Sao hiện CC: </value>
+    <comment>Cc:</comment>
+  </data>
+  <data name="Conversation_Cc1" xml:space="preserve">
+    <value>Sao hiện CC</value>
+    <comment>Cc</comment>
+  </data>
+  <data name="Default_AlwaysAsk" xml:space="preserve">
+    <value>Luôn thực hiện kiểm tra này khi khởi động Mailbird</value>
+    <comment>Always perform this check when starting Mailbird</comment>
+  </data>
+  <data name="Default_SetAs" xml:space="preserve">
+    <value>Đặt làm mặc định?</value>
+    <comment>Set as default?</comment>
+  </data>
+  <data name="Default_SetAsExplanation" xml:space="preserve">
+    <value>Bạn có muốn dùng Mailbird là ứng dụng email mặc định?</value>
+    <comment>Do you want to use Mailbird as your default email client?</comment>
+  </data>
+  <data name="Dialog_Overwrite" xml:space="preserve">
+    <value>Ghi đè tập tin đã có?</value>
+    <comment>Overwrite Existing Files?</comment>
+  </data>
+  <data name="Dialog_OverwriteExplanation" xml:space="preserve">
+    <value>Bạn có muốn ghi đè tập tin đã có không?</value>
+    <comment>Would you like to overwrite existing files?</comment>
+  </data>
+  <data name="Dialog_Purchase" xml:space="preserve">
+    <value>Mua</value>
+    <comment>Purchase</comment>
+  </data>
+  <data name="Dialog_SaveFolder" xml:space="preserve">
+    <value>Chọn thư mục để lưu tập tin đính kèm:</value>
+    <comment>Select the folder to save the selected attachments in:</comment>
+  </data>
+  <data name="Draft_Saved" xml:space="preserve">
+    <value>Đã lưu</value>
+    <comment>saved</comment>
+  </data>
+  <data name="Day_Friday" xml:space="preserve">
+    <value>Thứ sáu</value>
+    <comment>Friday</comment>
+  </data>
+  <data name="Day_Monday" xml:space="preserve">
+    <value>Thứ hai</value>
+    <comment>Monday</comment>
+  </data>
+  <data name="Day_Saturday" xml:space="preserve">
+    <value>Thứ bảy</value>
+    <comment>Saturday</comment>
+  </data>
+  <data name="Day_Sunday" xml:space="preserve">
+    <value>Chủ nhật</value>
+    <comment>Sunday</comment>
+  </data>
+  <data name="Day_Thursday" xml:space="preserve">
+    <value>Thứ năm</value>
+    <comment>Thursday</comment>
+  </data>
+  <data name="Day_Tuesday" xml:space="preserve">
+    <value>Thứ ba</value>
+    <comment>Tuesday</comment>
+  </data>
+  <data name="Day_Wednesday" xml:space="preserve">
+    <value>Thứ tư</value>
+    <comment>Wednesday</comment>
+  </data>
+  <data name="Day_Yesterday" xml:space="preserve">
+    <value>Hôm qua</value>
+    <comment>Yesterday</comment>
+  </data>
+  <data name="Download_Always" xml:space="preserve">
+    <value>Luôn tải về</value>
+    <comment>Always download</comment>
+  </data>
+  <data name="Download_Never" xml:space="preserve">
+    <value>Không bao giờ tải về</value>
+    <comment>Never download</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
+    <value>Vui lòng nhập địa chỉ email của bạn</value>
+    <comment>Please enter an email address</comment>
+  </data>
+  <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
+    <value>Vui lòng nhập một địa chỉ liên kết</value>
+    <comment>Please enter a link address</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
+    <value>Bạn không thể gửi một lời mời rỗng</value>
+    <comment>You cannot send an empty invitation</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyPassword" xml:space="preserve">
+    <value>Vui lòng nhập một mật khẩu</value>
+    <comment>Please enter a password</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
+    <value>Vui lòng nhập một cổng</value>
+    <comment>Please enter a port number</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
+    <value>Vui lòng nhập tên máy chủ</value>
+    <comment>Please enter the server name</comment>
+  </data>
+  <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
+    <value>Vui lòng nhập tiêu đề</value>
+    <comment>Please enter subject</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyUsername" xml:space="preserve">
+    <value>Vui lòng nhập tên đăng nhập</value>
+    <comment>Please enter a username</comment>
+  </data>
+  <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
+    <value>Email không hợp lệ</value>
+    <comment>Email is invalid</comment>
+  </data>
+  <data name="AccountValidationRule_InvalidEmail2" xml:space="preserve">
+    <value>Email có vẻ không hợp lệ</value>
+    <comment>Email appears invalid</comment>
+  </data>
+  <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
+    <value>Vui lòng nhập một key bản quyền hợp lệ</value>
+    <comment>Please enter a valid license key</comment>
+  </data>
+  <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
+    <value>Vui lòng nhập url hợp lệ</value>
+    <comment>Please enter a valid url</comment>
+  </data>
+  <data name="AccountValidationRule_SenderName" xml:space="preserve">
+    <value>Vui lòng nhập họ tên bạn</value>
+    <comment>Please enter your name</comment>
+  </data>
+  <data name="Facebook_HowMailbirdConnectsLink" xml:space="preserve">
+    <value>Mailbird kết nối với Facebook của bạn như thế nào?</value>
+    <comment>How can Mailbird connect with your Facebook?</comment>
+  </data>
+  <data name="Dialog_URL" xml:space="preserve">
+    <value>Đường dẫn</value>
+    <comment>URL</comment>
+  </data>
+  <data name="Dialog_Email" xml:space="preserve">
+    <value>Email</value>
+    <comment>Email</comment>
+  </data>
+  <data name="Dialog_NameLabel" xml:space="preserve">
+    <value>Tên:</value>
+    <comment>Name:</comment>
+  </data>
+  <data name="EditFolderWindow_NestFolderUnderLabel" xml:space="preserve">
+    <value>Thư mục lồng dưới:</value>
+    <comment>Nest folder under:</comment>
+  </data>
+  <data name="EditFolderWindow_Title" xml:space="preserve">
+    <value>Thêm thư mục</value>
+    <comment>Add folder</comment>
+  </data>
+  <data name="FolderIdentity_AllMail" xml:space="preserve">
+    <value>Tất cả</value>
+    <comment>All</comment>
+  </data>
+  <data name="FolderIdentity_Archived" xml:space="preserve">
+    <value>Lưu trữ</value>
+    <comment>Archived</comment>
+  </data>
+  <data name="FolderIdentity_Drafts" xml:space="preserve">
+    <value>Thư tạm</value>
+    <comment>Drafts</comment>
+  </data>
+  <data name="FolderIdentity_Important" xml:space="preserve">
+    <value>Quan trọng</value>
+    <comment>Important</comment>
+  </data>
+  <data name="FolderIdentity_Inbox" xml:space="preserve">
+    <value>Hộp thư đến</value>
+    <comment>Inbox</comment>
+  </data>
+  <data name="FolderIdentity_Sent" xml:space="preserve">
+    <value>Đã gửi</value>
+    <comment>Sent</comment>
+  </data>
+  <data name="FolderIdentity_Spam" xml:space="preserve">
+    <value>Thư rác</value>
+    <comment>Spam</comment>
+  </data>
+  <data name="FolderIdentity_Starred" xml:space="preserve">
+    <value>Đánh sao</value>
+    <comment>Starred</comment>
+  </data>
+  <data name="FolderIdentity_Trash" xml:space="preserve">
+    <value>Thùng rác</value>
+    <comment>Trash</comment>
+  </data>
+  <data name="AppStore_Title" xml:space="preserve">
+    <value>Ứng dụng</value>
+    <comment>Apps</comment>
+  </data>
+  <data name="Conversation_ShowSource" xml:space="preserve">
+    <value>Nguồn thư</value>
+    <comment>Message source</comment>
+  </data>
+  <data name="Dialog_ReadMore" xml:space="preserve">
+    <value>Xem thêm</value>
+    <comment>Read more</comment>
+  </data>
   </root>
