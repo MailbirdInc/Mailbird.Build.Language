@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <root><data name="Attachment_QuickPreview" xml:space="preserve">
     <value>Бърз преглед</value>
     <comment>Quick preview</comment>
@@ -4839,10 +4839,6 @@ the final result will be: Search Google for "query"</comment>
     <value>Failed to load background image</value>
     <comment>Failed to load background image</comment>
   </data>
-  <data name="Notification_FailedToLoadBackgroundExplanation" xml:space="preserve">
-    <value>Please select the correct image file from options.</value>
-    <comment>Please select the correct image file from options.</comment>
-  </data>
   <data name="Notification_FailedToSetBackground" xml:space="preserve">
     <value>Failed to set background image</value>
     <comment>Failed to set background image</comment>
@@ -4890,5 +4886,47 @@ Once your trial is over your account will revert to the Lite (free) version.</co
   <data name="Trial_StartTitle2" xml:space="preserve">
     <value>Your Free Pro Trial Starts Now</value>
     <comment>Your Free Pro Trial Starts Now</comment>
+  </data>
+<data name="Notification_ErrorLoadingBackgroundExplanation" xml:space="preserve">
+    <value>An error occured loading the background image.
+Please select another image to use as a background.</value>
+    <comment>An error occured loading the background image.
+Please select another image to use as a background.</comment>
+  </data>
+  <data name="Notification_FailedToRemoveBackground" xml:space="preserve">
+    <value>Failed to set remove background image</value>
+    <comment>Failed to set remove background image</comment>
+  </data>
+  <data name="Options_RemoveBackground" xml:space="preserve">
+    <value>Remove</value>
+    <comment>Remove</comment>
+  </data>
+  <data name="Options_RetrieveLicense" xml:space="preserve">
+    <value>Retrieve License Key</value>
+    <comment>Retrieve License Key</comment>
+  </data>
+  <data name="Upgrade_NoLimitApps" xml:space="preserve">
+    <value>Upgrade to Mailbird Pro and unlock as many apps as you want!</value>
+    <comment>Upgrade to Mailbird Pro and unlock as many apps as you want!</comment>
+  </data>
+  <data name="App_Chrome_Description" xml:space="preserve">
+    <value>Navigate the web from Mailbird.</value>
+    <comment>Navigate the web from Mailbird.</comment>
+  </data>
+  <data name="Trial_Feature6" xml:space="preserve">
+    <value>Unlimited apps</value>
+    <comment>Unlimited apps</comment>
+  </data>
+  <data name="Apps_LimitingLiteApps" xml:space="preserve">
+    <value>Some apps have been deactivated due to the trial having expired. Please upgrade to Pro to activate them</value>
+    <comment>Some apps have been deactivated due to the trial having expired. Please upgrade to Pro to reactivate them</comment>
+  </data>
+  <data name="Welcome_AppsLimit" xml:space="preserve">
+    <value>You are using Mailbird Lite which does not allow activating more than 1 App. Please upgrade to Pro to activate unlimited apps.</value>
+    <comment>You are using Mailbird Lite which does not allow activating more than 1 App. Please upgrade to Pro to activate unlimited apps.</comment>
+  </data>
+  <data name="Trial_AlreadyHaveLicense" xml:space="preserve">
+    <value>I already have a license key</value>
+    <comment>I already have a license key</comment>
   </data>
 </root>
