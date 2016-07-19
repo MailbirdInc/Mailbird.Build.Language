@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -1696,7 +1696,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>当收到消息时播放提示音:</value>
+    <value>当收到邮件时播放提示音:</value>
     <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
@@ -2052,7 +2052,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Return to conversation list</comment>
   </data>
   <data name="Shortcut_ReturnExplanation" xml:space="preserve">
-    <value>刷新页面并返回到收件箱,或会话列表</value>
+    <value>刷新页面并返回收件箱, 或会话列表.</value>
     <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
   </data>
   <data name="Shortcut_SaveDraft" xml:space="preserve">
@@ -2068,7 +2068,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search</comment>
   </data>
   <data name="Shortcut_SearchExplanation" xml:space="preserve">
-    <value>将游标移动到搜索框</value>
+    <value>将游标移动到搜索框.</value>
     <comment>Puts your cursor in the search box.</comment>
   </data>
   <data name="Shortcut_SearchExplanation1" xml:space="preserve">
@@ -2441,7 +2441,7 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>当以选定账户撰写消息时的预选发送者身份</value>
+    <value>已选择此账号编写邮件时的预选发送者身份.</value>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
@@ -2545,7 +2545,7 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Invite your friends to try Mailbird &amp; get [bold]Mailbird Pro Lifetime for free [/bold] when {0} or more friends install it from your invites. Invite as many friends as you like!</value>
+    <value>邀请好友试用 Mailbird. 当 {0} 或更多好友安装后, 您就可[bold]免费拥有 Mailbird Pro Lifetime[/bold]. 无限好友任随你邀请!</value>
     <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
@@ -2586,8 +2586,8 @@ Message: {0}</comment>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>[bold]Invite friends to fly together[/bold]
-and get Mailbird Lifetime for free!</value>
+    <value>[bold]邀请好友一起飞[/bold]
+以免费拥有 Mailbird Lifetime!</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -2859,7 +2859,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>服务器不允许文件夹名称内含'{0}'字符</value>
+    <value>服务器不允许文件夹名称内含'{0}'字符.</value>
     <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -3130,7 +3130,7 @@ Please check the identity setup and try again.</comment>
     <comment>Browse</comment>
   </data>
   <data name="App_Contacts_Import_Success_Singular" xml:space="preserve">
-    <value>已导入 1 个联系人</value>
+    <value>已导入 1 个联系人.</value>
     <comment>1 contact imported.</comment>
   </data>
   <data name="App_Contacts_Import_Description" xml:space="preserve">
@@ -3146,7 +3146,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
-    <value>Gmail</value>
+    <value>谷歌邮件</value>
     <comment>Gmail</comment>
   </data>
   <data name="App_Contacts_Import_Import" xml:space="preserve">
@@ -3222,7 +3222,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Globe</comment>
   </data>
   <data name="AvatarIconGmail" xml:space="preserve">
-    <value>Gmail</value>
+    <value>谷歌邮件</value>
     <comment>Gmail</comment>
   </data>
   <data name="AvatarIconICloud" xml:space="preserve">
@@ -3258,7 +3258,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Phone</comment>
   </data>
   <data name="AvatarIconPinkMonkey" xml:space="preserve">
-    <value>Pink Monkey</value>
+    <value>粉红猴子</value>
     <comment>Pink Monkey</comment>
   </data>
   <data name="AvatarIconPrivate" xml:space="preserve">
@@ -3282,7 +3282,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Work</comment>
   </data>
   <data name="AvatarIconYahoo" xml:space="preserve">
-    <value>Yahoo!</value>
+    <value>雅虎!</value>
     <comment>Yahoo!</comment>
   </data>
   <data name="SecurityProtocol_SSL" xml:space="preserve">
@@ -3526,7 +3526,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Mailbird tips</comment>
   </data>
   <data name="Options_LimitingAccounts" xml:space="preserve">
-    <value>并未读取所有账号，因为试用期已过期. 请升级到专业版并重启Mailbird来读取所有的账号.</value>
+    <value>并未读取所有账号, 因为试用期已过期. 请升级到专业版并重启Mailbird来读取所有的账号</value>
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
@@ -3810,7 +3810,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
-    <value>许可证截止日期</value>
+    <value>许可证截止日期: {0} (剩下 {1})</value>
     <comment>Expires</comment>
   </data>
   <data name="Timeline_Today" xml:space="preserve">
@@ -3846,7 +3846,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</value>
+    <value>您喜欢 Mailbird 吗? 今天就邀请好友加入 Mailbird 以帮助我们成长与进步.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
@@ -4059,7 +4059,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Do you have any questions?</comment>
   </data>
   <data name="Dialog_Calify" xml:space="preserve">
-    <value>安装Calify.</value>
+    <value>安装Calify</value>
     <comment>Install Calify</comment>
   </data>
   <data name="Dialog_CalifyExplanation" xml:space="preserve">
@@ -4096,7 +4096,7 @@ You can disable the unified account from the options, or edit each of your accou
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
     <value>请确保"允许稍低安全级的应用"设施在Gmail里已启用:
-https://mailbird.zendesk.com/entries/53544244
+{0}
 
 如果问题依然存在，请按照以下链接尝试解决问题:
 https://support.google.com/mail/accounts/answer/78754</value>
@@ -4215,7 +4215,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
-    <value>Add new recipients to contacts app</value>
+    <value>在联系应用加入新的接受者</value>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
@@ -4298,78 +4298,79 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>reload the draft</comment>
   </data>
   <data name="Options_BackgroundPattern" xml:space="preserve">
-    <value>Choose background/pattern</value>
+    <value>选择背景或模式</value>
     <comment>Choose background/pattern</comment>
   </data>
   <data name="Import_NoAccounts" xml:space="preserve">
-    <value>No accounts</value>
+    <value>没有账号</value>
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Invite friends - earn Pro</value>
+    <value>邀请好友 - 索取 Pro</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
-    <value>No Account Selected</value>
+    <value>无已选择的账号</value>
     <comment>No Account Selected</comment>
   </data>
   <data name="Dialog_NoAccountExplanation" xml:space="preserve">
-    <value>Please select at least 1 account to import.</value>
+    <value>请选择至少一个账号来导入.</value>
     <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
-    <value>Or import from another email client.</value>
+    <value>或从另一个电子邮件客户端导入.</value>
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold]. Please input your password and any other missing details below.
-Account {1} of {2}.</value>
+    <value>正在引进 [bold]{0}[/bold].
+请输入任何相关资料.
+账号 {1} 之 {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
 Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
-    <value>Select the accounts you want to import to Mailbird.
-To prevent errors, please close the email client you'll import from before continuing.</value>
+    <value>请选择您要导入Mailbird的账号.
+为了避免差错, 请关闭有关电子邮件客户端才继续.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
   <data name="Welcome_ImportTitle" xml:space="preserve">
-    <value>Import existing accounts</value>
+    <value>导入现有的账号</value>
     <comment>Import existing accounts</comment>
   </data>
   <data name="Welcome_SkipAccount" xml:space="preserve">
-    <value>Skip this account</value>
+    <value>跳过此账号</value>
     <comment>Skip this account</comment>
   </data>
   <data name="Welcome_CancelImportData" xml:space="preserve">
-    <value>Cancel import</value>
+    <value>取消导入</value>
     <comment>Cancel import</comment>
   </data>
   <data name="Welcome_CancelImportDataExplanation" xml:space="preserve">
-    <value>Are you sure you want to cancel import? Any data not imported will be unavailable in Mailbird.</value>
+    <value>您确定要取消导入? 任何没有导入的数据将不会在 Mailbird 出现.</value>
     <comment>Are you sure you want to cancel import? Any data not imported will be unavailable in Mailbird.</comment>
   </data>
   <data name="Welcome_CancelImportDataTitle" xml:space="preserve">
-    <value>Cancel import?</value>
+    <value>取消导入?</value>
     <comment>Cancel import?</comment>
   </data>
   <data name="Welcome_ImportDataSubTitle" xml:space="preserve">
-    <value>Please wait while Mailbird imports the data for your account.</value>
+    <value>请稍等, Mailbird 正在导入您的账号数据.</value>
     <comment>Please wait while Mailbird imports the data for your account.</comment>
   </data>
   <data name="Welcome_ImportDataTitle" xml:space="preserve">
-    <value>Importing data</value>
+    <value>正在导入数据</value>
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird will restart and remove account(s) that you've already added. 
-Are you sure you want to continue?</value>
+    <value>Mailbird 将会重启并清除您已添加的账号.
+您确定要继续?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
   </data>
   <data name="Welcome_CancelImportTitle" xml:space="preserve">
-    <value>Are you sure you want to cancel import?</value>
+    <value>您确定要取消导入?</value>
     <comment>Are you sure you want to cancel import?</comment>
   </data>
   <data name="Import_ImportMessage" xml:space="preserve">
@@ -4377,38 +4378,38 @@ Are you sure you want to continue?</comment>
     <comment>Import messages</comment>
   </data>
   <data name="Dialog_NoAccountPst" xml:space="preserve">
-    <value>No account or PST file selected</value>
+    <value>没有已选的账号或 PST 文件</value>
     <comment>No account or PST file selected</comment>
   </data>
   <data name="Dialog_NoAccountPstExplanation" xml:space="preserve">
-    <value>Please select at least 1 account or a PST file to import.</value>
+    <value>请选择至少一个账号或 PST 文件来导入.</value>
     <comment>Please select at least 1 account or a PST file to import.</comment>
   </data>
   <data name="Dialog_PstLocationNotValid" xml:space="preserve">
-    <value>No file selected</value>
+    <value>无已选的文件</value>
     <comment>No file selected</comment>
   </data>
   <data name="Dialog_PstLocationNotValidExplanation" xml:space="preserve">
-    <value>Please select a file or folder.</value>
+    <value>请选择一个文件或文件夹.</value>
     <comment>Please select a file or folder.</comment>
   </data>
   <data name="Import_Browse" xml:space="preserve">
-    <value>Browse</value>
+    <value>浏览</value>
     <comment>Browse</comment>
   </data>
   <data name="Import_SelectFile" xml:space="preserve">
-    <value>Select file or folder to import from</value>
+    <value>选择文件或文件夹以导入</value>
     <comment>Select file or folder to import from</comment>
   </data>
   <data name="Welcome_ImportDataToExistingSubTitle" xml:space="preserve">
-    <value>Please wait while Mailbird imports the data for your account.
-Canceling will not remove already imported data.</value>
+    <value>请稍等, Mailbird 正在导入您账号的数据.
+取消导入不会清除已导入的数据.</value>
     <comment>Please wait while Mailbird imports the data for your account.
 Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
-    <value>Select the account or PST file to import from.
-To prevent errors, please close the email client you'll import from before continuing.</value>
+    <value>选择账号或 PST 文件来导入.
+为了避免差错, 请关闭有关电子邮件客户端才继续.</value>
     <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4417,128 +4418,129 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Import source</comment>
   </data>
   <data name="Import_AccountData" xml:space="preserve">
-    <value>Importing account data</value>
+    <value>正在导入账号数据</value>
     <comment>Importing account data</comment>
   </data>
   <data name="Import_Cancelled" xml:space="preserve">
-    <value>Import cancelled</value>
+    <value>导入已取消</value>
     <comment>Import cancelled</comment>
   </data>
   <data name="Import_Error_Client_Running" xml:space="preserve">
-    <value>{0} is running. Please close it an try again</value>
+    <value>{0} 正在运行. 请将它关闭再试一次</value>
     <comment>{0} is running. Please close it an try again</comment>
   </data>
   <data name="Import_Error_General" xml:space="preserve">
-    <value>There was an error while importing. Please contact Support</value>
+    <value>导入时出了差错. 请联系支援</value>
     <comment>There was an error while importing. Please contact Support</comment>
   </data>
   <data name="Import_Error_Invalid_Pst" xml:space="preserve">
-    <value>{0} is not a valid .pst file</value>
+    <value>{0} 并不是 .pst 文件</value>
     <comment>{0} is not a valid pst file</comment>
   </data>
   <data name="Import_Error_Messages" xml:space="preserve">
-    <value>One or more messages could not be imported</value>
+    <value>有些邮件无法被导入</value>
     <comment>One or more messages could not be imported</comment>
   </data>
   <data name="Import_Finished" xml:space="preserve">
-    <value>Import finished</value>
+    <value>导入完成</value>
     <comment>Import finished</comment>
   </data>
   <data name="Import_Initializing" xml:space="preserve">
-    <value>Initializing...</value>
+    <value>启动中...</value>
     <comment>Initializing...</comment>
   </data>
   <data name="Import_Error_Data_NotFound" xml:space="preserve">
-    <value>Account Data does not exist. Cannot import</value>
+    <value>账号数据并不存在. 无法导入</value>
     <comment>Account Data does not exist. Cannot import</comment>
   </data>
   <data name="Dialog_ClientRunning_Message" xml:space="preserve">
-    <value>One or more selected clients are still running. Please close them and try again</value>
+    <value>有些已选客户端还在运行. 请将他们关闭再试一次</value>
     <comment>One or more selected clients are still running. Please close them and try again</comment>
   </data>
   <data name="Dialog_ClientRunning_Title" xml:space="preserve">
-    <value>Selected client is running</value>
+    <value>已选择的客户端还在运行</value>
     <comment>Selected client is running</comment>
   </data>
   <data name="Import_Error_FileFormatNotValid" xml:space="preserve">
-    <value>Mailbird cannot import from selected file</value>
+    <value>Mailbird 无法从选择的文件导入</value>
     <comment>Mailbird cannot import from selected file</comment>
   </data>
   <data name="Dialog_Error_DragOperationFailed" xml:space="preserve">
-    <value>The drag operation failed, please try again. If the error persists, please contact support.</value>
+    <value>拖动操作失败, 请再试一次. 假若还是不行, 请联系支援.</value>
     <comment>The drag operation failed, please try again. If the error persists, please contact support.</comment>
   </data>
   <data name="Dialog_Error_OperationFailed" xml:space="preserve">
-    <value>Operation failed</value>
+    <value>操作失败</value>
     <comment>Operation failed</comment>
   </data>
   <data name="Import_Folder_ImportedMessges" xml:space="preserve">
-    <value>Imported messages</value>
+    <value>已导入的邮件</value>
     <comment>Imported messages</comment>
   </data>
   <data name="Import_FromExternalSource" xml:space="preserve">
-    <value>From external source</value>
+    <value>来自外部来源</value>
     <comment>From external source</comment>
   </data>
   <data name="Import_ImportingFromFile" xml:space="preserve">
-    <value>Importing from external source</value>
+    <value>从外部来源导入</value>
     <comment>Importing from file or folder</comment>
   </data>
   <data name="Import_EmlFile" xml:space="preserve">
-    <value>Eml files</value>
+    <value>Eml 文件</value>
     <comment>Eml files</comment>
   </data>
   <data name="Import_EmlFolder" xml:space="preserve">
-    <value>Folder with eml files</value>
+    <value>有 eml 文件的文件夹</value>
     <comment>Folder with eml files</comment>
   </data>
   <data name="Import_MsfFile" xml:space="preserve">
-    <value>Msf file</value>
+    <value>Msf 文件</value>
     <comment>Msf file</comment>
   </data>
   <data name="Import_PstFile" xml:space="preserve">
-    <value>Pst file</value>
+    <value>Pst 文件</value>
     <comment>Pst file</comment>
   </data>
   <data name="Dialog_Back" xml:space="preserve">
-    <value>Back</value>
+    <value>返回</value>
     <comment>Back</comment>
   </data>
   <data name="Welcome_ImportSettingsFoundSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold]. Account {1} of {2}.</value>
+    <value>正在导入 [bold]{0}[/bold]. 账号 {1} 之 {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Account 1 of 4.</comment>
   </data>
   <data name="Notification_SendingMessage" xml:space="preserve">
-    <value>Sending message...</value>
+    <value>正在发送邮件...</value>
     <comment>Sending message...</comment>
   </data>
   <data name="Options_Seconds" xml:space="preserve">
-    <value>{0} seconds</value>
+    <value>{0} 秒</value>
     <comment>{0} seconds</comment>
   </data>
   <data name="Options_Sending" xml:space="preserve">
-    <value>Sending</value>
+    <value>正在发送</value>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>Undo send period</value>
+    <value>复原发送事期</value>
     <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>已禁用</value>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>The time messages will be delayed when sending, giving you the option to undo.</value>
+    <value>邮件将延迟反送, 让您有复原的选项.</value>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</value>
+    <value>因使用 Lite 的关系, 您的选择已超越账号限制. 如果继续, 有些账号将不会在下回 Mailbird 启动时被显示.
+请升级至 Pro 以显示所有账号.</value>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>This account cannot be imported because it's already added to Mailbird</value>
+    <value>此账号不能被导入因为它已经在Mailbird里了</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
 <data name="Welcome_SettingsFoundSubTitle_OAuth" xml:space="preserve">
@@ -4546,7 +4548,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</value>
+    <value>所使用的认证类型. 谷歌账号才能使用谷歌 OAuth 2.0.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -4554,71 +4556,71 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Authentication</comment>
   </data>
   <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
-    <value>Username and password</value>
+    <value>用户名与密码</value>
     <comment>Username and password</comment>
   </data>
   <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
-    <value>Google OAuth 2.0</value>
+    <value>谷歌 OAuth 2.0</value>
     <comment>Google OAuth 2.0</comment>
   </data>
   <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
-    <value>Authorize access to {0}</value>
+    <value>给予授权接驳至 {0}</value>
     <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Enter the password used to log in to {0}.</value>
+    <value>输入密码以登入至 {0}.</value>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
-    <value>An error occured authorizing Mailbird to access the email account.
+    <value>无法授权 Mailbird 接驳电子邮件账号.
 
-Please try again or switch to username and password authentication.</value>
+请在试一次或使用用户名与密码认证.</value>
     <comment>An error occured authorizing Mailbird to access the email account.
 
 Please try again or switch to username and password authentication.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
-    <value>An unknown error occured during authorization.
+    <value>授权时出现了未知故障.
 
-Please try again, or contact support if the issue persists.</value>
+请再试一次, 如果问题重现请联系支援.</value>
     <comment>An unknown error occured during authorization.
 
 Please try again, or contact support if the issue persists.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationErrorTitle" xml:space="preserve">
-    <value>Error authorizing access</value>
+    <value>授权接驳失败</value>
     <comment>Error authorizing access</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_AccountChanged" xml:space="preserve">
-    <value>The account used to authorize the access is incorrect.
+    <value>用来授权接驳的账号不正确.
 
-Please try again and log in with the correct account before granting access.</value>
+请再试一次并登入正确的账号才准许接驳.</value>
     <comment>The account used to authorize the access is incorrect.
 
 Please try again and log in with the correct account before granting access.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_AccountChangedTitle" xml:space="preserve">
-    <value>Incorrect account</value>
+    <value>不正确的账号</value>
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</value>
+    <value>请检查账号设置以确认它是正确并授权 Mailbird 接驳您的电子邮件账号.</value>
     <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
-    <value>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
+    <value>此设置将使现有信箱出现变化. 因为会照成无法预测的问题所以被接受.
 
-To access another mailbox, please add it as a new account in Mailbird.</value>
+如果要接驳另一个信箱, 请把账号在 Mailbird 里添加为新的账号.</value>
     <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
 
 To access another mailbox, please add it as a new account in Mailbird.</comment>
   </data>
 <data name="Options_TestSound" xml:space="preserve">
-    <value>Test sound</value>
+    <value>测试声音</value>
     <comment>Test sound</comment>
   </data>
   <data name="Options_CustomSound" xml:space="preserve">
-    <value>Custom...</value>
+    <value>定制...</value>
     <comment>Custom...</comment>
   </data>
   <data name="Notification_OpenOptions" xml:space="preserve">
@@ -4626,23 +4628,23 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Open options</comment>
   </data>
   <data name="Notification_SoundFailedToPlay" xml:space="preserve">
-    <value>Failed to play new message sound</value>
+    <value>无法播放新的邮件声音</value>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Please select the correct audio file from options</value>
+    <value>请在设置里选择对的音频文件.</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
-    <value>Please select the correct audio file</value>
+    <value>请选择对的音频文件.</value>
     <comment>Please select the correct audio file</comment>
   </data>
   <data name="Sound_Default" xml:space="preserve">
-    <value>Default (Chirp)</value>
+    <value>默认 (叽叽喳喳)</value>
     <comment>Default (Chirp)</comment>
   </data>
   <data name="Sound_Electronic" xml:space="preserve">
-    <value>Electronic</value>
+    <value>电子</value>
     <comment>Electronic</comment>
   </data>
   <data name="Sound_None" xml:space="preserve">
@@ -4650,91 +4652,91 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>None</comment>
   </data>
 <data name="Invite_SendAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <value>您确定要把邀请发送至所有联系人?</value>
     <comment>Are you sure you want to send invitation to all of your contacts?</comment>
   </data>
   <data name="Invite_SendAllTitle" xml:space="preserve">
-    <value>Send invitation</value>
+    <value>发送邀请</value>
     <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Invite my contacts</value>
+    <value>邀请我的主要联系人</value>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
+    <value>免费无限赚取 Mailbird Pro. 您的联系人将被邀请使用 Mailbird.</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Quoted_TextHidden" xml:space="preserve">
-    <value>[Quoted text hidden]</value>
+    <value>[已隐藏引用文本]</value>
     <comment>[Quoted text hidden]</comment>
   </data>
 <data name="Timeline_ExpireDays" xml:space="preserve">
-    <value>{0} days</value>
+    <value>{0} 天</value>
     <comment>{0} days</comment>
   </data>
   <data name="Reward_AddAccount" xml:space="preserve">
-    <value>Add a second email account</value>
+    <value>添加第二个邮件账号</value>
     <comment>Add a second email account</comment>
   </data>
   <data name="Reward_AddAccountExplanation" xml:space="preserve">
-    <value>Add a second email account and manage all your accounts in the same place!</value>
+    <value>添加第二个邮件账号并一起管理所有账号!</value>
     <comment>Add a second email account and manage all your accounts in the same place!</comment>
   </data>
   <data name="Reward_Apps" xml:space="preserve">
-    <value>Connect 2 apps</value>
+    <value>连接两个应用</value>
     <comment>Connect 2 apps</comment>
   </data>
   <data name="Reward_AppsExplanation" xml:space="preserve">
-    <value>Enhance your Mailbird experience by customizing your Mailbird with your favorite apps</value>
-  </data>
+    <value>在 Mailbird 定制您喜欢的应用以提倡您使用 Mailbird 的经历</value>
+    </data>
   <data name="Reward_Compose" xml:space="preserve">
-    <value>Compose your 1st email</value>
+    <value>编写您第一个邮件</value>
     <comment>Compose your 1st email</comment>
   </data>
   <data name="Reward_ComposeExplanation" xml:space="preserve">
-    <value>Discover Mailbird by composing and sending your first email</value>
+    <value>编写并发送您第一个邮件来发掘 Mailbird</value>
     <comment>Discover Mailbird by composing and sending your first email</comment>
   </data>
   <data name="Reward_Share" xml:space="preserve">
-    <value>Spread the love</value>
+    <value>让爱散播出去吧</value>
     <comment>Spread the love</comment>
   </data>
   <data name="Reward_ShareExplanation" xml:space="preserve">
-    <value>Share Mailbird with your friends, family, co-workers</value>
+    <value>与好友, 家人以及合作伙伴分享 Mailbird</value>
     <comment>Share Mailbird with your friends, family, co-workers</comment>
   </data>
   <data name="Reward_Snooze" xml:space="preserve">
-    <value>Snooze email</value>
+    <value>打盹邮件</value>
     <comment>Snooze email</comment>
   </data>
   <data name="Reward_SnoozeExplanation" xml:space="preserve">
-    <value>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</value>
+    <value>打盹邮件一小时/一天等, 您的邮件将会自动被引入收件箱内!</value>
     <comment>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</comment>
   </data>
   <data name="Reward_Use" xml:space="preserve">
-    <value>Use Mailbird for 5 consecutive days</value>
+    <value>连续五天使用 Mailbird</value>
     <comment>Use Mailbird for 5 consecutive days</comment>
   </data>
   <data name="Reward_UseExplanation" xml:space="preserve">
-    <value>Send emails and use apps with Mailbird for 5 days - easy as pie!</value>
+    <value>用 Mailbird 发送邮件以及使用应用 - 易如反掌!</value>
     <comment>Send emails and use apps with Mailbird for 5 days - easy as pie!</comment>
   </data>
   <data name="Reward_Completed" xml:space="preserve">
-    <value>Completed</value>
+    <value>完成</value>
     <comment>Completed</comment>
   </data>
   <data name="Reward_ExtraDays" xml:space="preserve">
-    <value>+{0} days</value>
+    <value>+{0} 天</value>
     <comment>+{0} days, 
 {0} will be replaced with number, so it will be +5 days</comment>
   </data>
   <data name="Print_TextHidden" xml:space="preserve">
-    <value>[Quoted text hidden]</value>
+    <value>[引用文本已隐藏]</value>
     <comment>[Quoted text hidden]</comment>
   </data>
   <data name="Print_Attachments" xml:space="preserve">
-    <value>Attachments</value>
+    <value>附件</value>
     <comment>Attachments</comment>
   </data>
   <data name="Print_Message" xml:space="preserve">
@@ -4743,187 +4745,187 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
 Message 1 to 2</comment>
   </data>
   <data name="Print_PrintNow" xml:space="preserve">
-    <value>Print now</value>
+    <value>现在打印</value>
     <comment>Print now</comment>
   </data>
   <data name="Notification_FailedToSetSound" xml:space="preserve">
-    <value>Failed to set new message sound</value>
+    <value>无法设置新的邮件声响</value>
     <comment>Failed to set new message sound</comment>
   </data>
   <data name="Notification_FailedToSetSoundExplanation" xml:space="preserve">
-    <value>Please make sure the file is not being used by another program and try again.</value>
+    <value>请确认其他程序没有在使用这个文件再试一次.</value>
     <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_FileSize" xml:space="preserve">
-    <value>The file is too large</value>
+    <value>文件过大</value>
     <comment>The file is too large</comment>
   </data>
   <data name="Notification_FileSizeExplanation" xml:space="preserve">
-    <value>The maximum sound file size is {0}.
-Please choose another file.</value>
+    <value>声响文件大小可达 {0}.
+请选择其他文件.</value>
     <comment>The maximum sound file size is {0}.
 Please choose another file.</comment>
   </data>
   <data name="Invite_LimitReached" xml:space="preserve">
-    <value>Too many recipients</value>
+    <value>太多接受者</value>
     <comment>Too many recipients</comment>
   </data>
   <data name="Invite_LimitReachedExplanation" xml:space="preserve">
-    <value>The maximum number of recipients is {0}.
-Please remove some and try again.</value>
+    <value>接受者数量可达 {0}.
+请删除一些在试一次.</value>
     <comment>The maximum number of recipients is {0}.
 Please remove some and try again.</comment>
   </data>
   <data name="Options_ShowInboxZero" xml:space="preserve">
-    <value>Show Inbox Zero</value>
+    <value>显示收件箱 Zero</value>
     <comment>Show Inbox Zero</comment>
   </data>
   <data name="Options_ShowInboxZeroSharing" xml:space="preserve">
-    <value>Show share buttons</value>
+    <value>显示分享按键</value>
     <comment>Show share buttons</comment>
   </data>
   <data name="Reward_TryIt" xml:space="preserve">
-    <value>Try it now!</value>
+    <value>现在试用!</value>
     <comment>Try it now!</comment>
   </data>
   <data name="Reward_Title" xml:space="preserve">
-    <value>Extend Your Mailbird Pro Free Trial</value>
+    <value>延长您的 Mailbird Pro 免费试用期</value>
     <comment>Extend Your Mailbird Pro Free Trial</comment>
   </data>
   <data name="Reward_GotReward" xml:space="preserve">
-    <value>Congratulations!</value>
+    <value>恭喜!</value>
     <comment>Congratulations!</comment>
   </data>
   <data name="Reward_GotRewardExplanation" xml:space="preserve">
-    <value>You just unlocked [bold]{0} extra days[/bold] of Mailbird Pro.
-Want to unlock more rewards?</value>
+    <value>您刚获得[bold]额外 {0} 天[/bold]的 Mailbird Pro.
+想要获得更多奖励?</value>
     <comment>You just unlocked [bold]{0} extra days[/bold] of Mailbird Pro.
 Want to unlock more rewards?</comment>
   </data>
   <data name="Timeline_ExpireMonths" xml:space="preserve">
-    <value>{0} months</value>
+    <value>{0} 个月</value>
     <comment>{0} months</comment>
   </data>
   <data name="Menu_RewardsList" xml:space="preserve">
-    <value>Rewards list</value>
+    <value>奖励列表</value>
     <comment>Rewards list</comment>
   </data>
   <data name="Signature_SentFrom" xml:space="preserve">
-    <value>Sent from {0}</value>
+    <value>来自 {0}</value>
     <comment>Sent from {0}
 {0} will be replaced by "Mailbird"</comment>
   </data>
   <data name="Ads_BuyNow" xml:space="preserve">
-    <value>Buy Now</value>
+    <value>现在购买</value>
     <comment>Buy Now</comment>
   </data>
   <data name="Ads_GoPro" xml:space="preserve">
-    <value>Go Pro and Boost Your Productivity</value>
+    <value>提升至 Pro 以促进生产力</value>
     <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
-    <value>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</value>
+    <value>使用 Mailbird Pro, 它拥有更多特征来促进生产力如打盹, 快速预览, 无线账号等.</value>
     <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
   </data>
   <data name="Ads_Invite" xml:space="preserve">
-    <value>Invite Friends</value>
+    <value>邀请好友</value>
     <comment>Invite Friends</comment>
   </data>
   <data name="Ads_Refer" xml:space="preserve">
-    <value>Enjoy Mailbird Pro without needing to pay</value>
+    <value>无需付款享有 Mailbird Pro</value>
     <comment>Enjoy Mailbird Pro without needing to pay</comment>
   </data>
   <data name="Ads_ReferExplanation" xml:space="preserve">
-    <value>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</value>
+    <value>邀请好友加入. 一个好友加入将让你获得一个月的免费Mailbird Pro. 无限制.</value>
     <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
   </data>
   <data name="Reward_LaunchStartup" xml:space="preserve">
-    <value>Always show this window when Mailbird starts</value>
+    <value>Mailbird 启动时一直显示此视窗</value>
     <comment>Always show this window when Mailbird starts</comment>
   </data>
   <data name="Reward_TitleSubscription" xml:space="preserve">
-    <value>Extend Your Mailbird Pro Subscription</value>
+    <value>延长您的 Mailbird Pro 订阅</value>
     <comment>Extend Your Mailbird Pro Subscription</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
-    <value>More than 1 account</value>
+    <value>多过一个账号</value>
     <comment>More than 1 account</comment>
   </data>
   <data name="Print_Loading" xml:space="preserve">
-    <value>Preparing content and loading images...</value>
+    <value>正在准备内容以及装载图片...</value>
     <comment>Preparing content and loading images...</comment>
   </data>
   <data name="Print_NotLoaded" xml:space="preserve">
-    <value>[Content not loaded]</value>
+    <value>[内容没有被装载]</value>
     <comment>[Content not loaded]</comment>
   </data>
   <data name="License_NonPurchaseValidUntil" xml:space="preserve">
-    <value>Your license is valid until {0}.</value>
+    <value>您的许可证有效至 {0}.</value>
     <comment>Your license is valid until {0}.</comment>
   </data>
   <data name="Options_SubscriptionStatus" xml:space="preserve">
-    <value>View subscription details</value>
+    <value>显示订阅细节</value>
     <comment>View subscription details</comment>
   </data>
   <data name="Options_AutoCollapseBlockquote" xml:space="preserve">
-    <value>Collapse message by default when replying</value>
+    <value>在回复时默认倒塌邮件</value>
     <comment>Collapse message by default when replying</comment>
   </data>
   <data name="Invite_NoInvitee" xml:space="preserve">
-    <value>You haven't invited any contacts</value>
+    <value>您还没邀请任何联系人</value>
     <comment>You haven't invited any contacts</comment>
   </data>
   <data name="Error_DownloadingMessagePop3" xml:space="preserve">
-    <value>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</value>
+    <value>邮件来源无法被下载. 或许邮件已不存在服务器的收件箱内.</value>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 <data name="Options_RestartNow" xml:space="preserve">
-    <value>Restart now</value>
+    <value>现在重启</value>
     <comment>Restart now</comment>
   </data>
   <data name="Awesomium_GoogleSearch" xml:space="preserve">
-    <value>Search Google for "{0}"</value>
+    <value>用谷歌搜索 "{0}"</value>
     <comment>PS: leave the {0},
 the final result will be: Search Google for "query"</comment>
   </data>
   <data name="FolderControl_Search" xml:space="preserve">
-    <value>Search folders</value>
+    <value>搜索文件夹</value>
     <comment>Search folders</comment>
   </data>
   <data name="Shortcut_SearchFolders" xml:space="preserve">
-    <value>Search Folders</value>
+    <value>搜索文件夹</value>
     <comment>Search Folders</comment>
   </data>
   <data name="Shortcut_SearchFoldersExplanation" xml:space="preserve">
-    <value>Puts your cursor in the search folders box.</value>
+    <value>把光标放到搜索文件夹框内.</value>
     <comment>Puts your cursor in the search folders box.</comment>
   </data>
   <data name="Invite_AcceptedProgress" xml:space="preserve">
-    <value>Nice! [bold]{0} of {1}[/bold] invitations accepted!</value>
+    <value>好棒! [bold]{0} 之 {1}[/bold] 的邀请已被接受!</value>
     <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
   </data>
   <data name="Invite_SeeAll" xml:space="preserve">
-    <value>See all</value>
+    <value>查看全部</value>
     <comment>See all</comment>
   </data>
   <data name="Message_CloseSpeedRead" xml:space="preserve">
-    <value>Back to normal reading</value>
+    <value>返回正常阅读</value>
     <comment>Back to normal reading</comment>
   </data>
   <data name="Shortcut_SpeedRead" xml:space="preserve">
-    <value>Speed read</value>
+    <value>速读</value>
     <comment>Speed read</comment>
   </data>
   <data name="Shortcut_SpeedReadExplanation" xml:space="preserve">
-    <value>Read the selected email more quickly in speed read mode</value>
+    <value>使用速读模式更快阅读已选的邮件</value>
     <comment>Read the selected email more quickly in speed read mode</comment>
   </data>
   <data name="SpeedRead_Finish" xml:space="preserve">
-    <value>Finish</value>
+    <value>结束</value>
     <comment>Finish</comment>
   </data>
   <data name="WebControl_Print" xml:space="preserve">
-    <value>Print...</value>
+    <value>打印...</value>
     <comment>Print...</comment>
   </data>
 <data name="WebControl_OpenLink" xml:space="preserve">
@@ -4931,53 +4933,53 @@ the final result will be: Search Google for "query"</comment>
     <comment>Open link</comment>
   </data>
   <data name="WelcomeMessage_Afternoon" xml:space="preserve">
-    <value>Good afternoon, {0}</value>
+    <value>下午好, {0}</value>
     <comment>Good afternoon, {0}</comment>
   </data>
   <data name="WelcomeMessage_Morning" xml:space="preserve">
-    <value>Good morning, {0}</value>
+    <value>早安, {0}</value>
     <comment>Good morning, {0}</comment>
   </data>
   <data name="WelcomeMessage_Night" xml:space="preserve">
-    <value>Good evening, {0}</value>
+    <value>傍晚好, {0}</value>
     <comment>Good evening, {0}</comment>
   </data>
   <data name="Options_Interface" xml:space="preserve">
-    <value>Interface</value>
+    <value>界面</value>
     <comment>Interface</comment>
   </data>
   <data name="Options_ShowWelcomeMessage" xml:space="preserve">
-    <value>Show welcome message</value>
+    <value>显示欢迎信息</value>
     <comment>Show welcome message</comment>
   </data>
 <data name="Notification_FailedToLoadBackground" xml:space="preserve">
-    <value>Failed to load background image</value>
+    <value>无法加载背景图片</value>
     <comment>Failed to load background image</comment>
   </data>
   <data name="Notification_FailedToSetBackground" xml:space="preserve">
-    <value>Failed to set background image</value>
+    <value>无法设置背景图片</value>
     <comment>Failed to set background image</comment>
   </data>
   <data name="Notification_FailedToSetBackgroundExplanation" xml:space="preserve">
-    <value>Please make sure the file is not being used by another program and try again.</value>
+    <value>请确认文件没有被其他程序使用后再试一次.</value>
     <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_ImageFileSizeExplanation" xml:space="preserve">
-    <value>The maximum image file size is {0}.
-Please choose another file.</value>
+    <value>图片文件大小可达 {0}.
+请选择其他文件.</value>
     <comment>The maximum image file size is {0}.
 Please choose another file.</comment>
   </data>
   <data name="Options_Background" xml:space="preserve">
-    <value>Background</value>
+    <value>背景</value>
     <comment>Background</comment>
   </data>
   <data name="Upgrade_CustomCover" xml:space="preserve">
-    <value>Upgrade now to enable custom covers.</value>
+    <value>现在升级以启用盖子定制.</value>
     <comment>Upgrade now to enable custom covers.</comment>
   </data>
   <data name="Tips_Failed" xml:space="preserve">
-    <value>Tip failed to load, please check your internet connection.</value>
+    <value>提示无法加载, 请检查您的网络连接.</value>
     <comment>Tip failed to load, please check your internet connection.</comment>
   </data>
   <data name="Tips_ViewInBrowser" xml:space="preserve">
@@ -4985,63 +4987,63 @@ Please choose another file.</comment>
     <comment>View tip in browser</comment>
   </data>
   <data name="Menu_Trial2" xml:space="preserve">
-    <value>Activate pro trial</value>
+    <value>激活 pro 试用期</value>
     <comment>Activate pro trial</comment>
   </data>
   <data name="Trial_EndTitle2" xml:space="preserve">
-    <value>Your Pro Trial Has Ended</value>
+    <value>您的 Pro 试用期已结束</value>
     <comment>Your Pro Trial Has Ended</comment>
   </data>
   <data name="Trial_StartText2" xml:space="preserve">
-    <value>For the next few days, you will get unlimited access to all Mailbird Pro features. 
-Once your trial is over your account will revert to the Lite (free) version.</value>
+    <value>未来的几天内, 您将能无限制接驳所有 Mailbird Pro 特征. 
+一旦您的试用期结束您的账号将被还原为 Lite (免费) 版本.</value>
     <comment>For the next few days, you will get unlimited access to all Mailbird Pro features. 
 Once your trial is over your account will revert to the Lite (free) version.</comment>
   </data>
   <data name="Trial_StartTitle2" xml:space="preserve">
-    <value>Your Free Pro Trial Starts Now</value>
+    <value>您的免费 Pro 试用期现在开始</value>
     <comment>Your Free Pro Trial Starts Now</comment>
   </data>
 <data name="Notification_ErrorLoadingBackgroundExplanation" xml:space="preserve">
-    <value>An error occured loading the background image.
-Please select another image to use as a background.</value>
+    <value>装载背景图片时出了故障.
+请选择另一个图片来做背景.</value>
     <comment>An error occured loading the background image.
 Please select another image to use as a background.</comment>
   </data>
   <data name="Notification_FailedToRemoveBackground" xml:space="preserve">
-    <value>Failed to set remove background image</value>
+    <value>设置/删除背景图片失败.</value>
     <comment>Failed to set remove background image</comment>
   </data>
   <data name="Options_RemoveBackground" xml:space="preserve">
-    <value>Remove</value>
+    <value>删除</value>
     <comment>Remove</comment>
   </data>
   <data name="Options_RetrieveLicense" xml:space="preserve">
-    <value>Retrieve License Key</value>
+    <value>取回许可证代码</value>
     <comment>Retrieve License Key</comment>
   </data>
   <data name="Upgrade_NoLimitApps" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro and unlock as many apps as you want!</value>
+    <value>升级至 Mailbird Pro 以享用无限量应用!</value>
     <comment>Upgrade to Mailbird Pro and unlock as many apps as you want!</comment>
   </data>
   <data name="App_Chrome_Description" xml:space="preserve">
-    <value>Navigate the web from Mailbird.</value>
+    <value>使用 Mailbird 做互联网导航.</value>
     <comment>Navigate the web from Mailbird.</comment>
   </data>
   <data name="Trial_Feature6" xml:space="preserve">
-    <value>Unlimited apps</value>
+    <value>无限量应用</value>
     <comment>Unlimited apps</comment>
   </data>
   <data name="Apps_LimitingLiteApps" xml:space="preserve">
-    <value>Some apps have been deactivated due to the trial having expired. Please upgrade to Pro to activate them</value>
+    <value>由于试用期已过, 有些应用已被关闭. 请升级至 Pro 再启用它们</value>
     <comment>Some apps have been deactivated due to the trial having expired. Please upgrade to Pro to reactivate them</comment>
   </data>
   <data name="Welcome_AppsLimit" xml:space="preserve">
-    <value>You are using Mailbird Lite which does not allow activating more than 1 App. Please upgrade to Pro to activate unlimited apps.</value>
+    <value>由于您在使用 Mailbird Lite 所以不能使用多过一个应用. 请升级至 Pro 以启用无限量应用.</value>
     <comment>You are using Mailbird Lite which does not allow activating more than 1 App. Please upgrade to Pro to activate unlimited apps.</comment>
   </data>
   <data name="Trial_AlreadyHaveLicense" xml:space="preserve">
-    <value>I already have a license key</value>
+    <value>我已经有许可证代码了</value>
     <comment>I already have a license key</comment>
   </data>
 </root>
