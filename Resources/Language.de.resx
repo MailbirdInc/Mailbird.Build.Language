@@ -1984,7 +1984,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Bewegt deinen Cursor zur vorherigen Nachricht. Du kannst &lt;Enter&gt; drücken, um eine Nachricht aus- oder einzuklappen. (Funktioniert nur in der 'Konversation-Ansicht').</value>
+    <value>Bewegt deinen Cursor zur vorherigen Nachricht. Du kannst &lt;Enter&gt; drücken, um eine Nachricht aus- oder einzuklappen. (Funktioniert nur in der 'Konversation-Ansicht')</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2457,9 +2457,9 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Would you like to also remove the Mailbird storage directory, including the settings and local message database?
+    <value>Möchten sie auch das Verzeichnis, in dem Mailbird enthalten ist,  inklusive der Einstellungen und aller lokal gespeicherten Nachrichten löschen?
 
-If you intend to reinstall Mailbird, say no to keep from setting up everything again.</value>
+Sollten Sie Mailbird erneut installieren wollen, wählen sie "Nein" um nicht alles neu einrichten zu müssen.</value>
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
@@ -2535,9 +2535,9 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
+    <value>Vielen Dank, dass du deine Freunde zu Mailbird eingeladen hast! Ein paar Emails wurden allerdings schon eingeladen, also ist es Zeit andere einzuladen, um deine Mailbird Pro Belohnungen freizuschalten.
 
-Emails already invited: {0}</value>
+Bereits eingeladene Emails: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
@@ -2585,7 +2585,7 @@ Message: {0}</comment>
     <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Thanks for inviting!</value>
+    <value>Danke für das Einladen!</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
@@ -2962,7 +2962,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Middle name</comment>
   </data>
   <data name="App_Contacts_FieldNickname" xml:space="preserve">
-    <value>Nickname</value>
+    <value>Spitzname</value>
     <comment>Nickname</comment>
   </data>
   <data name="App_Contacts_FieldPhone" xml:space="preserve">
@@ -3533,7 +3533,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>You must add an email account to start using Mailbird. Are you sure you want to cancel?</value>
+    <value>Du musst einen Email-Account hinzufügen, um Mailbird zu benutzen. Bist du sicher, dass du abbrechen möchtest?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
@@ -3859,7 +3859,7 @@ Help us grow and improve by simply inviting your friends to Mailbird today.</com
     <comment>Tell your friends so we can grow together!</comment>
   </data>
   <data name="UnifiedAccount_SelectorDisplayName" xml:space="preserve">
-    <value>Unified Account</value>
+    <value>Zusammengeführter Account</value>
     <comment>Unified Account</comment>
   </data>
   <data name="Options_EnableUnifiedAccount" xml:space="preserve">
@@ -4067,11 +4067,12 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Install Calify</comment>
   </data>
   <data name="Dialog_CalifyExplanation" xml:space="preserve">
-    <value>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</value>
+    <value>Uns ist aufgefallen, dass du kein Standardprogramm hast, um diese Kalenderdatei zu öffnen. Solltest du diese in einen Kalender importieren wollen, empfehlen wir, Calify herunterzuladen und zu installieren. Es funktioniert sehr gut mit Mailbird.</value>
     <comment>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</comment>
   </data>
   <data name="App_Wunderlist_Description" xml:space="preserve">
-    <value>Your beautiful and simple online to-do list App.</value>
+    <value>Deine wunderschöne und simple 
+Online-To-Do-Liste.</value>
     <comment>Your beautiful and simple online to-do list App.</comment>
   </data>
   <data name="InboxZero_Facebook" xml:space="preserve">
@@ -4087,11 +4088,11 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</value>
+    <value>Es ist nicht möglich die Datei '{0}' als Anhang hinzuzufügen, da du nicht autorisiert bist, auf diese zuzugreifen. Bitte überprüfe deine Nutzerberechtigungen und versuche es erneut.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird</value>
+    <value>Deine BESTE Email-, Kommunikations- &amp; Produktivitätsanwendung, erstellt für Windows via @mailbird</value>
     <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
@@ -4115,11 +4116,11 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
-    <value>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</value>
+    <value>Authentifizierung mit dem Proxyserver fehlgeschlagen. Bitte stelle sicher, dass die Proxyeinstellungen richtig in den Mailbird Optionen eingegeben wurden.</value>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Notification_GenericAuthenticationError" xml:space="preserve">
-    <value>This is typically caused by invalid credentials or {0} being disabled on the server for your account.</value>
+    <value>Dies wird normalerweise durch fehlerhafte Zugangsdaten verursacht oder dadurch, dass {0} auf dem Server für deinen Account deaktiviert ist.</value>
     <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
@@ -4127,7 +4128,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
-    <value>Opens insert link window while you are composing email or editing signature</value>
+    <value>Öffnet das "Link einfügen"-Fenster, während du eine Email schreibst oder deine Signatur bearbeitest.</value>
     <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
@@ -4147,9 +4148,9 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Installation issue detected</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
-    <value>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
+    <value>Mailbird hat erkannt, dass eine oder mehrere Dateien aus dem Installationsverzeichnis korrupt sind oder fehlen und wird nun versuchen, den Fehler zu beheben.
 
-If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</value>
+Sollte dies fehlschlagen, bitte deinstalliere Mailbird und installiere es erneut um das Problem zu beheben. Alle deine Einstellungen, Emails etc. werden beibehalten, so lange du nicht das Verzeichnis, in dem Mailbird gespeichert ist, löscht, wenn dich der Uninstaller danach fragt.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -4159,15 +4160,15 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Repair failed</comment>
   </data>
   <data name="Dialog_RepairInitFailedExplanation" xml:space="preserve">
-    <value>Mailbird was unable to initialize the repair. Please uninstall and reinstall Mailbird.</value>
+    <value>Mailbird war nicht in der Lage, den Reparaturvorgang einzuleiten. Bitte deinstalliere Mailbird und installiere es erneut.</value>
     <comment>Mailbird was unable to initialize the repair. Please uninstall and reinstall Mailbird.</comment>
   </data>
   <data name="Trial_GetDiscount" xml:space="preserve">
-    <value>Get Mailbird Pro - 33% off</value>
+    <value>Hol dir Mailbird Pro - 33% reduziert</value>
     <comment>Get Mailbird Pro - 33% off</comment>
   </data>
   <data name="UpdateToPro_Coupon" xml:space="preserve">
-    <value>Coupon</value>
+    <value>Gutschein</value>
     <comment>Coupon</comment>
   </data>
   <data name="UpdateToPro_UsdMonth" xml:space="preserve">
@@ -4175,15 +4176,15 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</value>
+    <value>Es ist nicht möglich, die Datei '{0}' als Anhang hinzuzufügen. Bitte stelle sicher, dass die Datei nicht von anderen Programmen verwendet wird und versuche es erneut.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
-    <value>No contacts found</value>
+    <value>Keine Kontakte gefunden</value>
     <comment>No contacts found</comment>
   </data>
   <data name="Welcome_InviteDescription" xml:space="preserve">
-    <value>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
+    <value>Für jeden Freund, der Mailbird auf seinem Computer installiert, geben wir euch beiden je einen kostenlosen Monat Mailbird Pro! Es gibt kein Limit, also lad so viele Freunde ein, wie du willst.</value>
     <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
@@ -4675,7 +4676,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>[Quoted text hidden]</comment>
   </data>
 <data name="Timeline_ExpireDays" xml:space="preserve">
-    <value>{0} days</value>
+    <value>{0} Tage</value>
     <comment>{0} days</comment>
   </data>
   <data name="Reward_AddAccount" xml:space="preserve">
