@@ -354,73 +354,73 @@
     <comment>Could not retrieve access</comment>
   </data>
   <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
-    <value>Couldn't retrieve facebook access token at the moment. Please try again.</value>
+    <value>V tuto chvíli nelze načíst přihlašovací token k účtu facebooku. Prosím zkuste to znovu.</value>
     <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
   </data>
   <data name="Dialog_CantSave" xml:space="preserve">
-    <value>Could not save file</value>
+    <value>Nelze uložit soubor.</value>
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>The file '{0}' could not be saved. File already in use.</value>
+    <value>Soubor '{0}' nemůže být uložen. Soubor je používán.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
-    <value>Download failed</value>
+    <value>Stažení selhalo</value>
     <comment>Download failed</comment>
   </data>
   <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
-    <value>Could not download the attachment. 
-Description: {0}
+    <value>Přílohu nelze stáhnout
+Popis: {0}
 Url: {1}</value>
     <comment>Could not download the attachment. 
 Description: {0}
 Url: {1}</comment>
   </data>
   <data name="Dialog_DownloadProgress" xml:space="preserve">
-    <value>Download in progress</value>
+    <value>Probíhá stahování</value>
     <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>Please wait until all attachments have been downloaded, or remove the attachments.</value>
+    <value>Prosíme vyčkejte dokud se nestáhnou všechny přílohy nebo odstraňte přílohy.</value>
     <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
-    <value>Cannot create identity</value>
+    <value>Identitu nelze vytvořit</value>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>An identity with the same email address already exists.</value>
+    <value>Identita s touto emailovou adresou již existuje.</value>
     <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
-    <value>Emails are sending</value>
+    <value>Emaily se odesílají</value>
     <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
-    <value>Messages are still being sent. Are you sure you want to quit now and delay the sending?</value>
+    <value>Zprávy se stále odesílají. Určitě chcete odejít a odložit odesílání ?</value>
     <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
   </data>
   <data name="Dialog_FacebookConnect" xml:space="preserve">
-    <value>Facebook connect</value>
+    <value>Propojeno s Facebookem</value>
     <comment>Facebook connect</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
-    <value>We need to re-authenticate with Facebook.
-Do you want to reconnect your Facebook?</value>
+    <value>Potřebujeme se znovu ověřit Facebook.
+Chcete se znovu připojit k Facebooku ?</value>
     <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
   </data>
   <data name="Dialog_FileNotFound" xml:space="preserve">
-    <value>File not found</value>
+    <value>Soubor nenalezen</value>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>Can't find '{0}'. Please check whether file is in the correct location or not.</value>
+    <value>Nemohu najít '{0}'. Prosíme zkontrolujte umístění souboru.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
-    <value>Loading</value>
+    <value>Načítání</value>
     <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
@@ -428,7 +428,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Send local file links?</comment>
   </data>
   <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
-    <value>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</value>
+    <value>Vložily jste odkaz na soubor ve vašem počítači ke, kterému nemusí mít příjemci přístup. Opravdu chcete pokračovat ?</value>
     <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
   </data>
   <data name="Dialog_No" xml:space="preserve">
@@ -436,11 +436,11 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No</comment>
   </data>
   <data name="Dialog_NoBrowser" xml:space="preserve">
-    <value>No default browser found</value>
+    <value>Nebyl nalezen výchozí prohlížeč</value>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</value>
+    <value>Nelze otevřít URL odkaz. Prosíme zkontrolujte zda je váš výchozí prohlížeč nainstalován, případně nainstalujte Google Chrome nebo Internet Explorer.</value>
     <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
@@ -448,123 +448,123 @@ Do you want to reconnect your Facebook?</comment>
     <comment>OK</comment>
   </data>
   <data name="Dialog_RemoveAccount" xml:space="preserve">
-    <value>Remove local account?</value>
+    <value>Odstranit lokální účet ?</value>
     <comment>Remove local account?</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove the account and all connected identities?
+    <value>Opravdu chcete odstranit účet a všechny propojené identity ?
 
-This will restart Mailbird and may take a few minutes.</value>
+Toto může chvíli trvat a vyžaduje restart Mailbirdu.</value>
     <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
   </data>
   <data name="Dialog_RemoveIdentity" xml:space="preserve">
-    <value>Remove identity?</value>
+    <value>Odstranit identitu ?</value>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove the identity for '{0}'?
-This action is irreversible.</value>
+    <value>Opravdu chcete odstranit identitu '{0}'?
+Tato akce je nevratná.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSend" xml:space="preserve">
-    <value>Could not send</value>
+    <value>Nelze odeslat</value>
     <comment>Could not send</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
-    <value>We're sorry, but your report could not be sent. 
-We would appreciate it, if you could email it directly to {0} instead.
-Message:</value>
+    <value>Je nám to líto, ale vaše zpráva nemohla být odeslána.
+Můžete vytvořit zprávu, ale musíte ručně zadat emailovou adresu {0} .
+Zpráva:</value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
   </data>
   <data name="Dialog_ReportSent" xml:space="preserve">
-    <value>Report sent</value>
+    <value>Zpráva odeslána</value>
     <comment>Report sent</comment>
   </data>
   <data name="Dialog_ReportSentExplanation" xml:space="preserve">
-    <value>Thank you for reporting this issue!</value>
+    <value>Děkujeme za nahlášení tohoto problému!</value>
     <comment>Thank you for reporting this issue!</comment>
   </data>
   <data name="Dialog_SendingDescription" xml:space="preserve">
-    <value>Sending description</value>
+    <value>Odesílání popisu</value>
     <comment>Sending description</comment>
   </data>
   <data name="Dialog_SendingDescriptionExplanation" xml:space="preserve">
-    <value>Thank you for reporting this issue!</value>
+    <value>Děkujeme za nahlášení tohoto problému!</value>
     <comment>Thank you for reporting this issue!</comment>
   </data>
   <data name="Dialog_SendScreenshot" xml:space="preserve">
-    <value>Confirm sending screenshot</value>
+    <value>Potvrdit odeslání obrazovky</value>
     <comment>Confirm sending screenshot</comment>
   </data>
   <data name="Dialog_SendScreenshotExplanation" xml:space="preserve">
-    <value>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</value>
+    <value>Prosíme potvrďte volbu možnosti, že snímek obrazovky je poslán se zprávou, což nám pomáhá identifikovat problém rychleji.</value>
     <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
   </data>
   <data name="Dialog_SizeLimit" xml:space="preserve">
-    <value>Size limit exceeded</value>
+    <value>Překročen limit velikosti</value>
     <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>You can't add file larger than 25 mb each.</value>
+    <value>Nemůžete přidat soubor větší než 25MB za každý.</value>
     <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
-    <value>SMTP connection error</value>
+    <value>Chyba spojení SMTP</value>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</value>
+    <value>Došlo k chybě při pokusu ověřit nastavené připojení. Zkontrolujte zda bylo vše správně zadáno.</value>
     <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
   <data name="Dialog_SmtpSuccess" xml:space="preserve">
-    <value>SMTP connection success</value>
+    <value>Spojení SMTP bylo úspěšné</value>
     <comment>SMTP connection success</comment>
   </data>
   <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
-    <value>We successfully connected to the SMTP server. Everything seems in order.</value>
+    <value>Úspěšně jsme se připojily k SMTP serveru. Všechno se zdá být v pořádku.</value>
     <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
   </data>
   <data name="Dialog_Thanks" xml:space="preserve">
-    <value>Thanks!</value>
+    <value>Díky!</value>
     <comment>Thanks!</comment>
   </data>
   <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
-    <value>Please wait until your Inbox has loaded</value>
+    <value>Prosím vyčkejte než se načte Doručená pošta</value>
     <comment>Please wait until your Inbox has loaded</comment>
   </data>
   <data name="Dialog_Warning" xml:space="preserve">
-    <value>Warning</value>
+    <value>Varování</value>
     <comment>Warning</comment>
   </data>
   <data name="Dialog_WhoToEmail" xml:space="preserve">
-    <value>Who'd you like to email?</value>
+    <value>Komu by jste chtěli poslat email?</value>
     <comment>Who'd you like to email?</comment>
   </data>
   <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
-    <value>Please specify at least one recipient.</value>
+    <value>Zadejte prosím alespoň jednoho příjemce.</value>
     <comment>Please specify at least one recipient.</comment>
   </data>
   <data name="Dialog_WithoutAttachment" xml:space="preserve">
-    <value>Send without attachments?</value>
+    <value>Odeslat bez příloh?</value>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>You wrote "{0}", and we thought you might want to attach a file.
-If you want to send the email without attachments, just press "Ok" below.</value>
+    <value>Napsali jste "{0}", a mysleli jsme si , že budete chtít připojit soubor.
+Pokud chcete odeslat email bez příloh, pouze stiskněte "Ok" níže.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
   <data name="Dialog_Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Ano</value>
     <comment>Yes</comment>
   </data>
   <data name="Editor_Html" xml:space="preserve">
-    <value>Edit Html</value>
+    <value>Editovat Html</value>
     <comment>Edit Html</comment>
   </data>
   <data name="Editor_Picture" xml:space="preserve">
@@ -572,15 +572,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Insert picture</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>Inbox Zero</value>
+    <value>Žádné emaily</value>
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
-    <value>You are awesome!</value>
+    <value>Jste úžasný(á)!</value>
     <comment>You are awesome!</comment>
   </data>
   <data name="Dialog_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Zavřít</value>
     <comment>Close</comment>
   </data>
   <data name="Dialog_Help" xml:space="preserve">
@@ -588,11 +588,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Help</comment>
   </data>
   <data name="Account_Create" xml:space="preserve">
-    <value>Create account</value>
+    <value>Vytvořit účet</value>
     <comment>Create account</comment>
   </data>
   <data name="Account_Edit" xml:space="preserve">
-    <value>Edit account</value>
+    <value>Upravit účet</value>
     <comment>Edit account</comment>
   </data>
   <data name="Account_Email" xml:space="preserve">
@@ -600,7 +600,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email:</comment>
   </data>
   <data name="Account_Name" xml:space="preserve">
-    <value>Your name:</value>
+    <value>Vaše jméno:</value>
     <comment>Your name:</comment>
   </data>
   <data name="Account_Password" xml:space="preserve">
@@ -608,27 +608,27 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Password:</comment>
   </data>
   <data name="Account_WrongPassword" xml:space="preserve">
-    <value>Please enter the correct password</value>
+    <value>Prosíme vložte správné heslo</value>
     <comment>Please enter the correct password</comment>
   </data>
   <data name="Dialog_Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Přidat</value>
     <comment>Add</comment>
   </data>
   <data name="Dialog_Browse" xml:space="preserve">
-    <value>Browse</value>
+    <value>Procházet</value>
     <comment>Browse</comment>
   </data>
   <data name="Dialog_Continue" xml:space="preserve">
-    <value>Continue</value>
+    <value>Pokračovat</value>
     <comment>Continue</comment>
   </data>
   <data name="Dialog_DiscardDraft" xml:space="preserve">
-    <value>Discard draft?</value>
+    <value>Zahodit koncept?</value>
     <comment>Discard Draft?</comment>
   </data>
   <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard your draft?</value>
+    <value>Jste si jisti, že chcete zahodit koncept?</value>
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
@@ -640,23 +640,23 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Account:</comment>
   </data>
   <data name="Identity_Add" xml:space="preserve">
-    <value>Add identity</value>
+    <value>Přidat identitu</value>
     <comment>Add identity</comment>
   </data>
   <data name="Identity_DifferentReplyTo" xml:space="preserve">
-    <value>Use a different reply-to address</value>
+    <value>Použijte jinou adresu pro odpověď</value>
     <comment>Use a different reply-to address</comment>
   </data>
   <data name="Identity_DifferentSignature" xml:space="preserve">
-    <value>Use a different signature than for {0}</value>
+    <value>Použít jiný podpis než u {0}</value>
     <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
   </data>
   <data name="Identity_Edit" xml:space="preserve">
-    <value>Edit identity</value>
+    <value>Upravit identitu</value>
     <comment>Edit identity</comment>
   </data>
   <data name="Identity_ReplyTo" xml:space="preserve">
-    <value>Reply-to:</value>
+    <value>Odpovědět:</value>
     <comment>Reply-to:</comment>
   </data>
   <data name="Identity_SendFromAccount" xml:space="preserve">
@@ -668,11 +668,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>SMTP Server</comment>
   </data>
   <data name="Identity_SendThrough" xml:space="preserve">
-    <value>Send through:</value>
+    <value>Odeslat přes:</value>
     <comment>Send through:</comment>
   </data>
   <data name="Identity_Signature" xml:space="preserve">
-    <value>Signature:</value>
+    <value>Podpis:</value>
     <comment>Signature:</comment>
   </data>
   <data name="Identity_SmtpPassword" xml:space="preserve">
@@ -688,39 +688,39 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>SMTP server:</comment>
   </data>
   <data name="Identity_SmtpUsername" xml:space="preserve">
-    <value>Username:</value>
+    <value>Uživatelské jméno:</value>
     <comment>Username:</comment>
   </data>
   <data name="Identity_Test" xml:space="preserve">
-    <value>Test connection</value>
+    <value>Otestovat připojení</value>
     <comment>Test connection</comment>
   </data>
   <data name="Identity_Testing" xml:space="preserve">
-    <value>Testing connection...</value>
+    <value>Testuji připojení...</value>
     <comment>Testing connection...</comment>
   </data>
   <data name="Dialog_Report" xml:space="preserve">
-    <value>Report this problem</value>
+    <value>Ohlásit tento problém</value>
     <comment>Report this problem</comment>
   </data>
   <data name="Dialog_Restart" xml:space="preserve">
-    <value>Restart</value>
+    <value>Restartovat</value>
     <comment>Restart</comment>
   </data>
   <data name="Find_Close" xml:space="preserve">
-    <value>Close find window</value>
+    <value>Zavřít okno vyhledávání</value>
     <comment>Close find window</comment>
   </data>
   <data name="Find_Find" xml:space="preserve">
-    <value>Find</value>
+    <value>Najít</value>
     <comment>Find</comment>
   </data>
   <data name="Find_Next" xml:space="preserve">
-    <value>Next</value>
+    <value>Další</value>
     <comment>Next</comment>
   </data>
   <data name="Find_Previous" xml:space="preserve">
-    <value>Previous</value>
+    <value>Předchozí</value>
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
@@ -748,7 +748,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Cc</comment>
   </data>
   <data name="Default_AlwaysAsk" xml:space="preserve">
-    <value>Always perform this check when starting Mailbird</value>
+    <value>Vždy provést tuto kontrolu při spuštění Mailbirdu</value>
     <comment>Always perform this check when starting Mailbird</comment>
   </data>
   <data name="Default_SetAs" xml:space="preserve">
@@ -756,123 +756,123 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
-    <value>Do you want to use Mailbird as your default email client?</value>
+    <value>Chcete použít mailbird jako váš výchozí emailový prohlížeč?</value>
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
-    <value>Overwrite Existing Files?</value>
+    <value>Přepsat již existující soubory?</value>
     <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
-    <value>Would you like to overwrite existing files?</value>
+    <value>Chcete přepsat existující soubory?</value>
     <comment>Would you like to overwrite existing files?</comment>
   </data>
   <data name="Dialog_Purchase" xml:space="preserve">
-    <value>Purchase</value>
+    <value>Zaplatit</value>
     <comment>Purchase</comment>
   </data>
   <data name="Dialog_SaveFolder" xml:space="preserve">
-    <value>Select the folder to save the selected attachments in:</value>
+    <value>Vyberte složku pro uložení této přílohy v:</value>
     <comment>Select the folder to save the selected attachments in:</comment>
   </data>
   <data name="Draft_Saved" xml:space="preserve">
-    <value>Saved</value>
+    <value>Uloženo</value>
     <comment>saved</comment>
   </data>
   <data name="Day_Friday" xml:space="preserve">
-    <value>Friday</value>
+    <value>Pátek</value>
     <comment>Friday</comment>
   </data>
   <data name="Day_Monday" xml:space="preserve">
-    <value>Monday</value>
+    <value>Pondělí</value>
     <comment>Monday</comment>
   </data>
   <data name="Day_Saturday" xml:space="preserve">
-    <value>Saturday</value>
+    <value>Sobota</value>
     <comment>Saturday</comment>
   </data>
   <data name="Day_Sunday" xml:space="preserve">
-    <value>Sunday</value>
+    <value>Neděle</value>
     <comment>Sunday</comment>
   </data>
   <data name="Day_Thursday" xml:space="preserve">
-    <value>Thursday</value>
+    <value>Čtvrtek</value>
     <comment>Thursday</comment>
   </data>
   <data name="Day_Tuesday" xml:space="preserve">
-    <value>Tuesday</value>
+    <value>Úterý</value>
     <comment>Tuesday</comment>
   </data>
   <data name="Day_Wednesday" xml:space="preserve">
-    <value>Wednesday</value>
+    <value>Středa</value>
     <comment>Wednesday</comment>
   </data>
   <data name="Day_Yesterday" xml:space="preserve">
-    <value>Yesterday</value>
+    <value>Včera</value>
     <comment>Yesterday</comment>
   </data>
   <data name="Download_Always" xml:space="preserve">
-    <value>Always download</value>
+    <value>Vždy stáhnout</value>
     <comment>Always download</comment>
   </data>
   <data name="Download_Never" xml:space="preserve">
-    <value>Never download</value>
+    <value>Nikdy nestahovat</value>
     <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
-    <value>Please enter your email address</value>
+    <value>Prosíme vložte vaši emailovou adresu</value>
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
-    <value>Please enter a link address</value>
+    <value>Zadejte prosím adresu odkazu</value>
     <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
-    <value>You cannot send an empty invitation</value>
+    <value>Nelze odeslat prázdnou pozvánku</value>
     <comment>You cannot send an empty invitation</comment>
   </data>
   <data name="AccountValidationRule_EmptyPassword" xml:space="preserve">
-    <value>Please enter a password</value>
+    <value>Prosíme vložte heslo</value>
     <comment>Please enter a password</comment>
   </data>
   <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
-    <value>Please enter a port number</value>
+    <value>Prosíme vložte číslo portu</value>
     <comment>Please enter a port number</comment>
   </data>
   <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
-    <value>Please enter the server name</value>
+    <value>Prosíme vložte název serveru</value>
     <comment>Please enter the server name</comment>
   </data>
   <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
-    <value>Please enter subject</value>
+    <value>Prosíme zadejte předmět</value>
     <comment>Please enter subject</comment>
   </data>
   <data name="AccountValidationRule_EmptyUsername" xml:space="preserve">
-    <value>Please enter a username</value>
+    <value>Prosíme vložte uživatelské jméno</value>
     <comment>Please enter a username</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
-    <value>Email is invalid</value>
+    <value>Emailová adresa je neplatná</value>
     <comment>Email is invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail2" xml:space="preserve">
-    <value>Email appears invalid</value>
+    <value>Emailová adresa se zdá být neplatná</value>
     <comment>Email appears invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
-    <value>Please enter a valid license key</value>
+    <value>Prosíme vložte platný licenční klíč</value>
     <comment>Please enter a valid license key</comment>
   </data>
   <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
-    <value>Please enter a valid url</value>
+    <value>Prosím zadejte platnou adresu URL</value>
     <comment>Please enter a valid url</comment>
   </data>
   <data name="AccountValidationRule_SenderName" xml:space="preserve">
-    <value>Please enter your name</value>
+    <value>Prosím vložte vaše jméno</value>
     <comment>Please enter your name</comment>
   </data>
   <data name="Facebook_HowMailbirdConnectsLink" xml:space="preserve">
-    <value>How can Mailbird connect with your Facebook?</value>
+    <value>Jak můžete Mailbird spojit s vaším Facebookem?</value>
     <comment>How can Mailbird connect with your Facebook?</comment>
   </data>
   <data name="Dialog_URL" xml:space="preserve">
@@ -888,35 +888,35 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Name:</comment>
   </data>
   <data name="EditFolderWindow_NestFolderUnderLabel" xml:space="preserve">
-    <value>Nest folder under:</value>
+    <value>Zdrojová složka pod:</value>
     <comment>Nest folder under:</comment>
   </data>
   <data name="EditFolderWindow_Title" xml:space="preserve">
-    <value>Add folder</value>
+    <value>Přidat složku</value>
     <comment>Add folder</comment>
   </data>
   <data name="FolderIdentity_AllMail" xml:space="preserve">
-    <value>All</value>
+    <value>Vše</value>
     <comment>All</comment>
   </data>
   <data name="FolderIdentity_Archived" xml:space="preserve">
-    <value>Archived</value>
+    <value>Archivováno</value>
     <comment>Archived</comment>
   </data>
   <data name="FolderIdentity_Drafts" xml:space="preserve">
-    <value>Drafts</value>
+    <value>Koncepty</value>
     <comment>Drafts</comment>
   </data>
   <data name="FolderIdentity_Important" xml:space="preserve">
-    <value>Important</value>
+    <value>Důležité</value>
     <comment>Important</comment>
   </data>
   <data name="FolderIdentity_Inbox" xml:space="preserve">
-    <value>Inbox</value>
+    <value>Doručená pošta</value>
     <comment>Inbox</comment>
   </data>
   <data name="FolderIdentity_Sent" xml:space="preserve">
-    <value>Sent</value>
+    <value>Odesláno</value>
     <comment>Sent</comment>
   </data>
   <data name="FolderIdentity_Spam" xml:space="preserve">
@@ -924,15 +924,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Spam</comment>
   </data>
   <data name="FolderIdentity_Starred" xml:space="preserve">
-    <value>Starred</value>
+    <value>Oblíbené</value>
     <comment>Starred</comment>
   </data>
   <data name="FolderIdentity_Trash" xml:space="preserve">
-    <value>Trash</value>
+    <value>Koš</value>
     <comment>Trash</comment>
   </data>
   <data name="AppStore_Title" xml:space="preserve">
-    <value>Apps</value>
+    <value>Aplikace</value>
     <comment>Apps</comment>
   </data>
   <data name="Conversation_ShowSource" xml:space="preserve">
@@ -940,15 +940,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Message source</comment>
   </data>
   <data name="Dialog_ReadMore" xml:space="preserve">
-    <value>Read more</value>
+    <value>Číst více</value>
     <comment>Read more</comment>
   </data>
   <data name="Dialog_ServerResponse" xml:space="preserve">
-    <value>Server response:</value>
+    <value>Odpověď serveru:</value>
     <comment>Server response:</comment>
   </data>
   <data name="AppStore_Description" xml:space="preserve">
-    <value>Find and install new apps.</value>
+    <value>Najít a instalovat novou aplikaci.</value>
     <comment>Find and install new apps.</comment>
   </data>
   <data name="AppStore_Off" xml:space="preserve">
@@ -960,75 +960,75 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>ON</comment>
   </data>
   <data name="AppStore_SearchLabel" xml:space="preserve">
-    <value>Search apps</value>
+    <value>Vyhledat aplikaci</value>
     <comment>Search apps</comment>
   </data>
   <data name="App_Asana_Description" xml:space="preserve">
-    <value>Productivity right at your fingertips! Organize, take action, and cross off your to do list.</value>
+    <value>Produktivita na dosah ruky! Organizovat, přijmout opatření, a odškrtnout si svůj seznam úkolů.</value>
     <comment>Productivity right at your fingertips! Organize, take action, and cross off your to do list.</comment>
   </data>
   <data name="App_Attachments_Description" xml:space="preserve">
-    <value>Search and find attachments, view thumbnails and easily drag them to your local folders.</value>
+    <value>Hledání a nalezení přílohy, zobrazení náhledů a snadné přetáhnutí do místních složek.</value>
     <comment>Search and find attachments, view thumbnails and easily drag them to your local folders.</comment>
   </data>
   <data name="App_Attachments_FilenameLabel" xml:space="preserve">
-    <value>Filename contains:</value>
+    <value>Název souboru obsahuje:</value>
     <comment>Filename contains:</comment>
   </data>
   <data name="App_Attachments_LoadingText" xml:space="preserve">
-    <value>Searching...</value>
+    <value>Hledání...</value>
     <comment>Searching...</comment>
   </data>
   <data name="App_Attachments_MinSizeLabel" xml:space="preserve">
-    <value>Minimum size:</value>
+    <value>Minimální velikost:</value>
     <comment>Minimum size:</comment>
   </data>
   <data name="App_Attachments_ThumbSizeLabel" xml:space="preserve">
-    <value>Thumbnail size:</value>
+    <value>Velikost náhledu</value>
     <comment>Thumbnail size:</comment>
   </data>
   <data name="App_Attachments_Title" xml:space="preserve">
-    <value>Attachments</value>
+    <value>Přílohy</value>
     <comment>Attachments</comment>
   </data>
   <data name="App_Attachments_Tooltip" xml:space="preserve">
-    <value>Search Attachments</value>
+    <value>Hledat přílohy</value>
     <comment>Search Attachments</comment>
   </data>
   <data name="App_Calendar_Description" xml:space="preserve">
-    <value>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</value>
+    <value>Máte rande? Přidejte, sledujte, potvrďte v Mailbirdu. Skvělá aplikace pro uživatele Gmailu.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
-    <value>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</value>
+    <value>Nastavení audia a videa setkání přímo z Mailbirdu, pomocí Veeting místnosti.</value>
     <comment>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</comment>
   </data>
   <data name="App_Contacts_Description" xml:space="preserve">
-    <value>Easily edit, manage and email your contacts and contact groups.</value>
+    <value>Snadná správa a úprava vašich emailových kontaktů a skupin kde jim můžete psát e-maily.</value>
     <comment>Easily edit, manage and email your contacts and contact groups.</comment>
   </data>
   <data name="App_Contacts_FailedFacebook" xml:space="preserve">
-    <value>Could not fetch information on contact from Facebook.</value>
+    <value>Nelze získat informace o kontaktu z Facebooku.</value>
     <comment>Could not fetch information on contact from Facebook.</comment>
   </data>
   <data name="App_Contacts_LoadingFacebook" xml:space="preserve">
-    <value>Loading info on this contact from Facebook...</value>
+    <value>Načítání informací o tomto kontaktu z Facebooku ...</value>
     <comment>Loading info on this contact from Facebook...</comment>
   </data>
   <data name="App_Contacts_LoadingText" xml:space="preserve">
-    <value>Searching...</value>
+    <value>Vyhledávání..</value>
     <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Please connect to Facebook in Options to get more info on this contact.</value>
+    <value>Prosím připojte se k Facebooku v Možnostech pro získání více informací o tomto kontaktu.</value>
     <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
-    <value>No matches found</value>
+    <value>Nenalezeny žádné shody</value>
     <comment>No matches found</comment>
   </data>
   <data name="App_Contacts_SearchLabel" xml:space="preserve">
-    <value>Search people...</value>
+    <value>Najít lidi...</value>
     <comment>Search people...</comment>
   </data>
   <data name="App_Contacts_Title" xml:space="preserve">
@@ -1036,43 +1036,43 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Contacts</comment>
   </data>
   <data name="App_DailySocial_Description" xml:space="preserve">
-    <value>Get the latest and greatest news on tech startups in Indonesia.</value>
+    <value>Získejte nejnovější a největší novinky na tech startechu v Indonésii.</value>
     <comment>Get the latest and greatest news on tech startups in Indonesia.</comment>
   </data>
   <data name="App_Dropbox_Description" xml:space="preserve">
-    <value>Access, share, and organize all those files without ever leaving the Mailbird nest.</value>
+    <value>Přistupujte, sdílejte a organizujte všechny tyto soubory, aniž byste museli opustit Mailbird.</value>
     <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Evernote_Description" xml:space="preserve">
-    <value>Create, view, edit notes directly from Mailbird! Simple and productive.</value>
+    <value>Vytvářejte, prohlížejte, upravovajte poznámky přímo z Mailbirdu! Jednoduše a produktivně</value>
     <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
   </data>
   <data name="App_Facebook_Description" xml:space="preserve">
-    <value>Be a social superstar. Access Facebook and chat with friends from Mailbird.</value>
+    <value>Buďte sociální hvězdou. Připojte se k Facebooku a chatujte s přáteli z Mailbirdu.</value>
     <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
   <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Help make Mailbird the best email app in the world.</value>
+    <value>Pomozte Mailbirdu být nejlepší emailovou aplikací na světě.</value>
     <comment>Help make Mailbird the best email app in the world.</comment>
   </data>
   <data name="App_Feedback_Title" xml:space="preserve">
-    <value>Feedback</value>
+    <value>Zpětná vazba</value>
     <comment>Feedback</comment>
   </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
-    <value>Quickly navigate to your important documents from Mailbird.</value>
+    <value>Rychlá navigace v důležitých dokumentech z Mailbirdu.</value>
     <comment>Quickly navigate to your important documents from Mailbird.</comment>
   </data>
   <data name="App_Lifehacker_Description" xml:space="preserve">
-    <value>Curates tips, tricks, and technology for living better in the digital age.</value>
+    <value>Poskytování tipů, triků a technik pro lepší život v digitálním věku.</value>
     <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
   </data>
   <data name="App_RetroSift_Description" xml:space="preserve">
-    <value>Easily search and find lost photos in your emails.</value>
+    <value>Snadné vyhledávání ztracených fotografií ve vašich e-mailech.</value>
     <comment>Easily search and find lost photos in your emails.</comment>
   </data>
   <data name="App_RetroSift_Title" xml:space="preserve">
-    <value>Lost Photos</value>
+    <value>Ztracené fotografie</value>
     <comment>Lost Photos</comment>
   </data>
   <data name="App_Support_Description" xml:space="preserve">
