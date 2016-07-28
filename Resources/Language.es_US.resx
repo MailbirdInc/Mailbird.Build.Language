@@ -40,7 +40,7 @@
     <comment>Copy image address</comment>
   </data>
   <data name="Awesomium_CopyLink" xml:space="preserve">
-    <value>Copiar dirección de enlace</value>
+    <value>Copiar la dirección de enlace</value>
     <comment>Copy link address</comment>
   </data>
   <data name="Awesomium_Cut" xml:space="preserve">
@@ -56,7 +56,7 @@
     <comment>Paste</comment>
   </data>
   <data name="Awesomium_PastePlain" xml:space="preserve">
-    <value>Pegar como texto plano</value>
+    <value>Pegar como texto sin formato</value>
     <comment>Paste as plain text</comment>
   </data>
   <data name="Awesomium_SaveImage" xml:space="preserve">
@@ -116,7 +116,7 @@
     <comment>Copy to...</comment>
   </data>
   <data name="Options_SettingsMoreInfo" xml:space="preserve">
-    <value>Mailbird ajustará automáticamente este ajuste cada vez que su valor dpi sea modificado. Pero si su valor es modificado manualmente, Mailbird conservará los valores hasta que modifique  su ajuste dpi. El valor por defecto es 100%</value>
+    <value>Mailbird adaptará automáticamente este ajuste cada vez que su valor dpi sea modificado. Pero si usted modifica este ajuste manualmente, Mailbird conservará los valores hasta que usted modifique el ajuste de dpi. El valor por defecto es 100%</value>
     <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
@@ -196,11 +196,11 @@
     <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
-    <value>Cerrar el diálogo mientras se procesa el envío causará que el reporte sea abortado. ¿Está seguro que desea abortar el reporte?</value>
+    <value>Cerrar el diálogo a la mitad del proceso de envío causará que el reporte sea abortado. ¿Está seguro que desea abortar el reporte?</value>
     <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
   </data>
   <data name="Dialog_AlreadyAttached" xml:space="preserve">
-    <value>Ha sido adjuntado</value>
+    <value>Ya ha sido adjuntado</value>
     <comment>Already attached</comment>
   </data>
   <data name="Dialog_AlreadyAttachedExplanation" xml:space="preserve">
@@ -212,7 +212,7 @@
     <comment>Attachment(s) not downloaded</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
-    <value>Por favor espere a que todos los adjuntos hayan sido descargados antes de reenviar</value>
+    <value>Por favor espere hasta que todos los adjuntos se descarguen antes de reenviar</value>
     <comment>Please wait until all attachments have been downloaded before forwarding</comment>
   </data>
   <data name="Dialog_Cancel" xml:space="preserve">
@@ -228,7 +228,7 @@
     <comment>Cannot remove identity</comment>
   </data>
   <data name="Dialog_CantRemoveIdentityExplanation" xml:space="preserve">
-    <value>Esta identidad es la principal de esta cuenta y no puede ser removida</value>
+    <value>Esta es la principal identidad de la cuenta y no puede ser removida.</value>
     <comment>This identity is the main identity of an account and cannot be removed.</comment>
   </data>
   <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
@@ -306,11 +306,11 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
-    <value>¿Se envía los enlaces locales de los archivos?</value>
+    <value>¿Se envían los enlaces locales del archivo?</value>
     <comment>Send local file links?</comment>
   </data>
   <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
-    <value>Usted incluyó enlaces locales de archivos en su computador, a los cuales el receptor no pueden tener acceso. ¿Planea usted realizar este envío?</value>
+    <value>Usted incluyó enlaces locales de archivos desde su computadora, a los cuales no tendrá acceso el receptor. ¿Planea usted realizar este envío?</value>
     <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
   </data>
   <data name="Dialog_No" xml:space="preserve">
