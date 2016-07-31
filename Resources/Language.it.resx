@@ -1520,7 +1520,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Always show remote images</comment>
   </data>
   <data name="Options_AlwaysExpandSwitcher" xml:space="preserve">
-    <value>Espandi sempre il cambio di account</value>
+    <value>Espandi sempre il menù laterale degli account</value>
     <comment>Always expand account switcher</comment>
   </data>
   <data name="Options_AutoDownload" xml:space="preserve">
@@ -1556,7 +1556,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Tell me if Mailbird is not the default email client</comment>
   </data>
   <data name="Options_DownloadOnDemand" xml:space="preserve">
-    <value>Scarica i messaggi su richiesta</value>
+    <value>Scarica i messaggi solo su richiesta</value>
     <comment>Download messages on demand</comment>
   </data>
   <data name="Options_Facebook" xml:space="preserve">
@@ -1688,7 +1688,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Disable DirectWrite</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Mostra il bottone invia e archivia</value>
+    <value>Mostra il pulsante invia e archivia</value>
     <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
@@ -3690,7 +3690,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
-    <value>Comprimi automaticamente lista destinatari quando non selezionati</value>
+    <value>Comprimi lista destinatari quando non selezionati</value>
     <comment>Auto-collapse recipient fields on lost focus</comment>
   </data>
   <data name="Options_ComposeWindow" xml:space="preserve">
@@ -3734,7 +3734,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Help improve Mailbird</comment>
   </data>
   <data name="Options_ShareDataUsage" xml:space="preserve">
-    <value>Condividi dati sulle prestazioni e sull'uso</value>
+    <value>Condividi dati prestazioni e uso</value>
     <comment>Share performance and usage data</comment>
   </data>
   <data name="Options_DisableDirectWriteExplanation" xml:space="preserve">
@@ -3744,7 +3744,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
     <value>Attiva questa funzione se hai problemi di visualizzazione come le lettere pixellate o di colore sbagliato e se aggiornare i driver della scheda grafica non aiuta.
 
-Considera che abilitare questa funzione ha nella maggior parte dei casi prestazioni peggiori dell'interfaccia e un uso maggiore della CPU. In alcuni casi però, con schede grafiche di basso livello, potrebbe migliorare le prestazioni.</value>
+Considera che abilitare questa funzione causa nella maggior parte dei casi un peggioramento delle prestazioni dell'interfaccia e un uso maggiore della CPU. In alcuni casi però, con schede grafiche di basso livello, potrebbe migliorare le prestazioni.</value>
     <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -3867,14 +3867,14 @@ Help us grow and improve by simply inviting your friends to Mailbird today.</com
     <comment>Include in unified account</comment>
   </data>
   <data name="Options_AlwaysExpandSwitcherTooltip" xml:space="preserve">
-    <value>Evita che la lista degli account nella barra di navigazione a sinistra venga ridotta.
-Richiede più di un account.</value>
+    <value>Permette di tenere la lista degli account nella barra di navigazione laterale sempre in vista.
+Funziona solo con più account configurati.</value>
     <comment>Keeps the account switcher in the navigation pane from collapsing.
 Requires multiple accounts.</comment>
   </data>
   <data name="Options_EnableUnifiedAccountTooltip" xml:space="preserve">
-    <value>Aggiungere un account speciale che contiene i messaggi di tutti gli altri account.
-Richiede più di un account.</value>
+    <value>Aggiunge un account speciale che contiene i messaggi di tutti gli altri account.
+Funziona solo con più account configurati.</value>
     <comment>Shows a special account that contains messages from all accounts.
 Requires multiple accounts.</comment>
   </data>
