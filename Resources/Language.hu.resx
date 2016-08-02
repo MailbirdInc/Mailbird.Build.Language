@@ -342,11 +342,11 @@
     <comment>Stop</comment>
   </data>
   <data name="Dialog_CantRemoveIdentity" xml:space="preserve">
-    <value>Az identitás nem távolítható el</value>
+    <value>A kimenő beállítás nem távolítható el</value>
     <comment>Cannot remove identity</comment>
   </data>
   <data name="Dialog_CantRemoveIdentityExplanation" xml:space="preserve">
-    <value>Ez a főidentitása a fióknak, ami nem távolítható el.</value>
+    <value>Ez a fő kimenő beállítása a fióknak, ami nem távolítható el.</value>
     <comment>This identity is the main identity of an account and cannot be removed.</comment>
   </data>
   <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
@@ -386,7 +386,7 @@ Url: {1}</comment>
     <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
-    <value>Identitás létrehozása sikertelen</value>
+    <value>A kimenő létrehozása sikertelen</value>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
@@ -452,7 +452,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Remove local account?</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
-    <value>Biztosan elszeretné távolítani a fiókot és az összes identitást?
+    <value>Biztosan elszeretné távolítani a fiókot és az összes kimenő beállítást?
 
 A Mailbird újraindítása néhány percet igénybe vehet.</value>
     <comment>Are you sure you want to remove the account and all connected identities?
@@ -460,11 +460,11 @@ A Mailbird újraindítása néhány percet igénybe vehet.</value>
 This will restart Mailbird and may take a few minutes.</comment>
   </data>
   <data name="Dialog_RemoveIdentity" xml:space="preserve">
-    <value>Törölni szeretné az identitást?</value>
+    <value>Törölni szeretné a kimenő beállítást?</value>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Biztosan törölni szeretné a {0} identitást?
+    <value>Biztosan törölni szeretné a {0} kimenőt?
 Ez a művelet visszavonhatatlan.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
@@ -640,7 +640,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Account:</comment>
   </data>
   <data name="Identity_Add" xml:space="preserve">
-    <value>Identitás hozzáadása</value>
+    <value>Kimenő hozzáadása</value>
     <comment>Add identity</comment>
   </data>
   <data name="Identity_DifferentReplyTo" xml:space="preserve">
@@ -652,7 +652,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
   </data>
   <data name="Identity_Edit" xml:space="preserve">
-    <value>Identitás szerkesztése</value>
+    <value>Kimenő szerkesztése</value>
     <comment>Edit identity</comment>
   </data>
   <data name="Identity_ReplyTo" xml:space="preserve">
@@ -3512,7 +3512,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird nem tudta elküldeni az üzenetet. Kérjük, ellenőrizze a 'From' identitás kimenő szerver beállításokat.</value>
+    <value>Mailbird nem tudta elküldeni az üzenetet. Kérjük, ellenőrizze a 'From' kimenő szerver beállításokat.</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
