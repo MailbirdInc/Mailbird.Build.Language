@@ -260,8 +260,8 @@
     <comment>Download failed</comment>
   </data>
   <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
-    <value>Could not download the attachment. 
-Description: {0}
+    <value>Não foi possível fazer o download do anexo. 
+Descrição: {0}
 Url: {1}</value>
     <comment>Could not download the attachment. 
 Description: {0}
@@ -272,15 +272,15 @@ Url: {1}</comment>
     <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>Please wait until all attachments have been downloaded, or remove the attachments.</value>
+    <value>Por favor, aguarde até todos os anexos serem baixados, ou remova os anexos.</value>
     <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
-    <value>Cannot create identity</value>
+    <value>Não foi possível criar a identidade</value>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>An identity with the same email address already exists.</value>
+    <value>Uma identidade com o mesmo email já existe.</value>
     <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
@@ -288,29 +288,29 @@ Url: {1}</comment>
     <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
-    <value>Messages are still being sent. Are you sure you want to quit now and delay the sending?</value>
+    <value>As mensagens estão sendo enviadas. Você tem certeza que deseja sair agora e enviar depois?</value>
     <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
   </data>
   <data name="Dialog_FacebookConnect" xml:space="preserve">
-    <value>Facebook connect</value>
+    <value>Conecte com o Facebook</value>
     <comment>Facebook connect</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
-    <value>We need to re-authenticate with Facebook.
-Do you want to reconnect your Facebook?</value>
+    <value>Nós precisamos autenticar novamente com o Facebook.
+Você deseja conectar novamente com o Facebook?</value>
     <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
   </data>
   <data name="Dialog_FileNotFound" xml:space="preserve">
-    <value>File not found</value>
+    <value>Arquivo não encontrado</value>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>Can't find '{0}'. Please check whether file is in the correct location or not.</value>
+    <value>Não foi possível encontrar '{0}'. Por favor, verifique se o arquivo está no local correto ou não.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
-    <value>Loading</value>
+    <value>Carregando</value>
     <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
@@ -318,7 +318,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Send local file links?</comment>
   </data>
   <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
-    <value>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</value>
+    <value>Você incluiu links para arquivos do seu computador, que os destinatários não conseguem acessar. Você quer fazer isso?</value>
     <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
   </data>
   <data name="Dialog_No" xml:space="preserve">
@@ -326,11 +326,11 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No</comment>
   </data>
   <data name="Dialog_NoBrowser" xml:space="preserve">
-    <value>No default browser found</value>
+    <value>Não foi encontrado um navegador padrão</value>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</value>
+    <value>Não foi possível abrir a URL. Por favor, confirme que você tem um navegador padrão instalado e tente reinstalar, por exemplo, o Google Chrome ou Internet Explorer.</value>
     <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
@@ -338,29 +338,29 @@ Do you want to reconnect your Facebook?</comment>
     <comment>OK</comment>
   </data>
   <data name="Dialog_RemoveAccount" xml:space="preserve">
-    <value>Remove local account?</value>
+    <value>Remover a conta local?</value>
     <comment>Remove local account?</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove the account and all connected identities?
+    <value>Você tem certeza que deseja remover a conta e todas as identidades conectadas?
 
-This will restart Mailbird and may take a few minutes.</value>
+Isso irá reiniciar o Mailbird e pode demorar alguns minutos.</value>
     <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
   </data>
   <data name="Dialog_RemoveIdentity" xml:space="preserve">
-    <value>Remove identity?</value>
+    <value>Deseja remover a identidade?</value>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove the identity for '{0}'?
-This action is irreversible.</value>
+    <value>Tem certeza que deseja remover a identidade para '{0}'?
+Esta ação é irreversível.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSend" xml:space="preserve">
-    <value>Could not send</value>
+    <value>Não pôde ser enviado</value>
     <comment>Could not send</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
@@ -372,7 +372,7 @@ We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
   </data>
   <data name="Dialog_ReportSent" xml:space="preserve">
-    <value>Report sent</value>
+    <value>Relatório enviado</value>
     <comment>Report sent</comment>
   </data>
   <data name="Dialog_ReportSentExplanation" xml:space="preserve">
@@ -380,7 +380,7 @@ Message:</comment>
     <comment>Thank you for reporting this issue!</comment>
   </data>
   <data name="Dialog_SendingDescription" xml:space="preserve">
-    <value>Sending description</value>
+    <value>Enviando descrição</value>
     <comment>Sending description</comment>
   </data>
   <data name="Dialog_SendingDescriptionExplanation" xml:space="preserve">
@@ -404,7 +404,7 @@ Message:</comment>
     <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
-    <value>SMTP connection error</value>
+    <value>Erro de conexão SMTP</value>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
@@ -428,7 +428,7 @@ Message:</comment>
     <comment>Please wait until your Inbox has loaded</comment>
   </data>
   <data name="Dialog_Warning" xml:space="preserve">
-    <value>Warning</value>
+    <value>Atenção</value>
     <comment>Warning</comment>
   </data>
   <data name="Dialog_WhoToEmail" xml:space="preserve">
@@ -450,39 +450,39 @@ If you want to send the email without attachments, just press "Ok" below.</value
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
   <data name="Dialog_Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Sim</value>
     <comment>Yes</comment>
   </data>
   <data name="Editor_Html" xml:space="preserve">
-    <value>Edit Html</value>
+    <value>Editar Html</value>
     <comment>Edit Html</comment>
   </data>
   <data name="Editor_Picture" xml:space="preserve">
-    <value>Insert image</value>
+    <value>Inserir imagem</value>
     <comment>Insert image</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>Inbox Zero</value>
+    <value>Inbox Zerada</value>
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
-    <value>You are awesome!</value>
+    <value>Você é incrível!</value>
     <comment>You are awesome!</comment>
   </data>
   <data name="Dialog_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Fechar</value>
     <comment>Close</comment>
   </data>
   <data name="Dialog_Help" xml:space="preserve">
-    <value>Help</value>
+    <value>Ajuda</value>
     <comment>Help</comment>
   </data>
   <data name="Account_Create" xml:space="preserve">
-    <value>Create account</value>
+    <value>Criar conta</value>
     <comment>Create account</comment>
   </data>
   <data name="Account_Edit" xml:space="preserve">
-    <value>Edit account</value>
+    <value>Editar conta</value>
     <comment>Edit account</comment>
   </data>
   <data name="Account_Email" xml:space="preserve">
@@ -490,31 +490,31 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email:</comment>
   </data>
   <data name="Account_Name" xml:space="preserve">
-    <value>Your name:</value>
+    <value>Seu nome:</value>
     <comment>Your name:</comment>
   </data>
   <data name="Account_Password" xml:space="preserve">
-    <value>Password:</value>
+    <value>Senha:</value>
     <comment>Password:</comment>
   </data>
   <data name="Account_WrongPassword" xml:space="preserve">
-    <value>Please enter the correct password</value>
+    <value>Por favor, insira a senha correta</value>
     <comment>Please enter the correct password</comment>
   </data>
   <data name="Dialog_Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Adicionar</value>
     <comment>Add</comment>
   </data>
   <data name="Dialog_Browse" xml:space="preserve">
-    <value>Browse</value>
+    <value>Navegar</value>
     <comment>Browse</comment>
   </data>
   <data name="Dialog_Continue" xml:space="preserve">
-    <value>Continue</value>
+    <value>Continuar</value>
     <comment>Continue</comment>
   </data>
   <data name="Dialog_DiscardDraft" xml:space="preserve">
-    <value>Discard draft?</value>
+    <value>Descartar rascunho?</value>
     <comment>Discard Draft?</comment>
   </data>
   <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
