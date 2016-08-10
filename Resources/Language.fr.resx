@@ -174,7 +174,7 @@
     <comment>Paste</comment>
   </data>
   <data name="Awesomium_PastePlain" xml:space="preserve">
-    <value>Coller le texte sans mise en forme</value>
+    <value>Coller en tant que texte brut</value>
     <comment>Paste as plain text</comment>
   </data>
   <data name="Awesomium_SaveImage" xml:space="preserve">
@@ -218,7 +218,7 @@
     <comment>Empty folder</comment>
   </data>
   <data name="Conversation_Forward" xml:space="preserve">
-    <value>Transférer</value>
+    <value>Transmettre</value>
     <comment>Forward</comment>
   </data>
   <data name="Conversation_Folders" xml:space="preserve">
@@ -1098,7 +1098,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Ahhh... that feels good.</comment>
   </data>
   <data name="InboxZero_TrueInspiration" xml:space="preserve">
-    <value>Vous êtes une véritable inspiration!</value>
+    <value>Vous êtes une véritable source d'inspiration !</value>
     <comment>You're a true inspiration!</comment>
   </data>
   <data name="InboxZero_HowIsDone" xml:space="preserve">
@@ -1526,7 +1526,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Attachment auto-download limit:</comment>
   </data>
   <data name="Options_AutoDownloadExplanation" xml:space="preserve">
-    <value>Télécharger automatiquement les pièces jointes plus petites que la taille choisie</value>
+    <value>Télécharger automatiquement les pièces jointes plus petites que la taille choisie.</value>
     <comment>Automatically download attachments smaller than the chosen size.</comment>
   </data>
   <data name="Options_AutomaticUpdate" xml:space="preserve">
@@ -1694,7 +1694,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>Émettre un son lors de la réception d'un message</value>
+    <value>Nouveau message sonore:</value>
     <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
@@ -1894,7 +1894,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search within the text in the selected message.</comment>
   </data>
   <data name="Shortcut_ForwardExplanation" xml:space="preserve">
-    <value>Permet de transférer le message selectionné.</value>
+    <value>Permet de transférer le message sélectionné.</value>
     <comment>Forwards a message.</comment>
   </data>
   <data name="Shortcut_Gmail" xml:space="preserve">
@@ -3133,8 +3133,7 @@ Please check the identity setup and try again.</comment>
   <data name="App_Contacts_Import_Description" xml:space="preserve">
     <value>vCard (.vcf) est une norme de format de fichier pour les cartes de visite électroniques. Mailbird peut importer des contacts à partir de fichiers vCard créés à l'aide d'autres services de messagerie comme Gmail, Yahoo, Outlook, etc.
 
-Voici quelques liens pour vous aider à créer des fichiers vCard à partir de différents services:
-</value>
+Voici quelques liens pour vous aider à créer des fichiers vCard à partir de différents services:</value>
     <comment>vCard (.vcf) is a file format standard for electronic business cards. Mailbird can import contacts from vCard files created from other email services like Gmail, Yahoo, Outlook, etc.
 
 Here are a couple of links to help produce vCard files from various services:</comment>
@@ -5009,7 +5008,7 @@ Please select another image to use as a background.</comment>
     <comment>Failed to set remove background image</comment>
   </data>
   <data name="Options_RemoveBackground" xml:space="preserve">
-    <value>Remove</value>
+    <value>Supprimer</value>
     <comment>Remove</comment>
   </data>
   <data name="Options_RetrieveLicense" xml:space="preserve">
