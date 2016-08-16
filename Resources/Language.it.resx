@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -2452,8 +2452,8 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Vuoi rimuovere anche la cartella dei dati di Mailbird, con tutte le impostazioni e il database dei messaggi?
-Se hai intenzione di reinstallare Mailbird, scegli di no per evitare di riconfigurare il client.</value>
+    <value>Vuoi rimuovere anche la cartella dei dati di Mailbird, con tutte le impostazioni, i messaggi e i contatti?
+Se hai intenzione di reinstallare Mailbird, mantieni i dati in modo da evitare di riconfigurare di nuovo.</value>
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
@@ -3526,7 +3526,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Devi aggiungere un account email per iniziare a usare Mailbird. Sei sicuro di voler annullare?</value>
+    <value>Devi aggiungere un account email per iniziare a usare Mailbird.
+
+Sei sicuro di voler annullare?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
@@ -4302,7 +4304,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Invita gli amici e passa a Pro gratis</value>
+    <value>Invita gli amici e diventa Pro gratis</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
