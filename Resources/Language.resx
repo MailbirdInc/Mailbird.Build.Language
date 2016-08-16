@@ -2456,10 +2456,12 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Would you like to also remove the Mailbird storage directory, including the settings and local message database?
+    <value>Would you like to remove Mailbird's local data, including settings, messages and contacts?
 
-If you intend to reinstall Mailbird, say no to keep from setting up everything again.</value>
-    <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
+If you intend to reinstall Mailbird, keep the data to avoid starting over.</value>
+    <comment>Would you like to remove Mailbird's local data, including settings, messages and contacts?
+
+If you intend to reinstall Mailbird, keep the data to avoid starting over.</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
     <value>Add folder</value>
@@ -3532,8 +3534,12 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>You must add an email account to start using Mailbird. Are you sure you want to cancel?</value>
-    <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
+    <value>You must add an email account to start using Mailbird.
+
+Are you sure you want to cancel?</value>
+    <comment>You must add an email account to start using Mailbird.
+
+Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
     <value>Are you sure you want to cancel?</value>
@@ -4367,8 +4373,8 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Invite Friends - Get Pro FREE</value>
-    <comment>Invite Friends - Get Pro FREE</comment>
+    <value>Invite friends - Get Pro for FREE</value>
+    <comment>Invite friends - Get Pro for FREE</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
     <value>No Account Selected</value>
@@ -5043,6 +5049,14 @@ Please select another image to use as a background.</comment>
     <value>I already have a license key</value>
     <comment>I already have a license key</comment>
   </data>
+  <data name="Theme_Dark" xml:space="preserve">
+    <value>Dark theme</value>
+    <comment>Dark theme</comment>
+  </data>
+  <data name="Theme_Light" xml:space="preserve">
+    <value>Light theme</value>
+    <comment>Light theme</comment>
+  </data>
   <data name="UpgradeToPro_LastSold" xml:space="preserve">
     <value>Last sold {0} minutes ago</value>
     <comment>Last sold {0} minutes ago</comment>
@@ -5059,12 +5073,120 @@ Please select another image to use as a background.</comment>
     <value>Upgrade now to Mailbird PRO</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
-  <data name="Theme_Dark" xml:space="preserve">
-    <value>Dark theme</value>
-    <comment>Dark theme</comment>
+  <data name="Dialog_UninstallNoButton" xml:space="preserve">
+    <value>Remove local data</value>
+    <comment>Remove local data</comment>
   </data>
-  <data name="Theme_Light" xml:space="preserve">
-    <value>Light theme</value>
-    <comment>Light theme</comment>
+  <data name="Dialog_UninstallYesButton" xml:space="preserve">
+    <value>Keep local data</value>
+    <comment>Keep local data</comment>
+  </data>
+  <data name="InviteV2_LimitExplanation" xml:space="preserve">
+    <value>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</value>
+    <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
+  </data>
+  <data name="InviteV2_TitleBlock" xml:space="preserve">
+    <value>Get Mailbird Pro Lifetime FREE</value>
+    <comment>Get Mailbird Pro Lifetime FREE</comment>
+  </data>
+  <data name="Invite_SendFrom" xml:space="preserve">
+    <value>Send from</value>
+    <comment>Send from</comment>
+  </data>
+  <data name="InviteV2_Accepted" xml:space="preserve">
+    <value>Accepted!</value>
+    <comment>Accepted!</comment>
+  </data>
+  <data name="InviteV2_AddnewContact" xml:space="preserve">
+    <value>"{0}" is not found, press "Enter" to add to list.</value>
+    <comment>"{0}" is not found, press "Enter" to add to list.</comment>
+  </data>
+  <data name="InviteV2_Invite" xml:space="preserve">
+    <value>Invite</value>
+    <comment>Invite</comment>
+  </data>
+  <data name="InviteV2_Invited" xml:space="preserve">
+    <value>Invited</value>
+    <comment>Invited</comment>
+  </data>
+  <data name="InviteV2_NoAcceptedInvitations" xml:space="preserve">
+    <value>You don't have any accepted invitations.</value>
+    <comment>You don't have any accepted invitations.</comment>
+  </data>
+  <data name="InviteV2_NoContacts" xml:space="preserve">
+    <value>No contacts found.</value>
+    <comment>No contacts found.</comment>
+  </data>
+  <data name="InviteV2_NoSentInvitations" xml:space="preserve">
+    <value>You haven't sent any invitations.</value>
+    <comment>You haven't sent any invitations.</comment>
+  </data>
+  <data name="InviteV2_AcceptedCounter" xml:space="preserve">
+    <value> ({0}/{1})</value>
+    <comment>({0}/{1})</comment>
+  </data>
+  <data name="InviteV2_AcceptedHeader" xml:space="preserve">
+    <value>Accepted</value>
+    <comment>Accepted</comment>
+  </data>
+  <data name="InviteV2_AcceptedProgress" xml:space="preserve">
+    <value>{0} of {1} invites accepted!</value>
+    <comment>{0} of {1} invites accepted!</comment>
+  </data>
+  <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
+    <value>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</value>
+    <comment>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
+  </data>
+  <data name="InviteV2_InviteFriends" xml:space="preserve">
+    <value>Invite Friends</value>
+    <comment>Invite Friends</comment>
+  </data>
+  <data name="InviteV2_Sent" xml:space="preserve">
+    <value>Sent ({0})</value>
+    <comment>Sent ({0})</comment>
+  </data>
+  <data name="InviteV2_TitleBlockLifetime" xml:space="preserve">
+    <value>Tell your friends so we can grow together!</value>
+    <comment>Tell your friends so we can grow together!</comment>
+  </data>
+  <data name="WebBrowser_Bookmark" xml:space="preserve">
+    <value>Bookmark</value>
+    <comment>Bookmark</comment>
+  </data>
+  <data name="App_Chrome_BookmarkLimit" xml:space="preserve">
+    <value>You can bookmark up to {0} websites. Please remove existing bookmarks and try again.</value>
+    <comment>You can bookmark up to {0} websites. Please remove existing bookmarks and try again.</comment>
+  </data>
+  <data name="App_Chrome_BookmarkLimit_Title" xml:space="preserve">
+    <value>Bookmark limit exceeded</value>
+    <comment>Bookmark limit exceeded</comment>
+  </data>
+  <data name="Welcome_CloseDescription" xml:space="preserve">
+    <value>Are you sure you want to close the window?</value>
+    <comment>Are you sure you want to close the window?</comment>
+  </data>
+  <data name="Welcome_CloseImportDescription" xml:space="preserve">
+    <value>We're still importing your data, closing the window will cancel the import process.
+
+Are you sure you want to close the window?</value>
+    <comment>We're still importing your data, closing the window will cancel the import process.
+
+Are you sure you want to close the window?</comment>
+  </data>
+  <data name="UpdatePreference_CheckWithAutoDownload" xml:space="preserve">
+    <value>Download updates but let me choose whether to install them</value>
+    <comment>Download updates but let me choose whether to install them</comment>
+  </data>
+  <data name="UpdatePreference_CheckWithoutAutoDownload" xml:space="preserve">
+    <value>Check for updates but let me choose whether to download and install them</value>
+    <comment>Check for updates but let me choose whether to download and install them</comment>
+  </data>
+  <data name="UpdatePreference_NeverCheck" xml:space="preserve">
+    <value>Never check for updates</value>
+    <comment>Never check for updates</comment>
+  </data>
+  <data name="Options_UpdatePreference" xml:space="preserve">
+    <value>Choose your Mailbird update settings:</value>
+    <comment>Choose your Mailbird update settings:</comment>
   </data>
 </root>
