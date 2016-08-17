@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root><data name="Attachment_Open" xml:space="preserve">
     <value>Abrir</value>
     <comment>Open</comment>
@@ -272,7 +272,7 @@ Url: {1}</comment>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>Una identidad con la misma dirección de correo electrónico ya existe</value>
+    <value>Una identificación con la misma dirección de correo electrónico ya existe</value>
     <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
@@ -392,7 +392,7 @@ Message:</comment>
     <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>Usted no puede adicionar un archivo mayor a 25 mb</value>
+    <value>Usted no puede adjuntar un archivo mayor a 25 mb</value>
     <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
@@ -408,45 +408,45 @@ Message:</comment>
     <comment>SMTP connection success</comment>
   </data>
   <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
-    <value>We successfully connected to the SMTP server. Everything seems in order.</value>
+    <value>Nos hemos conectado satisfactoriamente al servidor SMTP. Todo parece estar en orden.</value>
     <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
   </data>
   <data name="Dialog_Thanks" xml:space="preserve">
-    <value>Thanks!</value>
+    <value>¡Gracias!</value>
     <comment>Thanks!</comment>
   </data>
   <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
-    <value>Please wait until your Inbox has loaded</value>
+    <value>Por favor espere hasta que su bandeja de entrada se haya cargado</value>
     <comment>Please wait until your Inbox has loaded</comment>
   </data>
   <data name="Dialog_Warning" xml:space="preserve">
-    <value>Warning</value>
+    <value>Cuidado</value>
     <comment>Warning</comment>
   </data>
   <data name="Dialog_WhoToEmail" xml:space="preserve">
-    <value>Who'd you like to email?</value>
+    <value>¿A quién desea enviarle un correo electrónico?</value>
     <comment>Who'd you like to email?</comment>
   </data>
   <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
-    <value>Please specify at least one recipient.</value>
+    <value>Por favor al menos indique un receptor.</value>
     <comment>Please specify at least one recipient.</comment>
   </data>
   <data name="Dialog_WithoutAttachment" xml:space="preserve">
-    <value>Send without attachments?</value>
+    <value>¿Enviar sin adjuntos?</value>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>You wrote "{0}", and we thought you might want to attach a file.
-If you want to send the email without attachments, just press "Ok" below.</value>
+    <value>Usted escribió "{0}", y pensamos que usted podría querer adjuntar un archivo.
+Si usted desea enviar el correo electrónico sin adjuntos, solamente presione "Ok" abajo.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
   <data name="Dialog_Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Sí</value>
     <comment>Yes</comment>
   </data>
   <data name="Editor_Html" xml:space="preserve">
-    <value>Edit Html</value>
+    <value>Editar Html</value>
     <comment>Edit Html</comment>
   </data>
   <data name="Editor_Picture" xml:space="preserve">
@@ -454,15 +454,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Insert image</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>Inbox Zero</value>
+    <value>Bandeja Cero</value>
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
-    <value>You are awesome!</value>
+    <value>¡Eres genial!</value>
     <comment>You are awesome!</comment>
   </data>
   <data name="Dialog_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Cerrar</value>
     <comment>Close</comment>
   </data>
   <data name="Dialog_Help" xml:space="preserve">
@@ -470,11 +470,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Help</comment>
   </data>
   <data name="Account_Create" xml:space="preserve">
-    <value>Create account</value>
+    <value>Crear una cuenta</value>
     <comment>Create account</comment>
   </data>
   <data name="Account_Edit" xml:space="preserve">
-    <value>Edit account</value>
+    <value>Editar la cuenta</value>
     <comment>Edit account</comment>
   </data>
   <data name="Account_Email" xml:space="preserve">
@@ -482,7 +482,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email:</comment>
   </data>
   <data name="Account_Name" xml:space="preserve">
-    <value>Your name:</value>
+    <value>Su nombre:</value>
     <comment>Your name:</comment>
   </data>
   <data name="Account_Password" xml:space="preserve">
@@ -490,27 +490,27 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Password:</comment>
   </data>
   <data name="Account_WrongPassword" xml:space="preserve">
-    <value>Please enter the correct password</value>
+    <value>Por favor introduzca la contraseña correcta</value>
     <comment>Please enter the correct password</comment>
   </data>
   <data name="Dialog_Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Agregar</value>
     <comment>Add</comment>
   </data>
   <data name="Dialog_Browse" xml:space="preserve">
-    <value>Browse</value>
+    <value>Navegar</value>
     <comment>Browse</comment>
   </data>
   <data name="Dialog_Continue" xml:space="preserve">
-    <value>Continue</value>
+    <value>Continuar</value>
     <comment>Continue</comment>
   </data>
   <data name="Dialog_DiscardDraft" xml:space="preserve">
-    <value>Discard draft?</value>
+    <value>¿Descartar el borrador?</value>
     <comment>Discard Draft?</comment>
   </data>
   <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard your draft?</value>
+    <value>¿Está seguro que desea descartar su borrador?</value>
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
@@ -522,23 +522,23 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Account:</comment>
   </data>
   <data name="Identity_Add" xml:space="preserve">
-    <value>Add identity</value>
+    <value>Agregue una identificación</value>
     <comment>Add identity</comment>
   </data>
   <data name="Identity_DifferentReplyTo" xml:space="preserve">
-    <value>Use a different reply-to address</value>
+    <value>Utilice una dirección distinta para responder</value>
     <comment>Use a different reply-to address</comment>
   </data>
   <data name="Identity_DifferentSignature" xml:space="preserve">
-    <value>Use a different signature than for {0}</value>
+    <value>Utilice una firma distinta ha para {0}</value>
     <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
   </data>
   <data name="Identity_Edit" xml:space="preserve">
-    <value>Edit identity</value>
+    <value>Editar Identificación</value>
     <comment>Edit identity</comment>
   </data>
   <data name="Identity_ReplyTo" xml:space="preserve">
-    <value>Reply-to:</value>
+    <value>Responder a:</value>
     <comment>Reply-to:</comment>
   </data>
   <data name="Identity_SendFromAccount" xml:space="preserve">
@@ -546,15 +546,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Account</comment>
   </data>
   <data name="Identity_SendFromSmtp" xml:space="preserve">
-    <value>SMTP Server</value>
+    <value>Servidor SMTP</value>
     <comment>SMTP Server</comment>
   </data>
   <data name="Identity_SendThrough" xml:space="preserve">
-    <value>Send through:</value>
+    <value>Enviar a través de:</value>
     <comment>Send through:</comment>
   </data>
   <data name="Identity_Signature" xml:space="preserve">
-    <value>Signature:</value>
+    <value>Firma:</value>
     <comment>Signature:</comment>
   </data>
   <data name="Identity_SmtpPassword" xml:space="preserve">
@@ -566,47 +566,47 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Port:</comment>
   </data>
   <data name="Identity_SmtpServer" xml:space="preserve">
-    <value>SMTP server:</value>
+    <value>Servidor SMTP:</value>
     <comment>SMTP server:</comment>
   </data>
   <data name="Identity_SmtpUsername" xml:space="preserve">
-    <value>Username:</value>
+    <value>Usuario:</value>
     <comment>Username:</comment>
   </data>
   <data name="Identity_Test" xml:space="preserve">
-    <value>Test connection</value>
+    <value>Conexión de Prueba</value>
     <comment>Test connection</comment>
   </data>
   <data name="Identity_Testing" xml:space="preserve">
-    <value>Testing connection...</value>
+    <value>Probando la conexión...</value>
     <comment>Testing connection...</comment>
   </data>
   <data name="Dialog_Report" xml:space="preserve">
-    <value>Report this problem</value>
+    <value>Informe de este problema</value>
     <comment>Report this problem</comment>
   </data>
   <data name="Dialog_Restart" xml:space="preserve">
-    <value>Restart</value>
+    <value>Re-inicie</value>
     <comment>Restart</comment>
   </data>
   <data name="Find_Close" xml:space="preserve">
-    <value>Close find window</value>
+    <value>Cierre la ventana de búsqueda</value>
     <comment>Close find window</comment>
   </data>
   <data name="Find_Find" xml:space="preserve">
-    <value>Find</value>
+    <value>Encontrar</value>
     <comment>Find</comment>
   </data>
   <data name="Find_Next" xml:space="preserve">
-    <value>Next</value>
+    <value>Siguiente</value>
     <comment>Next</comment>
   </data>
   <data name="Find_Previous" xml:space="preserve">
-    <value>Previous</value>
+    <value>Anterior</value>
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright {0} Mailbird. All Rights Reserved.</value>
+    <value>Derechos de autor {0} Mailbird. Todos los derechos reservados.</value>
     <comment>Copyright {current year} Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -614,11 +614,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>Bcc: </value>
+    <value>Cco: </value>
     <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
-    <value>Bcc</value>
+    <value>Cco</value>
     <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
@@ -630,7 +630,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Cc</comment>
   </data>
   <data name="Default_AlwaysAsk" xml:space="preserve">
-    <value>Always perform this check when starting Mailbird</value>
+    <value>Siempre realizar este chequeo al iniciar Mailbird</value>
     <comment>Always perform this check when starting Mailbird</comment>
   </data>
   <data name="Default_SetAs" xml:space="preserve">
@@ -638,19 +638,19 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
-    <value>Do you want to use Mailbird as your default email client?</value>
+    <value>¿Desea usted utilizar Mailbird como su cliente de correo electrónico por defecto?</value>
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
-    <value>Overwrite Existing Files?</value>
+    <value>¿Sobrescribir Archivos Existentes?</value>
     <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
-    <value>Would you like to overwrite existing files?</value>
+    <value>¿Le gustaría sobrescribir los archivos existentes?</value>
     <comment>Would you like to overwrite existing files?</comment>
   </data>
   <data name="Dialog_Purchase" xml:space="preserve">
-    <value>Purchase</value>
+    <value>Compra</value>
     <comment>Purchase</comment>
   </data>
   <data name="Dialog_SaveFolder" xml:space="preserve">
