@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -5021,39 +5021,15 @@ Please select another image to use as a background.</comment>
     <value>Ανάκτηση κλειδιου άδειας χρήσης</value>
     <comment>Retrieve License Key</comment>
   </data>
-  <data name="Upgrade_NoLimitApps" xml:space="preserve">
-    <value>Αναβαθμίστε σε Mailbird Pro και ξεκλειδώστε όσες εφαρμογές θέλετε!</value>
-    <comment>Upgrade to Mailbird Pro and unlock as many apps as you want!</comment>
-  </data>
   <data name="App_Chrome_Description" xml:space="preserve">
     <value>Περιηγηθείτε στο web από το Mailbird.</value>
     <comment>Navigate the web from Mailbird.</comment>
-  </data>
-  <data name="Trial_Feature6" xml:space="preserve">
-    <value>Απεριόριστες εφαρμογές</value>
-    <comment>Unlimited apps</comment>
-  </data>
-  <data name="Apps_LimitingLiteApps" xml:space="preserve">
-    <value>Ορισμένες εφαρμογές έχουν απενεργοποιηθεί διότι η δοκιμαστική έκδοση έχει λήξει. Παρακαλώ κάντε αναβάθμιση στην έκδοση Pro για την ενεργοποίησή τους</value>
-    <comment>Some apps have been deactivated due to the trial having expired. Please upgrade to Pro to reactivate them</comment>
-  </data>
-  <data name="Welcome_AppsLimit" xml:space="preserve">
-    <value>Χρησιμοποιείτε το Mailbird Lite το οποίο δεν επιτρέπει την ενεργοποίηση περισσότερων από 1 εφαρμογές. Παρακαλώ αναβάθμιση στην έκδοση Pro για να ενεργοποιήσετε τις ΑΠΕΡΙΟΡΙΣΤΕΣ εφαρμογές.</value>
-    <comment>You are using Mailbird Lite which does not allow activating more than 1 App. Please upgrade to Pro to activate unlimited apps.</comment>
   </data>
   <data name="Trial_AlreadyHaveLicense" xml:space="preserve">
     <value>Έχω ήδη ένα κλειδί άδειας χρήσης</value>
     <comment>I already have a license key</comment>
   </data>
-<data name="UpgradeToPro_LastSold" xml:space="preserve">
-    <value>Τελευταία πώληση {0} λεπτά πριν</value>
-    <comment>Last sold {0} minutes ago</comment>
-  </data>
-  <data name="UpgradeToPro_LastSoldSingular" xml:space="preserve">
-    <value>Τελευταία πώληση {0} λεπτό πριν</value>
-    <comment>Last sold {0} minute ago</comment>
-  </data>
-  <data name="UpgradeToPro_Popular" xml:space="preserve">
+<data name="UpgradeToPro_Popular" xml:space="preserve">
     <value>POPULAR</value>
     <comment>POPULAR</comment>
   </data>
@@ -5184,5 +5160,13 @@ Are you sure you want to close the window?</comment>
   <data name="Options_UpdatePreference" xml:space="preserve">
     <value>Επιλέξτε τις ρυθμίσεις της ενημέρωσης του Mailbird:</value>
     <comment>Choose your Mailbird update settings:</comment>
+  </data>
+<data name="ContextMenu_RedownloadImage" xml:space="preserve">
+    <value>Redownload image</value>
+    <comment>Redownload image</comment>
+  </data>
+  <data name="InviteV2_InviteAgain" xml:space="preserve">
+    <value>Invite again</value>
+    <comment>Invite again</comment>
   </data>
 </root>
