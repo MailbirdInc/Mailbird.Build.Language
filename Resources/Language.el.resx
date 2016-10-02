@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -1028,7 +1028,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Για την λήψη περισσότερων πληροφοριών για αυτήν την επαφή, παρακαλούμε συνδεθείτε στο λογαριασμό σας Facebook.</value>
+    <value>Για την λήψη περισσότερων πληροφοριών για αυτήν την επαφή, παρακαλούμε συνδεθείτε στις Ρυθμίσεις του λογαριασμού σας στο Facebook.</value>
     <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
@@ -1284,11 +1284,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Shortcuts</comment>
   </data>
   <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Προτείνετε βελτιώσεις</value>
+    <value>Αποστολή Σχολίων</value>
     <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Υποστήριξη Mailbird</value>
+    <value>Λάβετε υποστήριξη</value>
     <comment>Mailbird support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
@@ -1876,11 +1876,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
-    <value>Έξοδος</value>
+    <value>Έξοδος από το Mailbird</value>
     <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
-    <value>Κλείσιμο εφαρμογής Mailbird.</value>
+    <value>Κλείσιμο της εφαρμογής.</value>
     <comment>Close Mailbird application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
@@ -1908,7 +1908,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>AVAILABLE GMAIL SHORTCUTS</comment>
   </data>
   <data name="Shortcut_GmailExplanation" xml:space="preserve">
-    <value>Ενεργοποιήστε τις ακόλουθες συντομεύσεις GMail κάτω από το παράθυρο Επιλογές του Mailbird.</value>
+    <value>Ενεργοποιήστε τις ακόλουθες συντομεύσεις GMail κάτω από το παράθυρο ρυθμίσεων του Mailbird.</value>
     <comment>Enable the following GMail shortcuts below from the Mailbird Options window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
@@ -2784,7 +2784,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Show avatars and contact info</comment>
   </data>
   <data name="Message_SpeedRead" xml:space="preserve">
-    <value>Ταχεία ανάγνωση αυτού του email</value>
+    <value>Ταχεία ανάγνωση αυτού του μηνύματος</value>
     <comment>Speed read this email</comment>
   </data>
   <data name="SpeedRead_CurrentSpeed" xml:space="preserve">
@@ -3897,7 +3897,7 @@ Requires multiple accounts.</comment>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
     <value>Όταν προσθέτετε πολλούς λογαριασμούς στο Mailbird, ένας νέος "ενοποιημένος" λογαριασμός εμφανίζεται στην κορυφή της λίστας λογαριασμού στη γραμμή περιήγησης. Αυτό περιέχει όλα τα μηνύματα από τους φακέλους συστήματος όλων των λογαριασμών σε ένα μέρος, και μπορείτε να αλληλεπιδράσετε μαζί τους, όπως θα κάνατε κανονικά.
 
-Μπορείτε να απενεργοποιήσετε τον ενοποιημένο λογαριασμό από τις επιλογές, ή να επεξεργαστείτε κάθε λογαριασμό και να αποφασίσετε αν θα περιλαμβάνονται σε αυτόν.</value>
+Μπορείτε να απενεργοποιήσετε τον ενοποιημένο λογαριασμό από τις ρυθμίσεις, ή να επεξεργαστείτε κάθε λογαριασμό και να αποφασίσετε αν θα περιλαμβάνονται σε αυτόν.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</comment>
@@ -4119,7 +4119,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
-    <value>Απέτυχε ο έλεγχος ταυτότητας με το διακομιστή μεσολάβησης. Παρακαλώ βεβαιωθείτε ότι οι ρυθμίσεις διακομιστή μεσολάβησης έχουν εισαχθεί σωστά στις επιλογές του Mailbird.</value>
+    <value>Απέτυχε ο έλεγχος ταυτότητας με το διακομιστή μεσολάβησης. Παρακαλώ βεβαιωθείτε ότι οι ρυθμίσεις διακομιστή μεσολάβησης έχουν εισαχθεί σωστά στις ρυθμίσεις του Mailbird.</value>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Notification_GenericAuthenticationError" xml:space="preserve">
@@ -4656,7 +4656,7 @@ Message 1 to 2</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Επιλέξτε το σωστό αρχείο ήχου από τις επιλογές.</value>
+    <value>Επιλέξτε το σωστό αρχείο ήχου από τις ρυθμίσεις.</value>
     <comment>Please select the correct audio file from options.</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
