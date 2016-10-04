@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -302,7 +302,7 @@
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>至自己 </value>
+    <value>与自己 </value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -444,7 +444,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
-    <value>好</value>
+    <value>确认</value>
     <comment>OK</comment>
   </data>
   <data name="Dialog_RemoveAccount" xml:space="preserve">
@@ -888,7 +888,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Name:</comment>
   </data>
   <data name="EditFolderWindow_NestFolderUnderLabel" xml:space="preserve">
-    <value>嵌套文件夹:</value>
+    <value>将文件夹嵌套到:</value>
     <comment>Nest folder under:</comment>
   </data>
   <data name="EditFolderWindow_Title" xml:space="preserve">
@@ -1276,11 +1276,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Shortcuts</comment>
   </data>
   <data name="Menu_Suggestions" xml:space="preserve">
-    <value>提出改进意见</value>
+    <value>提交反馈</value>
     <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Mailbird 支持</value>
+    <value>获取帮助</value>
     <comment>Mailbird support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
@@ -1548,7 +1548,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>(Default)</comment>
   </data>
   <data name="Options_DefaultNotification" xml:space="preserve">
-    <value>当Mailbird不是默认邮件客户端是告诉我</value>
+    <value>当Mailbird不是默认邮件客户端时通知我</value>
     <comment>Tell me if Mailbird is not the default email client</comment>
   </data>
   <data name="Options_DownloadOnDemand" xml:space="preserve">
@@ -1580,7 +1580,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Appearance</comment>
   </data>
   <data name="Options_GroupUnread" xml:space="preserve">
-    <value>将未读会话在顶部分组</value>
+    <value>将未读邮件在顶部进行聚合</value>
     <comment>Group unread conversations at the top</comment>
   </data>
   <data name="Options_HideIcon" xml:space="preserve">
@@ -1596,7 +1596,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>显示“重要邮件”指示器</value>
+    <value>显示“重要邮件”的标记</value>
     <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
@@ -1676,7 +1676,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Choose theme color</comment>
   </data>
   <data name="Options_ShowAnimations" xml:space="preserve">
-    <value>显示动画</value>
+    <value>显示动画效果</value>
     <comment>Show animations</comment>
   </data>
   <data name="Options_DisableDirectWrite" xml:space="preserve">
@@ -1684,7 +1684,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Disable DirectWrite</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>显示发送并存档按键</value>
+    <value>显示「发送并存档」按键</value>
     <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
@@ -1692,7 +1692,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>当收到邮件时播放提示音:</value>
+    <value>新邮件提示音:</value>
     <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
@@ -1868,7 +1868,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
-    <value>退出</value>
+    <value>退出Mailbird</value>
     <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
@@ -2433,7 +2433,7 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>已选择此账号编写邮件时的预选发送者身份.</value>
+    <value>已选择此账号作为编写邮件时的默认发送人.</value>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
@@ -2771,7 +2771,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove</comment>
   </data>
   <data name="Options_ShowAvatar" xml:space="preserve">
-    <value>显示头像和联系信息</value>
+    <value>显示头像以及联系信息</value>
     <comment>Show avatars and contact info</comment>
   </data>
   <data name="Message_SpeedRead" xml:space="preserve">
@@ -3138,7 +3138,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
-    <value>谷歌邮件</value>
+    <value>Google邮箱</value>
     <comment>Gmail</comment>
   </data>
   <data name="App_Contacts_Import_Import" xml:space="preserve">
@@ -3214,7 +3214,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Globe</comment>
   </data>
   <data name="AvatarIconGmail" xml:space="preserve">
-    <value>谷歌邮件</value>
+    <value>Google邮箱</value>
     <comment>Gmail</comment>
   </data>
   <data name="AvatarIconICloud" xml:space="preserve">
@@ -3454,7 +3454,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Attachment Quick Preview</comment>
   </data>
   <data name="Trial_Feature4" xml:space="preserve">
-    <value>邮箱贪睡</value>
+    <value>小睡邮件</value>
     <comment>Snooze Emails</comment>
   </data>
   <data name="Trial_Feature5" xml:space="preserve">
@@ -3550,15 +3550,15 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Add more accounts</comment>
   </data>
   <data name="FolderIdentity_Snoozed" xml:space="preserve">
-    <value>已设置贪睡</value>
+    <value>已设置邮件小睡</value>
     <comment>Snoozed</comment>
   </data>
   <data name="Notification_FirstSnoozeHeader" xml:space="preserve">
-    <value>你刚对一条邮件设置了贪睡!</value>
+    <value>你刚对一条邮件设置了小睡!</value>
     <comment>You just snoozed a message!</comment>
   </data>
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
-    <value>我们将它移至贪睡文件夹让它不会打扰你. 它会之后回到收件箱, 并排序在顶部方便你发现它. 直到你阅览它为止它会一直保留在那里.
+    <value>我们将它移至小睡文件夹让它不会打扰你. 它会之后回到收件箱, 并排序在顶部方便你发现它. 直到你阅览它为止它会一直保留在那里.
 
 请注意Mailbird必需处于运行状态才能把邮件移回收件箱. 如果不是, 该邮件会在下次启动Mailbird时被移回.</value>
     <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
@@ -3566,7 +3566,7 @@ Here are a couple of links to help produce vCard files from various services:</c
 Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</comment>
   </data>
   <data name="Options_Snoozes" xml:space="preserve">
-    <value>贪睡</value>
+    <value>邮件小睡</value>
     <comment>Snoozes</comment>
   </data>
   <data name="Options_Snooze_EndWorkdayAt" xml:space="preserve">
@@ -3650,11 +3650,11 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>In 1 month</comment>
   </data>
   <data name="Conversation_Snooze" xml:space="preserve">
-    <value>贪睡</value>
+    <value>邮件小睡</value>
     <comment>Snooze</comment>
   </data>
   <data name="Upgrade_Snooze" xml:space="preserve">
-    <value>获取贪睡和很多其他功能用以提高你的生产力.</value>
+    <value>获取邮件小睡和很多其他功能用以提高你的生产力.</value>
     <comment>Get Snooze and many other features to boost your productivity.</comment>
   </data>
   <data name="Welcome_MoreAccounts_Header" xml:space="preserve">
@@ -3682,7 +3682,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Activate Licence</comment>
   </data>
   <data name="Snooze_SnoozedUntil" xml:space="preserve">
-    <value>贪睡到{0}</value>
+    <value>设置邮件小睡到{0}</value>
     <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
@@ -3734,7 +3734,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Share performance and usage data</comment>
   </data>
   <data name="Options_DisableDirectWriteExplanation" xml:space="preserve">
-    <value>勾选此项如果你遇到在邮件和一些应用中遇到字体模糊的状况.</value>
+    <value>如果你遇到在邮件和一些应用中遇到字体模糊的状况，请关闭此项.</value>
     <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
@@ -3750,7 +3750,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Composing</comment>
   </data>
   <data name="Options_Snooze_Preferences" xml:space="preserve">
-    <value>贪睡偏好设置</value>
+    <value>邮件小睡偏好设置</value>
     <comment>Snooze preferences</comment>
   </data>
   <data name="Options_Snooze_Weekly_Schedule" xml:space="preserve">
@@ -3847,19 +3847,19 @@ Help us grow and improve by simply inviting your friends to Mailbird today.</com
     <comment>Tell your friends so we can grow together!</comment>
   </data>
   <data name="UnifiedAccount_SelectorDisplayName" xml:space="preserve">
-    <value>统一帐号</value>
+    <value>聚合帐号</value>
     <comment>Unified Account</comment>
   </data>
   <data name="Options_EnableUnifiedAccount" xml:space="preserve">
-    <value>启用统一账号</value>
+    <value>启用聚合账号</value>
     <comment>Enable unified account</comment>
   </data>
   <data name="Welcome_UnifyLabel" xml:space="preserve">
-    <value>统一</value>
+    <value>聚合</value>
     <comment>Unify</comment>
   </data>
   <data name="Welcome_UnifySetting" xml:space="preserve">
-    <value>包括在统一账户内</value>
+    <value>将其列入到聚合账户中</value>
     <comment>Include in unified account</comment>
   </data>
   <data name="Options_AlwaysExpandSwitcherTooltip" xml:space="preserve">
@@ -3879,9 +3879,9 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>当你加入多个账号到Mailbird时，一个新的"统一"账号会在导航栏的账号列表的顶部显示. 该账号将来自所有账号的系统文件夹内的邮件整合在一处，你可以像正常一样的与这些邮件交互.
+    <value>当你加入多个账号到Mailbird时，一个新的"聚合"账号会在导航栏的账号列表的顶部显示. 该账号将来自所有账号的系统文件夹内的邮件整合在一处，你可以像正常一样的与这些邮件交互.
 
-你可以在选项内禁用统一账号, 或者编辑每一个你的账号以决定哪些账号会被包括在统一账号内.</value>
+你可以在选项内禁用聚合账号, 或者编辑每一个你的账号以决定哪些账号会被包括在聚合账号内.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</comment>
@@ -3891,11 +3891,11 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Select on startup</comment>
   </data>
   <data name="Options_SelectUnifiedAccountOnStartupTooltip" xml:space="preserve">
-    <value>启动Mailbird时显示统一账号.</value>
+    <value>启动Mailbird时显示聚合账号.</value>
     <comment>Starts Mailbird with the unified account selected.</comment>
   </data>
   <data name="Notification_UnifiedAccountReleasedHeader" xml:space="preserve">
-    <value>新特性: 统一收件箱升级版</value>
+    <value>新特性: 聚合收件箱升级版</value>
     <comment>New Feature: Unified Inbox Plus</comment>
   </data>
   <data name="Tutorial_AccountList" xml:space="preserve">
@@ -4003,7 +4003,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Trash</comment>
   </data>
   <data name="Tutorial_UnifiedAccount" xml:space="preserve">
-    <value>统一账号</value>
+    <value>聚合账号</value>
     <comment>Unifed account</comment>
   </data>
   <data name="Conversation_AutoLayout" xml:space="preserve">
@@ -4207,7 +4207,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
-    <value>在联系应用加入新的接受者</value>
+    <value>添加新的收件人到联系APP</value>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
@@ -4298,7 +4298,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>邀请好友 - 索取 Pro</value>
+    <value>邀请好友 - 免费获取 Pro</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -4515,7 +4515,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>复原发送事期</value>
+    <value>邮件延迟发送时间</value>
     <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
@@ -4523,7 +4523,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>邮件将延迟反送, 让您有复原的选项.</value>
+    <value>邮件将会延迟发送，延迟时间为左侧设置的时间，你可以在该时间段内撤销此次邮件发送。</value>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
@@ -4544,7 +4544,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
-    <value>Authentication</value>
+    <value>认证</value>
     <comment>Authentication</comment>
   </data>
   <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
@@ -4640,7 +4640,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Electronic</comment>
   </data>
   <data name="Sound_None" xml:space="preserve">
-    <value>None</value>
+    <value>无</value>
     <comment>None</comment>
   </data>
 <data name="Invite_SendAllExplanation" xml:space="preserve">
@@ -4672,7 +4672,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Add a second email account</comment>
   </data>
   <data name="Reward_AddAccountExplanation" xml:space="preserve">
-    <value>添加第二个邮件账号并一起管理所有账号!</value>
+    <value>添加第二个邮件账号并在一个地方管理所有账号!</value>
     <comment>Add a second email account and manage all your accounts in the same place!</comment>
   </data>
   <data name="Reward_Apps" xml:space="preserve">
@@ -4687,11 +4687,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Compose your 1st email</comment>
   </data>
   <data name="Reward_ComposeExplanation" xml:space="preserve">
-    <value>编写并发送您第一个邮件来发掘 Mailbird</value>
+    <value>编写并发送您第一个邮件来探索 Mailbird</value>
     <comment>Discover Mailbird by composing and sending your first email</comment>
   </data>
   <data name="Reward_Share" xml:space="preserve">
-    <value>让爱散播出去吧</value>
+    <value>让爱蔓延</value>
     <comment>Spread the love</comment>
   </data>
   <data name="Reward_ShareExplanation" xml:space="preserve">
@@ -4699,11 +4699,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Share Mailbird with your friends, family, co-workers</comment>
   </data>
   <data name="Reward_Snooze" xml:space="preserve">
-    <value>打盹邮件</value>
+    <value>邮件小睡</value>
     <comment>Snooze email</comment>
   </data>
   <data name="Reward_SnoozeExplanation" xml:space="preserve">
-    <value>打盹邮件一小时/一天等, 您的邮件将会自动被引入收件箱内!</value>
+    <value>设置邮件小睡一小时/一天等, 您的邮件将会自动被引入收件箱内!</value>
     <comment>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</comment>
   </data>
   <data name="Reward_Use" xml:space="preserve">
@@ -4816,7 +4816,7 @@ Want to unlock more rewards?</comment>
     <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
-    <value>使用 Mailbird Pro, 它拥有更多特征来促进生产力如打盹, 快速预览, 无线账号等.</value>
+    <value>使用 Mailbird Pro, 它拥有更多特征来促进生产力如邮件小睡, 快速预览, 无线账号等.</value>
     <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
   </data>
   <data name="Ads_Invite" xml:space="preserve">
@@ -4860,7 +4860,7 @@ Want to unlock more rewards?</comment>
     <comment>View subscription details</comment>
   </data>
   <data name="Options_AutoCollapseBlockquote" xml:space="preserve">
-    <value>在回复时默认倒塌邮件</value>
+    <value>在回复时默认折叠邮件</value>
     <comment>Collapse message by default when replying</comment>
   </data>
   <data name="Invite_NoInvitee" xml:space="preserve">
@@ -5027,27 +5027,27 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Upgrade now to Mailbird PRO</value>
+    <value>立即升级到Mailbird专业版</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
-    <value>Dark theme</value>
+    <value>黑暗主题</value>
     <comment>Dark theme</comment>
   </data>
   <data name="Theme_Light" xml:space="preserve">
-    <value>Light theme</value>
+    <value>光明主题</value>
     <comment>Light theme</comment>
   </data>
 <data name="Dialog_UninstallNoButton" xml:space="preserve">
-    <value>Remove local data</value>
+    <value>删除本地数据</value>
     <comment>Remove local data</comment>
   </data>
   <data name="Dialog_UninstallYesButton" xml:space="preserve">
-    <value>Keep local data</value>
+    <value>保留本地数据</value>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</value>
+    <value>邀请你的朋友吧,这非常简单，当{0}或更多好友通过你的邀请安装Mailbirdhouse，你将[bold]免费[/bold]拥有Mailbird Pro Lifetime.</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
@@ -5055,35 +5055,35 @@ Please select another image to use as a background.</comment>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="Invite_SendFrom" xml:space="preserve">
-    <value>Send from</value>
+    <value>发件人</value>
     <comment>Send from</comment>
   </data>
   <data name="InviteV2_Accepted" xml:space="preserve">
-    <value>Accepted!</value>
+    <value>接受!</value>
     <comment>Accepted!</comment>
   </data>
   <data name="InviteV2_AddnewContact" xml:space="preserve">
-    <value>"{0}" is not found, press "Enter" to add to list.</value>
+    <value>"{0}" 没找到, 请按下 "回车键" 以添加到列表中.</value>
     <comment>"{0}" is not found, press "Enter" to add to list.</comment>
   </data>
   <data name="InviteV2_Invite" xml:space="preserve">
-    <value>Invite</value>
+    <value>邀请</value>
     <comment>Invite</comment>
   </data>
   <data name="InviteV2_Invited" xml:space="preserve">
-    <value>Invited</value>
+    <value>已邀请</value>
     <comment>Invited</comment>
   </data>
   <data name="InviteV2_NoAcceptedInvitations" xml:space="preserve">
-    <value>You don't have any accepted invitations.</value>
+    <value>你没有任何已经被接受的邀请</value>
     <comment>You don't have any accepted invitations.</comment>
   </data>
   <data name="InviteV2_NoContacts" xml:space="preserve">
-    <value>No contacts found.</value>
+    <value>没有找到联系人.</value>
     <comment>No contacts found.</comment>
   </data>
   <data name="InviteV2_NoSentInvitations" xml:space="preserve">
-    <value>You haven't sent any invitations.</value>
+    <value>你还没发送过任何邀请.</value>
     <comment>You haven't sent any invitations.</comment>
   </data>
   <data name="InviteV2_AcceptedCounter" xml:space="preserve">
@@ -5091,7 +5091,7 @@ Please select another image to use as a background.</comment>
     <comment>({0}/{1})</comment>
   </data>
   <data name="InviteV2_AcceptedHeader" xml:space="preserve">
-    <value>Accepted</value>
+    <value>已接受</value>
     <comment>Accepted</comment>
   </data>
   <data name="InviteV2_AcceptedProgress" xml:space="preserve">
@@ -5099,79 +5099,80 @@ Please select another image to use as a background.</comment>
     <comment>{0} of {1} invites accepted!</comment>
   </data>
   <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
-    <value>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</value>
+    <value>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.
+你喜欢Mailbird吗？你今天只需要邀请你的朋友来使用Mailbird，就可以帮助我们成长和改进.</value>
     <comment>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="InviteV2_InviteFriends" xml:space="preserve">
-    <value>Invite Friends</value>
+    <value>邀请朋友</value>
     <comment>Invite Friends</comment>
   </data>
   <data name="InviteV2_Sent" xml:space="preserve">
-    <value>Sent ({0})</value>
+    <value>({0})已发送</value>
     <comment>Sent ({0})</comment>
   </data>
   <data name="InviteV2_TitleBlockLifetime" xml:space="preserve">
-    <value>Tell your friends so we can grow together!</value>
+    <value>告诉你的朋友，我们可以一起成长！</value>
     <comment>Tell your friends so we can grow together!</comment>
   </data>
   <data name="WebBrowser_Bookmark" xml:space="preserve">
-    <value>Bookmark</value>
+    <value>收藏夹</value>
     <comment>Bookmark</comment>
   </data>
   <data name="App_Chrome_BookmarkLimit" xml:space="preserve">
-    <value>You can bookmark up to {0} websites. Please remove existing bookmarks and try again.</value>
+    <value>你可以收藏最多{0}个网站.请删除现有标签后重试.</value>
     <comment>You can bookmark up to {0} websites. Please remove existing bookmarks and try again.</comment>
   </data>
   <data name="App_Chrome_BookmarkLimit_Title" xml:space="preserve">
-    <value>Bookmark limit exceeded</value>
+    <value>收藏夹已超过最大限制</value>
     <comment>Bookmark limit exceeded</comment>
   </data>
   <data name="Welcome_CloseDescription" xml:space="preserve">
-    <value>Are you sure you want to close the window?</value>
+    <value>你确定要关闭窗口吗？</value>
     <comment>Are you sure you want to close the window?</comment>
   </data>
   <data name="Welcome_CloseImportDescription" xml:space="preserve">
-    <value>We're still importing your data, closing the window will cancel the import process.
+    <value>我们正在导入你的资料,关闭窗口将会导致中断导入.
 
-Are you sure you want to close the window?</value>
+你确定要关闭窗口吗？</value>
     <comment>We're still importing your data, closing the window will cancel the import process.
 
 Are you sure you want to close the window?</comment>
   </data>
   <data name="UpdatePreference_CheckWithAutoDownload" xml:space="preserve">
-    <value>Download updates but let me choose whether to install them</value>
+    <value>自动下载更新，但让我决定是否安装更新</value>
     <comment>Download updates but let me choose whether to install them</comment>
   </data>
   <data name="UpdatePreference_CheckWithoutAutoDownload" xml:space="preserve">
-    <value>Check for updates but let me choose whether to download and install them</value>
+    <value>自动检查更新，但让我决定是否下载和安装更新</value>
     <comment>Check for updates but let me choose whether to download and install them</comment>
   </data>
   <data name="UpdatePreference_NeverCheck" xml:space="preserve">
-    <value>Never check for updates</value>
+    <value>从不检查更新</value>
     <comment>Never check for updates</comment>
   </data>
   <data name="Options_UpdatePreference" xml:space="preserve">
-    <value>Choose your Mailbird update settings:</value>
+    <value>Mailbird更新设置:</value>
     <comment>Choose your Mailbird update settings:</comment>
   </data>
 <data name="ContextMenu_RedownloadImage" xml:space="preserve">
-    <value>Redownload image</value>
+    <value>重新下载图像</value>
     <comment>Redownload image</comment>
   </data>
   <data name="InviteV2_InviteAgain" xml:space="preserve">
-    <value>Invite again</value>
+    <value>重新邀请</value>
     <comment>Invite again</comment>
   </data>
 <data name="InstallationForm_SetAsDefault" xml:space="preserve">
-    <value>Set Mailbird as the default email client</value>
+    <value>设置Mailbird为默认邮件客户端</value>
     <comment>Set Mailbird as the default email client</comment>
   </data>
 <data name="Menu_Settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>设置</value>
     <comment>Settings</comment>
   </data>
   <data name="NotificationCenter_Notifications" xml:space="preserve">
-    <value>Notifications</value>
+    <value>通知</value>
     <comment>Notifications</comment>
   </data>
 </root>
