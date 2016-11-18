@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -4106,10 +4106,6 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <value>Logowanie do serwera proxy nie powiodło się. Upewnij się, że ustawienia proxy zostały prawidłowo zapisane w opcjach Mailbird.</value>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
-  <data name="Notification_GenericAuthenticationError" xml:space="preserve">
-    <value>To jest spowodowane przez nieprawidłowe dane logowania lub {0} zostały wyłączone na serwerze dla Twojego konta.</value>
-    <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.</comment>
-  </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
     <value>Wstaw łącze</value>
     <comment>Insert link</comment>
@@ -4665,62 +4661,6 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <value>{0} dni</value>
     <comment>{0} days</comment>
   </data>
-  <data name="Reward_AddAccount" xml:space="preserve">
-    <value>Dodaj drugie konto e-mail</value>
-    <comment>Add a second email account</comment>
-  </data>
-  <data name="Reward_AddAccountExplanation" xml:space="preserve">
-    <value>Add a second email account and manage all your accounts in the same place!</value>
-    <comment>Add a second email account and manage all your accounts in the same place!</comment>
-  </data>
-  <data name="Reward_Apps" xml:space="preserve">
-    <value>Connect 2 apps</value>
-    <comment>Connect 2 apps</comment>
-  </data>
-  <data name="Reward_AppsExplanation" xml:space="preserve">
-    <value>Enhance your Mailbird experience by customizing your Mailbird with your favorite apps</value>
-  </data>
-  <data name="Reward_Compose" xml:space="preserve">
-    <value>Skomponuj swój pierwszy e-mail</value>
-    <comment>Compose your 1st email</comment>
-  </data>
-  <data name="Reward_ComposeExplanation" xml:space="preserve">
-    <value>Odkryj Mailbirda poprzez skomponowanie and wysłanie swojego pierwszego e-maila</value>
-    <comment>Discover Mailbird by composing and sending your first email</comment>
-  </data>
-  <data name="Reward_Share" xml:space="preserve">
-    <value>Spread the love</value>
-    <comment>Spread the love</comment>
-  </data>
-  <data name="Reward_ShareExplanation" xml:space="preserve">
-    <value>Share Mailbird with your friends, family, co-workers</value>
-    <comment>Share Mailbird with your friends, family, co-workers</comment>
-  </data>
-  <data name="Reward_Snooze" xml:space="preserve">
-    <value>Snooze email</value>
-    <comment>Snooze email</comment>
-  </data>
-  <data name="Reward_SnoozeExplanation" xml:space="preserve">
-    <value>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</value>
-    <comment>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</comment>
-  </data>
-  <data name="Reward_Use" xml:space="preserve">
-    <value>Use Mailbird for 5 consecutive days</value>
-    <comment>Use Mailbird for 5 consecutive days</comment>
-  </data>
-  <data name="Reward_UseExplanation" xml:space="preserve">
-    <value>Send emails and use apps with Mailbird for 5 days - easy as pie!</value>
-    <comment>Send emails and use apps with Mailbird for 5 days - easy as pie!</comment>
-  </data>
-  <data name="Reward_Completed" xml:space="preserve">
-    <value>Completed</value>
-    <comment>Completed</comment>
-  </data>
-  <data name="Reward_ExtraDays" xml:space="preserve">
-    <value>+{0} days</value>
-    <comment>+{0} days, 
-{0} will be replaced with number, so it will be +5 days</comment>
-  </data>
   <data name="Print_TextHidden" xml:space="preserve">
     <value>[Quoted text hidden]</value>
     <comment>[Quoted text hidden]</comment>
@@ -4774,31 +4714,9 @@ Please remove some and try again.</comment>
     <value>Show share buttons</value>
     <comment>Show share buttons</comment>
   </data>
-  <data name="Reward_TryIt" xml:space="preserve">
-    <value>Wypróbuj teraz!</value>
-    <comment>Try it now!</comment>
-  </data>
-  <data name="Reward_Title" xml:space="preserve">
-    <value>Extend Your Mailbird Pro Free Trial</value>
-    <comment>Extend Your Mailbird Pro Free Trial</comment>
-  </data>
-  <data name="Reward_GotReward" xml:space="preserve">
-    <value>Gratulacje!</value>
-    <comment>Congratulations!</comment>
-  </data>
-  <data name="Reward_GotRewardExplanation" xml:space="preserve">
-    <value>You just unlocked [bold]{0} extra days[/bold] of Mailbird Pro.
-Want to unlock more rewards?</value>
-    <comment>You just unlocked [bold]{0} extra days[/bold] of Mailbird Pro.
-Want to unlock more rewards?</comment>
-  </data>
   <data name="Timeline_ExpireMonths" xml:space="preserve">
     <value>{0} miesięcy</value>
     <comment>{0} months</comment>
-  </data>
-  <data name="Menu_RewardsList" xml:space="preserve">
-    <value>Lista nagród</value>
-    <comment>Rewards list</comment>
   </data>
   <data name="Signature_SentFrom" xml:space="preserve">
     <value>Wysłano z {0}</value>
@@ -4828,14 +4746,6 @@ Want to unlock more rewards?</comment>
   <data name="Ads_ReferExplanation" xml:space="preserve">
     <value>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</value>
     <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
-  </data>
-  <data name="Reward_LaunchStartup" xml:space="preserve">
-    <value>Zawsze pokazuj to okno przy starcie Mailbird</value>
-    <comment>Always show this window when Mailbird starts</comment>
-  </data>
-  <data name="Reward_TitleSubscription" xml:space="preserve">
-    <value>Extend Your Mailbird Pro Subscription</value>
-    <comment>Extend Your Mailbird Pro Subscription</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
     <value>Więcej niż 1 konto</value>
@@ -5171,5 +5081,91 @@ Are you sure you want to close the window?</comment>
   <data name="NotificationCenter_Notifications" xml:space="preserve">
     <value>Notifications</value>
     <comment>Notifications</comment>
+  </data>
+<data name="Notification_GenericAuthenticationError1" xml:space="preserve">
+    <value>This is typically caused by invalid credentials or {0} being disabled on the server for your account.
+
+Read more:
+https://support.getmailbird.com/hc/en-us/articles/220108287</value>
+    <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
+
+Read more:
+https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
+  </data>
+  <data name="Dialog_SubjectChanged" xml:space="preserve">
+    <value>You changed the subject.
+
+Would you like to group this message into a new conversation?</value>
+    <comment>You changed the subject.
+
+Would you like to group this message into a new conversation?</comment>
+  </data>
+  <data name="Dialog_SubjectChanged_Title" xml:space="preserve">
+    <value>Create a new conversation?</value>
+    <comment>Create a new conversation?</comment>
+  </data>
+  <data name="InviteV2_ShareSocial" xml:space="preserve">
+    <value>Share on social and get more invites</value>
+    <comment>Share on social and get more invites</comment>
+  </data>
+  <data name="ShareReferralLink_Link" xml:space="preserve">
+    <value>link</value>
+    <comment>link</comment>
+  </data>
+  <data name="ShareReferralLink_Share" xml:space="preserve">
+    <value>Share</value>
+    <comment>Share</comment>
+  </data>
+  <data name="ShareReferralLink_Title" xml:space="preserve">
+    <value>Share Mailbird directly on Facebook or Twitter</value>
+    <comment>Share Mailbird directly on Facebook or Twitter</comment>
+  </data>
+  <data name="ShareReferralLink_Tweet" xml:space="preserve">
+    <value>Tweet</value>
+    <comment>Tweet</comment>
+  </data>
+  <data name="ShareReferralLink_Twiter" xml:space="preserve">
+    <value>Get 1 month of @mailbird Pro for free, download here: {0}</value>
+    <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
+  </data>
+  <data name="Welcome_Coupon_Add" xml:space="preserve">
+    <value>Add coupon</value>
+    <comment>Add coupon</comment>
+  </data>
+  <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
+    <value>Coupon code...</value>
+    <comment>Coupon code...</comment>
+  </data>
+  <data name="Welcome_Coupon_Description" xml:space="preserve">
+    <value>Enter the coupon code below or skip this step.</value>
+    <comment>Enter the coupon code below or skip this step.</comment>
+  </data>
+  <data name="Welcome_Coupon_Title" xml:space="preserve">
+    <value>Have a referral coupon code?</value>
+    <comment>Have a referral coupon code?</comment>
+  </data>
+  <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
+    <value>You've already used this coupon code.</value>
+    <comment>You've already used this coupon code.</comment>
+  </data>
+  <data name="Welcome_Coupon_NotValid" xml:space="preserve">
+    <value>Coupon is not valid.</value>
+    <comment>Coupon is not valid.</comment>
+  </data>
+  <data name="Welcome_Coupon_OldUser" xml:space="preserve">
+    <value>Coupon code can only be used by new users.</value>
+    <comment>Coupon code can only be used by new users.</comment>
+  </data>
+  <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
+    <value>You can't use your own code.</value>
+    <comment>You can't use your own code.</comment>
+  </data>
+  <data name="Welcome_Coupon_SameComputer" xml:space="preserve">
+    <value>You can't use this code because it was generated from the same PC.</value>
+    <comment>You can't use this code because it was generated from the same PC.</comment>
+  </data>
+  <data name="Welcome_Subscribe" xml:space="preserve">
+    <value>Keep me updated</value>
+    <comment>Keep me updated</comment>
   </data>
 </root>

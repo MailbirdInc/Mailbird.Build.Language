@@ -4106,10 +4106,6 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <value>代理服务器认证失败. 请确认Mailbird选项内的代理设置被正确的输入.</value>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
-  <data name="Notification_GenericAuthenticationError" xml:space="preserve">
-    <value>这一般是由无效的凭证或者你账号的{0}在服务器被禁用.</value>
-    <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.</comment>
-  </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
     <value>插入链接</value>
     <comment>Insert link</comment>
@@ -4667,62 +4663,6 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <value>{0} 天</value>
     <comment>{0} days</comment>
   </data>
-  <data name="Reward_AddAccount" xml:space="preserve">
-    <value>添加第二个邮件账号</value>
-    <comment>Add a second email account</comment>
-  </data>
-  <data name="Reward_AddAccountExplanation" xml:space="preserve">
-    <value>添加第二个邮件账号并在一个地方管理所有账号!</value>
-    <comment>Add a second email account and manage all your accounts in the same place!</comment>
-  </data>
-  <data name="Reward_Apps" xml:space="preserve">
-    <value>连接两个应用</value>
-    <comment>Connect 2 apps</comment>
-  </data>
-  <data name="Reward_AppsExplanation" xml:space="preserve">
-    <value>在 Mailbird 定制您喜欢的应用以提倡您使用 Mailbird 的经历</value>
-    </data>
-  <data name="Reward_Compose" xml:space="preserve">
-    <value>编写您第一个邮件</value>
-    <comment>Compose your 1st email</comment>
-  </data>
-  <data name="Reward_ComposeExplanation" xml:space="preserve">
-    <value>编写并发送您第一个邮件来探索 Mailbird</value>
-    <comment>Discover Mailbird by composing and sending your first email</comment>
-  </data>
-  <data name="Reward_Share" xml:space="preserve">
-    <value>让爱蔓延</value>
-    <comment>Spread the love</comment>
-  </data>
-  <data name="Reward_ShareExplanation" xml:space="preserve">
-    <value>与好友, 家人以及合作伙伴分享 Mailbird</value>
-    <comment>Share Mailbird with your friends, family, co-workers</comment>
-  </data>
-  <data name="Reward_Snooze" xml:space="preserve">
-    <value>邮件小睡</value>
-    <comment>Snooze email</comment>
-  </data>
-  <data name="Reward_SnoozeExplanation" xml:space="preserve">
-    <value>设置邮件小睡一小时/一天等, 您的邮件将会自动被引入收件箱内!</value>
-    <comment>Snooze email for 1 hour, day, etc, your email will come back in your inbox automatically!</comment>
-  </data>
-  <data name="Reward_Use" xml:space="preserve">
-    <value>连续五天使用 Mailbird</value>
-    <comment>Use Mailbird for 5 consecutive days</comment>
-  </data>
-  <data name="Reward_UseExplanation" xml:space="preserve">
-    <value>用 Mailbird 发送邮件以及使用应用 - 易如反掌!</value>
-    <comment>Send emails and use apps with Mailbird for 5 days - easy as pie!</comment>
-  </data>
-  <data name="Reward_Completed" xml:space="preserve">
-    <value>完成</value>
-    <comment>Completed</comment>
-  </data>
-  <data name="Reward_ExtraDays" xml:space="preserve">
-    <value>+{0} 天</value>
-    <comment>+{0} days, 
-{0} will be replaced with number, so it will be +5 days</comment>
-  </data>
   <data name="Print_TextHidden" xml:space="preserve">
     <value>[引用文本已隐藏]</value>
     <comment>[Quoted text hidden]</comment>
@@ -4776,31 +4716,9 @@ Please remove some and try again.</comment>
     <value>显示分享按键</value>
     <comment>Show share buttons</comment>
   </data>
-  <data name="Reward_TryIt" xml:space="preserve">
-    <value>现在试用!</value>
-    <comment>Try it now!</comment>
-  </data>
-  <data name="Reward_Title" xml:space="preserve">
-    <value>延长您的 Mailbird Pro 免费试用期</value>
-    <comment>Extend Your Mailbird Pro Free Trial</comment>
-  </data>
-  <data name="Reward_GotReward" xml:space="preserve">
-    <value>恭喜!</value>
-    <comment>Congratulations!</comment>
-  </data>
-  <data name="Reward_GotRewardExplanation" xml:space="preserve">
-    <value>您刚获得[bold]额外 {0} 天[/bold]的 Mailbird Pro.
-想要获得更多奖励?</value>
-    <comment>You just unlocked [bold]{0} extra days[/bold] of Mailbird Pro.
-Want to unlock more rewards?</comment>
-  </data>
   <data name="Timeline_ExpireMonths" xml:space="preserve">
     <value>{0} 个月</value>
     <comment>{0} months</comment>
-  </data>
-  <data name="Menu_RewardsList" xml:space="preserve">
-    <value>奖励列表</value>
-    <comment>Rewards list</comment>
   </data>
   <data name="Signature_SentFrom" xml:space="preserve">
     <value>来自 {0}</value>
@@ -4830,14 +4748,6 @@ Want to unlock more rewards?</comment>
   <data name="Ads_ReferExplanation" xml:space="preserve">
     <value>邀请好友加入. 一个好友加入将让你获得一个月的免费Mailbird Pro. 无限制.</value>
     <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
-  </data>
-  <data name="Reward_LaunchStartup" xml:space="preserve">
-    <value>Mailbird 启动时一直显示此视窗</value>
-    <comment>Always show this window when Mailbird starts</comment>
-  </data>
-  <data name="Reward_TitleSubscription" xml:space="preserve">
-    <value>延长您的 Mailbird Pro 订阅</value>
-    <comment>Extend Your Mailbird Pro Subscription</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
     <value>多过一个账号</value>
@@ -5174,5 +5084,91 @@ Are you sure you want to close the window?</comment>
   <data name="NotificationCenter_Notifications" xml:space="preserve">
     <value>通知</value>
     <comment>Notifications</comment>
+  </data>
+<data name="Notification_GenericAuthenticationError1" xml:space="preserve">
+    <value>This is typically caused by invalid credentials or {0} being disabled on the server for your account.
+
+Read more:
+https://support.getmailbird.com/hc/en-us/articles/220108287</value>
+    <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
+
+Read more:
+https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
+  </data>
+  <data name="Dialog_SubjectChanged" xml:space="preserve">
+    <value>You changed the subject.
+
+Would you like to group this message into a new conversation?</value>
+    <comment>You changed the subject.
+
+Would you like to group this message into a new conversation?</comment>
+  </data>
+  <data name="Dialog_SubjectChanged_Title" xml:space="preserve">
+    <value>Create a new conversation?</value>
+    <comment>Create a new conversation?</comment>
+  </data>
+  <data name="InviteV2_ShareSocial" xml:space="preserve">
+    <value>Share on social and get more invites</value>
+    <comment>Share on social and get more invites</comment>
+  </data>
+  <data name="ShareReferralLink_Link" xml:space="preserve">
+    <value>link</value>
+    <comment>link</comment>
+  </data>
+  <data name="ShareReferralLink_Share" xml:space="preserve">
+    <value>Share</value>
+    <comment>Share</comment>
+  </data>
+  <data name="ShareReferralLink_Title" xml:space="preserve">
+    <value>Share Mailbird directly on Facebook or Twitter</value>
+    <comment>Share Mailbird directly on Facebook or Twitter</comment>
+  </data>
+  <data name="ShareReferralLink_Tweet" xml:space="preserve">
+    <value>Tweet</value>
+    <comment>Tweet</comment>
+  </data>
+  <data name="ShareReferralLink_Twiter" xml:space="preserve">
+    <value>Get 1 month of @mailbird Pro for free, download here: {0}</value>
+    <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
+  </data>
+  <data name="Welcome_Coupon_Add" xml:space="preserve">
+    <value>Add coupon</value>
+    <comment>Add coupon</comment>
+  </data>
+  <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
+    <value>Coupon code...</value>
+    <comment>Coupon code...</comment>
+  </data>
+  <data name="Welcome_Coupon_Description" xml:space="preserve">
+    <value>Enter the coupon code below or skip this step.</value>
+    <comment>Enter the coupon code below or skip this step.</comment>
+  </data>
+  <data name="Welcome_Coupon_Title" xml:space="preserve">
+    <value>Have a referral coupon code?</value>
+    <comment>Have a referral coupon code?</comment>
+  </data>
+  <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
+    <value>You've already used this coupon code.</value>
+    <comment>You've already used this coupon code.</comment>
+  </data>
+  <data name="Welcome_Coupon_NotValid" xml:space="preserve">
+    <value>Coupon is not valid.</value>
+    <comment>Coupon is not valid.</comment>
+  </data>
+  <data name="Welcome_Coupon_OldUser" xml:space="preserve">
+    <value>Coupon code can only be used by new users.</value>
+    <comment>Coupon code can only be used by new users.</comment>
+  </data>
+  <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
+    <value>You can't use your own code.</value>
+    <comment>You can't use your own code.</comment>
+  </data>
+  <data name="Welcome_Coupon_SameComputer" xml:space="preserve">
+    <value>You can't use this code because it was generated from the same PC.</value>
+    <comment>You can't use this code because it was generated from the same PC.</comment>
+  </data>
+  <data name="Welcome_Subscribe" xml:space="preserve">
+    <value>Keep me updated</value>
+    <comment>Keep me updated</comment>
   </data>
 </root>
