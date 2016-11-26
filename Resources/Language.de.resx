@@ -130,11 +130,11 @@
     <comment>Remove</comment>
   </data>
   <data name="Attachment_Save" xml:space="preserve">
-    <value>Speichern als ...</value>
+    <value>Speichern unter ...</value>
     <comment>Save as...</comment>
   </data>
   <data name="Attachment_SaveAll" xml:space="preserve">
-    <value>Alle speichern als ...</value>
+    <value>Alle speichern unter ...</value>
     <comment>Save all as...</comment>
   </data>
   <data name="Awesomium_Copy" xml:space="preserve">
@@ -146,7 +146,7 @@
     <comment>Copy email address</comment>
   </data>
   <data name="Awesomium_CopyHtml" xml:space="preserve">
-    <value>Quelltext kopieren</value>
+    <value>HTML kopieren</value>
     <comment>Copy HTML</comment>
   </data>
   <data name="Awesomium_CopyImage" xml:space="preserve">
@@ -158,7 +158,7 @@
     <comment>Copy image address</comment>
   </data>
   <data name="Awesomium_CopyLink" xml:space="preserve">
-    <value>Link kopieren</value>
+    <value>Verknüpfung kopieren</value>
     <comment>Copy link address</comment>
   </data>
   <data name="Awesomium_Cut" xml:space="preserve">
@@ -186,11 +186,11 @@
     <comment>Select all</comment>
   </data>
   <data name="Contact_Copy" xml:space="preserve">
-    <value>E-Mail-Adresse kopieren</value>
+    <value>E-Mail Adresse kopieren</value>
     <comment>Copy email</comment>
   </data>
   <data name="Contact_CopyMailName" xml:space="preserve">
-    <value>Name und E-Mail-Adresse kopieren</value>
+    <value>Name und E-Mail Adresse kopieren</value>
     <comment>Copy name and email</comment>
   </data>
   <data name="Contact_NewMail" xml:space="preserve">
@@ -278,11 +278,11 @@
     <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
-    <value>Keine E-Mails in diesem Ordner</value>
+    <value>Keine Nachrichten in diesem Ordner</value>
     <comment>No conversations in this folder</comment>
   </data>
   <data name="Conversation_Print" xml:space="preserve">
-    <value>Konversation drucken</value>
+    <value>Nachrichten drucken</value>
     <comment>Print conversation</comment>
   </data>
   <data name="Conversation_Reply" xml:space="preserve">
@@ -330,7 +330,7 @@
     <comment>Attachment(s) not downloaded</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
-    <value>Bitte warte, bis alle Anhänge heruntergeladen wurden, bevor du die Nachricht weiterleitest</value>
+    <value>Bitte warte bis alle Anhänge heruntergeladen wurden, bevor du die Nachricht weiterleitest</value>
     <comment>Please wait until all attachments have been downloaded before forwarding</comment>
   </data>
   <data name="Dialog_Cancel" xml:space="preserve">
@@ -338,7 +338,7 @@
     <comment>Cancel</comment>
   </data>
   <data name="Dialog_Stop" xml:space="preserve">
-    <value>Stop</value>
+    <value>Stopp</value>
     <comment>Stop</comment>
   </data>
   <data name="Dialog_CantRemoveIdentity" xml:space="preserve">
@@ -382,7 +382,7 @@ Url: {1}</comment>
     <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>Bitte warte, bis alle Anhänge heruntergeladen wurden oder entferne die Anhänge.</value>
+    <value>Bitte warte bis alle Anhänge heruntergeladen wurden oder entferne die Anhänge.</value>
     <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
@@ -390,7 +390,7 @@ Url: {1}</comment>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>Eine Identität mit derselben E-Mail-Adresse gibt es bereits.</value>
+    <value>Eine Identität mit derselben E-Mail Adresse existiert bereits.</value>
     <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
@@ -398,15 +398,15 @@ Url: {1}</comment>
     <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
-    <value>Nachrichten werden immer noch versandt. Bist du sicher, dass du das Programm schließen willst?</value>
+    <value>Derzeit werden noch Nachrichten versandt. Bist du sicher, dass du das Programm schließen willst?</value>
     <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
   </data>
   <data name="Dialog_FacebookConnect" xml:space="preserve">
-    <value>Facebook-Verbindung</value>
+    <value>Facebook Verbindung</value>
     <comment>Facebook connect</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
-    <value>Wir müssen uns neu mit Facebook authentifizieren.
+    <value>Wir müssen uns neu bei Facebook authentifizieren.
 Möchtest du dich neu mit Facebook verbinden?</value>
     <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
@@ -424,11 +424,11 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
-    <value>Link auf lokale Datei senden?</value>
+    <value>Verknüpfung lokaler Dateien senden?</value>
     <comment>Send local file links?</comment>
   </data>
   <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
-    <value>Deine E-Mail enthält Links auf lokale Dateien deines Computers, die der Empfänger nicht öffnen kann. Möchtest du die Nachricht wirklich senden?</value>
+    <value>Deine E-Mail enthält Verknüpfungen auf lokale Dateien deines Computers die der Empfänger nicht öffnen kann. Möchtest du die Nachricht wirklich senden?</value>
     <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
   </data>
   <data name="Dialog_No" xml:space="preserve">
@@ -436,11 +436,11 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No</comment>
   </data>
   <data name="Dialog_NoBrowser" xml:space="preserve">
-    <value>Kein Standardbrowser gefunden</value>
+    <value>Keinen Standardbrowser gefunden</value>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Die URL konnte nicht geöffnet werden. Bitte überprüfe, ob dein Standardbrowser korrekt installiert ist und versuche ihn gegebenenfalls neu zu installieren.</value>
+    <value>Die Adresse konnte nicht geöffnet werden. Bitte überprüfe ob dein Standardbrowser korrekt installiert ist und versuche ihn gegebenenfalls neu zu installieren.</value>
     <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
@@ -470,7 +470,7 @@ Diese Aktion kann nicht rückgängig gemacht werden.</value>
 This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSend" xml:space="preserve">
-    <value>Konnte nicht gesendet werden</value>
+    <value>Konnte nicht senden</value>
     <comment>Could not send</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
@@ -482,7 +482,7 @@ We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
   </data>
   <data name="Dialog_ReportSent" xml:space="preserve">
-    <value>Bericht gesendet</value>
+    <value>Bericht versandt</value>
     <comment>Report sent</comment>
   </data>
   <data name="Dialog_ReportSentExplanation" xml:space="preserve">
@@ -506,11 +506,11 @@ Message:</comment>
     <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
   </data>
   <data name="Dialog_SizeLimit" xml:space="preserve">
-    <value>Größenlimit überschritten</value>
+    <value>Größenlimitierung überschritten</value>
     <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>Du kannst keine Dateien anhängen, die größer als 25 MB sind.</value>
+    <value>Du kannst keine Dateien größer als 25 MB anhängen.</value>
     <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
@@ -542,7 +542,7 @@ Message:</comment>
     <comment>Warning</comment>
   </data>
   <data name="Dialog_WhoToEmail" xml:space="preserve">
-    <value>Wem würdest du gerne eine E-Mail schreiben?</value>
+    <value>Wem möchtest du eine E-Mail schreiben?</value>
     <comment>Who'd you like to email?</comment>
   </data>
   <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
@@ -572,7 +572,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Insert picture</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>Keine E-Mails</value>
+    <value>Keine neuen Nachrichten</value>
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
@@ -724,7 +724,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright 2015 Mailbird. Alle Rechte vorbehalten.</value>
+    <value>Copyright {0} Mailbird. Alle Rechte vorbehalten.</value>
     <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -756,7 +756,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
-    <value>Willst du Mailbird als Standard-E-Mail-Client benutzten?</value>
+    <value>Willst du Mailbird als standard E-Mail Programm verwenden?</value>
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
@@ -816,7 +816,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Always download</comment>
   </data>
   <data name="Download_Never" xml:space="preserve">
-    <value>Nie herunterladen</value>
+    <value>Niemals herunterladen</value>
     <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
@@ -852,11 +852,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter a username</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
-    <value>Die E-Mail-Adresse ist ungültig</value>
+    <value>Die E-Mail Adresse ist ungültig</value>
     <comment>Email is invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail2" xml:space="preserve">
-    <value>Die E-Mail-Adresse scheint ungültig zu sein</value>
+    <value>Die E-Mail Adresse scheint ungültig zu sein</value>
     <comment>Email appears invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
@@ -880,7 +880,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>URL</comment>
   </data>
   <data name="Dialog_Email" xml:space="preserve">
-    <value>E-Mail-Adresse</value>
+    <value>E-Mail Adresse</value>
     <comment>Email</comment>
   </data>
   <data name="Dialog_NameLabel" xml:space="preserve">
@@ -996,7 +996,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search Attachments</comment>
   </data>
   <data name="App_Calendar_Description" xml:space="preserve">
-    <value>Du hast ein Date? Füge es hinzu und bestätige es in Mailbird. Tolle App für Gmail-Nutzer.</value>
+    <value>Du hast eine Verabredung? Füge sie hinzu und bestätige sie in Mailbird. Tolle App für GMail-Nutzer.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
@@ -1020,7 +1020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Bitte verbinde Mailbird mit Facebook, um mehr über diesen Kontakt zu erfahren.</value>
+    <value>Bitte melde dich bei Facebook an, um mehr über diesen Kontakt zu erfahren.</value>
     <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
@@ -1036,7 +1036,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Contacts</comment>
   </data>
   <data name="App_DailySocial_Description" xml:space="preserve">
-    <value>Bekomme die neusten Nachrichten über Tech-Startups aus Indonesien.</value>
+    <value>Erhalte die neusten Nachrichten über Tech-Startups aus Indonesien.</value>
     <comment>Get the latest and greatest news on tech startups in Indonesia.</comment>
   </data>
   <data name="App_Dropbox_Description" xml:space="preserve">
@@ -1052,7 +1052,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
   <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Hilf mit, Mailbird zum besten E-Mail-Client der Welt zu machen.</value>
+    <value>Hilf mit, Mailbird zum besten E-Mail Programm der Welt zu machen.</value>
     <comment>Help make Mailbird the best email app in the world.</comment>
   </data>
   <data name="App_Feedback_Title" xml:space="preserve">
@@ -1276,11 +1276,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Shortcuts</comment>
   </data>
   <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Verbesserungen vorschlagen</value>
+    <value>Rückmeldung senden</value>
     <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Hilfe</value>
+    <value>Unterstützung erhalten</value>
     <comment>Mailbird support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
@@ -1560,7 +1560,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Facebook</comment>
   </data>
   <data name="Options_FacebookExplanation" xml:space="preserve">
-    <value>Go social! Siehe die Profilfotos und Informationen deiner Freunde direkt in deinem Postfach.</value>
+    <value>Go social! Betrachte die Profilfotos und Informationen deiner Freunde direkt in deinem Postfach.</value>
     <comment>Go social. See profile pictures and contact information of your friends.</comment>
   </data>
   <data name="Options_FacebookExplanation1" xml:space="preserve">
@@ -1604,7 +1604,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
-    <value>Mailbird ist der Standard-E-Mail-Client</value>
+    <value>Mailbird ist das standard E-Mail Programm</value>
     <comment>Mailbird is the default email client</comment>
   </data>
   <data name="Options_FoldersFor" xml:space="preserve">
@@ -1624,7 +1624,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show message previews in conversation view</comment>
   </data>
   <data name="Options_NotDefault" xml:space="preserve">
-    <value>Mailbird ist nicht der Standard-E-Mail-Client</value>
+    <value>Mailbird ist nicht das Standard E-Mail Programm</value>
     <comment>Mailbird is not the default email client</comment>
   </data>
   <data name="Options_Notifications" xml:space="preserve">
@@ -1732,7 +1732,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Updates</comment>
   </data>
   <data name="Options_UseGmailShortcut" xml:space="preserve">
-    <value>Gmail Tastaturkürzel benutzen</value>
+    <value>GMail Tastaturkürzel benutzen</value>
     <comment>Use Gmail keyboard shortcuts</comment>
   </data>
   <data name="Options_VersionHistory" xml:space="preserve">
@@ -1772,7 +1772,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Houston, we have a problem!</comment>
   </data>
   <data name="Report_HoustonExplanation" xml:space="preserve">
-    <value>Es tut uns leid, aber etwas ging schief und Mailbird musste geschlossen werden. Damit wir den Fehler schnell beheben können, lass uns wissen, was du gemacht habst, bevor und während es passiert ist. Danke, dass du ein Teil der Entwicklung des besten E-Mail-Clients aller Zeiten bist!</value>
+    <value>Es tut uns leid, aber etwas ging schief und Mailbird musste geschlossen werden. Damit wir den Fehler schnell beheben können, lass uns wissen, was du gemacht hast, bevor und während es passiert ist. Danke, dass du ein Teil der Entwicklung des besten E-Mail Programms aller Zeiten bist!</value>
     <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
   </data>
   <data name="Report_Include" xml:space="preserve">
@@ -1800,7 +1800,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Could not fetch the content at the moment. Please try again later.</comment>
   </data>
   <data name="Search_NotMessageFound" xml:space="preserve">
-    <value>Keine E-Mail trifft auf deine Suche zu</value>
+    <value>Keine Nachrichten treffen auf deine Suche zu</value>
     <comment>No messages matched your search</comment>
   </data>
   <data name="Shortcut_ArchiveExplanation" xml:space="preserve">
@@ -1848,7 +1848,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Copy Attachment</comment>
   </data>
   <data name="Shortcut_CopyAttachmentExplanation" xml:space="preserve">
-    <value>Der aktuell ausgewählte Anhang wird in die Zwischenablage kopiert. Dies funktioniert nur, wenn der Anhang fokussiert ist.</value>
+    <value>Der aktuell ausgewählte Anhang wird in die Zwischenablage kopiert. Dies funktioniert nur, wenn der Anhang ausgewählt ist.</value>
     <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
   </data>
   <data name="Shortcut_Delete" xml:space="preserve">
@@ -1872,7 +1872,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
-    <value>Mailbird schließen.</value>
+    <value>Das Programm schließen.</value>
     <comment>Close Mailbird application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
@@ -1900,7 +1900,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>AVAILABLE GMAIL SHORTCUTS</comment>
   </data>
   <data name="Shortcut_GmailExplanation" xml:space="preserve">
-    <value>Du kannst die folgenden Gmail-Tastenkürzel in den Mailbird-Einstellungen aktivieren.</value>
+    <value>Du kannst die folgenden GMail-Tastenkürzel in den Mailbird Einstellungen aktivieren.</value>
     <comment>Enable the following GMail shortcuts below from the Mailbird Options window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
@@ -1908,11 +1908,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show keyboard shortcuts help</comment>
   </data>
   <data name="Shortcut_HelpExplanation" xml:space="preserve">
-    <value>Das Tastenkürzelmenü immer anzeigen, wenn das Mailbird-Fenster sichtbar ist.</value>
+    <value>Das Tastenkürzel-Menü immer anzeigen, wenn das Mailbird-Fenster sichtbar ist.</value>
     <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
   </data>
   <data name="Shortcut_ImportantExplanation" xml:space="preserve">
-    <value>Es hilft Gmail zu lernen, welche Nachrichten wichtig für dich sind, indem du falsch eingestufte Nachrichten markierst. (Bezieht sich auf den Prioritäts-Posteingang)</value>
+    <value>Es hilft GMail zu lernen, welche Nachrichten wichtig für dich sind, indem du falsch eingestufte Nachrichten markierst. (Bezieht sich auf den Prioritäts-Posteingang)</value>
     <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_MoreAction" xml:space="preserve">
@@ -1952,7 +1952,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
-    <value>Es hilft Gmail zu lernen, welche Nachrichten nicht wichtig für dich sind, indem du falsch eingestufte Nachrichten markierst. (Bezieht sich auf den Prioritäts-Posteingang)</value>
+    <value>Es hilft GMail zu lernen, welche Nachrichten nicht wichtig für dich sind, indem du falsch eingestufte Nachrichten markierst. (Bezieht sich auf den Prioritäts-Posteingang)</value>
     <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_Open" xml:space="preserve">
@@ -2169,11 +2169,11 @@ https://support.google.com/accounts/answer/185833</comment>
     <comment>Connections:</comment>
   </data>
   <data name="Welcome_DetectingSettingsSubTitle" xml:space="preserve">
-    <value>Bitte warte, während wir nach Server-Einstellungen suchen.</value>
+    <value>Bitte warte, während wir nach Server Einstellungen suchen.</value>
     <comment>Please wait while we search for server settings.</comment>
   </data>
   <data name="Welcome_DetectingSettingsTitle" xml:space="preserve">
-    <value>Einstellungen werden erkannt...</value>
+    <value>Einstellungen werden gesucht...</value>
     <comment>Detecting settings..</comment>
   </data>
   <data name="Welcome_EditAccountTitle" xml:space="preserve">
@@ -2321,11 +2321,11 @@ Path: {0}</comment>
     <comment>Bullet</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpelling" xml:space="preserve">
-    <value>Rechtschreibung prüfen</value>
+    <value>Rechtschreibprüfung</value>
     <comment>Check spelling</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpellingAsYouType" xml:space="preserve">
-    <value>Rechtschreibung während dem Schreiben prüfen</value>
+    <value>Rechtschreibprüfung während des Schreibens anwenden</value>
     <comment>Check spelling as you type</comment>
   </data>
   <data name="MailEditorFormattingBar_DecreaseSize" xml:space="preserve">
@@ -2341,7 +2341,7 @@ Path: {0}</comment>
     <comment>Font</comment>
   </data>
   <data name="MailEditorFormattingBar_FontBackground" xml:space="preserve">
-    <value>Schrift Hintergrund</value>
+    <value>Schrifthintergrund</value>
     <comment>Font Background</comment>
   </data>
   <data name="MailEditorFormattingBar_FontColor" xml:space="preserve">
@@ -2433,7 +2433,7 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>Die Standardidentität für diesen Account wenn eine neue Nachricht verfasst wird.</value>
+    <value>Die Standardidentität für dieses Konto wenn eine neue Nachricht verfasst wird.</value>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
@@ -2449,9 +2449,9 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Möchten sie auch das Verzeichnis, in dem Mailbird enthalten ist,  inklusive der Einstellungen und aller lokal gespeicherten Nachrichten löschen?
+    <value>Möchtest du auch das Verzeichnis in welchem Mailbird enthalten ist inklusive der Einstellungen und aller lokal gespeicherten Nachrichten löschen?
 
-Sollten Sie Mailbird erneut installieren wollen, wählen sie "Nein" um nicht alles neu einrichten zu müssen.</value>
+Solltest du Mailbird erneut installieren wollen wähle "Nein", um nicht alles neu einrichten zu müssen.</value>
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
@@ -2495,7 +2495,7 @@ Sollten Sie Mailbird erneut installieren wollen, wählen sie "Nein" um nicht all
     <comment>Please enter your last name</comment>
   </data>
   <data name="AccountValidationRule_EmptyProxyUsername" xml:space="preserve">
-    <value>Bitte igb den Benutzernamen des Proxy-Servers ein</value>
+    <value>Bitte gib den Benutzernamen des Proxy-Servers ein</value>
     <comment>Please enter your proxy username</comment>
   </data>
   <data name="Dialog_DiskWriteError" xml:space="preserve">
@@ -2527,7 +2527,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Vielen Dank, dass du deine Freunde zu Mailbird eingeladen hast! Ein paar Emails wurden allerdings schon eingeladen, also ist es Zeit andere einzuladen, um deine Mailbird Pro Belohnungen freizuschalten.
+    <value>Vielen Dank, dass du deine Freunde zu Mailbird eingeladen hast! Einige E-Mails wurden allerdings schon eingeladen, also ist es Zeit andere einzuladen, um deine Mailbird Pro Belohnungen freizuschalten.
 
 Bereits eingeladene Emails: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
@@ -2535,12 +2535,12 @@ Bereits eingeladene Emails: {0}</value>
 Emails already invited: {0}</comment>
   </data>
   <data name="Invite_EmailSuggestions" xml:space="preserve">
-    <value>Geben Sie die E-Mail Adresse oder den Namen eines Freundes ein</value>
+    <value>Trage die E-Mail Adresse oder den Namen eines Freundes ein</value>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Laden Sie Ihre Freunde zu Mailbird ein! Als Dankeschön geben wir Ihnen [bold] 1 Mailbird Pro Lifetime kostenlos  [/bold] 2, wenn mindestens {0} Ihrer Freunde die Einladung annehmen und Mailbird installieren. 
-Sie können so viele Freunde einladen wie Sie!</value>
+    <value>Lade deine Freunde zu Mailbird ein! Als Dankeschön geben wir dir [bold] eine Mailbird Pro Lifetime kostenlos  [/bold], wenn mindestens {0} oder mehr deiner Freunde die Einladung annehmen und Mailbird installieren. 
+Du kannst so viele Freunde einladen wie du möchtest!</value>
     <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
@@ -2577,12 +2577,12 @@ Message: {0}</comment>
     <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Danke für das Einladen!</value>
+    <value>Danke für die Einladung!</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>[bold] 1 Laden Sie Ihre Freunde ein [/bold] 2
-und erhalten sie als Dankeschön Mailbird Lifetime kostenlos!</value>
+    <value>[bold] 1 Lade deine Freunde ein [/bold] 2
+und erhalte als Dankeschön eine lebenslange Mailbird Lizenz kostenlos!</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -2634,7 +2634,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Cannot create account</comment>
   </data>
   <data name="Welcome_UnableCreateAccountExplanation" xml:space="preserve">
-    <value>Ein Konto mit derselben E-Mail-Adresse gibt es bereits.</value>
+    <value>Ein Konto mit derselben E-Mail Adresse gibt es bereits.</value>
     <comment>An account with the same email address already exists.</comment>
   </data>
   <data name="FolderIdentity_More" xml:space="preserve">
@@ -2778,7 +2778,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Show avatars and contact info</comment>
   </data>
   <data name="Message_SpeedRead" xml:space="preserve">
-    <value>Speed Reader starten</value>
+    <value>Diese Nachricht mit Speed Reader lesen</value>
     <comment>Speed read this email</comment>
   </data>
   <data name="SpeedRead_CurrentSpeed" xml:space="preserve">
@@ -2846,11 +2846,11 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Möchten Sie "{0}" wirklich löschen?</value>
+    <value>Möchtest du wirklich "{0}" löschen?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
-    <value>Es existiert bereits ein Ordner mit diesem Namen in diesem Postfach.</value>
+    <value>Es existiert bereits ein Ordner mit dem selben Namen in diesem Postfach.</value>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
@@ -2866,7 +2866,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Do you really want to send this message without a subject?</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorMessage" xml:space="preserve">
-    <value>Dies tritt häufig auf, wenn mehrere E-Mail-Clients Nachrichten gleichzeitig oder zu häufig abrufen.</value>
+    <value>Dies tritt häufig auf, wenn mehrere E-Mail Programme Nachrichten zeitgleich oder zu häufig abrufen.</value>
     <comment>This is typically caused by another email client checking for messages at the same time, or checking for messages too often.</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorTitle" xml:space="preserve">
@@ -2894,7 +2894,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Group messages into conversations</comment>
   </data>
   <data name="Dialog_RestartRequiredMessage" xml:space="preserve">
-    <value>Um die Änderungen anzuwenden, muss Mailbird neu gestartet werden. Soll Mailbird jetzt neu gestartet werden?</value>
+    <value>Um die Änderungen anzuwenden, muss Mailbird neu gestartet werden. Soll Mailbird jetzt neu starten?</value>
     <comment>Mailbird needs to be restarted for the changes to take effect. Would you like to restart now?</comment>
   </data>
   <data name="Dialog_RestartRequiredTitle" xml:space="preserve">
@@ -3141,7 +3141,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
-    <value>Gmail</value>
+    <value>GMail</value>
     <comment>Gmail</comment>
   </data>
   <data name="App_Contacts_Import_Import" xml:space="preserve">
@@ -3525,7 +3525,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Du musst einen Email-Account hinzufügen, um Mailbird zu benutzen. Bist du sicher, dass du abbrechen möchtest?</value>
+    <value>Du musst ein E-Mail Konto hinzufügen, um Mailbird zu benutzen. Bist du sicher, dass du abbrechen möchtest?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
@@ -3633,7 +3633,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Tomorrow</comment>
   </data>
   <data name="Snooze_Type_TomorrowEve" xml:space="preserve">
-    <value>Morgen abend</value>
+    <value>Morgen Abend</value>
     <comment>Tomorrow evening</comment>
   </data>
   <data name="Snooze_Type_ThisWeekend" xml:space="preserve">
@@ -3841,29 +3841,29 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Gefällt Ihnen Mailbird?
-Helfen Sie uns es zu verbessern und laden Sie Ihre Freunde heute noch zu Mailbird ein.</value>
+    <value>Gefällt dir Mailbird?
+Hilf uns es zu verbessern und lade deine Freunde heute noch zu Mailbird ein.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="Invite_TitleBlockLifetime" xml:space="preserve">
-    <value>Erwählen Sie Ihren Freunden von Mailbird um gemeinsam zu wachsen!</value>
+    <value>Erzähle deinen Freunden von Mailbird, damit wir gemeinsam wachsen können!</value>
     <comment>Tell your friends so we can grow together!</comment>
   </data>
   <data name="UnifiedAccount_SelectorDisplayName" xml:space="preserve">
-    <value>Zusammengeführter Account</value>
+    <value>Globales Konto</value>
     <comment>Unified Account</comment>
   </data>
   <data name="Options_EnableUnifiedAccount" xml:space="preserve">
-    <value>Aktiviere den Unified Account</value>
+    <value>Aktiviere das Globale Konto</value>
     <comment>Enable unified account</comment>
   </data>
   <data name="Welcome_UnifyLabel" xml:space="preserve">
-    <value>Unified Account</value>
+    <value>Globales Konto</value>
     <comment>Unify</comment>
   </data>
   <data name="Welcome_UnifySetting" xml:space="preserve">
-    <value>Zu dem Unified Account hinzufügen</value>
+    <value>Zum Globalen Konto hinzufügen</value>
     <comment>Include in unified account</comment>
   </data>
   <data name="Options_AlwaysExpandSwitcherTooltip" xml:space="preserve">
@@ -3883,9 +3883,9 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Wenn du mehrere Accounts zu Mailbird hinzufügst, wird oben in der Kontenliste ein neuer „Unified Account erscheinen, der alle Nachrichten aus allen Accounts anzeigt. Du kannst ganz normal mit den Mails arbeiten wie in den Einzelansichten.
+    <value>Wenn du mehrere Konten zu Mailbird hinzufügst, wird oben in der Kontenliste ein neues „Globales Konto" erscheinen, das sämtliche Nachrichten aus allen Konten anzeigt. Du kannst ganz normal mit den Mails arbeiten wie in den Einzelansichten.
 
-Du kannst diesen Account in den Optionen deaktivieren oder jeden Account bearbeiten um zu entscheiden, ob er darin auftauchen soll oder nicht.</value>
+Du kannst dieses Konto in den Einstellungen deaktivieren oder jedes Konto einzeln bearbeiten um zu entscheiden, ob es darin erscheinen soll oder nicht.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</comment>
@@ -3895,7 +3895,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Select on startup</comment>
   </data>
   <data name="Options_SelectUnifiedAccountOnStartupTooltip" xml:space="preserve">
-    <value>Startet Mailbird mit dem Unified Account als Auswahl.</value>
+    <value>Startet Mailbird mit dem Globalen Konto als Auswahl.</value>
     <comment>Starts Mailbird with the unified account selected.</comment>
   </data>
   <data name="Notification_UnifiedAccountReleasedHeader" xml:space="preserve">
@@ -3903,7 +3903,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>New Feature: Unified Inbox Plus</comment>
   </data>
   <data name="Tutorial_AccountList" xml:space="preserve">
-    <value>Account-Liste</value>
+    <value>Konten-Liste</value>
     <comment>Account list</comment>
   </data>
   <data name="Tutorial_AppList" xml:space="preserve">
@@ -3943,11 +3943,11 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>3 of 3</comment>
   </data>
   <data name="Tutorial_CurrentAccount" xml:space="preserve">
-    <value>Aktueller Account</value>
+    <value>Aktuelles Konto</value>
     <comment>Current account</comment>
   </data>
   <data name="Tutorial_ExplanationStep1" xml:space="preserve">
-    <value>Auf der linken Seite ist die Navigation. Du kannst sie nutzen, um zwischen deinen Accounts, Ordnern und Apps zu wechseln.</value>
+    <value>Auf der linken Seite ist die Navigation. Du kannst sie nutzen, um zwischen deinen Konten, Ordnern und Apps zu wechseln.</value>
     <comment>On the left is your navigation pane. You can use it to switch between accounts, folders and apps.</comment>
   </data>
   <data name="Tutorial_ExplanationStep2" xml:space="preserve">
@@ -3979,7 +3979,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Gravatar</comment>
   </data>
   <data name="Tutorial_Heading" xml:space="preserve">
-    <value>Werde vertraut mit Mailbird</value>
+    <value>Mache dich vertraut mit Mailbird</value>
     <comment>Become familiar with Mailbird</comment>
   </data>
   <data name="Tutorial_MainMenu" xml:space="preserve">
@@ -4007,7 +4007,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Trash</comment>
   </data>
   <data name="Tutorial_UnifiedAccount" xml:space="preserve">
-    <value>Unified Account</value>
+    <value>Globales Konto</value>
     <comment>Unifed account</comment>
   </data>
   <data name="Conversation_AutoLayout" xml:space="preserve">
@@ -4063,7 +4063,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</comment>
   </data>
   <data name="App_Wunderlist_Description" xml:space="preserve">
-    <value>Deine wunderschöne und simple 
+    <value>Deine wunderschöne und unkomplizierte 
 Online-To-Do-Liste.</value>
     <comment>Your beautiful and simple online to-do list App.</comment>
   </data>
@@ -4084,7 +4084,7 @@ Online-To-Do-Liste.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>Deine BESTE Email-, Kommunikations- &amp; Produktivitätsanwendung, erstellt für Windows via @mailbird</value>
+    <value>Deine BESTE E-Mail-, Kommunikations- &amp; Produktivitätsanwendung, erstellt für Windows via @mailbird</value>
     <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
@@ -4092,10 +4092,10 @@ Online-To-Do-Liste.</value>
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Bitte konfiguriere Dein Konto so, dass die OAuth 2.0 Authentifizierung anstatt Benutzername mit Passwort benutzt wird. Oder erlaube den Zugriff für weniger sichere Apps in GMail.
+    <value>Bitte konfiguriere Dein Konto so, dass OAuth 2.0 Authentifizierung anstatt des Benutzernamens und Passwort benutzt wird. Oder erlaube den Zugriff für weniger sichere Apps in Gmail.
 https://mailbird.zendesk.com/entries/53544244
 
-Wenn das Problem weiterhin besteht folge dieser Anleitung zur Fehlerbehebung:
+Wenn das Problem weiterhin besteht folge dieser Vorgehensweise zur Fehlerbehebung:
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
@@ -4108,7 +4108,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
-    <value>Authentifizierung mit dem Proxyserver fehlgeschlagen. Bitte stelle sicher, dass die Proxyeinstellungen richtig in den Mailbird Optionen eingegeben wurden.</value>
+    <value>Authentifizierung mit dem Proxyserver ist fehlgeschlagen. Bitte stelle sicher, dass die Proxyeinstellungen richtig in den Mailbird Einstellungen eingetragen wurden.</value>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
@@ -4116,7 +4116,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
-    <value>Öffnet das "Link einfügen"-Fenster, während du eine Email schreibst oder deine Signatur bearbeitest.</value>
+    <value>Öffnet das "Link einfügen"-Fenster während du eine Email schreibst oder deine Signatur bearbeitest.</value>
     <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
@@ -4138,7 +4138,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
     <value>Mailbird hat erkannt, dass eine oder mehrere Dateien aus dem Installationsverzeichnis korrupt sind oder fehlen und wird nun versuchen, den Fehler zu beheben.
 
-Sollte dies fehlschlagen, bitte deinstalliere Mailbird und installiere es erneut um das Problem zu beheben. Alle deine Einstellungen, Emails etc. werden beibehalten, so lange du nicht das Verzeichnis, in dem Mailbird gespeichert ist, löscht, wenn dich der Uninstaller danach fragt.</value>
+Sollte dies fehlschlagen, deinstalliere Mailbird bitte und installiere es erneut, um das Problem zu beheben. Alle deine Einstellungen, E-Mails etc. werden beibehalten, so lange du nicht das Verzeichnis, in dem Mailbird gespeichert ist, löschst, wenn dich der Uninstaller danach fragt.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -4160,7 +4160,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Coupon</comment>
   </data>
   <data name="UpdateToPro_UsdMonth" xml:space="preserve">
-    <value>USD / Monat</value>
+    <value>EUR / Monat</value>
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
@@ -4176,55 +4176,55 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
-    <value>Get Mailbird Pro 100% Free, Forever</value>
+    <value>Erhalte Mailbird Pro 100% kostenlos, für immer</value>
     <comment>Get Mailbird Pro 100% Free, Forever</comment>
   </data>
   <data name="Welcome_SkipToInbox" xml:space="preserve">
-    <value>Skip to inbox</value>
+    <value>Wechsle zu Eingängen</value>
     <comment>Skip to inbox</comment>
   </data>
   <data name="Invite_Loading" xml:space="preserve">
-    <value>Loading your top contacts..</value>
+    <value>Lade deine Top-Kontakte..</value>
     <comment>Loading your top contacts..</comment>
   </data>
   <data name="Welcome_InviteSend" xml:space="preserve">
-    <value>Send Invites</value>
+    <value>Sende Einladungen</value>
     <comment>Send Invites</comment>
   </data>
   <data name="App_DefaultFatalError" xml:space="preserve">
-    <value>An error occured in the app. Please restart Mailbird and try again.
+    <value>In der Anwendung trat ein Fehler auf. Bitte starte Mailbird noch einmal und versuche es erneut.
 
-If you continue to experience this error, please contact support.</value>
+Sollte dieser Fehler weiterhin auftreten, nimm bitte Kontakt zum Support auf.</value>
     <comment>An error occured in the app. Please restart Mailbird and try again.
 
 If you continue to experience this error, please contact support.</comment>
   </data>
   <data name="App_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Laden...</value>
     <comment>Loading...</comment>
   </data>
   <data name="RateRecommend_TwitterMessage" xml:space="preserve">
-    <value>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</value>
+    <value>Süchtig werden nach #InboxZero with @mailbird. Ich liebe diesen wunderbaren E-Mail Client für #Windows http://getmailbird.com/</value>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
-    <value>Add new recipients to contacts app</value>
+    <value>Einen neuen Empfänger zu den Kontakten hizufügen</value>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Pin Mailbird to start menu</value>
+    <value>Mailbird ans Startmenü heften</value>
     <comment>Pin Mailbird to start menu</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Create shortcut on desktop</value>
+    <value>Desktop Verknüpfung anlegen</value>
     <comment>Create shortcut on desktop</comment>
   </data>
   <data name="InstallationForm_InstallationCompleted" xml:space="preserve">
-    <value>Installation complete</value>
+    <value>Installation abgeschlossen</value>
     <comment>Installation complete</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Pin Mailbird to taskbar</value>
+    <value>Mailbird in die Taskleiste einfügen</value>
     <comment>Pin Mailbird to taskbar</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
@@ -4236,9 +4236,9 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Start Mailbird</comment>
   </data>
   <data name="Notification_Gmail_WebLoginRequired" xml:space="preserve">
-    <value>Google is requesting you login via the web interface.
+    <value>Google erwartet eine Anmeldung über das Web-Interface.
 
-Please follow this link to further troubleshoot the issue:
+Bei zukünftigen Problemen wende dich bitte hierhin:
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Google is requesting you login via the web interface.
 
@@ -4246,34 +4246,34 @@ Please follow this link to further troubleshoot the issue:
 https://support.google.com/mail/accounts/answer/78754</comment>
   </data>
   <data name="Options_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importieren</value>
     <comment>Import</comment>
   </data>
   <data name="Notification_LostDraftHeader" xml:space="preserve">
-    <value>An error occurred with your draft</value>
+    <value>Bei deinem Entwurf trat ein Fehler auf</value>
     <comment>An error occurred with your draft</comment>
   </data>
   <data name="Notification_LostDraftMessage" xml:space="preserve">
-    <value>An error occurred with your draft and your latest saved version has been restored.
+    <value>Bei deinem Entwurf trat ein Fehler auf, daher wurde die zuletzt gesicherte Version wieder hergestellt.
 
-If you are seeing this error frequently, please contact Mailbird support.</value>
+Sollte dieser Fehler häufiger auftreten, kontaktiere bitte den Mailbird Support.</value>
     <comment>An error occurred with your draft and your latest saved version has been restored.
 
 If you are seeing this error frequently, please contact Mailbird support.</comment>
   </data>
   <data name="Notification_OpenDraft" xml:space="preserve">
-    <value>Go to draft</value>
+    <value>Entwürfe aufrufen</value>
     <comment>Go to draft</comment>
   </data>
   <data name="LostDraft_ContactSupport" xml:space="preserve">
-    <value>contact Mailbird support</value>
+    <value>Mailbird Support kontaktieren</value>
     <comment>contact Mailbird support</comment>
   </data>
   <data name="LostDraft_Explanation" xml:space="preserve">
-    <value>Something went wrong while trying to display your draft. To continue, please [btn_1]
+    <value>Beim Aufruf deines Entwurfs trat ein Fehler auf. Um fortzufahren bitte [btn_1]
 
 
-If you are seeing this error frequently, please [btn_2]</value>
+Sollte dieser Fehler häufiger auftreten, bitte [btn_2]</value>
     <comment>Note:
 The final text will look like this,
 Something went wrong while trying to display your draft. To continue, please reload it
@@ -4287,252 +4287,252 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Uh Oh!</comment>
   </data>
   <data name="LostDraft_Reload" xml:space="preserve">
-    <value>reload it</value>
+    <value>neu laden</value>
     <comment>reload the draft</comment>
   </data>
   <data name="Options_BackgroundPattern" xml:space="preserve">
-    <value>Choose background/pattern</value>
+    <value>Wähle einen Hintergrund</value>
     <comment>Choose background/pattern</comment>
   </data>
   <data name="Import_NoAccounts" xml:space="preserve">
-    <value>No accounts</value>
+    <value>Keine Konten</value>
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Invite friends - earn Pro</value>
+    <value>Freunde einladen - PRO Version erhalten</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
-    <value>No Account Selected</value>
+    <value>Kein Konto ausgewählt</value>
     <comment>No Account Selected</comment>
   </data>
   <data name="Dialog_NoAccountExplanation" xml:space="preserve">
-    <value>Please select at least 1 account to import.</value>
+    <value>Bitte wähle mindestens 1 Konto zum Importieren.</value>
     <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
-    <value>Or import from another email client.</value>
+    <value>Oder importiere aus einem anderen E-Mail Programm.</value>
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
     <value>Importiere [bold]{0}[/bold].
-Bitte füllen Sie die fehlenden Informationen aus.
-Konto {1} of {2}.</value>
+Bitte ergänze die fehlenden Informationen.
+Konto {1} von {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
 Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
-    <value>Select the accounts you want to import to Mailbird.
-To prevent errors, please close the email client you'll import from before continuing.</value>
+    <value>Wähle die Konten, die du in Mailbird importieren möchtest.
+Um Probleme zu vermeiden, beende zunächst den E-Mail Client aus dem du importieren willst, bevor du fortfährst.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
   <data name="Welcome_ImportTitle" xml:space="preserve">
-    <value>Import existing accounts</value>
+    <value>Importiere bestehende Konten</value>
     <comment>Import existing accounts</comment>
   </data>
   <data name="Welcome_SkipAccount" xml:space="preserve">
-    <value>Skip this account</value>
+    <value>Dieses Konto überspringen</value>
     <comment>Skip this account</comment>
   </data>
   <data name="Welcome_CancelImportData" xml:space="preserve">
-    <value>Cancel import</value>
+    <value>Import abbrechen</value>
     <comment>Cancel import</comment>
   </data>
   <data name="Welcome_CancelImportDataExplanation" xml:space="preserve">
-    <value>Are you sure you want to cancel import? Any data not imported will be unavailable in Mailbird.</value>
+    <value>Möchtest du den Import wirklich abbrechen? Nicht importierte Daten stehen in Mailbird dann nicht zur Verfügung.</value>
     <comment>Are you sure you want to cancel import? Any data not imported will be unavailable in Mailbird.</comment>
   </data>
   <data name="Welcome_CancelImportDataTitle" xml:space="preserve">
-    <value>Cancel import?</value>
+    <value>Import abbrechen?</value>
     <comment>Cancel import?</comment>
   </data>
   <data name="Welcome_ImportDataSubTitle" xml:space="preserve">
-    <value>Please wait while Mailbird imports the data for your account.</value>
+    <value>Bitte warte während Mailbird die Daten deines Kontos importiert.</value>
     <comment>Please wait while Mailbird imports the data for your account.</comment>
   </data>
   <data name="Welcome_ImportDataTitle" xml:space="preserve">
-    <value>Importing data</value>
+    <value>Importiere Daten</value>
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird will restart and remove account(s) that you've already added. 
-Are you sure you want to continue?</value>
+    <value>Mailbird startet neu und entfernt Konten, die du bereits hinzugefügt hast. 
+Möchtest du fortfahren?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
   </data>
   <data name="Welcome_CancelImportTitle" xml:space="preserve">
-    <value>Are you sure you want to cancel import?</value>
+    <value>Möchtest du den Import wirklich abbrechen?</value>
     <comment>Are you sure you want to cancel import?</comment>
   </data>
   <data name="Import_ImportMessage" xml:space="preserve">
-    <value>Import messages</value>
+    <value>Importiere Nachrichten</value>
     <comment>Import messages</comment>
   </data>
   <data name="Dialog_NoAccountPst" xml:space="preserve">
-    <value>No account or PST file selected</value>
+    <value>Kein Konto oder PST Datei ausgewählt</value>
     <comment>No account or PST file selected</comment>
   </data>
   <data name="Dialog_NoAccountPstExplanation" xml:space="preserve">
-    <value>Please select at least 1 account or a PST file to import.</value>
+    <value>Bitte wähle mindestens 1 Konto oder eine PST Datei zum Importieren aus.</value>
     <comment>Please select at least 1 account or a PST file to import.</comment>
   </data>
   <data name="Dialog_PstLocationNotValid" xml:space="preserve">
-    <value>No file selected</value>
+    <value>Keine Datei ausgewählt</value>
     <comment>No file selected</comment>
   </data>
   <data name="Dialog_PstLocationNotValidExplanation" xml:space="preserve">
-    <value>Please select a file or folder.</value>
+    <value>Bitte wähle eine Datei oder ein Verzeichnis.</value>
     <comment>Please select a file or folder.</comment>
   </data>
   <data name="Import_Browse" xml:space="preserve">
-    <value>Browse</value>
+    <value>Durchsuche</value>
     <comment>Browse</comment>
   </data>
   <data name="Import_SelectFile" xml:space="preserve">
-    <value>Select file or folder to import from</value>
+    <value>Wähle eine Datei oder ein Verzeichnis zum Importieren</value>
     <comment>Select file or folder to import from</comment>
   </data>
   <data name="Welcome_ImportDataToExistingSubTitle" xml:space="preserve">
-    <value>Please wait while Mailbird imports the data for your account.
-Canceling will not remove already imported data.</value>
+    <value>Bitte warte, während Mailbird die Daten für dein Konto importiert.
+Abbrechen der Aktion löscht keine bereits importierten Daten.</value>
     <comment>Please wait while Mailbird imports the data for your account.
 Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
-    <value>Select the account or PST file to import from.
-To prevent errors, please close the email client you'll import from before continuing.</value>
+    <value>Wähle ein Konto oder eine PST Datei die importiert werden soll.
+Um Probleme zu vermeiden, beende zunächst den E-Mail Client aus dem du importieren willst, bevor du fortfährst.</value>
     <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
   <data name="Welcome_ImportToExistingTitle" xml:space="preserve">
-    <value>Import source</value>
+    <value>Import Quelle</value>
     <comment>Import source</comment>
   </data>
   <data name="Import_AccountData" xml:space="preserve">
-    <value>Importing account data</value>
+    <value>Importiere Daten des Kontos</value>
     <comment>Importing account data</comment>
   </data>
   <data name="Import_Cancelled" xml:space="preserve">
-    <value>Import cancelled</value>
+    <value>Import abgebrochen</value>
     <comment>Import cancelled</comment>
   </data>
   <data name="Import_Error_Client_Running" xml:space="preserve">
-    <value>{0} is running. Please close it an try again</value>
+    <value>{0} ist aktiv. Bitte beenden und erneut versuchen.</value>
     <comment>{0} is running. Please close it an try again</comment>
   </data>
   <data name="Import_Error_General" xml:space="preserve">
-    <value>There was an error while importing. Please contact Support</value>
+    <value>Während dem Importieren trat ein Fehler auf. Bitte kontaktiere den Support.</value>
     <comment>There was an error while importing. Please contact Support</comment>
   </data>
   <data name="Import_Error_Invalid_Pst" xml:space="preserve">
-    <value>{0} is not a valid .pst file</value>
+    <value>{0} ist keine gültige .pst Datei</value>
     <comment>{0} is not a valid pst file</comment>
   </data>
   <data name="Import_Error_Messages" xml:space="preserve">
-    <value>One or more messages could not be imported</value>
+    <value>Eine oder mehrere Nachrichten konnten nicht importiert werden</value>
     <comment>One or more messages could not be imported</comment>
   </data>
   <data name="Import_Finished" xml:space="preserve">
-    <value>Import finished</value>
+    <value>Import abgeschlossen</value>
     <comment>Import finished</comment>
   </data>
   <data name="Import_Initializing" xml:space="preserve">
-    <value>Initializing...</value>
+    <value>Initialisiere...</value>
     <comment>Initializing...</comment>
   </data>
   <data name="Import_Error_Data_NotFound" xml:space="preserve">
-    <value>Account Data does not exist. Cannot import</value>
+    <value>Daten des Kontos existieren nicht. Importieren nicht möglich.</value>
     <comment>Account Data does not exist. Cannot import</comment>
   </data>
   <data name="Dialog_ClientRunning_Message" xml:space="preserve">
-    <value>One or more selected clients are still running. Please close them and try again</value>
+    <value>Ein oder mehrere der ausgewählten Clients sind noch aktiv. Bitte beenden und erneut versuchen</value>
     <comment>One or more selected clients are still running. Please close them and try again</comment>
   </data>
   <data name="Dialog_ClientRunning_Title" xml:space="preserve">
-    <value>Selected client is running</value>
+    <value>Der gewählte Client ist noch aktiv</value>
     <comment>Selected client is running</comment>
   </data>
   <data name="Import_Error_FileFormatNotValid" xml:space="preserve">
-    <value>Mailbird cannot import from selected file</value>
+    <value>Mailbird kann von dieser Datei nichts importieren</value>
     <comment>Mailbird cannot import from selected file</comment>
   </data>
   <data name="Dialog_Error_DragOperationFailed" xml:space="preserve">
-    <value>The drag operation failed, please try again. If the error persists, please contact support.</value>
+    <value>Das Verschieben hat nicht funktioniert. Kontaktiere bitte den Support, falls dieser Fehler bestehen bleibt.</value>
     <comment>The drag operation failed, please try again. If the error persists, please contact support.</comment>
   </data>
   <data name="Dialog_Error_OperationFailed" xml:space="preserve">
-    <value>Operation failed</value>
+    <value>Ausführung fehlerhaft</value>
     <comment>Operation failed</comment>
   </data>
   <data name="Import_Folder_ImportedMessges" xml:space="preserve">
-    <value>Imported messages</value>
+    <value>Importierte Nachrichten</value>
     <comment>Imported messages</comment>
   </data>
   <data name="Import_FromExternalSource" xml:space="preserve">
-    <value>From external source</value>
+    <value>Von externer Quelle</value>
     <comment>From external source</comment>
   </data>
   <data name="Import_ImportingFromFile" xml:space="preserve">
-    <value>Importing from external source</value>
+    <value>Importiere von externer Quelle</value>
     <comment>Importing from file or folder</comment>
   </data>
   <data name="Import_EmlFile" xml:space="preserve">
-    <value>Eml files</value>
+    <value>Eml Dateien</value>
     <comment>Eml files</comment>
   </data>
   <data name="Import_EmlFolder" xml:space="preserve">
-    <value>Folder with eml files</value>
+    <value>Verzeichnis mit Eml Dateien</value>
     <comment>Folder with eml files</comment>
   </data>
   <data name="Import_MsfFile" xml:space="preserve">
-    <value>Msf file</value>
+    <value>Msf Datei</value>
     <comment>Msf file</comment>
   </data>
   <data name="Import_PstFile" xml:space="preserve">
-    <value>Pst file</value>
+    <value>Pst Datei</value>
     <comment>Pst file</comment>
   </data>
   <data name="Dialog_Back" xml:space="preserve">
-    <value>Back</value>
+    <value>Zurück</value>
     <comment>Back</comment>
   </data>
   <data name="Welcome_ImportSettingsFoundSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold]. Account {1} of {2}.</value>
+    <value>Importiere [bold]{0}[/bold]. Konto {1} von {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Account 1 of 4.</comment>
   </data>
   <data name="Notification_SendingMessage" xml:space="preserve">
-    <value>Sending message...</value>
+    <value>Sende Nachricht...</value>
     <comment>Sending message...</comment>
   </data>
   <data name="Options_Seconds" xml:space="preserve">
-    <value>{0} seconds</value>
+    <value>{0} Sekunden</value>
     <comment>{0} seconds</comment>
   </data>
   <data name="Options_Sending" xml:space="preserve">
-    <value>Sending</value>
+    <value>Senden</value>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>Undo send period</value>
+    <value>Sendezeitpunkt löschen</value>
     <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Deaktiviert</value>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>The time messages will be delayed when sending, giving you the option to undo.</value>
+    <value>Zeitangabe, um welche die Nachrichten beim Versenden verzögert werden, damit das Senden abgebrochen werden kann.</value>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</value>
+    <value>Ihre Auswahl überschreitet das Kontolimit der Lite-Version. Wenn Sie fortfahren, werden einige Konten beim nächsten Start von Mailbird nicht angezeigt. Bitte aktualisieren Sie auf die Pro-Version, um alle Ihre Konten anzuzeigen.</value>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>This account cannot be imported because it's already added to Mailbird</value>
+    <value>Dieses Konto kann nicht importiert werden, da es bereits zu Mailbird hinzugefügt wurde</value>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
 <data name="Welcome_SettingsFoundSubTitle_OAuth" xml:space="preserve">
@@ -4540,15 +4540,15 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</value>
+    <value>Die zu verwendende Art der Authentifikation. Google OAuth 2.0 funktioniert nur mit Google Konten.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
-    <value>Authentication</value>
+    <value>Authentifikation</value>
     <comment>Authentication</comment>
   </data>
   <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
-    <value>Username and password</value>
+    <value>Benutzername und Passwort</value>
     <comment>Username and password</comment>
   </data>
   <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
@@ -4556,35 +4556,35 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Google OAuth 2.0</comment>
   </data>
   <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
-    <value>Authorize access to {0}</value>
+    <value>Erlaube Zugriff auf {0}</value>
     <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Enter the password used to log in to {0}.</value>
+    <value>Gib das für die Anmeldung verwendete Passwort an {0}.</value>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
-    <value>An error occured authorizing Mailbird to access the email account.
+    <value>Beim Zugriff auf das Konto trat ein Fehler auf
 
-Please try again or switch to username and password authentication.</value>
+Bitte versuche es erneut oder schalte auf die Benutzername und Passwort Authentifizierung um.</value>
     <comment>An error occured authorizing Mailbird to access the email account.
 
 Please try again or switch to username and password authentication.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
-    <value>An unknown error occured during authorization.
+    <value>Während der Autorisation trat ein unbekannter Fehler auf .
 
-Please try again, or contact support if the issue persists.</value>
+Bitte versuche es erneut oder kontaktiere den Support wenn das Problem weiterhin besteht .</value>
     <comment>An unknown error occured during authorization.
 
 Please try again, or contact support if the issue persists.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationErrorTitle" xml:space="preserve">
-    <value>Error authorizing access</value>
+    <value>Fehler bei der Zugriffs Authorisation</value>
     <comment>Error authorizing access</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_AccountChanged" xml:space="preserve">
-    <value>The account used to authorize the access is incorrect.
+    <value>Das Konto, das für die Authorisation des Zugriffs verwendet wurde, ist nicht korrekt.
 
 Please try again and log in with the correct account before granting access.</value>
     <comment>The account used to authorize the access is incorrect.
@@ -4592,39 +4592,39 @@ Please try again and log in with the correct account before granting access.</va
 Please try again and log in with the correct account before granting access.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_AccountChangedTitle" xml:space="preserve">
-    <value>Incorrect account</value>
+    <value>Falsches Konto</value>
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Bitte überprüfe Deine Kontoeinstellungen um zu bestätigen, dass sie korrekt sind und dass Mailbird die Erlaubnis, hat auf Dein Email-Konto zuzugreifen.</value>
+    <value>Bitte überprüfe Deine Kontoeinstellungen um zu bestätigen dass sie korrekt sind und dass Mailbird die Erlaubnis hat auf Dein Email-Konto zuzugreifen.</value>
     <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
-    <value>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
+    <value>Die vorgesehenen Änderungen würden die derzeitige Mailbox verändern. Dies wird nicht unterstützt, da hierbei unerwartete Problemen auftreten können.
 
-To access another mailbox, please add it as a new account in Mailbird.</value>
+Um auf eine andere Mailbox zuzugreifen, erstelle diese bitte als neues Konto in Mailbird.</value>
     <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
 
 To access another mailbox, please add it as a new account in Mailbird.</comment>
   </data>
 <data name="Options_TestSound" xml:space="preserve">
-    <value>Test sound</value>
+    <value>Test Klang</value>
     <comment>Test sound</comment>
   </data>
   <data name="Options_CustomSound" xml:space="preserve">
-    <value>Custom...</value>
+    <value>Angepasst...</value>
     <comment>Custom...</comment>
   </data>
   <data name="Notification_OpenOptions" xml:space="preserve">
-    <value>Open options</value>
+    <value>Öffne Einstellungen</value>
     <comment>Open options</comment>
   </data>
   <data name="Notification_SoundFailedToPlay" xml:space="preserve">
-    <value>Failed to play new message sound</value>
+    <value>Probleme mit dem Klang für neue Nachrichten</value>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Bitte wähle aus den Optionen die korrekte Audiodatei.</value>
+    <value>Bitte wähle in den Einstellungen die korrekte Audiodatei.</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
@@ -4632,7 +4632,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Please select the correct audio file</comment>
   </data>
   <data name="Sound_Default" xml:space="preserve">
-    <value>Default (Chirp)</value>
+    <value>Standard (Chirp)</value>
     <comment>Default (Chirp)</comment>
   </data>
   <data name="Sound_Electronic" xml:space="preserve">
@@ -4640,11 +4640,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Electronic</comment>
   </data>
   <data name="Sound_None" xml:space="preserve">
-    <value>None</value>
+    <value>Kein</value>
     <comment>None</comment>
   </data>
 <data name="Invite_SendAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to send invitation to all of your contacts?</value>
+    <value>Möchtest du an alle deine Kontakte eine Einladung senden?</value>
     <comment>Are you sure you want to send invitation to all of your contacts?</comment>
   </data>
   <data name="Invite_SendAllTitle" xml:space="preserve">
@@ -4656,7 +4656,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
+    <value>Erhalte das unlimitierte Mailbird Pro kostenlos. Deine Kontakte erhalten eine Einladung für Mailbird.</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Quoted_TextHidden" xml:space="preserve">
@@ -4672,166 +4672,166 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>[Quoted text hidden]</comment>
   </data>
   <data name="Print_Attachments" xml:space="preserve">
-    <value>Attachments</value>
+    <value>Anhänge</value>
     <comment>Attachments</comment>
   </data>
   <data name="Print_Message" xml:space="preserve">
-    <value>Message {0} of {1}</value>
+    <value>Nachricht {0} von {1}</value>
     <comment>Will be converted to:
 Message 1 to 2</comment>
   </data>
   <data name="Print_PrintNow" xml:space="preserve">
-    <value>Print now</value>
+    <value>Jetzt ausdrucken</value>
     <comment>Print now</comment>
   </data>
   <data name="Notification_FailedToSetSound" xml:space="preserve">
-    <value>Failed to set new message sound</value>
+    <value>Der neue Sound kann nicht verwendet werden</value>
     <comment>Failed to set new message sound</comment>
   </data>
   <data name="Notification_FailedToSetSoundExplanation" xml:space="preserve">
-    <value>Please make sure the file is not being used by another program and try again.</value>
+    <value>Bitte stelle sicher, dass die Datei nicht von einem anderen Programm verwendet wird und versuche es erneut.</value>
     <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_FileSize" xml:space="preserve">
-    <value>The file is too large</value>
+    <value>Die Datei ist zu groß</value>
     <comment>The file is too large</comment>
   </data>
   <data name="Notification_FileSizeExplanation" xml:space="preserve">
-    <value>The maximum sound file size is {0}.
-Please choose another file.</value>
+    <value>Die maximale Größe für Sound-Dateien ist {0}.
+Bitte wähle eine andere Datei.</value>
     <comment>The maximum sound file size is {0}.
 Please choose another file.</comment>
   </data>
   <data name="Invite_LimitReached" xml:space="preserve">
-    <value>Too many recipients</value>
+    <value>Zu viele Empfänger</value>
     <comment>Too many recipients</comment>
   </data>
   <data name="Invite_LimitReachedExplanation" xml:space="preserve">
-    <value>The maximum number of recipients is {0}.
-Please remove some and try again.</value>
+    <value>Die maximale Anzahl an Empfängern beträgt {0}.
+Bitte lösche einige und versuche es erneut.</value>
     <comment>The maximum number of recipients is {0}.
 Please remove some and try again.</comment>
   </data>
   <data name="Options_ShowInboxZero" xml:space="preserve">
-    <value>Show Inbox Zero</value>
+    <value>Leere Inbox anzeigen</value>
     <comment>Show Inbox Zero</comment>
   </data>
   <data name="Options_ShowInboxZeroSharing" xml:space="preserve">
-    <value>Show share buttons</value>
+    <value>Teilen-Buttons anzeigen</value>
     <comment>Show share buttons</comment>
   </data>
   <data name="Timeline_ExpireMonths" xml:space="preserve">
-    <value>{0} months</value>
+    <value>{0} Monate</value>
     <comment>{0} months</comment>
   </data>
   <data name="Signature_SentFrom" xml:space="preserve">
-    <value>Sent from {0}</value>
+    <value>Gesendet von {0}</value>
     <comment>Sent from {0}
 {0} will be replaced by "Mailbird"</comment>
   </data>
   <data name="Ads_BuyNow" xml:space="preserve">
-    <value>Buy Now</value>
+    <value>Jetzt kaufen</value>
     <comment>Buy Now</comment>
   </data>
   <data name="Ads_GoPro" xml:space="preserve">
-    <value>Go Pro and Boost Your Productivity</value>
+    <value>Hol dir Pro und steigere deine Produktivität</value>
     <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
-    <value>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</value>
+    <value>Erhalte Mailbird Pro mit weiteren tollen und produktiven Eigenschaften, wie bspw.  Snooze, Schnellansicht, unlimitierte Konten und mehr.</value>
     <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
   </data>
   <data name="Ads_Invite" xml:space="preserve">
-    <value>Invite Friends</value>
+    <value>Lade Freunde ein</value>
     <comment>Invite Friends</comment>
   </data>
   <data name="Ads_Refer" xml:space="preserve">
-    <value>Enjoy Mailbird Pro without needing to pay</value>
+    <value>Erlebe Mailbird Pro ohne etwas zu bezahlen</value>
     <comment>Enjoy Mailbird Pro without needing to pay</comment>
   </data>
   <data name="Ads_ReferExplanation" xml:space="preserve">
-    <value>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</value>
+    <value>Lade Freunde ein und erhalte für jeden teilnehmenden Freund 1 Monat Mailbird Pro kostenlos. Ohne Einschränkung.</value>
     <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
-    <value>More than 1 account</value>
+    <value>Mehr als 1 Konto</value>
     <comment>More than 1 account</comment>
   </data>
   <data name="Print_Loading" xml:space="preserve">
-    <value>Preparing content and loading images...</value>
+    <value>Inhalt vorbereiten und Bilder laden...</value>
     <comment>Preparing content and loading images...</comment>
   </data>
   <data name="Print_NotLoaded" xml:space="preserve">
-    <value>[Content not loaded]</value>
+    <value>[Inhalt nicht geladen]</value>
     <comment>[Content not loaded]</comment>
   </data>
   <data name="License_NonPurchaseValidUntil" xml:space="preserve">
-    <value>Your license is valid until {0}.</value>
+    <value>Deine Lizenz gilt bis {0}.</value>
     <comment>Your license is valid until {0}.</comment>
   </data>
   <data name="Options_SubscriptionStatus" xml:space="preserve">
-    <value>View subscription details</value>
+    <value>Abonnement Details anzeigen</value>
     <comment>View subscription details</comment>
   </data>
   <data name="Options_AutoCollapseBlockquote" xml:space="preserve">
-    <value>Collapse message by default when replying</value>
+    <value>Nachricht beim Beantworten einklappen</value>
     <comment>Collapse message by default when replying</comment>
   </data>
   <data name="Invite_NoInvitee" xml:space="preserve">
-    <value>You haven't invited any contacts</value>
+    <value>Du hast keine Kontakte eingeladen</value>
     <comment>You haven't invited any contacts</comment>
   </data>
   <data name="Error_DownloadingMessagePop3" xml:space="preserve">
-    <value>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</value>
+    <value>Der Quelltext der Nachricht konnte nicht geladen werden. Wahrscheinlich existiert die Nachricht nicht mehr auf dem Server.</value>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 <data name="Options_RestartNow" xml:space="preserve">
-    <value>Restart now</value>
+    <value>Jetzt neustarten</value>
     <comment>Restart now</comment>
   </data>
   <data name="Awesomium_GoogleSearch" xml:space="preserve">
-    <value>Search Google for "{0}"</value>
+    <value>Suche in Google nach "{0}"</value>
     <comment>PS: leave the {0},
 the final result will be: Search Google for "query"</comment>
   </data>
   <data name="FolderControl_Search" xml:space="preserve">
-    <value>Search folders</value>
+    <value>Verzeichnisse durchsuchen</value>
     <comment>Search folders</comment>
   </data>
   <data name="Shortcut_SearchFolders" xml:space="preserve">
-    <value>Search Folders</value>
+    <value>Verzeichnisse durchsuchen</value>
     <comment>Search Folders</comment>
   </data>
   <data name="Shortcut_SearchFoldersExplanation" xml:space="preserve">
-    <value>Puts your cursor in the search folders box.</value>
+    <value>Platziert den Cursor automatisch im Suchfeld.</value>
     <comment>Puts your cursor in the search folders box.</comment>
   </data>
   <data name="Invite_AcceptedProgress" xml:space="preserve">
-    <value>Nice! [bold]{0} of {1}[/bold] invitations accepted!</value>
+    <value>Toll! [bold]{0} von {1}[/bold] Einladungen akzeptiert!</value>
     <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
   </data>
   <data name="Invite_SeeAll" xml:space="preserve">
-    <value>See all</value>
+    <value>Alles zeigen</value>
     <comment>See all</comment>
   </data>
   <data name="Message_CloseSpeedRead" xml:space="preserve">
-    <value>Back to normal reading</value>
+    <value>Zurück zur normalen Ansicht</value>
     <comment>Back to normal reading</comment>
   </data>
   <data name="Shortcut_SpeedRead" xml:space="preserve">
-    <value>Speed read</value>
+    <value>Speed Read</value>
     <comment>Speed read</comment>
   </data>
   <data name="Shortcut_SpeedReadExplanation" xml:space="preserve">
-    <value>Read the selected email more quickly in speed read mode</value>
+    <value>Lies die gewählte Nachricht effektiver im Speed-Read Modus</value>
     <comment>Read the selected email more quickly in speed read mode</comment>
   </data>
   <data name="SpeedRead_Finish" xml:space="preserve">
-    <value>Finish</value>
+    <value>Fertig</value>
     <comment>Finish</comment>
   </data>
   <data name="WebControl_Print" xml:space="preserve">
-    <value>Print...</value>
+    <value>Drucken...</value>
     <comment>Print...</comment>
   </data>
 <data name="WebControl_OpenLink" xml:space="preserve">
@@ -4839,15 +4839,15 @@ the final result will be: Search Google for "query"</comment>
     <comment>Open link</comment>
   </data>
   <data name="WelcomeMessage_Afternoon" xml:space="preserve">
-    <value>Good afternoon, {0}</value>
+    <value>Guten Tag , {0}</value>
     <comment>Good afternoon, {0}</comment>
   </data>
   <data name="WelcomeMessage_Morning" xml:space="preserve">
-    <value>Good morning, {0}</value>
+    <value>Guten Morgen, {0}</value>
     <comment>Good morning, {0}</comment>
   </data>
   <data name="WelcomeMessage_Night" xml:space="preserve">
-    <value>Good evening, {0}</value>
+    <value>Guten Abend, {0}</value>
     <comment>Good evening, {0}</comment>
   </data>
   <data name="Options_Interface" xml:space="preserve">
@@ -4855,117 +4855,117 @@ the final result will be: Search Google for "query"</comment>
     <comment>Interface</comment>
   </data>
   <data name="Options_ShowWelcomeMessage" xml:space="preserve">
-    <value>Show welcome message</value>
+    <value>Begrüßung anzeigen</value>
     <comment>Show welcome message</comment>
   </data>
 <data name="Notification_FailedToLoadBackground" xml:space="preserve">
-    <value>Failed to load background image</value>
+    <value>Konnte Hintergrundbild nicht laden</value>
     <comment>Failed to load background image</comment>
   </data>
   <data name="Notification_FailedToSetBackground" xml:space="preserve">
-    <value>Failed to set background image</value>
+    <value>Konnte Hintergrundbild nicht einrichten</value>
     <comment>Failed to set background image</comment>
   </data>
   <data name="Notification_FailedToSetBackgroundExplanation" xml:space="preserve">
-    <value>Please make sure the file is not being used by another program and try again.</value>
+    <value>Bitte stelle sicher, dass die Datei nicht von einem anderen Programm verwendet wird und versuche es erneut.</value>
     <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_ImageFileSizeExplanation" xml:space="preserve">
-    <value>The maximum image file size is {0}.
-Please choose another file.</value>
+    <value>Die maximale Größe für Bilder ist {0}.
+Bitte wähle eine andere Datei.</value>
     <comment>The maximum image file size is {0}.
 Please choose another file.</comment>
   </data>
   <data name="Options_Background" xml:space="preserve">
-    <value>Background</value>
+    <value>Hintergrund</value>
     <comment>Background</comment>
   </data>
   <data name="Upgrade_CustomCover" xml:space="preserve">
-    <value>Upgrade now to enable custom covers.</value>
+    <value>Durch ein Upgrade kannst du eigene Cover verwenden.</value>
     <comment>Upgrade now to enable custom covers.</comment>
   </data>
   <data name="Tips_Failed" xml:space="preserve">
-    <value>Tip failed to load, please check your internet connection.</value>
+    <value>Tipps konnten nicht geladen werden, bitte überprüfe die Internetverbindung.</value>
     <comment>Tip failed to load, please check your internet connection.</comment>
   </data>
   <data name="Tips_ViewInBrowser" xml:space="preserve">
-    <value>View tip in browser</value>
+    <value>Tipps im Browser anzeigen</value>
     <comment>View tip in browser</comment>
   </data>
   <data name="Menu_Trial2" xml:space="preserve">
-    <value>Activate pro trial</value>
+    <value>Aktiviere die PRO-Testphase</value>
     <comment>Activate pro trial</comment>
   </data>
   <data name="Trial_EndTitle2" xml:space="preserve">
-    <value>Your Pro Trial Has Ended</value>
+    <value>Deine PRO-Testphase ist zu Ende</value>
     <comment>Your Pro Trial Has Ended</comment>
   </data>
   <data name="Trial_StartText2" xml:space="preserve">
-    <value>For the next few days, you will get unlimited access to all Mailbird Pro features. 
-Once your trial is over your account will revert to the Lite (free) version.</value>
+    <value>Die kommenden Tage hast du unbegrenzten Zugriff aus alle Mailbird Pro Eigenschaften. 
+Sobald die Testphase zu Ende ist, wird dein Konto umgestellt auf die Lite (kostenlosen) Version.</value>
     <comment>For the next few days, you will get unlimited access to all Mailbird Pro features. 
 Once your trial is over your account will revert to the Lite (free) version.</comment>
   </data>
   <data name="Trial_StartTitle2" xml:space="preserve">
-    <value>Your Free Pro Trial Starts Now</value>
+    <value>Deine kostenlose PRO-Testphase startet ab jetzt.</value>
     <comment>Your Free Pro Trial Starts Now</comment>
   </data>
 <data name="Notification_ErrorLoadingBackgroundExplanation" xml:space="preserve">
-    <value>An error occured loading the background image.
-Please select another image to use as a background.</value>
+    <value>Ein Fehler ist aufgetreten, während das Hintergrundbild geladen wurde.
+Bitte verwende ein anderes Hintergrundbild.</value>
     <comment>An error occured loading the background image.
 Please select another image to use as a background.</comment>
   </data>
   <data name="Notification_FailedToRemoveBackground" xml:space="preserve">
-    <value>Failed to set remove background image</value>
+    <value>Ausblenden des Hintergrundbildes misslungen</value>
     <comment>Failed to set remove background image</comment>
   </data>
   <data name="Options_RemoveBackground" xml:space="preserve">
-    <value>Remove</value>
+    <value>Ausblenden</value>
     <comment>Remove</comment>
   </data>
   <data name="Options_RetrieveLicense" xml:space="preserve">
-    <value>Retrieve License Key</value>
+    <value>Lizenz-Schlüssel anfordern</value>
     <comment>Retrieve License Key</comment>
   </data>
   <data name="App_Chrome_Description" xml:space="preserve">
-    <value>Navigate the web from Mailbird.</value>
+    <value>Navigiere durch das Internet mit Mailbird.</value>
     <comment>Navigate the web from Mailbird.</comment>
   </data>
   <data name="Trial_AlreadyHaveLicense" xml:space="preserve">
-    <value>I already have a license key</value>
+    <value>I habe bereits einen Lizenz-Schlüssel</value>
     <comment>I already have a license key</comment>
   </data>
 <data name="UpgradeToPro_Popular" xml:space="preserve">
-    <value>POPULAR</value>
+    <value>BELIEBT</value>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Upgrade now to Mailbird PRO</value>
+    <value>Upgrade jetzt auf Mailbird PRO</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
-    <value>Dark theme</value>
+    <value>Dunkles Layout</value>
     <comment>Dark theme</comment>
   </data>
   <data name="Theme_Light" xml:space="preserve">
-    <value>Light theme</value>
+    <value>Helles Layout</value>
     <comment>Light theme</comment>
   </data>
 <data name="Dialog_UninstallNoButton" xml:space="preserve">
-    <value>Remove local data</value>
+    <value>Lokale Daten löschen</value>
     <comment>Remove local data</comment>
   </data>
   <data name="Dialog_UninstallYesButton" xml:space="preserve">
-    <value>Keep local data</value>
+    <value>Lokale Daten behalten</value>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</value>
+    <value>Lade deine Freunde ein - es ist ganz einfach. Sobald {0} oder mehr auf deine Einladung hin Mailbird installieren, erhälst du Mailbird Pro Lifetime [bold] KOSTENLOS [/bold].</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Pro Lifetime FREE</value>
+    <value>Erhalte Mailbird Pro lebenslang GRATIS</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="Invite_SendFrom" xml:space="preserve">
@@ -5081,7 +5081,7 @@ Are you sure you want to close the window?</comment>
     <comment>Set Mailbird as the default email client</comment>
   </data>
 <data name="Menu_Settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Einstellungen</value>
     <comment>Settings</comment>
   </data>
   <data name="NotificationCenter_Notifications" xml:space="preserve">
