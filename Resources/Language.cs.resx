@@ -1020,7 +1020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Prosím připojte se k Facebooku v Možnostech pro získání více informací o tomto kontaktu.</value>
+    <value>Prosím připojte se k Facebooku v Nastavení pro získání více informací o tomto kontaktu.</value>
     <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
@@ -1276,11 +1276,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Shortcuts</comment>
   </data>
   <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Suggest improvements</value>
+    <value>Odeslat zpětnou vazbu</value>
     <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Mailbird support</value>
+    <value>Získat podporu</value>
     <comment>Mailbird support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
@@ -1868,11 +1868,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
-    <value>Exit</value>
+    <value>Ukončit</value>
     <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
-    <value>Close Mailbird application.</value>
+    <value>Zavřít Mailbird aplikaci.</value>
     <comment>Close Mailbird application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
@@ -1900,7 +1900,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>AVAILABLE GMAIL SHORTCUTS</comment>
   </data>
   <data name="Shortcut_GmailExplanation" xml:space="preserve">
-    <value>Enable the following GMail shortcuts below from the Mailbird Options window.</value>
+    <value>Zapnout ikonu sledování GMailu v okně Možnosti.</value>
     <comment>Enable the following GMail shortcuts below from the Mailbird Options window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
@@ -2452,9 +2452,9 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Would you like to also remove the Mailbird storage directory, including the settings and local message database?
+    <value>Přejete si odstranit uložiště Mailbirdu, včetně nastavení, uložiště vzkazů a kontaktů?
 
-If you intend to reinstall Mailbird, say no to keep from setting up everything again.</value>
+Pokud máte v úmyslu přeinstalovat Mailbird, uchovejte data, aby jste nezačínali od znova.</value>
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
@@ -2780,7 +2780,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Show avatars and contact info</comment>
   </data>
   <data name="Message_SpeedRead" xml:space="preserve">
-    <value>Speed read this email</value>
+    <value>Rychlost čtení tohoto emailu</value>
     <comment>Speed read this email</comment>
   </data>
   <data name="SpeedRead_CurrentSpeed" xml:space="preserve">
@@ -3527,7 +3527,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>You must add an email account to start using Mailbird. Are you sure you want to cancel?</value>
+    <value>Musíte přidat emailový účet, aby jste mohli začít používat Mailbird.
+Jste si jistý, že si přejete zrušit?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
@@ -3884,9 +3885,9 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
+    <value>Přidáte-li více účtů do Mailbirdu, nový "sjednocený" účet je zobrazen v horní části seznamu účtů v navigační liště. Toto obsahuje všechny zprávy ze systémových složek všech účtů na jednom místě, a vy s nimi můžete pracovat stejně, jako s normálními.
 
-You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</value>
+Můžete zakázat jednotný účet v nastavení , nebo upravte jednotlivé účty a rozhodněte se, které v něm budou zahrnuty.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</comment>
@@ -4108,7 +4109,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
-    <value>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</value>
+    <value>Přihlášení k proxy serveru selhalo. Prosím překontrolujte nastavení proxy v Možnostoech Mailbirdu.</value>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
@@ -4299,7 +4300,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Pozvat přátelé - získat Pro</value>
+    <value>Pozvěte přátelé - získat Pro verzi zdarma</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -4962,7 +4963,7 @@ Please select another image to use as a background.</comment>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Pro Lifetime FREE</value>
+    <value>Získejte Mailbird Pro doživotně zdarma</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="Invite_SendFrom" xml:space="preserve">
