@@ -134,7 +134,7 @@
     <comment>Save as...</comment>
   </data>
   <data name="Attachment_SaveAll" xml:space="preserve">
-    <value>Minden mentése másként...</value>
+    <value>Mind mentése másként...</value>
     <comment>Save all as...</comment>
   </data>
   <data name="Awesomium_Copy" xml:space="preserve">
@@ -234,7 +234,7 @@
     <comment>Copy to...</comment>
   </data>
   <data name="Options_SettingsMoreInfo" xml:space="preserve">
-    <value>Amint megváltozik a dpi beállítás, a Mailbird automatikusan hozzáállítja magát. Viszont, ha manuálisan kerül változtatásra, ez a beállítás megőrzésre kerül. Az alapértelmezett érték 100%</value>
+    <value>A Mailbird ezt az értéket automatikusan beállítja minden alkalommal, amikor a dpi beállítás változik. Ha kézzel állítod be, a Mailbird megőrzi az értéket, amíg a dpi beállítás nem változik. Az alapértelmezett érték 100%</value>
     <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
@@ -1176,7 +1176,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>http://example.com/image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink1" xml:space="preserve">
-    <value>C:\felhasználó\képek\image.jpg</value>
+    <value>C:\felhasználók\képek\image.jpg</value>
     <comment>C:\users\picture\image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink2" xml:space="preserve">
@@ -1292,7 +1292,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Add attachment(s)</comment>
   </data>
   <data name="Message_AlwaysDisplayFrom" xml:space="preserve">
-    <value>Mindig jelenítse meg</value>
+    <value>Mindig jelenítse meg innen:</value>
     <comment>Always display from</comment>
   </data>
   <data name="Message_Cancel" xml:space="preserve">
@@ -1308,7 +1308,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show details</comment>
   </data>
   <data name="Message_DisplayOnce" xml:space="preserve">
-    <value>Egy kijelző</value>
+    <value>Megjelenés egyszer</value>
     <comment>Display once</comment>
   </data>
   <data name="Message_DropAsAttachment" xml:space="preserve">
@@ -1400,7 +1400,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Elküldeni</value>
+    <value>Elküldve ekkor:</value>
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -1580,11 +1580,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Appearance</comment>
   </data>
   <data name="Options_GroupUnread" xml:space="preserve">
-    <value>Csoport olvasatlan beszélgetés tetején</value>
+    <value>Olvasatlan beszélgetések legfelül</value>
     <comment>Group unread conversations at the top</comment>
   </data>
   <data name="Options_HideIcon" xml:space="preserve">
-    <value>Tálcra rejtse el az ikont mikor minimalizálja</value>
+    <value>Tálca ikon elrejtése kis méretnél</value>
     <comment>Hide taskbar icon when minimized</comment>
   </data>
   <data name="Options_Identities" xml:space="preserve">
@@ -1620,7 +1620,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit signatures</comment>
   </data>
   <data name="Options_MessagePreview" xml:space="preserve">
-    <value>Üzenet megjelenítése előzetesek beszélgetés nézet</value>
+    <value>Beszélgetés nézetben mutasson részletet az üzenetből</value>
     <comment>Show message previews in conversation view</comment>
   </data>
   <data name="Options_NotDefault" xml:space="preserve">
@@ -1648,7 +1648,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Compose even when Mailbird is closed.</comment>
   </data>
   <data name="Options_QuitOnClose" xml:space="preserve">
-    <value>Mailbird gyors bezárása</value>
+    <value>A bezárásra kattintva lépjen ki a Mailbird-ből</value>
     <comment>Quit Mailbird on close</comment>
   </data>
   <data name="Options_RecordShortcut" xml:space="preserve">
@@ -1960,7 +1960,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Megnyitja a beszélgetést. Ugyanakkor kibővíti vagy összeomlik egy üzenetet, ha "Beszélgetési nézetben."</value>
+    <value>Megnyitja a beszélgetést. Ugyanakkor kibontja vagy összecsukja az üzenetet "Beszélgetés nézet"-ben.</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -2773,7 +2773,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove</comment>
   </data>
   <data name="Options_ShowAvatar" xml:space="preserve">
-    <value>Mutassa az avatar és a kapcsolat infót</value>
+    <value>Mutassa az avatarokat és a kapcsolat infót</value>
     <comment>Show avatars and contact info</comment>
   </data>
   <data name="Message_SpeedRead" xml:space="preserve">
@@ -2917,7 +2917,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Formatting</comment>
   </data>
   <data name="MarkAsRead_AfterDuration" xml:space="preserve">
-    <value>Miután {0} másodperc</value>
+    <value>{0} másodperc után</value>
     <comment>After {0} seconds</comment>
   </data>
   <data name="MarkAsRead_Immediately" xml:space="preserve">
@@ -3976,7 +3976,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Generic folder</comment>
   </data>
   <data name="Tutorial_Gravatar" xml:space="preserve">
-    <value>Központi kép</value>
+    <value>Gravatar</value>
     <comment>Gravatar</comment>
   </data>
   <data name="Tutorial_Heading" xml:space="preserve">
