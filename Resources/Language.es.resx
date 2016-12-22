@@ -1020,7 +1020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Por favor, conectarse a Facebook en Opciones para obtener más información acerca de este contacto.</value>
+    <value>Por favor, conéctese a Facebook en Configuración para obtener más información acerca de este contacto.</value>
     <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
@@ -1279,11 +1279,11 @@ Tu clave de licencia ha expirado. Por favor introduce otra clave de licencia o r
     <comment>Shortcuts</comment>
   </data>
   <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Sugerir mejoras</value>
+    <value>Envíenos comentarios y sugiera mejoras</value>
     <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Soporte Técnico de Mailbird</value>
+    <value>Obtener ayuda</value>
     <comment>Mailbird support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
@@ -1872,11 +1872,11 @@ Por configurar este atajo, podrás componer un correo aún cuando Mailbird está
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
-    <value>Salir</value>
+    <value>Salir de Mailbird</value>
     <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
-    <value>Cerrar la aplicación Mailbird.</value>
+    <value>Cerrar la aplicación.</value>
     <comment>Close Mailbird application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
@@ -1904,7 +1904,7 @@ Por configurar este atajo, podrás componer un correo aún cuando Mailbird está
     <comment>AVAILABLE GMAIL SHORTCUTS</comment>
   </data>
   <data name="Shortcut_GmailExplanation" xml:space="preserve">
-    <value>Activa los siguientes accesos directos de Gmail de bajo desde la ventana de Opciones de Mailbird.</value>
+    <value>Activa los accesos directos de Gmail desde la ventana de Configuración de Mailbird.</value>
     <comment>Enable the following GMail shortcuts below from the Mailbird Options window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
@@ -2454,9 +2454,9 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Tambien deseas eliminar el directorio de almacenamiento de Mailbird, incluyendo la configuración y la base de datos de mensajes local?
+    <value>¿Desea eliminar los datos locales de Mailbird, incluyendo configuraciones, mensajes y contactos?
 
-Si después deseas instalar Mailbird nuevamente, selecciona no para mantener dicha configuración otra vez.</value>
+Si tiene la intención de reinstalar Mailbird, mantenga los datos para evitar comenzar de nuevo.</value>
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
@@ -2782,7 +2782,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Show avatars and contact info</comment>
   </data>
   <data name="Message_SpeedRead" xml:space="preserve">
-    <value>Lee este email más rápido</value>
+    <value>Lectura rápida del mensaje</value>
     <comment>Speed read this email</comment>
   </data>
   <data name="SpeedRead_CurrentSpeed" xml:space="preserve">
@@ -3529,7 +3529,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Debes agregar una cuenta de correo electrónico para usar Mailbird. Está seguro de que desea cancelar?</value>
+    <value>Debe agregar una cuenta de correo electrónico para usar Mailbird. 
+
+Está seguro que desea cancelar?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
@@ -3886,9 +3888,9 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Cuando usted adiciona cuentas múltiples a Mailbird, una nueva cuenta "unificada" se muestra en la parte superior de las listas de cuenta en la barra de navegación. Ésta contiene todos los mensajes de su sistema de carpetas de todas las cuentas en un sólo lugar, y usted puede interactuar con ellas tal y como lo haría normalmente.
+    <value>Cuando agrega varias cuentas a Mailbird, se muestra la cuenta llamda "unificada" en la parte superior de la lista de cuentas en la barra de navegación. Ésta contiene todos los mensajes de todas las cuentas en un solo lugar, y puede interactuar con ellos como lo haría normalmente.
 
-Usted puede inhabilitar las opciones de la cuenta unificada, o editar cada una de sus cuentas para decidir cuál debería ser incluida.</value>
+Puede deshabilitar la cuenta "unificada" desde Configuración o editar cada una de sus cuentas para decidir qué debe incluirse en ella.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</comment>
@@ -4109,7 +4111,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
-    <value>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</value>
+    <value>Falló la autenticación con el servidor proxy. Asegúrese que la configuración del proxy sea correcta en la configuración de Mailbird.</value>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
@@ -4625,7 +4627,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Por favor seleccione el archivo de audio correcto desde "Opciones".</value>
+    <value>Por favor seleccione el archivo de audio correcto desde configuración.</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
@@ -4966,7 +4968,8 @@ Please select another image to use as a background.</comment>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Pro Lifetime FREE</value>
+    <value>Obtenga Mailbird Pro
+Por siempre Gratis</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="Invite_SendFrom" xml:space="preserve">
