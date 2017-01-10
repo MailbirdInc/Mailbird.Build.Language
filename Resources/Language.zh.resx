@@ -1872,7 +1872,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
-    <value>关闭Mailbird程序.</value>
+    <value>关闭程序.</value>
     <comment>Close Mailbird application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
@@ -4732,7 +4732,7 @@ Please remove some and try again.</comment>
     <comment>Buy Now</comment>
   </data>
   <data name="Ads_GoPro" xml:space="preserve">
-    <value>提升至 Pro 以促进生产力</value>
+    <value>升级至 Pro 以促进生产力</value>
     <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
@@ -4801,11 +4801,11 @@ the final result will be: Search Google for "query"</comment>
     <comment>Search Folders</comment>
   </data>
   <data name="Shortcut_SearchFoldersExplanation" xml:space="preserve">
-    <value>把光标放到搜索文件夹框内.</value>
+    <value>将光标定位至搜索文件夹框内.</value>
     <comment>Puts your cursor in the search folders box.</comment>
   </data>
   <data name="Invite_AcceptedProgress" xml:space="preserve">
-    <value>好棒! [bold]{0} 之 {1}[/bold] 的邀请已被接受!</value>
+    <value>太棒了! [bold]{0} 之 {1}[/bold] 的邀请已被接受!</value>
     <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
   </data>
   <data name="Invite_SeeAll" xml:space="preserve">
@@ -4879,7 +4879,7 @@ Please choose another file.</comment>
     <comment>Background</comment>
   </data>
   <data name="Upgrade_CustomCover" xml:space="preserve">
-    <value>现在升级以启用盖子定制.</value>
+    <value>现在升级以启用定制封面.</value>
     <comment>Upgrade now to enable custom covers.</comment>
   </data>
   <data name="Tips_Failed" xml:space="preserve">
@@ -4927,7 +4927,7 @@ Please select another image to use as a background.</comment>
     <comment>Retrieve License Key</comment>
   </data>
   <data name="App_Chrome_Description" xml:space="preserve">
-    <value>使用 Mailbird 做互联网导航.</value>
+    <value>在 Mailbird 中浏览互联网.</value>
     <comment>Navigate the web from Mailbird.</comment>
   </data>
   <data name="Trial_AlreadyHaveLicense" xml:space="preserve">
@@ -5007,7 +5007,7 @@ Please select another image to use as a background.</comment>
     <comment>Accepted</comment>
   </data>
   <data name="InviteV2_AcceptedProgress" xml:space="preserve">
-    <value>{0} of {1} invites accepted!</value>
+    <value>总数{1} 中的 {0} 个邀请已被接受！</value>
     <comment>{0} of {1} invites accepted!</comment>
   </data>
   <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
@@ -5088,9 +5088,9 @@ Are you sure you want to close the window?</comment>
     <comment>Notifications</comment>
   </data>
 <data name="Notification_GenericAuthenticationError1" xml:space="preserve">
-    <value>This is typically caused by invalid credentials or {0} being disabled on the server for your account.
+    <value>这是典型的服务器上你的账户因为无效证书或 {0} 被禁止导致的情况。
 
-Read more:
+查阅更多帮助信息：
 https://support.getmailbird.com/hc/en-us/articles/220108287</value>
     <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
 
@@ -5098,19 +5098,19 @@ Read more:
 https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
   </data>
   <data name="Dialog_SubjectChanged" xml:space="preserve">
-    <value>You changed the subject.
+    <value>你更改了标题。
 
-Would you like to group this message into a new conversation?</value>
+你是否希望聚合这些信息到一个新的会话中？</value>
     <comment>You changed the subject.
 
 Would you like to group this message into a new conversation?</comment>
   </data>
   <data name="Dialog_SubjectChanged_Title" xml:space="preserve">
-    <value>Create a new conversation?</value>
+    <value>创建一个新的会话？</value>
     <comment>Create a new conversation?</comment>
   </data>
   <data name="InviteV2_ShareSocial" xml:space="preserve">
-    <value>Share on social and get more invites</value>
+    <value>在社交网络上分享以及得到更多邀请人</value>
     <comment>Share on social and get more invites</comment>
   </data>
   <data name="ShareReferralLink_Link" xml:space="preserve">
@@ -5118,59 +5118,59 @@ Would you like to group this message into a new conversation?</comment>
     <comment>link</comment>
   </data>
   <data name="ShareReferralLink_Share" xml:space="preserve">
-    <value>Share</value>
+    <value>分享</value>
     <comment>Share</comment>
   </data>
   <data name="ShareReferralLink_Title" xml:space="preserve">
-    <value>Share Mailbird directly on Facebook or Twitter</value>
+    <value>在Mailbird中直接分享到Facebook或Twitter</value>
     <comment>Share Mailbird directly on Facebook or Twitter</comment>
   </data>
   <data name="ShareReferralLink_Tweet" xml:space="preserve">
-    <value>Tweet</value>
+    <value>发推</value>
     <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>Get 1 month of @mailbird Pro for free, download here: {0}</value>
+    <value>获取1个月 @mailbird Pro 免费试用，点击下载: {0}</value>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
-    <value>Add coupon</value>
+    <value>新增优惠券</value>
     <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Coupon code...</value>
+    <value>优惠券码...</value>
     <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Enter the coupon code below or skip this step.</value>
+    <value>在下方填写优惠码或跳过此步骤.</value>
     <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Have a referral coupon code?</value>
+    <value>我有一个推荐邀请码?</value>
     <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>You've already used this coupon code.</value>
+    <value>你已经使用过这个优惠码.</value>
     <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>Coupon is not valid.</value>
+    <value>优惠码无效.</value>
     <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Coupon code can only be used by new users.</value>
+    <value>优惠码只能由新用户使用.</value>
     <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
-    <value>You can't use your own code.</value>
+    <value>你不能使用自己的邀请码.</value>
     <comment>You can't use your own code.</comment>
   </data>
   <data name="Welcome_Coupon_SameComputer" xml:space="preserve">
-    <value>You can't use this code because it was generated from the same PC.</value>
+    <value>你不能使用这个邀请码，因为它是从同一台电脑中生成的.</value>
     <comment>You can't use this code because it was generated from the same PC.</comment>
   </data>
   <data name="Welcome_Subscribe" xml:space="preserve">
-    <value>Keep me updated</value>
+    <value>有消息马上通知我</value>
     <comment>Keep me updated</comment>
   </data>
 </root>
