@@ -226,7 +226,7 @@
     <comment>Folders</comment>
   </data>
   <data name="Conversation_CopyTo" xml:space="preserve">
-    <value>Kopie an</value>
+    <value>Kopieren nach</value>
     <comment>Copy to</comment>
   </data>
   <data name="Conversation_CopyTo2" xml:space="preserve">
@@ -262,7 +262,7 @@
     <comment>Mark as read</comment>
   </data>
   <data name="Conversation_MarkSpam" xml:space="preserve">
-    <value>Als Spam kennzeichnen</value>
+    <value>Als Spam markieren</value>
     <comment>Mark as spam</comment>
   </data>
   <data name="Conversation_MarkStarred" xml:space="preserve">
@@ -278,7 +278,7 @@
     <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
-    <value>Keine Nachrichten in diesem Ordner</value>
+    <value>Keine Themen in diesem Ordner</value>
     <comment>No conversations in this folder</comment>
   </data>
   <data name="Conversation_Print" xml:space="preserve">
@@ -322,7 +322,7 @@
     <comment>Already attached</comment>
   </data>
   <data name="Dialog_AlreadyAttachedExplanation" xml:space="preserve">
-    <value>Sie können keine Dateien anhängen, die bereits angehängt sind.</value>
+    <value>Sie können keine Datei hinzufügen, die bereits angehängt ist.</value>
     <comment>You can't add file that is already attached.</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloaded" xml:space="preserve">
@@ -3081,7 +3081,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>(no subject)</comment>
   </data>
   <data name="Awesomium_SendEmail" xml:space="preserve">
-    <value>Eine Nachricht schreiben …</value>
+    <value>Eine Nachricht verfassen …</value>
     </data>
   <data name="App_Contacts_All" xml:space="preserve">
     <value>Alle Kontakte</value>
@@ -4092,10 +4092,10 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Bitte konfiguriere Dein Konto so, dass anstelle des Benutzernamens und Passwortes, OAuth 2.0 Authentifizierung benutzt wird. Oder erlaube den Zugriff für weniger sichere Apps in Gmail.
+    <value>Bitte konfiguriere Sie Ihr Konto so, dass anstelle des Benutzernamens und Passwortes, OAuth 2.0 Authentifizierung verwendet wird. Oder erlauben Sie den Zugriff für weniger sichere Apps in Gmail.
 https://mailbird.zendesk.com/entries/53544244
 
-Wenn das Problem weiterhin besteht, klicke auf diesen Link für weitere Lösungsvorschläge:
+Wenn das Problem weiterhin besteht, klicken Sie auf diesen Link für weitere Lösungsvorschläge:
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
@@ -4184,7 +4184,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Skip to inbox</comment>
   </data>
   <data name="Invite_Loading" xml:space="preserve">
-    <value>Ihre häufig genutzten Kontakte laden …</value>
+    <value>Ihre häufig genutzten Kontakte werden geladen  …</value>
     <comment>Loading your top contacts..</comment>
   </data>
   <data name="Welcome_InviteSend" xml:space="preserve">
@@ -4516,7 +4516,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>Sendezeitpunkt widerrufen</value>
+    <value>Senden widerrufen</value>
     <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
@@ -4524,7 +4524,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Zeitangabe, um welche die Nachrichten beim Senden verzögert werden, um das Senden abbrechen zu können.</value>
+    <value>Zeitangabe, um welche das Senden von Nachrichten verzögert ausgeführt werden soll, um das Senden widerrufen zu können.</value>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
