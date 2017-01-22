@@ -166,7 +166,7 @@
     <comment>Cut</comment>
   </data>
   <data name="Awesomium_Ignore" xml:space="preserve">
-    <value>Mellőz</value>
+    <value>Figyelmen kívül hagyja a szöveget</value>
     <comment>Ignore word</comment>
   </data>
   <data name="Awesomium_Paste" xml:space="preserve">
@@ -302,7 +302,7 @@
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>részemre </value>
+    <value>nekem </value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -1176,7 +1176,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>http://example.com/image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink1" xml:space="preserve">
-    <value>C:\felhasználók\képek\image.jpg</value>
+    <value>C:\felhasználó\képek\image.jpg</value>
     <comment>C:\users\picture\image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink2" xml:space="preserve">
@@ -1188,7 +1188,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>http://example.com</comment>
   </data>
   <data name="LinkEditor_FromComputer" xml:space="preserve">
-    <value>számítógépről</value>
+    <value>Számítógépről</value>
     <comment>From Computer</comment>
   </data>
   <data name="LinkEditor_FromUrl" xml:space="preserve">
@@ -1400,7 +1400,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Elküldve ekkor</value>
+    <value>Küldte:</value>
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -5171,42 +5171,42 @@ Would you like to group this message into a new conversation?</comment>
     <comment>You can't use this code because it was generated from the same PC.</comment>
   </data>
   <data name="Welcome_Subscribe" xml:space="preserve">
-    <value>Notify me of awesome updates</value>
+    <value>Értesítés a fantasztikus frissítésekről</value>
     <comment>Keep me updated</comment>
   </data>
 <data name="Trial_Confirm_AlreadyHaveLicense" xml:space="preserve">
-    <value>I'm already using Mailbird Pro</value>
-  </data>
+    <value>Már használom a Mailbird Pro-t</value>
+    </data>
   <data name="Trial_Confirm_No" xml:space="preserve">
-    <value>No, thanks</value>
-  </data>
+    <value>Nem, köszönöm</value>
+    </data>
   <data name="Trial_Confirm_StartSubTitlePlural" xml:space="preserve">
-    <value>You get unlimited access to all those cool Mailbird Pro features above and more.
-After {0} days your account will switch back to Mailbird Lite.</value>
-  </data>
+    <value>Korlátlan hozzáférést kapsz mindazokhoz, akik friss Mailbird Pro-t fent jellemzik, és mégtöbbet.
+Ezután {0} nap és fiókja visszavált Mailbird Lite-ra.</value>
+    </data>
   <data name="Trial_Confirm_StartSubTitleSingular" xml:space="preserve">
-    <value>You get unlimited access to all those cool Mailbird Pro features above and more.
-After {0} day your account will switch back to Mailbird Lite.</value>
-  </data>
+    <value>Korlátlan hozzáférést kapsz mindazokhoz, akik friss Mailbird Pro-t fent jellemzik, és mégtöbbet.
+Ezután {0} nap és fiókja visszavált Mailbird Lite-ra.</value>
+    </data>
   <data name="Trial_Confirm_StartTitle" xml:space="preserve">
-    <value>Hi! You are awesome for choosing Mailbird :)
-Wondering if you'd like to try Mailbird Pro for free?</value>
-  </data>
+    <value>Üdvözlünk! Félelmetes, hogy ön a Mailbirdöt választotta :)
+Csodálkoznék, ha szeretné próbálni Mailbird Pro ingyen?</value>
+    </data>
   <data name="Trial_Confirm_Yes" xml:space="preserve">
-    <value>Yes, I want to try Mailbird Pro for free</value>
-  </data>
+    <value>Igen, szeretném kipróbálni a Mailbird Pro-t ingyen</value>
+    </data>
   <data name="DripSurvey_ChooseAnswer" xml:space="preserve">
-    <value>Choose your answer</value>
+    <value>Válasszon választ</value>
     <comment>Choose your answer
 NB: Watermark text when user hasn't choosen answer ye</comment>
   </data>
   <data name="DripSurvey_Header" xml:space="preserve">
-    <value>Help us improve</value>
+    <value>Segítsen javítani a</value>
     <comment>Help us improve
 NB: Header for survey dialog within app</comment>
   </data>
   <data name="DripSurvey_LearnMore" xml:space="preserve">
-    <value>Why am I seeing this?</value>
+    <value>Miért jelenik meg ez?</value>
     <comment>Why am I seeing this?
 NB: Text for button that will take user to browser containing more explanation</comment>
   </data>
@@ -5216,7 +5216,7 @@ NB: Text for button that will take user to browser containing more explanation</
 NB: Text for button to send the survey</comment>
   </data>
   <data name="DripSurvey_Skip" xml:space="preserve">
-    <value>Skip</value>
+    <value>Ugrás</value>
     <comment>Skip
 NB: Text for button to skip the survey</comment>
   </data>
