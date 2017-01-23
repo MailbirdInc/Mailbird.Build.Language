@@ -1868,7 +1868,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
-    <value>Wyjdź</value>
+    <value>Opuść Malbird</value>
     <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
@@ -2525,9 +2525,9 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
+    <value>Świetna robota z zaproszeniem znajomych do Malbird! Jest kilka e-maili, które zostały zaproszone, więc nadszedł czas, aby zaprosić innych  do odblokowania twojej nagrody w postaci Mailbird Pro.
 
-Emails already invited: {0}</value>
+E-maile już zaproszone: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
@@ -2537,7 +2537,7 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Invite your friends to try Mailbird &amp; get [bold]Mailbird Pro Lifetime for free [/bold] when {0} or more friends install it from your invites. Invite as many friends as you like!</value>
+    <value>Zaproś swoich znajomych do wypróbowania Mailbird &amp; uzyskaj [bold]Mailbird Pro dożywotnio za darmo [/bold] gdy {0} lub więcej znajomych zainstaluje Mailbird z twoich zaproszeń. Zaproś tak wielu znajomych jak chcesz!</value>
     <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
@@ -4077,11 +4077,11 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</value>
+    <value>Nie można dodać pliku '{0}' jako załącznika, ponieważ nie masz uprawnień dostępu do tego pliku, sprawdź swoje prawa użytkownika i spróbuj ponownie.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird</value>
+    <value>NAJLEPSZY klient e-mail i narzędzie do komunikacji stworzone dla Windowsa przez @mailbird</value>
     <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
@@ -4133,9 +4133,9 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Installation issue detected</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
-    <value>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
+    <value>Mailbird wykrył, że jeden lub więcej plików zostało uszkodzonych lub brakuje ich w katalogu instalacyjnym i będzie teraz próbował to naprawić.
 
-If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</value>
+Jeśli to się nie powiedzie, należy odinstalować i zainstalować Mailbird ponownie, aby rozwiązać problem. Wszystkie twoje ustawienia, e-maile itp. zostaną zachowane tak długo jak nie usuniesz katalogu, w którym są przechowywane, gdy zostaniesz zapytany oto przez deinstalatora.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -4169,7 +4169,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>No contacts found</comment>
   </data>
   <data name="Welcome_InviteDescription" xml:space="preserve">
-    <value>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
+    <value>Za każdego znajomego, który zainstaluje Mailbird na swoim komputerze, my damy ci Mailbird Pro na cały miesiąc! Nie ma limitu, więc zaproś tak wielu znajomych jak chcesz.</value>
     <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
@@ -4189,9 +4189,9 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Send Invites</comment>
   </data>
   <data name="App_DefaultFatalError" xml:space="preserve">
-    <value>An error occured in the app. Please restart Mailbird and try again.
+    <value>Wystąpił błąd w aplikacji. Proszę ponownie uruchomić Mailbird i spróbować ponownie.
 
-If you continue to experience this error, please contact support.</value>
+Jeśli błąd będzie występował nadal, proszę skontaktować się działem pomocy.</value>
     <comment>An error occured in the app. Please restart Mailbird and try again.
 
 If you continue to experience this error, please contact support.</comment>
@@ -4233,9 +4233,9 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Start Mailbird</comment>
   </data>
   <data name="Notification_Gmail_WebLoginRequired" xml:space="preserve">
-    <value>Google is requesting you login via the web interface.
+    <value>Google wymaga logowania za pomocą interfejsu WWW.
 
-Please follow this link to further troubleshoot the issue:
+Proszę użyć poniższego linku w celu dalszego rozwiązywania problemu:
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Google is requesting you login via the web interface.
 
@@ -4247,13 +4247,13 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Import</comment>
   </data>
   <data name="Notification_LostDraftHeader" xml:space="preserve">
-    <value>An error occurred with your draft</value>
+    <value>Wystąpił błąd z wersji roboczej</value>
     <comment>An error occurred with your draft</comment>
   </data>
   <data name="Notification_LostDraftMessage" xml:space="preserve">
-    <value>An error occurred with your draft and your latest saved version has been restored.
+    <value>Wystąpił błąd z wersji roboczej i przywrócona została najnowsza zapisana wersja.
 
-If you are seeing this error frequently, please contact Mailbird support.</value>
+Jeśli często widzisz ten błąd, skontaktuj się z działem pomocy Mailbird..</value>
     <comment>An error occurred with your draft and your latest saved version has been restored.
 
 If you are seeing this error frequently, please contact Mailbird support.</comment>
@@ -4267,10 +4267,10 @@ If you are seeing this error frequently, please contact Mailbird support.</comme
     <comment>contact Mailbird support</comment>
   </data>
   <data name="LostDraft_Explanation" xml:space="preserve">
-    <value>Something went wrong while trying to display your draft. To continue, please [btn_1]
+    <value>Coś poszło nie tak podczas próby wyświetlenia wersji roboczej. Aby kontynuować [btn_1]
 
 
-If you are seeing this error frequently, please [btn_2]</value>
+Jeśli często widzisz ten błąd, [btn_2]</value>
     <comment>Note:
 The final text will look like this,
 Something went wrong while trying to display your draft. To continue, please reload it
@@ -4319,13 +4319,13 @@ Importing johndoe@gmail.com. Please input your password and any other missing de
 Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
-    <value>Select the accounts you want to import to Mailbird.
-To prevent errors, please close the email client you'll import from before continuing.</value>
+    <value>Wybierz konta, które chcesz zaimportować do Mailbird.
+Aby uniknąć błędów, należy zamknąć program pocztowy przed kontynuowaniem.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
   <data name="Welcome_ImportTitle" xml:space="preserve">
-    <value>Import existing accounts</value>
+    <value>Importuj istniejące konta</value>
     <comment>Import existing accounts</comment>
   </data>
   <data name="Welcome_SkipAccount" xml:space="preserve">
@@ -4349,7 +4349,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Please wait while Mailbird imports the data for your account.</comment>
   </data>
   <data name="Welcome_ImportDataTitle" xml:space="preserve">
-    <value>Importing data</value>
+    <value>Importowanie danych</value>
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
@@ -5086,9 +5086,9 @@ Are you sure you want to close the window?</comment>
     <comment>Notifications</comment>
   </data>
 <data name="Notification_GenericAuthenticationError1" xml:space="preserve">
-    <value>This is typically caused by invalid credentials or {0} being disabled on the server for your account.
+    <value>Jest to zazwyczaj spowodowane nieprawidłowymi poświadczeniami lub {0} został wyłączony na serwerze dla twojego konta.
 
-Read more:
+Czytaj więcej:
 https://support.getmailbird.com/hc/en-us/articles/220108287</value>
     <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
 
