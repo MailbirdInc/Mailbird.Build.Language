@@ -824,7 +824,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
-    <value>Por favor introduza um endereço de ligação</value>
+    <value>Please enter a display text</value>
     <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
@@ -2934,10 +2934,6 @@ Please exit out of this window to check the credentials and try again.</comment>
     <value>Empresa</value>
     <comment>Company</comment>
   </data>
-  <data name="App_Contacts_FieldEmail" xml:space="preserve">
-    <value>Email</value>
-    <comment>Email</comment>
-  </data>
   <data name="App_Contacts_FieldFirstName" xml:space="preserve">
     <value>Primeiro nome</value>
     <comment>First name</comment>
@@ -2954,20 +2950,16 @@ Please exit out of this window to check the credentials and try again.</comment>
     <value>Alcunha</value>
     <comment>Nickname</comment>
   </data>
-  <data name="App_Contacts_FieldPhone" xml:space="preserve">
-    <value>Telefone</value>
-    <comment>Phone</comment>
-  </data>
   <data name="App_Contacts_FieldTitle" xml:space="preserve">
     <value>Título</value>
     <comment>Title</comment>
   </data>
   <data name="App_Contacts_FieldAddEmail" xml:space="preserve">
-    <value>Adicionar email</value>
+    <value>add email</value>
     <comment>Add email</comment>
   </data>
   <data name="App_Contacts_FieldAddPhone" xml:space="preserve">
-    <value>Adicionar telefone</value>
+    <value>add phone</value>
     <comment>Add phone</comment>
   </data>
   <data name="App_Contacts_Add" xml:space="preserve">
@@ -2999,7 +2991,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>{0} will be replaced by the name of company, so the result will be "Search for Microsoft Ltd"</comment>
   </data>
   <data name="App_Contacts_SendEmail" xml:space="preserve">
-    <value>Enviar email para {0}</value>
+    <value>Email {0}</value>
     <comment>{0} will be replaced by the email address, so the result will be "Send email to test@gmail.com"</comment>
   </data>
   <data name="App_Contacts_AddGroup_Cancel" xml:space="preserve">
@@ -3039,7 +3031,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Delete group?</comment>
   </data>
   <data name="Dialog_DeleteGroupExplanation" xml:space="preserve">
-    <value>Tem a certeza de que pretende apagar este grupo? Contactos pertencentes ao mesmo não serão apagados.</value>
+    <value>Are you sure you want to delete this group?</value>
     <comment>Are you sure you want to delete this group? Contacts belonging to it will not be deleted.</comment>
   </data>
   <data name="Contact_RemoveFromGroup" xml:space="preserve">
@@ -3092,10 +3084,6 @@ Please exit out of this window to check the credentials and try again.</comment>
   <data name="Invite_SelectAll" xml:space="preserve">
     <value>Seleccionar tudo</value>
     <comment>Select all</comment>
-  </data>
-  <data name="App_Contacts_Export" xml:space="preserve">
-    <value>Exportar contactos para vCard</value>
-    <comment>Export contacts to vCard</comment>
   </data>
   <data name="Dialog_DatabaseErrorMessage" xml:space="preserve">
     <value>Foi detectado um problema com a base de dados interna, provavelmente causado por um crash do Windows ou erro de funcionamento do disco rígido.
@@ -3154,7 +3142,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>{0} contacts imported.</comment>
   </data>
   <data name="App_Contacts_SendGroupEmail" xml:space="preserve">
-    <value>Enviar email para este grupo</value>
+    <value>Email this group</value>
     <comment>Send email to this group</comment>
   </data>
   <data name="App_Contacts_Groups" xml:space="preserve">
@@ -3305,10 +3293,6 @@ Here are a couple of links to help produce vCard files from various services:</c
     <value>Unir contactos seleccionados</value>
     <comment>Merge selected contacts</comment>
   </data>
-  <data name="App_Contacts_PhoneType_Home" xml:space="preserve">
-    <value>Casa</value>
-    <comment>Home</comment>
-  </data>
   <data name="App_Contacts_PhoneType_HomeFax" xml:space="preserve">
     <value>Fax de Casa</value>
     <comment>Home Fax</comment>
@@ -3321,17 +3305,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <value>Telemóvel</value>
     <comment>Mobile</comment>
   </data>
-  <data name="App_Contacts_PhoneType_Other" xml:space="preserve">
-    <value>Outro</value>
-    <comment>Other</comment>
-  </data>
   <data name="App_Contacts_PhoneType_Pager" xml:space="preserve">
     <value>Pager</value>
     <comment>Pager</comment>
-  </data>
-  <data name="App_Contacts_PhoneType_Work" xml:space="preserve">
-    <value>Trabalho</value>
-    <comment>Work</comment>
   </data>
   <data name="App_Contacts_PhoneType_WorkFax" xml:space="preserve">
     <value>Fax do Trabalho</value>
@@ -3370,7 +3346,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>People</comment>
   </data>
   <data name="App_Contacts_FieldAddNickname" xml:space="preserve">
-    <value>Adicionar alcunha</value>
+    <value>nickname</value>
     <comment>Add nickname</comment>
   </data>
   <data name="App_Contacts_FieldRemoveNickname" xml:space="preserve">
@@ -5009,7 +4985,7 @@ Gratuito Para Sempre</value>
     <comment>{0} of {1} invites accepted!</comment>
   </data>
   <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
-    <value>Gosta do Mailbird? Ajude-nos a crescer e a melhorar ao convidar hoje os seus amigos para o Mailbird.</value>
+    <value>You are already an email rockstar with Mailbird Pro Lifetime! When your friend installs Mailbird from your invite, you get 1 month of Mailbird Priority Support for FREE per successful install!</value>
     <comment>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="InviteV2_InviteFriends" xml:space="preserve">
@@ -5021,7 +4997,7 @@ Gratuito Para Sempre</value>
     <comment>Sent ({0})</comment>
   </data>
   <data name="InviteV2_TitleBlockLifetime" xml:space="preserve">
-    <value>Diga aos seus amigos para que possamos crescer juntos!</value>
+    <value>Invite your friends and get Priority Support</value>
     <comment>Tell your friends so we can grow together!</comment>
   </data>
   <data name="WebBrowser_Bookmark" xml:space="preserve">
@@ -5169,28 +5145,7 @@ Would you like to group this message into a new conversation?</comment>
     <value>Notificar-me de actualizações incríveis</value>
     <comment>Keep me updated</comment>
   </data>
-<data name="Trial_Confirm_AlreadyHaveLicense" xml:space="preserve">
-    <value>Já estou a usar o Mailbird Pro</value>
-    </data>
-  <data name="Trial_Confirm_No" xml:space="preserve">
-    <value>Não, obrigado</value>
-    </data>
-  <data name="Trial_Confirm_StartSubTitlePlural" xml:space="preserve">
-    <value>Obtém acesso ilimitado a todos os recursos incríveis do Mailbird Pro e versões posteriores e muito mais.
-Após {0} dias, a sua conta voltará para o Mailbird Lite.</value>
-    </data>
-  <data name="Trial_Confirm_StartSubTitleSingular" xml:space="preserve">
-    <value>Obtém acesso ilimitado a todos os recursos incríveis do Mailbird Pro e versões posteriores e muito mais.
-Após {0} dias, a sua conta voltará para o Mailbird Lite.</value>
-    </data>
-  <data name="Trial_Confirm_StartTitle" xml:space="preserve">
-    <value>É incrível por ter escolhido o Mailbird :)
-Podemos saber se gostaria de experimentar o Mailbird Pro gratuitamente?</value>
-    </data>
-  <data name="Trial_Confirm_Yes" xml:space="preserve">
-    <value>Sim, desejo testar o Mailbird Pro gratuitamente</value>
-    </data>
-  <data name="DripSurvey_ChooseAnswer" xml:space="preserve">
+<data name="DripSurvey_ChooseAnswer" xml:space="preserve">
     <value>Escolha a sua resposta</value>
     <comment>Choose your answer
 NB: Watermark text when user hasn't choosen answer ye</comment>
@@ -5214,5 +5169,617 @@ NB: Text for button to send the survey</comment>
     <value>Ignorar</value>
     <comment>Skip
 NB: Text for button to skip the survey</comment>
+  </data>
+<data name="App_Contacts_FieldType_Home" xml:space="preserve">
+    <value>Home</value>
+    <comment>Home</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Other" xml:space="preserve">
+    <value>Other</value>
+    <comment>Other</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Work" xml:space="preserve">
+    <value>Work</value>
+    <comment>Work</comment>
+  </data>
+  <data name="App_Contacts_PhoneType_GoogleVoice" xml:space="preserve">
+    <value>Google Voice</value>
+    <comment>Google Voice</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Anniversary" xml:space="preserve">
+    <value>Anniversary</value>
+    <comment>Anniversary</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Assistant" xml:space="preserve">
+    <value>Assistant</value>
+    <comment>Assistant</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Blog" xml:space="preserve">
+    <value>Blog</value>
+    <comment>Blog</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Brother" xml:space="preserve">
+    <value>Brother</value>
+    <comment>Brother</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Child" xml:space="preserve">
+    <value>Child</value>
+    <comment>Child</comment>
+  </data>
+  <data name="App_Contacts_FieldType_DomesticPartner" xml:space="preserve">
+    <value>Domestic partner</value>
+    <comment>Domestic partner</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Father" xml:space="preserve">
+    <value>Father</value>
+    <comment>Father</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Friend" xml:space="preserve">
+    <value>Friend</value>
+    <comment>Friend</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Manager" xml:space="preserve">
+    <value>Manager</value>
+    <comment>Manager</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Mother" xml:space="preserve">
+    <value>Mother</value>
+    <comment>Mother</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Parent" xml:space="preserve">
+    <value>Parent</value>
+    <comment>Parent</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Partner" xml:space="preserve">
+    <value>Partner</value>
+    <comment>Partner</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Profile" xml:space="preserve">
+    <value>Profile</value>
+    <comment>Profile</comment>
+  </data>
+  <data name="App_Contacts_FieldType_ReferredBy" xml:space="preserve">
+    <value>Referred by</value>
+    <comment>Referred by</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Relative" xml:space="preserve">
+    <value>Relative</value>
+    <comment>Relative</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Sister" xml:space="preserve">
+    <value>Sister</value>
+    <comment>Sister</comment>
+  </data>
+  <data name="App_Contacts_FieldType_Spouse" xml:space="preserve">
+    <value>Spouse</value>
+    <comment>Spouse</comment>
+  </data>
+  <data name="App_Contacts_AddGroup" xml:space="preserve">
+    <value>Add group</value>
+    <comment>Add group</comment>
+  </data>
+  <data name="App_Contacts_AllContacts" xml:space="preserve">
+    <value>All contacts</value>
+    <comment>All contacts</comment>
+  </data>
+  <data name="App_Contacts_Mailbird" xml:space="preserve">
+    <value>Mailbird (my computer)</value>
+    <comment>Mailbird (my computer)</comment>
+  </data>
+  <data name="App_Contacts_Search" xml:space="preserve">
+    <value>Search in {0}</value>
+    <comment>Search in {0}</comment>
+  </data>
+  <data name="App_Contacts_NoContacts" xml:space="preserve">
+    <value>There are no contacts in this group.
+
+To add a contact, click the "Add contact" button.</value>
+    <comment>Placeholder text when no contacts in selected group</comment>
+  </data>
+  <data name="App_Contacts_ContactsPlural" xml:space="preserve">
+    <value>{0} contacts</value>
+    <comment>{0} contacts</comment>
+  </data>
+  <data name="App_Contacts_ContactsSingular" xml:space="preserve">
+    <value>{0} contact</value>
+    <comment>{0} contact</comment>
+  </data>
+  <data name="App_Contacts_Edit" xml:space="preserve">
+    <value>Edit</value>
+    <comment>Edit</comment>
+  </data>
+  <data name="App_Contacts_DeleteGroup" xml:space="preserve">
+    <value>Delete group</value>
+    <comment>Delete group</comment>
+  </data>
+  <data name="App_Contacts_RenameGroup" xml:space="preserve">
+    <value>Rename group</value>
+    <comment>Rename group</comment>
+  </data>
+  <data name="App_Contacts_EditGroup_New" xml:space="preserve">
+    <value>New group</value>
+    <comment>New group</comment>
+  </data>
+  <data name="App_Contacts_EditGroup_Rename" xml:space="preserve">
+    <value>Rename group</value>
+    <comment>Rename group</comment>
+  </data>
+  <data name="Dialog_Create" xml:space="preserve">
+    <value>Create</value>
+    <comment>Create</comment>
+  </data>
+  <data name="App_Contacts_EditGroup_EnterName" xml:space="preserve">
+    <value>Enter group name</value>
+    <comment>Enter group name</comment>
+  </data>
+  <data name="App_Contacts_LinkedContacts" xml:space="preserve">
+    <value>Linked contacts</value>
+    <comment>Linked contacts</comment>
+  </data>
+  <data name="App_Contacts_LinkedContactsCountPlural" xml:space="preserve">
+    <value>({0} linked contacts)</value>
+    <comment>({0} linked contacts)</comment>
+  </data>
+  <data name="App_Contacts_LinkContact" xml:space="preserve">
+    <value>Link contact</value>
+    <comment>Link contact</comment>
+  </data>
+  <data name="App_Contacts_Unlink" xml:space="preserve">
+    <value>Unlink</value>
+    <comment>Unlink</comment>
+  </data>
+  <data name="App_Contacts_Unified" xml:space="preserve">
+    <value>Unified contact</value>
+    <comment>Unified contact</comment>
+  </data>
+  <data name="App_Contacts_Link" xml:space="preserve">
+    <value>Link</value>
+    <comment>Link</comment>
+  </data>
+  <data name="App_Contacts_LinkContact_Contacts" xml:space="preserve">
+    <value>Contacts</value>
+    <comment>Contacts</comment>
+  </data>
+  <data name="App_Contacts_LinkContact_EnterName" xml:space="preserve">
+    <value>Enter a name</value>
+    <comment>Enter a name</comment>
+  </data>
+  <data name="App_Contacts_Cancel" xml:space="preserve">
+    <value>Cancel</value>
+    <comment>Cancel</comment>
+  </data>
+  <data name="App_Contacts_Save" xml:space="preserve">
+    <value>Save</value>
+    <comment>Save</comment>
+  </data>
+  <data name="App_Contacts_FieldBirthday" xml:space="preserve">
+    <value>Birthday</value>
+    <comment>Birthday</comment>
+  </data>
+  <data name="App_Contacts_FieldJobTitle" xml:space="preserve">
+    <value>Job title</value>
+    <comment>Job title</comment>
+  </data>
+  <data name="App_Contacts_FieldAddAddress" xml:space="preserve">
+    <value>add address</value>
+    <comment>add address</comment>
+  </data>
+  <data name="App_Contacts_FieldAddBirthday" xml:space="preserve">
+    <value>add birthday</value>
+    <comment>add birthday</comment>
+  </data>
+  <data name="App_Contacts_FieldAddCompany" xml:space="preserve">
+    <value>add company</value>
+    <comment>add company</comment>
+  </data>
+  <data name="App_Contacts_FieldAddCustomField" xml:space="preserve">
+    <value>add custom field</value>
+    <comment>add custom field</comment>
+  </data>
+  <data name="App_Contacts_FieldAddDate" xml:space="preserve">
+    <value>add date</value>
+    <comment>add date</comment>
+  </data>
+  <data name="App_Contacts_FieldAddInstantMessenger" xml:space="preserve">
+    <value>add instant messenger</value>
+    <comment>add instant messenger</comment>
+  </data>
+  <data name="App_Contacts_FieldAddJobTitle" xml:space="preserve">
+    <value>add job title</value>
+    <comment>add job title</comment>
+  </data>
+  <data name="App_Contacts_FieldAddNotes" xml:space="preserve">
+    <value>add notes</value>
+    <comment>add notes</comment>
+  </data>
+  <data name="App_Contacts_FieldAddRelation" xml:space="preserve">
+    <value>add relation</value>
+    <comment>add relation</comment>
+  </data>
+  <data name="App_Contacts_FieldAddWebsite" xml:space="preserve">
+    <value>add website</value>
+    <comment>add website</comment>
+  </data>
+  <data name="App_Contacts_SingularFieldExplanation" xml:space="preserve">
+    <value>This will be displayed when viewing the contact</value>
+    <comment>This will be displayed when viewing the contact</comment>
+  </data>
+  <data name="App_Contacts_FieldCity" xml:space="preserve">
+    <value>City</value>
+    <comment>City</comment>
+  </data>
+  <data name="App_Contacts_FieldCountry" xml:space="preserve">
+    <value>Country</value>
+    <comment>Country</comment>
+  </data>
+  <data name="App_Contacts_FieldRegion" xml:space="preserve">
+    <value>Region</value>
+    <comment>Region</comment>
+  </data>
+  <data name="App_Contacts_FieldStreet" xml:space="preserve">
+    <value>Street</value>
+    <comment>Street</comment>
+  </data>
+  <data name="App_Contacts_FieldZipCode" xml:space="preserve">
+    <value>ZIP code</value>
+    <comment>ZIP code</comment>
+  </data>
+  <data name="App_Contacts_ConnectedAccounts_SubHeader" xml:space="preserve">
+    <value>Select accounts below to connect and sync their contacts with Mailbird, or click the button to connect to another account.</value>
+    <comment>Explanation in accounts window</comment>
+  </data>
+  <data name="App_Contacts_ConnectedAccounts_Title" xml:space="preserve">
+    <value>Accounts</value>
+    <comment>Title for "Accounts" window</comment>
+  </data>
+  <data name="App_Contacts_MenuAccounts" xml:space="preserve">
+    <value>Accounts</value>
+    <comment>Accounts</comment>
+  </data>
+  <data name="App_Contacts_MenuDisplayFirstLast" xml:space="preserve">
+    <value>Display by First, Last</value>
+    <comment>Display by First, Last</comment>
+  </data>
+  <data name="App_Contacts_MenuDisplayLastFirst" xml:space="preserve">
+    <value>Display by Last, First</value>
+    <comment>Display by Last, First</comment>
+  </data>
+  <data name="App_Contacts_MenuExport" xml:space="preserve">
+    <value>Export group contacts to vCards</value>
+    <comment>Export group contacts to vCards</comment>
+  </data>
+  <data name="App_Contacts_MenuSortAZ" xml:space="preserve">
+    <value>Sort by A to Z</value>
+    <comment>Sort by A to Z</comment>
+  </data>
+  <data name="App_Contacts_MenuSortZA" xml:space="preserve">
+    <value>Sort by Z to A</value>
+    <comment>Sort by Z to A</comment>
+  </data>
+  <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
+    <value>+ Connect other account</value>
+    <comment>+ Connect other account</comment>
+  </data>
+  <data name="App_Contacts_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
+    <value>Sorry, but this email account doesn't have support for contacts sync.</value>
+    <comment>Sorry, but this email account doesn't have support for contacts sync.</comment>
+  </data>
+  <data name="App_Contacts_EditAccount_SubHeader" xml:space="preserve">
+    <value>Choose one of the following icons to identify this account.</value>
+    <comment>Choose one of the following icons to identify this account.</comment>
+  </data>
+  <data name="App_Contacts_EditAccount_Title" xml:space="preserve">
+    <value>Edit account</value>
+    <comment>Edit account</comment>
+  </data>
+  <data name="App_Contacts_OtherGoogleAccount" xml:space="preserve">
+    <value>Other Google account...</value>
+    <comment>Other Google account...</comment>
+  </data>
+  <data name="App_Contacts_ConnectAccount_Unsupported" xml:space="preserve">
+    <value>(Unsupported)</value>
+    <comment>(Unsupported)</comment>
+  </data>
+  <data name="App_Contacts_AvatarAdd" xml:space="preserve">
+    <value>Add photo</value>
+    <comment>Add photo</comment>
+  </data>
+  <data name="App_Contacts_AvatarChange" xml:space="preserve">
+    <value>Change</value>
+    <comment>Change</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuAddRemoveGroups" xml:space="preserve">
+    <value>Groups...</value>
+    <comment>Groups...</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuExport" xml:space="preserve">
+    <value>Export vCard</value>
+    <comment>Export vCard</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuInvite" xml:space="preserve">
+    <value>Invite to Mailbird</value>
+    <comment>Invite to Mailbird</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuLinkContacts" xml:space="preserve">
+    <value>Link contacts</value>
+    <comment>Link contacts</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuLinkedin" xml:space="preserve">
+    <value>Look up on LinkedIn</value>
+    <comment>Look up on LinkedIn</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuNewEmail" xml:space="preserve">
+    <value>Compose email</value>
+    <comment>Compose email</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
+    <value>Mark as not starred</value>
+    <comment>Mark as not starred</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuStarred" xml:space="preserve">
+    <value>Mark as starred</value>
+    <comment>Mark as starred</comment>
+  </data>
+  <data name="App_Contacts_AddContact_Create" xml:space="preserve">
+    <value>Create</value>
+    <comment>Create</comment>
+  </data>
+  <data name="App_Contacts_AddContact_NewContact" xml:space="preserve">
+    <value>New contact</value>
+    <comment>New contact</comment>
+  </data>
+  <data name="App_Contacts_NoContactsFound" xml:space="preserve">
+    <value>No contacts found.</value>
+    <comment>No contacts found.</comment>
+  </data>
+  <data name="App_Contacts_NoGroupsFound" xml:space="preserve">
+    <value>No groups found.</value>
+    <comment>No groups found.</comment>
+  </data>
+  <data name="App_Contacts_Intro_1" xml:space="preserve">
+    <value>All your contacts together in one place.</value>
+    <comment>All your contacts together in one place.</comment>
+  </data>
+  <data name="App_Contacts_Intro_2" xml:space="preserve">
+    <value>You can now have your Google contacts synced in Mailbird, with more providers to come.</value>
+    <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
+  </data>
+  <data name="App_Contacts_Intro_3" xml:space="preserve">
+    <value>You can link contacts together to show their details in one place with just a click.</value>
+    <comment>You can link contacts together to show their details in one place with just a click.</comment>
+  </data>
+  <data name="App_Contacts_Intro_4" xml:space="preserve">
+    <value>Connect with your Google accounts now to sync them with Mailbird.</value>
+    <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
+  </data>
+  <data name="App_Contacts_Intro_Welcome" xml:space="preserve">
+    <value>Meet the Contacts</value>
+    <comment>Meet the Contacts</comment>
+  </data>
+  <data name="App_Contacts_FieldPhoto" xml:space="preserve">
+    <value>Photo</value>
+    <comment>Photo</comment>
+  </data>
+  <data name="App_Contacts_SearchGroup" xml:space="preserve">
+    <value>Search group</value>
+    <comment>Search group</comment>
+  </data>
+  <data name="App_Contacts_Groups_Add" xml:space="preserve">
+    <value>Add group</value>
+    <comment>Add group</comment>
+  </data>
+  <data name="App_Contacts_Groups_AddFromSearch" xml:space="preserve">
+    <value>"{0}" (add group)</value>
+    <comment>"{0}" (add group)</comment>
+  </data>
+  <data name="App_Contacts_LinkContactExplanation" xml:space="preserve">
+    <value>Link with contacts from other accounts to show them as one in Mailbird</value>
+    <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
+  </data>
+  <data name="App_Contacts_NoLinkedContacts" xml:space="preserve">
+    <value>(No linked contacts)</value>
+    <comment>(No linked contacts)</comment>
+  </data>
+  <data name="App_Contacts_Intro_ConnectAccounts" xml:space="preserve">
+    <value>Connect accounts</value>
+    <comment>Connect accounts</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
+    <value>Merge contacts</value>
+    <comment>Merge contacts</comment>
+  </data>
+  <data name="App_Contacts_MergeContact" xml:space="preserve">
+    <value>Merge contact</value>
+    <comment>Merge contact</comment>
+  </data>
+  <data name="App_Contacts_AddContact" xml:space="preserve">
+    <value>Add contact</value>
+    <comment>Add contact</comment>
+  </data>
+  <data name="App_Contacts_CollapseGroups" xml:space="preserve">
+    <value>Collapse groups panel</value>
+    <comment>Collapse groups panel</comment>
+  </data>
+  <data name="App_Contacts_ExpandGroups" xml:space="preserve">
+    <value>Expand groups panel</value>
+    <comment>Expand groups panel</comment>
+  </data>
+  <data name="App_Contacts_Settings" xml:space="preserve">
+    <value>Settings</value>
+    <comment>Settings</comment>
+  </data>
+  <data name="App_Contacts_ValidationEmpty" xml:space="preserve">
+    <value>Field cannot be empty</value>
+    <comment>Field cannot be empty</comment>
+  </data>
+  <data name="App_Contacts_LinkContact_NoAccounts" xml:space="preserve">
+    <value>You haven't connected any accounts.</value>
+    <comment>You haven't connected any accounts.</comment>
+  </data>
+  <data name="App_Contacts_RemoveGroup" xml:space="preserve">
+    <value>Remove group</value>
+    <comment>Remove group
+NB: tooltip for remove group button</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuDelete" xml:space="preserve">
+    <value>Delete</value>
+    <comment>Delete</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuDeleteGroup" xml:space="preserve">
+    <value>Delete</value>
+    <comment>Context menu button to delete a group</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuRenameGroup" xml:space="preserve">
+    <value>Rename</value>
+    <comment>Context menu button to rename a group</comment>
+  </data>
+  <data name="App_Contacts_RemoveField" xml:space="preserve">
+    <value>Remove</value>
+    <comment>Tooltip when removing contact field in contact manager</comment>
+  </data>
+  <data name="App_Contacts_ShowAllFields" xml:space="preserve">
+    <value>Show all fields</value>
+    <comment>Show all fields
+NB: button to show extra fields when editing contact, since not all fields are shown since beginning</comment>
+  </data>
+  <data name="App_Contacts_ShowFewerFields" xml:space="preserve">
+    <value>Show fewer fields</value>
+    <comment>Show fewer fields
+NB: button to hide extra fields when editing contact</comment>
+  </data>
+  <data name="App_Contacts_AddToGroup" xml:space="preserve">
+    <value>Add to a group</value>
+    <comment>Add to a group</comment>
+  </data>
+  <data name="App_Contacts_AddContact_InAccount" xml:space="preserve">
+    <value>In "{0}"</value>
+    <comment>In "{0}"
+NB: This will be used to tell user in which account the new contact will be saved. {0} will be replaced with an account name, e.g. [In "email@email.com"]</comment>
+  </data>
+  <data name="App_Contacts_MenuGroupView" xml:space="preserve">
+    <value>Show groups</value>
+    <comment>Show groups
+NB: menu to show/hide group panel</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuCopyField" xml:space="preserve">
+    <value>Copy</value>
+    <comment>Copy
+NB: Menu in context menu to do copy action</comment>
+  </data>
+  <data name="App_Contacts_OpenInBrowser" xml:space="preserve">
+    <value>Open in browser</value>
+    <comment>Menu in context menu to open current url in browser</comment>
+  </data>
+  <data name="App_Contacts_SearchInGoogleMaps" xml:space="preserve">
+    <value>Open in Google Maps</value>
+    <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
+  </data>
+  <data name="App_Contacts_FieldNamePrefix" xml:space="preserve">
+    <value>Title</value>
+    <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
+  </data>
+  <data name="App_Contacts_FieldNameSuffix" xml:space="preserve">
+    <value>Suffix</value>
+    <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
+  </data>
+  <data name="SpeedRead_Speed" xml:space="preserve">
+    <value>{0} WPM</value>
+    <comment>{0} will be replaced with the speed, WPM stands for words per minute</comment>
+  </data>
+  <data name="App_Contacts_ConnectAccount_LocalExplanation" xml:space="preserve">
+    <value>The Mailbird system account with contacts local to your computer.
+
+This cannot be removed.</value>
+    <comment>Explanation for the default local account in contact manager</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuGoogleAccount" xml:space="preserve">
+    <value>Google account</value>
+    <comment>Menu to add Google account</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuOutlookAccount" xml:space="preserve">
+    <value>Outlook account</value>
+    <comment>Menu to add Outlook account</comment>
+  </data>
+  <data name="Dialog_DisconnectAccount" xml:space="preserve">
+    <value>Disconnect account?</value>
+    <comment>Title for dialog window when user tries to disconnect account from Contacts Manager</comment>
+  </data>
+  <data name="Dialog_DisconnectAccountExplanation" xml:space="preserve">
+    <value>Are you sure you want to disconnect the account?
+
+This will disable contact sync and remove the account's groups and contacts from Mailbird.</value>
+    <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
+  </data>
+  <data name="App_Contacts_FieldAdd" xml:space="preserve">
+    <value>add {0}</value>
+    <comment>{0} will be replaced with field's name, e.g. "add title"</comment>
+  </data>
+  <data name="App_Contacts_FieldAddMiddleName" xml:space="preserve">
+    <value>middle name</value>
+    <comment>Button to show middle name when editing contact</comment>
+  </data>
+  <data name="App_Contacts_FieldAddSuffix" xml:space="preserve">
+    <value>suffix</value>
+    <comment>Button to show suffix of person when editing contact</comment>
+  </data>
+  <data name="App_Contacts_FieldAddTitle" xml:space="preserve">
+    <value>title</value>
+    <comment>Button to show title of person when editing contact</comment>
+  </data>
+  <data name="App_Contacts_FieldOr" xml:space="preserve">
+    <value>{0} or {1}</value>
+    <comment>{0} and {1} will be replaced with field's name, e.g. "title or nickname"</comment>
+  </data>
+  <data name="App_Contacts_SystemGroup_Coworkers" xml:space="preserve">
+    <value>Coworkers</value>
+    <comment>Name of the coworkers system group with contacts</comment>
+  </data>
+  <data name="App_Contacts_SystemGroup_Family" xml:space="preserve">
+    <value>Family</value>
+    <comment>Name of the family system group in the Contacts app</comment>
+  </data>
+  <data name="App_Contacts_SystemGroup_Friends" xml:space="preserve">
+    <value>Friends</value>
+    <comment>Name of the friends system group in the Contacts app</comment>
+  </data>
+  <data name="App_Contacts_SystemGroup_Contacts" xml:space="preserve">
+    <value>Contacts</value>
+    <comment>Name of the contacts system group in the Contacts app</comment>
+  </data>
+  <data name="App_Contacts_SystemGroup_Starred" xml:space="preserve">
+    <value>Starred</value>
+    <comment>Name of the system group with starred contacts in the Contacts app</comment>
+  </data>
+  <data name="App_Contacts_ValidationDuplicatedGroup" xml:space="preserve">
+    <value>Name already exists or is a protected system name</value>
+    <comment>Error message when trying to add group with the same name</comment>
+  </data>
+  <data name="App_Contacts_FieldType_HomePage" xml:space="preserve">
+    <value>Home Page</value>
+    <comment>Contact website field type</comment>
+  </data>
+  <data name="App_Contacts_DisconnectingAccount" xml:space="preserve">
+    <value>Disconnecting account...</value>
+    <comment>Progress message when disconnecting an account in the Contacts app</comment>
+  </data>
+  <data name="App_Contacts_Refresh" xml:space="preserve">
+    <value>Refresh</value>
+    <comment>Menu to force contact manager to sync to server</comment>
+  </data>
+  <data name="App_Contacts_Labels_PersonalNotes" xml:space="preserve">
+    <value>Personal Notes</value>
+    <comment>Label of the custom field displayed in the Contacts apps</comment>
+  </data>
+  <data name="App_Contacts_ContextMenuEmailGroup" xml:space="preserve">
+    <value>Email group</value>
+    <comment>Menu to send email to selected group</comment>
+  </data>
+  <data name="App_Contacts_MenuEmailGroup" xml:space="preserve">
+    <value>Email group contacts</value>
+    <comment>Menu to send email to selected group</comment>
+  </data>
+  <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
+    <value>Connecting account...</value>
+    <comment>Progress message when connecting an account in the Contacts app</comment>
   </data>
 </root>
