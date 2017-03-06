@@ -354,7 +354,7 @@
     <comment>Could not retrieve access</comment>
   </data>
   <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
-    <value>De momento não foi possível obter o token de acesso ao facebook. Por favor, tente novamente.</value>
+    <value>De momento não foi possível obter o símbolo de acesso ao facebook. Por favor, tente novamente.</value>
     <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
   </data>
   <data name="Dialog_CantSave" xml:space="preserve">
@@ -394,7 +394,7 @@ Url: {1}</comment>
     <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
-    <value>Emails estão a ser enviados</value>
+    <value>Os emails estão a ser enviados</value>
     <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
@@ -1064,7 +1064,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Quickly navigate to your important documents from Mailbird.</comment>
   </data>
   <data name="App_Lifehacker_Description" xml:space="preserve">
-    <value>Truques, dicas, e tecnologia para viver melhor na era digital.</value>
+    <value>Dicas, truques, e tecnologia para viver melhor na era digital.</value>
     <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
   </data>
   <data name="App_RetroSift_Description" xml:space="preserve">
@@ -2903,7 +2903,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Submit request</comment>
   </data>
   <data name="WebBrowser_Home" xml:space="preserve">
-    <value>Casa</value>
+    <value>Janela Principal</value>
     <comment>Home</comment>
   </data>
   <data name="Conversation_More" xml:space="preserve">
@@ -2947,7 +2947,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Middle name</comment>
   </data>
   <data name="App_Contacts_FieldNickname" xml:space="preserve">
-    <value>Alcunha</value>
+    <value>Apelido</value>
     <comment>Nickname</comment>
   </data>
   <data name="App_Contacts_FieldTitle" xml:space="preserve">
@@ -3350,7 +3350,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Add nickname</comment>
   </data>
   <data name="App_Contacts_FieldRemoveNickname" xml:space="preserve">
-    <value>Remover alcunha</value>
+    <value>Remover apelido</value>
     <comment>Remove nickname</comment>
   </data>
   <data name="App_Contacts_FieldNotes" xml:space="preserve">
@@ -3816,7 +3816,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Adora o Mailbird? Ajude-nos a crescer indicando o Mailbird aos seus amigos.</value>
+    <value>Adora o Mailbird? Ajude-nos a crescer sugerindo o Mailbird aos seus amigos.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
@@ -5171,7 +5171,7 @@ NB: Text for button to send the survey</comment>
 NB: Text for button to skip the survey</comment>
   </data>
 <data name="App_Contacts_FieldType_Home" xml:space="preserve">
-    <value>Home</value>
+    <value>Janela Principal</value>
     <comment>Home</comment>
   </data>
   <data name="App_Contacts_FieldType_Other" xml:space="preserve">
@@ -5195,7 +5195,7 @@ NB: Text for button to skip the survey</comment>
     <comment>Assistant</comment>
   </data>
   <data name="App_Contacts_FieldType_Blog" xml:space="preserve">
-    <value>Blog</value>
+    <value>Blogue</value>
     <comment>Blog</comment>
   </data>
   <data name="App_Contacts_FieldType_Brother" xml:space="preserve">
@@ -5219,7 +5219,7 @@ NB: Text for button to skip the survey</comment>
     <comment>Friend</comment>
   </data>
   <data name="App_Contacts_FieldType_Manager" xml:space="preserve">
-    <value>Manager</value>
+    <value>Gestor</value>
     <comment>Manager</comment>
   </data>
   <data name="App_Contacts_FieldType_Mother" xml:space="preserve">
@@ -5277,11 +5277,11 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>Placeholder text when no contacts in selected group</comment>
   </data>
   <data name="App_Contacts_ContactsPlural" xml:space="preserve">
-    <value>{0} contacts</value>
+    <value>{0} contactos</value>
     <comment>{0} contacts</comment>
   </data>
   <data name="App_Contacts_ContactsSingular" xml:space="preserve">
-    <value>{0} contact</value>
+    <value>{0} contacto</value>
     <comment>{0} contact</comment>
   </data>
   <data name="App_Contacts_Edit" xml:space="preserve">
@@ -5321,7 +5321,7 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>({0} linked contacts)</comment>
   </data>
   <data name="App_Contacts_LinkContact" xml:space="preserve">
-    <value>Link contact</value>
+    <value>Associar contacto</value>
     <comment>Link contact</comment>
   </data>
   <data name="App_Contacts_Unlink" xml:space="preserve">
@@ -5333,15 +5333,15 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>Unified contact</comment>
   </data>
   <data name="App_Contacts_Link" xml:space="preserve">
-    <value>Link</value>
+    <value>Associar</value>
     <comment>Link</comment>
   </data>
   <data name="App_Contacts_LinkContact_Contacts" xml:space="preserve">
-    <value>Contacts</value>
+    <value>Contactos</value>
     <comment>Contacts</comment>
   </data>
   <data name="App_Contacts_LinkContact_EnterName" xml:space="preserve">
-    <value>Enter a name</value>
+    <value>Insira um nome</value>
     <comment>Enter a name</comment>
   </data>
   <data name="App_Contacts_Cancel" xml:space="preserve">
@@ -5413,7 +5413,7 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>Country</comment>
   </data>
   <data name="App_Contacts_FieldRegion" xml:space="preserve">
-    <value>Region</value>
+    <value>Região</value>
     <comment>Region</comment>
   </data>
   <data name="App_Contacts_FieldStreet" xml:space="preserve">
@@ -5421,7 +5421,7 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>Street</comment>
   </data>
   <data name="App_Contacts_FieldZipCode" xml:space="preserve">
-    <value>ZIP code</value>
+    <value>Código Postal</value>
     <comment>ZIP code</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_SubHeader" xml:space="preserve">
@@ -5461,7 +5461,7 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>+ Connect other account</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
-    <value>Desculpe, mas esta conta de email não suporta pa sincronização de contactos.</value>
+    <value>Desculpe, mas esta conta de email não suporta a sincronização de contactos.</value>
     <comment>Sorry, but this email account doesn't have support for contacts sync.</comment>
   </data>
   <data name="App_Contacts_EditAccount_SubHeader" xml:space="preserve">
@@ -5493,7 +5493,7 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>Groups...</comment>
   </data>
   <data name="App_Contacts_ContextMenuExport" xml:space="preserve">
-    <value>Export vCard</value>
+    <value>Exportar vCard</value>
     <comment>Export vCard</comment>
   </data>
   <data name="App_Contacts_ContextMenuInvite" xml:space="preserve">
@@ -5501,7 +5501,7 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkContacts" xml:space="preserve">
-    <value>Link contacts</value>
+    <value>Associar contactos</value>
     <comment>Link contacts</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkedin" xml:space="preserve">
@@ -5577,7 +5577,7 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
   </data>
   <data name="App_Contacts_NoLinkedContacts" xml:space="preserve">
-    <value>(Sem contactos vinculados)</value>
+    <value>(Sem contactos associados)</value>
     <comment>(No linked contacts)</comment>
   </data>
   <data name="App_Contacts_Intro_ConnectAccounts" xml:space="preserve">
@@ -5585,11 +5585,11 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>Connect accounts</comment>
   </data>
   <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
-    <value>Merge contacts</value>
+    <value>Unir contactos</value>
     <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
-    <value>Merge contact</value>
+    <value>Unir contacto</value>
     <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
@@ -5597,7 +5597,7 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
     <comment>Add contact</comment>
   </data>
   <data name="App_Contacts_CollapseGroups" xml:space="preserve">
-    <value>Colapsar painel de grupos</value>
+    <value>Recolher painel de grupos</value>
     <comment>Collapse groups panel</comment>
   </data>
   <data name="App_Contacts_ExpandGroups" xml:space="preserve">
@@ -5622,11 +5622,11 @@ Para adicionar um contacto, clique no botão "Adicionar contacto".</value>
 NB: tooltip for remove group button</comment>
   </data>
   <data name="App_Contacts_ContextMenuDelete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Excluir</value>
     <comment>Delete</comment>
   </data>
   <data name="App_Contacts_ContextMenuDeleteGroup" xml:space="preserve">
-    <value>Delete</value>
+    <value>Excluir</value>
     <comment>Context menu button to delete a group</comment>
   </data>
   <data name="App_Contacts_ContextMenuRenameGroup" xml:space="preserve">
@@ -5634,7 +5634,7 @@ NB: tooltip for remove group button</comment>
     <comment>Context menu button to rename a group</comment>
   </data>
   <data name="App_Contacts_RemoveField" xml:space="preserve">
-    <value>Remover</value>
+    <value>Apagar</value>
     <comment>Tooltip when removing contact field in contact manager</comment>
   </data>
   <data name="App_Contacts_ShowAllFields" xml:space="preserve">
@@ -5652,7 +5652,7 @@ NB: button to hide extra fields when editing contact</comment>
     <comment>Add to a group</comment>
   </data>
   <data name="App_Contacts_AddContact_InAccount" xml:space="preserve">
-    <value>In "{0}"</value>
+    <value>Em "{0}"</value>
     <comment>In "{0}"
 NB: This will be used to tell user in which account the new contact will be saved. {0} will be replaced with an account name, e.g. [In "email@email.com"]</comment>
   </data>
@@ -5667,7 +5667,7 @@ NB: menu to show/hide group panel</comment>
 NB: Menu in context menu to do copy action</comment>
   </data>
   <data name="App_Contacts_OpenInBrowser" xml:space="preserve">
-    <value>Open in browser</value>
+    <value>Abrir no navegador</value>
     <comment>Menu in context menu to open current url in browser</comment>
   </data>
   <data name="App_Contacts_SearchInGoogleMaps" xml:space="preserve">
@@ -5693,7 +5693,7 @@ Isto não pode ser removido.</value>
     <comment>Explanation for the default local account in contact manager</comment>
   </data>
   <data name="App_Contacts_ContextMenuGoogleAccount" xml:space="preserve">
-    <value>Google account</value>
+    <value>Conta Google</value>
     <comment>Menu to add Google account</comment>
   </data>
   <data name="App_Contacts_ContextMenuOutlookAccount" xml:space="preserve">
@@ -5727,7 +5727,7 @@ Isso desactivará a sincronização de contactos e apagará os grupos e contacto
     <comment>Button to show title of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldOr" xml:space="preserve">
-    <value>{0} or {1}</value>
+    <value>{0} ou {1}</value>
     <comment>{0} and {1} will be replaced with field's name, e.g. "title or nickname"</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Coworkers" xml:space="preserve">
@@ -5743,7 +5743,7 @@ Isso desactivará a sincronização de contactos e apagará os grupos e contacto
     <comment>Name of the friends system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Contacts" xml:space="preserve">
-    <value>Contacts</value>
+    <value>Contactos</value>
     <comment>Name of the contacts system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Starred" xml:space="preserve">
@@ -5755,7 +5755,7 @@ Isso desactivará a sincronização de contactos e apagará os grupos e contacto
     <comment>Error message when trying to add group with the same name</comment>
   </data>
   <data name="App_Contacts_FieldType_HomePage" xml:space="preserve">
-    <value>Home Page</value>
+    <value>Página Principal</value>
     <comment>Contact website field type</comment>
   </data>
   <data name="App_Contacts_DisconnectingAccount" xml:space="preserve">
@@ -5767,7 +5767,7 @@ Isso desactivará a sincronização de contactos e apagará os grupos e contacto
     <comment>Menu to force contact manager to sync to server</comment>
   </data>
   <data name="App_Contacts_Labels_PersonalNotes" xml:space="preserve">
-    <value>Personal Notes</value>
+    <value>Notas Pessoais</value>
     <comment>Label of the custom field displayed in the Contacts apps</comment>
   </data>
   <data name="App_Contacts_ContextMenuEmailGroup" xml:space="preserve">
