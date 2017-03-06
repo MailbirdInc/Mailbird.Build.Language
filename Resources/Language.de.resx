@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Die Datei „{0}“ konnte nicht gespeichert werden, weil sie von einer anderen Anwendung verwendet wird.</value>
+    <value>Die Datei „{0}” konnte nicht gespeichert werden, weil sie von einer anderen Anwendung verwendet wird.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -370,7 +370,7 @@
     <comment>Download failed</comment>
   </data>
   <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
-    <value>Der Anhang konnte nicht heruntergeladen werden. 
+    <value>Anhang konnte nicht heruntergeladen werden. 
 Beschreibung: {0}
 URL: {1}</value>
     <comment>Could not download the attachment. 
@@ -416,7 +416,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>„{0}“ konnte nicht gefunden werden. Bitte Dateipfad überprüfen.</value>
+    <value>„{0}” konnte nicht gefunden werden. Bitte Dateipfad prüfen.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
@@ -464,7 +464,7 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Möchten Sie die Identität „{0}“ wirklich löschen?
+    <value>Möchten Sie die Identität „{0}” wirklich löschen?
 Diese Aktion kann nicht rückgängig gemacht werden.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
@@ -475,7 +475,7 @@ This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
     <value>Leider konnte Ihr Bericht nicht gesendet werden.
-Sie können Ihren Bericht aber manuell an die E-Mail-Adresse {0} senden.
+Sie können Ihren Bericht aber manuell an die E-Mail-Adresse „{0}” senden.
 Nachricht:</value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
@@ -554,8 +554,8 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Sie haben „{0}“ geschrieben und wir dachten, dass Sie möglicherweise eine Datei anhängen wollten.
-Wenn Sie die Nachricht ohne Anhänge senden möchten, klicke Sie auf „OK“.</value>
+    <value>Sie haben „{0}” geschrieben und Mailbird geht davon aus, dass Sie möglicherweise eine Datei anhängen wollten.
+Wenn Sie die Nachricht ohne Anhänge senden möchten, klicke Sie auf „OK”.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -648,7 +648,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Use a different reply-to address</comment>
   </data>
   <data name="Identity_DifferentSignature" xml:space="preserve">
-    <value>Abweichende Signatur als für „{0}“ verwenden</value>
+    <value>Für dieses Konto eine andere Signatur als die für „{0}” vorgesehene verwenden</value>
     <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
   </data>
   <data name="Identity_Edit" xml:space="preserve">
@@ -940,7 +940,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Message source</comment>
   </data>
   <data name="Dialog_ReadMore" xml:space="preserve">
-    <value>Mehr lesen</value>
+    <value>Weitere Informationen</value>
     <comment>Read more</comment>
   </data>
   <data name="Dialog_ServerResponse" xml:space="preserve">
@@ -1012,7 +1012,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Could not fetch information on contact from Facebook.</comment>
   </data>
   <data name="App_Contacts_LoadingFacebook" xml:space="preserve">
-    <value>Informationen über diesen Kontakt werden von Facebook abgerufen …</value>
+    <value>Informationen des Kontakts werden von Facebook abgerufen …</value>
     <comment>Loading info on this contact from Facebook...</comment>
   </data>
   <data name="App_Contacts_LoadingText" xml:space="preserve">
@@ -1024,7 +1024,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
-    <value>Keine Kontakte verfügbar</value>
+    <value>Keine Treffer</value>
     <comment>No matches found</comment>
   </data>
   <data name="App_Contacts_SearchLabel" xml:space="preserve">
@@ -1396,7 +1396,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send &amp; Archive</comment>
   </data>
   <data name="Message_SendEmailTo" xml:space="preserve">
-    <value>Nachricht senden an {0}</value>
+    <value>Neue Nachricht an {0}</value>
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
@@ -1428,7 +1428,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>{0} new messages</comment>
   </data>
   <data name="NewMessages_BaloonSubHeader" xml:space="preserve">
-    <value>In {0} Themen</value>
+    <value>in {0} Themen</value>
     <comment>in {0} conversations</comment>
   </data>
   <data name="NewMessage_EmptySubject" xml:space="preserve">
@@ -2291,7 +2291,7 @@ We will never post anything to Facebook.</comment>
     <comment>An error occured downloading the message source. Please try again later.</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
-    <value>Datei im Cache konnte nicht erstellt werden. Höchstwahrscheinlich wird diese Aktion durch eine Antivirus-Software verhindert.
+    <value>Anhang konnte nicht im Datei-Zwischenspeicher erstellt werden. Höchstwahrscheinlich wird diese Aktion durch eine Antivirus-Software verhindert.
 Pfad: {0}</value>
     <comment>Could not create attachment cache file. Most likely anti-virus program prevented this.
 Path: {0}</comment>
@@ -2515,9 +2515,9 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Das Zertifikat des Servers „{0}“ ist ungültig.
+    <value>Das Zertifikat des Servers „{0}” ist ungültig.
 
-Klicke Sie unten auf „Mehr erfahren“ für weiterführende Informationen, bevor Sie fortfahren.
+Klicke Sie unten auf „Weitere Informationen” für weiterführende Informationen, bevor Sie fortfahren.
 
 Möchten Sie den Fehler dauerhaft für diesen Server ignorieren?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2837,7 +2837,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>Fehler bei der Synchronisierung von Änderungen des Ordners „{0}“</value>
+    <value>Fehler bei der Synchronisierung von Änderungen des Ordners „{0}”</value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -2845,7 +2845,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Möchtest Sie „{0}“ wirklich löschen?</value>
+    <value>Möchtest Sie „{0}” wirklich löschen?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
@@ -2853,7 +2853,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>Der Server verbietet die Verwendung von „{0}“ in Ordnernamen.</value>
+    <value>Der Server verbietet die Verwendung von Zeichen wie „{0}” in Ordnernamen.</value>
     <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -2961,7 +2961,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Add email</comment>
   </data>
   <data name="App_Contacts_FieldAddPhone" xml:space="preserve">
-    <value>Telefon hinzufügen</value>
+    <value>Rufnummer hinzufügen</value>
     <comment>Add phone</comment>
   </data>
   <data name="App_Contacts_Add" xml:space="preserve">
@@ -2985,15 +2985,15 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>{0} will be replaced by the phone number, so the result will be "Call (Phone) +62000000"</comment>
   </data>
   <data name="App_Contacts_CallSkype" xml:space="preserve">
-    <value>{0} über Skype anrufen</value>
+    <value>{0} über Skype kontaktieren</value>
     <comment>{0} will be replaced by the skype name, so the result will be "Call (Skype) skypename"</comment>
   </data>
   <data name="App_Contacts_SearchCompany" xml:space="preserve">
-    <value>Nach {0} suchen</value>
+    <value>Nach „{0}” suchen</value>
     <comment>{0} will be replaced by the name of company, so the result will be "Search for Microsoft Ltd"</comment>
   </data>
   <data name="App_Contacts_SendEmail" xml:space="preserve">
-    <value>Email {0}</value>
+    <value>Nachricht an {0}</value>
     <comment>{0} will be replaced by the email address, so the result will be "Send email to test@gmail.com"</comment>
   </data>
   <data name="App_Contacts_AddGroup_Cancel" xml:space="preserve">
@@ -3112,7 +3112,7 @@ Please check the identity setup and try again.</comment>
     <comment>Browse</comment>
   </data>
   <data name="App_Contacts_Import_Success_Singular" xml:space="preserve">
-    <value>1 Kontakt wurde importiert.</value>
+    <value>Ein Kontakt wurde importiert</value>
     <comment>1 contact imported.</comment>
   </data>
   <data name="App_Contacts_Import_Description" xml:space="preserve">
@@ -3124,7 +3124,7 @@ Hier finden Sie einige Links, die Ihnen bei der Erstellung von vCard-Dateien bei
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>„Durchsuchen“ wählen, um die Datei(en) zum Import auszuwählen.</value>
+    <value>„Durchsuchen” wählen, um die Datei(en) zum Import auszuwählen.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -3300,7 +3300,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Home Fax</comment>
   </data>
   <data name="App_Contacts_PhoneType_Main" xml:space="preserve">
-    <value>Festnetz</value>
+    <value>Zentrale</value>
     <comment>Main</comment>
   </data>
   <data name="App_Contacts_PhoneType_Mobile" xml:space="preserve">
@@ -3308,7 +3308,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Mobile</comment>
   </data>
   <data name="App_Contacts_PhoneType_Pager" xml:space="preserve">
-    <value>Piepser</value>
+    <value>Pager</value>
     <comment>Pager</comment>
   </data>
   <data name="App_Contacts_PhoneType_WorkFax" xml:space="preserve">
@@ -3412,7 +3412,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} noch verbleibende Tage Ihrer Pro-Testversion. Nach Abschluss der Testversion wird Mailbird Pro in Mailbird Lite umgewandelt.</value>
+    <value>Noch {0} verbleibende Tage Ihrer Pro-Testversion. Nach Ende des Testzeitraums wird „Mailbird Pro” in „Mailbird Lite” umgewandelt.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -3738,7 +3738,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>„{0}“ (Ordner hinzufügen)</value>
+    <value>„{0}” (Ordner hinzufügen)</value>
     <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
@@ -3819,7 +3819,7 @@ Note that enabling this will in most cases result in worse interface performance
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
     <value>Gefällt Ihnen Mailbird?
-Helfen Sie uns Mailbird zu verbessern und laden Sie Ihre Freunde heute noch zu Mailbird ein.</value>
+Helfen Sie uns Mailbird zu verbessern und laden Sie Ihre Freunde noch heute zu Mailbird ein.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
@@ -4056,7 +4056,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>Es ist unmöglich, die Datei „{0}“ als Anhang hinzuzufügen, da Sie nicht berechtigt sind, darauf zuzugreifen. Bitte überprüfen Sie Ihre Benutzerrechte und versuchen Sie es erneut.</value>
+    <value>Es ist unmöglich, die Datei „{0}” als Anhang hinzuzufügen, da Sie nicht berechtigt sind, darauf zuzugreifen. Bitte überprüfen Sie Ihre Benutzerrechte und versuchen Sie es erneut.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
@@ -4070,6 +4070,8 @@ You can disable the unified account from the options, or edit each of your accou
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
     <value>Bitte konfiguriere Sie Ihr Konto so, dass anstelle des Benutzernamens und Passwortes, OAuth 2.0 Authentifizierung verwendet wird. Oder erlauben Sie den Zugriff für weniger sichere Apps in Gmail.
 https://mailbird.zendesk.com/entries/53544244
+https://www.google.com/settings/security/lesssecureapps
+https://support.google.com/accounts/answer/6010255?hl=de
 
 Wenn das Problem weiterhin besteht, klicken Sie auf diesen Link für weitere Lösungsvorschläge:
 https://support.google.com/mail/accounts/answer/78754</value>
@@ -4140,7 +4142,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>Es ist nicht möglich, die Datei „{0}“ als Anhang hinzuzufügen. Bitte stelle sicher, dass die Datei nicht von anderen Programmen verwendet wird und versuche es erneut.</value>
+    <value>Das Hinzufügen der Datei „{0}” als Anhang ist fehlgeschlagen. Bitte stelle sicher, dass die Datei nicht von anderen Programmen verwendet wird und versuche es erneut.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4293,7 +4295,7 @@ So leave the texts inside bracket, but you can change the position within senten
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
     <value>[bold]{0}[/bold] importieren.
 Bitte die fehlenden Informationen ergänzen.
-Konto {1} von {2}.</value>
+Konto {1} von {2}</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
 Account 1 of 4.</comment>
@@ -4632,7 +4634,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Erhalten Sie kostenlos Mailbird Pro. Ihre Kontakte erhalten eine Einladung für Mailbird.</value>
+    <value>Mailbird Pro kostenlos erhalten. Ihre Kontakte erhalten eine Einladung für Mailbird.</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Quoted_TextHidden" xml:space="preserve">
@@ -4673,7 +4675,7 @@ Message 1 to 2</comment>
     <comment>The file is too large</comment>
   </data>
   <data name="Notification_FileSizeExplanation" xml:space="preserve">
-    <value>Die maximale Größe der Audiodatei ist {0}.
+    <value>Die maximale Größe der Audiodatei überschreitet {0}.
 Bitte eine andere Datei wählen.</value>
     <comment>The maximum sound file size is {0}.
 Please choose another file.</comment>
@@ -4683,8 +4685,8 @@ Please choose another file.</comment>
     <comment>Too many recipients</comment>
   </data>
   <data name="Invite_LimitReachedExplanation" xml:space="preserve">
-    <value>Die maximale Anzahl von Empfängern beträgt {0}.
-Bitte einige löschen und erneut versuchen.</value>
+    <value>Sie haben die maximale Anzahl von {0} Empfängern überschritten.
+Bitte einige entfernen und erneut versuchen.</value>
     <comment>The maximum number of recipients is {0}.
 Please remove some and try again.</comment>
   </data>
@@ -4701,7 +4703,7 @@ Please remove some and try again.</comment>
     <comment>{0} months</comment>
   </data>
   <data name="Signature_SentFrom" xml:space="preserve">
-    <value>Gesendet von {0}</value>
+    <value>Gesendet mit {0}</value>
     <comment>Sent from {0}
 {0} will be replaced by "Mailbird"</comment>
   </data>
@@ -4742,7 +4744,7 @@ Please remove some and try again.</comment>
     <comment>[Content not loaded]</comment>
   </data>
   <data name="License_NonPurchaseValidUntil" xml:space="preserve">
-    <value>Ihre Lizenz gilt bis {0}.</value>
+    <value>Ihre Lizenz ist noch bis {0} gültig.</value>
     <comment>Your license is valid until {0}.</comment>
   </data>
   <data name="Options_SubscriptionStatus" xml:space="preserve">
@@ -4766,7 +4768,7 @@ Please remove some and try again.</comment>
     <comment>Restart now</comment>
   </data>
   <data name="Awesomium_GoogleSearch" xml:space="preserve">
-    <value>Mit Google nach „{0}“ suchen</value>
+    <value>Mit Google nach „{0}” suchen</value>
     <comment>PS: leave the {0},
 the final result will be: Search Google for "query"</comment>
   </data>
@@ -4847,7 +4849,7 @@ the final result will be: Search Google for "query"</comment>
     <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_ImageFileSizeExplanation" xml:space="preserve">
-    <value>Die maximale Größe für Grafiken ist {0}.
+    <value>Die maximale Größe der Grafik überschreitet {0}.
 Bitte eine andere Datei wählen.</value>
     <comment>The maximum image file size is {0}.
 Please choose another file.</comment>
@@ -4937,7 +4939,7 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Laden Sie Ihre Freunde ein - es ist ganz einfach. Sobald {0} oder mehr auf Ihre Einladung hin Mailbird installieren, erhalten Sie Mailbird Pro Lifetime [bold] KOSTENLOS [/bold].</value>
+    <value>Laden Sie Ihre Freunde ein - es ist ganz einfach. Sobald {0} oder mehr auf Ihre Einladung hin Mailbird installieren, erhalten Sie Mailbird Pro Lifetime [bold] KOSTENLOS[/bold].</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
@@ -4954,7 +4956,7 @@ lebenslang und kostenlos</value>
     <comment>Accepted!</comment>
   </data>
   <data name="InviteV2_AddnewContact" xml:space="preserve">
-    <value>„{0}“ wurde nicht gefunden. Die Eingabe-Taste drücken, um den Kontakt zur Liste hinzuzufügen.</value>
+    <value>„{0}” wurde nicht gefunden. Die Eingabe-Taste drücken, um den Kontakt zur Liste hinzuzufügen.</value>
     <comment>"{0}" is not found, press "Enter" to add to list.</comment>
   </data>
   <data name="InviteV2_Invite" xml:space="preserve">
@@ -4998,7 +5000,7 @@ lebenslang und kostenlos</value>
     <comment>Invite Friends</comment>
   </data>
   <data name="InviteV2_Sent" xml:space="preserve">
-    <value>Gesendet ({0})</value>
+    <value>({0}) gesendet</value>
     <comment>Sent ({0})</comment>
   </data>
   <data name="InviteV2_TitleBlockLifetime" xml:space="preserve">
@@ -5069,7 +5071,8 @@ Are you sure you want to close the window?</comment>
     <value>Dies wird normalerweise durch ungültige Anmeldeinformationen verursacht oder {0} ist auf dem Server für Ihr Konto deaktiviert.
 
 Weitere Informationen:
-https://support.getmailbird.com/hc/en-us/articles/220108287</value>
+https://support.getmailbird.com/hc/en-us/articles/220108287
+https://support.apple.com/de-de/HT204397</value>
     <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
 
 Read more:
@@ -5148,7 +5151,7 @@ Would you like to group this message into a new conversation?</comment>
     <comment>You can't use this code because it was generated from the same PC.</comment>
   </data>
   <data name="Welcome_Subscribe" xml:space="preserve">
-    <value>Benachrichtige mich bei wichtigen Updates</value>
+    <value>Mich bei bei wichtigen Updates benachichtigen</value>
     <comment>Keep me updated</comment>
   </data>
 <data name="DripSurvey_ChooseAnswer" xml:space="preserve">
@@ -5177,7 +5180,7 @@ NB: Text for button to send the survey</comment>
 NB: Text for button to skip the survey</comment>
   </data>
 <data name="App_Contacts_FieldType_Home" xml:space="preserve">
-    <value>Home</value>
+    <value>Privat</value>
     <comment>Home</comment>
   </data>
   <data name="App_Contacts_FieldType_Other" xml:space="preserve">
@@ -5277,17 +5280,17 @@ NB: Text for button to skip the survey</comment>
     <comment>Search in {0}</comment>
   </data>
   <data name="App_Contacts_NoContacts" xml:space="preserve">
-    <value>Keine Kontakte in dieser Gruppe.
+    <value>Noch keine Kontakte in dieser Gruppe.
 
 Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hinzufügen”.</value>
     <comment>Placeholder text when no contacts in selected group</comment>
   </data>
   <data name="App_Contacts_ContactsPlural" xml:space="preserve">
-    <value>{0} contacts</value>
+    <value>{0} Kontakte</value>
     <comment>{0} contacts</comment>
   </data>
   <data name="App_Contacts_ContactsSingular" xml:space="preserve">
-    <value>{0} contact</value>
+    <value>{0} Kontakt</value>
     <comment>{0} contact</comment>
   </data>
   <data name="App_Contacts_Edit" xml:space="preserve">
@@ -5315,7 +5318,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Create</comment>
   </data>
   <data name="App_Contacts_EditGroup_EnterName" xml:space="preserve">
-    <value>Namen der Gruppe festlegen</value>
+    <value>Name der Gruppe festlegen</value>
     <comment>Enter group name</comment>
   </data>
   <data name="App_Contacts_LinkedContacts" xml:space="preserve">
@@ -5327,7 +5330,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>({0} linked contacts)</comment>
   </data>
   <data name="App_Contacts_LinkContact" xml:space="preserve">
-    <value>Link contact</value>
+    <value>Kontakt verknüpfen</value>
     <comment>Link contact</comment>
   </data>
   <data name="App_Contacts_Unlink" xml:space="preserve">
@@ -5343,11 +5346,11 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Link</comment>
   </data>
   <data name="App_Contacts_LinkContact_Contacts" xml:space="preserve">
-    <value>Contacts</value>
+    <value>Kontakte</value>
     <comment>Contacts</comment>
   </data>
   <data name="App_Contacts_LinkContact_EnterName" xml:space="preserve">
-    <value>Enter a name</value>
+    <value>Name festlegen</value>
     <comment>Enter a name</comment>
   </data>
   <data name="App_Contacts_Cancel" xml:space="preserve">
@@ -5391,7 +5394,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>add instant messenger</comment>
   </data>
   <data name="App_Contacts_FieldAddJobTitle" xml:space="preserve">
-    <value>Berufsbezeichnung hinzufügen</value>
+    <value>Position hinzufügen</value>
     <comment>add job title</comment>
   </data>
   <data name="App_Contacts_FieldAddNotes" xml:space="preserve">
@@ -5431,7 +5434,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>ZIP code</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_SubHeader" xml:space="preserve">
-    <value>Wählen Sie folgende Konten aus, um eine Verbindung herzustellen und ihre Kontakte mit Mailbird zu synchronisieren oder klicken Sie auf die Schaltfläche, um eine Verbindung zu einem anderen Konto herzustellen.</value>
+    <value>Wählen Sie aus folgende Konten aus, um eine Verbindung herzustellen und ihre Kontakte mit Mailbird zu synchronisieren oder klicken Sie auf die Schaltfläche, um eine Verbindung zu einem anderen Konto herzustellen.</value>
     <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_Title" xml:space="preserve">
@@ -5443,11 +5446,11 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Accounts</comment>
   </data>
   <data name="App_Contacts_MenuDisplayFirstLast" xml:space="preserve">
-    <value>Ansicht nach Erste, Letzte</value>
+    <value>Nach Datum (neueste zuerst)</value>
     <comment>Display by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuDisplayLastFirst" xml:space="preserve">
-    <value>Ansicht nach Letzte, Erste</value>
+    <value>Nach Datum (älteste zuerst)</value>
     <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
@@ -5459,7 +5462,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Sort by A to Z</comment>
   </data>
   <data name="App_Contacts_MenuSortZA" xml:space="preserve">
-    <value>Umgekehrte alphabetisch Sortierung ( Z ➔ A)</value>
+    <value>Umgekehrt alphabetisch Sortierung ( Z ➔ A)</value>
     <comment>Sort by Z to A</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
@@ -5499,7 +5502,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Groups...</comment>
   </data>
   <data name="App_Contacts_ContextMenuExport" xml:space="preserve">
-    <value>Export vCard</value>
+    <value>vCard exportieren</value>
     <comment>Export vCard</comment>
   </data>
   <data name="App_Contacts_ContextMenuInvite" xml:space="preserve">
@@ -5507,7 +5510,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkContacts" xml:space="preserve">
-    <value>Link contacts</value>
+    <value>Kontakte verknüpfen</value>
     <comment>Link contacts</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkedin" xml:space="preserve">
@@ -5551,7 +5554,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
-    <value>Sie können Kontakte miteinander verbinden, um ihre Details an einem Ort mit nur einem Klick anzuzeigen.</value>
+    <value>Sie können Kontakte miteinander verknüpfen, um ihre Details an einem Ort mit nur einem Klick anzuzeigen.</value>
     <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
@@ -5591,11 +5594,11 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Connect accounts</comment>
   </data>
   <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
-    <value>Merge contacts</value>
+    <value>Kontakte verknüpfen</value>
     <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
-    <value>Merge contact</value>
+    <value>Kontakt verknüpfen</value>
     <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
@@ -5619,7 +5622,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Field cannot be empty</comment>
   </data>
   <data name="App_Contacts_LinkContact_NoAccounts" xml:space="preserve">
-    <value>Keine verbundenen Konten.</value>
+    <value>Keine verbundenen Konten</value>
     <comment>You haven't connected any accounts.</comment>
   </data>
   <data name="App_Contacts_RemoveGroup" xml:space="preserve">
@@ -5628,11 +5631,11 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
 NB: tooltip for remove group button</comment>
   </data>
   <data name="App_Contacts_ContextMenuDelete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Löschen</value>
     <comment>Delete</comment>
   </data>
   <data name="App_Contacts_ContextMenuDeleteGroup" xml:space="preserve">
-    <value>Delete</value>
+    <value>Löschen</value>
     <comment>Context menu button to delete a group</comment>
   </data>
   <data name="App_Contacts_ContextMenuRenameGroup" xml:space="preserve">
@@ -5658,7 +5661,7 @@ NB: button to hide extra fields when editing contact</comment>
     <comment>Add to a group</comment>
   </data>
   <data name="App_Contacts_AddContact_InAccount" xml:space="preserve">
-    <value>In "{0}"</value>
+    <value>Nach „{0}”</value>
     <comment>In "{0}"
 NB: This will be used to tell user in which account the new contact will be saved. {0} will be replaced with an account name, e.g. [In "email@email.com"]</comment>
   </data>
@@ -5673,7 +5676,7 @@ NB: menu to show/hide group panel</comment>
 NB: Menu in context menu to do copy action</comment>
   </data>
   <data name="App_Contacts_OpenInBrowser" xml:space="preserve">
-    <value>Open in browser</value>
+    <value>In Browser öffnen</value>
     <comment>Menu in context menu to open current url in browser</comment>
   </data>
   <data name="App_Contacts_SearchInGoogleMaps" xml:space="preserve">
@@ -5699,7 +5702,7 @@ Dies kann nicht entfernt werden.</value>
     <comment>Explanation for the default local account in contact manager</comment>
   </data>
   <data name="App_Contacts_ContextMenuGoogleAccount" xml:space="preserve">
-    <value>Google account</value>
+    <value>Google Konto</value>
     <comment>Menu to add Google account</comment>
   </data>
   <data name="App_Contacts_ContextMenuOutlookAccount" xml:space="preserve">
@@ -5721,7 +5724,7 @@ Dadurch wird die Kontaktsynchronisierung deaktiviert und die Gruppen und Kontakt
     <comment>{0} will be replaced with field's name, e.g. "add title"</comment>
   </data>
   <data name="App_Contacts_FieldAddMiddleName" xml:space="preserve">
-    <value>2. Vorname</value>
+    <value>Zweiter Vorname</value>
     <comment>Button to show middle name when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddSuffix" xml:space="preserve">
@@ -5733,7 +5736,7 @@ Dadurch wird die Kontaktsynchronisierung deaktiviert und die Gruppen und Kontakt
     <comment>Button to show title of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldOr" xml:space="preserve">
-    <value>{0} or {1}</value>
+    <value>{0} oder {1}</value>
     <comment>{0} and {1} will be replaced with field's name, e.g. "title or nickname"</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Coworkers" xml:space="preserve">
@@ -5749,7 +5752,7 @@ Dadurch wird die Kontaktsynchronisierung deaktiviert und die Gruppen und Kontakt
     <comment>Name of the friends system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Contacts" xml:space="preserve">
-    <value>Contacts</value>
+    <value>Kontakte</value>
     <comment>Name of the contacts system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Starred" xml:space="preserve">
@@ -5761,7 +5764,7 @@ Dadurch wird die Kontaktsynchronisierung deaktiviert und die Gruppen und Kontakt
     <comment>Error message when trying to add group with the same name</comment>
   </data>
   <data name="App_Contacts_FieldType_HomePage" xml:space="preserve">
-    <value>Home Page</value>
+    <value>Homepage</value>
     <comment>Contact website field type</comment>
   </data>
   <data name="App_Contacts_DisconnectingAccount" xml:space="preserve">
@@ -5773,7 +5776,7 @@ Dadurch wird die Kontaktsynchronisierung deaktiviert und die Gruppen und Kontakt
     <comment>Menu to force contact manager to sync to server</comment>
   </data>
   <data name="App_Contacts_Labels_PersonalNotes" xml:space="preserve">
-    <value>Personal Notes</value>
+    <value>Persönliche Notizen</value>
     <comment>Label of the custom field displayed in the Contacts apps</comment>
   </data>
   <data name="App_Contacts_ContextMenuEmailGroup" xml:space="preserve">
