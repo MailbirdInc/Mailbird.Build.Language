@@ -365,7 +365,7 @@ This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
     <value>Desculpe, mas seu relatório não pôde ser enviado. 
-Gostaríamos que, ao invés disso, você enviasse o email diretamente para {0}.
+Gostaríamos que, ao invés disso, você enviasse um email diretamente para {0}.
 Mensagem:</value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
@@ -412,7 +412,7 @@ Message:</comment>
     <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
   <data name="Dialog_SmtpSuccess" xml:space="preserve">
-    <value>Conexão SMTP com sucesso</value>
+    <value>Conexão SMTP feita com sucesso</value>
     <comment>SMTP connection success</comment>
   </data>
   <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
@@ -462,7 +462,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Insert image</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>Inbox Zerada</value>
+    <value>Caixa de Entrada Zerada</value>
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
@@ -522,11 +522,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
-    <value>Insert link</value>
+    <value>Inserir link</value>
     <comment>Insert link</comment>
   </data>
   <data name="Identity_Account" xml:space="preserve">
-    <value>Account:</value>
+    <value>Conta:</value>
     <comment>Account:</comment>
   </data>
   <data name="Identity_Add" xml:space="preserve">
@@ -550,7 +550,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Reply-to:</comment>
   </data>
   <data name="Identity_SendFromAccount" xml:space="preserve">
-    <value>Account</value>
+    <value>Conta</value>
     <comment>Account</comment>
   </data>
   <data name="Identity_SendFromSmtp" xml:space="preserve">
@@ -566,11 +566,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Signature:</comment>
   </data>
   <data name="Identity_SmtpPassword" xml:space="preserve">
-    <value>Password:</value>
+    <value>Senha:</value>
     <comment>Password:</comment>
   </data>
   <data name="Identity_SmtpPort" xml:space="preserve">
-    <value>Port:</value>
+    <value>Porta:</value>
     <comment>Port:</comment>
   </data>
   <data name="Identity_SmtpServer" xml:space="preserve">
@@ -618,7 +618,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Copyright {current year} Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
-    <value>Version</value>
+    <value>Versão</value>
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
@@ -642,7 +642,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Always perform this check when starting Mailbird</comment>
   </data>
   <data name="Default_SetAs" xml:space="preserve">
-    <value>Set as default?</value>
+    <value>Definir como padrão?</value>
     <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
@@ -650,11 +650,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
-    <value>Sobrescrever arquivos existentes?</value>
+    <value>Substituir arquivos existentes?</value>
     <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
-    <value>Gostaria de sobrescrever arquivos existentes?</value>
+    <value>Gostaria de substituir arquivos existentes?</value>
     <comment>Would you like to overwrite existing files?</comment>
   </data>
   <data name="Dialog_Purchase" xml:space="preserve">
@@ -734,7 +734,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter the server name</comment>
   </data>
   <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
-    <value>Por favor, insira um título</value>
+    <value>Por favor, insira um assunto</value>
     <comment>Please enter subject</comment>
   </data>
   <data name="AccountValidationRule_EmptyUsername" xml:space="preserve">
@@ -742,15 +742,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter a username</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
-    <value>Email é inválido</value>
+    <value>O Email é inválido</value>
     <comment>Email is invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail2" xml:space="preserve">
-    <value>Email parece estar inválido</value>
+    <value>O Email parece ser inválido</value>
     <comment>Email appears invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
-    <value>Por favor, insira uma chave de licençaa válida</value>
+    <value>Por favor, insira uma chave de licença válida</value>
     <comment>Please enter a valid license key</comment>
   </data>
   <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
@@ -758,7 +758,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter a valid url</comment>
   </data>
   <data name="AccountValidationRule_SenderName" xml:space="preserve">
-    <value>Insira seu nome</value>
+    <value>Por favor, insira seu nome</value>
     <comment>Please enter your name</comment>
   </data>
   <data name="Facebook_HowMailbirdConnectsLink" xml:space="preserve">
@@ -774,7 +774,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email</comment>
   </data>
   <data name="Dialog_NameLabel" xml:space="preserve">
-    <value>Name:</value>
+    <value>Nome:</value>
     <comment>Name:</comment>
   </data>
   <data name="EditFolderWindow_NestFolderUnderLabel" xml:space="preserve">
@@ -810,11 +810,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Sent</comment>
   </data>
   <data name="FolderIdentity_Spam" xml:space="preserve">
-    <value>Lixo</value>
+    <value>Spam</value>
     <comment>Spam</comment>
   </data>
   <data name="FolderIdentity_Starred" xml:space="preserve">
-    <value>Favoritos</value>
+    <value>Com estrela</value>
     <comment>Starred</comment>
   </data>
   <data name="FolderIdentity_Trash" xml:space="preserve">
@@ -826,7 +826,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Apps</comment>
   </data>
   <data name="Conversation_ShowSource" xml:space="preserve">
-    <value>Message source</value>
+    <value>Mensagem original</value>
     <comment>Message source</comment>
   </data>
   <data name="Dialog_ReadMore" xml:space="preserve">
@@ -970,7 +970,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>A place to get help from our Mailbird staff.</comment>
   </data>
   <data name="App_Support_Title" xml:space="preserve">
-    <value>Support</value>
+    <value>Suporte</value>
     <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
@@ -1966,343 +1966,343 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send Email</comment>
   </data>
   <data name="Shortcut_SendExplanation" xml:space="preserve">
-    <value>Sends the current composed email in view.</value>
+    <value>Envia o Email atualmente em visualização.</value>
     <comment>Sends the current composed email in view.</comment>
   </data>
   <data name="Shortcut_ShowMailbird" xml:space="preserve">
-    <value>Show Mailbird</value>
+    <value>Mostrar Mailbird</value>
     <comment>Show Mailbird</comment>
   </data>
   <data name="Shortcut_ShowMailbirdExplanation" xml:space="preserve">
-    <value>Bring Mailbird to foreground.</value>
+    <value>Trazer o Mailbird para o topo.</value>
     <comment>Bring Mailbird to foreground.</comment>
   </data>
   <data name="Shortcut_Star" xml:space="preserve">
-    <value>Star a message or conversation</value>
+    <value>Colocar estrela numa mensagem ou conversa</value>
     <comment>Star a message or conversation</comment>
   </data>
   <data name="Shortcut_StarExplanation" xml:space="preserve">
-    <value>Adds or removes a star to a message or conversation. Stars allow you to give a message or conversation a special status.</value>
+    <value>Adiciona ou remove estrela de uma mensagem ou conversa. Estrelas permitem que você dê á uma mensagem ou conversa um status especial (importante).</value>
     <comment>Adds or removes a star to a message or conversation. Stars allow you to give a message or conversation a special status.</comment>
   </data>
   <data name="Shortcut_Switch" xml:space="preserve">
-    <value>Switch account</value>
+    <value>Alternar conta</value>
     <comment>Switch account</comment>
   </data>
   <data name="Shortcut_SwitchExplanation" xml:space="preserve">
-    <value>Switch between accounts</value>
+    <value>Alternar entre contas</value>
     <comment>Switch between accounts</comment>
   </data>
   <data name="Shortcut_SwitchFolder" xml:space="preserve">
-    <value>Switch folder</value>
+    <value>Alternar pasta</value>
     <comment>Switch folder</comment>
   </data>
   <data name="Shortcut_SwitchFolderExplanation" xml:space="preserve">
-    <value>Switch between folders</value>
+    <value>Alternar entre pastas</value>
     <comment>Switch between folders</comment>
   </data>
   <data name="Shortcut_Undo" xml:space="preserve">
-    <value>Undo</value>
+    <value>Desfazer</value>
     <comment>Undo</comment>
   </data>
   <data name="Shortcut_UndoExplanation" xml:space="preserve">
-    <value>Undoes your previous action, if possible (works for actions with an 'undo' link).</value>
+    <value>Desfaz a ação anterior, se possível (funciona para ações com um link 'desfazer').</value>
     <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
-    <value>Marks your message as 'unread' so you can go back to it later.</value>
+    <value>Marca sua mensagem como 'não lida' para que você possa visualizá-la mais tarde.</value>
     <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
-    <value>Update current conversation</value>
+    <value>Atualizar conversa atual</value>
     <comment>Update current conversation</comment>
   </data>
   <data name="Shortcut_UpdateConversationExplanation" xml:space="preserve">
-    <value>Updates your current conversation when there are new messages.</value>
+    <value>Atualiza sua conversa atual quando há novas mensagens.</value>
     <comment>Updates your current conversation when there are new messages.</comment>
   </data>
   <data name="Shortcut_VerticalScroll" xml:space="preserve">
-    <value>Vertical Scroll</value>
+    <value>Rolagem vertical</value>
     <comment>Vertical Scroll</comment>
   </data>
   <data name="Shortcut_VerticalScrollExplanation" xml:space="preserve">
-    <value>Navigate up/down in the focused list of conversations or messages.</value>
+    <value>Navegue para cima/baixo na lista selecionada de conversas ou mensagens.</value>
     <comment>Navigate up/down in the focused list of conversations or messages.</comment>
   </data>
   <data name="WebBrowser_Back" xml:space="preserve">
-    <value>Back</value>
+    <value>Voltar</value>
     <comment>Back</comment>
   </data>
   <data name="WebBrowser_Forward" xml:space="preserve">
-    <value>Forward</value>
+    <value>Avançar</value>
     <comment>Forward</comment>
   </data>
   <data name="WebBrowser_Refresh" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Atualizar</value>
     <comment>Refresh</comment>
   </data>
   <data name="Welcome_AuthenticationFailed" xml:space="preserve">
-    <value>Authentication failed.</value>
+    <value>Autenticação falhou.</value>
     <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Google does not support 2-step verification when using username and password authentication.
+    <value>Google não suporta verificação de 2 etapas ao utilizar autenticação de usuário e senha.
 
-Consider configuring the account in Mailbird to use OAuth 2.0 authentication instead. </value>
+Considere configurar a conta no Mailbird para usar autenticação OAuth 2.0. </value>
     <comment>Google does not support 2-step verification when using username and password authentication.
 
 Consider configuring the account in Mailbird to use OAuth 2.0 authentication instead.</comment>
   </data>
   <data name="Welcome_ConnectionsLabel" xml:space="preserve">
-    <value>Connections:</value>
+    <value>Conexões:</value>
     <comment>Connections:</comment>
   </data>
   <data name="Welcome_DetectingSettingsSubTitle" xml:space="preserve">
-    <value>Please wait while we search for server settings.</value>
+    <value>Por favor aguarde enquanto procuramos pelas configurações do servidor.</value>
     <comment>Please wait while we search for server settings.</comment>
   </data>
   <data name="Welcome_DetectingSettingsTitle" xml:space="preserve">
-    <value>Detecting settings..</value>
+    <value>Detectando configurações...</value>
     <comment>Detecting settings..</comment>
   </data>
   <data name="Welcome_EditAccountTitle" xml:space="preserve">
-    <value>Edit account</value>
+    <value>Editar conta</value>
     <comment>Edit account</comment>
   </data>
   <data name="Welcome_EditServerSettingsLink" xml:space="preserve">
-    <value>Edit server settings</value>
+    <value>Editar configurações do servidor</value>
     <comment>Edit server settings</comment>
   </data>
   <data name="Welcome_EditSettingsTitle" xml:space="preserve">
-    <value>Edit settings</value>
+    <value>Editar configurações</value>
     <comment>Edit settings</comment>
   </data>
   <data name="Welcome_EncryptionLabel" xml:space="preserve">
-    <value>Encryption:</value>
+    <value>Encriptação:</value>
     <comment>Encryption:</comment>
   </data>
   <data name="Welcome_Facebook" xml:space="preserve">
-    <value>See profile photos of your friends and family in Mailbird. 
-We will never post anything to Facebook.</value>
+    <value>Ver fotos do perfil dos seus amigos e família no Mailbird.
+Nunca postaremos nada no Facebook.</value>
     <comment>See profile photos of your friends and family in Mailbird. 
 We will never post anything to Facebook.</comment>
   </data>
   <data name="Welcome_IncomingServer" xml:space="preserve">
-    <value>Incoming server</value>
+    <value>Servidor de entrada</value>
     <comment>Incoming server</comment>
   </data>
   <data name="Welcome_LearnMore" xml:space="preserve">
-    <value>Learn more</value>
+    <value>Aprender mais</value>
     <comment>Learn more</comment>
   </data>
   <data name="Welcome_OutgoingServerLabel" xml:space="preserve">
-    <value>Outgoing server</value>
+    <value>Servidor de saída</value>
     <comment>Outgoing server</comment>
   </data>
   <data name="Welcome_PortLabel" xml:space="preserve">
-    <value>Port:</value>
+    <value>Porta:</value>
     <comment>Port:</comment>
   </data>
   <data name="Welcome_RequiresAuthentication" xml:space="preserve">
-    <value>Requires authentication</value>
+    <value>Requer autenticação</value>
     <comment>Requires authentication</comment>
   </data>
   <data name="Welcome_ServerConnCheck1" xml:space="preserve">
-    <value>Server settings are correct.</value>
+    <value>As configurações do servidor estão corretas.</value>
     <comment>Server settings are correct.</comment>
   </data>
   <data name="Welcome_ServerConnCheck2" xml:space="preserve">
-    <value>No firewall is blocking Mailbird.</value>
+    <value>Nenhum firewall está bloqueando o Mailbird.</value>
     <comment>No firewall is blocking Mailbird.</comment>
   </data>
   <data name="Welcome_ServerConnCheck3" xml:space="preserve">
-    <value>Proxy settings are correct in Windows Internet Options.</value>
+    <value>As configurações de Proxy estão corretas nas opções do Windows Internet.</value>
     <comment>Proxy settings are correct in Windows Internet Options.</comment>
   </data>
   <data name="Welcome_ServerConnFailed" xml:space="preserve">
-    <value>Could not connect to server. Please check:</value>
+    <value>Não foi possível conectar ao servidor. Por favor verifique:</value>
     <comment>Could not connect to server. Please check:</comment>
   </data>
   <data name="Welcome_ServerNameLabel" xml:space="preserve">
-    <value>Server name:</value>
+    <value>Nome do servidor:</value>
     <comment>Server name:</comment>
   </data>
   <data name="Welcome_Servertype" xml:space="preserve">
-    <value>Server type:</value>
+    <value>Tipo de servidor:</value>
     <comment>Server type:</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_OAuth" xml:space="preserve">
-    <value>We've found server settings for your account.</value>
+    <value>Encontramos as configurações do servidor para sua conta.</value>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_SettingsFoundTitle" xml:space="preserve">
-    <value>Settings found</value>
+    <value>Configurações encontradas</value>
     <comment>Settings found</comment>
   </data>
   <data name="Welcome_SettingsNotFoundSubTitle" xml:space="preserve">
-    <value>We were unable to find settings for your account. Please input the required information below.</value>
+    <value>Não pudemos encontrar as configurações para sua conta. Por favor, insira as informações solicitadas abaixo.</value>
     <comment>We were unable to find settings for your account. Please input the required information below.</comment>
   </data>
   <data name="Welcome_SettingsNotFoundTitle" xml:space="preserve">
-    <value>Settings not found</value>
+    <value>Configurações não encontradas</value>
     <comment>Settings not found</comment>
   </data>
   <data name="Welcome_Skip" xml:space="preserve">
-    <value>skip</value>
+    <value>pular</value>
     <comment>skip</comment>
   </data>
   <data name="Welcome_SMTPServerLabel" xml:space="preserve">
-    <value>SMTP server:</value>
+    <value>Servidor SMTP:</value>
     <comment>SMTP server:</comment>
   </data>
   <data name="Welcome_Username" xml:space="preserve">
-    <value>Username:</value>
+    <value>Usuário:</value>
     <comment>Username:</comment>
   </data>
   <data name="Welcome_Welcome" xml:space="preserve">
-    <value>Add account</value>
+    <value>Adicionar conta</value>
     <comment>Add account</comment>
   </data>
   <data name="Welcome_WelcomeExplanation" xml:space="preserve">
-    <value>Enter the details of an email account you would like to add to Mailbird.</value>
+    <value>Insira os detalhes de uma conta de Email que você gostaria de adicionar ao Mailbird.</value>
     <comment>Enter the details of an email account you would like to add to Mailbird.</comment>
   </data>
   <data name="Report_OptionalEmail" xml:space="preserve">
-    <value>Your email: (optional - so we can contact you)</value>
+    <value>Seu Email: (opcional - para que possamos entrar em contato)</value>
     <comment>Your email: (optional - so we can contact you)</comment>
   </data>
   <data name="Report_OptionalEmail2" xml:space="preserve">
-    <value>Your email: (optional)</value>
+    <value>Seu Email: (opcional)</value>
     <comment>Your email: (optional)</comment>
   </data>
   <data name="Report_UseMailEditor" xml:space="preserve">
-    <value>Use mail editor</value>
+    <value>Utilizar editor de Email</value>
     <comment>Use mail editor</comment>
   </data>
   <data name="Error_DownloadingMessage" xml:space="preserve">
-    <value>An error occured downloading the message source. Please try again later.</value>
+    <value>Aconteceu um erro ao baixar a mensagem original. Por favor, tente novamente mais tarde.</value>
     <comment>An error occured downloading the message source. Please try again later.</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
-    <value>Could not create attachment cache file. Most likely anti-virus program prevented this.
-Path: {0}</value>
+    <value>Não foi possível criar o arquivo cache do anexo. Normalmente programas anti-vírus causam isto.
+Caminho: {0}</value>
     <comment>Could not create attachment cache file. Most likely anti-virus program prevented this.
 Path: {0}</comment>
   </data>
   <data name="Dialog_WhatIsThis" xml:space="preserve">
-    <value>What is this?</value>
+    <value>O que é isto?</value>
     <comment>What is this?</comment>
   </data>
   <data name="MailEditorFormattingBar_AlignCenter" xml:space="preserve">
-    <value>Align center</value>
+    <value>Centralizar</value>
     <comment>Align center</comment>
   </data>
   <data name="MailEditorFormattingBar_AlignLeft" xml:space="preserve">
-    <value>Align left</value>
+    <value>Alinhar à esquerda</value>
     <comment>Align left</comment>
   </data>
   <data name="MailEditorFormattingBar_AlignRight" xml:space="preserve">
-    <value>Align right</value>
+    <value>Alinhar à direita</value>
     <comment>Align right</comment>
   </data>
   <data name="MailEditorFormattingBar_Bold" xml:space="preserve">
-    <value>Bold</value>
+    <value>Negrito</value>
     <comment>Bold</comment>
   </data>
   <data name="MailEditorFormattingBar_Bullet" xml:space="preserve">
-    <value>Bullet</value>
+    <value>Marcador</value>
     <comment>Bullet</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpelling" xml:space="preserve">
-    <value>Check spelling</value>
+    <value>Verificar ortografia</value>
     <comment>Check spelling</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpellingAsYouType" xml:space="preserve">
-    <value>Check spelling as you type</value>
+    <value>Verificar ortografia enquanto você digita</value>
     <comment>Check spelling as you type</comment>
   </data>
   <data name="MailEditorFormattingBar_DecreaseSize" xml:space="preserve">
-    <value>Decrease size</value>
+    <value>Diminuir tamanho</value>
     <comment>Decrease size</comment>
   </data>
   <data name="MailEditorFormattingBar_EditHtml" xml:space="preserve">
-    <value>Edit HTML</value>
+    <value>Editar HTML</value>
     <comment>Edit HTML</comment>
   </data>
   <data name="MailEditorFormattingBar_Font" xml:space="preserve">
-    <value>Font</value>
+    <value>Fonte</value>
     <comment>Font</comment>
   </data>
   <data name="MailEditorFormattingBar_FontBackground" xml:space="preserve">
-    <value>Font background</value>
+    <value>Fundo do texto</value>
     <comment>Font background</comment>
   </data>
   <data name="MailEditorFormattingBar_FontColor" xml:space="preserve">
-    <value>Font color</value>
+    <value>Cor do texto</value>
     <comment>Font color</comment>
   </data>
   <data name="MailEditorFormattingBar_FontSize" xml:space="preserve">
-    <value>Font size</value>
+    <value>Tamanho da fonte</value>
     <comment>Font size</comment>
   </data>
   <data name="MailEditorFormattingBar_IncreaseSize" xml:space="preserve">
-    <value>Increase size</value>
+    <value>Aumentar tamanho</value>
     <comment>Increase size</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertHyperlink" xml:space="preserve">
-    <value>Insert link</value>
+    <value>Inserir link</value>
     <comment>Insert link</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
-    <value>Insert image</value>
+    <value>Inserir imagem</value>
     <comment>Insert image</comment>
   </data>
   <data name="MailEditorFormattingBar_Italic" xml:space="preserve">
-    <value>Italic</value>
+    <value>Itálico</value>
     <comment>Italic</comment>
   </data>
   <data name="MailEditorFormattingBar_Numbering" xml:space="preserve">
-    <value>Numbering</value>
+    <value>Lista numerada</value>
     <comment>Numbering</comment>
   </data>
   <data name="MailEditorFormattingBar_Underline" xml:space="preserve">
-    <value>Underline</value>
+    <value>Sublinhado</value>
     <comment>Underline</comment>
   </data>
   <data name="UpdateToPro_Annual" xml:space="preserve">
-    <value>Annual</value>
+    <value>Anual</value>
     <comment>Annual</comment>
   </data>
   <data name="UpdateToPro_FirstName" xml:space="preserve">
-    <value>First name</value>
+    <value>Primeiro nome</value>
     <comment>First name</comment>
   </data>
   <data name="UpdateToPro_GoPro" xml:space="preserve">
-    <value>Go Pro</value>
+    <value>Ser PRO</value>
     <comment>Go Pro</comment>
   </data>
   <data name="UpdateToPro_Includes" xml:space="preserve">
-    <value>Both includes:</value>
+    <value>Ambos incluem:</value>
     <comment>Both includes:</comment>
   </data>
   <data name="UpdateToPro_LastName" xml:space="preserve">
-    <value>Last name</value>
+    <value>Último nome</value>
     <comment>Last name</comment>
   </data>
   <data name="UpdateToPro_Lifetime" xml:space="preserve">
-    <value>Lifetime</value>
+    <value>Vitalício</value>
     <comment>Lifetime</comment>
   </data>
   <data name="UpdateToPro_ProOnlyFeatures" xml:space="preserve">
-    <value>Pro only features</value>
+    <value>Apenas recursos PRO</value>
     <comment>Pro only features</comment>
   </data>
   <data name="UpdateToPro_Subtitle" xml:space="preserve">
-    <value>Get Quick Preview and many other benefits</value>
+    <value>Receba visualização rápida e muitos outros benefícios.</value>
     <comment>Get Quick Preview and many other benefits</comment>
   </data>
   <data name="UpdateToPro_UnlimitedAccounts" xml:space="preserve">
-    <value>Unlimited accounts</value>
+    <value>Contas ilimitadas</value>
     <comment>Unlimited accounts</comment>
   </data>
   <data name="UpdateToPro_Wingman" xml:space="preserve">
@@ -2310,7 +2310,7 @@ Path: {0}</comment>
     <comment>Wingman productivity</comment>
   </data>
   <data name="Welcome_AccountIcon" xml:space="preserve">
-    <value>Icon</value>
+    <value>Ícone</value>
     <comment>Icon</comment>
   </data>
   <data name="Welcome_DefaultIdentity" xml:space="preserve">
