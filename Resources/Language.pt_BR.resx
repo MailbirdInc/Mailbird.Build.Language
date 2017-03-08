@@ -2326,19 +2326,19 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>The preselected sender identity when composing a new message with this account selected.</value>
+    <value>A identidade pré-selecionada do remetente quando uma nova mensagem for composta com esta conta selecionada.</value>
     <comment>The preselected sender identity when composing a new message with this account selected.</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
-    <value>The identity containing the outgoing settings for this account</value>
+    <value>A identidade selecionada contém as configurações de saída para esta conta</value>
     <comment>The identity containing the outgoing settings for this account</comment>
   </data>
   <data name="Contact_LinkedInLookup" xml:space="preserve">
-    <value>Look up on LinkedIn</value>
+    <value>Procurar no LinkedIn</value>
     <comment>Look up on LinkedIn</comment>
   </data>
   <data name="Dialog_Uninstall" xml:space="preserve">
-    <value>Delete Mailbird Storage?</value>
+    <value>Excluir armazenamento do Mailbird?</value>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
@@ -2348,15 +2348,15 @@ Se você pretende reinstalar o Mailbird, mantenha os dados para evitar começar 
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
-    <value>Add folder</value>
+    <value>Adicionar pasta</value>
     <comment>Add folder</comment>
   </data>
   <data name="Folder_Edit" xml:space="preserve">
-    <value>Edit folder</value>
+    <value>Editar pasta</value>
     <comment>Edit folder</comment>
   </data>
   <data name="Folder_Unmap" xml:space="preserve">
-    <value>Unmap</value>
+    <value>Desvincular</value>
     <comment>Unmap</comment>
   </data>
   <data name="Shortcut_Backspace" xml:space="preserve">
@@ -2368,51 +2368,51 @@ Se você pretende reinstalar o Mailbird, mantenha os dados para evitar começar 
     <comment>Enter</comment>
   </data>
   <data name="Shortcut_NotFound" xml:space="preserve">
-    <value>No shortcut found based on the search.</value>
+    <value>Nenhum atalho encontrado baseado na busca.</value>
     <comment>No shortcut found based on the search.</comment>
   </data>
   <data name="Shortcut_Space" xml:space="preserve">
-    <value>Space</value>
+    <value>Espaço</value>
     <comment>Space</comment>
   </data>
   <data name="AccountValidationRule_EmptyEncryption" xml:space="preserve">
-    <value>Please select an encryption</value>
+    <value>Por favor, selecione uma encriptação</value>
     <comment>Please select an encryption</comment>
   </data>
   <data name="AccountValidationRule_EmptyFirstName" xml:space="preserve">
-    <value>Please enter your first name</value>
+    <value>Por favor, insira seu primeiro nome</value>
     <comment>Please enter your first name</comment>
   </data>
   <data name="AccountValidationRule_EmptyLastName" xml:space="preserve">
-    <value>Please enter your last name</value>
+    <value>Por favor, insira seu último nome</value>
     <comment>Please enter your last name</comment>
   </data>
   <data name="AccountValidationRule_EmptyProxyUsername" xml:space="preserve">
-    <value>Please enter your proxy username</value>
+    <value>Por favor, insira seu usuário do proxy</value>
     <comment>Please enter your proxy username</comment>
   </data>
   <data name="Dialog_DiskWriteError" xml:space="preserve">
-    <value>Disk write error</value>
+    <value>Erro de escrita do disco</value>
     <comment>Disk write error</comment>
   </data>
   <data name="Dialog_DiskWriteErrorExplanation" xml:space="preserve">
-    <value>Mailbird was unable to write to the hard disk. This is commonly caused by a lack of space.
+    <value>Mailbird não conseguiu gravar no disco rígido. Isto acontece comumente por falta de espaço.
 
-Please check the free disk space and make more available if running low.</value>
+Por favor, verifique o espaço livre do disco e disponibilize algum, caso esteja acabando.</value>
     <comment>Mailbird was unable to write to the hard disk. This is commonly caused by a lack of space.
 
 Please check the free disk space and make more available if running low.</comment>
   </data>
   <data name="Dialog_ServerCertificateError" xml:space="preserve">
-    <value>Server certificate error</value>
+    <value>Erro de certificado do servidor</value>
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
+    <value>Mailbird detectou que o certificado SSL do servidor '{0}' é inválido.
 
-Please click "read more" button below for further information before continuing.
+Por favor, clique no botão "ler mais" abaixo para mais informações antes de continuar.
 
-Would you like to ignore the error permanently for this server?</value>
+Você gostaria de ignorar este erro permanentemente para este servidor?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
 
 Please click "read more" button below for further information before continuing.
@@ -2420,77 +2420,77 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
+    <value>Bom trabalho convidado seus amigos para usar o Mailbird! Aqui estão alguns emails que já foram enviados convites, então é hora de convidar outros para desbloquear suas recompensas do Mailbird PRO.
 
-Emails already invited: {0}</value>
+Emails já convidados: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
   </data>
   <data name="Invite_EmailSuggestions" xml:space="preserve">
-    <value>Type email or name of your friends</value>
+    <value>Digite o email ou nome dos seus amigos</value>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Invite your friends to try Mailbird &amp; get [bold]Mailbird Pro Lifetime for free [/bold] when {0} or more friends install it from your invites. Invite as many friends as you like!</value>
+    <value>Convide seus amigos para experimentar o Mailbird e consiga [bold]Mailbird PRO Vitalício gratuitamente[/bold] quando {0} ou mais amigos instalarem a partir dos seus convites. Convide quantos amigos você quiser!</value>
     <comment>Invite your friends to try Mailbird &amp; get [bold]Mailbird Pro Lifetime for free [/bold] when {0} or more friends install it from your invites. Invite as many friends as you like!</comment>
   </data>
   <data name="Invite_FailedConnectionMessage" xml:space="preserve">
-    <value>The connection failed. Please try again later.
+    <value>A conexão falhou. Tente novamente mais tarde.
 
-Message: {0}</value>
+Mensagem: {0}</value>
     <comment>The connection failed. Please try again later.
 
 Message: {0}</comment>
   </data>
   <data name="Invite_FailedUpdateInvitationList" xml:space="preserve">
-    <value>Could not update invitation list.</value>
+    <value>Não foi possível atualizar a lista de convites.</value>
     <comment>Could not update invitation list.</comment>
   </data>
   <data name="Invite_InviteMore" xml:space="preserve">
-    <value>Invite more friends</value>
+    <value>Convidar mais amigos</value>
     <comment>Invite more friends</comment>
   </data>
   <data name="Invite_NoFriendSelected" xml:space="preserve">
-    <value>No friends selected</value>
+    <value>Sem amigos selecionados</value>
     <comment>No friends selected</comment>
   </data>
   <data name="Invite_NoFriendSelectedExplanation" xml:space="preserve">
-    <value>Please select at least one friend to invite.</value>
+    <value>Por favor, selecione ao menos um amigo para convidar.</value>
     <comment>Please select at least one friend to invite.</comment>
   </data>
   <data name="Invite_Send" xml:space="preserve">
-    <value>Invite to Mailbird</value>
+    <value>Convidar para o Mailbird</value>
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_Sent" xml:space="preserve">
-    <value>Invitations sent</value>
+    <value>Convites enviados</value>
     <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Thanks for inviting!</value>
+    <value>Obrigado por convidar!</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>[bold]Invite friends to fly together[/bold]
-and get Mailbird Lifetime for free!</value>
+    <value>[bold]Convide amigos para voar juntos[/bold]
+e receber Mailbird Vitalício gratuitamente!</value>
     <comment>[bold]Invite friends to fly together[/bold]
 and get Mailbird Lifetime for free!</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
-    <value>Sent invitations</value>
+    <value>Enviar convites</value>
     <comment>Sent invitations</comment>
   </data>
   <data name="Invite_UnableInvitePeople" xml:space="preserve">
-    <value>Could not invite people</value>
+    <value>Não foi possível convidar pessoas</value>
     <comment>Could not invite people</comment>
   </data>
   <data name="Invite_ViewList" xml:space="preserve">
-    <value>See invitations</value>
+    <value>Ver convites</value>
     <comment>See invitations</comment>
   </data>
   <data name="Options_ChangeProxy" xml:space="preserve">
-    <value>Change proxy settings</value>
+    <value>Mudar configurações do proxy</value>
     <comment>Change proxy settings</comment>
   </data>
   <data name="Options_Network" xml:space="preserve">
@@ -2498,11 +2498,11 @@ and get Mailbird Lifetime for free!</comment>
     <comment>Network</comment>
   </data>
   <data name="Options_ProxyExplanation" xml:space="preserve">
-    <value>Mailbird is using your computer's system proxy settings to connect to the network.</value>
+    <value>Mailbird está usando as configurações proxy do seu computador para se conectar à rede.</value>
     <comment>Mailbird is using your computer's system proxy settings to connect to the network.</comment>
   </data>
   <data name="Options_ProxyNeedAuthentication" xml:space="preserve">
-    <value>Proxy requires authentication</value>
+    <value>Proxy requer autenticação</value>
     <comment>Proxy requires authentication</comment>
   </data>
   <data name="Options_ProxyPassword" xml:space="preserve">
@@ -2510,43 +2510,43 @@ and get Mailbird Lifetime for free!</comment>
     <comment>Password:</comment>
   </data>
   <data name="Options_ProxyUsername" xml:space="preserve">
-    <value>Username:</value>
+    <value>Usuário:</value>
     <comment>Username:</comment>
   </data>
   <data name="Welcome_FailedProxyAuthentication" xml:space="preserve">
-    <value>Authentication with the proxy server failed.
+    <value>Autenticação com o servidor proxy falhou.
 
-Please exit out of this window to check the credentials and try again.</value>
+Por favor, feche esta janela para verificar as credenciais e tente novamente.</value>
     <comment>Authentication with the proxy server failed.
 
 Please exit out of this window to check the credentials and try again.</comment>
   </data>
   <data name="Welcome_UnableCreateAccount" xml:space="preserve">
-    <value>Cannot create account</value>
+    <value>Não foi possível criar a conta</value>
     <comment>Cannot create account</comment>
   </data>
   <data name="Welcome_UnableCreateAccountExplanation" xml:space="preserve">
-    <value>An account with the same email address already exists.</value>
+    <value>Uma conta com o mesmo endereço de email já existe.</value>
     <comment>An account with the same email address already exists.</comment>
   </data>
   <data name="FolderIdentity_More" xml:space="preserve">
-    <value>More</value>
+    <value>Mais</value>
     <comment>More</comment>
   </data>
   <data name="Upgrade_NoAds" xml:space="preserve">
-    <value>Enjoy Mailbird without ads and get many other features to boost your productivity.</value>
+    <value>Aproveite o Mailbird sem anúncios e ganhe muitos outros recursos para impulsionar sua produtividade.</value>
     <comment>Enjoy Mailbird without ads and get many other features to boost your productivity.</comment>
   </data>
   <data name="Upgrade_QuickPreview" xml:space="preserve">
-    <value>Get Quick Preview and many other features to boost your productivity.</value>
+    <value>Obtenha Visualização Rápida e muitos outros recursos para impulsionar sua produtividade.</value>
     <comment>Get Quick Preview and many other features to boost your productivity.</comment>
   </data>
   <data name="Upgrade_UnlimitedAccount" xml:space="preserve">
-    <value>Add unlimited accounts and get many other features to boost your productivity.</value>
+    <value>Adicione contas ilimitadas e obtenha muitos outros recursos para impulsionar sua produtividade.</value>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
-    <value>The selected language will be applied after you restart Mailbird.</value>
+    <value>O idioma selecionado será aplicado após você reiniciar o Mailbird.</value>
     <comment>The selected language will be applied after you restart Mailbird.</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
