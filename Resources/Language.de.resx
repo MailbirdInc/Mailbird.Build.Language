@@ -1580,7 +1580,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Appearance</comment>
   </data>
   <data name="Options_GroupUnread" xml:space="preserve">
-    <value>Ungelesene Themen oben gruppieren</value>
+    <value>Ungelesene Themen oben anzeigen</value>
     <comment>Group unread conversations at the top</comment>
   </data>
   <data name="Options_HideIcon" xml:space="preserve">
@@ -1692,7 +1692,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>Neuer Benachrichtigungston:</value>
+    <value>Akustische Benachrichtigung festlegen:</value>
     <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
@@ -2653,7 +2653,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
-    <value>Die ausgewählte Sprache wird nach dem Neustart von Mailbird angewendet.</value>
+    <value>Die ausgewählte Sprache steht erst nach dem Neustart von Mailbird zur Verfügung.</value>
     <comment>The selected language will be applied after you restart Mailbird</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
@@ -2733,7 +2733,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Additional resources &amp; information</comment>
   </data>
   <data name="Options_AppBehavior" xml:space="preserve">
-    <value>Anwendungsverhalten</value>
+    <value>Verhalten</value>
     <comment>Application behavior</comment>
   </data>
   <data name="Options_ClickToRecord" xml:space="preserve">
@@ -2757,7 +2757,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Edit</comment>
   </data>
   <data name="Options_Language" xml:space="preserve">
-    <value>Sprache</value>
+    <value>Sprache festlegen</value>
     <comment>Language</comment>
   </data>
   <data name="Options_Messages" xml:space="preserve">
@@ -3726,7 +3726,7 @@ Beachten Sie jedoch, dass dies die Leistung der Bedienoberfläche erheblich vers
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
   </data>
   <data name="Options_Composing" xml:space="preserve">
-    <value>Verfassen</value>
+    <value>Nachricht verfassen</value>
     <comment>Composing</comment>
   </data>
   <data name="Options_Snooze_Preferences" xml:space="preserve">
@@ -4490,7 +4490,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>{0} seconds</comment>
   </data>
   <data name="Options_Sending" xml:space="preserve">
-    <value>Wird gesendet</value>
+    <value>Beim Senden</value>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
@@ -4502,7 +4502,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Zeitangabe, um welche das Senden von Nachrichten verzögert ausgeführt werden soll, um das Senden widerrufen zu können.</value>
+    <value>Zeitangabe, um welche das Senden von Nachrichten verzögert werden soll, um das Senden widerrufen zu können.</value>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
