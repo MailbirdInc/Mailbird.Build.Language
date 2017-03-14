@@ -5335,14 +5335,6 @@ Para adicionar um contato, clique no botão "Adicionar contato".</value>
     <value>Exportar contatos do grupo para vCards</value>
     <comment>Export group contacts to vCards</comment>
   </data>
-  <data name="App_Contacts_MenuSortAZ" xml:space="preserve">
-    <value>Classificar de A a Z</value>
-    <comment>Sort by A to Z</comment>
-  </data>
-  <data name="App_Contacts_MenuSortZA" xml:space="preserve">
-    <value>Classificar de Z a A</value>
-    <comment>Sort by Z to A</comment>
-  </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
     <value>+ Conectar outra conta</value>
     <comment>+ Connect other account</comment>
@@ -5480,7 +5472,7 @@ Para adicionar um contato, clique no botão "Adicionar contato".</value>
     <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
-    <value>Adicionar contato</value>
+    <value>Create or add a contact</value>
     <comment>Add contact</comment>
   </data>
   <data name="App_Contacts_CollapseGroups" xml:space="preserve">
@@ -5668,5 +5660,95 @@ This will disable contact sync and remove the account's groups and contacts from
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
     <value>Conectando conta...</value>
     <comment>Progress message when connecting an account in the Contacts app</comment>
+  </data>
+<data name="App_Contacts_MenuSortFirstLast" xml:space="preserve">
+    <value>Sort by First, Last</value>
+    <comment>Sort by First, Last</comment>
+  </data>
+  <data name="App_Contacts_MenuSortLastFirst" xml:space="preserve">
+    <value>Sort by Last, First</value>
+    <comment>Sort by Last, First</comment>
+  </data>
+  <data name="Dialog_Activate" xml:space="preserve">
+    <value>Activate</value>
+    <comment>Activate</comment>
+  </data>
+  <data name="Trial_DowngradeToLite" xml:space="preserve">
+    <value>Downgrade me to Mailbird LITE</value>
+    <comment>Downgrade me to Mailbird LITE</comment>
+  </data>
+  <data name="Trial_DowngradeToLite2" xml:space="preserve">
+    <value>No, downgrade me to Mailbird Lite</value>
+    <comment>No, downgrade me to Mailbird Lite</comment>
+  </data>
+  <data name="Trial_EndDescription" xml:space="preserve">
+    <value>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</value>
+    <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
+  </data>
+  <data name="Trial_EndSubtitle" xml:space="preserve">
+    <value>Your Mailbird Pro Trial has ended.</value>
+    <comment>Your Mailbird Pro Trial has ended.</comment>
+  </data>
+  <data name="Trial_EndTitle" xml:space="preserve">
+    <value>Did you enjoy flying 
+with Mailbird Pro?</value>
+    <comment>Did you enjoy flying 
+with Mailbird Pro?</comment>
+  </data>
+  <data name="Trial_ForgotLicense" xml:space="preserve">
+    <value>I don't remember my license key</value>
+    <comment>I don't remember my license key</comment>
+  </data>
+  <data name="Trial_SendInviteButton" xml:space="preserve">
+    <value>Yes, Let's do it!</value>
+    <comment>Yes, Let's do it!</comment>
+  </data>
+  <data name="Trial_SendInviteConfirmationDescription" xml:space="preserve">
+    <value>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</value>
+    <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
+  </data>
+  <data name="Trial_SendInviteDescription" xml:space="preserve">
+    <value>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</value>
+    <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
+  </data>
+  <data name="Trial_SendInviteTitle" xml:space="preserve">
+    <value>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</value>
+    <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
+  </data>
+  <data name="App_Contacts_CreateContact" xml:space="preserve">
+    <value>Create contact</value>
+    <comment>Tooltip for button to create contact</comment>
+  </data>
+  <data name="App_Contacts_FieldTypeName_Custom" xml:space="preserve">
+    <value>Custom</value>
+    <comment>Singular type name for this field type in the contact manager</comment>
+  </data>
+  <data name="App_Contacts_FieldTypeName_Date" xml:space="preserve">
+    <value>Date</value>
+    <comment>Singular type name for this field type in the contact manager</comment>
+  </data>
+  <data name="App_Contacts_FieldTypeName_Email" xml:space="preserve">
+    <value>Email</value>
+    <comment>Singular type name for this field type in the contact manager</comment>
+  </data>
+  <data name="App_Contacts_FieldTypeName_InstantMessenger" xml:space="preserve">
+    <value>IM</value>
+    <comment>Singular type name for this field type in the contact manager</comment>
+  </data>
+  <data name="App_Contacts_FieldTypeName_Phone" xml:space="preserve">
+    <value>Phone</value>
+    <comment>Singular type name for this field type in the contact manager</comment>
+  </data>
+  <data name="App_Contacts_FieldTypeName_PostalAddress" xml:space="preserve">
+    <value>Address</value>
+    <comment>Singular type name for this field type in the contact manager</comment>
+  </data>
+  <data name="App_Contacts_FieldTypeName_Relation" xml:space="preserve">
+    <value>Relation</value>
+    <comment>Singular type name for this field type in the contact manager</comment>
+  </data>
+  <data name="App_Contacts_FieldTypeName_Website" xml:space="preserve">
+    <value>Website</value>
+    <comment>Singular type name for this field type in the contact manager</comment>
   </data>
 </root>
