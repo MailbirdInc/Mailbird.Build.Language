@@ -2535,7 +2535,7 @@ E-maile już zaproszone: {0}</value>
 Emails already invited: {0}</comment>
   </data>
   <data name="Invite_EmailSuggestions" xml:space="preserve">
-    <value>Wprowadź adresy e-mail lub nazwiska swoich znajomych</value>
+    <value>Wprowadź e-maile lub nazwiska znajomych</value>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
@@ -2993,7 +2993,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>{0} will be replaced by the name of company, so the result will be "Search for Microsoft Ltd"</comment>
   </data>
   <data name="App_Contacts_SendEmail" xml:space="preserve">
-    <value>E-mail {0}</value>
+    <value>E-mail do {0}</value>
     <comment>{0} will be replaced by the email address, so the result will be "Send email to test@gmail.com"</comment>
   </data>
   <data name="App_Contacts_AddGroup_Cancel" xml:space="preserve">
@@ -4936,7 +4936,7 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Zaproś znajomych, to proste. Kiedy {0} lub więcej z nich zainstaluje Mailbird z twojego zaproszenia, zdobędziesz Mailbird Pro na zawsze [bold]ZA DARMO[/bold].</value>
+    <value>Zaproś znajomych, to proste. Kiedy {0} lub więcej zainstaluje Mailbird z twojego zaproszenia, zdobędziesz Mailbird Pro na zawsze [bold]ZA DARMO[/bold].</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
@@ -5091,7 +5091,7 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Share on social and get more invites</comment>
   </data>
   <data name="ShareReferralLink_Link" xml:space="preserve">
-    <value>odnośnik</value>
+    <value>link</value>
     <comment>link</comment>
   </data>
   <data name="ShareReferralLink_Share" xml:space="preserve">
@@ -5099,7 +5099,7 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Share</comment>
   </data>
   <data name="ShareReferralLink_Title" xml:space="preserve">
-    <value>Udostępnij Mailbird bezpośrednio na Facebooku lub Twitterze</value>
+    <value>Udostępnij Mailbird na Facebooku lub Twitterze</value>
     <comment>Share Mailbird directly on Facebook or Twitter</comment>
   </data>
   <data name="ShareReferralLink_Tweet" xml:space="preserve">
@@ -5322,7 +5322,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Linked contacts</comment>
   </data>
   <data name="App_Contacts_LinkedContactsCountPlural" xml:space="preserve">
-    <value>({0} połączone kontakty)</value>
+    <value>({0} połączonych kontaktów)</value>
     <comment>({0} linked contacts)</comment>
   </data>
   <data name="App_Contacts_LinkContact" xml:space="preserve">
@@ -5442,11 +5442,11 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Accounts</comment>
   </data>
   <data name="App_Contacts_MenuDisplayFirstLast" xml:space="preserve">
-    <value>Pokazuj jako Imię, Nazwisko</value>
+    <value>Wyświetl według Imię, Nazwisko</value>
     <comment>Display by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuDisplayLastFirst" xml:space="preserve">
-    <value>Pokazuj jako Nazwisko, Imię</value>
+    <value>Wyświetl według Nazwisko, Imię</value>
     <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
@@ -5570,7 +5570,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>"{0}" (add group)</comment>
   </data>
   <data name="App_Contacts_LinkContactExplanation" xml:space="preserve">
-    <value>Połącz z kontaktami z innych kont, aby pokazać je w Mailbird pojedynczo</value>
+    <value>Połącz z kontaktami z innych kont, aby pokazać je w Mailbird jako jeden</value>
     <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
   </data>
   <data name="App_Contacts_NoLinkedContacts" xml:space="preserve">
@@ -5590,7 +5590,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
-    <value>Create or add a contact</value>
+    <value>Utwórz lub dodaj kontakt</value>
     <comment>Add contact</comment>
   </data>
   <data name="App_Contacts_CollapseGroups" xml:space="preserve">
@@ -5780,93 +5780,93 @@ Spowoduje to wyłączenie synchronizacji kontaktów oraz usunięcie zapisanych n
     <comment>Progress message when connecting an account in the Contacts app</comment>
   </data>
 <data name="App_Contacts_MenuSortFirstLast" xml:space="preserve">
-    <value>Sort by First, Last</value>
+    <value>Sortuj według Imię, Nazwisko</value>
     <comment>Sort by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuSortLastFirst" xml:space="preserve">
-    <value>Sort by Last, First</value>
+    <value>Sortuj według Nazwisko, Imię</value>
     <comment>Sort by Last, First</comment>
   </data>
   <data name="Dialog_Activate" xml:space="preserve">
-    <value>Activate</value>
+    <value>Aktywuj</value>
     <comment>Activate</comment>
   </data>
   <data name="Trial_DowngradeToLite" xml:space="preserve">
-    <value>Downgrade me to Mailbird LITE</value>
+    <value>Chcę wrócić do Mailbird LITE</value>
     <comment>Downgrade me to Mailbird LITE</comment>
   </data>
   <data name="Trial_DowngradeToLite2" xml:space="preserve">
-    <value>No, downgrade me to Mailbird Lite</value>
+    <value>Nie, chcę wrócić do Mailbird Lite</value>
     <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</value>
+    <value>Aby nadal w pełni korzystać z Mailbird odkładając e-maile na później, używać nielimitowanej ilości kont i wiele więcej, będziesz musiał zakupić Mailbird Pro.</value>
     <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
-    <value>Your Mailbird Pro Trial has ended.</value>
+    <value>Okres testowy Mailbird Pro został zakończony.</value>
     <comment>Your Mailbird Pro Trial has ended.</comment>
   </data>
   <data name="Trial_EndTitle" xml:space="preserve">
-    <value>Did you enjoy flying 
-with Mailbird Pro?</value>
+    <value>Czy polubiłeś latanie
+z Mailbird Pro?</value>
     <comment>Did you enjoy flying 
 with Mailbird Pro?</comment>
   </data>
   <data name="Trial_ForgotLicense" xml:space="preserve">
-    <value>I don't remember my license key</value>
+    <value>Nie pamiętam mojego klucza licencyjnego</value>
     <comment>I don't remember my license key</comment>
   </data>
   <data name="Trial_SendInviteButton" xml:space="preserve">
-    <value>Yes, Let's do it!</value>
+    <value>Tak, zróbmy to!</value>
     <comment>Yes, Let's do it!</comment>
   </data>
   <data name="Trial_SendInviteConfirmationDescription" xml:space="preserve">
-    <value>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</value>
+    <value>Wyślesz zaproszenia do wszystkich swoich kontaktów, które korzystają z adresów e-mail @gmail.com, @yahoo.com i kilku innych najpopularniejszych dostawców poczty elektronicznej.</value>
     <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
   </data>
   <data name="Trial_SendInviteDescription" xml:space="preserve">
-    <value>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</value>
+    <value>Jeśli 5 twoich znajomych zainstaluje Mailbird poprzez twoje zaproszenie, wygrasz, a my w międzyczasie przedłużymy twój okres testowy o 7 dni.</value>
     <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
   </data>
   <data name="Trial_SendInviteTitle" xml:space="preserve">
-    <value>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</value>
+    <value>Czy chcesz zaprosić swoich znajomych, aby wygrać dożywotnią licencję Mailbird Pro [bold]ZA DARMO?[/bold]</value>
     <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
   </data>
   <data name="App_Contacts_CreateContact" xml:space="preserve">
-    <value>Create contact</value>
+    <value>Utwórz kontakt</value>
     <comment>Tooltip for button to create contact</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Custom" xml:space="preserve">
-    <value>Custom</value>
+    <value>Własne</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Date" xml:space="preserve">
-    <value>Date</value>
+    <value>Data</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Email" xml:space="preserve">
-    <value>Email</value>
+    <value>E-mail</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_InstantMessenger" xml:space="preserve">
-    <value>IM</value>
+    <value>Komunikator</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Phone" xml:space="preserve">
-    <value>Phone</value>
+    <value>Telefon</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_PostalAddress" xml:space="preserve">
-    <value>Address</value>
+    <value>Adres</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Relation" xml:space="preserve">
-    <value>Relation</value>
+    <value>Powiązanie</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Website" xml:space="preserve">
-    <value>Website</value>
+    <value>Strona internetowa</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
 </root>
