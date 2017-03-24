@@ -5559,14 +5559,6 @@ NB: Text for button to skip the survey</comment>
     <value>搜索群组</value>
     <comment>Search group</comment>
   </data>
-  <data name="App_Contacts_Groups_Add" xml:space="preserve">
-    <value>添加群组</value>
-    <comment>Add group</comment>
-  </data>
-  <data name="App_Contacts_Groups_AddFromSearch" xml:space="preserve">
-    <value>"{0}" (添加群组)</value>
-    <comment>"{0}" (add group)</comment>
-  </data>
   <data name="App_Contacts_LinkContactExplanation" xml:space="preserve">
     <value>从别的账户中连接联系人以在Mailbird中显示</value>
     <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
@@ -5866,5 +5858,56 @@ with Mailbird Pro?</comment>
   <data name="App_Contacts_FieldTypeName_Website" xml:space="preserve">
     <value>Website</value>
     <comment>Singular type name for this field type in the contact manager</comment>
+  </data>
+<data name="App_Contacts_Groups_CreateFromSearch" xml:space="preserve">
+    <value>"{0}" (create group)</value>
+    <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
+  </data>
+  <data name="Conversation_Refresh" xml:space="preserve">
+    <value>Refresh and sync</value>
+    <comment>Refresh and sync</comment>
+  </data>
+  <data name="Notification_Synced" xml:space="preserve">
+    <value>Up to date</value>
+    <comment>Up to date</comment>
+  </data>
+  <data name="App_Contacts_CropPicture_Done" xml:space="preserve">
+    <value>Done</value>
+    <comment>Button when finish editing picture</comment>
+  </data>
+  <data name="App_Contacts_CropPicture_Title" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="App_Contacts_RotateCCW" xml:space="preserve">
+    <value>Rotate 90° counter-clockwise</value>
+    <comment>Tooltip for rotate image button</comment>
+  </data>
+  <data name="App_Contacts_RotateCW" xml:space="preserve">
+    <value>Rotate 90° clockwise</value>
+    <comment>Tooltip for rotate image button</comment>
+  </data>
+  <data name="App_Contacts_Merge" xml:space="preserve">
+    <value>Merge</value>
+    <comment>Button that when clicked will merge the selected contact with the current contact.</comment>
+  </data>
+  <data name="App_Contacts_ImageNotSupported" xml:space="preserve">
+    <value>Error loading image</value>
+    <comment>Title of message box when opening unsupported file</comment>
+  </data>
+  <data name="App_Contacts_ImageNotSupportedExplanation" xml:space="preserve">
+    <value>Format not supported or file is corrupted.</value>
+    <comment>Explanation of message box when opening unsupported file</comment>
+  </data>
+  <data name="App_Contacts_Groups_CreateIn" xml:space="preserve">
+    <value>In [semibold]{0}[/semibold]</value>
+    <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
+  </data>
+  <data name="Notification_Dismiss" xml:space="preserve">
+    <value>Dismiss</value>
+    <comment>Dismiss</comment>
+  </data>
+  <data name="Notification_Syncing" xml:space="preserve">
+    <value>Syncing</value>
+    <comment>Syncing</comment>
   </data>
 </root>
