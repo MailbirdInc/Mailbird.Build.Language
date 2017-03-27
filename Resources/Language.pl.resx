@@ -600,7 +600,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email:</comment>
   </data>
   <data name="Account_Name" xml:space="preserve">
-    <value>Twoje nazwisko:</value>
+    <value>Nazwa wyświetlana:</value>
     <comment>Your name:</comment>
   </data>
   <data name="Account_Password" xml:space="preserve">
@@ -884,7 +884,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email</comment>
   </data>
   <data name="Dialog_NameLabel" xml:space="preserve">
-    <value>Nazwa:</value>
+    <value>Nazwa wyświetlana:</value>
     <comment>Name:</comment>
   </data>
   <data name="EditFolderWindow_NestFolderUnderLabel" xml:space="preserve">
@@ -2535,7 +2535,7 @@ E-maile już zaproszone: {0}</value>
 Emails already invited: {0}</comment>
   </data>
   <data name="Invite_EmailSuggestions" xml:space="preserve">
-    <value>Wprowadź e-maile lub nazwiska znajomych</value>
+    <value>Wprowadź adresy e-mail lub imiona znajomych</value>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
@@ -2576,7 +2576,7 @@ Message: {0}</comment>
     <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Dziękuję za zaproszenie!</value>
+    <value>Dziękujemy za zaproszenie!</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
@@ -3356,7 +3356,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Remove nickname</comment>
   </data>
   <data name="App_Contacts_FieldNotes" xml:space="preserve">
-    <value>Notatki</value>
+    <value>Uwagi</value>
     <comment>Notes</comment>
   </data>
   <data name="App_Attachments_NoAttachments" xml:space="preserve">
@@ -4043,7 +4043,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Your beautiful and simple online to-do list App.</comment>
   </data>
   <data name="InboxZero_Facebook" xml:space="preserve">
-    <value>Udostępnij na Facebooku</value>
+    <value>Udostępnij</value>
     <comment>Share on Facebook</comment>
   </data>
   <data name="InboxZero_Twitter" xml:space="preserve">
@@ -5099,7 +5099,7 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Share</comment>
   </data>
   <data name="ShareReferralLink_Title" xml:space="preserve">
-    <value>Udostępnij Mailbird na Facebooku lub Twitterze</value>
+    <value>Udostępnij link polecający na Facebooku lub Twitterze</value>
     <comment>Share Mailbird directly on Facebook or Twitter</comment>
   </data>
   <data name="ShareReferralLink_Tweet" xml:space="preserve">
@@ -5176,7 +5176,7 @@ NB: Text for button to send the survey</comment>
 NB: Text for button to skip the survey</comment>
   </data>
 <data name="App_Contacts_FieldType_Home" xml:space="preserve">
-    <value>Dom</value>
+    <value>Prywatny</value>
     <comment>Home</comment>
   </data>
   <data name="App_Contacts_FieldType_Other" xml:space="preserve">
@@ -5184,7 +5184,7 @@ NB: Text for button to skip the survey</comment>
     <comment>Other</comment>
   </data>
   <data name="App_Contacts_FieldType_Work" xml:space="preserve">
-    <value>Praca</value>
+    <value>Służbowy</value>
     <comment>Work</comment>
   </data>
   <data name="App_Contacts_PhoneType_GoogleVoice" xml:space="preserve">
@@ -5224,7 +5224,7 @@ NB: Text for button to skip the survey</comment>
     <comment>Friend</comment>
   </data>
   <data name="App_Contacts_FieldType_Manager" xml:space="preserve">
-    <value>Menadżer</value>
+    <value>Przełożony</value>
     <comment>Manager</comment>
   </data>
   <data name="App_Contacts_FieldType_Mother" xml:space="preserve">
@@ -5244,7 +5244,7 @@ NB: Text for button to skip the survey</comment>
     <comment>Profile</comment>
   </data>
   <data name="App_Contacts_FieldType_ReferredBy" xml:space="preserve">
-    <value>Polecony przez</value>
+    <value>Polecający</value>
     <comment>Referred by</comment>
   </data>
   <data name="App_Contacts_FieldType_Relative" xml:space="preserve">
@@ -5282,7 +5282,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Placeholder text when no contacts in selected group</comment>
   </data>
   <data name="App_Contacts_ContactsPlural" xml:space="preserve">
-    <value>{0} kontaktów</value>
+    <value>{0} kontakty</value>
     <comment>{0} contacts</comment>
   </data>
   <data name="App_Contacts_ContactsSingular" xml:space="preserve">
@@ -5322,7 +5322,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Linked contacts</comment>
   </data>
   <data name="App_Contacts_LinkedContactsCountPlural" xml:space="preserve">
-    <value>({0} połączonych kontaktów)</value>
+    <value>({0} połączone kontakty)</value>
     <comment>({0} linked contacts)</comment>
   </data>
   <data name="App_Contacts_LinkContact" xml:space="preserve">
@@ -5370,7 +5370,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>add address</comment>
   </data>
   <data name="App_Contacts_FieldAddBirthday" xml:space="preserve">
-    <value>dodaj datę urodzin</value>
+    <value>dodaj urodziny</value>
     <comment>add birthday</comment>
   </data>
   <data name="App_Contacts_FieldAddCompany" xml:space="preserve">
@@ -5394,11 +5394,11 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>add job title</comment>
   </data>
   <data name="App_Contacts_FieldAddNotes" xml:space="preserve">
-    <value>dodaj notatki</value>
+    <value>dodaj uwagi</value>
     <comment>add notes</comment>
   </data>
   <data name="App_Contacts_FieldAddRelation" xml:space="preserve">
-    <value>dodaj powiązanie</value>
+    <value>dodaj związek</value>
     <comment>add relation</comment>
   </data>
   <data name="App_Contacts_FieldAddWebsite" xml:space="preserve">
@@ -5406,7 +5406,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>add website</comment>
   </data>
   <data name="App_Contacts_SingularFieldExplanation" xml:space="preserve">
-    <value>Zostanie wyświetlony podczas przeglądania kontaktu</value>
+    <value>Zostanie wyświetlone podczas przeglądania kontaktu</value>
     <comment>This will be displayed when viewing the contact</comment>
   </data>
   <data name="App_Contacts_FieldCity" xml:space="preserve">
@@ -5442,11 +5442,11 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Accounts</comment>
   </data>
   <data name="App_Contacts_MenuDisplayFirstLast" xml:space="preserve">
-    <value>Wyświetl według Imię, Nazwisko</value>
+    <value>Wyświetl według imię, nazwisko</value>
     <comment>Display by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuDisplayLastFirst" xml:space="preserve">
-    <value>Wyświetl według Nazwisko, Imię</value>
+    <value>Wyświetl według nazwisko, imię</value>
     <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
@@ -5578,7 +5578,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
-    <value>Scal kontakt</value>
+    <value>Scal kontakty</value>
     <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
@@ -5641,7 +5641,7 @@ NB: button to hide extra fields when editing contact</comment>
     <comment>Add to a group</comment>
   </data>
   <data name="App_Contacts_AddContact_InAccount" xml:space="preserve">
-    <value>W "{0}"</value>
+    <value>w "{0}"</value>
     <comment>In "{0}"
 NB: This will be used to tell user in which account the new contact will be saved. {0} will be replaced with an account name, e.g. [In "email@email.com"]</comment>
   </data>
@@ -5668,7 +5668,7 @@ NB: Menu in context menu to do copy action</comment>
     <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
   </data>
   <data name="App_Contacts_FieldNameSuffix" xml:space="preserve">
-    <value>Przyrostek</value>
+    <value>Sufiks</value>
     <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
   </data>
   <data name="SpeedRead_Speed" xml:space="preserve">
@@ -5708,11 +5708,11 @@ Spowoduje to wyłączenie synchronizacji kontaktów oraz usunięcie zapisanych n
     <comment>Button to show middle name when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddSuffix" xml:space="preserve">
-    <value>przyrostek</value>
+    <value>sufiks</value>
     <comment>Button to show suffix of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddTitle" xml:space="preserve">
-    <value>tytuł grzecznościowy</value>
+    <value>tytuł</value>
     <comment>Button to show title of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldOr" xml:space="preserve">
@@ -5744,7 +5744,7 @@ Spowoduje to wyłączenie synchronizacji kontaktów oraz usunięcie zapisanych n
     <comment>Error message when trying to add group with the same name</comment>
   </data>
   <data name="App_Contacts_FieldType_HomePage" xml:space="preserve">
-    <value>Strona Główna</value>
+    <value>Strona główna</value>
     <comment>Contact website field type</comment>
   </data>
   <data name="App_Contacts_DisconnectingAccount" xml:space="preserve">
@@ -5772,11 +5772,11 @@ Spowoduje to wyłączenie synchronizacji kontaktów oraz usunięcie zapisanych n
     <comment>Progress message when connecting an account in the Contacts app</comment>
   </data>
 <data name="App_Contacts_MenuSortFirstLast" xml:space="preserve">
-    <value>Sortuj według Imię, Nazwisko</value>
+    <value>Sortuj według imię, nazwisko</value>
     <comment>Sort by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuSortLastFirst" xml:space="preserve">
-    <value>Sortuj według Nazwisko, Imię</value>
+    <value>Sortuj według nazwisko, imię</value>
     <comment>Sort by Last, First</comment>
   </data>
   <data name="Dialog_Activate" xml:space="preserve">
@@ -5854,7 +5854,7 @@ with Mailbird Pro?</comment>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Relation" xml:space="preserve">
-    <value>Powiązanie</value>
+    <value>Związek</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Website" xml:space="preserve">
@@ -5862,11 +5862,11 @@ with Mailbird Pro?</comment>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
 <data name="App_Contacts_Groups_CreateFromSearch" xml:space="preserve">
-    <value>"{0}" (create group)</value>
+    <value>"{0}" (utwórz grupę)</value>
     <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
-    <value>Refresh and sync</value>
+    <value>Odśwież i zsynchronizuj</value>
     <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
@@ -5874,42 +5874,42 @@ with Mailbird Pro?</comment>
     <comment>Up to date</comment>
   </data>
   <data name="App_Contacts_CropPicture_Done" xml:space="preserve">
-    <value>Done</value>
+    <value>Gotowe</value>
     <comment>Button when finish editing picture</comment>
   </data>
   <data name="App_Contacts_CropPicture_Title" xml:space="preserve">
     <value/>
   </data>
   <data name="App_Contacts_RotateCCW" xml:space="preserve">
-    <value>Rotate 90° counter-clockwise</value>
+    <value>Obróć o 90° w lewo</value>
     <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_RotateCW" xml:space="preserve">
-    <value>Rotate 90° clockwise</value>
+    <value>Obróć o 90° w prawo</value>
     <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_Merge" xml:space="preserve">
-    <value>Merge</value>
+    <value>Scal</value>
     <comment>Button that when clicked will merge the selected contact with the current contact.</comment>
   </data>
   <data name="App_Contacts_ImageNotSupported" xml:space="preserve">
-    <value>Error loading image</value>
+    <value>Błąd ładowania obrazka</value>
     <comment>Title of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_ImageNotSupportedExplanation" xml:space="preserve">
-    <value>Format not supported or file is corrupted.</value>
+    <value>Nieobsługiwany format lub uszkodzony plik.</value>
     <comment>Explanation of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_Groups_CreateIn" xml:space="preserve">
-    <value>In [semibold]{0}[/semibold]</value>
+    <value>w [semibold]{0}[/semibold]</value>
     <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
   </data>
   <data name="Notification_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Odrzuć</value>
     <comment>Dismiss</comment>
   </data>
   <data name="Notification_Syncing" xml:space="preserve">
-    <value>Syncing</value>
+    <value>Synchronizacja</value>
     <comment>Syncing</comment>
   </data>
 </root>
