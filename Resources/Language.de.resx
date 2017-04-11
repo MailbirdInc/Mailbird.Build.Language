@@ -1032,7 +1032,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search people...</comment>
   </data>
   <data name="App_Contacts_Title" xml:space="preserve">
-    <value>Kontakte</value>
+    <value>Adressbuch</value>
     <comment>Contacts</comment>
   </data>
   <data name="App_DailySocial_Description" xml:space="preserve">
@@ -3996,15 +3996,15 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>For tablets only. Mailbird will automatically change between horizontal and vertical layout when the tablet orientation changes between portrait and landscape.</comment>
   </data>
   <data name="Contact_AddToContacts" xml:space="preserve">
-    <value>Add to Contacts</value>
+    <value>Zu Kontakten hinzufügen</value>
     <comment>Add to contacts</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationPlural" xml:space="preserve">
-    <value>The contacts have been added to the Contacts app.</value>
+    <value>Die Kontakte wurden im Adressbuch gespeichert.</value>
     <comment>The contacts have been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationSingular" xml:space="preserve">
-    <value>The contact has been added to the Contacts app.</value>
+    <value>Der Kontakt wurde im Adressbuch gespeichert</value>
     <comment>The contact has been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedPlural" xml:space="preserve">
@@ -4186,7 +4186,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
-    <value>Add new recipients to Contacts</value>
+    <value>Neue Empfänger den Kontakten hinzufügen</value>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
@@ -5342,7 +5342,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Link</comment>
   </data>
   <data name="App_Contacts_LinkContact_Contacts" xml:space="preserve">
-    <value>Kontakte</value>
+    <value>Adressbuch</value>
     <comment>Contacts</comment>
   </data>
   <data name="App_Contacts_LinkContact_EnterName" xml:space="preserve">
@@ -5450,7 +5450,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
-    <value>Export group contacts to vCard</value>
+    <value>Kontakte der Gruppe als vCard exportieren</value>
     <comment>Export group contacts to vCards</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
@@ -5732,7 +5732,7 @@ Dadurch wird die Kontaktsynchronisierung deaktiviert und die Gruppen und Kontakt
     <comment>Name of the friends system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Contacts" xml:space="preserve">
-    <value>Kontakte</value>
+    <value>Adressbuch</value>
     <comment>Name of the contacts system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Starred" xml:space="preserve">
@@ -5913,7 +5913,7 @@ with Mailbird Pro?</comment>
     <comment>Syncing</comment>
   </data>
 <data name="App_Contacts_ImportedGroupName" xml:space="preserve">
-    <value>Imported</value>
+    <value>Importiert</value>
     <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartPlural" xml:space="preserve">
@@ -5925,19 +5925,19 @@ with Mailbird Pro?</comment>
     <comment>Part of label for a group in auto complete when group has 1 contact. E.g. "Group (1 contact)"</comment>
   </data>
   <data name="App_Contacts_Labels_Department" xml:space="preserve">
-    <value>Department</value>
+    <value>Fachbereich</value>
     <comment>Label for custom field Department when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender" xml:space="preserve">
-    <value>Gender</value>
+    <value>Geschlecht</value>
     <comment>Label for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Female" xml:space="preserve">
-    <value>Female</value>
+    <value>Weiblich</value>
     <comment>Female value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Male" xml:space="preserve">
-    <value>Male</value>
+    <value>Männlich</value>
     <comment>Male value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Latitude" xml:space="preserve">
@@ -5949,7 +5949,7 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Longitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Mailer" xml:space="preserve">
-    <value>Mailer</value>
+    <value>Adressfeld</value>
     <comment>Label for custom field Mailer when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Office" xml:space="preserve">
@@ -5957,11 +5957,11 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Office when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_ProductId" xml:space="preserve">
-    <value>Product Id</value>
+    <value>Produktkennung</value>
     <comment>Label for custom field Product Id when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_RevisionDate" xml:space="preserve">
-    <value>Revision Date</value>
+    <value>Revisionsdatum</value>
     <comment>Label for custom field Revision Date when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Role" xml:space="preserve">
@@ -5969,7 +5969,7 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Role when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Domestic" xml:space="preserve">
-    <value>Domestic</value>
+    <value>Inland</value>
     <comment>Label for contact custom address type Domestic</comment>
   </data>
   <data name="App_Contacts_Labels_International" xml:space="preserve">
@@ -5977,45 +5977,45 @@ with Mailbird Pro?</comment>
     <comment>Label for contact custom address type International</comment>
   </data>
   <data name="App_Contacts_Labels_Parcel" xml:space="preserve">
-    <value>Parcel</value>
+    <value>Postfach</value>
     <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
-    <value>Postal</value>
+    <value>Hausanschrift</value>
     <comment>Label for contact custom address type Postal</comment>
   </data>
   <data name="App_Contacts_Labels_Preferred" xml:space="preserve">
-    <value>Preferred</value>
+    <value>Bevorzugt</value>
     <comment>Label for contact custom address type Preferred</comment>
   </data>
   <data name="MailEditor_RemoveSuggestion" xml:space="preserve">
-    <value>Remove suggestion</value>
+    <value>Vorschlag entfernen</value>
     <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsHeader" xml:space="preserve">
-    <value>Suggestions restored</value>
+    <value>Vorschläge wiederhergestellt</value>
     <comment>Dialog box header</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsMessage" xml:space="preserve">
-    <value>All previously removed auto-complete suggestions have been restored.</value>
+    <value>Alle zuvor entfernten Autovervollständigungsvorschläge wurden wiederhergestellt.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionHeader" xml:space="preserve">
-    <value>Removing auto-complete suggestions</value>
+    <value>Autovervollständigevorschläge entfernen</value>
     <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Removing a suggestion will keep it from appearing in the list when composing a message - for instance if an email address no longer exists or is incorrect.
+    <value>Wenn Sie einen Vorschlag entfernen, wird er beim Verfassen einer Nachricht nicht in der Liste angezeigt - zum Beispiel, wenn eine E-Mail-Adresse nicht mehr existiert oder fehlerhaft ist.
 
-Removed suggestions can be restored from the settings.</value>
+Entfernte Vorschläge können aus den Einstellungen wiederhergestellt werden.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Restore auto-complete suggestions</value>
+    <value>Wiederherstellen von Autovervollständigungsvorschlägen</value>
     <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
-    <value>Restores any auto-complete suggestions you've previously removed.</value>
+    <value>Stellt alle Autovervollständigungsvorschläge wieder her, die Sie zuvor entfernt haben.</value>
     <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
 </root>
