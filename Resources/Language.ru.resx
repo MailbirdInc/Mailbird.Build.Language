@@ -3287,10 +3287,6 @@ Here are a couple of links to help produce vCard files from various services:</c
     <value>Объединить</value>
     <comment>Merge</comment>
   </data>
-  <data name="App_Contacts_MergeContacts_MergeContacts" xml:space="preserve">
-    <value>Объединить контакты</value>
-    <comment>Merge Contacts</comment>
-  </data>
   <data name="App_Contacts_MergeSelectedContacts" xml:space="preserve">
     <value>Объединить выбранные контакты</value>
     <comment>Merge selected contacts</comment>
@@ -3320,20 +3316,12 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Find and merge duplicates</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_MergeSelected" xml:space="preserve">
-    <value>Объединить выбранное</value>
+    <value>Merge ({0}) selected</value>
     <comment>Merge selected</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_SelectAll" xml:space="preserve">
     <value>Выбрать все</value>
     <comment>Select all</comment>
-  </data>
-  <data name="App_Contacts_NoEmail" xml:space="preserve">
-    <value>Нет Email</value>
-    <comment>No Email</comment>
-  </data>
-  <data name="App_Contacts_FindMergeContacts_DuplicateSet" xml:space="preserve">
-    <value>Дубликат</value>
-    <comment>Duplicate</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_NoDuplicates" xml:space="preserve">
     <value>Дубликатов не найдено</value>
@@ -5288,10 +5276,6 @@ To add a contact, click the "Add contact" button.</value>
     <value>Delete group</value>
     <comment>Delete group</comment>
   </data>
-  <data name="App_Contacts_RenameGroup" xml:space="preserve">
-    <value>Rename group</value>
-    <comment>Rename group</comment>
-  </data>
   <data name="App_Contacts_EditGroup_New" xml:space="preserve">
     <value>New group</value>
     <comment>New group</comment>
@@ -5441,7 +5425,7 @@ To add a contact, click the "Add contact" button.</value>
     <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
-    <value>Export group contacts to vCard</value>
+    <value>Export contacts to vCard</value>
     <comment>Export group contacts to vCards</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
@@ -5605,14 +5589,6 @@ NB: tooltip for remove group button</comment>
     <value>Delete</value>
     <comment>Delete</comment>
   </data>
-  <data name="App_Contacts_ContextMenuDeleteGroup" xml:space="preserve">
-    <value>Delete</value>
-    <comment>Context menu button to delete a group</comment>
-  </data>
-  <data name="App_Contacts_ContextMenuRenameGroup" xml:space="preserve">
-    <value>Rename</value>
-    <comment>Context menu button to rename a group</comment>
-  </data>
   <data name="App_Contacts_RemoveField" xml:space="preserve">
     <value>Remove</value>
     <comment>Tooltip when removing contact field in contact manager</comment>
@@ -5750,12 +5726,8 @@ This will disable contact sync and remove the account's groups and contacts from
     <value>Personal Notes</value>
     <comment>Label of the custom field displayed in the Contacts apps</comment>
   </data>
-  <data name="App_Contacts_ContextMenuEmailGroup" xml:space="preserve">
-    <value>Email group</value>
-    <comment>Menu to send email to selected group</comment>
-  </data>
   <data name="App_Contacts_MenuEmailGroup" xml:space="preserve">
-    <value>Email group contacts</value>
+    <value>Email group</value>
     <comment>Menu to send email to selected group</comment>
   </data>
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
@@ -6008,5 +5980,39 @@ Removed suggestions can be restored from the settings.</value>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
     <value>Restores any auto-complete suggestions you've previously removed.</value>
     <comment>Explanation for restore auto-complete suggestions button in settings</comment>
+  </data>
+<data name="App_Contacts_MenuRenameGroup" xml:space="preserve">
+    <value>Rename</value>
+    <comment>Label of menu item to rename group in Contacts app</comment>
+  </data>
+  <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
+    <value>Loading duplicates...</value>
+    <comment>Loading message when merge contacts are being calculated.</comment>
+  </data>
+  <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
+    <value>Try the new and improved Contacts app with contact sync!</value>
+    <comment>Notification header</comment>
+  </data>
+  <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
+    <value>We've not only updated the old Contacts app with a brand new design - we've also added full Google and Outlook support, so you can sync contacts with your existing accounts, and have the same contacts whether you're working in Mailbird or somewhere else.
+
+New is also "linking", enabling you to link together identical contacts from different accounts - to make changes once and have them propagate to all accounts automatically.
+
+And did we mention you can easily copy or move contacts between accounts?
+
+Try the new Contacts now!</value>
+    <comment>Notification message</comment>
+  </data>
+  <data name="Notification_OpenContactsApp" xml:space="preserve">
+    <value>Open Contacts</value>
+    <comment>Button label to open Contacts app</comment>
+  </data>
+  <data name="App_Contacts_MenuDeleteGroup" xml:space="preserve">
+    <value>Delete</value>
+    <comment>Label for menu item to delete group in Contacts app</comment>
+  </data>
+  <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
+    <value>Selected group</value>
+    <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 </root>
