@@ -3316,7 +3316,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Find and merge duplicates</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_MergeSelected" xml:space="preserve">
-    <value>Merge ({0}) selected</value>
+    <value>({0}) ausgewählte zusammenführen</value>
     <comment>Merge selected</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_SelectAll" xml:space="preserve">
@@ -3984,15 +3984,15 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>For tablets only. Mailbird will automatically change between horizontal and vertical layout when the tablet orientation changes between portrait and landscape.</comment>
   </data>
   <data name="Contact_AddToContacts" xml:space="preserve">
-    <value>Zu Kontakten hinzufügen</value>
+    <value>Ins Adressbuch übernehmen</value>
     <comment>Add to contacts</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationPlural" xml:space="preserve">
-    <value>Die Kontakte wurden im Adressbuch gespeichert.</value>
+    <value>Kontakte wurden dem Adressbuch hinzugefügt</value>
     <comment>The contacts have been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationSingular" xml:space="preserve">
-    <value>Der Kontakt wurde im Adressbuch gespeichert</value>
+    <value>Kontakt wurde dem Adressbuch hinzugefügt</value>
     <comment>The contact has been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedPlural" xml:space="preserve">
@@ -5390,7 +5390,7 @@ Um einen Kontakt hinzuzufügen, klicken Sie auf die Schaltfläche „Kontakt hin
     <comment>add website</comment>
   </data>
   <data name="App_Contacts_SingularFieldExplanation" xml:space="preserve">
-    <value>Dies wird beim Betrachten des Kontaktes angezeigt</value>
+    <value>Dies wird beim Betrachten des Kontakts angezeigt</value>
     <comment>This will be displayed when viewing the contact</comment>
   </data>
   <data name="App_Contacts_FieldCity" xml:space="preserve">
@@ -5736,7 +5736,7 @@ Dadurch wird die Kontaktsynchronisierung deaktiviert und die Gruppen und Kontakt
     <comment>Label of the custom field displayed in the Contacts apps</comment>
   </data>
   <data name="App_Contacts_MenuEmailGroup" xml:space="preserve">
-    <value>Email group</value>
+    <value>Nachricht an Gruppe senden</value>
     <comment>Menu to send email to selected group</comment>
   </data>
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
@@ -5889,7 +5889,7 @@ with Mailbird Pro?</comment>
     <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartPlural" xml:space="preserve">
-    <value>contacts</value>
+    <value>Adressbuch</value>
     <comment>Part of label for a group in auto complete when group has multiple contacts. E.g. "Group (3 contacts)"</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartSingular" xml:space="preserve">
@@ -5991,25 +5991,25 @@ Entfernte Vorschläge können aus den Einstellungen wiederhergestellt werden.</v
     <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
 <data name="App_Contacts_MenuRenameGroup" xml:space="preserve">
-    <value>Rename</value>
+    <value>Umbenennen</value>
     <comment>Label of menu item to rename group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
-    <value>Loading duplicates...</value>
+    <value>Duplikate laden …</value>
     <comment>Loading message when merge contacts are being calculated.</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
-    <value>Try the new and improved Contacts app with contact sync!</value>
+    <value>Entdecken Sie das neue und verbesserte Adressbuch, mit der Möglichkeit, Kontakte zu synchronisieren!</value>
     <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>We've not only updated the old Contacts app with a brand new design - we've also added full Google and Outlook support, so you can sync contacts with your existing accounts, and have the same contacts whether you're working in Mailbird or somewhere else.
+    <value>Wir haben nicht nur das alte Adressbuch mit einem brandneuen Design aktualisiert - wir haben auch eine vollständige Unterstützung für Google und Outlook hinzugefügt, so dass Sie Kontakte mit Ihren vorhandenen Konten synchronisieren können und die gleichen Kontakte haben, um so auf die selben Kontakte zugreifen zu können, ganz gleich ob Sie mit Mailbird arbeiten oder irgendwo sonst.
 
-New is also "linking", enabling you to link together identical contacts from different accounts - to make changes once and have them propagate to all accounts automatically.
+Neu ist außerdem „Verknüpfen”, so dass Sie identische Kontakte aus verschiedenen Konten verknüpfen können - um Änderungen einmalig vorzunehmen und sie automatisch auf alle Konten zu übertragen.
 
-And did we mention you can easily copy or move contacts between accounts?
+Zusätzlich ist zu erwähnen, dass Sie ganz leicht Kontakte zwischen verschiedenen Konten kopieren und verschieben können.
 
-Try the new Contacts now!</value>
+Entdecken Sie jetzt die Möglichkeiten des neuen Adressbuches!</value>
     <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
@@ -6021,7 +6021,7 @@ Try the new Contacts now!</value>
     <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
-    <value>Selected group</value>
+    <value>Ausgewählte Gruppe</value>
     <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 </root>
