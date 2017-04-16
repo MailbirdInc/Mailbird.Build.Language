@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -52,4 +52,712 @@
   <resheader name="version">
     <value>2.0</value>
   </resheader>
-</root>
+<data name="Attachment_Open" xml:space="preserve">
+    <value>Ouvrir</value>
+    <comment>Open</comment>
+  </data>
+  <data name="Account_Password" xml:space="preserve">
+    <value>Mot de passe :</value>
+    <comment>Password:</comment>
+  </data>
+  <data name="Attachment_QuickPreview" xml:space="preserve">
+    <value>Aperçu</value>
+    <comment>Quick preview</comment>
+  </data>
+  <data name="Attachment_Remove" xml:space="preserve">
+    <value/>
+    <comment>Remove</comment>
+  </data>
+  <data name="Attachment_Save" xml:space="preserve">
+    <value>Enregistrer sous...</value>
+    <comment>Save as...</comment>
+  </data>
+  <data name="Attachment_SaveAll" xml:space="preserve">
+    <value>Tout enregistrer sous...</value>
+    <comment>Save all as...</comment>
+  </data>
+  <data name="Awesomium_Copy" xml:space="preserve">
+    <value>Copier</value>
+    <comment>Copy</comment>
+  </data>
+  <data name="Awesomium_CopyEmail" xml:space="preserve">
+    <value>Copier l'adresse e-mail</value>
+    <comment>Copy email address</comment>
+  </data>
+  <data name="Awesomium_CopyHtml" xml:space="preserve">
+    <value>Copier le code HTML</value>
+    <comment>Copy HTML</comment>
+  </data>
+  <data name="Awesomium_CopyImage" xml:space="preserve">
+    <value>Copier l'image</value>
+    <comment>Copy image</comment>
+  </data>
+  <data name="Awesomium_CopyImageUrl" xml:space="preserve">
+    <value>Copier l'adresse de l'image</value>
+    <comment>Copy image address</comment>
+  </data>
+  <data name="Awesomium_CopyLink" xml:space="preserve">
+    <value>Copier l'adresse du lien</value>
+    <comment>Copy link address</comment>
+  </data>
+  <data name="Awesomium_Cut" xml:space="preserve">
+    <value>Couper</value>
+    <comment>Cut</comment>
+  </data>
+  <data name="Awesomium_Ignore" xml:space="preserve">
+    <value>Ignorer le mot</value>
+    <comment>Ignore word</comment>
+  </data>
+  <data name="Awesomium_Paste" xml:space="preserve">
+    <value>Coller</value>
+    <comment>Paste</comment>
+  </data>
+  <data name="Awesomium_PastePlain" xml:space="preserve">
+    <value>Coller en tant que texte brut</value>
+    <comment>Paste as plain text</comment>
+  </data>
+  <data name="Awesomium_SaveImage" xml:space="preserve">
+    <value>Enregistrer l'image sous...</value>
+    <comment>Save image as...</comment>
+  </data>
+  <data name="Awesomium_SelectAll" xml:space="preserve">
+    <value>Sélectionner tout</value>
+    <comment>Select all</comment>
+  </data>
+  <data name="Contact_Copy" xml:space="preserve">
+    <value>Copier l'adresse e-mail</value>
+    <comment>Copy email</comment>
+  </data>
+  <data name="Contact_CopyMailName" xml:space="preserve">
+    <value>Copier le nom et l'adresse e-mail</value>
+    <comment>Copy name and email</comment>
+  </data>
+  <data name="Contact_NewMail" xml:space="preserve">
+    <value>Envoyer un nouveau message</value>
+    <comment>Send new mail</comment>
+  </data>
+  <data name="Conversation_DeletePermanently" xml:space="preserve">
+    <value>Supprimer définitivement</value>
+    <comment>Delete permanently</comment>
+  </data>
+  <data name="Conversation_Discard" xml:space="preserve">
+    <value/>
+    <comment>Discard</comment>
+  </data>
+  <data name="Conversation_Draft" xml:space="preserve">
+    <value>Brouillon</value>
+    <comment>Draft</comment>
+  </data>
+  <data name="Conversation_Folders" xml:space="preserve">
+    <value>Dossiers</value>
+    <comment>Folders</comment>
+  </data>
+  <data name="Conversation_CopyTo" xml:space="preserve">
+    <value>Copier vers</value>
+    <comment>Copy to</comment>
+  </data>
+  <data name="Conversation_CopyTo2" xml:space="preserve">
+    <value>Copier vers...</value>
+    <comment>Copy to...</comment>
+  </data>
+  <data name="Conversation_MarkImportant" xml:space="preserve">
+    <value>Marquer comme important</value>
+    <comment>Mark as important</comment>
+  </data>
+  <data name="Conversation_MarkNotImportant" xml:space="preserve">
+    <value>Marquer comme non important</value>
+    <comment>Mark as not important</comment>
+  </data>
+  <data name="Conversation_MarkNotRead" xml:space="preserve">
+    <value>Marquer comme non lu</value>
+    <comment>Mark as unread</comment>
+  </data>
+  <data name="Conversation_MarkNotSpam" xml:space="preserve">
+    <value>Marquer comme acceptable</value>
+    <comment>Mark as not spam</comment>
+  </data>
+  <data name="Conversation_MarkNotStarred" xml:space="preserve">
+    <value>Supprimer des favoris</value>
+    <comment>Mark as not starred</comment>
+  </data>
+  <data name="Conversation_MarkRead" xml:space="preserve">
+    <value>Marquer comme lu</value>
+    <comment>Mark as read</comment>
+  </data>
+  <data name="Conversation_MarkSpam" xml:space="preserve">
+    <value>Marquer comme indésirable</value>
+    <comment>Mark as spam</comment>
+  </data>
+  <data name="Conversation_MarkStarred" xml:space="preserve">
+    <value>Ajouter aux favoris</value>
+    <comment>Mark as starred</comment>
+  </data>
+  <data name="Conversation_MoveTo" xml:space="preserve">
+    <value>Déplacer vers...</value>
+    <comment>Move to...</comment>
+  </data>
+  <data name="Conversation_MoveToInbox" xml:space="preserve">
+    <value>Déplacer vers la boîte de réception</value>
+    <comment>Move to Inbox</comment>
+  </data>
+  <data name="Conversation_Print" xml:space="preserve">
+    <value>Imprimer la conversation</value>
+    <comment>Print conversation</comment>
+  </data>
+  <data name="Conversation_Reply" xml:space="preserve">
+    <value>Répondre</value>
+    <comment>Reply</comment>
+  </data>
+  <data name="Conversation_ReplyAll" xml:space="preserve">
+    <value>Répondre à tous</value>
+    <comment>Reply to all</comment>
+  </data>
+  <data name="Conversation_To" xml:space="preserve">
+    <value>À : </value>
+    <comment>To: </comment>
+  </data>
+  <data name="Conversation_ToMe" xml:space="preserve">
+    <value>pour moi </value>
+    <comment>to me</comment>
+  </data>
+  <data name="Conversation_To2" xml:space="preserve">
+    <value>À</value>
+    <comment>To</comment>
+  </data>
+  <data name="Dialog_Stop" xml:space="preserve">
+    <value>Arrêter</value>
+    <comment>Stop</comment>
+  </data>
+  <data name="Dialog_DownloadProgress" xml:space="preserve">
+    <value>Téléchargement en cours</value>
+    <comment>Download in progress</comment>
+  </data>
+  <data name="Dialog_FileNotFound" xml:space="preserve">
+    <value>Fichier introuvable</value>
+    <comment>File not found</comment>
+  </data>
+  <data name="Dialog_No" xml:space="preserve">
+    <value>Non</value>
+    <comment>No</comment>
+  </data>
+  <data name="Dialog_OK" xml:space="preserve">
+    <value>OK</value>
+    <comment>OK</comment>
+  </data>
+  <data name="Dialog_Thanks" xml:space="preserve">
+    <value>Merci !</value>
+    <comment>Thanks!</comment>
+  </data>
+  <data name="Dialog_Warning" xml:space="preserve">
+    <value>Attention</value>
+    <comment>Warning</comment>
+  </data>
+  <data name="Dialog_Yes" xml:space="preserve">
+    <value>Oui</value>
+    <comment>Yes</comment>
+  </data>
+  <data name="Editor_Html" xml:space="preserve">
+    <value>Éditer le code HTML</value>
+    <comment>Edit Html</comment>
+  </data>
+  <data name="Editor_Picture" xml:space="preserve">
+    <value>Insérer une image</value>
+    <comment>Insert image</comment>
+  </data>
+  <data name="InboxZero" xml:space="preserve">
+    <value>Boîte de réception vide</value>
+    <comment>Inbox Zero</comment>
+  </data>
+  <data name="Dialog_Close" xml:space="preserve">
+    <value>Fermer</value>
+    <comment>Close</comment>
+  </data>
+  <data name="Dialog_Help" xml:space="preserve">
+    <value>Aide</value>
+    <comment>Help</comment>
+  </data>
+  <data name="Account_Create" xml:space="preserve">
+    <value>Créer un compte</value>
+    <comment>Create account</comment>
+  </data>
+  <data name="Account_Edit" xml:space="preserve">
+    <value>Modifier le compte</value>
+    <comment>Edit account</comment>
+  </data>
+  <data name="Account_Email" xml:space="preserve">
+    <value>E-mail :</value>
+    <comment>Email:</comment>
+  </data>
+  <data name="Dialog_Add" xml:space="preserve">
+    <value>Ajouter</value>
+    <comment>Add</comment>
+  </data>
+  <data name="Dialog_Browse" xml:space="preserve">
+    <value>Parcourir</value>
+    <comment>Browse</comment>
+  </data>
+  <data name="Identity_Account" xml:space="preserve">
+    <value>Compte :</value>
+    <comment>Account:</comment>
+  </data>
+  <data name="Identity_SendFromAccount" xml:space="preserve">
+    <value>Compte</value>
+    <comment>Account</comment>
+  </data>
+  <data name="Identity_SendFromSmtp" xml:space="preserve">
+    <value>Serveur SMTP</value>
+    <comment>SMTP Server</comment>
+  </data>
+  <data name="Identity_Signature" xml:space="preserve">
+    <value>Signature :</value>
+    <comment>Signature:</comment>
+  </data>
+  <data name="Identity_SmtpPassword" xml:space="preserve">
+    <value>Mot de passe :</value>
+    <comment>Password:</comment>
+  </data>
+  <data name="Identity_SmtpPort" xml:space="preserve">
+    <value>Port :</value>
+    <comment>Port:</comment>
+  </data>
+  <data name="Identity_SmtpServer" xml:space="preserve">
+    <value>Serveur SMTP :</value>
+    <comment>SMTP server:</comment>
+  </data>
+  <data name="Identity_SmtpUsername" xml:space="preserve">
+    <value>Nom d'utilisateur :</value>
+    <comment>Username:</comment>
+  </data>
+  <data name="Dialog_Report" xml:space="preserve">
+    <value>Signaler ce problème</value>
+    <comment>Report this problem</comment>
+  </data>
+  <data name="Dialog_Restart" xml:space="preserve">
+    <value>Redémarrer</value>
+    <comment>Restart</comment>
+  </data>
+  <data name="Find_Next" xml:space="preserve">
+    <value>Suivant</value>
+    <comment>Next</comment>
+  </data>
+  <data name="Find_Previous" xml:space="preserve">
+    <value>Précédent</value>
+    <comment>Previous</comment>
+  </data>
+  <data name="About_Version" xml:space="preserve">
+    <value>Version</value>
+    <comment>Version</comment>
+  </data>
+  <data name="Conversation_Bcc" xml:space="preserve">
+    <value>Cci : </value>
+    <comment>Bcc:</comment>
+  </data>
+  <data name="Conversation_Bcc1" xml:space="preserve">
+    <value>Cci</value>
+    <comment>Bcc</comment>
+  </data>
+  <data name="Conversation_Cc" xml:space="preserve">
+    <value>Cc : </value>
+    <comment>Cc:</comment>
+  </data>
+  <data name="Conversation_Cc1" xml:space="preserve">
+    <value>Cc</value>
+    <comment>Cc</comment>
+  </data>
+  <data name="Dialog_Purchase" xml:space="preserve">
+    <value>Acheter</value>
+    <comment>Purchase</comment>
+  </data>
+  <data name="Day_Friday" xml:space="preserve">
+    <value>Vendredi</value>
+    <comment>Friday</comment>
+  </data>
+  <data name="Day_Monday" xml:space="preserve">
+    <value>Lundi</value>
+    <comment>Monday</comment>
+  </data>
+  <data name="Day_Saturday" xml:space="preserve">
+    <value>Samedi</value>
+    <comment>Saturday</comment>
+  </data>
+  <data name="Day_Sunday" xml:space="preserve">
+    <value>Dimanche</value>
+    <comment>Sunday</comment>
+  </data>
+  <data name="Day_Thursday" xml:space="preserve">
+    <value>Jeudi</value>
+    <comment>Thursday</comment>
+  </data>
+  <data name="Day_Tuesday" xml:space="preserve">
+    <value>Mardi</value>
+    <comment>Tuesday</comment>
+  </data>
+  <data name="Day_Wednesday" xml:space="preserve">
+    <value>Mercredi</value>
+    <comment>Wednesday</comment>
+  </data>
+  <data name="Day_Yesterday" xml:space="preserve">
+    <value>Hier</value>
+    <comment>Yesterday</comment>
+  </data>
+  <data name="Download_Always" xml:space="preserve">
+    <value>Toujours télécharger</value>
+    <comment>Always download</comment>
+  </data>
+  <data name="Download_Never" xml:space="preserve">
+    <value>Ne jamais télécharger</value>
+    <comment>Never download</comment>
+  </data>
+  <data name="Dialog_URL" xml:space="preserve">
+    <value>URL</value>
+    <comment>URL</comment>
+  </data>
+  <data name="Dialog_Email" xml:space="preserve">
+    <value>E-mail</value>
+    <comment>Email</comment>
+  </data>
+  <data name="Dialog_NameLabel" xml:space="preserve">
+    <value>Nom :</value>
+    <comment>Name:</comment>
+  </data>
+  <data name="EditFolderWindow_Title" xml:space="preserve">
+    <value>Ajouter un dossier</value>
+    <comment>Add folder</comment>
+  </data>
+  <data name="FolderIdentity_AllMail" xml:space="preserve">
+    <value>Tous</value>
+    <comment>All</comment>
+  </data>
+  <data name="FolderIdentity_Important" xml:space="preserve">
+    <value>Important</value>
+    <comment>Important</comment>
+  </data>
+  <data name="FolderIdentity_Inbox" xml:space="preserve">
+    <value>Boite de réception</value>
+    <comment>Inbox</comment>
+  </data>
+  <data name="AppStore_Title" xml:space="preserve">
+    <value>Applications</value>
+    <comment>Apps</comment>
+  </data>
+  <data name="AppStore_Off" xml:space="preserve">
+    <value>O</value>
+    <comment>OFF</comment>
+  </data>
+  <data name="AppStore_On" xml:space="preserve">
+    <value>I</value>
+    <comment>ON</comment>
+  </data>
+  <data name="App_Attachments_Title" xml:space="preserve">
+    <value>Pièces jointes</value>
+    <comment>Attachments</comment>
+  </data>
+  <data name="App_Contacts_Title" xml:space="preserve">
+    <value>Contacts</value>
+    <comment>Contacts</comment>
+  </data>
+  <data name="LinkEditor_ExampleLink" xml:space="preserve">
+    <value>http://exemple.com/image.jpg</value>
+    <comment>http://example.com/image.jpg</comment>
+  </data>
+  <data name="LinkEditor_ExampleLink1" xml:space="preserve">
+    <value>C:\utilisateurs\image\image.jpg</value>
+    <comment>C:\users\picture\image.jpg</comment>
+  </data>
+  <data name="LinkEditor_ExampleLink2" xml:space="preserve">
+    <value>email@exemple.com</value>
+    <comment>email@example.com</comment>
+  </data>
+  <data name="LinkEditor_ExampleLink3" xml:space="preserve">
+    <value>http://exemple.com</value>
+    <comment>http://example.com</comment>
+  </data>
+  <data name="LinkEditor_FromComputer" xml:space="preserve">
+    <value>Depuis l'ordinateur</value>
+    <comment>From computer</comment>
+  </data>
+  <data name="LinkEditor_FromUrl" xml:space="preserve">
+    <value>Depuis une url</value>
+    <comment>From URL</comment>
+  </data>
+  <data name="LinkEditor_Large" xml:space="preserve">
+    <value>Grande</value>
+    <comment>Large</comment>
+  </data>
+  <data name="LinkEditor_Medium" xml:space="preserve">
+    <value>Moyenne</value>
+    <comment>Medium</comment>
+  </data>
+  <data name="LinkEditor_OriginalSize" xml:space="preserve">
+    <value>Taille originale</value>
+    <comment>Original size</comment>
+  </data>
+  <data name="LinkEditor_Small" xml:space="preserve">
+    <value>Petite</value>
+    <comment>Small</comment>
+  </data>
+  <data name="Link_Edit" xml:space="preserve">
+    <value>Éditer</value>
+    <comment>Edit</comment>
+  </data>
+  <data name="MapLabelWindow_Important" xml:space="preserve">
+    <value>Important</value>
+    <comment>Important</comment>
+  </data>
+  <data name="MapLabelWindow_Spam" xml:space="preserve">
+    <value>Indésirable</value>
+    <comment>Spam</comment>
+  </data>
+  <data name="MapLabelWindow_Starred" xml:space="preserve">
+    <value>Favoris</value>
+    <comment>Starred</comment>
+  </data>
+  <data name="Menu_Shortcut" xml:space="preserve">
+    <value>Raccourcis</value>
+    <comment>Shortcuts</comment>
+  </data>
+  <data name="Message_Date" xml:space="preserve">
+    <value>Date</value>
+    <comment>Date</comment>
+  </data>
+  <data name="Message_Detail" xml:space="preserve">
+    <value>Afficher les détails</value>
+    <comment>Show details</comment>
+  </data>
+  <data name="Message_From" xml:space="preserve">
+    <value>De</value>
+    <comment>From</comment>
+  </data>
+  <data name="Message_Options" xml:space="preserve">
+    <value>Options</value>
+    <comment>Options</comment>
+  </data>
+  <data name="Message_Print" xml:space="preserve">
+    <value>Imprimer le message</value>
+    <comment>Print message</comment>
+  </data>
+  <data name="Message_Save" xml:space="preserve">
+    <value>Enregistrer</value>
+    <comment>Save</comment>
+  </data>
+  <data name="Message_Send" xml:space="preserve">
+    <value>Envoyer</value>
+    <comment>Send</comment>
+  </data>
+  <data name="Message_SendArchive" xml:space="preserve">
+    <value>Envoyer et archiver</value>
+    <comment>Send &amp; Archive</comment>
+  </data>
+  <data name="Message_Subject" xml:space="preserve">
+    <value>Sujet</value>
+    <comment>Subject</comment>
+  </data>
+  <data name="Migration_Updating" xml:space="preserve">
+    <value>Mise à jour de la base de données... Veuillez patienter</value>
+    <comment>Updating database... please wait</comment>
+  </data>
+  <data name="NewMessage_EmptySubject" xml:space="preserve">
+    <value>Sujet vide</value>
+    <comment>Empty Subject</comment>
+  </data>
+  <data name="Options_About" xml:space="preserve">
+    <value>A propos de Mailbird</value>
+    <comment>About Mailbird</comment>
+  </data>
+  <data name="Options_Policy" xml:space="preserve">
+    <value>Voir notre politique de confidentialité</value>
+    <comment>View privacy policy</comment>
+  </data>
+  <data name="Options_Accounts" xml:space="preserve">
+    <value>Comptes</value>
+    <comment>Accounts</comment>
+  </data>
+  <data name="Options_CheckUpdate" xml:space="preserve">
+    <value>Vérifier les mises à jour maintenant</value>
+    <comment>Check for updates now</comment>
+  </data>
+  <data name="Options_DefaultApplication" xml:space="preserve">
+    <value>Application e-mail par défaut</value>
+    <comment>Default email application</comment>
+  </data>
+  <data name="Options_Facebook" xml:space="preserve">
+    <value>Facebook</value>
+    <comment>Facebook</comment>
+  </data>
+  <data name="Options_ZoomLevel" xml:space="preserve">
+    <value>Niveau de zoom</value>
+    <comment>Zoom level</comment>
+  </data>
+  <data name="Options_General" xml:space="preserve">
+    <value>Général</value>
+    <comment>General</comment>
+  </data>
+  <data name="Options_Appearance" xml:space="preserve">
+    <value>Apparence</value>
+    <comment>Appearance</comment>
+  </data>
+  <data name="Options_Notifications" xml:space="preserve">
+    <value>Notifications</value>
+    <comment>Notifications</comment>
+  </data>
+  <data name="Options_Performance" xml:space="preserve">
+    <value>Performance</value>
+    <comment>Performance</comment>
+  </data>
+  <data name="Shortcut_Or" xml:space="preserve">
+    <value>ou</value>
+    <comment>or</comment>
+  </data>
+  <data name="Shortcut_PreviousMessage" xml:space="preserve">
+    <value>Message précédent</value>
+    <comment>Previous message</comment>
+  </data>
+  <data name="Shortcut_Print" xml:space="preserve">
+    <value>Imprimer le message</value>
+    <comment>Print Message</comment>
+  </data>
+  <data name="Shortcut_Refresh" xml:space="preserve">
+    <value>Actualiser</value>
+    <comment>Refresh</comment>
+  </data>
+  <data name="WebBrowser_Refresh" xml:space="preserve">
+    <value>Actualiser</value>
+    <comment>Refresh</comment>
+  </data>
+  <data name="Welcome_DetectingSettingsTitle" xml:space="preserve">
+    <value>Détection des paramètres...</value>
+    <comment>Detecting settings..</comment>
+  </data>
+  <data name="Welcome_EditAccountTitle" xml:space="preserve">
+    <value>Modifier le compte</value>
+    <comment>Edit account</comment>
+  </data>
+  <data name="Welcome_EditServerSettingsLink" xml:space="preserve">
+    <value>Modifier les paramètres du serveur</value>
+    <comment>Edit server settings</comment>
+  </data>
+  <data name="Welcome_EditSettingsTitle" xml:space="preserve">
+    <value>Modifier les paramètres</value>
+    <comment>Edit settings</comment>
+  </data>
+  <data name="Welcome_PortLabel" xml:space="preserve">
+    <value>Port :</value>
+    <comment>Port:</comment>
+  </data>
+  <data name="Welcome_RequiresAuthentication" xml:space="preserve">
+    <value>Nécessite une authentification</value>
+    <comment>Requires authentication</comment>
+  </data>
+  <data name="Tutorial_Counter1" xml:space="preserve">
+    <value>1 / 3</value>
+    <comment>1 of 3</comment>
+  </data>
+  <data name="Tutorial_Counter2" xml:space="preserve">
+    <value>2 / 3</value>
+    <comment>2 of 3</comment>
+  </data>
+  <data name="Tutorial_Counter3" xml:space="preserve">
+    <value>3 / 3</value>
+    <comment>3 of 3</comment>
+  </data>
+  <data name="Tutorial_Gravatar" xml:space="preserve">
+    <value>Gravatar</value>
+    <comment>Gravatar</comment>
+  </data>
+  <data name="Conversation_NoSubject" xml:space="preserve">
+    <value>(pas de sujet)</value>
+    <comment>(no subject)</comment>
+  </data>
+  <data name="Timeline_ExpireDays" xml:space="preserve">
+    <value/>
+    <comment>{0} days</comment>
+  </data>
+  <data name="Options_Minutes" xml:space="preserve">
+    <value/>
+    <comment>\{0\} minutes</comment>
+  </data>
+  <data name="Timeline_ExpireMonths" xml:space="preserve">
+    <value>{0} mois</value>
+    <comment>{0} months</comment>
+  </data>
+  <data name="NewMessages_BaloonHeader" xml:space="preserve">
+    <value/>
+    <comment>{0} new messages</comment>
+  </data>
+  <data name="NewMessage_NewMessage" xml:space="preserve">
+    <value/>
+    <comment>{0} will be replaced by the number of new messages, so the result will be "2 New Message(s)"</comment>
+  </data>
+  <data name="InviteV2_AcceptedCounter" xml:space="preserve">
+    <value> ({0}/{1})</value>
+    <comment>({0}/{1})</comment>
+  </data>
+  <data name="Folder_AddFromSearch" xml:space="preserve">
+    <value>"{0}" (ajouter un dossier)</value>
+    <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
+  </data>
+  <data name="Message_ReplyTemplate" xml:space="preserve">
+    <value>{0} {1}, {2} {3} :</value>
+    <comment>{on} {date}, {sender} {wrote}:</comment>
+  </data>
+  <data name="App_Contacts_ContactsSingular" xml:space="preserve">
+    <value>{0} contact</value>
+    <comment>{0} contact</comment>
+  </data>
+  <data name="App_Contacts_Import_Success_Plural" xml:space="preserve">
+    <value/>
+    <comment>{0} contacts imported.</comment>
+  </data>
+  <data name="App_Contacts_ConnectAccount_Unsupported" xml:space="preserve">
+    <value>(Non pris en charge)</value>
+    <comment>(Unsupported)</comment>
+  </data>
+  <data name="Options_Seconds" xml:space="preserve">
+    <value/>
+    <comment>{0} seconds</comment>
+  </data>
+  <data name="App_Contacts_Import_Success_Singular" xml:space="preserve">
+    <value>1 contact importé.</value>
+    <comment>1 contact imported.</comment>
+  </data>
+  <data name="Message_To" xml:space="preserve">
+    <value>à</value>
+    <comment>to</comment>
+  </data>
+  <data name="App_Contacts_ConnectedAccounts_Title" xml:space="preserve">
+    <value>Comptes</value>
+    <comment>Title for "Accounts" window</comment>
+  </data>
+  <data name="App_Contacts_MenuAccounts" xml:space="preserve">
+    <value>Comptes</value>
+    <comment>Accounts</comment>
+  </data>
+  <data name="WebBrowser_Home" xml:space="preserve">
+    <value>Accueil</value>
+    <comment>Home</comment>
+  </data>
+  <data name="Import_Error_Invalid_Pst" xml:space="preserve">
+    <value>{0} n'est pas un fichier .pst valide</value>
+    <comment>{0} is not a valid pst file</comment>
+  </data>
+  <data name="Import_Error_Client_Running" xml:space="preserve">
+    <value>{0} est en cours d'exécution. Fermez-le, et essayez de nouveau</value>
+    <comment>{0} is running. Please close it an try again</comment>
+  </data>
+  <data name="InviteV2_AcceptedHeader" xml:space="preserve">
+    <value>Accepté</value>
+    <comment>Accepted</comment>
+  </data>
+  <data name="InviteV2_Accepted" xml:space="preserve">
+    <value>Accepté !</value>
+    <comment>Accepted!</comment>
+  </data>
+  <data name="Invite_Accepted" xml:space="preserve">
+    <value>Accepté</value>
+    <comment>Accepted</comment>
+  </data>
+  <data name="App_Contacts_FieldTypeName_PostalAddress" xml:space="preserve">
+    <value>Adresse</value>
+    <comment>Singular type name for this field type in the contact manager</comment>
+  </data>
+  </root>
