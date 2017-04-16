@@ -3992,7 +3992,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>The contacts have been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationSingular" xml:space="preserve">
-    <value>The contact has been added to the Contacts app.</value>
+    <value>A névjegy a kapcsolatok alkalmazásba került.</value>
     <comment>The contact has been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedPlural" xml:space="preserve">
@@ -4172,7 +4172,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
-    <value>Add new recipients to Contacts</value>
+    <value>Új címzetteket adhat a névjegyekhez</value>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
@@ -5732,7 +5732,7 @@ Ez letiltja a névjegyek szinkronizálását, és eltávolítja a fiókban talá
     <comment>Label of the custom field displayed in the Contacts apps</comment>
   </data>
   <data name="App_Contacts_MenuEmailGroup" xml:space="preserve">
-    <value>Email group</value>
+    <value>E-mail csoport</value>
     <comment>Menu to send email to selected group</comment>
   </data>
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
@@ -5881,7 +5881,7 @@ with Mailbird Pro?</comment>
     <comment>Syncing</comment>
   </data>
 <data name="App_Contacts_ImportedGroupName" xml:space="preserve">
-    <value>Imported</value>
+    <value>Importálva</value>
     <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartPlural" xml:space="preserve">
@@ -5893,19 +5893,19 @@ with Mailbird Pro?</comment>
     <comment>Part of label for a group in auto complete when group has 1 contact. E.g. "Group (1 contact)"</comment>
   </data>
   <data name="App_Contacts_Labels_Department" xml:space="preserve">
-    <value>Department</value>
+    <value>Személy</value>
     <comment>Label for custom field Department when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender" xml:space="preserve">
-    <value>Gender</value>
+    <value>Neme</value>
     <comment>Label for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Female" xml:space="preserve">
-    <value>Female</value>
+    <value>Nő</value>
     <comment>Female value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Male" xml:space="preserve">
-    <value>Male</value>
+    <value>Férfi</value>
     <comment>Male value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Latitude" xml:space="preserve">
@@ -5917,7 +5917,7 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Longitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Mailer" xml:space="preserve">
-    <value>Mailer</value>
+    <value>Levelező</value>
     <comment>Label for custom field Mailer when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Office" xml:space="preserve">
@@ -5925,11 +5925,11 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Office when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_ProductId" xml:space="preserve">
-    <value>Product Id</value>
+    <value>Termék Azonosító</value>
     <comment>Label for custom field Product Id when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_RevisionDate" xml:space="preserve">
-    <value>Revision Date</value>
+    <value>Felülvizsgálat napja</value>
     <comment>Label for custom field Revision Date when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Role" xml:space="preserve">
@@ -5937,7 +5937,7 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Role when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Domestic" xml:space="preserve">
-    <value>Domestic</value>
+    <value>Hazai</value>
     <comment>Label for contact custom address type Domestic</comment>
   </data>
   <data name="App_Contacts_Labels_International" xml:space="preserve">
@@ -5945,67 +5945,67 @@ with Mailbird Pro?</comment>
     <comment>Label for contact custom address type International</comment>
   </data>
   <data name="App_Contacts_Labels_Parcel" xml:space="preserve">
-    <value>Parcel</value>
+    <value>Csomag</value>
     <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
-    <value>Postal</value>
+    <value>Postai</value>
     <comment>Label for contact custom address type Postal</comment>
   </data>
   <data name="App_Contacts_Labels_Preferred" xml:space="preserve">
-    <value>Preferred</value>
+    <value>Elsődleges</value>
     <comment>Label for contact custom address type Preferred</comment>
   </data>
   <data name="MailEditor_RemoveSuggestion" xml:space="preserve">
-    <value>Remove suggestion</value>
+    <value>Javaslat eltávolítása</value>
     <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsHeader" xml:space="preserve">
-    <value>Suggestions restored</value>
+    <value>Felújított javaslatok</value>
     <comment>Dialog box header</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsMessage" xml:space="preserve">
-    <value>All previously removed auto-complete suggestions have been restored.</value>
+    <value>Minden korábban eltávolított automatikus javaslatok vissza kerültek.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionHeader" xml:space="preserve">
-    <value>Removing auto-complete suggestions</value>
+    <value>Automatikus kiegészítési javaslatok eltávolítása</value>
     <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Removing a suggestion will keep it from appearing in the list when composing a message - for instance if an email address no longer exists or is incorrect.
+    <value>Eltávolítása egy javaslat továbbra is a jegyzékben felsorolt üzenetíráskor - például, ha e-mail cím már nem létezik vagy érvénytelen.
 
-Removed suggestions can be restored from the settings.</value>
+Eltávolított javaslatokat a beállítások visszaállíthatók.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Restore auto-complete suggestions</value>
+    <value>Automatikus javaslatok visszaállítása</value>
     <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
-    <value>Restores any auto-complete suggestions you've previously removed.</value>
+    <value>Visszaállítja az automatikus kiegészítés javaslatokat amit korábban eltávolított.</value>
     <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
 <data name="App_Contacts_MenuRenameGroup" xml:space="preserve">
-    <value>Rename</value>
+    <value>Átnevezés</value>
     <comment>Label of menu item to rename group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
-    <value>Loading duplicates...</value>
+    <value>Ismétlődések betöltése...</value>
     <comment>Loading message when merge contacts are being calculated.</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
-    <value>Try the new and improved Contacts app with contact sync!</value>
+    <value>Próbálja ki az új és továbbfejlesztett Kapcsolatok alkalmazást névjegy szinkronizálással!</value>
     <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>We've not only updated the old Contacts app with a brand new design - we've also added full Google and Outlook support, so you can sync contacts with your existing accounts, and have the same contacts whether you're working in Mailbird or somewhere else.
+    <value>Frissítettük a régi kapcsolatok alkalmazást nem csak egy teljesen új design kapott - hanem bővítettük, támogatja a teljes Googlet és az Outlookot, így tud szinkronizál névjegyeket a meglévő névjegyekkel, és ugyanazokat az ügyfeleket használhatja Mailbirdben, vagy bárhol ahol dolgozik.
 
-New is also "linking", enabling you to link together identical contacts from different accounts - to make changes once and have them propagate to all accounts automatically.
+Új az is, hogy az "összekötő", lehetővé teszi, hogy összekapcsolja az azonos névjegyeket más postafiókba - és ha módosítja azokat akkor minden fiókban automatikusan megváltoznak.
 
-And did we mention you can easily copy or move contacts between accounts?
+Arról nem is beszélve, hogy mennyire egyszerű áthelyezni vagy másolni a névjegyeket a postafiókok között?
 
-Try the new Contacts now!</value>
+Próbálja ki most az új kapcsolatok alkalmazást!</value>
     <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
@@ -6017,7 +6017,7 @@ Try the new Contacts now!</value>
     <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
-    <value>Selected group</value>
+    <value>Kijelölt csoport</value>
     <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 </root>
