@@ -294,7 +294,7 @@
     <comment>Reply to all</comment>
   </data>
   <data name="Conversation_Sending" xml:space="preserve">
-    <value>Wird gesendet</value>
+    <value>Senden</value>
     <comment>Sending</comment>
   </data>
   <data name="Conversation_To" xml:space="preserve">
@@ -2467,7 +2467,7 @@ Wenn Sie Mailbird neu installieren möchten, behalten Sie die Daten bei, um nich
     <comment>Unmap</comment>
   </data>
   <data name="Shortcut_Backspace" xml:space="preserve">
-    <value>Rück-Taste</value>
+    <value>Rücktaste</value>
     <comment>Backspace</comment>
   </data>
   <data name="Shortcut_Enter" xml:space="preserve">
@@ -2517,7 +2517,7 @@ Please check the free disk space and make more available if running low.</commen
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
     <value>Das Zertifikat des Servers „{0}” ist ungültig.
 
-Klicke Sie unten auf „Weitere Informationen” für weiterführende Informationen, bevor Sie fortfahren.
+Klicke Sie unten auf „Weitere Informationen”, bevor Sie fortfahren.
 
 Möchten Sie den Fehler dauerhaft für diesen Server ignorieren?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -4130,7 +4130,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>Das Hinzufügen der Datei „{0}” als Anhang ist fehlgeschlagen. Bitte stelle sicher, dass die Datei nicht von anderen Programmen verwendet wird und versuche es erneut.</value>
+    <value>Hinzufügen der Datei „{0}” als Anhang fehlgeschlagen. Bitte stellen Sie sicher, dass die Datei nicht von anderen Anwendungen verwendet wird und versuchen Sie erneut.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
@@ -4174,7 +4174,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
-    <value>Neue Empfänger den Kontakten hinzufügen</value>
+    <value>Adressen beim Senden automatisch ins Adressbuch</value>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
@@ -4449,7 +4449,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Eml files</comment>
   </data>
   <data name="Import_EmlFolder" xml:space="preserve">
-    <value>Verzeichnis mit EML-Dateien</value>
+    <value>Ordner mit EML-Dateien</value>
     <comment>Folder with eml files</comment>
   </data>
   <data name="Import_MsfFile" xml:space="preserve">
@@ -4833,7 +4833,7 @@ the final result will be: Search Google for "query"</comment>
     <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_ImageFileSizeExplanation" xml:space="preserve">
-    <value>Die maximale Größe der Grafik überschreitet {0}.
+    <value>Die maximale Dateigröße der Grafik überschreitet {0}.
 Bitte eine andere Datei wählen.</value>
     <comment>The maximum image file size is {0}.
 Please choose another file.</comment>
@@ -5913,11 +5913,11 @@ with Mailbird Pro?</comment>
     <comment>Male value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Latitude" xml:space="preserve">
-    <value>Latitude</value>
+    <value>Breitengrad</value>
     <comment>Label for custom field Latitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Longitude" xml:space="preserve">
-    <value>Longitude</value>
+    <value>Längengrad</value>
     <comment>Label for custom field Longitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Mailer" xml:space="preserve">
@@ -5925,7 +5925,7 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Mailer when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Office" xml:space="preserve">
-    <value>Office</value>
+    <value>Büro</value>
     <comment>Label for custom field Office when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_ProductId" xml:space="preserve">
@@ -5933,11 +5933,11 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Product Id when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_RevisionDate" xml:space="preserve">
-    <value>Revisionsdatum</value>
+    <value>Änderungsdatum</value>
     <comment>Label for custom field Revision Date when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Role" xml:space="preserve">
-    <value>Role</value>
+    <value>Funktion</value>
     <comment>Label for custom field Role when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Domestic" xml:space="preserve">
