@@ -475,7 +475,7 @@ This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
     <value>Ne pare rău, însă raportul dumneavoastră nu a putut fi trimis. 
-Am aprecia, dacă ați putea trimite, în loc de raport, un email direct la {0}. 
+Am aprecia, dacă ați putea trimite raportul printr-un email direct la {0}. 
 Mesaj:</value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
@@ -2056,7 +2056,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Salvează textul curent ca o ciornă atunci când compuneți un mesaj. Țineți apăsată tasta &lt;Ctrl&gt; în timp ce apăsați s și asigurați-vă că cursorul este într-unul din cîmpurile de text - fie panoul de compunere, sau la oricare dintre cîmpurile Către, CC, BCC, sau Subiect  - atunci când se utilizează această comandă rapidă.</value>
+    <value>Salvați textul curent ca și ciornă atunci când compuneți un mesaj. Țineți apăsată tasta &lt;Ctrl&gt; în timp ce apăsați s și asigurați-vă că cursorul este într-unul din câmpurile de text - fie panoul de compunere sau la oricare dintre câmpurile Către, CC, BCC, sau Subiect  - atunci când se utilizează această comandă rapidă.</value>
     <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
@@ -2084,11 +2084,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show Mailbird</comment>
   </data>
   <data name="Shortcut_ShowMailbirdExplanation" xml:space="preserve">
-    <value>Aduce Mailbird în prim-plan.</value>
+    <value>Adu Mailbird în prim-plan.</value>
     <comment>Bring Mailbird to foreground.</comment>
   </data>
   <data name="Shortcut_Star" xml:space="preserve">
-    <value>Marchează cu stea un mesaj sau o conversație pe care le considerați importante</value>
+    <value>Marcați cu stea un mesaj sau o conversație pe care le considerați importante</value>
     <comment>Star a message or conversation</comment>
   </data>
   <data name="Shortcut_StarExplanation" xml:space="preserve">
@@ -3260,7 +3260,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Shield</comment>
   </data>
   <data name="AvatarIconWork" xml:space="preserve">
-    <value>Lucru</value>
+    <value>Servici</value>
     <comment>Work</comment>
   </data>
   <data name="AvatarIconYahoo" xml:space="preserve">
@@ -3654,7 +3654,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
-    <value>Restrîngere automată a câmpurilor destinatarului la deselectare</value>
+    <value>Restrângere automată a câmpurilor destinatarului la deselectare</value>
     <comment>Auto-collapse recipient fields on lost focus</comment>
   </data>
   <data name="Options_ComposeWindow" xml:space="preserve">
@@ -3847,7 +3847,7 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Atunci când adăugați mai multe conturi în Mailbird, un nou cont "unificat" este afișat în partea de sus a listei de cont, în bara de navigare. Acesta conține toate mesajele din folderele de sistem ale tuturor conturilor într-un singur loc și puteți interacționa cu ele la fel cum o faceți în mod normal.
+    <value>Atunci când adăugați mai multe conturi în Mailbird, un nou cont "colectat" este afișat în partea de sus a listei de cont, în bara de navigare. Acesta conține toate mesajele din folderele de sistem ale tuturor conturilor într-un singur loc și puteți interacționa cu ele la fel cum o faceți în mod normal.
 
 Puteți dezactiva contul unificat din setări, sau să editați fiecare dintre conturile dvs. pentru a decide care ar trebui să fie inclus în el.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
@@ -4487,7 +4487,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Timpul de trimitere a mesajelor va fi amânat la trimitere, oferindu-vă astfel posibilitatea de a anula.</value>
+    <value>Timpul de trimitere a mesajelor va fi prelungit, oferindu-vă astfel posibilitatea de a anula trimiterea acestuia.</value>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
@@ -4848,7 +4848,7 @@ Please choose another file.</comment>
     <comment>Tip failed to load, please check your internet connection.</comment>
   </data>
   <data name="Tips_ViewInBrowser" xml:space="preserve">
-    <value>View tip in browser</value>
+    <value>Vizualizează sfatul în browser</value>
     <comment>View tip in browser</comment>
   </data>
   <data name="Menu_Trial2" xml:space="preserve">
@@ -5478,7 +5478,7 @@ Pentru a adăuga o persoană de contact, dați clic pe butonul "Adăugare contac
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkContacts" xml:space="preserve">
-    <value>Link contacts</value>
+    <value>Contacte conectate</value>
     <comment>Link contacts</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkedin" xml:space="preserve">
@@ -5999,9 +5999,9 @@ Sugestiile eliminate pot fi restaurate din setări.</value>
     <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>Nu numai că am actualizat vechea aplicație Contacte cu un design nou - am adăugat, de asemenea, suport complet Google și Outlook, astfel încât să puteți sincroniza persoanele de contact cu conturile existente, și să aveți aceleași date de contact, chiar dacă lucrați cu Mailbird sau altceva.
+    <value>Nu numai că am actualizat vechea aplicație Contacte cu un design nou - am adăugat, de asemenea, suport complet Google și Outlook, astfel încât să puteți sincroniza persoanele de contact cu conturile existente și să aveți aceleași date de contact, chiar dacă lucrați cu Mailbird sau cu altă aplicație.
 
-Nou este, de asemenea, „legarea“, permițându-vă să conectați împreună contacte identice din conturi diferite - pentru a face modificări o singură dată și a le propaga în toate conturile în mod automat.
+Altă noutate, „corelarea” permițându-vă să conectați împreună contacte identice din conturi diferite - pentru a face modificări o singură dată și a le propaga în toate conturile în mod automat.
 
 Și oare am menționat că puteți copia sau muta contacte cu ușurință între conturi?
 
