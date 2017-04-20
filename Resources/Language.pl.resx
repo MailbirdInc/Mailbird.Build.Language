@@ -174,7 +174,7 @@
     <comment>Paste</comment>
   </data>
   <data name="Awesomium_PastePlain" xml:space="preserve">
-    <value>Wklej jako zwykły tekst</value>
+    <value>Wklej jako czysty tekst</value>
     <comment>Paste as plain text</comment>
   </data>
   <data name="Awesomium_SaveImage" xml:space="preserve">
@@ -194,7 +194,7 @@
     <comment>Copy name and email</comment>
   </data>
   <data name="Contact_NewMail" xml:space="preserve">
-    <value>Wyślij nowego maila</value>
+    <value>Wyślij nową wiadomość</value>
     <comment>Send new mail</comment>
   </data>
   <data name="Conversation_Archive" xml:space="preserve">
@@ -250,7 +250,7 @@
     <comment>Mark as unread</comment>
   </data>
   <data name="Conversation_MarkNotSpam" xml:space="preserve">
-    <value>Usuń oznaczenie jako spam</value>
+    <value>To nie jest spam</value>
     <comment>Mark as not spam</comment>
   </data>
   <data name="Conversation_MarkNotStarred" xml:space="preserve">
@@ -310,11 +310,11 @@
     <comment>To</comment>
   </data>
   <data name="Conversation_Trash" xml:space="preserve">
-    <value>Usuń</value>
+    <value>Do kosza</value>
     <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
-    <value>Zamknięcie okna w środku procesu wysyłania, anuluje także raport. Czy na pewno chcesz przerwać generowanie raportu?</value>
+    <value>Zamknięcie okna w środku procesu wysyłania anuluje także raport. Czy na pewno chcesz przerwać generowanie raportu?</value>
     <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
   </data>
   <data name="Dialog_AlreadyAttached" xml:space="preserve">
@@ -330,7 +330,7 @@
     <comment>Attachment(s) not downloaded</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
-    <value>Zaczekaj aż wszystkie załączniki zostaną pobrane zanim wyślesz wiadomość dalej</value>
+    <value>Poczekaj na pobranie wszystkich załączników, zanim wyślesz wiadomość dalej</value>
     <comment>Please wait until all attachments have been downloaded before forwarding</comment>
   </data>
   <data name="Dialog_Cancel" xml:space="preserve">
@@ -346,7 +346,7 @@
     <comment>Cannot remove identity</comment>
   </data>
   <data name="Dialog_CantRemoveIdentityExplanation" xml:space="preserve">
-    <value>Ta tożsamość, jest główną tożsamością konta i nie może zostać usunięta.</value>
+    <value>Ta tożsamość jest główną tożsamością konta i nie może zostać usunięta.</value>
     <comment>This identity is the main identity of an account and cannot be removed.</comment>
   </data>
   <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
@@ -362,7 +362,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Nie można zapisać pliku '{0}'. Plik już w użyciu.</value>
+    <value>Nie można zapisać pliku '{0}'. Plik aktualnie w użyciu.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -382,7 +382,7 @@ Url: {1}</comment>
     <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>Poczekaj aż wszystkie załączniki zostaną pobrane lub usuń je.</value>
+    <value>Poczekaj na pobranie wszystkich załączników lub usuń je.</value>
     <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
@@ -406,17 +406,17 @@ Url: {1}</comment>
     <comment>Facebook connect</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
-    <value>Musimy ponownie autoryzować twoje połączenie z Facebookiem.
+    <value>Musimy ponownie autoryzować Twoje połączenie z Facebookiem.
 Czy chcesz ponownie połączyć się z Facebookiem?</value>
     <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
   </data>
   <data name="Dialog_FileNotFound" xml:space="preserve">
-    <value>Nie odnaleziono pliku</value>
+    <value>Nie znaleziono pliku</value>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>Nie można odnaleźć '{0}'. Sprawdź czy plik na pewno jest w podanej lokalizacji.</value>
+    <value>Nie można znaleźć '{0}'. Sprawdź czy plik na pewno znajduje się w podanej lokalizacji.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
