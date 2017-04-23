@@ -436,7 +436,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No</comment>
   </data>
   <data name="Dialog_NoBrowser" xml:space="preserve">
-    <value>Nie odnaleziono domyślnej przeglądarki</value>
+    <value>Nie znaleziono domyślnej przeglądarki</value>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
@@ -1176,7 +1176,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>http://example.com/image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink1" xml:space="preserve">
-    <value>C:\użytkownicy\zdjęcie\obraz.jpg</value>
+    <value>C:\użytkownicy\obrazy\obraz.jpg</value>
     <comment>C:\users\picture\image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink2" xml:space="preserve">
@@ -2247,7 +2247,7 @@ We will never post anything to Facebook.</comment>
     <comment>Settings found</comment>
   </data>
   <data name="Welcome_SettingsNotFoundSubTitle" xml:space="preserve">
-    <value>Nie udało się odnaleźć ustawień dla twojego konta. Proszę podać wymagane informacje poniżej.</value>
+    <value>Nie udało się znaleźć ustawień dla twojego konta. Proszę podać wymagane informacje poniżej.</value>
     <comment>We were unable to find settings for your account. Please input the required information below.</comment>
   </data>
   <data name="Welcome_SettingsNotFoundTitle" xml:space="preserve">
@@ -2475,7 +2475,7 @@ Jeśli planujesz zainstalować Mailbird'a ponownie, zachowaj dane, aby nie musie
     <comment>Enter</comment>
   </data>
   <data name="Shortcut_NotFound" xml:space="preserve">
-    <value>Nie odnaleziono skrótu pasującego do zapytania.</value>
+    <value>Nie znaleziono skrótu pasującego do zapytania.</value>
     <comment>No shortcut found based on the search.</comment>
   </data>
   <data name="Shortcut_Space" xml:space="preserve">
@@ -5430,7 +5430,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
-    <value>Export contacts to vCard</value>
+    <value>Eksportuj kontakty do vCard</value>
     <comment>Export group contacts to vCards</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
@@ -6001,7 +6001,7 @@ Usunięte sugestie można przywrócić w ustawieniach.</value>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
     <value>Nie tylko zaktualizowaliśmy starą aplikację Kontakty o zupełnie nowy wygląd - dodaliśmy także pełną obsługę Google i Outlooka, dzięki czemu możesz zsynchronizować kontakty z istniejących kont i mieć te same kontakty, niezależnie od tego, czy pracujesz w programie Mailbird czy gdzieś indziej.
 
-Nowością jest również "łączenie", pozwalające połączyć identyczne kontakty z różnych kont - raz wprowadzasz zmiany a te zostają automatycznie rozpowszechnione na wszystkie konta.
+Nowością jest również "łączenie", pozwalające połączyć identyczne kontakty z różnych kont - raz wprowadzasz zmiany, a te zostają automatycznie rozpowszechnione na wszystkie konta.
 
 A czy wspominaliśmy, że możesz łatwo kopiować i przenosić kontakty pomiędzy kontami?
 
@@ -6009,11 +6009,11 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
-    <value>Open Contacts</value>
+    <value>Otwórz Kontakty</value>
     <comment>Button label to open Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuDeleteGroup" xml:space="preserve">
-    <value>Delete</value>
+    <value>Usuń</value>
     <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
@@ -6021,47 +6021,47 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 <data name="Menu_Help" xml:space="preserve">
-    <value>Help</value>
+    <value>Pomoc</value>
     <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
-    <value>Share via email</value>
+    <value>Udostępnij poprzez e-mail</value>
     <comment>Tooltip to share via email</comment>
   </data>
   <data name="RateRecommend_Facebook" xml:space="preserve">
-    <value>Share via Facebook</value>
+    <value>Udostępnij poprzez Facebooka</value>
     <comment>Tooltip to share via Facebook</comment>
   </data>
   <data name="RateRecommend_HeaderFeedback" xml:space="preserve">
-    <value>Please let us know how we can improve Mailbird for you:</value>
+    <value>Daj nam znać, jak możemy dla Ciebie ulepszyć Mailbird:</value>
     <comment>Header in rate and recommend control when asking for feedback</comment>
   </data>
   <data name="RateRecommend_HeaderRating" xml:space="preserve">
-    <value>How likely are you to recommend Mailbird to a friend?</value>
+    <value>Jak bardzo prawdopodobne jest, że polecisz Mailbird swojemu znajomemu?</value>
     <comment>Header in rate and recommend control when asking for rating</comment>
   </data>
   <data name="RateRecommend_HeaderShare" xml:space="preserve">
-    <value>Great! Could you share a brief post with your friends? It really helps.</value>
+    <value>Wspaniale! Czy mógłbyś podzielić się krótkim postem ze znajomymi? To naprawdę pomaga.</value>
     <comment>Header in rate and recommend control when asking for sharing</comment>
   </data>
   <data name="RateRecommend_Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Wyślij</value>
     <comment>Button to send feedback</comment>
   </data>
   <data name="RateRecommend_Twitter" xml:space="preserve">
-    <value>Share via Twitter</value>
+    <value>Udostępnij poprzez Twittera</value>
     <comment>Tooltip to share via Twitter</comment>
   </data>
   <data name="RateRecommend_Unlikely" xml:space="preserve">
-    <value>Unlikely</value>
+    <value>Mało prawdopodobne</value>
     <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="RateRecommend_VeryLikely" xml:space="preserve">
-    <value>Very likely</value>
+    <value>Bardzo prawdopodobne</value>
     <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="InviteV2_ShareSocial2" xml:space="preserve">
-    <value>Share on social</value>
+    <value>Udostępnij w sieciach społecznościowych</value>
     <comment>Button for sharing invites to social</comment>
   </data>
 </root>
