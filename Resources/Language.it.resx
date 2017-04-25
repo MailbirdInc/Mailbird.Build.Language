@@ -3314,7 +3314,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Find and merge duplicates</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_MergeSelected" xml:space="preserve">
-    <value>Merge ({0}) selected</value>
+    <value>Unisci contatti ({0})</value>
     <comment>Merge selected</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_SelectAll" xml:space="preserve">
@@ -5730,7 +5730,7 @@ La sincronizzazione dei contatti verrà disabilitata e saranno rimossi i relativ
     <comment>Label of the custom field displayed in the Contacts apps</comment>
   </data>
   <data name="App_Contacts_MenuEmailGroup" xml:space="preserve">
-    <value>Email group</value>
+    <value>Invia email al gruppo</value>
     <comment>Menu to send email to selected group</comment>
   </data>
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
@@ -5985,25 +5985,25 @@ I suggerimenti nascosti possono essere ripristinati dalle impostazioni.</value>
     <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
 <data name="App_Contacts_MenuRenameGroup" xml:space="preserve">
-    <value>Rename</value>
+    <value>Rinomina</value>
     <comment>Label of menu item to rename group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
-    <value>Loading duplicates...</value>
+    <value>Sto cercando i duplicati...</value>
     <comment>Loading message when merge contacts are being calculated.</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
-    <value>Try the new and improved Contacts app with contact sync!</value>
+    <value>Prova la nuova app Contatti con la sincronizzazione automatica!</value>
     <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>We've not only updated the old Contacts app with a brand new design - we've also added full Google and Outlook support, so you can sync contacts with your existing accounts, and have the same contacts whether you're working in Mailbird or somewhere else.
+    <value>Abbiamo aggiornato l'applicazione Contatti con un nuovissimo design, ma non solo! Ora è anche possibile sincronizzare i tuoi contatti con quelli già esistenti su Google e Outlook, in modo da poterci accedere sia da Mailbird sia da altre applicazioni collegate ai tuoi account.
 
-New is also "linking", enabling you to link together identical contacts from different accounts - to make changes once and have them propagate to all accounts automatically.
+Abbiamo introdotto anche la nuova funzionalità di "collegamento" di più contatti, che ti consente di raggruppare in un'unica pagina contatti identici o simili che sono salvati in account differenti. In questo modo è possibile apportare modifiche al nuovo contatto "collegato" per aggiornare allo stesso tempo tutti gli account in automatico.
 
-And did we mention you can easily copy or move contacts between accounts?
+Ah, ora è anche possibile copiare e spostare facilmente contatti tra un account e l'altro.
 
-Try the new Contacts now!</value>
+Prova adesso la nuova app Contatti!</value>
     <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
@@ -6015,7 +6015,7 @@ Try the new Contacts now!</value>
     <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
-    <value>Selected group</value>
+    <value>Gruppo selezionato</value>
     <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 <data name="Menu_Help" xml:space="preserve">
@@ -6023,23 +6023,23 @@ Try the new Contacts now!</value>
     <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
-    <value>Share via email</value>
+    <value>Condividi via email</value>
     <comment>Tooltip to share via email</comment>
   </data>
   <data name="RateRecommend_Facebook" xml:space="preserve">
-    <value>Share via Facebook</value>
+    <value>Condividi su Facebook</value>
     <comment>Tooltip to share via Facebook</comment>
   </data>
   <data name="RateRecommend_HeaderFeedback" xml:space="preserve">
-    <value>Please let us know how we can improve Mailbird for you:</value>
+    <value>Facci sapere come possiamo migliorare Mailbird:</value>
     <comment>Header in rate and recommend control when asking for feedback</comment>
   </data>
   <data name="RateRecommend_HeaderRating" xml:space="preserve">
-    <value>How likely are you to recommend Mailbird to a friend?</value>
+    <value>Quanto è probabile che consiglierai Mailbird a un amico?</value>
     <comment>Header in rate and recommend control when asking for rating</comment>
   </data>
   <data name="RateRecommend_HeaderShare" xml:space="preserve">
-    <value>Great! Could you share a brief post with your friends? It really helps.</value>
+    <value>Ottimo! Potresti condividere un breve post con i tuoi amici? Te ne saremmo grati.</value>
     <comment>Header in rate and recommend control when asking for sharing</comment>
   </data>
   <data name="RateRecommend_Send" xml:space="preserve">
@@ -6047,19 +6047,19 @@ Try the new Contacts now!</value>
     <comment>Button to send feedback</comment>
   </data>
   <data name="RateRecommend_Twitter" xml:space="preserve">
-    <value>Share via Twitter</value>
+    <value>Condividi su Twitter</value>
     <comment>Tooltip to share via Twitter</comment>
   </data>
   <data name="RateRecommend_Unlikely" xml:space="preserve">
-    <value>Unlikely</value>
+    <value>Poco probabile</value>
     <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="RateRecommend_VeryLikely" xml:space="preserve">
-    <value>Very likely</value>
+    <value>Molto probabile</value>
     <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="InviteV2_ShareSocial2" xml:space="preserve">
-    <value>Share on social</value>
+    <value>Condividi sui social</value>
     <comment>Button for sharing invites to social</comment>
   </data>
 </root>
