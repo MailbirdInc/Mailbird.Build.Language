@@ -542,7 +542,7 @@ Message:</comment>
     <comment>Warning</comment>
   </data>
   <data name="Dialog_WhoToEmail" xml:space="preserve">
-    <value>Do kogo chciałbyś wysłać e-mail?</value>
+    <value>Do kogo chcesz wysłać e-mail?</value>
     <comment>Who'd you like to email?</comment>
   </data>
   <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
@@ -554,8 +554,8 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Napisałeś"{0}" i sądzimy, że mogłeś chcieć załączyć plik.
-Jeśli chcesz wysłać wiadomość bez załączników, po prostu kliknij "OK" poniżej.</value>
+    <value>Twoja wiadomość zawiera wyrażenie „{0}”, ale nie zostały załączone żadne pliki.
+Jeśli jednak chcesz wysłać wiadomość bez załączników, po prostu kliknij "OK" poniżej.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -764,7 +764,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
-    <value>Czy chciałbyś nadpisać istniejące pliki?</value>
+    <value>Czy chcesz nadpisać istniejące pliki?</value>
     <comment>Would you like to overwrite existing files?</comment>
   </data>
   <data name="Dialog_Purchase" xml:space="preserve">
@@ -772,7 +772,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Purchase</comment>
   </data>
   <data name="Dialog_SaveFolder" xml:space="preserve">
-    <value>Wybierz folder, w którym mają być zapisane zaznaczone załączniki:</value>
+    <value>Wybierz folder, w którym mają zostać zapisane zaznaczone załączniki:</value>
     <comment>Select the folder to save the selected attachments in:</comment>
   </data>
   <data name="Draft_Saved" xml:space="preserve">
@@ -824,7 +824,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
-    <value>Wpisz tekst wyświetlany</value>
+    <value>Wpisz tekst do wyświetlenia</value>
     <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
@@ -832,11 +832,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>You cannot send an empty invitation</comment>
   </data>
   <data name="AccountValidationRule_EmptyPassword" xml:space="preserve">
-    <value>Podaj hasło</value>
+    <value>Wpisz hasło</value>
     <comment>Please enter a password</comment>
   </data>
   <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
-    <value>Wprowadź numer portu</value>
+    <value>Wpisz numer portu</value>
     <comment>Please enter a port number</comment>
   </data>
   <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
@@ -844,11 +844,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter the server name</comment>
   </data>
   <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
-    <value>Proszę podać temat</value>
+    <value>Wpisz temat</value>
     <comment>Please enter subject</comment>
   </data>
   <data name="AccountValidationRule_EmptyUsername" xml:space="preserve">
-    <value>Wprowadź nazwę użytkownika</value>
+    <value>Wpisz nazwę użytkownika</value>
     <comment>Please enter a username</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
@@ -860,15 +860,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email appears invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
-    <value>Proszę podać prawidłowy klucz licencyjny</value>
+    <value>Wpisz prawidłowy klucz licencyjny</value>
     <comment>Please enter a valid license key</comment>
   </data>
   <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
-    <value>Proszę wprowadzić prawidłowy adres URL</value>
+    <value>Wpisz prawidłowy adres URL</value>
     <comment>Please enter a valid url</comment>
   </data>
   <data name="AccountValidationRule_SenderName" xml:space="preserve">
-    <value>Proszę podać swoje nazwisko</value>
+    <value>Wpisz swoje nazwisko</value>
     <comment>Please enter your name</comment>
   </data>
   <data name="Facebook_HowMailbirdConnectsLink" xml:space="preserve">
@@ -964,7 +964,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search apps</comment>
   </data>
   <data name="App_Asana_Description" xml:space="preserve">
-    <value>Produktywność wprost przed tobą! Organizuj, podejmuj zadania i wykreślaj je z twojej listy rzeczy do zrobienia.</value>
+    <value>Produktywność wprost przed Tobą! Organizuj, realizuj zadania i wykreślaj je ze swojej listy rzeczy do zrobienia.</value>
     <comment>Productivity right at your fingertips! Organize, take action, and cross off your to do list.</comment>
   </data>
   <data name="App_Attachments_Description" xml:space="preserve">
@@ -1000,7 +1000,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
-    <value>Skonfiguruj konferencje audio i wideo bezpośrednio w Mailbirdzie, dzięki Veeting Rooms.</value>
+    <value>Skonfiguruj konferencje audio i wideo bezpośrednio w Mailbirdzie, dzięki aplikacji Veeting Rooms.</value>
     <comment>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</comment>
   </data>
   <data name="App_Contacts_Description" xml:space="preserve">
@@ -1036,19 +1036,19 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Contacts</comment>
   </data>
   <data name="App_DailySocial_Description" xml:space="preserve">
-    <value>Uzyskaj najnowsze i najlepsze wiadomości o startupach technologicznych w Indonezji.</value>
+    <value>Uzyskaj najnowsze i najlepsze wiadomości o indonezyjskich startupach technologicznych.</value>
     <comment>Get the latest and greatest news on tech startups in Indonesia.</comment>
   </data>
   <data name="App_Dropbox_Description" xml:space="preserve">
-    <value>Pobieraj, udostępniaj i organizuj wszystkie te pliki bez opuszczania programu Mailbird.</value>
+    <value>Pobieraj, udostępniaj i organizuj wszystkie swoje pliki bez opuszczania programu Mailbird.</value>
     <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Evernote_Description" xml:space="preserve">
-    <value>Twórz, wyświetlaj i edytuj notatki prosto w Mailbirdzie. Proste i zwiększające produktywność.</value>
+    <value>Twórz, wyświetlaj i edytuj swoje notatki prosto w Mailbirdzie! Zwiększ swoją produktywność w prosty sposób.</value>
     <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
   </data>
   <data name="App_Facebook_Description" xml:space="preserve">
-    <value>Bądź gwiazdą społeczności. Korzystaj z Facebooka i czatuj ze znajomymi prosto z Mailbirda.</value>
+    <value>Bądź gwiazdą swojej społeczności. Korzystaj z Facebooka i czatuj ze znajomymi prosto z Mailbirda.</value>
     <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
   <data name="App_Feedback_Description" xml:space="preserve">
@@ -1060,11 +1060,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Feedback</comment>
   </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
-    <value>Szybko przejdź do swoich ważnych dokumentów bez opuszczania Mailbirda.</value>
+    <value>Szybko przejdź do swoich dokumentów bez opuszczania Mailbirda.</value>
     <comment>Quickly navigate to your important documents from Mailbird.</comment>
   </data>
   <data name="App_Lifehacker_Description" xml:space="preserve">
-    <value>Zbiera w jednym miejscu porady, sztuczki i technologię pozwalające lepiej żyć w erze cyfrowej.</value>
+    <value>Zbiera w jednym miejscu porady, sztuczki i technologie pozwalające lepiej żyć w erze cyfrowej.</value>
     <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
   </data>
   <data name="App_RetroSift_Description" xml:space="preserve">
@@ -1076,7 +1076,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Lost Photos</comment>
   </data>
   <data name="App_Support_Description" xml:space="preserve">
-    <value>Miejsce służące do uzyskiwania pomocy od zespołu Mailbirda.</value>
+    <value>Tutaj uzyskasz pomoc od zespołu Mailbird.</value>
     <comment>A place to get help from our Mailbird staff.</comment>
   </data>
   <data name="App_Support_Title" xml:space="preserve">
@@ -1096,7 +1096,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>You did it! Impressive!</comment>
   </data>
   <data name="InboxZero_FeelsGood" xml:space="preserve">
-    <value>Ach.. świetne uczucie.</value>
+    <value>Ach... świetne uczucie.</value>
     <comment>Ahhh... that feels good.</comment>
   </data>
   <data name="InboxZero_TrueInspiration" xml:space="preserve">
@@ -1108,7 +1108,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Now that's how it's done!</comment>
   </data>
   <data name="InboxZero_Flying" xml:space="preserve">
-    <value>Wow, dosłownie latasz!</value>
+    <value>Wow, dosłowny odlot!</value>
     <comment>Wow. You're flying!</comment>
   </data>
   <data name="InboxZero_Rock" xml:space="preserve">
@@ -1124,7 +1124,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>Ten klucz licencyjny został zdezaktywowany przez administratora. Proszę skontaktować się z support@getmailbird.com w celu jego aktywacji.</value>
+    <value>Ten klucz licencyjny został dezaktywowany przez administratora. Proszę skontaktować się z support@getmailbird.com w celu jego aktywacji.</value>
     <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
@@ -1140,19 +1140,19 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Incorrect Date</comment>
   </data>
   <data name="License_Information" xml:space="preserve">
-    <value>Twoje informacje o licencji są podane poniżej.</value>
+    <value>Informacje o Twojej licencji są podane poniżej.</value>
     <comment>Your license information is listed below.</comment>
   </data>
   <data name="License_Invalid" xml:space="preserve">
-    <value>Błędna licencja</value>
+    <value>Nieprawidłowa licencja</value>
     <comment>Invalid License</comment>
   </data>
   <data name="License_InvalidHint" xml:space="preserve">
-    <value>Błędny klucz licencyjny</value>
+    <value>Nieprawidłowy klucz licencyjny</value>
     <comment>Invalid license key</comment>
   </data>
   <data name="License_InvalidExplanation" xml:space="preserve">
-    <value>Podaj nowy klucz licencyjny i kliknąć kontynuuj aby zaktualizować licencję.</value>
+    <value>Wpisz nowy klucz licencyjny i kliknij kontynuuj, aby zaktualizować licencję.</value>
     <comment>Please enter the new license key and press continue to update the license.</comment>
   </data>
   <data name="License_License" xml:space="preserve">
@@ -1160,7 +1160,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>License</comment>
   </data>
   <data name="License_LicenseExplanation" xml:space="preserve">
-    <value>Wprowadź klucz licencyjny aby kontynuować.</value>
+    <value>Wprowadź klucz licencyjny, aby kontynuować.</value>
     <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
@@ -1256,7 +1256,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Starred</comment>
   </data>
   <data name="MapLabelWindow_Title" xml:space="preserve">
-    <value>Przypisz specjalne etykiety</value>
+    <value>Przypisz etykiety specjalne</value>
     <comment>Map special labels</comment>
   </data>
   <data name="MapLabelWindow_Trash" xml:space="preserve">
@@ -1356,7 +1356,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>On</comment>
   </data>
   <data name="Message_OpenLink" xml:space="preserve">
-    <value>Kliknij aby otworzyć w nowym oknie lub zakładce</value>
+    <value>Kliknij, aby otworzyć w nowym oknie lub zakładce</value>
     <comment>Click to open in a new window or tab</comment>
   </data>
   <data name="Message_Options" xml:space="preserve">
