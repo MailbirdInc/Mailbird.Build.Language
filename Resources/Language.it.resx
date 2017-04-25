@@ -346,7 +346,7 @@
     <comment>Cannot remove identity</comment>
   </data>
   <data name="Dialog_CantRemoveIdentityExplanation" xml:space="preserve">
-    <value>Questa identità è la primaria dell'account e non può essere rimossa.</value>
+    <value>Questa identità è l'identità principale per l'account e non può essere rimossa.</value>
     <comment>This identity is the main identity of an account and cannot be removed.</comment>
   </data>
   <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
@@ -836,7 +836,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter a password</comment>
   </data>
   <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
-    <value>Per favore inserisci il numero della porta</value>
+    <value>Inserisci il numero della porta</value>
     <comment>Please enter a port number</comment>
   </data>
   <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
@@ -1312,7 +1312,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Display once</comment>
   </data>
   <data name="Message_DropAsAttachment" xml:space="preserve">
-    <value>Aggiungi come allegato</value>
+    <value>Rilascia per allegare</value>
     <comment>Drop as Attachment</comment>
   </data>
   <data name="Message_DropAsAttachmentExplanation" xml:space="preserve">
@@ -1356,7 +1356,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>On</comment>
   </data>
   <data name="Message_OpenLink" xml:space="preserve">
-    <value>Clicca per aprire in una nuova finestra o scheda</value>
+    <value>Premi per aprire in una nuova finestra o scheda</value>
     <comment>Click to open in a new window or tab</comment>
   </data>
   <data name="Message_Options" xml:space="preserve">
@@ -1980,7 +1980,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Muovi il cursore al messaggio precedente. Puoi premere &lt;Enter&gt; per ingrandire o ridurre un messaggio. (Applicabile solo nella 'Vista Conversazione')</value>
+    <value>Sposta il cursore al messaggio precedente. Puoi premere &lt;Invio&gt; per espandere o nascondere un messaggio (funziona solo nella visualizzazione conversazione)</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2404,7 +2404,7 @@ Path: {0}</comment>
     <comment>Pro only features</comment>
   </data>
   <data name="UpdateToPro_Subtitle" xml:space="preserve">
-    <value>Ottieni l'anteprima rapida e molti altri vantaggi</value>
+    <value>Sfrutta la funzionalità "anteprima rapida" e molto altro</value>
     <comment>Get Quick Preview and many other benefits</comment>
   </data>
   <data name="UpdateToPro_UnlimitedAccounts" xml:space="preserve">
@@ -4053,11 +4053,12 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Assicurati di configurare l'account in modo da usare l'autenticazione OAuth 2.0 invece che nome utente e password, oppure abilità l'opzione "app meno sicure" in Gmail:
+    <value>Assicurati di aver configurato l'account in modo da utilizzare l'autenticazione OAuth 2.0, invece che nome utente e password. Se non funziona ancora, abilità l'opzione "app meno sicure" in Gmail:
 {0}
 
-Se il problema persiste, dai un'occhiata a questa pagina per la risoluzione dei problemi:
-https://support.google.com/mail/accounts/answer/78754</value>
+Se il problema persiste, dai un'occhiata a queste pagine per la risoluzione dei problemi:
+https://support.google.com/mail/accounts/answer/78754
+In inglese: https://mailbird.zendesk.com/entries/53544244</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
@@ -5049,7 +5050,7 @@ Are you sure you want to close the window?</comment>
 <data name="Notification_GenericAuthenticationError1" xml:space="preserve">
     <value>Il problema è solitamente causato da credenziali errate o dalla mancata attivazione del protocollo {0} sul server per il tuo account.
 
-Altre informazioni:
+Altre informazioni (in inglese):
 https://support.getmailbird.com/hc/en-us/articles/220108287</value>
     <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
 
@@ -5512,23 +5513,23 @@ Per aggiungere un contatto, premi "Aggiungi contatto".</value>
     <comment>No groups found.</comment>
   </data>
   <data name="App_Contacts_Intro_1" xml:space="preserve">
-    <value>Tutti i tuoi contatti assieme in un unico luogo.</value>
+    <value>Tutti i tuoi contatti assieme nello stesso posto.</value>
     <comment>All your contacts together in one place.</comment>
   </data>
   <data name="App_Contacts_Intro_2" xml:space="preserve">
-    <value>Ora puoi sincronizzare i tuoi contatti Google con Mailbird, con altri servizi in arrivo in futuro.</value>
+    <value>Puoi sincronizzare i tuoi contatti Google con Mailbird. Il supporto ad altri servizi sta per arrivare.</value>
     <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
-    <value>Puoi collegare più contatti in modo da visualizzarne tutte le informazioni in un unico luogo.</value>
+    <value>Puoi collegare più contatti in modo da visualizzarne tutte le informazioni in un contatto unico. Basta un click!</value>
     <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
-    <value>Connetti i tuoi account Google per sincronizzarli con Mailbird.</value>
+    <value>Connetti i tuoi account Google per iniziare a sincronizzare i contatti con Mailbird.</value>
     <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
   </data>
   <data name="App_Contacts_Intro_Welcome" xml:space="preserve">
-    <value>Ecco i nuovi Contatti</value>
+    <value>Ecco la nuova app Contatti</value>
     <comment>Meet the Contacts</comment>
   </data>
   <data name="App_Contacts_FieldPhoto" xml:space="preserve">
@@ -5548,7 +5549,7 @@ Per aggiungere un contatto, premi "Aggiungi contatto".</value>
     <comment>(No linked contacts)</comment>
   </data>
   <data name="App_Contacts_Intro_ConnectAccounts" xml:space="preserve">
-    <value>Connetti account</value>
+    <value>Connetti un account</value>
     <comment>Connect accounts</comment>
   </data>
   <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
