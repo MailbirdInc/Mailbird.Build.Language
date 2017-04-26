@@ -1856,7 +1856,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
-    <value>Konuşmayı Çöp Kutusu'na taşır.</value>
+    <value>Görüşmeyi Çöp Kutusu'na taşır.</value>
     <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
@@ -1960,7 +1960,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Görüşmeyi açar. 'Görüşme Görünümü'nde iseniz iletiyi açıp kapatır.</value>
+    <value>Görüşmenizi açar. 'Görüşme Görünümü'nde iseniz iletiyi genişletip daraltır.</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -4485,7 +4485,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Gönderme sırasında geri alma seçeneği sunarak, ileti zamanını gecikirir.</value>
+    <value>Gönderme sırasında zaman iletilerini geciktirerek, geri alma seçeneği sunar.</value>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
@@ -5666,7 +5666,7 @@ Bu kaldırılamaz.</value>
   <data name="Dialog_DisconnectAccountExplanation" xml:space="preserve">
     <value>Hesap bağlantısını kesmek istediğinizden emin misiniz?
 
-Bu, kişi eşitlemesini devre dışı bırakır ve hesabın gruplarını ve kartvizitlerini Mailbird'den kaldırır.</value>
+Bu, kişi eşitlemesini devre dışı bırakır ve hesabın gruplarını ve kişilerini Mailbird'den kaldırır.</value>
     <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="App_Contacts_FieldAdd" xml:space="preserve">
@@ -5915,7 +5915,7 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Longitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Mailer" xml:space="preserve">
-    <value>Mailer</value>
+    <value>Gönderen</value>
     <comment>Label for custom field Mailer when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Office" xml:space="preserve">
@@ -5943,15 +5943,15 @@ with Mailbird Pro?</comment>
     <comment>Label for contact custom address type International</comment>
   </data>
   <data name="App_Contacts_Labels_Parcel" xml:space="preserve">
-    <value>Parcel</value>
+    <value>Paket</value>
     <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
-    <value>Postal</value>
+    <value>Posta</value>
     <comment>Label for contact custom address type Postal</comment>
   </data>
   <data name="App_Contacts_Labels_Preferred" xml:space="preserve">
-    <value>Preferred</value>
+    <value>Tercihli</value>
     <comment>Label for contact custom address type Preferred</comment>
   </data>
   <data name="MailEditor_RemoveSuggestion" xml:space="preserve">
@@ -5963,25 +5963,25 @@ with Mailbird Pro?</comment>
     <comment>Dialog box header</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsMessage" xml:space="preserve">
-    <value>All previously removed auto-complete suggestions have been restored.</value>
+    <value>Önceden kaldırılan tüm otomatik tamamlama önerileri geri yüklendi.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionHeader" xml:space="preserve">
-    <value>Removing auto-complete suggestions</value>
+    <value>Otomatik tamamlama önerilerini kaldırma</value>
     <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Removing a suggestion will keep it from appearing in the list when composing a message - for instance if an email address no longer exists or is incorrect.
+    <value>Bir öneriyi kaldırmak, bir ileti oluştururken, örneğin bir e-posta adresi artık mevcut değilse veya yanlışsa, listede görünmesini engelleyecektir.
 
-Removed suggestions can be restored from the settings.</value>
+Kaldırılan öneriler ayarlardan geri yüklenebilir.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Restore auto-complete suggestions</value>
+    <value>Otomatik tamamlama önerilerini geri yükle</value>
     <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
-    <value>Restores any auto-complete suggestions you've previously removed.</value>
+    <value>Önceden kaldırdığınız otomatik tamamlama önerilerini geri yükler.</value>
     <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
 <data name="App_Contacts_MenuRenameGroup" xml:space="preserve">
@@ -5989,21 +5989,21 @@ Removed suggestions can be restored from the settings.</value>
     <comment>Label of menu item to rename group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
-    <value>Loading duplicates...</value>
+    <value>Yinelenen öğeler yükleniyor ...</value>
     <comment>Loading message when merge contacts are being calculated.</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
-    <value>Try the new and improved Contacts app with contact sync!</value>
+    <value>Yeni ve geliştirilmiş Kişiler uygulamasını kişi senkronizasyonu ile deneyin!</value>
     <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>We've not only updated the old Contacts app with a brand new design - we've also added full Google and Outlook support, so you can sync contacts with your existing accounts, and have the same contacts whether you're working in Mailbird or somewhere else.
+    <value>Eski Kişiler uygulamasını sadece yepyeni bir tasarımla güncellemedik, Tam Google ve Outlook desteğini de ekledik, böylece kişileri mevcut hesaplarınızla senkronize edebilir ve Mailbird'de ya da başka bir yerde çalışsanız da aynı kişilere sahip olabilirsiniz.
 
-New is also "linking", enabling you to link together identical contacts from different accounts - to make changes once and have them propagate to all accounts automatically.
+Yeni, aynı zamanda "bağlar", bir kez değişiklik yapmak ve bunları otomatik olarak tüm hesaplara yaymak için farklı hesaplardan aynı kişileri birbirine bağlamanızı sağlar.
 
-And did we mention you can easily copy or move contacts between accounts?
+Ayrıca hesaplar arasında kişileri kolayca kopyalayabileceğinizden ya da taşıyabileceğinizden de bahsettik mi?
 
-Try the new Contacts now!</value>
+Yeni Kişileri şimdi deneyin!</value>
     <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
@@ -6015,7 +6015,7 @@ Try the new Contacts now!</value>
     <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
-    <value>Selected group</value>
+    <value>Seçilen grup</value>
     <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 <data name="Menu_Help" xml:space="preserve">
@@ -6023,19 +6023,19 @@ Try the new Contacts now!</value>
     <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
-    <value>Share via email</value>
+    <value>E-postayla paylaş</value>
     <comment>Tooltip to share via email</comment>
   </data>
   <data name="RateRecommend_Facebook" xml:space="preserve">
-    <value>Share via Facebook</value>
+    <value>Facebook'ta paylaş</value>
     <comment>Tooltip to share via Facebook</comment>
   </data>
   <data name="RateRecommend_HeaderFeedback" xml:space="preserve">
-    <value>Please let us know how we can improve Mailbird for you:</value>
+    <value>Lütfen Mailbird'ü sizin için nasıl geliştirebileceğimizi bize bildirin:</value>
     <comment>Header in rate and recommend control when asking for feedback</comment>
   </data>
   <data name="RateRecommend_HeaderRating" xml:space="preserve">
-    <value>How likely are you to recommend Mailbird to a friend?</value>
+    <value>Mailbird ürününü bir arkadaşınıza önerme olasılığınız nedir?</value>
     <comment>Header in rate and recommend control when asking for rating</comment>
   </data>
   <data name="RateRecommend_HeaderShare" xml:space="preserve">
@@ -6047,19 +6047,19 @@ Try the new Contacts now!</value>
     <comment>Button to send feedback</comment>
   </data>
   <data name="RateRecommend_Twitter" xml:space="preserve">
-    <value>Share via Twitter</value>
+    <value>Twitter'da paylaş</value>
     <comment>Tooltip to share via Twitter</comment>
   </data>
   <data name="RateRecommend_Unlikely" xml:space="preserve">
-    <value>Unlikely</value>
+    <value>Olası değil</value>
     <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="RateRecommend_VeryLikely" xml:space="preserve">
-    <value>Very likely</value>
+    <value>Muhtemelen</value>
     <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="InviteV2_ShareSocial2" xml:space="preserve">
-    <value>Share on social</value>
+    <value>Sosyal medyada paylaş</value>
     <comment>Button for sharing invites to social</comment>
   </data>
 </root>
