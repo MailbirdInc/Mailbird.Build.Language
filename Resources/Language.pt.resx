@@ -1492,7 +1492,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Conversation trashed</comment>
   </data>
   <data name="Notification_Undo" xml:space="preserve">
-    <value>Desfazer</value>
+    <value>Anular</value>
     <comment>Undo</comment>
   </data>
   <data name="Options_About" xml:space="preserve">
@@ -2112,11 +2112,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Switch between folders</comment>
   </data>
   <data name="Shortcut_Undo" xml:space="preserve">
-    <value>Desfazer</value>
+    <value>Anular</value>
     <comment>Undo</comment>
   </data>
   <data name="Shortcut_UndoExplanation" xml:space="preserve">
-    <value>Cancela a sua acção anterior, se possível (funciona para acções com uma ligação 'desfazer').</value>
+    <value>Cancela a sua acção anterior, se possível (funciona para acções com uma ligação 'anular').</value>
     <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
@@ -4475,7 +4475,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>Desfazer período de envio</value>
+    <value>Anular período de envio</value>
     <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
@@ -4571,7 +4571,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Test sound</comment>
   </data>
   <data name="Options_CustomSound" xml:space="preserve">
-    <value>Personalizar...</value>
+    <value>Personalizado...</value>
     <comment>Custom...</comment>
   </data>
   <data name="Notification_SoundFailedToPlay" xml:space="preserve">
@@ -4867,7 +4867,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
   </data>
 <data name="Notification_ErrorLoadingBackgroundExplanation" xml:space="preserve">
     <value>Ocorreu um erro ao carregar a imagem de fundo.
-Seleccione outra imagem para usar como pano de fundo.</value>
+Seleccione outra imagem para usar como fundo.</value>
     <comment>An error occured loading the background image.
 Please select another image to use as a background.</comment>
   </data>
@@ -5793,7 +5793,7 @@ with Mailbird Pro?</comment>
     <comment>Tooltip for button to create contact</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Custom" xml:space="preserve">
-    <value>Personalizar</value>
+    <value>Personalizado</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Date" xml:space="preserve">
@@ -6059,35 +6059,35 @@ Experimente os novos contactos agora!</value>
     <comment>Button for sharing invites to social</comment>
   </data>
 <data name="Background_AddYourOwn" xml:space="preserve">
-    <value>Add your own picture</value>
+    <value>Adicione a sua própria imagem</value>
     <comment>Tooltip for a menu to browse picture for background image</comment>
   </data>
   <data name="Background_Christmas" xml:space="preserve">
-    <value>Christmas</value>
+    <value>Natal</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Clover" xml:space="preserve">
-    <value>Clover</value>
+    <value>Trevo</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Custom" xml:space="preserve">
-    <value>Custom</value>
+    <value>Personalizado</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Diamonds" xml:space="preserve">
-    <value>Diamonds</value>
+    <value>Diamantes</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Flower" xml:space="preserve">
-    <value>Flower</value>
+    <value>Flor</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Leaves" xml:space="preserve">
-    <value>Leaves</value>
+    <value>Folhas</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_NarrowStripes" xml:space="preserve">
-    <value>Narrow Stripes</value>
+    <value>Listras estreitas</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_None" xml:space="preserve">
@@ -6099,95 +6099,95 @@ Experimente os novos contactos agora!</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Scale" xml:space="preserve">
-    <value>Scale</value>
+    <value>Escala</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Snow" xml:space="preserve">
-    <value>Snow</value>
+    <value>Neve</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Square" xml:space="preserve">
-    <value>Square</value>
+    <value>Quadrado</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWars" xml:space="preserve">
-    <value>Star Wars</value>
+    <value>Guerra das Estrelas</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWarsDarkSide" xml:space="preserve">
-    <value>Dark Side</value>
+    <value>O Lado Negro</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWarsPixel" xml:space="preserve">
-    <value>Star Wars Pixel</value>
+    <value>Pixel Guerra das Estrelas</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Stripes" xml:space="preserve">
-    <value>Stripes</value>
+    <value>Tiras</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Invite_HowItWorks" xml:space="preserve">
-    <value>How it works?</value>
+    <value>Como funciona?</value>
     <comment>Button to learn more about invite sidebar</comment>
   </data>
   <data name="Sidebar_Collapse" xml:space="preserve">
-    <value>Collapse sidebar</value>
+    <value>Recolher barra lateral</value>
     <comment>Tooltip for a button to collapse sidebar</comment>
   </data>
   <data name="Sidebar_Expand" xml:space="preserve">
-    <value>Expand sidebar</value>
+    <value>Expandir barra lateral</value>
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Video conversations with up to 8 people.</value>
-  </data>
+    <value>Conversas de vídeo até 8 pessoas.</value>
+    </data>
   <data name="App_Degoo_Description" xml:space="preserve">
-    <value>Store your files in the cloud, 100 GB free cloud backup.</value>
-  </data>
+    <value>Armazenar os seus ficheiros na nuvem, 100 GB gratuitos de backup.</value>
+    </data>
   <data name="App_Feedly_Description" xml:space="preserve">
-    <value>The content you need to accelerate your research, marketing, and sales.</value>
-  </data>
+    <value>O conteúdo que precisa para acelerar a sua pesquisa, marketing e vendas.</value>
+    </data>
   <data name="App_FollowUp_Description" xml:space="preserve">
-    <value>File, sort and schedule emails with ease.</value>
-  </data>
+    <value>Arquiva, classifica e agenda emails com facilidade.</value>
+    </data>
   <data name="App_FormSwift_Description" xml:space="preserve">
-    <value>Generate a signature for your emails.</value>
-  </data>
+    <value>Gerar uma assinatura para os seus emails.</value>
+    </data>
   <data name="App_Moodo_Description" xml:space="preserve">
-    <value>Beautiful minimalistic task management app. Drag and organize emails in your task list.</value>
-  </data>
+    <value>Bela aplicação de gestão de tarefas minimalista. Arraste e organize emails na sua lista de tarefas.</value>
+    </data>
   <data name="App_Slack_Description" xml:space="preserve">
-    <value>Cloud based real-time messaging, archiving and search for modern teams.</value>
-  </data>
+    <value>Nuvem baseada em tempo real de mensagens, arquivo e busca de equipas modernas.</value>
+    </data>
   <data name="App_TechCrunch_Description" xml:space="preserve">
-    <value>News website that offers news, videos, and events about IT companies, technology-oriented blogs, and other web properties.</value>
-  </data>
+    <value>Site de notícias que oferece notícias, vídeos e eventos sobre empresas de TI, blogs orientados para a tecnologia e outras propriedades da web.</value>
+    </data>
   <data name="App_TheVerge_Description" xml:space="preserve">
-    <value>American news and media network publishing articles on technology, science, art, business, U.S., world politics and culture.</value>
-  </data>
+    <value>Redes de notícias e media americana que publica artigos sobre tecnologia, ciência, arte, negócios, EUA, política mundial e cultura.</value>
+    </data>
   <data name="App_Todoist_Description" xml:space="preserve">
-    <value>Todoist lets you manage your tasks anywhere. At home. At school. At work. Online. Offline. And on 13 platforms and devices.</value>
-  </data>
+    <value>O Todoist permite gerir as suas tarefas em qualquer lugar. Em casa. Na escola. No trabalho. Online. Offline. E em 13 plataformas e dispositivos.</value>
+    </data>
   <data name="App_Trello_Description" xml:space="preserve">
-    <value>Trello lets you work more collaboratively and get more done.</value>
-  </data>
+    <value>Trello permite que trabalhe mais colaborativamente e faça mais.</value>
+    </data>
   <data name="App_Twitter_Description" xml:space="preserve">
-    <value>Read and share tweets from all over the world.</value>
-  </data>
+    <value>Leia e partilhe tweets de todo o mundo.</value>
+    </data>
   <data name="App_UnrollMe_Description" xml:space="preserve">
-    <value>Clean up your inbox.</value>
-  </data>
+    <value>Limpe a sua caixa de entrada.</value>
+    </data>
   <data name="App_WeChat_Description" xml:space="preserve">
-    <value>More Social. More Fun. Free messaging and calling app.</value>
-  </data>
+    <value>Mais Social. Mais divertido. Aplicação de mensagens e chamadas gratuitas.</value>
+    </data>
   <data name="App_Weibo_Description" xml:space="preserve">
-    <value>Microblogging and social network with chat functions based in China (partially translated to english).</value>
-  </data>
+    <value>Microblogging e rede social com funções de chat baseadas na China (parcialmente traduzido para inglês).</value>
+    </data>
   <data name="App_Whatsapp_Description" xml:space="preserve">
-    <value>Simple. Personal. Real Time Messaging. Drag attachments right into WhatsApp from Mailbird.</value>
-  </data>
+    <value>Simples. Pessoal. Mensagens em Tempo Real. Arraste os anexos directamente para o WhatsApp do Mailbird.</value>
+    </data>
   <data name="Tutorial_ContactsAccount" xml:space="preserve">
-    <value>Connect your email accounts and sync contacts.</value>
+    <value>Ligue as suas contas de email e sincronize os contactos.</value>
     <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
 </root>
