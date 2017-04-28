@@ -1868,7 +1868,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
-    <value>Opuść Malbird</value>
+    <value>Opuść Mailbird</value>
     <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
@@ -2527,7 +2527,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Świetna robota z zaproszeniem znajomych do Malbird! Jest kilka e-maili, które zostały zaproszone, więc nadszedł czas, aby zaprosić innych do odblokowania twojej nagrody w postaci Mailbird Pro.
+    <value>Świetna robota z zaproszeniem znajomych do Mailbird! Jest kilka e-maili, które zostały zaproszone, więc nadszedł czas, aby zaprosić innych do odblokowania twojej nagrody w postaci Mailbird Pro.
 
 E-maile już zaproszone: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
@@ -2581,7 +2581,7 @@ Message: {0}</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
     <value>[bold]Zaproś znajomych do wspólnego lotu[/bold]
-i uzyskaj dożywotnią licencję Malbird za darmo!</value>
+i uzyskaj dożywotnią licencję Mailbird za darmo!</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -2589,7 +2589,7 @@ i uzyskaj dożywotnią licencję Malbird za darmo!</value>
     <comment>Sent invitations</comment>
   </data>
   <data name="Invite_UnableInvitePeople" xml:space="preserve">
-    <value>Nie można było zaprosić znajomych</value>
+    <value>Nie udało się zaprosić znajomych</value>
     <comment>Could not invite people</comment>
   </data>
   <data name="Invite_ViewList" xml:space="preserve">
@@ -2665,7 +2665,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Setup your avatar at http://gravatar.com</comment>
   </data>
   <data name="Editor_AttachmentPattern" xml:space="preserve">
-    <value>załącz|załączony|załącza|ponownie załącz|załączanie|załącznik|ponownie załączony|ponownie załącza|nie załączony|załączniki|ponowne załączanie|załączam|załączę|załączamy|załączcie|załączymy|załączmy|załącz|załączą|załączeniu|załączeniem</value>
+    <value>załącz|załączony|załącza|ponownie załącz|załączanie|załącznik|ponownie załączony|ponownie załącza|niezałączony|załączniki|ponowne załączanie|załączam|załączę|załączamy|załączcie|załączymy|załączmy|załącz|załączą|załączeniu|załączeniem|w załączniku</value>
     <comment>attach|attached|attaches|reattach|attaching|attachment|reattached|reattaches|unattached|attachments|reattaching</comment>
   </data>
   <data name="MailViewer_DownloadFailed" xml:space="preserve">
@@ -2741,7 +2741,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Click to record</comment>
   </data>
   <data name="Options_ComposingFont" xml:space="preserve">
-    <value>Czcionka treści</value>
+    <value>Czcionka edytora</value>
     <comment>Composing font</comment>
   </data>
   <data name="Options_Conversations" xml:space="preserve">
@@ -2781,7 +2781,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Speed read this email</comment>
   </data>
   <data name="SpeedRead_CurrentSpeed" xml:space="preserve">
-    <value>Aktualna prędkość czytania :</value>
+    <value>Aktualna prędkość czytania:</value>
     <comment>Current reading speed :</comment>
   </data>
   <data name="SpeedRead_Restart" xml:space="preserve">
@@ -2789,7 +2789,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart</comment>
   </data>
   <data name="Upgrade_SpeedRead" xml:space="preserve">
-    <value>Czytaj maile krócej dzięki szybkiemu odczytowi.</value>
+    <value>Czytaj maile w krótszym czasie, dzięki szybkiemu odczytowi.</value>
     <comment>Read email more quickly with the speed reader</comment>
   </data>
   <data name="Options_Minutes" xml:space="preserve">
@@ -2801,7 +2801,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>This attachment has been deleted and is no longer available</comment>
   </data>
   <data name="AccountValidationRule_NonZeroInteger" xml:space="preserve">
-    <value>Wartość musi być różna od zera</value>
+    <value>Wartość nie może być zerem</value>
     <comment>Must be a non zero number</comment>
   </data>
   <data name="Welcome_Pop3Days" xml:space="preserve">
@@ -2813,7 +2813,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Leave a copy of messages on the server</comment>
   </data>
   <data name="Welcome_Pop3LeaveMessagesInfo" xml:space="preserve">
-    <value>Serwery POP3 domyślnie przechowują wiadomości na serwerze do czasu ich pobrania przez użytkownika. Można jednak zmienić to zachowanie i zostawiać kopię maili na serwerze. Jednak robiąc to można szybko wypełnić skrzynkę i przestać otrzymywać nowe wiadomości do czasu usunięcia starszych.</value>
+    <value>Serwery POP3 domyślnie przechowują wiadomości na serwerze do czasu ich pobrania przez użytkownika. Można jednak zmienić to zachowanie i zostawiać kopię maili na serwerze. Jednak robiąc to można szybko zapełnić skrzynkę i przestać otrzymywać nowe wiadomości do czasu usunięcia starszych.</value>
     <comment>POP3 servers by default store messages on the server only until you download them. You can choose to leave messages on the server, but note that doing so can cause your mailbox to become full very quickly, and so you might not receive important messages until you delete the server copies.</comment>
   </data>
   <data name="Welcome_Pop3RemoveAfter" xml:space="preserve">
@@ -2869,7 +2869,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>This is typically caused by another email client checking for messages at the same time, or checking for messages too often.</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorTitle" xml:space="preserve">
-    <value>Błąd podczas pobierania wiadomości</value>
+    <value>Błąd pobierania wiadomości</value>
     <comment>Error getting messages</comment>
   </data>
   <data name="EditFolderWindow_EmptyName" xml:space="preserve">
@@ -2889,7 +2889,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Show &lt;Mailbird&gt;</comment>
   </data>
   <data name="Options_ConversationView" xml:space="preserve">
-    <value>Grupuj wiadomości do konwersacji</value>
+    <value>Grupuj wiadomości w konwersacjach</value>
     <comment>Group messages into conversations</comment>
   </data>
   <data name="Dialog_RestartRequiredMessage" xml:space="preserve">
@@ -2977,7 +2977,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Delete contact?</comment>
   </data>
   <data name="Dialog_DeleteContactExplanation_Singular" xml:space="preserve">
-    <value>Czy jesteś pewien, że chcesz usunąć ten kontakt?</value>
+    <value>Czy na pewno chcesz usunąć ten kontakt?</value>
     <comment>Are you sure you want to delete this contact?</comment>
   </data>
   <data name="App_Contacts_CallPhone" xml:space="preserve">
@@ -3065,7 +3065,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>Oznacza twoją wiadomość jako "przeczytana"</value>
+    <value>Oznacza Twoją wiadomość jako "przeczytana"</value>
     <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
@@ -3116,7 +3116,7 @@ Please check the identity setup and try again.</comment>
     <comment>1 contact imported.</comment>
   </data>
   <data name="App_Contacts_Import_Description" xml:space="preserve">
-    <value>Format pliku vCard (.vcf) jest standardem służącym do przechowywania cyfrowych wizytówek. Mailbird może importować kontakty z plików vCard utworzonych przez inne usługi, np. Gmail, Yahoo, Outlook, itp.
+    <value>Format pliku vCard (.vcf) jest standardem służącym do przechowywania cyfrowych wizytówek. Mailbird może importować kontakty z plików vCard utworzonych przez inne usługi, takie jak Gmail, Yahoo, Outlook, itp.
 
 Poniżej jest kilka odnośników z opisem, jak wygenerować pliki vCard w różnych usługach:</value>
     <comment>vCard (.vcf) is a file format standard for electronic business cards. Mailbird can import contacts from vCard files created from other email services like Gmail, Yahoo, Outlook, etc.
@@ -3124,7 +3124,7 @@ Poniżej jest kilka odnośników z opisem, jak wygenerować pliki vCard w różn
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>Kliknij na 'Przeglądaj' poniżej w celu wybrania pliku (plików) do zaimportowania.</value>
+    <value>Kliknij 'Przeglądaj' w celu wybrania pliku (plików) do zaimportowania.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -3184,7 +3184,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Disconnect Facebook</comment>
   </data>
   <data name="AvatarIconAlarm" xml:space="preserve">
-    <value>Alarm</value>
+    <value>Budzik</value>
     <comment>Alarm</comment>
   </data>
   <data name="AvatarIconCube" xml:space="preserve">
@@ -3316,7 +3316,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Find and merge duplicates</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_MergeSelected" xml:space="preserve">
-    <value>Scal ({0}) wybrane</value>
+    <value>Scal wybrane ({0})</value>
     <comment>Merge selected</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_SelectAll" xml:space="preserve">
@@ -3380,7 +3380,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Nie można było połączyć się z serwerem licencji. Sprawdź połączenie z internetem, aby kontynuować. Wyłącz lub poprawnie skonfiguruj swojego firewalla, antywirusa czy połączenie proxy poprzez dodanie Mailbird'a do listy wyjątków.</value>
+    <value>Nie można połączyć się z serwerem licencji. Sprawdź połączenie z internetem, aby kontynuować. Wyłącz lub poprawnie skonfiguruj swojego firewalla, antywirusa lub połączenie proxy poprzez dodanie Mailbirda do listy wyjątków.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -3404,7 +3404,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
-    <value>Twoje konto zostanie teraz przekonwertowane z powrotem na wersję Lite (darmową), co ograniczy ilość dostępnych funkcji. Możesz kontynuować korzystanie ze wszystkich opcji, jeśli zdecydujesz się kupić Mailbird Pro i wprowadzisz klucz licencyjny poniżej.</value>
+    <value>Twoje konto powróci teraz na wersję Lite (darmową), co ograniczy ilość dostępnych funkcji. Możesz kontynuować korzystanie ze wszystkich opcji, jeśli zdecydujesz się kupić Mailbird Pro i wprowadzisz klucz licencyjny poniżej.</value>
     <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
   </data>
   <data name="Trial_Feature1" xml:space="preserve">
@@ -3444,11 +3444,11 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Search:</comment>
   </data>
   <data name="Notification_NewTipsHeader" xml:space="preserve">
-    <value>Nowe porady do Mailbirda są dostępne</value>
+    <value>Dostępne są nowe wskazówki do Mailbirda</value>
     <comment>New Mailbird tips are available</comment>
   </data>
   <data name="Tips_New" xml:space="preserve">
-    <value>Nowa porada</value>
+    <value>Nowa wskazówka</value>
     <comment>New tip</comment>
   </data>
   <data name="MailViewer_LoadingMessage" xml:space="preserve">
@@ -3480,7 +3480,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Recipients</comment>
   </data>
   <data name="Menu_MailbirdTips" xml:space="preserve">
-    <value>Porady Mailbird</value>
+    <value>Wskazówki Mailbird</value>
     <comment>Mailbird tips</comment>
   </data>
   <data name="Options_LimitingAccounts" xml:space="preserve">
@@ -3488,7 +3488,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Musisz dodać konto e-mail, aby zacząć używać Mailbird'a.
+    <value>Musisz dodać konto e-mail, aby zacząć używać Mailbirda.
 
 Na pewno chcesz anulować?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
@@ -3566,7 +3566,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>In x hours</comment>
   </data>
   <data name="Options_Snooze_InMonths" xml:space="preserve">
-    <value>Za {0} miesięcy</value>
+    <value>za {0} miesięcy</value>
     <comment>In x months</comment>
   </data>
   <data name="Options_Snooze_MyWeekStartsOn" xml:space="preserve">
@@ -3622,7 +3622,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Snooze</comment>
   </data>
   <data name="Upgrade_Snooze" xml:space="preserve">
-    <value>Zdobądź dostęp do Odkładania e-maili na później i wielu innych funkcji zwiększających twoją produktywność.</value>
+    <value>Zdobądź dostęp do Odkładania wiadomości na później i wielu innych funkcji zwiększających twoją produktywność.</value>
     <comment>Get Snooze and many other features to boost your productivity.</comment>
   </data>
   <data name="Welcome_MoreAccounts_Header" xml:space="preserve">
@@ -3674,7 +3674,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Email</comment>
   </data>
   <data name="JumpList_ExitMailbird" xml:space="preserve">
-    <value>Wyjdź {0}</value>
+    <value>Wyjdź z {0}</value>
     <comment>{0} will be replaced by "Mailbird", so the result is "Exit Mailbird"</comment>
   </data>
   <data name="JumpList_RecentDrafts" xml:space="preserve">
@@ -3690,7 +3690,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Loading is taking longer than usual. Please check your internet connection.</comment>
   </data>
   <data name="MailEditor_WebrootPasteError" xml:space="preserve">
-    <value>Zablokowane przez Webroot SecureAnywhere. Zmień ustawienia Webroot Identyti Protection, aby chroniło lub zezwalało na działanie Mailbirda</value>
+    <value>Zablokowane przez Webroot SecureAnywhere. Zmień ustawienia Webroot Identity Protection, aby chroniło lub zezwalało na działanie Mailbirda</value>
     <comment>Blocked by Webroot SecureAnywhere. Please set Webroot Identity Protection to protect or allow Mailbird</comment>
   </data>
   <data name="Options_ImproveMailbird" xml:space="preserve">
@@ -3806,12 +3806,12 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Kochasz Mailbirda? Pomóż nam rozwinąć i ulepszyć się zapraszając swoich znajomych do Mailbirda już dziś.</value>
+    <value>Kochasz Mailbirda? Pomóż nam rozwinąć i ulepszyć aplikację zapraszając swoich znajomych do Mailbirda już dziś.</value>
     <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="Invite_TitleBlockLifetime" xml:space="preserve">
-    <value>Powiedz swoim znajomym, żebyśmy mogli się rozwijać razem!</value>
+    <value>Powiedz swoim znajomym, żebyśmy mogli rozwijać aplikację razem!</value>
     <comment>Tell your friends so we can grow together!</comment>
   </data>
   <data name="UnifiedAccount_SelectorDisplayName" xml:space="preserve">
@@ -3847,9 +3847,9 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Kiedy dodajesz wiele kont do Mailbird'a, nowe "zunifikowane" konto jest wyświetlane na samej górze listy kont w panelu nawigacji. Zbiera ono wiadomości ze wszystkich kont w jednym miejscu nie ograniczając jednocześnie możliwości interakcji z nimi.
+    <value>Kiedy dodajesz wiele kont do Mailbirda, nowe "zunifikowane" konto jest wyświetlane na samej górze listy kont w panelu nawigacji. Zbiera ono wiadomości ze wszystkich kont w jednym miejscu, nie ograniczając jednocześnie możliwości interakcji z nimi.
 
-Zunifikowane konto można wyłączyć w ustawieniach lub poprzez edycję wybranych, kont wyłączając niektóre z nich z wyświetlania swoich wiadomości w zunifikowanym koncie.</value>
+Zunifikowane konto można wyłączyć w ustawieniach lub poprzez edycję wybranych kont, wyłączając niektóre z nich z wyświetlania swoich wiadomości w zunifikowanym koncie.</value>
     <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</comment>
@@ -3963,7 +3963,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Reply</comment>
   </data>
   <data name="Tutorial_SearchResult" xml:space="preserve">
-    <value>Wynik wyszukiwania</value>
+    <value>Wyniki wyszukiwania</value>
     <comment>Search result</comment>
   </data>
   <data name="Tutorial_Trash" xml:space="preserve">
@@ -4007,7 +4007,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Our support provider does not support in-line reply. Please add your reply at the top of the message instead.</comment>
   </data>
   <data name="Dialog_NotSupported" xml:space="preserve">
-    <value>Nie wspierane</value>
+    <value>Nieobsługiwane</value>
     <comment>Not supported</comment>
   </data>
   <data name="Welcome_NeedSupportButton" xml:space="preserve">
@@ -4027,11 +4027,11 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</comment>
   </data>
   <data name="App_Wunderlist_Description" xml:space="preserve">
-    <value>Piękna i prosta aplikacja internetowa to-do.</value>
+    <value>Piękna i prosta aplikacja internetowa do zarządzania zadaniami.</value>
     <comment>Your beautiful and simple online to-do list App.</comment>
   </data>
   <data name="InboxZero_Facebook" xml:space="preserve">
-    <value>Udostępnij</value>
+    <value>Udostępnij na Facebooku</value>
     <comment>Share on Facebook</comment>
   </data>
   <data name="InboxZero_Twitter" xml:space="preserve">
@@ -4043,11 +4043,11 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>Nie można dodać pliku '{0}' jako załącznika, ponieważ nie masz uprawnień dostępu do tego pliku, sprawdź swoje prawa użytkownika i spróbuj ponownie.</value>
+    <value>Nie można dodać pliku '{0}' jako załącznika, ponieważ nie masz uprawnień dostępu do tego pliku. Sprawdź swoje prawa użytkownika i spróbuj ponownie.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>NAJLEPSZY klient e-mail i narzędzie do komunikacji stworzone dla Windowsa przez @mailbird</value>
+    <value>NAJLEPSZY klient e-mail i narzędzie do komunikacji na system Windows stworzone przez @mailbird</value>
     <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
@@ -4055,10 +4055,10 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Proszę skonfigurować konto przy użyciu autoryzacji OAuth 2.0 zamiast nazwy użytkownika i hasła, lub upewnić się, że dostęp do mniej bezpiecznych aplikacji jest włączony w Gmailu:
+    <value>Proszę skonfigurować konto przy użyciu autoryzacji OAuth 2.0 zamiast nazwy użytkownika i hasła lub upewnić się, że dostęp do mniej bezpiecznych aplikacji jest włączony w Gmailu:
 {0}
 
-Jeśli problem nie ustąpi, należy postępować zgodnie z tym dla dalszej diagnostyki:
+Jeśli problem nie ustąpi, dla dalszej diagnostyki należy postępować zgodnie z tym:
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
@@ -4071,7 +4071,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
-    <value>Logowanie do serwera proxy nie powiodło się. Upewnij się, że ustawienia proxy zostały prawidłowo zapisane w ustawieniach Mailbird'a.</value>
+    <value>Logowanie do serwera proxy nie powiodło się. Upewnij się, że ustawienia proxy zostały prawidłowo zapisane w ustawieniach Mailbirda.</value>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
@@ -4099,9 +4099,9 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Installation issue detected</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
-    <value>Mailbird wykrył, że jeden lub więcej plików zostało uszkodzonych lub brakuje ich w katalogu instalacyjnym i będzie teraz próbował to naprawić.
+    <value>Mailbird wykrył, że jeden lub więcej plików zostało uszkodzonych lub brakuje ich w katalogu instalacyjnym. Program będzie teraz próbował to naprawić.
 
-Jeśli to się nie powiedzie, należy odinstalować i zainstalować Mailbird ponownie, aby rozwiązać problem. Wszystkie twoje ustawienia, e-maile itp. zostaną zachowane tak długo, jak nie usuniesz katalogu, w którym są przechowywane, gdy zostaniesz zapytany oto przez deinstalatora.</value>
+Jeśli to się nie powiedzie, należy odinstalować i zainstalować Mailbirda ponownie, aby rozwiązać problem. Wszystkie twoje ustawienia, e-maile itp. zostaną zachowane tak długo, jak nie usuniesz katalogu, w którym są przechowywane, gdy zostaniesz zapytany oto przez deinstalatora.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -4111,11 +4111,11 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Repair failed</comment>
   </data>
   <data name="Dialog_RepairInitFailedExplanation" xml:space="preserve">
-    <value>Mailbird nie może zainicjować naprawy. Odinstaluj i zainstaluj Mailbird ponownie.</value>
+    <value>Mailbird nie może zainicjować naprawy. Odinstaluj i zainstaluj Mailbirda ponownie.</value>
     <comment>Mailbird was unable to initialize the repair. Please uninstall and reinstall Mailbird.</comment>
   </data>
   <data name="Trial_GetDiscount" xml:space="preserve">
-    <value>Zdobądź Mailbird Pro - zniżka 33%</value>
+    <value>Zdobądź Mailbird Pro - 33% zniżki</value>
     <comment>Get Mailbird Pro - 33% off</comment>
   </data>
   <data name="UpdateToPro_Coupon" xml:space="preserve">
@@ -4135,7 +4135,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>No contacts found</comment>
   </data>
   <data name="Welcome_InviteDescription" xml:space="preserve">
-    <value>Za każdego znajomego, który zainstaluje Mailbird na swoim komputerze, my damy ci Mailbird Pro na cały miesiąc! Nie ma limitu, więc zaproś tak wielu znajomych jak chcesz.</value>
+    <value>Za każdego znajomego, który zainstaluje Mailbird na swoim komputerze, my damy ci Mailbird Pro na cały miesiąc! Nie ma limitu, więc zaproś tylu znajomych ilu zechcesz.</value>
     <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
@@ -4155,7 +4155,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Send Invites</comment>
   </data>
   <data name="App_DefaultFatalError" xml:space="preserve">
-    <value>Wystąpił błąd w aplikacji. Proszę ponownie uruchomić Mailbird i spróbować ponownie.
+    <value>Wystąpił błąd w aplikacji. Proszę ponownie uruchomić Mailbirda i spróbować ponownie.
 
 Jeśli błąd będzie występował nadal, proszę skontaktować się działem pomocy.</value>
     <comment>An error occured in the app. Please restart Mailbird and try again.
@@ -4163,11 +4163,11 @@ Jeśli błąd będzie występował nadal, proszę skontaktować się działem po
 If you continue to experience this error, please contact support.</comment>
   </data>
   <data name="App_Loading" xml:space="preserve">
-    <value>Ładuję...</value>
+    <value>Wczytywanie...</value>
     <comment>Loading...</comment>
   </data>
   <data name="RateRecommend_TwitterMessage" xml:space="preserve">
-    <value>Uzależnij się od #InboxZero z @mailbird. Kocham ten piękny klient poczty dla #Windows http://getmailbird.com/</value>
+    <value>Uzależnij się od #InboxZero z @mailbird. Uwielbiam tego świetnego klienta poczty dla #Windows http://getmailbird.com/</value>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
@@ -5025,7 +5025,7 @@ Are you sure you want to close the window?</comment>
     <comment>Never check for updates</comment>
   </data>
   <data name="Options_UpdatePreference" xml:space="preserve">
-    <value>Wybierz ustawienia aktualizacji Mailbird'a:</value>
+    <value>Wybierz ustawienia aktualizacji Mailbirda:</value>
     <comment>Choose your Mailbird update settings:</comment>
   </data>
 <data name="ContextMenu_RedownloadImage" xml:space="preserve">
@@ -5037,7 +5037,7 @@ Are you sure you want to close the window?</comment>
     <comment>Invite again</comment>
   </data>
 <data name="InstallationForm_SetAsDefault" xml:space="preserve">
-    <value>Ustaw Mailbird'a jako domyślnego klienta poczty</value>
+    <value>Ustaw Mailbirda jako domyślnego klienta poczty</value>
     <comment>Set Mailbird as the default email client</comment>
   </data>
 <data name="Menu_Settings" xml:space="preserve">
@@ -5049,7 +5049,7 @@ Are you sure you want to close the window?</comment>
     <comment>Notifications</comment>
   </data>
 <data name="Notification_GenericAuthenticationError1" xml:space="preserve">
-    <value>Jest to zazwyczaj spowodowane nieprawidłowymi poświadczeniami lub {0} został wyłączony na serwerze dla twojego konta.
+    <value>Jest to zazwyczaj spowodowane nieprawidłowymi danymi do logowania lub {0} został wyłączony na serwerze dla twojego konta.
 
 Czytaj więcej:
 https://support.getmailbird.com/hc/en-us/articles/220108287</value>
