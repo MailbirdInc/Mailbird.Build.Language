@@ -294,7 +294,7 @@
     <comment>Reply to all</comment>
   </data>
   <data name="Conversation_Sending" xml:space="preserve">
-    <value>Gönderiliyor</value>
+    <value>Gönderme</value>
     <comment>Sending</comment>
   </data>
   <data name="Conversation_To" xml:space="preserve">
@@ -680,7 +680,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Password:</comment>
   </data>
   <data name="Identity_SmtpPort" xml:space="preserve">
-    <value>Bağlantı Noktası:</value>
+    <value>Port:</value>
     <comment>Port:</comment>
   </data>
   <data name="Identity_SmtpServer" xml:space="preserve">
@@ -1520,11 +1520,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Always expand account switcher</comment>
   </data>
   <data name="Options_AutoDownload" xml:space="preserve">
-    <value>Ek otomatik indirme sınırı:</value>
+    <value>Otomatik ek indirme sınırı:</value>
     <comment>Attachment auto-download limit:</comment>
   </data>
   <data name="Options_AutoDownloadExplanation" xml:space="preserve">
-    <value>Seçili ek boyutundan küçük ekleri otomatik olarak indir.</value>
+    <value>Seçili ek boyutundan küçük ekleri otomatik olarak indirir.</value>
     <comment>Automatically download attachments smaller than the chosen size.</comment>
   </data>
   <data name="Options_AutomaticUpdate" xml:space="preserve">
@@ -1552,7 +1552,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Tell me if Mailbird is not the default email client</comment>
   </data>
   <data name="Options_DownloadOnDemand" xml:space="preserve">
-    <value>İletileri istendiğinde indir</value>
+    <value>İletileri isteğe bağlı olarak indir</value>
     <comment>Download messages on demand</comment>
   </data>
   <data name="Options_Facebook" xml:space="preserve">
@@ -1632,7 +1632,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Notifications</comment>
   </data>
   <data name="Options_Performance" xml:space="preserve">
-    <value>Başarım</value>
+    <value>Performans</value>
     <comment>Performance</comment>
   </data>
   <data name="Options_QuickCompose" xml:space="preserve">
@@ -1696,7 +1696,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
-    <value>Simge durumunda başlat</value>
+    <value>Simge durumunda başlasın</value>
     <comment>Start minimized</comment>
   </data>
   <data name="Options_StartStartup" xml:space="preserve">
@@ -1840,7 +1840,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Closes the open windows, except the main window.</comment>
   </data>
   <data name="Shortcut_ComposeExplanation" xml:space="preserve">
-    <value>Yeni bir iletiyazmanızı sağlar.</value>
+    <value>Yeni bir ileti yazmanızı sağlar.</value>
     <comment>Allows you to compose a new message.</comment>
   </data>
   <data name="Shortcut_CopyAttachment" xml:space="preserve">
@@ -2211,7 +2211,7 @@ We will never post anything to Facebook.</comment>
     <comment>Outgoing server</comment>
   </data>
   <data name="Welcome_PortLabel" xml:space="preserve">
-    <value>Bağlantı Noktası:</value>
+    <value>Port:</value>
     <comment>Port:</comment>
   </data>
   <data name="Welcome_RequiresAuthentication" xml:space="preserve">
@@ -2609,7 +2609,7 @@ ve Mailbird ömür boyu ücretsiz edinin!</value>
     <comment>Mailbird is using your computer's system proxy settings to connect to the network.</comment>
   </data>
   <data name="Options_ProxyNeedAuthentication" xml:space="preserve">
-    <value>Vekil sunucu kimlik doğrulaması gerektiriyor</value>
+    <value>Vekil sunucu kimlik doğrulaması gerektirir</value>
     <comment>Proxy requires authentication</comment>
   </data>
   <data name="Options_ProxyPassword" xml:space="preserve">
@@ -3526,7 +3526,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
     <value>Burayı erteleme klasörüne taşıdık, bu şekilde bitti. Bulunduğunuz kutuya sonradan dönecek ve bulabileceğiniz şekilde en üst sıraya yerleşecektir. Okunana kadar orada kalacak.
 
-İletinin geri taşınması için Mailbird'in çalışıyor olması gerektiğini unutmayın. Değilse, bir dahaki sefer Mailbird'i başlattığınızda mesaj geri taşınacaktır.</value>
+İletinin geri taşınması için Mailbird'in çalışıyor olması gerektiğini unutmayın. Değilse, bir dahaki sefer Mailbird'ü başlattığınızda mesaj geri taşınacaktır.</value>
     <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
 
 Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</comment>
@@ -3540,7 +3540,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>My workday ends at</comment>
   </data>
   <data name="Options_Snooze_LaterToday" xml:space="preserve">
-    <value>sonra bugün</value>
+    <value>... sonra bugün</value>
     <comment>Later today</comment>
   </data>
   <data name="Options_Snooze_MyWeekendStartsOn" xml:space="preserve">
@@ -3576,7 +3576,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>This Evening</comment>
   </data>
   <data name="Snooze_Type_Later" xml:space="preserve">
-    <value>sonra bugün</value>
+    <value>... sonra bugün</value>
     <comment>Later today</comment>
   </data>
   <data name="Snooze_Type_NextWeek" xml:space="preserve">
@@ -4489,7 +4489,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Seçiminiz Lite kullanıcıları için hesap limitini aşacaktır. Devam ederseniz, Mailbird'in bir sonraki açılışında bazı hesaplar gösterilmeyecektir. Tüm hesaplarınızı göstermek için lütfen Pro'ya geçin.</value>
+    <value>Seçiminiz Lite kullanıcıları için hesap limitini aşacaktır. Devam ederseniz, Mailbird'ün bir sonraki açılışında bazı hesaplar gösterilmeyecektir. Tüm hesaplarınızı göstermek için lütfen Pro'ya geçin.</value>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
@@ -5589,7 +5589,7 @@ Kişi eklemek için "Kişi ekle" düğmesini tıklayın.</value>
 NB: tooltip for remove group button</comment>
   </data>
   <data name="App_Contacts_ContextMenuDelete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Sil</value>
     <comment>Delete</comment>
   </data>
   <data name="App_Contacts_RemoveField" xml:space="preserve">
@@ -5710,7 +5710,7 @@ Bu, kişi eşitlemesini devre dışı bırakır ve hesabın gruplarını ve kiş
     <comment>Name of the system group with starred contacts in the Contacts app</comment>
   </data>
   <data name="App_Contacts_ValidationDuplicatedGroup" xml:space="preserve">
-    <value>Ad, zaten var veya korumalı bir sistem adı</value>
+    <value>Ad, zaten var ya da korumalı bir sistem adı</value>
     <comment>Error message when trying to add group with the same name</comment>
   </data>
   <data name="App_Contacts_FieldType_HomePage" xml:space="preserve">
@@ -5947,7 +5947,7 @@ with Mailbird Pro?</comment>
     <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
-    <value>Posta</value>
+    <value>Posta Kodu</value>
     <comment>Label for contact custom address type Postal</comment>
   </data>
   <data name="App_Contacts_Labels_Preferred" xml:space="preserve">
@@ -6011,7 +6011,7 @@ Yeni Kişileri şimdi deneyin!</value>
     <comment>Button label to open Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuDeleteGroup" xml:space="preserve">
-    <value>Delete</value>
+    <value>Sil</value>
     <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
@@ -6063,7 +6063,7 @@ Yeni Kişileri şimdi deneyin!</value>
     <comment>Button for sharing invites to social</comment>
   </data>
 <data name="Background_AddYourOwn" xml:space="preserve">
-    <value>Add your own picture</value>
+    <value>Kendi seçtiğiniz resmi ekleyin</value>
     <comment>Tooltip for a menu to browse picture for background image</comment>
   </data>
   <data name="Background_Christmas" xml:space="preserve">
@@ -6075,7 +6075,7 @@ Yeni Kişileri şimdi deneyin!</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Custom" xml:space="preserve">
-    <value>Custom</value>
+    <value>Özel</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Diamonds" xml:space="preserve">
@@ -6131,67 +6131,67 @@ Yeni Kişileri şimdi deneyin!</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Invite_HowItWorks" xml:space="preserve">
-    <value>How it works?</value>
+    <value>Nasıl çalışır?</value>
     <comment>Button to learn more about invite sidebar</comment>
   </data>
   <data name="Sidebar_Collapse" xml:space="preserve">
-    <value>Collapse sidebar</value>
+    <value>Kenar çubuğunu daralt</value>
     <comment>Tooltip for a button to collapse sidebar</comment>
   </data>
   <data name="Sidebar_Expand" xml:space="preserve">
-    <value>Expand sidebar</value>
+    <value>Kenar çubuğunu genişlet</value>
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Video conversations with up to 8 people.</value>
-  </data>
+    <value>8 kişiye kadar video görüşmeleri.</value>
+    </data>
   <data name="App_Degoo_Description" xml:space="preserve">
-    <value>Store your files in the cloud, 100 GB free cloud backup.</value>
-  </data>
+    <value>Dosyalarınızı bulutta depolayın, 100 GB ücretsiz bulut yedekleme.</value>
+    </data>
   <data name="App_Feedly_Description" xml:space="preserve">
-    <value>The content you need to accelerate your research, marketing, and sales.</value>
-  </data>
+    <value>Araştırmanızı, pazarlamanızı ve satışlarınızı hızlandırmanız için ihtiyaç duyduğunuz içerik.</value>
+    </data>
   <data name="App_FollowUp_Description" xml:space="preserve">
-    <value>File, sort and schedule emails with ease.</value>
-  </data>
+    <value>Kolayca e-postaları arşivleyin, sıralayın ve zamanlayın.</value>
+    </data>
   <data name="App_FormSwift_Description" xml:space="preserve">
-    <value>Generate a signature for your emails.</value>
-  </data>
+    <value>E-postalarınız için bir imza üretin.</value>
+    </data>
   <data name="App_Moodo_Description" xml:space="preserve">
-    <value>Beautiful minimalistic task management app. Drag and organize emails in your task list.</value>
-  </data>
+    <value>Güzel minimalist görev yönetimi uygulaması. Görev listenizdeki e-postaları sürükleyip düzenleyin.</value>
+    </data>
   <data name="App_Slack_Description" xml:space="preserve">
-    <value>Cloud based real-time messaging, archiving and search for modern teams.</value>
-  </data>
+    <value>Bulut tabanlı gerçek zamanlı mesajlaşma, arşivleme ve modern ekipler için arama.</value>
+    </data>
   <data name="App_TechCrunch_Description" xml:space="preserve">
-    <value>News website that offers news, videos, and events about IT companies, technology-oriented blogs, and other web properties.</value>
-  </data>
+    <value>IT şirketleri, teknoloji odaklı bloglar ve diğer web alanı ilgili haberler, videolar ve etkinlikler sunan haber sitesi.</value>
+    </data>
   <data name="App_TheVerge_Description" xml:space="preserve">
-    <value>American news and media network publishing articles on technology, science, art, business, U.S., world politics and culture.</value>
-  </data>
+    <value>Amerikan haber ve medya ağı, teknoloji, bilim, sanat, işletme, ABD, dünya siyaseti ve kültürü ile ilgili makaleleri yayınlıyor.</value>
+    </data>
   <data name="App_Todoist_Description" xml:space="preserve">
-    <value>Todoist lets you manage your tasks anywhere. At home. At school. At work. Online. Offline. And on 13 platforms and devices.</value>
-  </data>
+    <value>Todoist, görevlerinizi istediğiniz yerde yönetmenizi sağlar. Evde. Okulda. İşte. Çevrimiçi. Çevrimdışı. Ve 13 platform ve cihaz üzerinde.</value>
+    </data>
   <data name="App_Trello_Description" xml:space="preserve">
-    <value>Trello lets you work more collaboratively and get more done.</value>
-  </data>
+    <value>Trello daha işbirliği içinde çalışmanızı ve daha fazla iş yapmanızı sağlar.</value>
+    </data>
   <data name="App_Twitter_Description" xml:space="preserve">
-    <value>Read and share tweets from all over the world.</value>
-  </data>
+    <value>Tüm dünyadan tweetleri okuyun ve paylaşın.</value>
+    </data>
   <data name="App_UnrollMe_Description" xml:space="preserve">
-    <value>Clean up your inbox.</value>
-  </data>
+    <value>Gelen kutunuzu temizleyin.</value>
+    </data>
   <data name="App_WeChat_Description" xml:space="preserve">
-    <value>More Social. More Fun. Free messaging and calling app.</value>
-  </data>
+    <value>Daha Sosyal. Daha eğlenceli. Ücretsiz mesajlaşma ve arama uygulaması.</value>
+    </data>
   <data name="App_Weibo_Description" xml:space="preserve">
-    <value>Microblogging and social network with chat functions based in China (partially translated to english).</value>
-  </data>
+    <value>Mikroblog ve Çin'de bulunan sohbet işlevlerine sahip sosyal ağ (kısmen ingilizce tercüme edilmiştir).</value>
+    </data>
   <data name="App_Whatsapp_Description" xml:space="preserve">
-    <value>Simple. Personal. Real Time Messaging. Drag attachments right into WhatsApp from Mailbird.</value>
-  </data>
+    <value>Basit. Kişisel. Gerçek zamanlı mesajlaşma. Mailbird'ten WhatsApp'a ek sürükleyebilme olanağı.</value>
+    </data>
   <data name="Tutorial_ContactsAccount" xml:space="preserve">
-    <value>Connect your email accounts and sync contacts.</value>
+    <value>E-posta hesaplarınızı bağlayın ve kişileri eşitleyin.</value>
     <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
 </root>
