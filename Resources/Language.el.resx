@@ -832,7 +832,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
-    <value>Please enter a display text</value>
+    <value>Παρακαλώ εισάγετε ένα κείμενο προς εμφάνιση</value>
     <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
@@ -2964,11 +2964,11 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Title</comment>
   </data>
   <data name="App_Contacts_FieldAddEmail" xml:space="preserve">
-    <value>add email</value>
+    <value>προσθέστε email</value>
     <comment>Add email</comment>
   </data>
   <data name="App_Contacts_FieldAddPhone" xml:space="preserve">
-    <value>add phone</value>
+    <value>προσθέστε τηλέφωνο</value>
     <comment>Add phone</comment>
   </data>
   <data name="App_Contacts_Add" xml:space="preserve">
@@ -3040,7 +3040,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Delete group?</comment>
   </data>
   <data name="Dialog_DeleteGroupExplanation" xml:space="preserve">
-    <value>Are you sure you want to delete this group?</value>
+    <value>Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την ομάδα;</value>
     <comment>Are you sure you want to delete this group? Contacts belonging to it will not be deleted.</comment>
   </data>
   <data name="Contact_RemoveFromGroup" xml:space="preserve">
@@ -3151,7 +3151,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>{0} contacts imported.</comment>
   </data>
   <data name="App_Contacts_SendGroupEmail" xml:space="preserve">
-    <value>Email this group</value>
+    <value>Έστειλε email σε αυτήν την ομάδα</value>
     <comment>Send email to this group</comment>
   </data>
   <data name="App_Contacts_Groups" xml:space="preserve">
@@ -3323,7 +3323,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Find and merge duplicates</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_MergeSelected" xml:space="preserve">
-    <value>Merge ({0}) selected</value>
+    <value>Συγχώνευση ({0}) επιλεγμένων</value>
     <comment>Merge selected</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_SelectAll" xml:space="preserve">
@@ -3995,15 +3995,15 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>For tablets only. Mailbird will automatically change between horizontal and vertical layout when the tablet orientation changes between portrait and landscape.</comment>
   </data>
   <data name="Contact_AddToContacts" xml:space="preserve">
-    <value>Add to Contacts</value>
+    <value>Προσθήκη στις Επαφές</value>
     <comment>Add to contacts</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationPlural" xml:space="preserve">
-    <value>The contacts have been added to the Contacts app.</value>
+    <value>Οι επαφές που έχουν προστεθεί στην εφαρμογή "Επαφές".</value>
     <comment>The contacts have been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationSingular" xml:space="preserve">
-    <value>The contact has been added to the Contacts app.</value>
+    <value>Η επαφή έχει προστεθεί στην εφαρμογή Επαφές.</value>
     <comment>The contact has been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedPlural" xml:space="preserve">
@@ -4183,7 +4183,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
-    <value>Add new recipients to Contacts</value>
+    <value>Προσθέσετε νέους παραλήπτες στις επαφές</value>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
@@ -5163,11 +5163,11 @@ NB: Text for button to skip the survey</comment>
     <comment>Home</comment>
   </data>
   <data name="App_Contacts_FieldType_Other" xml:space="preserve">
-    <value>Other</value>
+    <value>Άλλα</value>
     <comment>Other</comment>
   </data>
   <data name="App_Contacts_FieldType_Work" xml:space="preserve">
-    <value>Work</value>
+    <value>Εργασία</value>
     <comment>Work</comment>
   </data>
   <data name="App_Contacts_PhoneType_GoogleVoice" xml:space="preserve">
@@ -5175,11 +5175,11 @@ NB: Text for button to skip the survey</comment>
     <comment>Google Voice</comment>
   </data>
   <data name="App_Contacts_FieldType_Anniversary" xml:space="preserve">
-    <value>Anniversary</value>
+    <value>Επέτειος</value>
     <comment>Anniversary</comment>
   </data>
   <data name="App_Contacts_FieldType_Assistant" xml:space="preserve">
-    <value>Assistant</value>
+    <value>Βοηθός</value>
     <comment>Assistant</comment>
   </data>
   <data name="App_Contacts_FieldType_Blog" xml:space="preserve">
@@ -5187,23 +5187,23 @@ NB: Text for button to skip the survey</comment>
     <comment>Blog</comment>
   </data>
   <data name="App_Contacts_FieldType_Brother" xml:space="preserve">
-    <value>Brother</value>
+    <value>Αδερφός</value>
     <comment>Brother</comment>
   </data>
   <data name="App_Contacts_FieldType_Child" xml:space="preserve">
-    <value>Child</value>
+    <value>Παιδί</value>
     <comment>Child</comment>
   </data>
   <data name="App_Contacts_FieldType_DomesticPartner" xml:space="preserve">
-    <value>Domestic partner</value>
+    <value>Σύντροφος</value>
     <comment>Domestic partner</comment>
   </data>
   <data name="App_Contacts_FieldType_Father" xml:space="preserve">
-    <value>Father</value>
+    <value>Πατέρας</value>
     <comment>Father</comment>
   </data>
   <data name="App_Contacts_FieldType_Friend" xml:space="preserve">
-    <value>Friend</value>
+    <value>Φίλος</value>
     <comment>Friend</comment>
   </data>
   <data name="App_Contacts_FieldType_Manager" xml:space="preserve">
@@ -5211,19 +5211,19 @@ NB: Text for button to skip the survey</comment>
     <comment>Manager</comment>
   </data>
   <data name="App_Contacts_FieldType_Mother" xml:space="preserve">
-    <value>Mother</value>
+    <value>Μητέρα</value>
     <comment>Mother</comment>
   </data>
   <data name="App_Contacts_FieldType_Parent" xml:space="preserve">
-    <value>Parent</value>
+    <value>Γονιός</value>
     <comment>Parent</comment>
   </data>
   <data name="App_Contacts_FieldType_Partner" xml:space="preserve">
-    <value>Partner</value>
+    <value>Συνεργάτης</value>
     <comment>Partner</comment>
   </data>
   <data name="App_Contacts_FieldType_Profile" xml:space="preserve">
-    <value>Profile</value>
+    <value>Προφίλ</value>
     <comment>Profile</comment>
   </data>
   <data name="App_Contacts_FieldType_ReferredBy" xml:space="preserve">
