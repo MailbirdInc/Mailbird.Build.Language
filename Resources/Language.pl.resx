@@ -4262,7 +4262,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Zaproś znajomych - Zdobądź edycję Pro ZA DARMO</value>
+    <value>Zaproś znajomych - Zdobądź licencję Pro ZA DARMO</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -4270,7 +4270,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No Account Selected</comment>
   </data>
   <data name="Dialog_NoAccountExplanation" xml:space="preserve">
-    <value>Proszę wybrać co najmniej 1 konto do importu.</value>
+    <value>Wybierz co najmniej 1 konto do importu.</value>
     <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
@@ -4304,11 +4304,11 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Cancel import</comment>
   </data>
   <data name="Welcome_CancelImportDataExplanation" xml:space="preserve">
-    <value>Czy na pewno  chcesz przerwać import? Wszelkie niezaimportowane dane nie będą dostępne w Mailbird.</value>
+    <value>Czy na pewno chcesz przerwać importowanie? Wszelkie niezaimportowane dane nie będą dostępne w Mailbird.</value>
     <comment>Are you sure you want to cancel import? Any data not imported will be unavailable in Mailbird.</comment>
   </data>
   <data name="Welcome_CancelImportDataTitle" xml:space="preserve">
-    <value>Przerwać import?</value>
+    <value>Przerwać importowanie?</value>
     <comment>Cancel import?</comment>
   </data>
   <data name="Welcome_ImportDataSubTitle" xml:space="preserve">
@@ -4320,13 +4320,13 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird uruchomi się ponownie i usunie konto/a, które zostały już dodane. 
+    <value>Mailbird uruchomi się ponownie i usunie konta, które zostały już dodane. 
 Czy na pewno chcesz kontynuować?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
   </data>
   <data name="Welcome_CancelImportTitle" xml:space="preserve">
-    <value>Czy na pewno chcesz przerwać import?</value>
+    <value>Czy na pewno chcesz przerwać importowanie?</value>
     <comment>Are you sure you want to cancel import?</comment>
   </data>
   <data name="Import_ImportMessage" xml:space="preserve">
@@ -4334,7 +4334,7 @@ Are you sure you want to continue?</comment>
     <comment>Import messages</comment>
   </data>
   <data name="Dialog_NoAccountPst" xml:space="preserve">
-    <value>Nie wybrano żadnych kont lub pliku PST</value>
+    <value>Nie wybrano żadnego konta lub pliku PST</value>
     <comment>No account or PST file selected</comment>
   </data>
   <data name="Dialog_NoAccountPstExplanation" xml:space="preserve">
@@ -4378,7 +4378,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Importing account data</comment>
   </data>
   <data name="Import_Cancelled" xml:space="preserve">
-    <value>Przerwano import</value>
+    <value>Przerwano importowanie</value>
     <comment>Import cancelled</comment>
   </data>
   <data name="Import_Error_Client_Running" xml:space="preserve">
@@ -4398,7 +4398,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>One or more messages could not be imported</comment>
   </data>
   <data name="Import_Finished" xml:space="preserve">
-    <value>Import zakończony</value>
+    <value>Zakończono importowanie</value>
     <comment>Import finished</comment>
   </data>
   <data name="Import_Initializing" xml:space="preserve">
@@ -4438,7 +4438,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>From external source</comment>
   </data>
   <data name="Import_ImportingFromFile" xml:space="preserve">
-    <value>Import z zewnętrznego źródła</value>
+    <value>Importuj z zewnętrznego źródła</value>
     <comment>Importing from file or folder</comment>
   </data>
   <data name="Import_EmlFile" xml:space="preserve">
@@ -4479,7 +4479,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>Cofnij wysyłanie przez</value>
+    <value>Zezwól na cofnięcie wysyłania przez</value>
     <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
@@ -4491,7 +4491,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Twój wybór przekroczy limit konta dla użytkowników Lite. Jeśli będziesz kontynuował, niektóre konta nie pokażą się przy następnym otwarciu Mailbirda. Uaktualnij do Pro, aby pokazać wszystkie swoje konta.</value>
+    <value>Twój wybór przekroczy limit konta dla użytkowników Lite. Jeśli będziesz kontynuował, niektóre konta nie pokażą się przy następnym otwarciu Mailbirda. Ulepsz konto do wersji Pro, aby pokazać wszystkie swoje konta.</value>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
@@ -4527,7 +4527,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
-    <value>Wystąpił błąd podczas autoryzacji Mailbird dostępu do konta e-mail.
+    <value>Wystąpił błąd podczas autoryzacji Mailbird w celu uzyskania dostępu do konta e-mail.
 
 Proszę spróbować ponownie lub przełączyć na autoryzację za pomocą nazwy użytkownika i hasła.</value>
     <comment>An error occured authorizing Mailbird to access the email account.
@@ -4549,7 +4549,7 @@ Please try again, or contact support if the issue persists.</comment>
   <data name="Dialog_OAuth2AuthorizationError_AccountChanged" xml:space="preserve">
     <value>Konto używane do autoryzowania dostępu jest nieprawidłowe.
 
-Proszę spróbować ponownie zalogować się przy użyciu prawidłowego konta przed przyznaniem dostępu.</value>
+Proszę spróbować ponownie zalogować się przy użyciu prawidłowego konta, przed przyznaniem dostępu.</value>
     <comment>The account used to authorize the access is incorrect.
 
 Please try again and log in with the correct account before granting access.</comment>
@@ -4615,7 +4615,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Uzyskaj nieograniczony Mailbird Pro za darmo. Twoje kontakty zostaną zaproszone do wypróbowania Mailbirda.</value>
+    <value>Uzyskaj nieograniczoną licencję Mailbird Pro za darmo. Twoje kontakty zostaną zaproszone do wypróbowania Mailbirda.</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Quoted_TextHidden" xml:space="preserve">
@@ -4697,7 +4697,7 @@ Please remove some and try again.</comment>
     <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
-    <value>Zdobądź Mailbird Pro z wieloma świetnymi funkcjami, które zwiększą twoją produktywność, włącznie z odkładaniem e-maili na później, szybkim podglądem załączników, nielimitowaną ilością kont i wiele więcej.</value>
+    <value>Zdobądź licencję Mailbird Pro z wieloma świetnymi funkcjami, które zwiększą twoją produktywność, włącznie z odkładaniem e-maili na później, szybkim podglądem załączników, nielimitowaną ilością kont i wiele więcej.</value>
     <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
   </data>
   <data name="Ads_Invite" xml:space="preserve">
@@ -4709,7 +4709,7 @@ Please remove some and try again.</comment>
     <comment>Enjoy Mailbird Pro without needing to pay</comment>
   </data>
   <data name="Ads_ReferExplanation" xml:space="preserve">
-    <value>Zaproś znajomych i za każdego znajomego, który dołączy, zdobądź 1 miesiąc Darmowego Mailbird Pro. Bez limitów.</value>
+    <value>Zaproś znajomych, a za każdego znajomego, który dołączy, dostaniesz 1 miesiąc licencji Mailbird Pro za darmo. Bez limitów.</value>
     <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
@@ -4737,11 +4737,11 @@ Please remove some and try again.</comment>
     <comment>Collapse message by default when replying</comment>
   </data>
   <data name="Invite_NoInvitee" xml:space="preserve">
-    <value>Nie zaprosiłeś żadnych kontaktów</value>
+    <value>Nie zaproszono jeszcze żadnych kontaktów</value>
     <comment>You haven't invited any contacts</comment>
   </data>
   <data name="Error_DownloadingMessagePop3" xml:space="preserve">
-    <value>Nie można pobrać źródła wiadomości. Prawdopodobnie wiadomości nie istnieje już w skrzynce odbiorczej na serwerze.</value>
+    <value>Nie można pobrać źródła wiadomości. Prawdopodobnie wiadomość nie istnieje już w skrzynce odbiorczej na serwerze.</value>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 <data name="Options_RestartNow" xml:space="preserve">
@@ -4852,21 +4852,21 @@ Please choose another file.</comment>
     <comment>View tip in browser</comment>
   </data>
   <data name="Menu_Trial2" xml:space="preserve">
-    <value>Aktywuj wersje próbną edycji Pro</value>
+    <value>Aktywuj próbny okres licencji Pro</value>
     <comment>Activate pro trial</comment>
   </data>
   <data name="Trial_EndTitle2" xml:space="preserve">
-    <value>Twoja wersja próbna edycji Pro została zakończona</value>
+    <value>Zakończono próbny okres licencji Pro</value>
     <comment>Your Pro Trial Has Ended</comment>
   </data>
   <data name="Trial_StartText2" xml:space="preserve">
     <value>Przez następne kilka dni otrzymasz nieograniczony dostęp do wszystkich funkcji Mailbird Pro. 
-Gdy okres próbny się zakończy twoje konto zostanie przywrócone do wersji Lite (darmowej).</value>
+Gdy okres próbny zostanie zakończony, Twoje konto zostanie przywrócone do licencji Lite (darmowej).</value>
     <comment>For the next few days, you will get unlimited access to all Mailbird Pro features. 
 Once your trial is over your account will revert to the Lite (free) version.</comment>
   </data>
   <data name="Trial_StartTitle2" xml:space="preserve">
-    <value>Twój bezpłatny okres próbny edycji Pro został rozpoczęty</value>
+    <value>Twój bezpłatny okres próbny dla licencji Pro został rozpoczęty</value>
     <comment>Your Free Pro Trial Starts Now</comment>
   </data>
 <data name="Notification_ErrorLoadingBackgroundExplanation" xml:space="preserve">
@@ -4900,7 +4900,7 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Uaktualnij teraz do Mailbird PRO</value>
+    <value>Ulepsz do licencji Mailbird PRO</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
@@ -4920,11 +4920,11 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Zaproś znajomych, to proste. Kiedy {0} lub więcej zainstaluje Mailbird z twojego zaproszenia, zdobędziesz Mailbird Pro na zawsze [bold]ZA DARMO[/bold].</value>
+    <value>Zaproś znajomych, to proste. Kiedy {0} lub więcej zainstaluje Mailbird z twojego zaproszenia, zdobędziesz licencję Mailbird Pro na zawsze [bold]ZA DARMO[/bold].</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Zdobądź Mailbird Pro
+    <value>Zdobądź licencję Mailbird Pro
 Na zawsze ZA DARMO</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
@@ -4937,7 +4937,7 @@ Na zawsze ZA DARMO</value>
     <comment>Accepted!</comment>
   </data>
   <data name="InviteV2_AddnewContact" xml:space="preserve">
-    <value>"{0}" nie został znaleziony, wciśnij "Enter" aby dodać go do listy.</value>
+    <value>"{0}" nie został znaleziony, wciśnij "Enter", aby dodać go do listy.</value>
     <comment>"{0}" is not found, press "Enter" to add to list.</comment>
   </data>
   <data name="InviteV2_Invite" xml:space="preserve">
@@ -4949,7 +4949,7 @@ Na zawsze ZA DARMO</value>
     <comment>Invited</comment>
   </data>
   <data name="InviteV2_NoAcceptedInvitations" xml:space="preserve">
-    <value>Nie masz jeszcze żadnych przyjętych zaproszeń.</value>
+    <value>Nikt z zaproszonych nie przyjął jeszcze zaproszenia.</value>
     <comment>You don't have any accepted invitations.</comment>
   </data>
   <data name="InviteV2_NoContacts" xml:space="preserve">
@@ -4973,7 +4973,7 @@ Na zawsze ZA DARMO</value>
     <comment>{0} of {1} invites accepted!</comment>
   </data>
   <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
-    <value>Jesteś już gwiazdą e-maili z dożywotnią licencją Mailbird Pro! Kiedy twój znajomy zainstaluje Mailbird z twojego zaproszenia, zdobędziesz 1 miesiąc Priorytetowej Pomocy Mailbird ZA DARMO za każdą pomyślną instalację!</value>
+    <value>Jesteś już gwiazdą e-maili z dożywotnią licencją Mailbird Pro! Kiedy Twój znajomy zainstaluje Mailbird z twojego zaproszenia, zdobędziesz 1 miesiąc Priorytetowej Pomocy Mailbird ZA DARMO, za każdą pomyślną instalację!</value>
     <comment>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="InviteV2_InviteFriends" xml:space="preserve">
@@ -5005,7 +5005,7 @@ Na zawsze ZA DARMO</value>
     <comment>Are you sure you want to close the window?</comment>
   </data>
   <data name="Welcome_CloseImportDescription" xml:space="preserve">
-    <value>Nadal importujemy twoje dane, zamknięcie tego okna spowoduje anulowanie procesu importowania.
+    <value>Nadal importujemy Twoje dane, zamknięcie tego okna spowoduje anulowanie procesu importowania.
 
 Czy na pewno chcesz zamknąć to okno?</value>
     <comment>We're still importing your data, closing the window will cancel the import process.
@@ -5061,7 +5061,7 @@ https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
   <data name="Dialog_SubjectChanged" xml:space="preserve">
     <value>Temat został zmieniony.
 
-Chciałbyś zawrzeć tę wiadomość do nowej konwersacji?</value>
+Czy chcesz, by ta wiadomość rozpoczęła nową konwersację?</value>
     <comment>You changed the subject.
 
 Would you like to group this message into a new conversation?</comment>
@@ -5071,7 +5071,7 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Create a new conversation?</comment>
   </data>
   <data name="InviteV2_ShareSocial" xml:space="preserve">
-    <value>Udostępnij i zdobądź więcej zaproszeń</value>
+    <value>Udostępnij w mediach społecznościowych i zdobądź więcej zaproszeń</value>
     <comment>Share on social and get more invites</comment>
   </data>
   <data name="ShareReferralLink_Link" xml:space="preserve">
@@ -5160,7 +5160,7 @@ NB: Text for button to send the survey</comment>
 NB: Text for button to skip the survey</comment>
   </data>
 <data name="App_Contacts_FieldType_Home" xml:space="preserve">
-    <value>Prywatny</value>
+    <value>Domowy</value>
     <comment>Home</comment>
   </data>
   <data name="App_Contacts_FieldType_Other" xml:space="preserve">
@@ -5266,7 +5266,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Placeholder text when no contacts in selected group</comment>
   </data>
   <data name="App_Contacts_ContactsPlural" xml:space="preserve">
-    <value>{0} kontakty</value>
+    <value>{0} kontaktów</value>
     <comment>{0} contacts</comment>
   </data>
   <data name="App_Contacts_ContactsSingular" xml:space="preserve">
@@ -5410,7 +5410,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>ZIP code</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_SubHeader" xml:space="preserve">
-    <value>Wybierz konta poniżej, aby podłączyć i zsynchronizować swoje kontakty z Mailbird, lub kliknij przycisk, aby połączyć się z innym kontem.</value>
+    <value>Wybierz konta poniżej, aby podłączyć i zsynchronizować swoje kontakty z Mailbird lub kliknij przycisk, aby połączyć się z innym kontem.</value>
     <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_Title" xml:space="preserve">
@@ -5422,11 +5422,11 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Accounts</comment>
   </data>
   <data name="App_Contacts_MenuDisplayFirstLast" xml:space="preserve">
-    <value>Wyświetl według imię, nazwisko</value>
+    <value>Wyświetlaj - imię, nazwisko</value>
     <comment>Display by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuDisplayLastFirst" xml:space="preserve">
-    <value>Wyświetl według nazwisko, imię</value>
+    <value>Wyświetlaj - nazwisko, imię</value>
     <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
@@ -5514,15 +5514,15 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>No groups found.</comment>
   </data>
   <data name="App_Contacts_Intro_1" xml:space="preserve">
-    <value>Wszystkie twoje kontakty w jednym miejscu.</value>
+    <value>Wszystkie Twoje kontakty w jednym miejscu.</value>
     <comment>All your contacts together in one place.</comment>
   </data>
   <data name="App_Contacts_Intro_2" xml:space="preserve">
-    <value>Teraz możesz zsynchronizować swoje Kontakty Google w Mailbird, więcej dostawców już wkrótce.</value>
+    <value>Teraz możesz zsynchronizować swoje kontakty Google w Mailbird. Więcej dostawców już wkrótce.</value>
     <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
-    <value>Możesz połączyć ze sobą kontakty, aby zobaczyć ich szczegóły w jednym miejscu za pomocą jednego kliknięcia.</value>
+    <value>Możesz połączyć ze sobą kontakty za pomocą jednego kliknięcia, aby zobaczyć ich szczegóły w jednym miejscu.</value>
     <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
@@ -5558,7 +5558,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
-    <value>Scal kontakty</value>
+    <value>Scal kontakt</value>
     <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
@@ -5640,7 +5640,7 @@ NB: Menu in context menu to do copy action</comment>
     <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
   </data>
   <data name="App_Contacts_FieldNameSuffix" xml:space="preserve">
-    <value>Sufiks</value>
+    <value>Przyrostek</value>
     <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
   </data>
   <data name="SpeedRead_Speed" xml:space="preserve">
@@ -5680,7 +5680,7 @@ Spowoduje to wyłączenie synchronizacji kontaktów oraz usunięcie zapisanych n
     <comment>Button to show middle name when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddSuffix" xml:space="preserve">
-    <value>sufiks</value>
+    <value>przyrostek</value>
     <comment>Button to show suffix of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddTitle" xml:space="preserve">
@@ -5760,11 +5760,11 @@ Spowoduje to wyłączenie synchronizacji kontaktów oraz usunięcie zapisanych n
     <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>Aby nadal w pełni korzystać z Mailbird odkładając e-maile na później, używać nielimitowanej ilości kont i wiele więcej, będziesz musiał zakupić Mailbird Pro.</value>
+    <value>Aby nadal w pełni korzystać z Mailbird odkładając e-maile na później, używać nielimitowanej ilości kont i wiele więcej, będziesz musiał zakupić licencję Mailbird Pro.</value>
     <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
-    <value>Okres testowy Mailbird Pro został zakończony.</value>
+    <value>Okres testowy licencji Mailbird Pro został zakończony.</value>
     <comment>Your Mailbird Pro Trial has ended.</comment>
   </data>
   <data name="Trial_EndTitle" xml:space="preserve">
@@ -5838,7 +5838,7 @@ with Mailbird Pro?</comment>
     <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
-    <value>Up to date</value>
+    <value>Zsynchronizowano</value>
     <comment>Up to date</comment>
   </data>
   <data name="App_Contacts_CropPicture_Done" xml:space="preserve">
@@ -5885,11 +5885,11 @@ with Mailbird Pro?</comment>
     <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartPlural" xml:space="preserve">
-    <value>contacts</value>
+    <value>kontakty</value>
     <comment>Part of label for a group in auto complete when group has multiple contacts. E.g. "Group (3 contacts)"</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartSingular" xml:space="preserve">
-    <value>contact</value>
+    <value>kontakt</value>
     <comment>Part of label for a group in auto complete when group has 1 contact. E.g. "Group (1 contact)"</comment>
   </data>
   <data name="App_Contacts_Labels_Department" xml:space="preserve">
@@ -5909,11 +5909,11 @@ with Mailbird Pro?</comment>
     <comment>Male value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Latitude" xml:space="preserve">
-    <value>Latitude</value>
+    <value>Szerokość geograficzna</value>
     <comment>Label for custom field Latitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Longitude" xml:space="preserve">
-    <value>Longitude</value>
+    <value>Długość geograficzna</value>
     <comment>Label for custom field Longitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Mailer" xml:space="preserve">
@@ -5921,7 +5921,7 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Mailer when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Office" xml:space="preserve">
-    <value>Office</value>
+    <value>Biuro</value>
     <comment>Label for custom field Office when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_ProductId" xml:space="preserve">
@@ -5933,19 +5933,19 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Revision Date when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Role" xml:space="preserve">
-    <value>Role</value>
+    <value>Rola</value>
     <comment>Label for custom field Role when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Domestic" xml:space="preserve">
-    <value>Domowy</value>
+    <value>Krajowy</value>
     <comment>Label for contact custom address type Domestic</comment>
   </data>
   <data name="App_Contacts_Labels_International" xml:space="preserve">
-    <value>International</value>
+    <value>Międzynarodowy</value>
     <comment>Label for contact custom address type International</comment>
   </data>
   <data name="App_Contacts_Labels_Parcel" xml:space="preserve">
-    <value>Przesyłki</value>
+    <value>Przesyłka</value>
     <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
@@ -5973,7 +5973,7 @@ with Mailbird Pro?</comment>
     <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Usunięcie sugestii spowoduje, że nie będzie widoczna na liście podczas tworzenia wiadomości - na przykład jeśli adres e-mail nie istnieje lub jest nieprawidłowy.
+    <value>Usunięcie sugestii spowoduje, że nie będzie widoczna na liście podczas tworzenia wiadomości, np. jeśli adres e-mail nie istnieje lub jest nieprawidłowy.
 
 Usunięte sugestie można przywrócić w ustawieniach.</value>
     <comment>Dialog box message</comment>
@@ -5999,9 +5999,9 @@ Usunięte sugestie można przywrócić w ustawieniach.</value>
     <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>Nie tylko zaktualizowaliśmy starą aplikację Kontakty o zupełnie nowy wygląd - dodaliśmy także pełną obsługę Google i Outlooka, dzięki czemu możesz zsynchronizować kontakty z istniejących kont i mieć te same kontakty, niezależnie od tego, czy pracujesz w programie Mailbird czy gdzieś indziej.
+    <value>Nie tylko zaktualizowaliśmy starą aplikację Kontakty o zupełnie nowy wygląd. Dodaliśmy także pełną obsługę Google i Outlooka, dzięki czemu możesz zsynchronizować kontakty z istniejących kont i mieć te same kontakty, niezależnie od tego, czy pracujesz w programie Mailbird czy gdzieś indziej.
 
-Nowością jest również "łączenie", pozwalające połączyć identyczne kontakty z różnych kont - raz wprowadzasz zmiany, a te zostają automatycznie rozpowszechnione na wszystkie konta.
+Nowością jest również "łączenie kontaktów", pozwalające połączyć identyczne kontakty z różnych kont - raz wprowadzasz zmiany, a te zostają automatycznie rozpowszechnione na wszystkie konta.
 
 A czy wspominaliśmy, że możesz łatwo kopiować i przenosić kontakty pomiędzy kontami?
 
@@ -6025,11 +6025,11 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
-    <value>Udostępnij poprzez e-mail</value>
+    <value>Udostępnij przez e-mail</value>
     <comment>Tooltip to share via email</comment>
   </data>
   <data name="RateRecommend_Facebook" xml:space="preserve">
-    <value>Udostępnij poprzez Facebooka</value>
+    <value>Udostępnij przez Facebooka</value>
     <comment>Tooltip to share via Facebook</comment>
   </data>
   <data name="RateRecommend_HeaderFeedback" xml:space="preserve">
@@ -6049,7 +6049,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Button to send feedback</comment>
   </data>
   <data name="RateRecommend_Twitter" xml:space="preserve">
-    <value>Udostępnij poprzez Twittera</value>
+    <value>Udostępnij przez Twittera</value>
     <comment>Tooltip to share via Twitter</comment>
   </data>
   <data name="RateRecommend_Unlikely" xml:space="preserve">
@@ -6061,7 +6061,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="InviteV2_ShareSocial2" xml:space="preserve">
-    <value>Udostępnij w sieciach społecznościowych</value>
+    <value>Udostępnij w mediach społecznościowych</value>
     <comment>Button for sharing invites to social</comment>
   </data>
 <data name="Background_AddYourOwn" xml:space="preserve">
@@ -6097,7 +6097,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_None" xml:space="preserve">
-    <value>None</value>
+    <value>Brak</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Polcadot" xml:space="preserve">
@@ -6148,7 +6148,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <value>Rozmowy wideo z maksymalnie 8 osobami.</value>
     </data>
   <data name="App_Degoo_Description" xml:space="preserve">
-    <value>Przechowuj swoje pliki w chmurze o pojemności 100 GB, bezpłatnie!</value>
+    <value>Bezpłatnie przechowuj swoje pliki w chmurze o pojemności 100 GB!</value>
     </data>
   <data name="App_Feedly_Description" xml:space="preserve">
     <value>Treści, które pozwolą przyspieszyć Twoje badania, marketing i sprzedaż.</value>
@@ -6160,7 +6160,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <value>Wygeneruj podpis dla swoich wiadomości e-mail.</value>
     </data>
   <data name="App_Moodo_Description" xml:space="preserve">
-    <value>Piękna minimalistyczny aplikacja do zarządzania zadaniami. Przeciągaj i organizuj wiadomości e-mail na swojej liście zadań.</value>
+    <value>Piękna, minimalistyczny aplikacja do zarządzania zadaniami. Przeciągaj i organizuj wiadomości e-mail na swojej liście zadań.</value>
     </data>
   <data name="App_Slack_Description" xml:space="preserve">
     <value>Narzędzie, które znacznie usprawni komunikację w Twoim zespole.</value>
@@ -6184,7 +6184,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <value>Oczyść swoją skrzynkę odbiorczą.</value>
     </data>
   <data name="App_WeChat_Description" xml:space="preserve">
-    <value>Darmowy komunikator z wieloma funkcjami społecznościowymi.</value>
+    <value>Popularny w Chinach, darmowy komunikator z wieloma funkcjami społecznościowymi.</value>
     </data>
   <data name="App_Weibo_Description" xml:space="preserve">
     <value>Mikroblogowanie i media społecznościowe prosto z Chin (częściowo przetłumaczone na angielski).</value>
