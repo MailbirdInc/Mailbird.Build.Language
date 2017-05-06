@@ -656,7 +656,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit identity</comment>
   </data>
   <data name="Identity_ReplyTo" xml:space="preserve">
-    <value>Responder-para:</value>
+    <value>Responder a:</value>
     <comment>Reply-to:</comment>
   </data>
   <data name="Identity_SendFromAccount" xml:space="preserve">
@@ -2578,8 +2578,8 @@ Message: {0}</comment>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>[bold]Indique amigos para voar consigo[/bold]
-e ganhe o Mailbird Para Sempre de graça!</value>
+    <value>[bold]Convide amigos para voar consigo[/bold]
+e ganhe gratuitamente o Mailbird Para Sempre!</value>
     <comment>Get Mailbird Pro free for life</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
@@ -5013,7 +5013,7 @@ Are you sure you want to close the window?</comment>
     <comment>Download updates but let me choose whether to install them</comment>
   </data>
   <data name="UpdatePreference_CheckWithoutAutoDownload" xml:space="preserve">
-    <value>Verificar a existência de actualizações mas deixar-me escolher se desejo fazer a transferência e instalá-las</value>
+    <value>Verificar a existência de actualizações mas deixar-me escolher se desejo fazer a transferência e instalá-la</value>
     <comment>Check for updates but let me choose whether to download and install them</comment>
   </data>
   <data name="UpdatePreference_NeverCheck" xml:space="preserve">
@@ -6015,7 +6015,7 @@ Experimente os novos contactos agora!</value>
     <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 <data name="Menu_Help" xml:space="preserve">
-    <value>Help</value>
+    <value>Ajuda</value>
     <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
@@ -6039,7 +6039,7 @@ Experimente os novos contactos agora!</value>
     <comment>Header in rate and recommend control when asking for sharing</comment>
   </data>
   <data name="RateRecommend_Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Enviar</value>
     <comment>Button to send feedback</comment>
   </data>
   <data name="RateRecommend_Twitter" xml:space="preserve">
@@ -6191,42 +6191,42 @@ Experimente os novos contactos agora!</value>
     <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
 <data name="ReferralBottomBar_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Fechar</value>
     <comment>Menu to close referral control</comment>
   </data>
   <data name="ReferralBottomBar_Content" xml:space="preserve">
-    <value>Offer {0} 1 month of Pro for free and get Lifetime for free</value>
+    <value>Oferecer {0} 1 mês de Pro gratuitamente e ganhar Lifetime gratuitamente</value>
     <comment>Text in a control to invite user. {0} will be replaced with a name</comment>
   </data>
   <data name="ReferralBottomBar_DontShowAgain" xml:space="preserve">
-    <value>Don't show me this again</value>
+    <value>Não me mostre isso novamente</value>
     <comment>Menu to close and never show the referral control</comment>
   </data>
   <data name="ReferralBottomBar_Invite" xml:space="preserve">
-    <value>Invite</value>
+    <value>Convidar</value>
     <comment>Button label to send invitation</comment>
   </data>
   <data name="ReferralBottomBar_SeeMore" xml:space="preserve">
-    <value>See more</value>
+    <value>Ver mais</value>
     <comment>Button label to open the referral sidebar</comment>
   </data>
   <data name="ReferralBottomBar_InviteMany" xml:space="preserve">
-    <value>[highlight]{0}[/highlight] and [highlight]{1}[/highlight]</value>
+    <value>[destacar] {0}[/destacar] e [destacar] {1}[/destacar]</value>
     <comment>{0} and {1} will be replaced with name, e.g.
 John and Doe</comment>
   </data>
   <data name="ReferralBottomBar_InviteManyPlural" xml:space="preserve">
-    <value>[highlight]{0}[/highlight] and [highlight]{1} other contacts[/highlight]</value>
+    <value>[destacar] {0}[/destacar] e [destacar] {1} outros contactos[/destacar]</value>
     <comment>{0} will be replaced with name, {1} will be replaced with number, e.g.
 John and 2 other contacts</comment>
   </data>
   <data name="ReferralBottomBar_InviteOne" xml:space="preserve">
-    <value>[highlight]{0}[/highlight]</value>
+    <value>[destacar]{0}[/destacar]</value>
     <comment>{0} will be replaced with name, e.g.
 John</comment>
   </data>
   <data name="ReferralBottomBar_SendInviteTo" xml:space="preserve">
-    <value>Send invitation to:</value>
+    <value>Enviar convite para:</value>
     <comment>Tooltip for invite button</comment>
   </data>
 </root>
