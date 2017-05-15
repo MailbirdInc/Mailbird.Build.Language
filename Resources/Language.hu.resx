@@ -166,7 +166,7 @@
     <comment>Cut</comment>
   </data>
   <data name="Awesomium_Ignore" xml:space="preserve">
-    <value>Figyelmen kívül hagyja a szöveget</value>
+    <value>Szöveg kihagyása</value>
     <comment>Ignore word</comment>
   </data>
   <data name="Awesomium_Paste" xml:space="preserve">
@@ -6213,17 +6213,17 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
     <comment>Button label to open the referral sidebar</comment>
   </data>
   <data name="ReferralBottomBar_InviteMany" xml:space="preserve">
-    <value>[highlight]{0}[/highlight] and [highlight]{1}[/highlight]</value>
+    <value>[highlight]{0}[/highlight] és [highlight]{1}[/highlight]</value>
     <comment>{0} and {1} will be replaced with name, e.g.
 John and Doe</comment>
   </data>
   <data name="ReferralBottomBar_InviteManyPlural" xml:space="preserve">
-    <value>[kiemel]{0}[/kiemel] , [kiemel]{1} többi névjegy[/kiemel]</value>
+    <value>[highlight]{0}[/highlight] és [highlight]{1} más névjegyek[/highlight]</value>
     <comment>{0} will be replaced with name, {1} will be replaced with number, e.g.
 John and 2 other contacts</comment>
   </data>
   <data name="ReferralBottomBar_InviteOne" xml:space="preserve">
-    <value>[kiemel]{0}[/kiemel]</value>
+    <value>[highlight] {0} [/highlight]</value>
     <comment>{0} will be replaced with name, e.g.
 John</comment>
   </data>
