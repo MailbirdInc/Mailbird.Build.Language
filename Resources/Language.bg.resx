@@ -4132,7 +4132,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Coupon</comment>
   </data>
   <data name="UpdateToPro_UsdMonth" xml:space="preserve">
-    <value>USD / Month</value>
+    <value>{0} / Month</value>
     <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
@@ -6227,5 +6227,37 @@ John</comment>
   <data name="ReferralBottomBar_SendInviteTo" xml:space="preserve">
     <value>Send invitation to:</value>
     <comment>Tooltip for invite button</comment>
+  </data>
+<data name="App_Contacts_BrowseContacts_Search" xml:space="preserve">
+    <value>Search</value>
+    <comment>Watermark for search textbox</comment>
+  </data>
+  <data name="App_Contacts_BrowseContacts_SelectAll" xml:space="preserve">
+    <value>Select all</value>
+    <comment>Label for checkbox to select all contacts</comment>
+  </data>
+  <data name="App_Contacts_Browse_Add" xml:space="preserve">
+    <value>Add</value>
+    <comment>Button to add selected contacts</comment>
+  </data>
+  <data name="App_Contacts_RemoveContact" xml:space="preserve">
+    <value>Remove</value>
+    <comment>Tooltip for button to remove contact from list</comment>
+  </data>
+  <data name="MailEditor_Browse" xml:space="preserve">
+    <value>Browse contacts</value>
+    <comment>Tooltip in button to open browse contacts window</comment>
+  </data>
+  <data name="Apps_Kin_Calendar_Description" xml:space="preserve">
+    <value>The sun will rise again. Here's the best calendar experience.</value>
+    <comment>Description of Kin Calendar displayed in the App storefront.</comment>
+  </data>
+  <data name="Apps_Hangouts_Description" xml:space="preserve">
+    <value>Hold Meetings on the Go, Virtual Training Classes, Remote Interviews, and More.</value>
+    <comment>Hangouts app description displayed in the App storefront.</comment>
+  </data>
+  <data name="Editor_CcBcc" xml:space="preserve">
+    <value>Cc/Bcc</value>
+    <comment>Tooltip to expand or collapse cc/bcc field</comment>
   </data>
 </root>
