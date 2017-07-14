@@ -2052,8 +2052,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>İleti oluştururken geçerli metni taslak olarak kaydeder. S tuşuna basılı tutarken &lt;Ctrl&gt; tuşunu basılı tutun ve imlecinizin metin alanlarından birinde, yani bu kısayol kullanıldığında kompozisyon bölmesinde veya Kime, CC, BCC veya Konu alanlarından herhangi birinde olduğundan emin olun.</value>
-    <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
+    <value>İleti oluştururken geçerli metni taslak olarak kaydeder. S tuşuna basılı tutarken &lt;Ctrl&gt; tuşunu basılı tutun ve imlecinizin metin alanlarından birinde, yani bu kısayol kullanıldığında kompozisyon bölmesinde veya Kime, CC(Bilgi Kopyası), BCC(Gizli Kopya) veya Konu alanlarından herhangi birinde olduğundan emin olun.</value>
+  <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
     <value>Ara</value>
@@ -6258,7 +6258,7 @@ John</comment>
   <comment>Hangouts app description displayed in the App storefront.</comment>
   </data>
   <data name="Editor_CcBcc" xml:space="preserve">
-    <value>Cc(Karbon Kopya)/Bcc(Gizli Karbon Kopya)</value>
+    <value>Cc(Bilgi Kopyası)/Bcc(Gizli Kopya)</value>
   <comment>Tooltip to expand or collapse cc/bcc field</comment>
   </data>
 <data name="DripSurvey_MoreInfo" xml:space="preserve">
@@ -6278,7 +6278,7 @@ John</comment>
   <comment>Button to open link related to 3rd party service in Mailbird</comment>
   </data>
   <data name="Options_ShowCcBccByDefault" xml:space="preserve">
-    <value>Cc ve Bcc'yi varsayılan olarak göster</value>
+    <value>Cc(Bilgi Kopyası) ve Bcc(Gizli Kopya)'yi varsayılan olarak göster</value>
   <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 </root>
