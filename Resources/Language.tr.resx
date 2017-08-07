@@ -3479,10 +3479,6 @@ Here are a couple of links to help produce vCard files from various services:</c
     <value>Mailbird ipuçları</value>
     <comment>Mailbird tips</comment>
   </data>
-  <data name="Options_LimitingAccounts" xml:space="preserve">
-    <value>Deneme süresinin dolması nedeniyle tüm hesaplar yüklenmedi. Lütfen Pro'ya geçin ve tüm hesapları yüklemek için Mailbird'ü yeniden başlatın</value>
-    <comment>Not all accounts have been loaded due to the trial having expired. Please upgrade to Pro and restart Mailbird to load all accounts</comment>
-  </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
     <value>Mailbird'ü kullanmaya başlamak için bir e-posta hesabı eklemelisiniz. Vazgeçmek istediğinizden emin misiniz?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
@@ -3632,11 +3628,11 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Options_RestartToLoadAccountsExplanation" xml:space="preserve">
-    <value>Deneme / lisans süresi dolduğu için tüm hesaplar yüklenmedi. Mailbird şimdi tüm hesapları yüklemek için yeniden başlatılacaktır.</value>
+    <value>Not all accounts have been enabled due to the trial/license having expired. Mailbird will now restart to enable all accounts.</value>
     <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
   </data>
   <data name="Options_RestartToLoadAccountsTitle" xml:space="preserve">
-    <value>Hesapları yüklemek için yeniden başlat</value>
+    <value>Restart to enable accounts</value>
     <comment>Restart to load accounts</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
@@ -4485,7 +4481,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Seçiminiz Lite kullanıcıları için hesap limitini aşacaktır. Devam ederseniz, Mailbird'ün bir sonraki açılışında bazı hesaplar gösterilmeyecektir. Tüm hesaplarınızı göstermek için lütfen Pro'ya geçin.</value>
+    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will be disabled the next time Mailbird is opened. Please upgrade to Pro to enable all your accounts.</value>
     <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
@@ -6190,45 +6186,6 @@ Yeni Kişileri şimdi deneyin!</value>
     <value>E-posta hesaplarınızı bağlayın ve kişileri eşitleyin.</value>
     <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
-<data name="ReferralBottomBar_Close" xml:space="preserve">
-    <value>Kapat</value>
-    <comment>Menu to close referral control</comment>
-  </data>
-  <data name="ReferralBottomBar_Content" xml:space="preserve">
-    <value>{0}, ücretsiz 1 ay Pro teklif edin ve ücretsiz olarak ömürboyu alın</value>
-  <comment>Text in a control to invite user. {0} will be replaced with a name</comment>
-  </data>
-  <data name="ReferralBottomBar_DontShowAgain" xml:space="preserve">
-    <value>Bir daha gösterme</value>
-    <comment>Menu to close and never show the referral control</comment>
-  </data>
-  <data name="ReferralBottomBar_Invite" xml:space="preserve">
-    <value>Davet et</value>
-    <comment>Button label to send invitation</comment>
-  </data>
-  <data name="ReferralBottomBar_SeeMore" xml:space="preserve">
-    <value>Daha fazla göster</value>
-    <comment>Button label to open the referral sidebar</comment>
-  </data>
-  <data name="ReferralBottomBar_InviteMany" xml:space="preserve">
-    <value>[highlight]{0}[/highlight] ve [highlight]{1}[/highlight]</value>
-    <comment>{0} and {1} will be replaced with name, e.g.
-John and Doe</comment>
-  </data>
-  <data name="ReferralBottomBar_InviteManyPlural" xml:space="preserve">
-    <value>[highlight]{0}[/highlight] ve [highlight]{1} diğer kişi[/highlight]</value>
-    <comment>{0} will be replaced with name, {1} will be replaced with number, e.g.
-John and 2 other contacts</comment>
-  </data>
-  <data name="ReferralBottomBar_InviteOne" xml:space="preserve">
-    <value>[highlight]{0}[/highlight]</value>
-    <comment>{0} will be replaced with name, e.g.
-John</comment>
-  </data>
-  <data name="ReferralBottomBar_SendInviteTo" xml:space="preserve">
-    <value>Davetiye gönderilen:</value>
-    <comment>Tooltip for invite button</comment>
-  </data>
 <data name="App_Contacts_BrowseContacts_Search" xml:space="preserve">
     <value>Ara</value>
   <comment>Watermark for search textbox</comment>
@@ -6280,5 +6237,53 @@ John</comment>
   <data name="Options_ShowCcBccByDefault" xml:space="preserve">
     <value>Cc(Bilgi Kopyası) ve Bcc(Gizli Kopya)'yi varsayılan olarak göster</value>
   <comment>Option to show Cc and Bcc by default in compose window</comment>
+  </data>
+<data name="Notification_LimitingAccountsMessage" xml:space="preserve">
+    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+
+To enable all accounts again, upgrade to Pro and restart Mailbird.</value>
+    <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
+  </data>
+  <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
+    <value>Account limit exceeded</value>
+    <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
+  </data>
+  <data name="Disabled_IdentityLite" xml:space="preserve">
+    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
+    <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
+  </data>
+  <data name="Disabled_IdentityServerLogging" xml:space="preserve">
+    <value>This identity is disabled due to server logging being enabled.</value>
+    <comment>Tooltip when identity is disabled due to server logging is on</comment>
+  </data>
+  <data name="Disabled_AccountLite" xml:space="preserve">
+    <value>This account has been disabled because you have reached the limit of {0} email accounts in Mailbird Lite.</value>
+    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+  </data>
+  <data name="Disabled_AccountServerLogging" xml:space="preserve">
+    <value>This account is disabled due to server logging being enabled.</value>
+    <comment>Tooltip when account is disabled due to server logging is on</comment>
+  </data>
+  <data name="Disabled_Notification" xml:space="preserve">
+    <value>Upgrade to Mailbird Pro to keep receiving and sending messages from this account.</value>
+    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+  </data>
+  <data name="Disabled_UpgradeNow" xml:space="preserve">
+    <value>Upgrade now</value>
+    <comment>Button to upgrade to pro</comment>
+  </data>
+  <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
+    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+
+To enable all accounts, upgrade to Pro and restart Mailbird.</value>
+    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+  </data>
+  <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
+    <value>Upgrade to keep using all your accounts in Mailbird.</value>
+    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+  </data>
+  <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
+    <value>Your trial has ended.</value>
+    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 </root>
