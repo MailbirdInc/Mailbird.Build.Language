@@ -3630,12 +3630,12 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Options_RestartToLoadAccountsExplanation" xml:space="preserve">
-    <value>Not all accounts have been enabled due to the trial/license having expired. Mailbird will now restart to enable all accounts.</value>
-    <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
+    <value>Nem minden postafiók van engedélyezve a lejárt licenc miatt. Mailbird levelezőt most indítsa újra ahhoz, hogy minden fiókot elérjen.</value>
+  <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
   </data>
   <data name="Options_RestartToLoadAccountsTitle" xml:space="preserve">
-    <value>Restart to enable accounts</value>
-    <comment>Restart to load accounts</comment>
+    <value>Indítsa újra, hogy a fiókokat használhassa</value>
+  <comment>Restart to load accounts</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
     <value>Licenc aktíválása</value>
@@ -4483,8 +4483,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will be disabled the next time Mailbird is opened. Please upgrade to Pro to enable all your accounts.</value>
-    <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
+    <value>A postafiókok száma meghaladja a levelező Lite verzióben megengedettet. Ha továbbra is használja, egy kis beszámoló lesz tiltva a legközelebb Mailbird nyitva van. Kérjük, frissítsen a Pro verzióra ahhoz, hogy minden postafiók elérhető legyen.</value>
+  <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
     <value>Ezt a fiókot nem lehet importálni, mert már hozzá van adva a Mailbirdhöz</value>
@@ -6241,51 +6241,51 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
   <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsMessage" xml:space="preserve">
-    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+    <value>Néhány postafiók le van tiltva, mert lejárt az ön levelező verziója. Nem lesz képes kapni vagy küldeni üzeneteket a letiltott fiókokból.
 
-To enable all accounts again, upgrade to Pro and restart Mailbird.</value>
-    <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
+Ahhoz, hogy minden fiókot újra használhasson frissíteni Pro verzióra, majd indítsa újra Mailbird levelezőt.</value>
+  <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Account limit exceeded</value>
-    <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
+    <value>Túllépte a fiókok számát</value>
+  <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
-    <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
+    <value>Ez az identitás le van tiltva. Frissítsen a Mailbird Pro verzióra és élvezheti a korlátlan fiókokat.</value>
+  <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>This identity is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when identity is disabled due to server logging is on</comment>
+    <value>Ez biztonsági okokból ki van kapcsolva.</value>
+  <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the limit of {0} email accounts in Mailbird Lite.</value>
-    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+    <value>Ez a fiók le van tiltva, mert elérte a határérték {0} az e-mail fiókok Mailbird Lite verzióban.</value>
+  <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
-    <value>This account is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when account is disabled due to server logging is on</comment>
+    <value>Ez biztonsági okokból ki van kapcsolva.</value>
+  <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro to keep receiving and sending messages from this account.</value>
-    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+    <value>Frissítsen Mailbird Pro verzióra és küldhet és fogadhat üzeneteket a fiókokból.</value>
+  <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
-    <comment>Button to upgrade to pro</comment>
+    <value>Frissítés most</value>
+  <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+    <value>Néhány beszámoló miatt a tárgyalás, miután lejárt letiltotta. Nem lesz képes-hoz kap vagy küld üzeneteket a letiltott fiókokról.
 
-To enable all accounts, upgrade to Pro and restart Mailbird.</value>
-    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+Ahhoz, hogy az összes számla, feljavít-hoz Profi, és indítsa újra a Mailbird.</value>
+  <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Upgrade to keep using all your accounts in Mailbird.</value>
-    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Frissítsen a Mailbird összes fiókjának használatához.</value>
+  <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
-    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>A te Mailbird Pro verziód lejárt.</value>
+  <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 </root>
