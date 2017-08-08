@@ -3098,8 +3098,8 @@ Please contact support via our website, so we can help recover your data and get
   <data name="Notification_PossibleIdentityError" xml:space="preserve">
     <value>Dies tritt häufig bei falsch eingerichteten Identitäten auf.
 
-Bitte überprüfen Sie die Identitätseinstellungen und versuchen Sie es erneut.</value>
-    <comment>This is commonly caused by an incorrectly set up identity.
+Bitte überprüfen Sie die Identitäteneinstellungen und versuchen Sie es erneut.</value>
+  <comment>This is commonly caused by an incorrectly set up identity.
 
 Please check the identity setup and try again.</comment>
   </data>
@@ -3630,12 +3630,12 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Options_RestartToLoadAccountsExplanation" xml:space="preserve">
-    <value>Not all accounts have been enabled due to the trial/license having expired. Mailbird will now restart to enable all accounts.</value>
-    <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
+    <value>Nicht alle Konten wurden aktiviert, da die Testversion/Lizenz abgelaufen ist. Mailbird wird nun neu gestartet, um alle Konten zu aktivieren.</value>
+  <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
   </data>
   <data name="Options_RestartToLoadAccountsTitle" xml:space="preserve">
-    <value>Restart to enable accounts</value>
-    <comment>Restart to load accounts</comment>
+    <value>Neu starten, um Konten zu aktivieren</value>
+  <comment>Restart to load accounts</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
     <value>Lizenz aktivieren</value>
@@ -4486,8 +4486,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will be disabled the next time Mailbird is opened. Please upgrade to Pro to enable all your accounts.</value>
-    <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
+    <value>Ihre Auswahl überschreitet die max. Anzahl von Konten für Nutzer der Lite-Version. Wenn Sie fortfahren, werden einige Konten deaktiviert, sobald Mailbird geöffnet wird. Bitte aktualisieren Sie auf Pro, um alle Ihre Konten zu aktivieren.</value>
+  <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
     <value>Dieses Konto kann nicht importiert werden, da es bereits zu Mailbird hinzugefügt wurde</value>
@@ -6245,51 +6245,51 @@ Entdecken Sie jetzt die Möglichkeiten des neuen Adressbuches!</value>
   <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsMessage" xml:space="preserve">
-    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+    <value>Einige Konten wurden deaktiviert, da die Testphase abgelaufen ist. Sie können keine Nachrichten der deaktivierten Konten empfangen oder senden.
 
-To enable all accounts again, upgrade to Pro and restart Mailbird.</value>
-    <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
+Um alle Konten wieder zu aktivieren, aktualisieren Sie auf Pro und starten Sie Mailbird anschließend neu.</value>
+  <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Account limit exceeded</value>
-    <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
+    <value>Kontoanzahl überschritten</value>
+  <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
-    <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
+    <value>Diese Identität ist deaktiviert. Aktualisieren Sie auf Mailbird Pro, um eine unbegrenzte Anzahl von Konten nutzen zu können.</value>
+  <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>This identity is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when identity is disabled due to server logging is on</comment>
+    <value>Diese Identität ist deaktiviert, da die Serverprotokollierung aktiviert ist.</value>
+  <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the limit of {0} email accounts in Mailbird Lite.</value>
-    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+    <value>Dieses Konto wurde deaktiviert, da Sie die max. Anzahl von {0} E-Mail-Konten in Mailbird Lite überschritten haben.</value>
+  <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
-    <value>This account is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when account is disabled due to server logging is on</comment>
+    <value>Dieses Konto ist deaktiviert, da die Serverprotokollierung aktiviert ist.</value>
+  <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro to keep receiving and sending messages from this account.</value>
-    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+    <value>Aktualisieren Sie auf Mailbird Pro, um das Empfangen und Senden von Nachrichten für diesem Konto zu ermöglichen.</value>
+  <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
-    <comment>Button to upgrade to pro</comment>
+    <value>Jetzt aktualisieren</value>
+  <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+    <value>Einige Konten wurden deaktiviert, da die Testphase abgelaufen ist. Sie können keine Nachrichten der deaktivierten Konten empfangen oder senden.
 
-To enable all accounts, upgrade to Pro and restart Mailbird.</value>
-    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+Um alle Konten zu aktivieren, aktualisieren Sie auf Pro und starten Sie Mailbird anschließend neu.</value>
+  <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Upgrade to keep using all your accounts in Mailbird.</value>
-    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Aktualisieren, um weiterhin alle Ihre Konten in Mailbird nutzen zu können.</value>
+  <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
-    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Ihr Testzeitraum ist beendet.</value>
+  <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 </root>
