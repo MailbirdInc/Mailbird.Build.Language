@@ -3628,12 +3628,12 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Options_RestartToLoadAccountsExplanation" xml:space="preserve">
-    <value>Not all accounts have been enabled due to the trial/license having expired. Mailbird will now restart to enable all accounts.</value>
-    <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
+    <value>Deneme / Lisans süresi dolduğu için tüm hesaplar etkinleştirilmiş değil. Mailbird şimdi tüm hesapları etkinleştirmek için yeniden başlatılacaktır.</value>
+  <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
   </data>
   <data name="Options_RestartToLoadAccountsTitle" xml:space="preserve">
-    <value>Restart to enable accounts</value>
-    <comment>Restart to load accounts</comment>
+    <value>Hesapları etkinleştirmek için yeniden başlat</value>
+  <comment>Restart to load accounts</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
     <value>Lisansı Etkinleştir</value>
@@ -4481,8 +4481,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will be disabled the next time Mailbird is opened. Please upgrade to Pro to enable all your accounts.</value>
-    <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
+    <value>Seçiminiz Lite kullanıcıları için hesap sınırını aşacaktır. Devam ederseniz, Mailbird'ün sonraki açılışında bazı hesaplar devre dışı bırakılacaktır. Tüm hesaplarınızı etkinleştirmek için lütfen Pro'ya yükseltin.</value>
+  <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
     <value>Mailbird'e zaten eklendiğinden bu hesap içe aktarılamıyor</value>
@@ -6239,51 +6239,51 @@ Yeni Kişileri şimdi deneyin!</value>
   <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsMessage" xml:space="preserve">
-    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+    <value>Deneme süresinin dolması nedeniyle bazı hesaplar devre dışı bırakıldı. Devre dışı bırakılmış hesaplardan ileti alamaz veya gönderemezsiniz.
 
-To enable all accounts again, upgrade to Pro and restart Mailbird.</value>
-    <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
+Tüm hesapları yeniden etkinleştirmek için Pro'ya yükseltin ve Mailbird'ü yeniden başlatın.</value>
+  <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Account limit exceeded</value>
-    <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
+    <value>Hesap sınırı aşıldı</value>
+  <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
-    <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
+    <value>Bu kimlik devredışı bırakıldı. Sınırsız hesaplar için Mailbird Pro sürümüne yükseltin.</value>
+  <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>This identity is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when identity is disabled due to server logging is on</comment>
+    <value>Sunucu günlüğünün etkinleştirilmesi nedeniyle bu kimlik devre dışı bırakıldı.</value>
+  <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the limit of {0} email accounts in Mailbird Lite.</value>
-    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+    <value>Mailbird Lite'da {0} e-posta hesaplarının sınırına ulaştığınız için bu hesap devre dışı bırakıldı.</value>
+  <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
-    <value>This account is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when account is disabled due to server logging is on</comment>
+    <value>Sunucu günlüğü etkinleştirildiğinden bu hesap devre dışı bırakıldı.</value>
+  <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro to keep receiving and sending messages from this account.</value>
-    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+    <value>Bu hesaptan ileti almayı ve göndermeyi sürdürmek için Mailbird Pro'ya yükseltin.</value>
+  <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
-    <comment>Button to upgrade to pro</comment>
+    <value>Şimdi yükselt</value>
+  <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+    <value>Deneme süresinin dolması nedeniyle bazı hesaplar devre dışı bırakıldı. Devre dışı bırakılmış hesaplardan ileti alamaz veya gönderemezsiniz.
 
-To enable all accounts, upgrade to Pro and restart Mailbird.</value>
-    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+Tüm hesapları etkinleştirmek için, Pro'ya yükseltin ve Mailbird'i yeniden başlatın.</value>
+  <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Upgrade to keep using all your accounts in Mailbird.</value>
-    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Mailbird'deki tüm hesaplarınızı kullanmaya devam etmek için yükseltin.</value>
+  <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
-    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Deneme süresi sona erdi.</value>
+  <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 </root>
