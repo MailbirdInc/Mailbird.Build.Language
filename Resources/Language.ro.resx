@@ -3630,12 +3630,12 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Options_RestartToLoadAccountsExplanation" xml:space="preserve">
-    <value>Not all accounts have been enabled due to the trial/license having expired. Mailbird will now restart to enable all accounts.</value>
-    <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
+    <value>Nu toate conturile au fost activate datorită expirării perioadei de probă / licenței. Mailbird va reporni acum pentru a activa toate conturile.</value>
+  <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
   </data>
   <data name="Options_RestartToLoadAccountsTitle" xml:space="preserve">
-    <value>Restart to enable accounts</value>
-    <comment>Restart to load accounts</comment>
+    <value>Reporniți pentru a activa conturile</value>
+  <comment>Restart to load accounts</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
     <value>Activare licență</value>
@@ -4483,8 +4483,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will be disabled the next time Mailbird is opened. Please upgrade to Pro to enable all your accounts.</value>
-    <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
+    <value>Selecția dvs. va depăși limita de conturi pentru utilizatorii Lite. Dacă veți continua, unele conturi vor fi dezactivate data viitoare când Mailbird va fi deschis. Vă rugăm să faceți upgrade la versiunea Pro pentru a vă activa toate conturile.</value>
+  <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
     <value>Acest cont nu poate fi importat deoarece este deja adăugat în Mailbird</value>
@@ -6241,51 +6241,51 @@ Altă noutate, „corelarea” permițându-vă să conectați împreună contac
   <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsMessage" xml:space="preserve">
-    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+    <value>Unele conturi au fost dezactivate din cauza expirării perioadei de probă. Nu veți putea primi sau trimite mesaje din conturile dezactivate.
 
-To enable all accounts again, upgrade to Pro and restart Mailbird.</value>
-    <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
+Pentru a activa din nou toate conturile, faceți upgrade la versiunea Pro și reporniți Mailbird.</value>
+  <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Account limit exceeded</value>
-    <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
+    <value>Limita contului a fost depășită</value>
+  <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
-    <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
+    <value>Această identitate este dezactivată. Faceți upgrade la Mailbird Pro pentru a vă bucura de conturi nelimitate.</value>
+  <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>This identity is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when identity is disabled due to server logging is on</comment>
+    <value>Această identitate este dezactivată datorită activării înregistrării serverului.</value>
+  <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the limit of {0} email accounts in Mailbird Lite.</value>
-    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+    <value>Acest cont a fost dezactivat deoarece ați atins limita de {0} conturi de email în Mailbird Lite.</value>
+  <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
-    <value>This account is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when account is disabled due to server logging is on</comment>
+    <value>Acest cont este dezactivat din cauza activării înregistrării serverului.</value>
+  <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro to keep receiving and sending messages from this account.</value>
-    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+    <value>Faceți upgrade la Mailbird Pro pentru a continua să primiți și să trimiteți mesaje din acest cont.</value>
+  <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
-    <comment>Button to upgrade to pro</comment>
+    <value>Upgradează acum</value>
+  <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some accounts have been disabled due to the trial having expired. You will not be able to receive or send messages from the disabled accounts.
+    <value>Unele conturi au fost dezactivate din cauza expirării perioadei de încercare. Nu veți putea primi sau trimite mesaje din conturile dezactivate.
 
-To enable all accounts, upgrade to Pro and restart Mailbird.</value>
-    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+Pentru a activa toate conturile, faceți upgrade la versiunea Pro și reporniți Mailbird.</value>
+  <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Upgrade to keep using all your accounts in Mailbird.</value>
-    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Faceți upgrade pentru a continua să utilizați toate conturile dvs. în Mailbird.</value>
+  <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
-    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Perioada dvs. de încercare s-a încheiat.</value>
+  <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 </root>
