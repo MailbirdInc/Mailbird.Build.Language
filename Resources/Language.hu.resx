@@ -3629,14 +3629,6 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <value>Átállítod a Mailbird Lite-ra?</value>
     <comment>Convert to Mailbird Lite?</comment>
   </data>
-  <data name="Options_RestartToLoadAccountsExplanation" xml:space="preserve">
-    <value>Nem minden postafiók van engedélyezve a lejárt licenc miatt. Mailbird levelezőt most indítsa újra ahhoz, hogy minden fiókot elérjen.</value>
-  <comment>Not all accounts have been loaded due to the trial/license having expired. Mailbird will now restart to load all accounts.</comment>
-  </data>
-  <data name="Options_RestartToLoadAccountsTitle" xml:space="preserve">
-    <value>Indítsa újra, hogy a fiókokat használhassa</value>
-  <comment>Restart to load accounts</comment>
-  </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
     <value>Licenc aktíválása</value>
     <comment>Activate Licence</comment>
@@ -6240,13 +6232,7 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
     <value>Muttsd Cc, Bcc az alapértelmezés szerint</value>
   <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
-<data name="Notification_LimitingAccountsMessage" xml:space="preserve">
-    <value>Néhány postafiók le van tiltva, mert lejárt az ön levelező verziója. Nem lesz képes kapni vagy küldeni üzeneteket a letiltott fiókokból.
-
-Ahhoz, hogy minden fiókot újra használhasson frissíteni Pro verzióra, majd indítsa újra Mailbird levelezőt.</value>
-  <comment>Body of notification shown if disabling accounts due the trial having expired.</comment>
-  </data>
-  <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
+<data name="Notification_LimitingAccountsHeader" xml:space="preserve">
     <value>Túllépte a fiókok számát</value>
   <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
@@ -6259,33 +6245,55 @@ Ahhoz, hogy minden fiókot újra használhasson frissíteni Pro verzióra, majd 
   <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>Ez a fiók le van tiltva, mert elérte a határérték {0} az e-mail fiókok Mailbird Lite verzióban.</value>
-  <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+    <value>This account has been disabled because you have reached the account limit in Mailbird Lite.</value>
+    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
     <value>Ez biztonsági okokból ki van kapcsolva.</value>
   <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Frissítsen Mailbird Pro verzióra és küldhet és fogadhat üzeneteket a fiókokból.</value>
-  <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+    <value>Upgrade to Mailbird Pro to keep receiving and sending emails from this account.</value>
+    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
     <value>Frissítés most</value>
   <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Néhány beszámoló miatt a tárgyalás, miután lejárt letiltotta. Nem lesz képes-hoz kap vagy küld üzeneteket a letiltott fiókokról.
-
-Ahhoz, hogy az összes számla, feljavít-hoz Profi, és indítsa újra a Mailbird.</value>
-  <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Some of your accounts have been disabled because your Mailbird Pro trial has ended. You are now using Mailbird Lite. Mailbird Lite supports {0} email account(s) free for life. Please upgrade to Pro in order to continue using all of your accounts.</value>
+    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Frissítsen a Mailbird összes fiókjának használatához.</value>
-  <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Upgrade to keep using all of your accounts in Mailbird.</value>
+    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
     <value>A te Mailbird Pro verziód lejárt.</value>
   <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+  </data>
+<data name="Disabled_NotificationContactUs" xml:space="preserve">
+    <value>For any assistance, please contact us at support@getmailbird.com.</value>
+    <comment>Footer in upgrade notification window</comment>
+  </data>
+  <data name="UpgradeNotification_Content" xml:space="preserve">
+    <value>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</value>
+    <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
+  </data>
+  <data name="UpgradeNotification_Purchase" xml:space="preserve">
+    <value>Purchase Mailbird Pro</value>
+    <comment>Purchase Mailbird Pro</comment>
+  </data>
+  <data name="UpgradeNotification_Subtitle" xml:space="preserve">
+    <value>Would you like to get a Pro license now?</value>
+    <comment>Would you like to get a Pro license now?</comment>
+  </data>
+  <data name="UpgradeNotification_Title" xml:space="preserve">
+    <value>Thanks for using Mailbird.</value>
+    <comment>Thanks for using Mailbird.</comment>
+  </data>
+  <data name="App_GoogleKeep_Description" xml:space="preserve">
+    <value>Compose, edit, share, and collaborate on your notes and reminders on any device, anywhere.</value>
+    <comment>Description of the Google Keep App displayed in the app store.</comment>
   </data>
 </root>
