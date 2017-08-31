@@ -3438,8 +3438,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Search:</comment>
   </data>
   <data name="Notification_NewTipsHeader" xml:space="preserve">
-    <value>Nuovi suggerimenti disponibili</value>
-    <comment>New Mailbird tips are available</comment>
+    <value>Nuovi consigli disponibili</value>
+  <comment>New Mailbird tips are available</comment>
   </data>
   <data name="Tips_New" xml:space="preserve">
     <value>Nuovo suggerimento</value>
@@ -4474,8 +4474,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will be disabled the next time Mailbird is opened. Please upgrade to Pro to enable all your accounts.</value>
-    <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
+    <value>Gli account selezionati superano il numero massimo consentito per gli utenti Lite. Se decidi di continuare, alcuni account verranno disabilitati la prossima volta che avvierai Mailbird. Per utilizzare tutti gli account, passa a Mailbird Pro.</value>
+  <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
     <value>L'account non può essere importato perché è già presente in Mailbird</value>
@@ -6232,67 +6232,67 @@ Prova adesso la nuova app Contatti!</value>
   <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Account limit exceeded</value>
-    <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
+    <value>Limite account superato</value>
+  <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
-    <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
+    <value>Questa identità è disabilitata. Per poter usare account illimitati, passa a Mailbird Pro.</value>
+  <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
     <value>This identity is disabled due to server logging being enabled.</value>
     <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the account limit in Mailbird Lite.</value>
-    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+    <value>Questo account è stato disabilitato perché hai raggiunto il limite di account per la versione Lite.</value>
+  <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
     <value>This account is disabled due to server logging being enabled.</value>
     <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro to keep receiving and sending emails from this account.</value>
-    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+    <value>Passa a Mailbird Pro per continuare a ricevere e inviare email con questo account.</value>
+  <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
-    <comment>Button to upgrade to pro</comment>
+    <value>Passa a Pro</value>
+  <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some of your accounts have been disabled because your Mailbird Pro trial has ended. You are now using Mailbird Lite. Mailbird Lite supports {0} email account(s) free for life. Please upgrade to Pro in order to continue using all of your accounts.</value>
-    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Alcuni account sono stati disabilitati perché il periodo di prova di Mailbird Pro è terminato. Ora stai usando Mailbird Lite, che supporta fino a {0}, gratis per sempre. Per continuare ad utilizzare tutti i tuoi account, passa a Mailbird Pro.</value>
+  <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Upgrade to keep using all of your accounts in Mailbird.</value>
-    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Passa a Mailbird Pro per continuare ad utilizzare tutti gli account</value>
+  <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
-    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Il periodo di prova è terminato.</value>
+  <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>For any assistance, please contact us at support@getmailbird.com.</value>
-    <comment>Footer in upgrade notification window</comment>
+    <value>Per assistenza, contattaci a support@getmailbird.com</value>
+  <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
-    <value>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</value>
-    <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
+    <value>Questa è la versione Lite di Mailbird. Se l'applicazione ti sta piacendo e vorresti poter utilizzare le funzionalità di Mailbird Pro, passa a Pro subito</value>
+  <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
   </data>
   <data name="UpgradeNotification_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird Pro</value>
-    <comment>Purchase Mailbird Pro</comment>
+    <value>Acquista Mailbird Pro</value>
+  <comment>Purchase Mailbird Pro</comment>
   </data>
   <data name="UpgradeNotification_Subtitle" xml:space="preserve">
-    <value>Would you like to get a Pro license now?</value>
-    <comment>Would you like to get a Pro license now?</comment>
+    <value>Vuoi acquistare una licenza Pro adesso?</value>
+  <comment>Would you like to get a Pro license now?</comment>
   </data>
   <data name="UpgradeNotification_Title" xml:space="preserve">
-    <value>Thanks for using Mailbird.</value>
-    <comment>Thanks for using Mailbird.</comment>
+    <value>Grazie per usare Mailbird.</value>
+  <comment>Thanks for using Mailbird.</comment>
   </data>
   <data name="App_GoogleKeep_Description" xml:space="preserve">
-    <value>Compose, edit, share, and collaborate on your notes and reminders on any device, anywhere.</value>
-    <comment>Description of the Google Keep App displayed in the app store.</comment>
+    <value>Crea, modifica e condividi le tue note e promemoria su qualsiasi dispositivo, in qualsiasi luogo.</value>
+  <comment>Description of the Google Keep App displayed in the app store.</comment>
   </data>
 </root>
