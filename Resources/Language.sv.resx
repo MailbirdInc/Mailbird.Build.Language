@@ -395,7 +395,7 @@ Do you want to reconnect your Facebook?</comment>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
     <value>Är du säkert  att du vill ta bort kontot och alla anslutna identiteter?
 
-Mailbird kommer att startas om. Det tar några minuter.</value>
+Mailbird kommer att startas om vilket kan ta några minuter.</value>
   <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
@@ -829,8 +829,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Name:</comment>
   </data>
   <data name="EditFolderWindow_NestFolderUnderLabel" xml:space="preserve">
-    <value>Nest folder under:</value>
-    <comment>Nest folder under:</comment>
+    <value>Placera mapp under:</value>
+  <comment>Nest folder under:</comment>
   </data>
   <data name="EditFolderWindow_Title" xml:space="preserve">
     <value>Lägg till katalog</value>
@@ -917,7 +917,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Filename contains:</comment>
   </data>
   <data name="App_Attachments_LoadingText" xml:space="preserve">
-    <value>Söker:</value>
+    <value>Söker...</value>
   <comment>Searching...</comment>
   </data>
   <data name="App_Attachments_MinSizeLabel" xml:space="preserve">
@@ -953,24 +953,24 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Could not fetch information on contact from Facebook.</comment>
   </data>
   <data name="App_Contacts_LoadingFacebook" xml:space="preserve">
-    <value>Loading info on this contact from Facebook...</value>
-    <comment>Loading info on this contact from Facebook...</comment>
+    <value>Hämtar information om denna kontakt från Facebook...</value>
+  <comment>Loading info on this contact from Facebook...</comment>
   </data>
   <data name="App_Contacts_LoadingText" xml:space="preserve">
-    <value>Searching...</value>
-    <comment>Searching...</comment>
+    <value>Söker...</value>
+  <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
     <value>Please connect to Facebook in Settings to get more info on this contact.</value>
     <comment>Please connect to Facebook in Settings to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
-    <value>No matches found</value>
-    <comment>No matches found</comment>
+    <value>Inga träffar hittades</value>
+  <comment>No matches found</comment>
   </data>
   <data name="App_Contacts_SearchLabel" xml:space="preserve">
-    <value>Search people...</value>
-    <comment>Search people...</comment>
+    <value>Sök personer...</value>
+  <comment>Search people...</comment>
   </data>
   <data name="App_Contacts_Title" xml:space="preserve">
     <value>Contacts</value>
@@ -993,8 +993,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Help make Mailbird the best email app in the world.</comment>
   </data>
   <data name="App_Feedback_Title" xml:space="preserve">
-    <value>Feedback</value>
-    <comment>Feedback</comment>
+    <value>Återkoppling</value>
+  <comment>Feedback</comment>
   </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
     <value>Quickly navigate to your important documents from Mailbird.</value>
@@ -1025,16 +1025,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Paste file(s) as attachment</comment>
   </data>
   <data name="InboxZero_HighFive" xml:space="preserve">
-    <value>High-five from the Mailbird team!</value>
-    <comment>High-five from the Mailbird team!</comment>
+    <value>High-five från teamet på Mailbird!</value>
+  <comment>High-five from the Mailbird team!</comment>
   </data>
   <data name="InboxZero_Impressive" xml:space="preserve">
-    <value>You did it! Impressive!</value>
-    <comment>You did it! Impressive!</comment>
+    <value>Du klarade det! Imponerande!</value>
+  <comment>You did it! Impressive!</comment>
   </data>
   <data name="InboxZero_FeelsGood" xml:space="preserve">
-    <value>Ahhh... that feels good.</value>
-    <comment>Ahhh... that feels good.</comment>
+    <value>Ahhh... det känns bra.</value>
+  <comment>Ahhh... that feels good.</comment>
   </data>
   <data name="InboxZero_TrueInspiration" xml:space="preserve">
     <value>You're a true inspiration!</value>
@@ -1049,8 +1049,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Wow. You're flying!</comment>
   </data>
   <data name="InboxZero_Rock" xml:space="preserve">
-    <value>There's the proof. You rock!</value>
-    <comment>There's the proof. You rock!</comment>
+    <value>Där har du beviset. Du äger!</value>
+  <comment>There's the proof. You rock!</comment>
   </data>
   <data name="InboxZero_RockStar" xml:space="preserve">
     <value>You're an email rockstar!</value>
@@ -1061,52 +1061,52 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</value>
-    <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
+    <value>Denna licensnyckel är avaktiverad av administratören. Vänligen kontakta support@getmailbird.com för att aktivera den.</value>
+  <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
-    <value>Expired License</value>
-    <comment>Expired License</comment>
+    <value>Utgången Licens</value>
+  <comment>Expired License</comment>
   </data>
   <data name="License_ExpiredExplanation" xml:space="preserve">
-    <value>Your license key has expired. Please enter another license key or renew the current license key to continue.</value>
-    <comment>Your license key has expired. Please enter another license key or renew the current license key to continue.</comment>
+    <value>Din licensnyckel är utgången. Vänligen skriv in en annan nyckel eller förnya den befintliga för att fortsätta.</value>
+  <comment>Your license key has expired. Please enter another license key or renew the current license key to continue.</comment>
   </data>
   <data name="License_IncorrectDate" xml:space="preserve">
-    <value>Incorrect Date</value>
-    <comment>Incorrect Date</comment>
+    <value>Felaktigt Datum</value>
+  <comment>Incorrect Date</comment>
   </data>
   <data name="License_Information" xml:space="preserve">
-    <value>Your license information is listed below.</value>
-    <comment>Your license information is listed below.</comment>
+    <value>Information om din licens finner du nedan.</value>
+  <comment>Your license information is listed below.</comment>
   </data>
   <data name="License_Invalid" xml:space="preserve">
-    <value>Invalid License</value>
-    <comment>Invalid License</comment>
+    <value>Ogiltig Licens</value>
+  <comment>Invalid License</comment>
   </data>
   <data name="License_InvalidHint" xml:space="preserve">
-    <value>Invalid license key</value>
-    <comment>Invalid license key</comment>
+    <value>Ogiltig licensnyckel</value>
+  <comment>Invalid license key</comment>
   </data>
   <data name="License_InvalidExplanation" xml:space="preserve">
-    <value>Please enter the new license key and press continue to update the license.</value>
-    <comment>Please enter the new license key and press continue to update the license.</comment>
+    <value>Vänligen skriv in den nya licensnyckeln och klicka på fortsätt för att uppdatera licensen.</value>
+  <comment>Please enter the new license key and press continue to update the license.</comment>
   </data>
   <data name="License_License" xml:space="preserve">
-    <value>License</value>
-    <comment>License</comment>
+    <value>Licens</value>
+  <comment>License</comment>
   </data>
   <data name="License_LicenseExplanation" xml:space="preserve">
-    <value>Please enter your license key to continue.</value>
-    <comment>Please enter your license key to continue.</comment>
+    <value>Vänligen skriv in din licensnyckel för att fortsätta.</value>
+  <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
-    <value>Your license is valid forever.</value>
-    <comment>Your license is valid forever.</comment>
+    <value>Din licens är giltig permanent.</value>
+  <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
-    <value>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</value>
-    <comment>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
+    <value>Din licens gäller till och med {0}. Avbryter du inte din prenumeration, så förnyas den automatiskt.</value>
+  <comment>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
     <value>http://example.com/image.jpg</value>
@@ -1125,12 +1125,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>http://example.com</comment>
   </data>
   <data name="LinkEditor_FromComputer" xml:space="preserve">
-    <value>From computer</value>
-    <comment>From computer</comment>
+    <value>Från dator</value>
+  <comment>From computer</comment>
   </data>
   <data name="LinkEditor_FromUrl" xml:space="preserve">
-    <value>From URL</value>
-    <comment>From URL</comment>
+    <value>Från URL</value>
+  <comment>From URL</comment>
   </data>
   <data name="LinkEditor_Large" xml:space="preserve">
     <value>Large</value>
@@ -1141,12 +1141,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Medium</comment>
   </data>
   <data name="LinkEditor_OriginalSize" xml:space="preserve">
-    <value>Original size</value>
-    <comment>Original size</comment>
+    <value>Originalstorlek</value>
+  <comment>Original size</comment>
   </data>
   <data name="LinkEditor_Size" xml:space="preserve">
-    <value>Which size do you prefer?</value>
-    <comment>Which size do you prefer?</comment>
+    <value>Vilken storlek föredrar du?</value>
+  <comment>Which size do you prefer?</comment>
   </data>
   <data name="LinkEditor_Small" xml:space="preserve">
     <value>Small</value>
@@ -1157,8 +1157,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Display text:</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
-    <value>Edit</value>
-    <comment>Edit</comment>
+    <value>Editera</value>
+  <comment>Edit</comment>
   </data>
   <data name="Link_Email" xml:space="preserve">
     <value>Send email to:</value>
@@ -1169,108 +1169,108 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Go to link:</comment>
   </data>
   <data name="Link_Remove" xml:space="preserve">
-    <value>Remove</value>
-    <comment>Remove</comment>
+    <value>Ta bort</value>
+  <comment>Remove</comment>
   </data>
   <data name="MapLabelWindow_Draft" xml:space="preserve">
-    <value>Draft</value>
-    <comment>Draft</comment>
+    <value>Utkast</value>
+  <comment>Draft</comment>
   </data>
   <data name="MapLabelWindow_Important" xml:space="preserve">
-    <value>Important</value>
-    <comment>Important</comment>
+    <value>Viktigt</value>
+  <comment>Important</comment>
   </data>
   <data name="MapLabelWindow_Sent" xml:space="preserve">
-    <value>Sent</value>
-    <comment>Sent</comment>
+    <value>Skickat</value>
+  <comment>Sent</comment>
   </data>
   <data name="MapLabelWindow_Spam" xml:space="preserve">
     <value>Spam</value>
     <comment>Spam</comment>
   </data>
   <data name="MapLabelWindow_Starred" xml:space="preserve">
-    <value>Starred</value>
-    <comment>Starred</comment>
+    <value>Stjärnmärkt</value>
+  <comment>Starred</comment>
   </data>
   <data name="MapLabelWindow_Title" xml:space="preserve">
     <value>Map special labels</value>
     <comment>Map special labels</comment>
   </data>
   <data name="MapLabelWindow_Trash" xml:space="preserve">
-    <value>Trash</value>
-    <comment>Trash</comment>
+    <value>Skräp</value>
+  <comment>Trash</comment>
   </data>
   <data name="Menu_Compose" xml:space="preserve">
-    <value>Compose</value>
-    <comment>Compose</comment>
+    <value>Skriv</value>
+  <comment>Compose</comment>
   </data>
   <data name="Menu_DataDirectory" xml:space="preserve">
     <value>Open data directory</value>
     <comment>Open data directory</comment>
   </data>
   <data name="Menu_Shortcut" xml:space="preserve">
-    <value>Shortcuts</value>
-    <comment>Shortcuts</comment>
+    <value>Genvägar</value>
+  <comment>Shortcuts</comment>
   </data>
   <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Send feedback</value>
-    <comment>Send feedback</comment>
+    <value>Skicka återkoppling</value>
+  <comment>Send feedback</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
     <value>Get support</value>
     <comment>Get support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
-    <value>Invite friends</value>
-    <comment>Invite friends</comment>
+    <value>Bjud in vänner</value>
+  <comment>Invite friends</comment>
   </data>
   <data name="Message_AddAttachments" xml:space="preserve">
-    <value>Add attachment(s)</value>
-    <comment>Add attachment(s)</comment>
+    <value>Lägg till bilaga(or)</value>
+  <comment>Add attachment(s)</comment>
   </data>
   <data name="Message_AlwaysDisplayFrom" xml:space="preserve">
-    <value>Always display from</value>
-    <comment>Always display from</comment>
+    <value>Visa alltid från</value>
+  <comment>Always display from</comment>
   </data>
   <data name="Message_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-    <comment>Cancel</comment>
+    <value>Avbryt</value>
+  <comment>Cancel</comment>
   </data>
   <data name="Message_Date" xml:space="preserve">
     <value>Date</value>
     <comment>Date</comment>
   </data>
   <data name="Message_Detail" xml:space="preserve">
-    <value>Show details</value>
-    <comment>Show details</comment>
+    <value>Visa detaljer</value>
+  <comment>Show details</comment>
   </data>
   <data name="Message_DisplayOnce" xml:space="preserve">
-    <value>Display once</value>
-    <comment>Display once</comment>
+    <value>Visa en gång</value>
+  <comment>Display once</comment>
   </data>
   <data name="Message_DropAsAttachment" xml:space="preserve">
     <value>Drop as Attachment</value>
     <comment>Drop as Attachment</comment>
   </data>
   <data name="Message_DropAsAttachmentExplanation" xml:space="preserve">
-    <value>Files will be attached to the email</value>
-    <comment>Files will be attached to the email</comment>
+    <value>Filer kommer att läggas till i detta mail</value>
+  <comment>Files will be attached to the email</comment>
   </data>
   <data name="Message_EditWindow" xml:space="preserve">
-    <value>Edit in new window</value>
-    <comment>Edit in new window</comment>
+    <value>Ändra i nytt fönster</value>
+  <comment>Edit in new window</comment>
   </data>
   <data name="Message_Find" xml:space="preserve">
-    <value>Find in message</value>
-    <comment>Find in message</comment>
+    <value>Hitta i meddelande</value>
+  <comment>Find in message</comment>
   </data>
   <data name="Message_ForwardedMessage" xml:space="preserve">
-    <value>Forwarded Message</value>
-    <comment>Forwarded Message</comment>
+    <value>Vidarebefordrat Meddelande</value>
+  <comment>Forwarded Message</comment>
   </data>
   <data name="Message_From" xml:space="preserve">
-    <value>From</value>
-    <comment>From</comment>
+    <value>Från</value>
+  <comment>From</comment>
   </data>
   <data name="Message_Fw" xml:space="preserve">
     <value>Fw:</value>
@@ -1285,28 +1285,28 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email in the making.</comment>
   </data>
   <data name="Message_Loading" xml:space="preserve">
-    <value>Loading</value>
-    <comment>Loading</comment>
+    <value>Laddar</value>
+  <comment>Loading</comment>
   </data>
   <data name="Message_On" xml:space="preserve">
     <value>On</value>
     <comment>On</comment>
   </data>
   <data name="Message_OpenLink" xml:space="preserve">
-    <value>Click to open in a new window or tab</value>
-    <comment>Click to open in a new window or tab</comment>
+    <value>Klicka för att öppna i nytt fönster eller flik</value>
+  <comment>Click to open in a new window or tab</comment>
   </data>
   <data name="Message_Options" xml:space="preserve">
     <value>Options</value>
     <comment>Options</comment>
   </data>
   <data name="Message_Print" xml:space="preserve">
-    <value>Print message</value>
-    <comment>Print message</comment>
+    <value>Skriv ut meddelande</value>
+  <comment>Print message</comment>
   </data>
   <data name="Message_QuickReply" xml:space="preserve">
-    <value>Quick reply</value>
-    <comment>Quick reply</comment>
+    <value>Snabbsvar</value>
+  <comment>Quick reply</comment>
   </data>
   <data name="Message_Re" xml:space="preserve">
     <value>Re:</value>
@@ -1317,116 +1317,116 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Remote images are not displayed.</comment>
   </data>
   <data name="Message_Save" xml:space="preserve">
-    <value>Save</value>
-    <comment>Save</comment>
+    <value>Spara</value>
+  <comment>Save</comment>
   </data>
   <data name="Message_SaveAttachment" xml:space="preserve">
-    <value>Save attachment(s)</value>
-    <comment>Save attachment(s)</comment>
+    <value>Spara bilaga(or)</value>
+  <comment>Save attachment(s)</comment>
   </data>
   <data name="Message_Send" xml:space="preserve">
     <value>Send</value>
     <comment>Send</comment>
   </data>
   <data name="Message_SendArchive" xml:space="preserve">
-    <value>Send &amp; Archive</value>
-    <comment>Send &amp; Archive</comment>
+    <value>Skicka &amp; Arkivera</value>
+  <comment>Send &amp; Archive</comment>
   </data>
   <data name="Message_SendEmailTo" xml:space="preserve">
     <value>Send an email to {0}</value>
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Sent at</value>
-    <comment>Sent at</comment>
+    <value>Skickat vid</value>
+  <comment>Sent at</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
-    <value>Show {0} older messages</value>
-    <comment>Show {0} older messages</comment>
+    <value>Visa {0} äldre meddelanden</value>
+  <comment>Show {0} older messages</comment>
   </data>
   <data name="Message_ShowWindow" xml:space="preserve">
-    <value>Show window</value>
-    <comment>Show window</comment>
+    <value>Visa fönster</value>
+  <comment>Show window</comment>
   </data>
   <data name="Message_Subject" xml:space="preserve">
-    <value>Subject</value>
-    <comment>Subject</comment>
+    <value>Ämne</value>
+  <comment>Subject</comment>
   </data>
   <data name="Message_Wrote" xml:space="preserve">
-    <value>wrote</value>
-    <comment>wrote</comment>
+    <value>skrev</value>
+  <comment>wrote</comment>
   </data>
   <data name="Migration_Updating" xml:space="preserve">
-    <value>Updating database... please wait</value>
-    <comment>Updating database... please wait</comment>
+    <value>Uppdaterar databas... vänligen vänta</value>
+  <comment>Updating database... please wait</comment>
   </data>
   <data name="NewMessages_BaloonHeader" xml:space="preserve">
-    <value>{0} new messages</value>
-    <comment>{0} new messages</comment>
+    <value>{0} nya medelanden</value>
+  <comment>{0} new messages</comment>
   </data>
   <data name="NewMessages_BaloonSubHeader" xml:space="preserve">
-    <value>in {0} conversations</value>
-    <comment>in {0} conversations</comment>
+    <value>i {0} konversationer</value>
+  <comment>in {0} conversations</comment>
   </data>
   <data name="NewMessage_EmptySubject" xml:space="preserve">
-    <value>Empty Subject</value>
-    <comment>Empty Subject</comment>
+    <value>Inget Ämne</value>
+  <comment>Empty Subject</comment>
   </data>
   <data name="NewMessage_NewMessage" xml:space="preserve">
-    <value>{0} New Message(s)</value>
-    <comment>{0} will be replaced by the number of new messages, so the result will be "2 New Message(s)"</comment>
+    <value>{0} Nytt(a) Meddelande(n)</value>
+  <comment>{0} will be replaced by the number of new messages, so the result will be "2 New Message(s)"</comment>
   </data>
   <data name="NewMessage_NoName" xml:space="preserve">
     <value>No Name</value>
     <comment>No Name</comment>
   </data>
   <data name="Notification_ArchiveFail" xml:space="preserve">
-    <value>Conversation already archived</value>
-    <comment>Conversation already archived</comment>
+    <value>Konversationen är redan arkiverad</value>
+  <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} Conversations archived</value>
-    <comment>{0} Conversations archived</comment>
+    <value>{0} Konversationer arkiverade</value>
+  <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
-    <value>Conversation archived</value>
-    <comment>Conversation archived</comment>
+    <value>Konversation arkiverad</value>
+  <comment>Conversation archived</comment>
   </data>
   <data name="Notification_DeleteMany" xml:space="preserve">
-    <value>{0} Conversations deleted permanently</value>
-    <comment>{0} Conversation deleted permanently</comment>
+    <value>{0} Konversationer permanent borttagna</value>
+  <comment>{0} Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DeleteSingle" xml:space="preserve">
-    <value>Conversation deleted permanently</value>
-    <comment>Conversation deleted permanently</comment>
+    <value>Konversationen är permanent raderad</value>
+  <comment>Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DiscardMany" xml:space="preserve">
-    <value>{0} Drafts discarded</value>
-    <comment>{0} Drafts discarded</comment>
+    <value>{0} Utkast makulerade</value>
+  <comment>{0} Drafts discarded</comment>
   </data>
   <data name="Notification_DiscardSingle" xml:space="preserve">
-    <value>Draft discarded</value>
-    <comment>Draft discarded</comment>
+    <value>Utkast makulerat</value>
+  <comment>Draft discarded</comment>
   </data>
   <data name="Notification_MailbirdWaiting" xml:space="preserve">
     <value>Your Mailbird is right here waiting for you.</value>
     <comment>Your Mailbird is right here waiting for you.</comment>
   </data>
   <data name="Notification_Press" xml:space="preserve">
-    <value>Press {0} to write a new email anytime.</value>
-    <comment>Press {0} to write a new email anytime.</comment>
+    <value>Tryck {0} närsomhelst för att skriva ett nytt email</value>
+  <comment>Press {0} to write a new email anytime.</comment>
   </data>
   <data name="Notification_ReturnToEmail" xml:space="preserve">
-    <value>Click here anytime to return to your email.</value>
-    <comment>Click here anytime to return to your email.</comment>
+    <value>Klicka här när som helst för att återgå till ditt email.</value>
+  <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
-    <value>{0} Conversations trashed</value>
-    <comment>{0} Conversations trashed</comment>
+    <value>{0} Konversationer kastade</value>
+  <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
-    <value>Conversation trashed</value>
-    <comment>Conversation trashed</comment>
+    <value>Konversation kastad</value>
+  <comment>Conversation trashed</comment>
   </data>
   <data name="Notification_Undo" xml:space="preserve">
     <value>Undo</value>
