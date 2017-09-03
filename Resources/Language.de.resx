@@ -310,12 +310,12 @@
     <comment>To</comment>
   </data>
   <data name="Conversation_Trash" xml:space="preserve">
-    <value>Löschen1</value>
+    <value>Löschen</value>
   <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
-    <value>Das Schließen des Dialogs während des Sendeprozesses wird das Senden abbrechen. Möchten Sie das Fenster wirklich schließen?</value>
-    <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
+    <value>Das Schließen des Dialogs während des Sendens wird das Übermitteln des Berichts abbrechen. Möchten Sie das Fenster wirklich schließen?</value>
+  <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
   </data>
   <data name="Dialog_AlreadyAttached" xml:space="preserve">
     <value>Bereits angehängt</value>
@@ -338,8 +338,8 @@
     <comment>Cancel</comment>
   </data>
   <data name="Dialog_Stop" xml:space="preserve">
-    <value>Stopp</value>
-    <comment>Stop</comment>
+    <value>Anhalten</value>
+  <comment>Stop</comment>
   </data>
   <data name="Dialog_CantRemoveIdentity" xml:space="preserve">
     <value>Identität konnte nicht entfernt werden</value>
@@ -354,8 +354,8 @@
     <comment>Could not retrieve access</comment>
   </data>
   <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
-    <value>Der Facebook-Zugangs-Authentifizierung konnte nicht abgerufen werden. Bitte erneut versuchen.</value>
-    <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
+    <value>Die Facebook-Zugangs-Authentifizierung konnte nicht abgerufen werden. Bitte erneut versuchen.</value>
+  <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
   </data>
   <data name="Dialog_CantSave" xml:space="preserve">
     <value>Datei konnte nicht gespeichert werden</value>
@@ -390,8 +390,8 @@ Url: {1}</comment>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>Eine Identität mit derselben E-Mail Adresse existiert bereits.</value>
-    <comment>An identity with the same email address already exists.</comment>
+    <value>Eine Identität mit dieser E-Mail Adresse bereits vorhanden.</value>
+  <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
     <value>Nachrichten werden gesendet</value>
@@ -420,8 +420,8 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
-    <value>Bitte warten</value>
-    <comment>Loading</comment>
+    <value>Wird geladen</value>
+  <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
     <value>Verknüpfungen lokaler Dateien senden?</value>
@@ -436,8 +436,8 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No</comment>
   </data>
   <data name="Dialog_NoBrowser" xml:space="preserve">
-    <value>Keinen Standardbrowser gefunden</value>
-    <comment>No default browser found</comment>
+    <value>Kein Standardbrowser gefunden</value>
+  <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
     <value>Die Adresse konnte nicht geöffnet werden. Bitte überprüfen, ob Ihr Standardbrowser korrekt installiert ist und versuchen Sie ihn gegebenenfalls neu zu installieren.</value>
@@ -454,8 +454,8 @@ Do you want to reconnect your Facebook?</comment>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
     <value>Möchten Sie dieses Konto und alle damit verbundenen Identitäten wirklich löschen?
 
-Hierdurch wird Mailbird neu gestartet, was einige Minuten dauern könnte.</value>
-    <comment>Are you sure you want to remove the account and all connected identities?
+Dadurch wird Mailbird neu gestartet, was einige Minuten dauern könnte.</value>
+  <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
   </data>
@@ -526,8 +526,8 @@ Message:</comment>
     <comment>SMTP connection success</comment>
   </data>
   <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
-    <value>Die Verbindung zum SMTP-Server wurde erfolgreich hergestellt. Alles scheint in Ordnung zu sein.</value>
-    <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
+    <value>Die Verbindung zum SMTP-Server wurde erfolgreich hergestellt.</value>
+  <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
   </data>
   <data name="Dialog_Thanks" xml:space="preserve">
     <value>Danke!</value>
@@ -596,8 +596,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit account</comment>
   </data>
   <data name="Account_Email" xml:space="preserve">
-    <value>E-Mail:</value>
-    <comment>Email:</comment>
+    <value>E-Mail-Adresse:</value>
+  <comment>Email:</comment>
   </data>
   <data name="Account_Name" xml:space="preserve">
     <value>Ihr Name:</value>
@@ -3514,20 +3514,20 @@ Sind Sie sicher, dass Sie abbrechen möchten?</value>
     <comment>Snoozed</comment>
   </data>
   <data name="Notification_FirstSnoozeHeader" xml:space="preserve">
-    <value>Sie haben gerade eine Nachricht zum „Später lesen“ ausgewählt!</value>
-    <comment>You just snoozed a message!</comment>
+    <value>Sie haben gerade eine Nachricht zum „Später lesen” ausgewählt!</value>
+  <comment>You just snoozed a message!</comment>
   </data>
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
-    <value>Mailbird hat die Nachricht in den Ordner „Später lesen“ verschoben, damit Sie sich später darum kümmern können. Sie wird wieder im Posteingang ganz oben aufgeführt, so dass Sie sie einfach finden können. Sie verbleibt dort, bis sie gelesen wurde.
+    <value>Mailbird hat die Nachricht in den Ordner „Später lesen” verschoben, damit Sie sich später darum kümmern können. Sie wird wieder im Posteingang ganz oben aufgeführt, so dass Sie sie einfach finden können. Sie verbleibt dort, bis sie gelesen wurde.
 
 Beachten Sie, dass Mailbird ausgeführt werden muss, damit die Nachricht zurück verschoben werden kann. Wenn dies nicht der Fall ist, wird die Nachricht beim nächsten Start von Mailbird zurückgesetzt.</value>
-    <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
+  <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
 
 Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</comment>
   </data>
   <data name="Options_Snoozes" xml:space="preserve">
-    <value>„Später lesen“-Erinnerungen</value>
-    <comment>Snoozes</comment>
+    <value>Einstellungen für: Später lesen</value>
+  <comment>Snoozes</comment>
   </data>
   <data name="Options_Snooze_EndWorkdayAt" xml:space="preserve">
     <value>Mein Arbeitstag endet um</value>
@@ -3614,8 +3614,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Snooze</comment>
   </data>
   <data name="Upgrade_Snooze" xml:space="preserve">
-    <value>Sie erhalten die Funktion „Später lesen“ und viele weitere, um Ihre Produktivität zu steigern.</value>
-    <comment>Get Snooze and many other features to boost your productivity.</comment>
+    <value>Sie erhalten die Funktion „Später lesen” und viele weitere, um Ihre Produktivität zu steigern.</value>
+  <comment>Get Snooze and many other features to boost your productivity.</comment>
   </data>
   <data name="Welcome_MoreAccounts_Header" xml:space="preserve">
     <value>Möchten Sie weitere E-Mail-Konten hinzufügen?</value>
@@ -3634,8 +3634,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Activate Licence</comment>
   </data>
   <data name="Snooze_SnoozedUntil" xml:space="preserve">
-    <value>Zum „Später lesen“ ausgewählt bis {0}</value>
-    <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
+    <value>Zum „Später lesen” ausgewählt bis {0}</value>
+  <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
     <value>Das Empfängerfeld wird automatisch geschlossen, wenn es keine E-Mail-Adresse enthält</value>
@@ -3702,8 +3702,8 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Composing</comment>
   </data>
   <data name="Options_Snooze_Preferences" xml:space="preserve">
-    <value>„Später lesen“-Einstellungen</value>
-    <comment>Snooze preferences</comment>
+    <value>„Später lesen”-Einstellungen</value>
+  <comment>Snooze preferences</comment>
   </data>
   <data name="Options_Snooze_Weekly_Schedule" xml:space="preserve">
     <value>Ihre wöchentlichen Termine</value>
@@ -4041,13 +4041,15 @@ You can disable the unified account from the options, or edit each of your accou
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
     <value>Bitte konfiguriere Sie Ihr Konto so, dass anstelle des Benutzernamens und Passwortes, OAuth 2.0 Authentifizierung verwendet wird. Oder erlauben Sie den Zugriff für weniger sichere Apps in Gmail.
+{0}
+
 https://mailbird.zendesk.com/entries/53544244
 https://www.google.com/settings/security/lesssecureapps
 https://support.google.com/accounts/answer/6010255?hl=de
 
 Wenn das Problem weiterhin besteht, klicken Sie auf diesen Link für weitere Lösungsvorschläge:
 https://support.google.com/mail/accounts/answer/78754</value>
-    <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
+  <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 If the issue persists, please follow this for further troubleshooting:
