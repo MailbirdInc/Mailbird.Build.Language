@@ -63,7 +63,7 @@
   <comment>Open</comment>
   </data>
   <data name="Attachment_QuickPreview" xml:space="preserve">
-    <value>Snabbt förhandsvisning</value>
+    <value>Förhandsvisning</value>
   <comment>Quick preview</comment>
   </data>
   <data name="Attachment_Remove" xml:space="preserve">
@@ -83,7 +83,7 @@
   <comment>Copy</comment>
   </data>
   <data name="Awesomium_CopyEmail" xml:space="preserve">
-    <value>Kopiera mejladress</value>
+    <value>Kopiera epostadress</value>
   <comment>Copy email address</comment>
   </data>
   <data name="Awesomium_CopyHtml" xml:space="preserve">
@@ -103,7 +103,7 @@
   <comment>Copy link address</comment>
   </data>
   <data name="Awesomium_Cut" xml:space="preserve">
-    <value>Klippa ut</value>
+    <value>Klipp ut</value>
   <comment>Cut</comment>
   </data>
   <data name="Awesomium_Ignore" xml:space="preserve">
@@ -127,7 +127,7 @@
   <comment>Select all</comment>
   </data>
   <data name="Contact_Copy" xml:space="preserve">
-    <value>Kopiera mejl</value>
+    <value>Kopiera epost</value>
   <comment>Copy email</comment>
   </data>
   <data name="Contact_CopyMailName" xml:space="preserve">
@@ -135,7 +135,7 @@
   <comment>Copy name and email</comment>
   </data>
   <data name="Contact_NewMail" xml:space="preserve">
-    <value>Skicka nytt mejl</value>
+    <value>Skicka ny epost</value>
   <comment>Send new mail</comment>
   </data>
   <data name="Conversation_Archive" xml:space="preserve">
@@ -155,7 +155,7 @@
   <comment>Draft</comment>
   </data>
   <data name="Conversation_EmptyFolder" xml:space="preserve">
-    <value>Tomma mappen</value>
+    <value>Töm mappen</value>
   <comment>Empty folder</comment>
   </data>
   <data name="Conversation_Forward" xml:space="preserve">
@@ -227,7 +227,7 @@
   <comment>Print conversation</comment>
   </data>
   <data name="Conversation_Reply" xml:space="preserve">
-    <value>Svara</value>
+    <value>Svar</value>
   <comment>Reply</comment>
   </data>
   <data name="Conversation_ReplyAll" xml:space="preserve">
@@ -267,7 +267,7 @@
   <comment>You can't add file that is already attached.</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloaded" xml:space="preserve">
-    <value>Bilaga (-or) är inte nedladdad</value>
+    <value>Bilaga (-or) ej nedladdade</value>
   <comment>Attachment(s) not downloaded</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
@@ -303,7 +303,7 @@
   <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Filen '{0}' kunde inte sparas för att filen är används.</value>
+    <value>Filen '{0}' kunde inte sparas. Filen öppen i annat fönster.</value>
   <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -347,8 +347,8 @@ Url: {1}</comment>
   <comment>Facebook connect</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
-    <value>Vi måste återigen autentisera hos Facebook.
-Vill du återansluta din Facebook?</value>
+    <value>Vi behöver verifiera behörigheten hos Facebook.
+Vill du återansluta ditt Facebook konto?</value>
   <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
   </data>
@@ -873,8 +873,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Trash</comment>
   </data>
   <data name="AppStore_Title" xml:space="preserve">
-    <value>Add-ons</value>
-    <comment>Apps</comment>
+    <value>Tillägg</value>
+  <comment>Apps</comment>
   </data>
   <data name="Conversation_ShowSource" xml:space="preserve">
     <value>Meddelandekälla</value>
@@ -997,8 +997,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Feedback</comment>
   </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
-    <value>Quickly navigate to your important documents from Mailbird.</value>
-    <comment>Quickly navigate to your important documents from Mailbird.</comment>
+    <value>Navigera enkelt till dina viktiga dokument med hjälp av Mailbird.</value>
+  <comment>Quickly navigate to your important documents from Mailbird.</comment>
   </data>
   <data name="App_Lifehacker_Description" xml:space="preserve">
     <value>Curates tips, tricks, and technology for living better in the digital age.</value>
@@ -1009,8 +1009,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Easily search and find lost photos in your emails.</comment>
   </data>
   <data name="App_RetroSift_Title" xml:space="preserve">
-    <value>Lost Photos</value>
-    <comment>Lost Photos</comment>
+    <value>Borttappade foton</value>
+  <comment>Lost Photos</comment>
   </data>
   <data name="App_Support_Description" xml:space="preserve">
     <value>A place to get help from our Mailbird staff.</value>
@@ -1021,8 +1021,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
-    <value>Paste file(s) as attachment</value>
-    <comment>Paste file(s) as attachment</comment>
+    <value>Klistra in fil(er) som bilaga(or)</value>
+  <comment>Paste file(s) as attachment</comment>
   </data>
   <data name="InboxZero_HighFive" xml:space="preserve">
     <value>High-five från teamet på Mailbird!</value>
@@ -1037,24 +1037,24 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Ahhh... that feels good.</comment>
   </data>
   <data name="InboxZero_TrueInspiration" xml:space="preserve">
-    <value>You're a true inspiration!</value>
-    <comment>You're a true inspiration!</comment>
+    <value>Du är en sann inspiration!</value>
+  <comment>You're a true inspiration!</comment>
   </data>
   <data name="InboxZero_HowIsDone" xml:space="preserve">
-    <value>Now that's how it's done!</value>
-    <comment>Now that's how it's done!</comment>
+    <value>Sådär! Så ska det se ut!</value>
+  <comment>Now that's how it's done!</comment>
   </data>
   <data name="InboxZero_Flying" xml:space="preserve">
-    <value>Wow. You're flying!</value>
-    <comment>Wow. You're flying!</comment>
+    <value>Wow. Vilket ess!</value>
+  <comment>Wow. You're flying!</comment>
   </data>
   <data name="InboxZero_Rock" xml:space="preserve">
     <value>Där har du beviset. Du äger!</value>
   <comment>There's the proof. You rock!</comment>
   </data>
   <data name="InboxZero_RockStar" xml:space="preserve">
-    <value>You're an email rockstar!</value>
-    <comment>You're an email rockstar!!</comment>
+    <value>Du är epostens rockstjärna!</value>
+  <comment>You're an email rockstar!!</comment>
   </data>
   <data name="License_CorrectComputerDate" xml:space="preserve">
     <value>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</value>
@@ -1117,8 +1117,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>C:\users\picture\image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink2" xml:space="preserve">
-    <value>email@example.com</value>
-    <comment>email@example.com</comment>
+    <value>epost@domän.se</value>
+  <comment>email@example.com</comment>
   </data>
   <data name="LinkEditor_ExampleLink3" xml:space="preserve">
     <value>http://example.com</value>
@@ -1133,12 +1133,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>From URL</comment>
   </data>
   <data name="LinkEditor_Large" xml:space="preserve">
-    <value>Large</value>
-    <comment>Large</comment>
+    <value>Stor</value>
+  <comment>Large</comment>
   </data>
   <data name="LinkEditor_Medium" xml:space="preserve">
-    <value>Medium</value>
-    <comment>Medium</comment>
+    <value>Mellan</value>
+  <comment>Medium</comment>
   </data>
   <data name="LinkEditor_OriginalSize" xml:space="preserve">
     <value>Originalstorlek</value>
@@ -1149,12 +1149,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Which size do you prefer?</comment>
   </data>
   <data name="LinkEditor_Small" xml:space="preserve">
-    <value>Small</value>
-    <comment>Small</comment>
+    <value>Liten</value>
+  <comment>Small</comment>
   </data>
   <data name="LinkEditor_TextToDisplay" xml:space="preserve">
-    <value>Display text:</value>
-    <comment>Display text:</comment>
+    <value>Visa text:</value>
+  <comment>Display text:</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
     <value>Editera</value>
@@ -1205,11 +1205,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Compose</comment>
   </data>
   <data name="Menu_DataDirectory" xml:space="preserve">
-    <value>Open data directory</value>
-    <comment>Open data directory</comment>
+    <value>Öppna datakatalogen</value>
+  <comment>Open data directory</comment>
   </data>
   <data name="Menu_Shortcut" xml:space="preserve">
-    <value>Genvägar</value>
+    <value>Snabbkommandon</value>
   <comment>Shortcuts</comment>
   </data>
   <data name="Menu_Suggestions" xml:space="preserve">
@@ -1217,8 +1217,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Send feedback</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Get support</value>
-    <comment>Get support</comment>
+    <value>Kontakta support</value>
+  <comment>Get support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
     <value>Bjud in vänner</value>
@@ -1249,8 +1249,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Display once</comment>
   </data>
   <data name="Message_DropAsAttachment" xml:space="preserve">
-    <value>Drop as Attachment</value>
-    <comment>Drop as Attachment</comment>
+    <value>Släpp som bilaga</value>
+  <comment>Drop as Attachment</comment>
   </data>
   <data name="Message_DropAsAttachmentExplanation" xml:space="preserve">
     <value>Filer kommer att läggas till i detta mail</value>
@@ -1281,8 +1281,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Fwd:</comment>
   </data>
   <data name="Message_InMaking" xml:space="preserve">
-    <value>Email in the making.</value>
-    <comment>Email in the making.</comment>
+    <value>Epost produceras.</value>
+  <comment>Email in the making.</comment>
   </data>
   <data name="Message_Loading" xml:space="preserve">
     <value>Laddar</value>
@@ -1409,15 +1409,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Draft discarded</comment>
   </data>
   <data name="Notification_MailbirdWaiting" xml:space="preserve">
-    <value>Your Mailbird is right here waiting for you.</value>
-    <comment>Your Mailbird is right here waiting for you.</comment>
+    <value>Din Mailbird sitter här och väntar på dig.</value>
+  <comment>Your Mailbird is right here waiting for you.</comment>
   </data>
   <data name="Notification_Press" xml:space="preserve">
-    <value>Tryck {0} närsomhelst för att skriva ett nytt email</value>
+    <value>Tryck {0} närsomhelst för att skriva ny epost.</value>
   <comment>Press {0} to write a new email anytime.</comment>
   </data>
   <data name="Notification_ReturnToEmail" xml:space="preserve">
-    <value>Klicka här när som helst för att återgå till ditt email.</value>
+    <value>Klicka här när som helst för att återgå till din epost.</value>
   <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
@@ -1429,24 +1429,24 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Conversation trashed</comment>
   </data>
   <data name="Notification_Undo" xml:space="preserve">
-    <value>Undo</value>
-    <comment>Undo</comment>
+    <value>Gör om</value>
+  <comment>Undo</comment>
   </data>
   <data name="Options_About" xml:space="preserve">
-    <value>About Mailbird</value>
-    <comment>About Mailbird</comment>
+    <value>Om Mailbird</value>
+  <comment>About Mailbird</comment>
   </data>
   <data name="Options_Policy" xml:space="preserve">
-    <value>View privacy policy</value>
-    <comment>View privacy policy</comment>
+    <value>Visa sekretesspolicy</value>
+  <comment>View privacy policy</comment>
   </data>
   <data name="Options_Accounts" xml:space="preserve">
-    <value>Accounts</value>
-    <comment>Accounts</comment>
+    <value>Konton</value>
+  <comment>Accounts</comment>
   </data>
   <data name="Options_Advanced" xml:space="preserve">
-    <value>Advanced</value>
-    <comment>Advanced</comment>
+    <value>Avancerat</value>
+  <comment>Advanced</comment>
   </data>
   <data name="Options_AlwaysDownloadImage" xml:space="preserve">
     <value>Always show remote images</value>
@@ -1461,36 +1461,36 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Attachment auto-download limit:</comment>
   </data>
   <data name="Options_AutoDownloadExplanation" xml:space="preserve">
-    <value>Automatically download attachments smaller than the chosen size.</value>
-    <comment>Automatically download attachments smaller than the chosen size.</comment>
+    <value>Automatisk nedladdning av bilagor som är mindre än inställd filstorlek.</value>
+  <comment>Automatically download attachments smaller than the chosen size.</comment>
   </data>
   <data name="Options_AutomaticUpdate" xml:space="preserve">
-    <value>Automatically check for updates</value>
-    <comment>Automatically check for updates</comment>
+    <value>Automatisk sökning efter uppdateringar</value>
+  <comment>Automatically check for updates</comment>
   </data>
   <data name="Options_AutoSelectOnArchive" xml:space="preserve">
-    <value>Auto-select next conversation when archiving</value>
-    <comment>Auto-select next conversation when archiving</comment>
+    <value>Gå till nästa konversation automatiskt efter arkivering</value>
+  <comment>Auto-select next conversation when archiving</comment>
   </data>
   <data name="Options_CheckUpdate" xml:space="preserve">
-    <value>Check for updates now</value>
-    <comment>Check for updates now</comment>
+    <value>Sök efter uppdateringar</value>
+  <comment>Check for updates now</comment>
   </data>
   <data name="Options_DefaultApplication" xml:space="preserve">
-    <value>Default email application</value>
-    <comment>Default email application</comment>
+    <value>Vald epostapplikation</value>
+  <comment>Default email application</comment>
   </data>
   <data name="Options_DefaultIdentity" xml:space="preserve">
     <value>(Default)</value>
     <comment>(Default)</comment>
   </data>
   <data name="Options_DefaultNotification" xml:space="preserve">
-    <value>Tell me if Mailbird is not the default email client</value>
-    <comment>Tell me if Mailbird is not the default email client</comment>
+    <value>Meddela mig om Mailbird inte är den förvalda epostklienten</value>
+  <comment>Tell me if Mailbird is not the default email client</comment>
   </data>
   <data name="Options_DownloadOnDemand" xml:space="preserve">
-    <value>Download messages on demand</value>
-    <comment>Download messages on demand</comment>
+    <value>Ladda ner meddelanden efter begäran</value>
+  <comment>Download messages on demand</comment>
   </data>
   <data name="Options_Facebook" xml:space="preserve">
     <value>Facebook</value>
@@ -1501,8 +1501,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Go social. See profile pictures and contact information of your friends.</comment>
   </data>
   <data name="Options_FacebookExplanation1" xml:space="preserve">
-    <value>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</value>
-    <comment>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</comment>
+    <value>Ditt Facebookkonto är nu kopplat. Foton och kontakter uppdateras automatiskt i Mailbird.</value>
+  <comment>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</comment>
   </data>
   <data name="Options_ZoomLevel" xml:space="preserve">
     <value>Zoom level</value>
@@ -1513,96 +1513,96 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>General</comment>
   </data>
   <data name="Options_Appearance" xml:space="preserve">
-    <value>Appearance</value>
-    <comment>Appearance</comment>
+    <value>Utseende</value>
+  <comment>Appearance</comment>
   </data>
   <data name="Options_GroupUnread" xml:space="preserve">
-    <value>Group unread conversations at the top</value>
-    <comment>Group unread conversations at the top</comment>
+    <value>Samla olästa meddelanden överst</value>
+  <comment>Group unread conversations at the top</comment>
   </data>
   <data name="Options_HideIcon" xml:space="preserve">
-    <value>Hide taskbar icon when minimized</value>
-    <comment>Hide taskbar icon when minimized</comment>
+    <value>Göm ikonen för verktygsfältet i minimerat läge</value>
+  <comment>Hide taskbar icon when minimized</comment>
   </data>
   <data name="Options_Identities" xml:space="preserve">
-    <value>Identities</value>
-    <comment>Identities</comment>
+    <value>Identiteter</value>
+  <comment>Identities</comment>
   </data>
   <data name="Options_Identities_and_Signatures" xml:space="preserve">
-    <value>Identities &amp; Signatures</value>
-    <comment>Identities &amp; Signatures</comment>
+    <value>Identiteter &amp; Signaturer</value>
+  <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>Show "important mail" indicator</value>
-    <comment>Show "important mail" indicator</comment>
+    <value>Visa indikator för "Viktig epost"</value>
+  <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
     <value>In-line reply intro text</value>
     <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
-    <value>Mailbird is the default email client</value>
-    <comment>Mailbird is the default email client</comment>
+    <value>Mailbird är förvalda epostklient</value>
+  <comment>Mailbird is the default email client</comment>
   </data>
   <data name="Options_FoldersFor" xml:space="preserve">
-    <value>Folders for:</value>
-    <comment>Folders for:</comment>
+    <value>Mappar för:</value>
+  <comment>Folders for:</comment>
   </data>
   <data name="Options_License" xml:space="preserve">
-    <value>Change license key</value>
-    <comment>Change license key</comment>
+    <value>Ändra licensnyckel</value>
+  <comment>Change license key</comment>
   </data>
   <data name="Options_EditSignatures" xml:space="preserve">
-    <value>Edit signatures</value>
-    <comment>Edit signatures</comment>
+    <value>Edititera signaturer</value>
+  <comment>Edit signatures</comment>
   </data>
   <data name="Options_MessagePreview" xml:space="preserve">
     <value>Show message previews in conversation view</value>
     <comment>Show message previews in conversation view</comment>
   </data>
   <data name="Options_NotDefault" xml:space="preserve">
-    <value>Mailbird is not the default email client</value>
-    <comment>Mailbird is not the default email client</comment>
+    <value>Mailbird är inte standardklient för epost</value>
+  <comment>Mailbird is not the default email client</comment>
   </data>
   <data name="Options_Notifications" xml:space="preserve">
-    <value>Notifications</value>
-    <comment>Notifications</comment>
+    <value>Meddelanden</value>
+  <comment>Notifications</comment>
   </data>
   <data name="Options_Performance" xml:space="preserve">
     <value>Performance</value>
     <comment>Performance</comment>
   </data>
   <data name="Options_QuickCompose" xml:space="preserve">
-    <value>Quick compose shortcut</value>
-    <comment>Quick compose shortcut</comment>
+    <value>Snabbkommando för snabbt utkast</value>
+  <comment>Quick compose shortcut</comment>
   </data>
   <data name="Options_QuickComposeExplanation" xml:space="preserve">
-    <value>By setting this shortcut, you'll be able to compose email even if Mailbird is minimized.</value>
-    <comment>By setting this shortcut, you'll be able to compose email even if Mailbird is minimized.</comment>
+    <value>Genom att ställa in det här snabbkommandot kommer du att kunna skriva epost även om Mailbird är minimerat.</value>
+  <comment>By setting this shortcut, you'll be able to compose email even if Mailbird is minimized.</comment>
   </data>
   <data name="Options_QuickComposeExplanation1" xml:space="preserve">
-    <value>Compose even when Mailbird is closed.</value>
-    <comment>Compose even when Mailbird is closed.</comment>
+    <value>Komponera epost även fast Mailbird är stängt.</value>
+  <comment>Compose even when Mailbird is closed.</comment>
   </data>
   <data name="Options_QuitOnClose" xml:space="preserve">
-    <value>Quit Mailbird on close</value>
-    <comment>Quit Mailbird on close</comment>
+    <value>Avsluta Mailbird när du stänger ner det</value>
+  <comment>Quit Mailbird on close</comment>
   </data>
   <data name="Options_RecordShortcut" xml:space="preserve">
     <value>Click to record</value>
     <comment>Click to record</comment>
   </data>
   <data name="Options_RecordShortcut1" xml:space="preserve">
-    <value>Click to create shortcut</value>
-    <comment>Click to create shortcut</comment>
+    <value>Klicka för att skapa ett snabbkommando</value>
+  <comment>Click to create shortcut</comment>
   </data>
   <data name="Options_SendArchive" xml:space="preserve">
-    <value>Send &amp; Archive</value>
-    <comment>Send &amp; Archive</comment>
+    <value>Skicka &amp; Arkivera</value>
+  <comment>Send &amp; Archive</comment>
   </data>
   <data name="Options_SetDefault" xml:space="preserve">
-    <value>Set as default</value>
-    <comment>Set as default</comment>
+    <value>Välj som förval</value>
+  <comment>Set as default</comment>
   </data>
   <data name="Options_LayoutThemeColor" xml:space="preserve">
     <value>Layout and theme color</value>
@@ -1613,44 +1613,44 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Choose theme color</comment>
   </data>
   <data name="Options_ShowAnimations" xml:space="preserve">
-    <value>Show animations</value>
-    <comment>Show animations</comment>
+    <value>Visa animationer</value>
+  <comment>Show animations</comment>
   </data>
   <data name="Options_DisableDirectWrite" xml:space="preserve">
     <value>Disable DirectWrite</value>
     <comment>Disable DirectWrite</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Show send &amp; archive button</value>
-    <comment>Show send &amp; archive button</comment>
+    <value>Visa knapp för skicka &amp; arkivera</value>
+  <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
     <value>Force software rendering</value>
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>New message sound:</value>
-    <comment>New message sound:</comment>
+    <value>Ljud för nytt meddelande:</value>
+  <comment>New message sound:</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
-    <value>Start minimized</value>
-    <comment>Start minimized</comment>
+    <value>Starta i minimerat läge</value>
+  <comment>Start minimized</comment>
   </data>
   <data name="Options_StartStartup" xml:space="preserve">
-    <value>Run on Windows startup</value>
-    <comment>Run on Windows startup</comment>
+    <value>Starta med Windows</value>
+  <comment>Run on Windows startup</comment>
   </data>
   <data name="Options_SyncBehavior" xml:space="preserve">
-    <value>Sync behavior</value>
-    <comment>Sync behavior</comment>
+    <value>Beteende för synkronisering</value>
+  <comment>Sync behavior</comment>
   </data>
   <data name="Options_SyncWithServer" xml:space="preserve">
-    <value>Sync with server</value>
-    <comment>Sync with server</comment>
+    <value>Synka med server</value>
+  <comment>Sync with server</comment>
   </data>
   <data name="Options_SyncWithServer1" xml:space="preserve">
-    <value>Syncing..</value>
-    <comment>Syncing..</comment>
+    <value>Synkroniserar..</value>
+  <comment>Syncing..</comment>
   </data>
   <data name="Options_TrayNotification" xml:space="preserve">
     <value>Show tray notification when receiving a message</value>
@@ -1665,12 +1665,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show unread count in taskbar &amp; system tray</comment>
   </data>
   <data name="Options_Updates" xml:space="preserve">
-    <value>Updates</value>
-    <comment>Updates</comment>
+    <value>Uppdateringar</value>
+  <comment>Updates</comment>
   </data>
   <data name="Options_UseGmailShortcut" xml:space="preserve">
-    <value>Use Gmail keyboard shortcuts</value>
-    <comment>Use Gmail keyboard shortcuts</comment>
+    <value>Använd Gmails snabbkommandon</value>
+  <comment>Use Gmail keyboard shortcuts</comment>
   </data>
   <data name="Options_VersionHistory" xml:space="preserve">
     <value>View version history</value>
@@ -1833,24 +1833,24 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Forwards a message.</comment>
   </data>
   <data name="Shortcut_Gmail" xml:space="preserve">
-    <value>AVAILABLE GMAIL SHORTCUTS</value>
-    <comment>AVAILABLE GMAIL SHORTCUTS</comment>
+    <value>TILLGÄNGLIGA GMAIL SNABBKOMMANDON</value>
+  <comment>AVAILABLE GMAIL SHORTCUTS</comment>
   </data>
   <data name="Shortcut_GmailExplanation" xml:space="preserve">
     <value>Enable the following GMail shortcuts below from the Mailbird settings window.</value>
     <comment>Enable the following GMail shortcuts below from the Mailbird settings window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
-    <value>Show keyboard shortcuts help</value>
-    <comment>Show keyboard shortcuts help</comment>
+    <value>Visa hjälp för snabbkommandon</value>
+  <comment>Show keyboard shortcuts help</comment>
   </data>
   <data name="Shortcut_HelpExplanation" xml:space="preserve">
     <value>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</value>
     <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
   </data>
   <data name="Shortcut_ImportantExplanation" xml:space="preserve">
-    <value>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</value>
-    <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
+    <value>Hjälper Gmail att identifiera vad som är viktigt för dig genom att markera felkategoriserade meddelanden. (Specifikt för prioriterad inkorg)</value>
+  <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_MoreAction" xml:space="preserve">
     <value>Show more actions</value>
@@ -2021,8 +2021,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show Mailbird</comment>
   </data>
   <data name="Shortcut_ShowMailbirdExplanation" xml:space="preserve">
-    <value>Bring Mailbird to foreground.</value>
-    <comment>Bring Mailbird to foreground.</comment>
+    <value>Flytta Mailbird till förgrunden.</value>
+  <comment>Bring Mailbird to foreground.</comment>
   </data>
   <data name="Shortcut_Star" xml:space="preserve">
     <value>Star a message or conversation</value>
@@ -2077,8 +2077,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Navigate up/down in the focused list of conversations or messages.</comment>
   </data>
   <data name="WebBrowser_Back" xml:space="preserve">
-    <value>Back</value>
-    <comment>Back</comment>
+    <value>Tillbaka</value>
+  <comment>Back</comment>
   </data>
   <data name="WebBrowser_Forward" xml:space="preserve">
     <value>Forward</value>
@@ -2417,16 +2417,16 @@ If you intend to reinstall Mailbird, keep the data to avoid starting over.</comm
     <comment>Enter</comment>
   </data>
   <data name="Shortcut_NotFound" xml:space="preserve">
-    <value>No shortcut found based on the search.</value>
-    <comment>No shortcut found based on the search.</comment>
+    <value>Inget snabbkommando hittades baserat på sökningen.</value>
+  <comment>No shortcut found based on the search.</comment>
   </data>
   <data name="Shortcut_Space" xml:space="preserve">
     <value>Space</value>
     <comment>Space</comment>
   </data>
   <data name="AccountValidationRule_EmptyEncryption" xml:space="preserve">
-    <value>Please select an encryption</value>
-    <comment>Please select an encryption</comment>
+    <value>Vänligen välj kryptering</value>
+  <comment>Please select an encryption</comment>
   </data>
   <data name="AccountValidationRule_EmptyFirstName" xml:space="preserve">
     <value>Please enter your first name</value>
@@ -2787,8 +2787,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
-    <value>A folder with the same name already exists in that location.</value>
-    <comment>A folder with the same name already exists in that location.</comment>
+    <value>Finns redan en mapp med det namnet på den platsen.</value>
+  <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
     <value>The server does not allow the '{0}' character in folder names.</value>
@@ -2819,8 +2819,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>{on} {date}, {sender} {wrote}:</comment>
   </data>
   <data name="NotifyIconTooltip_Exit" xml:space="preserve">
-    <value>Exit</value>
-    <comment>Exit &lt;Mailbird&gt;</comment>
+    <value>Avsluta</value>
+  <comment>Exit &lt;Mailbird&gt;</comment>
   </data>
   <data name="NotifyIconTooltip_Show" xml:space="preserve">
     <value>Show</value>
@@ -2871,12 +2871,12 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark messages as read:</comment>
   </data>
   <data name="App_Contacts_FieldCompany" xml:space="preserve">
-    <value>Company</value>
-    <comment>Company</comment>
+    <value>Företag</value>
+  <comment>Company</comment>
   </data>
   <data name="App_Contacts_FieldFirstName" xml:space="preserve">
-    <value>First name</value>
-    <comment>First name</comment>
+    <value>Förnamn</value>
+  <comment>First name</comment>
   </data>
   <data name="App_Contacts_FieldLastName" xml:space="preserve">
     <value>Last name</value>
@@ -2993,8 +2993,8 @@ NB: Explanation in messagebox when deleting group</comment>
     <comment>Create contact</comment>
   </data>
   <data name="Window_Shortcuts" xml:space="preserve">
-    <value>Keyboard Shortcuts</value>
-    <comment>Keyboard Shortcut</comment>
+    <value>Snabbkommandon</value>
+  <comment>Keyboard Shortcut</comment>
   </data>
   <data name="Conversation_MarkReadNext" xml:space="preserve">
     <value>Mark as read and go to next conversation</value>
@@ -3093,8 +3093,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Groups</comment>
   </data>
   <data name="App_Contacts_Filter" xml:space="preserve">
-    <value>Filter contacts...</value>
-    <comment>Filter contacts...</comment>
+    <value>Filtrera kontakter...</value>
+  <comment>Filter contacts...</comment>
   </data>
   <data name="Dialog_DeleteContactExplanation_Plural" xml:space="preserve">
     <value>Are you sure you want to delete the selected contacts?</value>
@@ -3117,8 +3117,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Do you really want to merge these contacts?</comment>
   </data>
   <data name="Options_ConnectToFacebook" xml:space="preserve">
-    <value>Connect with Facebook</value>
-    <comment>Connect with Facebook</comment>
+    <value>Anslut med Facebook</value>
+  <comment>Connect with Facebook</comment>
   </data>
   <data name="Options_DisconnectFacebook" xml:space="preserve">
     <value>Disconnect Facebook</value>
@@ -3490,8 +3490,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Someday</comment>
   </data>
   <data name="Options_Snooze_StartMyDayAt" xml:space="preserve">
-    <value>My day starts at</value>
-    <comment>My day starts at</comment>
+    <value>Min dag börjar vid</value>
+  <comment>My day starts at</comment>
   </data>
   <data name="Options_Snooze_StartMyWeekendAt" xml:space="preserve">
     <value>My weekend starts at</value>
@@ -3694,8 +3694,8 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Pro subscription ({0} months)</comment>
   </data>
   <data name="Invite_PendingInvitation" xml:space="preserve">
-    <value>Pending invitations ({0} months)</value>
-    <comment>Pending invitations ({0} months)</comment>
+    <value>Avvaktande inbjudningar ({0} månader)</value>
+  <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
     <value>License expires: {0} (in {1})</value>
@@ -3914,8 +3914,8 @@ You can disable the unified account from the settings, or edit each of your acco
     <comment>For tablets only. Mailbird will automatically change between horizontal and vertical layout when the tablet orientation changes between portrait and landscape.</comment>
   </data>
   <data name="Contact_AddToContacts" xml:space="preserve">
-    <value>Add to Contacts</value>
-    <comment>Add to Contacts</comment>
+    <value>Lägg till i Kontakter</value>
+  <comment>Add to Contacts</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationPlural" xml:space="preserve">
     <value>The contacts have been added to the Contacts app.</value>
@@ -4120,8 +4120,8 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Pin Mailbird to start menu</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Create shortcut on desktop</value>
-    <comment>Create shortcut on desktop</comment>
+    <value>Skapa en genväg på skrivbordet</value>
+  <comment>Create shortcut on desktop</comment>
   </data>
   <data name="InstallationForm_InstallationCompleted" xml:space="preserve">
     <value>Installation complete</value>
@@ -4211,8 +4211,8 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No Account Selected</comment>
   </data>
   <data name="Dialog_NoAccountExplanation" xml:space="preserve">
-    <value>Please select at least 1 account to import.</value>
-    <comment>Please select at least 1 account to import.</comment>
+    <value>Vänligen välj minst 1 konto att importera.</value>
+  <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
     <value>Or import from another email client.</value>
@@ -4651,8 +4651,8 @@ Please remove some and try again.</comment>
     <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
   </data>
   <data name="Menu_Settings" xml:space="preserve">
-    <value>Settings</value>
-    <comment>Settings</comment>
+    <value>Inställningar</value>
+  <comment>Settings</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
     <value>More than 1 account</value>
@@ -4708,8 +4708,8 @@ the final result will be: Search Google for "query"</comment>
     <comment>Puts your cursor in the search folders box.</comment>
   </data>
   <data name="Invite_AcceptedProgress" xml:space="preserve">
-    <value>Nice! [bold]{0} of {1}[/bold] invitations accepted!</value>
-    <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
+    <value>Snyggt! [bold]{0} av {1}[/bold] inbjudningar accepterade!</value>
+  <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
   </data>
   <data name="Invite_SeeAll" xml:space="preserve">
     <value>See all</value>
@@ -4732,8 +4732,8 @@ the final result will be: Search Google for "query"</comment>
     <comment>Finish</comment>
   </data>
   <data name="WebControl_Print" xml:space="preserve">
-    <value>Print...</value>
-    <comment>Print...</comment>
+    <value>Skriv ut...</value>
+  <comment>Print...</comment>
   </data>
   <data name="WelcomeMessage_Afternoon" xml:space="preserve">
     <value>Good afternoon, {0}</value>
@@ -5060,8 +5060,8 @@ Are you sure you want to close the window?</comment>
     <comment>Invite again</comment>
   </data>
   <data name="InstallationForm_SetAsDefault" xml:space="preserve">
-    <value>Set Mailbird as the default email client</value>
-    <comment>Set Mailbird as the default email client</comment>
+    <value>Välj Mailbird som förvald epostklient</value>
+  <comment>Set Mailbird as the default email client</comment>
   </data>
   <data name="NotificationCenter_Notifications" xml:space="preserve">
     <value>Notifications</value>
@@ -5174,8 +5174,8 @@ To add a contact, click the "Add contact" button.</value>
     <comment>Job title</comment>
   </data>
   <data name="App_Contacts_FieldAddAddress" xml:space="preserve">
-    <value>add address</value>
-    <comment>add address</comment>
+    <value>lägg till adress</value>
+  <comment>add address</comment>
   </data>
   <data name="App_Contacts_FieldAddBirthday" xml:space="preserve">
     <value>add birthday</value>
@@ -5302,8 +5302,8 @@ To add a contact, click the "Add contact" button.</value>
     <comment>Change</comment>
   </data>
   <data name="App_Contacts_ContextMenuAddRemoveGroups" xml:space="preserve">
-    <value>Groups...</value>
-    <comment>Groups...</comment>
+    <value>Grupper...</value>
+  <comment>Groups...</comment>
   </data>
   <data name="App_Contacts_ContextMenuExport" xml:space="preserve">
     <value>Export vCard</value>
@@ -5358,8 +5358,8 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Create a new conversation?</comment>
   </data>
   <data name="InviteV2_ShareSocial" xml:space="preserve">
-    <value>Share on social and get more invites</value>
-    <comment>Share on social and get more invites</comment>
+    <value>Dela på sociala medier för att få fler inbjudningar</value>
+  <comment>Share on social and get more invites</comment>
   </data>
   <data name="ShareReferralLink_Link" xml:space="preserve">
     <value>link</value>
@@ -5378,8 +5378,8 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>Get 1 month of @mailbird Pro for free, download here: {0}</value>
-    <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
+    <value>Få @Mailbird Pro gratis en månad, ladda ner här: {0}</value>
+  <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
     <value>Add coupon</value>
@@ -5434,8 +5434,8 @@ Would you like to group this message into a new conversation?</comment>
     <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
-    <value>Connect with your Google accounts now to sync them with Mailbird.</value>
-    <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
+    <value>Anslut till ditt/dina Google konto(n) för att synkronisera dem med din Mailbird.</value>
+  <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
   </data>
   <data name="App_Contacts_Intro_Welcome" xml:space="preserve">
     <value>Meet the Contacts</value>
@@ -5846,8 +5846,8 @@ with Mailbird Pro?</comment>
     <comment>Male value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Latitude" xml:space="preserve">
-    <value>Latitude</value>
-    <comment>Label for custom field Latitude when importing vCard</comment>
+    <value>Latitud</value>
+  <comment>Label for custom field Latitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Longitude" xml:space="preserve">
     <value>Longitude</value>
@@ -5882,8 +5882,8 @@ with Mailbird Pro?</comment>
     <comment>Label for contact custom address type International</comment>
   </data>
   <data name="App_Contacts_Labels_Parcel" xml:space="preserve">
-    <value>Parcel</value>
-    <comment>Label for contact custom address type Parcel</comment>
+    <value>Paket</value>
+  <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
     <value>Postal</value>
@@ -5894,8 +5894,8 @@ with Mailbird Pro?</comment>
     <comment>Label for contact custom address type Preferred</comment>
   </data>
   <data name="MailEditor_RemoveSuggestion" xml:space="preserve">
-    <value>Remove suggestion</value>
-    <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
+    <value>Ta bort förslag</value>
+  <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsHeader" xml:space="preserve">
     <value>Suggestions restored</value>
@@ -5916,8 +5916,8 @@ Removed suggestions can be restored from the settings.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Restore auto-complete suggestions</value>
-    <comment>Settings button to restore all auto-complete suggestions</comment>
+    <value>Återställ automatiskt ifyllnadsförslag</value>
+  <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
     <value>Restores any auto-complete suggestions you've previously removed.</value>
@@ -5970,8 +5970,8 @@ Try the new Contacts now!</value>
     <comment>Header in rate and recommend control when asking for feedback</comment>
   </data>
   <data name="RateRecommend_HeaderRating" xml:space="preserve">
-    <value>How likely are you to recommend Mailbird to a friend?</value>
-    <comment>Header in rate and recommend control when asking for rating</comment>
+    <value>Hur sannolikt är det att du skulle rekommendera Mailbird till dina vänner ?</value>
+  <comment>Header in rate and recommend control when asking for rating</comment>
   </data>
   <data name="RateRecommend_HeaderShare" xml:space="preserve">
     <value>Great! Could you share a brief post with your friends? It really helps.</value>
@@ -6114,7 +6114,7 @@ Try the new Contacts now!</value>
     <value>Read and share tweets from all over the world.</value>
   </data>
   <data name="App_UnrollMe_Description" xml:space="preserve">
-    <value>Clean up your inbox.</value>
+    <value>Städa upp din inkorg.</value>
   </data>
   <data name="App_WeChat_Description" xml:space="preserve">
     <value>More Social. More Fun. Free messaging and calling app.</value>
@@ -6130,24 +6130,24 @@ Try the new Contacts now!</value>
     <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
   <data name="App_Contacts_BrowseContacts_Search" xml:space="preserve">
-    <value>Search</value>
-    <comment>Watermark for search textbox</comment>
+    <value>Sök</value>
+  <comment>Watermark for search textbox</comment>
   </data>
   <data name="App_Contacts_BrowseContacts_SelectAll" xml:space="preserve">
-    <value>Select all</value>
-    <comment>Label for checkbox to select all contacts</comment>
+    <value>Välj alla</value>
+  <comment>Label for checkbox to select all contacts</comment>
   </data>
   <data name="App_Contacts_Browse_Add" xml:space="preserve">
-    <value>Add</value>
-    <comment>Button to add selected contacts</comment>
+    <value>Lägg till</value>
+  <comment>Button to add selected contacts</comment>
   </data>
   <data name="App_Contacts_RemoveContact" xml:space="preserve">
-    <value>Remove</value>
-    <comment>Tooltip for button to remove contact from list</comment>
+    <value>Ta bort</value>
+  <comment>Tooltip for button to remove contact from list</comment>
   </data>
   <data name="MailEditor_Browse" xml:space="preserve">
-    <value>Browse contacts</value>
-    <comment>Tooltip in button to open browse contacts window</comment>
+    <value>Sök i kontakter</value>
+  <comment>Tooltip in button to open browse contacts window</comment>
   </data>
   <data name="Apps_Kin_Calendar_Description" xml:space="preserve">
     <value>The sun will rise again. Here's the best calendar experience. (requires subscription)</value>
@@ -6178,8 +6178,8 @@ Try the new Contacts now!</value>
     <comment>Button to open link related to 3rd party service in Mailbird</comment>
   </data>
   <data name="Options_ShowCcBccByDefault" xml:space="preserve">
-    <value>Show Cc and Bcc by default</value>
-    <comment>Option to show Cc and Bcc by default in compose window</comment>
+    <value>Visa Cc and Bcc som standard</value>
+  <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
     <value>Account limit exceeded</value>
@@ -6206,8 +6206,8 @@ Try the new Contacts now!</value>
     <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
-    <comment>Button to upgrade to pro</comment>
+    <value>Uppgradera nu</value>
+  <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
     <value>Some of your accounts have been disabled because your Mailbird Pro trial has ended. You are now using Mailbird Lite. Mailbird Lite supports {0} email account(s) free for life. Please upgrade to Pro in order to continue using all of your accounts.</value>
@@ -6218,8 +6218,8 @@ Try the new Contacts now!</value>
     <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
-    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Din provperiod är slut.</value>
+  <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 <data name="Disabled_NotificationContactUs" xml:space="preserve">
     <value>For any assistance, please contact us at support@getmailbird.com.</value>
@@ -6230,16 +6230,16 @@ Try the new Contacts now!</value>
     <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
   </data>
   <data name="UpgradeNotification_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird Pro</value>
-    <comment>Purchase Mailbird Pro</comment>
+    <value>Skaffa Mailbird Pro</value>
+  <comment>Purchase Mailbird Pro</comment>
   </data>
   <data name="UpgradeNotification_Subtitle" xml:space="preserve">
     <value>Would you like to get a Pro license now?</value>
     <comment>Would you like to get a Pro license now?</comment>
   </data>
   <data name="UpgradeNotification_Title" xml:space="preserve">
-    <value>Thanks for using Mailbird.</value>
-    <comment>Thanks for using Mailbird.</comment>
+    <value>Tack för att du använder Mailbird.</value>
+  <comment>Thanks for using Mailbird.</comment>
   </data>
   <data name="App_GoogleKeep_Description" xml:space="preserve">
     <value>Compose, edit, share, and collaborate on your notes and reminders on any device, anywhere.</value>
