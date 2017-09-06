@@ -63,7 +63,7 @@
   <comment>Open</comment>
   </data>
   <data name="Attachment_QuickPreview" xml:space="preserve">
-    <value>Förhandsvisning</value>
+    <value>Snabbt Förhandsvisning</value>
   <comment>Quick preview</comment>
   </data>
   <data name="Attachment_Remove" xml:space="preserve">
@@ -103,7 +103,7 @@
   <comment>Copy link address</comment>
   </data>
   <data name="Awesomium_Cut" xml:space="preserve">
-    <value>Klipp ut</value>
+    <value>Klippa ut</value>
   <comment>Cut</comment>
   </data>
   <data name="Awesomium_Ignore" xml:space="preserve">
@@ -119,7 +119,7 @@
   <comment>Paste as plain text</comment>
   </data>
   <data name="Awesomium_SaveImage" xml:space="preserve">
-    <value>Spara bild som...</value>
+    <value>Spara bilden som...</value>
   <comment>Save image as...</comment>
   </data>
   <data name="Awesomium_SelectAll" xml:space="preserve">
@@ -135,7 +135,7 @@
   <comment>Copy name and email</comment>
   </data>
   <data name="Contact_NewMail" xml:space="preserve">
-    <value>Skicka ny epost</value>
+    <value>Skicka nytt mejl</value>
   <comment>Send new mail</comment>
   </data>
   <data name="Conversation_Archive" xml:space="preserve">
@@ -215,7 +215,7 @@
   <comment>Move to...</comment>
   </data>
   <data name="Conversation_MoveToInbox" xml:space="preserve">
-    <value>Flytta till inkorgen</value>
+    <value>Flytta till inkorg</value>
   <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
@@ -227,7 +227,7 @@
   <comment>Print conversation</comment>
   </data>
   <data name="Conversation_Reply" xml:space="preserve">
-    <value>Svar</value>
+    <value>Svara</value>
   <comment>Reply</comment>
   </data>
   <data name="Conversation_ReplyAll" xml:space="preserve">
@@ -348,7 +348,7 @@ Url: {1}</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
     <value>Vi behöver verifiera behörigheten hos Facebook.
-Vill du återansluta ditt Facebook konto?</value>
+Vill du återansluta till ditt Facebook konto?</value>
   <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
   </data>
@@ -395,7 +395,7 @@ Do you want to reconnect your Facebook?</comment>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
     <value>Är du säkert  att du vill ta bort kontot och alla anslutna identiteter?
 
-Mailbird kommer att startas om vilket kan ta några minuter.</value>
+Mailbird kommer att omstartas vilka kan ta några minuter.</value>
   <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
@@ -451,7 +451,7 @@ Message:</comment>
   <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>Du kan inte bifoga filer större än 25MB styck.</value>
+    <value>Det går inte att bifoga en fil drygt 25 MB.</value>
   <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
@@ -471,11 +471,11 @@ Message:</comment>
   <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
   </data>
   <data name="Dialog_Thanks" xml:space="preserve">
-    <value>Tackar!</value>
+    <value>Tack!</value>
   <comment>Thanks!</comment>
   </data>
   <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
-    <value>Vänligen avvakta tills din inkorg har uppdaterats</value>
+    <value>Vänligen avvakta tills inkorgen har uppdaterats</value>
   <comment>Please wait until your Inbox has loaded</comment>
   </data>
   <data name="Dialog_Warning" xml:space="preserve">
@@ -553,7 +553,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Please enter the correct password</comment>
   </data>
   <data name="Dialog_Add" xml:space="preserve">
-    <value>Lägg till</value>
+    <value>Lägga till</value>
   <comment>Add</comment>
   </data>
   <data name="Dialog_Browse" xml:space="preserve">
@@ -569,7 +569,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Discard Draft?</comment>
   </data>
   <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
-    <value>Är du säker att du vill kassera ditt utkast?</value>
+    <value>Är du säker att du vill kassera utkastet?</value>
   <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
@@ -633,11 +633,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Username:</comment>
   </data>
   <data name="Identity_Test" xml:space="preserve">
-    <value>Testa anslutning</value>
+    <value>Testa anslutningen</value>
   <comment>Test connection</comment>
   </data>
   <data name="Identity_Testing" xml:space="preserve">
-    <value>Testar anslutning...</value>
+    <value>Testar anslutningen...</value>
   <comment>Testing connection...</comment>
   </data>
   <data name="Dialog_Report" xml:space="preserve">
@@ -689,11 +689,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Cc</comment>
   </data>
   <data name="Default_AlwaysAsk" xml:space="preserve">
-    <value>Genomför alltid denna kontroll vid start av Mailbird</value>
+    <value>Alltid utför denna kontroll vid början av Mailbird</value>
   <comment>Always perform this check when starting Mailbird</comment>
   </data>
   <data name="Default_SetAs" xml:space="preserve">
-    <value>Sätt som standard?</value>
+    <value>Ange som standard?</value>
   <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
@@ -713,7 +713,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Purchase</comment>
   </data>
   <data name="Dialog_SaveFolder" xml:space="preserve">
-    <value>Välj katalog för att spara valda bilagor i:</value>
+    <value>Välj mappen för att spara valda bilagor i:</value>
   <comment>Select the folder to save the selected attachments in:</comment>
   </data>
   <data name="Draft_Saved" xml:space="preserve">
@@ -761,7 +761,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
-    <value>Vänligen ange din e-postadress</value>
+    <value>Vänligen ange din mejl</value>
   <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
@@ -833,7 +833,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Nest folder under:</comment>
   </data>
   <data name="EditFolderWindow_Title" xml:space="preserve">
-    <value>Lägg till katalog</value>
+    <value>Lägg till mapp</value>
   <comment>Add folder</comment>
   </data>
   <data name="FolderIdentity_AllMail" xml:space="preserve">
