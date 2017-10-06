@@ -278,12 +278,12 @@
     <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
-    <value>Keine Themen in diesem Ordner</value>
-    <comment>No conversations in this folder</comment>
+    <value>Es sind keine Konversationen in diesem Ordner</value>
+  <comment>No conversations in this folder</comment>
   </data>
   <data name="Conversation_Print" xml:space="preserve">
-    <value>Thema drucken</value>
-    <comment>Print conversation</comment>
+    <value>Konversation drucken</value>
+  <comment>Print conversation</comment>
   </data>
   <data name="Conversation_Reply" xml:space="preserve">
     <value>Antworten</value>
@@ -310,7 +310,7 @@
     <comment>To</comment>
   </data>
   <data name="Conversation_Trash" xml:space="preserve">
-    <value>Papierkorb</value>
+    <value>Löschen</value>
   <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
@@ -928,7 +928,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Starred</comment>
   </data>
   <data name="FolderIdentity_Trash" xml:space="preserve">
-    <value>Löschen2</value>
+    <value>Papierkorb</value>
   <comment>Trash</comment>
   </data>
   <data name="AppStore_Title" xml:space="preserve">
@@ -1256,7 +1256,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Map special labels</comment>
   </data>
   <data name="MapLabelWindow_Trash" xml:space="preserve">
-    <value>Löschen3</value>
+    <value>Papierkorb</value>
   <comment>Trash</comment>
   </data>
   <data name="Menu_Compose" xml:space="preserve">
@@ -1424,8 +1424,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>{0} new messages</comment>
   </data>
   <data name="NewMessages_BaloonSubHeader" xml:space="preserve">
-    <value>in {0} Themen</value>
-    <comment>in {0} conversations</comment>
+    <value>in {0} Konversationen</value>
+  <comment>in {0} conversations</comment>
   </data>
   <data name="NewMessage_EmptySubject" xml:space="preserve">
     <value>Kein Betreff</value>
@@ -1440,24 +1440,24 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>No Name</comment>
   </data>
   <data name="Notification_ArchiveFail" xml:space="preserve">
-    <value>Thema bereits archiviert</value>
-    <comment>Conversation already archived</comment>
+    <value>Konversation ist bereits archiviert</value>
+  <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} Themen wurden archiviert</value>
-    <comment>{0} Conversations archived</comment>
+    <value>{0} Konversationen wurden archiviert</value>
+  <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
-    <value>Thema archiviert</value>
-    <comment>Conversation archived</comment>
+    <value>Konversation archiviert</value>
+  <comment>Conversation archived</comment>
   </data>
   <data name="Notification_DeleteMany" xml:space="preserve">
-    <value>{0} Themen wurden gelöscht</value>
-    <comment>{0} Conversation deleted permanently</comment>
+    <value>{0} Konversationen wurden endgültig gelöscht</value>
+  <comment>{0} Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DeleteSingle" xml:space="preserve">
-    <value>Thema gelöscht</value>
-    <comment>Conversation deleted permanently</comment>
+    <value>Konversation endgültig gelöscht</value>
+  <comment>Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DiscardMany" xml:space="preserve">
     <value>{0} Entwürfe verworfen</value>
@@ -1480,12 +1480,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
-    <value>{0} Themen in Papierkorb verschoben</value>
-    <comment>{0} Conversations trashed</comment>
+    <value>{0} Konversationen in Papierkorb verschoben</value>
+  <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
-    <value>Thema in Papierkorb verschoben</value>
-    <comment>Conversation trashed</comment>
+    <value>Konversation in Papierkorb verschoben</value>
+  <comment>Conversation trashed</comment>
   </data>
   <data name="Notification_Undo" xml:space="preserve">
     <value>Widerrufen</value>
@@ -1528,8 +1528,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Automatically check for updates</comment>
   </data>
   <data name="Options_AutoSelectOnArchive" xml:space="preserve">
-    <value>Beim Archivieren automatisch das nächste Thema wählen</value>
-    <comment>Auto-select next conversation when archiving</comment>
+    <value>Beim Archivieren automatisch die nächste Konversation wählen</value>
+  <comment>Auto-select next conversation when archiving</comment>
   </data>
   <data name="Options_CheckUpdate" xml:space="preserve">
     <value>Jetzt prüfen</value>
@@ -1576,8 +1576,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Appearance</comment>
   </data>
   <data name="Options_GroupUnread" xml:space="preserve">
-    <value>Ungelesene Themen oben anzeigen</value>
-    <comment>Group unread conversations at the top</comment>
+    <value>Ungelesene Konversationen oben anzeigen</value>
+  <comment>Group unread conversations at the top</comment>
   </data>
   <data name="Options_HideIcon" xml:space="preserve">
     <value>Wenn minimiert, Mailbird-Symbol in der Taskleiste ausblenden</value>
@@ -1616,8 +1616,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit signatures</comment>
   </data>
   <data name="Options_MessagePreview" xml:space="preserve">
-    <value>Nachrichtenvorschau in Themen anzeigen</value>
-    <comment>Show message previews in conversation view</comment>
+    <value>Nachrichtenvorschauen in Konversationsansicht anzeigen</value>
+  <comment>Show message previews in conversation view</comment>
   </data>
   <data name="Options_NotDefault" xml:space="preserve">
     <value>Mailbird ist nicht Ihre Standard-E-Mail-Anwendung</value>
@@ -1800,24 +1800,24 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>No messages matched your search</comment>
   </data>
   <data name="Shortcut_ArchiveExplanation" xml:space="preserve">
-    <value>Archiviert Ihr Thema aus jeder Ansicht.</value>
-    <comment>Archive your conversation from any view.</comment>
+    <value>Archiviert Ihre Konversation aus jeder Ansicht.</value>
+  <comment>Archive your conversation from any view.</comment>
   </data>
   <data name="Shortcut_ArchiveNext" xml:space="preserve">
     <value>Archivieren und fortfahren</value>
     <comment>Archive and next</comment>
   </data>
   <data name="Shortcut_ArchiveNextExplanation" xml:space="preserve">
-    <value>Entfernt das Thema aus dem Posteingang und wechselt zum nächsten.</value>
-    <comment>Removes the conversation from the inbox and moves to the next one.</comment>
+    <value>Entfernt die Konversation aus dem Posteingang und wechselt zum nächsten.</value>
+  <comment>Removes the conversation from the inbox and moves to the next one.</comment>
   </data>
   <data name="Shortcut_ArchivePrevious" xml:space="preserve">
     <value>Archivieren und vorherige</value>
     <comment>Archive and previous</comment>
   </data>
   <data name="Shortcut_ArchivePreviousExplanation" xml:space="preserve">
-    <value>Entfernt die Kategorie der aktuellen Ansicht und wechselt zum vorherigen Thema.</value>
-    <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
+    <value>Entfernt die Kategorie der aktuellen Ansicht und wechselt zur vorherigen Konversation.</value>
+  <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
   </data>
   <data name="Shortcut_Close" xml:space="preserve">
     <value>Aktuelles Fenster schließen</value>
@@ -1852,16 +1852,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
-    <value>Verschiebt das Thema in den Papierkorb.</value>
-    <comment>Moves the conversation to Trash.</comment>
+    <value>Verschiebt die Konversation in den Papierkorb.</value>
+  <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
-    <value>Entwurf oder Thema löschen</value>
-    <comment>Delete Draft or Trash Conversation</comment>
+    <value>Entwurf oder Konversation löschen</value>
+  <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Ausgewählten Entwurf oder Thema löschen.</value>
-    <comment>Delete selected draft or trash the selected conversation.</comment>
+    <value>Ausgewählten Entwurf oder Konversation löschen.</value>
+  <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
     <value>Beenden</value>
@@ -1876,8 +1876,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Expand/Collapse Window</comment>
   </data>
   <data name="Shortcut_ExpandCollapseExplanation" xml:space="preserve">
-    <value>Erlaubt es, das Hauptfenster zu maximieren/verkleinern und zwischen der Themenansicht und der Nachrichten-Liste zu wechseln.</value>
-    <comment>Allows you to expand/collapse the main window, and navigate between the conversation list and message list.</comment>
+    <value>Erlaubt es, das Hauptfenster zu maximieren/verkleinern und zwischen der Konversationsansicht und der Nachrichten-Liste zu wechseln.</value>
+  <comment>Allows you to expand/collapse the main window, and navigate between the conversation list and message list.</comment>
   </data>
   <data name="Shortcut_Find" xml:space="preserve">
     <value>Finden</value>
@@ -1920,32 +1920,32 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
-    <value>In neueres Thema verschieben</value>
-    <comment>Move to newer conversation</comment>
+    <value>In neuere Konversation verschieben</value>
+  <comment>Move to newer conversation</comment>
   </data>
   <data name="Shortcut_MoveNewerExplanation" xml:space="preserve">
-    <value>Wählt das nächste neuere Thema aus</value>
-    <comment>Selects the next more recent conversation.</comment>
+    <value>Wählt die nächste neuere Konversation aus</value>
+  <comment>Selects the next more recent conversation.</comment>
   </data>
   <data name="Shortcut_MoveOlder" xml:space="preserve">
-    <value>In älteres Thema verschieben</value>
-    <comment>Move to older conversation</comment>
+    <value>In ältere Konversation verschieben</value>
+  <comment>Move to older conversation</comment>
   </data>
   <data name="Shortcut_MoveOlderExplanation" xml:space="preserve">
-    <value>Wählt das nächste ältere Thema aus</value>
-    <comment>Selects the previous older conversation.</comment>
+    <value>Wählt die nächste ältere Konversation aus</value>
+  <comment>Selects the previous older conversation.</comment>
   </data>
   <data name="Shortcut_MoveToExplanation" xml:space="preserve">
-    <value>Verschiebt das Thema in einen anderen Ordner</value>
-    <comment>Moves the conversation to a different folder.</comment>
+    <value>Verschiebt die Konversation in einen anderen Ordner</value>
+  <comment>Moves the conversation to a different folder.</comment>
   </data>
   <data name="Shortcut_NextMessage" xml:space="preserve">
     <value>Nächste Nachricht</value>
     <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Bewegt den Mauszeiger zur nächsten Nachricht. Sie können die Eingabe-Taste drücken, um eine Nachricht zu erweitern oder zu reduzieren. (Nur in „Themenansicht“ verfügbar)</value>
-    <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
+    <value>Bewegt den Mauszeiger zur nächsten Nachricht. Sie können die Eingabe-Taste drücken, um eine Nachricht zu erweitern oder zu reduzieren. (Nur in „Konversationsansicht“ verfügbar)</value>
+  <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
     <value>Helfen Sie Gmail zu erkennen, welche Nachrichten für Sie unwichtig sind, indem Sie falsch klassifizierte Nachrichten markieren. (speziell für „Wichtig“-Posteingang)</value>
@@ -1956,7 +1956,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Öffnet Ihr Thema. Erweitert oder reduziert eine Nachricht, wenn Sie sich in der „Themenansicht” befinden.</value>
+    <value>Öffnet Ihre Konversation. Erweitert oder reduziert eine Nachricht, wenn Sie sich in der „Konversationsansicht” befinden.</value>
   <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -1968,28 +1968,28 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Copy to / label</comment>
   </data>
   <data name="Shortcut_CopyToFolderExplanation" xml:space="preserve">
-    <value>Kopiert ein Thema in einen anderen Ordner. Bei Gmail wird dies als „Labeln“ (zu dt.: Kategorisieren) bezeichnet.</value>
-    <comment>Copies the conversation to a different folder. Gmail calls this labeling.</comment>
+    <value>Kopiert die Konversation in einen anderen Ordner. Bei Gmail wird dies als „Labeln“ (zu dt.: Kategorisieren) bezeichnet.</value>
+  <comment>Copies the conversation to a different folder. Gmail calls this labeling.</comment>
   </data>
   <data name="Shortcut_PreviousMessage" xml:space="preserve">
     <value>Vorherige Nachricht</value>
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Bewegt den Mauszeiger zur vorherigen Nachricht. Sie können die Eingabe-Taste drücken, um eine Nachricht zu erweitern oder zu reduzieren. (Nur in „Themenansicht“ verfügbar)</value>
-    <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
+    <value>Bewegt den Mauszeiger zur vorherigen Nachricht. Sie können die Eingabe-Taste drücken, um eine Nachricht zu erweitern oder zu reduzieren. (Nur in „Konversationsansicht“ verfügbar)</value>
+  <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
     <value>Nachricht drucken</value>
     <comment>Print Message</comment>
   </data>
   <data name="Shortcut_PrintConversation" xml:space="preserve">
-    <value>Thema drucken</value>
-    <comment>Print Conversation</comment>
+    <value>Konversation drucken</value>
+  <comment>Print Conversation</comment>
   </data>
   <data name="Shortcut_PrintConversationExplanation" xml:space="preserve">
-    <value>Alle Nachrichten des Themas drucken.</value>
-    <comment>Print all messages in the selected conversation.</comment>
+    <value>Alle Nachrichten in ausgewählter Konversation drucken.</value>
+  <comment>Print all messages in the selected conversation.</comment>
   </data>
   <data name="Shortcut_PrintExplanation" xml:space="preserve">
     <value>Ausgewählte Nachricht drucken.</value>
@@ -2020,8 +2020,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Remove from Current View</comment>
   </data>
   <data name="Shortcut_RemoveViewExplanation" xml:space="preserve">
-    <value>Entfernt automatisch Nachricht oder Thema aus der aktuellen Ansicht.</value>
-    <comment>Automatically removes the message or conversation from your current view.</comment>
+    <value>Entfernt automatisch Nachricht oder Konversation aus der aktuellen Ansicht.</value>
+  <comment>Automatically removes the message or conversation from your current view.</comment>
   </data>
   <data name="Shortcut_ReplyAllExplanation" xml:space="preserve">
     <value>Allen Empfängern der Nachricht antworten.</value>
@@ -2036,16 +2036,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Report spam</comment>
   </data>
   <data name="Shortcut_ReportSpamExplanation" xml:space="preserve">
-    <value>Markiert eine Nachricht als Spam und entfernt sie aus Ihrer Themenliste.</value>
-    <comment>Marks a message as spam and removes it from your conversation list.</comment>
+    <value>Markiert eine Nachricht als Spam und entfernt sie aus Ihrer Konversationsansicht.</value>
+  <comment>Marks a message as spam and removes it from your conversation list.</comment>
   </data>
   <data name="Shortcut_Return" xml:space="preserve">
-    <value>Zur Themenansicht zurückkehren</value>
-    <comment>Return to conversation list</comment>
+    <value>Zur Konversationsansicht zurückkehren</value>
+  <comment>Return to conversation list</comment>
   </data>
   <data name="Shortcut_ReturnExplanation" xml:space="preserve">
-    <value>Aktualisiert Ihre Seite und bringt Sie zum Posteingang oder zur Themenansicht zurück.</value>
-    <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
+    <value>Aktualisiert Ihre Seite und bringt Sie zum Posteingang oder zur Konversationsansicht zurück.</value>
+  <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
   </data>
   <data name="Shortcut_SaveDraft" xml:space="preserve">
     <value>Entwurf speichern</value>
@@ -2084,12 +2084,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Bring Mailbird to foreground.</comment>
   </data>
   <data name="Shortcut_Star" xml:space="preserve">
-    <value>Nachricht oder Thema kennzeichnen</value>
-    <comment>Star a message or conversation</comment>
+    <value>Nachricht oder Konversation kennzeichnen</value>
+  <comment>Star a message or conversation</comment>
   </data>
   <data name="Shortcut_StarExplanation" xml:space="preserve">
-    <value>Kennzeichnet eine Nachricht oder Thema (oder entfernt die Kennzeichnung). Durch diese Kennzeichnung können Sie einer Nachricht oder eines Themas einen besonderen Status geben.</value>
-    <comment>Adds or removes a star to a message or conversation. Stars allow you to give a message or conversation a special status.</comment>
+    <value>Kennzeichnet eine Nachricht oder Konversation (oder entfernt die Kennzeichnung). Durch diese Kennzeichnung können Sie einer Nachricht oder einer Konversation einen besonderen Status geben.</value>
+  <comment>Adds or removes a star to a message or conversation. Stars allow you to give a message or conversation a special status.</comment>
   </data>
   <data name="Shortcut_Switch" xml:space="preserve">
     <value>Konto wechseln</value>
@@ -2120,20 +2120,20 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
-    <value>Aktuelles Thema aktualisieren</value>
-    <comment>Update current conversation</comment>
+    <value>Aktuelle Konversation aktualisieren</value>
+  <comment>Update current conversation</comment>
   </data>
   <data name="Shortcut_UpdateConversationExplanation" xml:space="preserve">
-    <value>Aktualisiert Ihr aktuelles Thema, wenn neue Nachrichten verfügbar sind.</value>
-    <comment>Updates your current conversation when there are new messages.</comment>
+    <value>Aktualisiert Ihre aktuelle Konversation, wenn neue Nachrichten verfügbar sind.</value>
+  <comment>Updates your current conversation when there are new messages.</comment>
   </data>
   <data name="Shortcut_VerticalScroll" xml:space="preserve">
     <value>Vertikaler Bildlauf</value>
     <comment>Vertical Scroll</comment>
   </data>
   <data name="Shortcut_VerticalScrollExplanation" xml:space="preserve">
-    <value>Navigieren Sie mit den Pfeiltasten in der fokussierten Liste von Themen oder Nachrichten.</value>
-    <comment>Navigate up/down in the focused list of conversations or messages.</comment>
+    <value>Navigieren Sie mit den Pfeiltasten in der fokussierten Liste von Konversationen oder Nachrichten.</value>
+  <comment>Navigate up/down in the focused list of conversations or messages.</comment>
   </data>
   <data name="WebBrowser_Back" xml:space="preserve">
     <value>Zurück</value>
@@ -2741,8 +2741,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Composing font</comment>
   </data>
   <data name="Options_Conversations" xml:space="preserve">
-    <value>Themen</value>
-    <comment>Conversations</comment>
+    <value>Konversationen</value>
+  <comment>Conversations</comment>
   </data>
   <data name="Options_Default" xml:space="preserve">
     <value>Standard</value>
@@ -2885,8 +2885,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Show &lt;Mailbird&gt;</comment>
   </data>
   <data name="Options_ConversationView" xml:space="preserve">
-    <value>Nachrichten als Thema gruppieren</value>
-    <comment>Group messages into conversations</comment>
+    <value>Nachrichten in Konversationen gruppieren</value>
+  <comment>Group messages into conversations</comment>
   </data>
   <data name="Dialog_RestartRequiredMessage" xml:space="preserve">
     <value>Die Änderungen werden erst nach einem Neustart von Mailbird wirksam. Möchten Sie Mailbird jetzt neu starten?</value>
@@ -3057,8 +3057,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Keyboard Shortcut</comment>
   </data>
   <data name="Conversation_MarkReadNext" xml:space="preserve">
-    <value>Als gelesen markieren und zum nächsten Thema wechseln</value>
-    <comment>Mark as read and go to next conversation</comment>
+    <value>Als gelesen markieren und zur nächsten Konversation wechseln</value>
+  <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
     <value>Markiert Ihre Nachricht als „gelesen“</value>
@@ -3352,8 +3352,8 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>No apps matched your search criteria</comment>
   </data>
   <data name="Conversation_Layout" xml:space="preserve">
-    <value>Themen-Darstellung</value>
-    <comment>Conversation layout</comment>
+    <value>Konversation-Darstellung</value>
+  <comment>Conversation layout</comment>
   </data>
   <data name="Conversation_LayoutHorizontal" xml:space="preserve">
     <value>Horizontal</value>
@@ -3876,8 +3876,8 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Compose your first email</comment>
   </data>
   <data name="Tutorial_ConversationList" xml:space="preserve">
-    <value>Themenliste</value>
-    <comment>Conversation list</comment>
+    <value>Konversationsliste</value>
+  <comment>Conversation list</comment>
   </data>
   <data name="Tutorial_Counter1" xml:space="preserve">
     <value>1 von 3</value>
@@ -3904,8 +3904,8 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Use these top buttons to do frequent tasks.</comment>
   </data>
   <data name="Tutorial_ExplanationStep3" xml:space="preserve">
-    <value>Das ist die Themenansicht. Sie können zwischen vertikalem und horizontalem Layout wechseln sowie die Gruppierung der Themen in den Einstellungen deaktivieren.</value>
-    <comment>This is your conversation view. You can switch between vertical and horizontal layout, as well as disable conversation grouping in the options.</comment>
+    <value>Das ist die Konversationsansicht. Sie können zwischen vertikalem und horizontalem Layout wechseln sowie die Gruppierung der Konversationen in den Einstellungen deaktivieren.</value>
+  <comment>This is your conversation view. You can switch between vertical and horizontal layout, as well as disable conversation grouping in the options.</comment>
   </data>
   <data name="Tutorial_FolderList" xml:space="preserve">
     <value>Ordnerliste (System-Ordner)</value>
@@ -3952,7 +3952,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Search result</comment>
   </data>
   <data name="Tutorial_Trash" xml:space="preserve">
-    <value>Löschen4</value>
+    <value>Löschen</value>
   <comment>Trash</comment>
   </data>
   <data name="Tutorial_UnifiedAccount" xml:space="preserve">
@@ -5051,8 +5051,8 @@ https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
   <data name="Dialog_SubjectChanged" xml:space="preserve">
     <value>Sie haben den Betreff gewechselt.
 
-Möchten Sie diese Nachricht in ein neues Thema eingruppieren?</value>
-    <comment>You changed the subject.
+Möchten Sie diese Nachricht in eine neue Konversation eingruppieren?</value>
+  <comment>You changed the subject.
 
 Would you like to group this message into a new conversation?</comment>
   </data>
