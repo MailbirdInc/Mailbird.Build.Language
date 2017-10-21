@@ -1311,12 +1311,8 @@ Tu clave de licencia ha expirado. Por favor introduce otra clave de licencia o r
     <comment>Display once</comment>
   </data>
   <data name="Message_DropAsAttachment" xml:space="preserve">
-    <value>Agregar como adjunto</value>
+    <value>Drop to add as attachment</value>
     <comment>Drop as Attachment</comment>
-  </data>
-  <data name="Message_DropAsAttachmentExplanation" xml:space="preserve">
-    <value>Los archivos se adjuntarán al correo electrónico</value>
-    <comment>Files will be attached to the email</comment>
   </data>
   <data name="Message_EditWindow" xml:space="preserve">
     <value>Editar en nueva ventana</value>
@@ -4087,20 +4083,14 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Installation issue detected</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
-    <value>Mailbird ha detectado que uno o más archivos están dañados o faltan en el directorio de instalación y ahora intentará realizar una reparación.
+    <value>Mailbird has detected that one or more files are corrupt or missing from the installation directory.
 
-Si falla, desinstale y reinstale Mailbird para solucionar el problema. Todos los ajustes, correo electrónico, etc. se mantendrán siempre que no se elimine el directorio de almacenamiento cuando el desinstalador lo solicite.</value>
+To fix the problem please uninstall and then reinstall Mailbird by getting the latest version from https://www.getmailbird.com
+
+All your settings, email etc. will be kept as long as you don't delete the storage directory when asked during uninstall.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
-  </data>
-  <data name="Dialog_RepairInitFailed" xml:space="preserve">
-    <value>Falló la reparación</value>
-    <comment>Repair failed</comment>
-  </data>
-  <data name="Dialog_RepairInitFailedExplanation" xml:space="preserve">
-    <value>Mailbird no pudo iniciar la reparación. Por favor desinstale y vuelva a instalar Mailbird.</value>
-    <comment>Mailbird was unable to initialize the repair. Please uninstall and reinstall Mailbird.</comment>
   </data>
   <data name="Trial_GetDiscount" xml:space="preserve">
     <value>Obtenga Mailbird Pro - 33% descuento</value>
@@ -6298,5 +6288,47 @@ Try the new Contacts now!</value>
   <data name="App_GoogleKeep_Description" xml:space="preserve">
     <value>Compose, edit, share, and collaborate on your notes and reminders on any device, anywhere.</value>
     <comment>Description of the Google Keep App displayed in the app store.</comment>
+  </data>
+<data name="SpellCheck_Off" xml:space="preserve">
+    <value>Off</value>
+    <comment>Label when spellcheck is off</comment>
+  </data>
+  <data name="MailEditorFormattingBar_Align" xml:space="preserve">
+    <value>Align</value>
+    <comment>Formatting button to align paragraph</comment>
+  </data>
+  <data name="MailEditorFormattingBar_IndentLess" xml:space="preserve">
+    <value>Indent less</value>
+    <comment>Formatting button to give less indent in paragraph</comment>
+  </data>
+  <data name="MailEditorFormattingBar_IndentMore" xml:space="preserve">
+    <value>Indent more</value>
+    <comment>Formatting button to give more indent in paragraph</comment>
+  </data>
+  <data name="Message_DropAsInline" xml:space="preserve">
+    <value>Drop to add inline</value>
+    <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
+  </data>
+  <data name="Options_AutoTagRecipients" xml:space="preserve">
+    <value>Auto-add recipients when @ tagging</value>
+    <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
+  </data>
+  <data name="UpdatePreference_Auto" xml:space="preserve">
+    <value>Install updates automatically</value>
+    <comment>Options to install update silently</comment>
+  </data>
+  <data name="Button_RestartMailbird" xml:space="preserve">
+    <value>Restart Mailbird</value>
+    <comment>Label for button to restart Mailbird.</comment>
+  </data>
+  <data name="Notification_SilentUpdateReadyHeader" xml:space="preserve">
+    <value>An update is ready for you</value>
+    <comment>Header of notification informing the user that an update is ready to be installed.</comment>
+  </data>
+  <data name="Notification_SilentUpdateReadyMessage" xml:space="preserve">
+    <value>The latest version of Mailbird is ready to be installed.
+
+Restart now to get the latest improvements and fixes - it'll only take a second.</value>
+    <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
   </data>
 </root>
