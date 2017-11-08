@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -58,4 +58,411 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-</root>
+<data name="Attachment_Open" xml:space="preserve">
+    <value>開く</value>
+  <comment>Open</comment>
+  </data>
+  <data name="Attachment_QuickPreview" xml:space="preserve">
+    <value>クイックプレビュー</value>
+  <comment>Quick preview</comment>
+  </data>
+  <data name="Attachment_Remove" xml:space="preserve">
+    <value>削除</value>
+  <comment>Remove</comment>
+  </data>
+  <data name="Attachment_Save" xml:space="preserve">
+    <value>名前をつけて保存</value>
+  <comment>Save as...</comment>
+  </data>
+  <data name="Awesomium_Copy" xml:space="preserve">
+    <value>コピー</value>
+  <comment>Copy</comment>
+  </data>
+  <data name="Awesomium_CopyEmail" xml:space="preserve">
+    <value>メールアドレスをコピー</value>
+  <comment>Copy email address</comment>
+  </data>
+  <data name="Awesomium_CopyHtml" xml:space="preserve">
+    <value>HTML をコピー</value>
+  <comment>Copy HTML</comment>
+  </data>
+  <data name="Awesomium_CopyImage" xml:space="preserve">
+    <value>画像をクリップボードにコピー</value>
+  <comment>Copy image</comment>
+  </data>
+  <data name="Awesomium_CopyImageUrl" xml:space="preserve">
+    <value>画像のurlをコピー</value>
+  <comment>Copy image address</comment>
+  </data>
+  <data name="Awesomium_CopyLink" xml:space="preserve">
+    <value>リンク先urlをコピー</value>
+  <comment>Copy link address</comment>
+  </data>
+  <data name="Awesomium_Cut" xml:space="preserve">
+    <value>切り取り</value>
+  <comment>Cut</comment>
+  </data>
+  <data name="Awesomium_Ignore" xml:space="preserve">
+    <value>無視する</value>
+  <comment>Ignore word</comment>
+  </data>
+  <data name="Awesomium_Paste" xml:space="preserve">
+    <value>貼り付け</value>
+  <comment>Paste</comment>
+  </data>
+  <data name="Awesomium_PastePlain" xml:space="preserve">
+    <value>プレーンテキストとして貼り付ける</value>
+  <comment>Paste as plain text</comment>
+  </data>
+  <data name="Awesomium_SaveImage" xml:space="preserve">
+    <value>名前をつけて画像を保存</value>
+  <comment>Save image as...</comment>
+  </data>
+  <data name="Awesomium_SelectAll" xml:space="preserve">
+    <value>すべて選択</value>
+  <comment>Select all</comment>
+  </data>
+  <data name="Contact_Copy" xml:space="preserve">
+    <value>メールをコピー</value>
+  <comment>Copy email</comment>
+  </data>
+  <data name="Conversation_Archive" xml:space="preserve">
+    <value>アーカイブ</value>
+  <comment>Archive</comment>
+  </data>
+  <data name="Conversation_DeletePermanently" xml:space="preserve">
+    <value>完全に削除</value>
+  <comment>Delete permanently</comment>
+  </data>
+  <data name="Conversation_Discard" xml:space="preserve">
+    <value>破棄</value>
+  <comment>Discard</comment>
+  </data>
+  <data name="Conversation_Draft" xml:space="preserve">
+    <value>下書き</value>
+  <comment>Draft</comment>
+  </data>
+  <data name="Conversation_EmptyFolder" xml:space="preserve">
+    <value>空のフォルダー</value>
+  <comment>Empty folder</comment>
+  </data>
+  <data name="Conversation_Forward" xml:space="preserve">
+    <value>転送</value>
+  <comment>Forward</comment>
+  </data>
+  <data name="Conversation_Folders" xml:space="preserve">
+    <value>フォルダー</value>
+  <comment>Folders</comment>
+  </data>
+  <data name="Conversation_CopyTo" xml:space="preserve">
+    <value>コピーする</value>
+  <comment>Copy to</comment>
+  </data>
+  <data name="Conversation_CopyTo2" xml:space="preserve">
+    <value>コピーする</value>
+  <comment>Copy to...</comment>
+  </data>
+  <data name="Options_SettingsMoreInfo" xml:space="preserve">
+    <value>Mailbirdはdpi値が変更されるたびにこの設定を自動的に調整します。 この設定を手動で変更した場合、Mailbirdはdpi設定を変更するまでその値を維持します。 初期設定は100％です。</value>
+  <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
+  </data>
+  <data name="Conversation_MarkImportant" xml:space="preserve">
+    <value>重要なメッセージとしてマークする</value>
+  <comment>Mark as important</comment>
+  </data>
+  <data name="Conversation_MarkNotImportant" xml:space="preserve">
+    <value>重要なメッセージとしてマークしない</value>
+  <comment>Mark as not important</comment>
+  </data>
+  <data name="Conversation_MarkNotRead" xml:space="preserve">
+    <value>未読にする</value>
+  <comment>Mark as unread</comment>
+  </data>
+  <data name="Conversation_MarkNotSpam" xml:space="preserve">
+    <value>スパムとしてマークする</value>
+  <comment>Mark as not spam</comment>
+  </data>
+  <data name="Conversation_MarkNotStarred" xml:space="preserve">
+    <value>スパムから除外</value>
+  <comment>Mark as not starred</comment>
+  </data>
+  <data name="Conversation_MarkRead" xml:space="preserve">
+    <value>既読にする</value>
+  <comment>Mark as read</comment>
+  </data>
+  <data name="Conversation_MarkSpam" xml:space="preserve">
+    <value>スパムとしてマークする</value>
+  <comment>Mark as spam</comment>
+  </data>
+  <data name="Conversation_MarkStarred" xml:space="preserve">
+    <value>スターをつける</value>
+  <comment>Mark as starred</comment>
+  </data>
+  <data name="Conversation_MoveTo" xml:space="preserve">
+    <value>別のフォルダーへ移動</value>
+  <comment>Move to...</comment>
+  </data>
+  <data name="Conversation_MoveToInbox" xml:space="preserve">
+    <value>受信トレイへ移動</value>
+  <comment>Move to Inbox</comment>
+  </data>
+  <data name="Conversation_NoConversations" xml:space="preserve">
+    <value>フォルダーは空です</value>
+  <comment>No conversations in this folder</comment>
+  </data>
+  <data name="Conversation_Print" xml:space="preserve">
+    <value>印刷する</value>
+  <comment>Print conversation</comment>
+  </data>
+  <data name="Conversation_Reply" xml:space="preserve">
+    <value>返信</value>
+  <comment>Reply</comment>
+  </data>
+  <data name="Conversation_ReplyAll" xml:space="preserve">
+    <value>全員に返信する</value>
+  <comment>Reply to all</comment>
+  </data>
+  <data name="Conversation_Sending" xml:space="preserve">
+    <value>送信</value>
+  <comment>Sending</comment>
+  </data>
+  <data name="Conversation_To" xml:space="preserve">
+    <value>To: </value>
+    <comment>To: </comment>
+  </data>
+  <data name="Conversation_ToMe" xml:space="preserve">
+    <value>to me </value>
+    <comment>to me</comment>
+  </data>
+  <data name="Conversation_To2" xml:space="preserve">
+    <value>To</value>
+    <comment>To</comment>
+  </data>
+  <data name="Conversation_Trash" xml:space="preserve">
+    <value>ゴミ箱</value>
+  <comment>Trash</comment>
+  </data>
+  <data name="Dialog_AbortReport" xml:space="preserve">
+    <value>プロセスの送信中にダイアログを閉じると、レポートも中止されます。 中止してもよろしいですか？</value>
+  <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
+  </data>
+  <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
+    <value>転送する前にすべての添付ファイルがダウンロードされるまでお待ちください</value>
+  <comment>Please wait until all attachments have been downloaded before forwarding</comment>
+  </data>
+  <data name="Dialog_Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  <comment>Cancel</comment>
+  </data>
+  <data name="Dialog_Stop" xml:space="preserve">
+    <value>中断</value>
+  <comment>Stop</comment>
+  </data>
+  <data name="Dialog_CantRemoveIdentity" xml:space="preserve">
+    <value>差出人を削除できません</value>
+  <comment>Cannot remove identity</comment>
+  </data>
+  <data name="Dialog_CantRemoveIdentityExplanation" xml:space="preserve">
+    <value>この差出人はアカウントのメインとして紐付けられているため削除できません。</value>
+  <comment>This identity is the main identity of an account and cannot be removed.</comment>
+  </data>
+  <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
+    <value>接続できませんでした</value>
+  <comment>Could not retrieve access</comment>
+  </data>
+  <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
+    <value>Facebookアカウントを認証できませんでした。 もう一度お試しください。</value>
+  <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
+  </data>
+  <data name="Dialog_CantSave" xml:space="preserve">
+    <value>ファイルを保存できませんでした</value>
+  <comment>Could not save file</comment>
+  </data>
+  <data name="Dialog_CantSaveExplanation" xml:space="preserve">
+    <value>ファイル '{0}'を保存できませんでした。 すでに使用中のファイルです。</value>
+  <comment>The file '{0}' could not be saved. File already in use.</comment>
+  </data>
+  <data name="Dialog_DownloadFail" xml:space="preserve">
+    <value>ダウンロードに失敗しました</value>
+  <comment>Download failed</comment>
+  </data>
+  <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
+    <value>添付ファイルをダウンロードできませんでした。
+説明：{0}
+URL：{1}</value>
+  <comment>Could not download the attachment. 
+Description: {0}
+Url: {1}</comment>
+  </data>
+  <data name="Dialog_DownloadProgress" xml:space="preserve">
+    <value>ダウンロード中</value>
+  <comment>Download in progress</comment>
+  </data>
+  <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
+    <value>すべての添付ファイルがダウンロードされるまで待つか、添付ファイルを削除してください。</value>
+  <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
+  </data>
+  <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
+    <value>差出人を作成できません</value>
+  <comment>Cannot create identity</comment>
+  </data>
+  <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
+    <value>既に存在しています。</value>
+  <comment>An identity with the same email address already exists.</comment>
+  </data>
+  <data name="Dialog_EmailSending" xml:space="preserve">
+    <value>送信しています</value>
+  <comment>Emails are sending</comment>
+  </data>
+  <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
+    <value>メッセージはまだ送信中です。 終了して送信を遅らせてもよろしいですか？</value>
+  <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
+  </data>
+  <data name="Dialog_FacebookConnect" xml:space="preserve">
+    <value>Facebook を接続</value>
+  <comment>Facebook connect</comment>
+  </data>
+  <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
+    <value>Facebook で再認証する必要があります。
+Facebook に接続しますか？</value>
+  <comment>We need to re-authenticate with Facebook.
+Do you want to reconnect your Facebook?</comment>
+  </data>
+  <data name="Dialog_FileNotFound" xml:space="preserve">
+    <value>ファイルが見つかりません</value>
+  <comment>File not found</comment>
+  </data>
+  <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
+    <value>'{0}'が見つかりません。 ファイルが正しい場所にあるか確認してください。</value>
+  <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
+  </data>
+  <data name="Dialog_Loading" xml:space="preserve">
+    <value>読み込み中</value>
+  <comment>Loading</comment>
+  </data>
+  <data name="Dialog_LocalLink" xml:space="preserve">
+    <value>ローカルファイルリンクを送信しますか？</value>
+  <comment>Send local file links?</comment>
+  </data>
+  <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
+    <value>コンピュータ上のローカルファイルへのリンクが含まれています。</value>
+  <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
+  </data>
+  <data name="Dialog_No" xml:space="preserve">
+    <value></value>
+  <comment>No</comment>
+  </data>
+  <data name="Dialog_NoBrowser" xml:space="preserve">
+    <value>既定のブラウザーが見つかりませんでした</value>
+  <comment>No default browser found</comment>
+  </data>
+  <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
+    <value>URLを開くことができませんでした。 Google Chrome や Internet Explorer 等の既定のブラウザが正しくインストールされていることを確認し、再インストールしてみてください。</value>
+  <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
+  </data>
+  <data name="Dialog_RemoveAccount" xml:space="preserve">
+    <value>アカウントを削除しますか？</value>
+  <comment>Remove local account?</comment>
+  </data>
+  <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
+    <value>アカウントおよび接続されているすべての id を削除してもよろしいですか？
+Mailbird は再起動します。これは数分かかる場合があります。</value>
+  <comment>Are you sure you want to remove the account and all connected identities?
+
+This will restart Mailbird and may take a few minutes.</comment>
+  </data>
+  <data name="Dialog_RemoveIdentity" xml:space="preserve">
+    <value>ID を削除しますか？</value>
+  <comment>Remove identity?</comment>
+  </data>
+  <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
+    <value>ID  '{0}' を削除してもよろしいですか？
+この動作は元には戻せません。</value>
+  <comment>Are you sure you want to remove the identity for '{0}'?
+This action is irreversible.</comment>
+  </data>
+  <data name="Dialog_ReportCantSend" xml:space="preserve">
+    <value>送信できませんでした</value>
+  <comment>Could not send</comment>
+  </data>
+  <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
+    <value>申し訳ありませんが、レポートを送信できませんでした。
+代わりに {0} に直接メールを送っていただければ幸いです。
+メッセージ：</value>
+  <comment>We're sorry, but your report could not be sent. 
+We would appreciate it, if you could email it directly to {0} instead.
+Message:</comment>
+  </data>
+  <data name="Dialog_ReportSent" xml:space="preserve">
+    <value>レポートを送信しました</value>
+  <comment>Report sent</comment>
+  </data>
+  <data name="Dialog_ReportSentExplanation" xml:space="preserve">
+    <value>問題を報告していただきありがとうございます</value>
+  <comment>Thank you for reporting this issue!</comment>
+  </data>
+  <data name="Dialog_SendingDescriptionExplanation" xml:space="preserve">
+    <value>問題を報告していただきありがとうございます</value>
+  <comment>Thank you for reporting this issue!</comment>
+  </data>
+  <data name="Dialog_SendScreenshot" xml:space="preserve">
+    <value>スクリーンショットの送信を確認する</value>
+  <comment>Confirm sending screenshot</comment>
+  </data>
+  <data name="Dialog_SendScreenshotExplanation" xml:space="preserve">
+    <value>問題の原因を特定するために、レポートと一緒にスクリーンショットを送信してもよろしければチェックを入れてください。</value>
+  <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
+  </data>
+  <data name="Dialog_SizeLimit" xml:space="preserve">
+    <value>サイズ制限を超えました</value>
+  <comment>Size limit exceeded</comment>
+  </data>
+  <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
+    <value>25 MB を超えるファイルは追加できません。</value>
+  <comment>You can't add file larger than 25 mb each.</comment>
+  </data>
+  <data name="Dialog_SmtpFail" xml:space="preserve">
+    <value>SMTP 接続エラー</value>
+  <comment>SMTP connection error</comment>
+  </data>
+  <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
+    <value>接続設定の検証中にエラーが発生しました。 すべてが正しく入力されていることを確認してください。</value>
+  <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
+  </data>
+  <data name="Dialog_SmtpSuccess" xml:space="preserve">
+    <value>SMTP 接続に成功しました</value>
+  <comment>SMTP connection success</comment>
+  </data>
+  <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
+    <value>SMTPサーバーに正常に接続しました。</value>
+  <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
+  </data>
+  <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
+    <value>受信トレイが読み込まれるまでお待ちください</value>
+  <comment>Please wait until your Inbox has loaded</comment>
+  </data>
+  <data name="Dialog_WhoToEmail" xml:space="preserve">
+    <value>宛先がありません</value>
+  <comment>Who'd you like to email?</comment>
+  </data>
+  <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
+    <value>少なくとも 1 人の宛先を指定してください。</value>
+  <comment>Please specify at least one recipient.</comment>
+  </data>
+  <data name="Dialog_WithoutAttachment" xml:space="preserve">
+    <value>添付ファイルなし送信しますか？</value>
+  <comment>Send without attachments?</comment>
+  </data>
+  <data name="Editor_Picture" xml:space="preserve">
+    <value>画像を挿入する</value>
+  <comment>Insert image</comment>
+  </data>
+  <data name="FolderIdentity_Inbox" xml:space="preserve">
+    <value>受信トレイ</value>
+  <comment>Inbox</comment>
+  </data>
+  <data name="Shortcut_ReturnExplanation" xml:space="preserve">
+    <value>ページを更新して、受信トレイまたはスレッド リストに戻ります。</value>
+  <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
+  </data>
+  </root>
