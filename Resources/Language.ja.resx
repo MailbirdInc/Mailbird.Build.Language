@@ -349,7 +349,7 @@ Do you want to reconnect your Facebook?</comment>
   <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
   </data>
   <data name="Dialog_No" xml:space="preserve">
-    <value></value>
+    <value>いいえ</value>
   <comment>No</comment>
   </data>
   <data name="Dialog_NoBrowser" xml:space="preserve">
@@ -464,5 +464,345 @@ Message:</comment>
   <data name="Shortcut_ReturnExplanation" xml:space="preserve">
     <value>ページを更新して、受信トレイまたはスレッド リストに戻ります。</value>
   <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
+  </data>
+  <data name="Attachment_SaveAll" xml:space="preserve">
+    <value>すべて保存</value>
+  <comment>Save all as...</comment>
+  </data>
+  <data name="Contact_CopyMailName" xml:space="preserve">
+    <value>名前とメールアドレスをコピー</value>
+  <comment>Copy name and email</comment>
+  </data>
+  <data name="Contact_NewMail" xml:space="preserve">
+    <value>新規メール</value>
+  <comment>Send new mail</comment>
+  </data>
+  <data name="Dialog_AlreadyAttached" xml:space="preserve">
+    <value>既に添付されています</value>
+  <comment>Already attached</comment>
+  </data>
+  <data name="Dialog_AlreadyAttachedExplanation" xml:space="preserve">
+    <value>既に添付されているファイルは追加できません。</value>
+  <comment>You can't add file that is already attached.</comment>
+  </data>
+  <data name="Dialog_AttachmentNotDownloaded" xml:space="preserve">
+    <value>添付ファイルがダウンロードされていません</value>
+  <comment>Attachment(s) not downloaded</comment>
+  </data>
+  <data name="Dialog_OK" xml:space="preserve">
+    <value>はい</value>
+  <comment>OK</comment>
+  </data>
+  <data name="Dialog_Thanks" xml:space="preserve">
+    <value>ありがとうございます !</value>
+  <comment>Thanks!</comment>
+  </data>
+  <data name="Dialog_Warning" xml:space="preserve">
+    <value>警告</value>
+  <comment>Warning</comment>
+  </data>
+  <data name="Dialog_Yes" xml:space="preserve">
+    <value>はい</value>
+  <comment>Yes</comment>
+  </data>
+  <data name="Editor_Html" xml:space="preserve">
+    <value>HTML を編集</value>
+  <comment>Edit Html</comment>
+  </data>
+  <data name="Dialog_Close" xml:space="preserve">
+    <value>閉じる</value>
+  <comment>Close</comment>
+  </data>
+  <data name="Dialog_Help" xml:space="preserve">
+    <value>ヘルプ</value>
+  <comment>Help</comment>
+  </data>
+  <data name="Account_Create" xml:space="preserve">
+    <value>新しいアカウントの作成</value>
+  <comment>Create account</comment>
+  </data>
+  <data name="Account_Edit" xml:space="preserve">
+    <value>アカウントの編集</value>
+  <comment>Edit account</comment>
+  </data>
+  <data name="Account_Email" xml:space="preserve">
+    <value>Email:</value>
+    <comment>Email:</comment>
+  </data>
+  <data name="Account_Name" xml:space="preserve">
+    <value>Your name:</value>
+    <comment>Your name:</comment>
+  </data>
+  <data name="Account_Password" xml:space="preserve">
+    <value>Password:</value>
+    <comment>Password:</comment>
+  </data>
+  <data name="Account_WrongPassword" xml:space="preserve">
+    <value>正しいパスワードを入力してください</value>
+  <comment>Please enter the correct password</comment>
+  </data>
+  <data name="Dialog_Add" xml:space="preserve">
+    <value>追加</value>
+  <comment>Add</comment>
+  </data>
+  <data name="Dialog_Browse" xml:space="preserve">
+    <value>検索</value>
+  <comment>Browse</comment>
+  </data>
+  <data name="Dialog_Continue" xml:space="preserve">
+    <value>続ける</value>
+  <comment>Continue</comment>
+  </data>
+  <data name="Dialog_DiscardDraft" xml:space="preserve">
+    <value>下書きを破棄しますか？</value>
+  <comment>Discard Draft?</comment>
+  </data>
+  <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
+    <value>この下書きを破棄してよろしいですか？</value>
+  <comment>Are you sure you want to discard your draft?</comment>
+  </data>
+  <data name="Editor_InsertLink" xml:space="preserve">
+    <value>リンクを挿入</value>
+  <comment>Insert link</comment>
+  </data>
+  <data name="Identity_Account" xml:space="preserve">
+    <value>Account:</value>
+    <comment>Account:</comment>
+  </data>
+  <data name="Identity_Add" xml:space="preserve">
+    <value>ID を追加</value>
+  <comment>Add identity</comment>
+  </data>
+  <data name="Identity_Edit" xml:space="preserve">
+    <value>ID を編集</value>
+  <comment>Edit identity</comment>
+  </data>
+  <data name="Identity_ReplyTo" xml:space="preserve">
+    <value>Reply-to:</value>
+    <comment>Reply-to:</comment>
+  </data>
+  <data name="Identity_SendFromAccount" xml:space="preserve">
+    <value>アカウント</value>
+  <comment>Account</comment>
+  </data>
+  <data name="Identity_SendFromSmtp" xml:space="preserve">
+    <value>SMTP サーバー</value>
+  <comment>SMTP Server</comment>
+  </data>
+  <data name="Identity_Signature" xml:space="preserve">
+    <value>署名：</value>
+  <comment>Signature:</comment>
+  </data>
+  <data name="Identity_SmtpPassword" xml:space="preserve">
+    <value>Password:</value>
+    <comment>Password:</comment>
+  </data>
+  <data name="Identity_SmtpPort" xml:space="preserve">
+    <value>Port:</value>
+    <comment>Port:</comment>
+  </data>
+  <data name="Identity_SmtpServer" xml:space="preserve">
+    <value>SMTP サーバー:</value>
+  <comment>SMTP server:</comment>
+  </data>
+  <data name="Identity_SmtpUsername" xml:space="preserve">
+    <value>Username:</value>
+    <comment>Username:</comment>
+  </data>
+  <data name="Identity_Test" xml:space="preserve">
+    <value>接続テスト</value>
+  <comment>Test connection</comment>
+  </data>
+  <data name="Identity_Testing" xml:space="preserve">
+    <value>接続のテスト中...</value>
+  <comment>Testing connection...</comment>
+  </data>
+  <data name="Dialog_Report" xml:space="preserve">
+    <value>この問題を報告する</value>
+  <comment>Report this problem</comment>
+  </data>
+  <data name="Dialog_Restart" xml:space="preserve">
+    <value>再起動</value>
+  <comment>Restart</comment>
+  </data>
+  <data name="Find_Close" xml:space="preserve">
+    <value>検索ウィンドウを閉じる</value>
+  <comment>Close find window</comment>
+  </data>
+  <data name="Find_Find" xml:space="preserve">
+    <value>検索</value>
+  <comment>Find</comment>
+  </data>
+  <data name="Find_Next" xml:space="preserve">
+    <value>Next</value>
+    <comment>Next</comment>
+  </data>
+  <data name="Find_Previous" xml:space="preserve">
+    <value>Previous</value>
+    <comment>Previous</comment>
+  </data>
+  <data name="About_Copyright" xml:space="preserve">
+    <value>Copyright {0} Mailbird. All Rights Reserved.</value>
+    <comment>Copyright {current year} Mailbird. All Rights Reserved.</comment>
+  </data>
+  <data name="About_Version" xml:space="preserve">
+    <value>Version</value>
+    <comment>Version</comment>
+  </data>
+  <data name="Conversation_Bcc" xml:space="preserve">
+    <value>Bcc: </value>
+    <comment>Bcc:</comment>
+  </data>
+  <data name="Conversation_Bcc1" xml:space="preserve">
+    <value>Bcc</value>
+    <comment>Bcc</comment>
+  </data>
+  <data name="Conversation_Cc" xml:space="preserve">
+    <value>Cc: </value>
+    <comment>Cc:</comment>
+  </data>
+  <data name="Conversation_Cc1" xml:space="preserve">
+    <value>Cc</value>
+    <comment>Cc</comment>
+  </data>
+  <data name="Default_AlwaysAsk" xml:space="preserve">
+    <value>Mailbird 起動時に新しいバージョンをチェックする</value>
+  <comment>Always perform this check when starting Mailbird</comment>
+  </data>
+  <data name="Default_SetAs" xml:space="preserve">
+    <value>既定のメールクライアントとして設定しますか？</value>
+  <comment>Set as default?</comment>
+  </data>
+  <data name="Default_SetAsExplanation" xml:space="preserve">
+    <value>Mailbird を既定のメールクライアントとして設定しますか？</value>
+  <comment>Do you want to use Mailbird as your default email client?</comment>
+  </data>
+  <data name="Dialog_Overwrite" xml:space="preserve">
+    <value>上書きしてよろしいですか？</value>
+  <comment>Overwrite Existing Files?</comment>
+  </data>
+  <data name="Dialog_OverwriteExplanation" xml:space="preserve">
+    <value>既存のファイルを上書きしてよろしいですか?</value>
+  <comment>Would you like to overwrite existing files?</comment>
+  </data>
+  <data name="Dialog_Purchase" xml:space="preserve">
+    <value>購入</value>
+  <comment>Purchase</comment>
+  </data>
+  <data name="Dialog_SaveFolder" xml:space="preserve">
+    <value>添付ファイルの保存先を選択</value>
+  <comment>Select the folder to save the selected attachments in:</comment>
+  </data>
+  <data name="Draft_Saved" xml:space="preserve">
+    <value>保存されました</value>
+  <comment>saved</comment>
+  </data>
+  <data name="Day_Friday" xml:space="preserve">
+    <value>Friday</value>
+    <comment>Friday</comment>
+  </data>
+  <data name="Day_Monday" xml:space="preserve">
+    <value>Monday</value>
+    <comment>Monday</comment>
+  </data>
+  <data name="Day_Saturday" xml:space="preserve">
+    <value>Saturday</value>
+    <comment>Saturday</comment>
+  </data>
+  <data name="Day_Sunday" xml:space="preserve">
+    <value>Sunday</value>
+    <comment>Sunday</comment>
+  </data>
+  <data name="Day_Thursday" xml:space="preserve">
+    <value>Thursday</value>
+    <comment>Thursday</comment>
+  </data>
+  <data name="Day_Tuesday" xml:space="preserve">
+    <value>Tuesday</value>
+    <comment>Tuesday</comment>
+  </data>
+  <data name="Day_Wednesday" xml:space="preserve">
+    <value>Wednesday</value>
+    <comment>Wednesday</comment>
+  </data>
+  <data name="Day_Yesterday" xml:space="preserve">
+    <value>Yesterday</value>
+    <comment>Yesterday</comment>
+  </data>
+  <data name="Download_Always" xml:space="preserve">
+    <value>常にダウンロード</value>
+  <comment>Always download</comment>
+  </data>
+  <data name="Download_Never" xml:space="preserve">
+    <value>常にダウンロードしない</value>
+  <comment>Never download</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
+    <value>メールアドレスを入力してください</value>
+  <comment>Please enter an email address</comment>
+  </data>
+  <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
+    <value>表示テキストを入力してください</value>
+  <comment>Error text when display text in insert link window is empty</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
+    <value>空の招待状を送信することはできません</value>
+  <comment>You cannot send an empty invitation</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyPassword" xml:space="preserve">
+    <value>パスワードを入力してください</value>
+  <comment>Please enter a password</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
+    <value>ポート番号を入力してください</value>
+  <comment>Please enter a port number</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
+    <value>サーバー名を入力してください</value>
+  <comment>Please enter the server name</comment>
+  </data>
+  <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
+    <value>件名を入力してください</value>
+  <comment>Please enter subject</comment>
+  </data>
+  <data name="AccountValidationRule_EmptyUsername" xml:space="preserve">
+    <value>ユーザー名を入力してください</value>
+  <comment>Please enter a username</comment>
+  </data>
+  <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
+    <value>メールアドレスが無効です</value>
+  <comment>Email is invalid</comment>
+  </data>
+  <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
+    <value>有効なライセンス キーを入力してください</value>
+  <comment>Please enter a valid license key</comment>
+  </data>
+  <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
+    <value>正しいURLを入力してください</value>
+  <comment>Please enter a valid url</comment>
+  </data>
+  <data name="AccountValidationRule_SenderName" xml:space="preserve">
+    <value>お名前を入力してください</value>
+  <comment>Please enter your name</comment>
+  </data>
+  <data name="Facebook_HowMailbirdConnectsLink" xml:space="preserve">
+    <value>Facebook アカウントを接続しますか？</value>
+  <comment>How can Mailbird connect with your Facebook?</comment>
+  </data>
+  <data name="Dialog_URL" xml:space="preserve">
+    <value>URL</value>
+    <comment>URL</comment>
+  </data>
+  <data name="Dialog_Email" xml:space="preserve">
+    <value>Email</value>
+    <comment>Email</comment>
+  </data>
+  <data name="Dialog_NameLabel" xml:space="preserve">
+    <value>Name:</value>
+    <comment>Name:</comment>
+  </data>
+  <data name="EditFolderWindow_Title" xml:space="preserve">
+    <value>フォルダーを追加</value>
+  <comment>Add folder</comment>
   </data>
   </root>
