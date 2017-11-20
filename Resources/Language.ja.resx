@@ -303,7 +303,7 @@ Url: {1}</comment>
   <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
-    <value>差出人を作成できません</value>
+    <value>IDを作成できません</value>
   <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
@@ -518,7 +518,7 @@ Message:</comment>
   <comment>Help</comment>
   </data>
   <data name="Account_Create" xml:space="preserve">
-    <value>新しいアカウントの作成</value>
+    <value>アカウントの作成</value>
   <comment>Create account</comment>
   </data>
   <data name="Account_Edit" xml:space="preserve">
@@ -804,5 +804,135 @@ Message:</comment>
   <data name="EditFolderWindow_Title" xml:space="preserve">
     <value>フォルダーを追加</value>
   <comment>Add folder</comment>
+  </data>
+  <data name="Dialog_SendingDescription" xml:space="preserve">
+    <value>概要を送信する</value>
+  <comment>Sending description</comment>
+  </data>
+  <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
+    <value>あなたは "{0}"と書きました。添付ファイルなしでメールを送信する場合は、下の「OK」を押してください。</value>
+  <comment>You wrote "{0}", and we thought you might want to attach a file.
+If you want to send the email without attachments, just press "Ok" below.</comment>
+  </data>
+  <data name="InboxZero_Awesome" xml:space="preserve">
+    <value>あなたは素晴らしいです！</value>
+  <comment>You are awesome!</comment>
+  </data>
+  <data name="Identity_DifferentReplyTo" xml:space="preserve">
+    <value>別の返信先アドレスを使用する</value>
+  <comment>Use a different reply-to address</comment>
+  </data>
+  <data name="Identity_DifferentSignature" xml:space="preserve">
+    <value>{0}とは異なる署名を使用する</value>
+  <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
+  </data>
+  <data name="Identity_SendThrough" xml:space="preserve">
+    <value>宛先:</value>
+  <comment>Send through:</comment>
+  </data>
+  <data name="AccountValidationRule_InvalidEmail2" xml:space="preserve">
+    <value>メールが無効です</value>
+  <comment>Email appears invalid</comment>
+  </data>
+  <data name="FolderIdentity_Archived" xml:space="preserve">
+    <value>アーカイブ済</value>
+  <comment>Archived</comment>
+  </data>
+  <data name="FolderIdentity_Drafts" xml:space="preserve">
+    <value>草稿</value>
+  <comment>Drafts</comment>
+  </data>
+  <data name="FolderIdentity_Important" xml:space="preserve">
+    <value>重要</value>
+  <comment>Important</comment>
+  </data>
+  <data name="FolderIdentity_Sent" xml:space="preserve">
+    <value>送信トレイ</value>
+  <comment>Sent</comment>
+  </data>
+  <data name="FolderIdentity_Spam" xml:space="preserve">
+    <value>スパム</value>
+  <comment>Spam</comment>
+  </data>
+  <data name="App_Evernote_Description" xml:space="preserve">
+    <value>Mailbird から直接メモを作成、表示、編集することができます。シンプルで生産的です。</value>
+  <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
+  </data>
+  <data name="Options_RecordShortcut1" xml:space="preserve">
+    <value>クリックしてショートカットを作成する</value>
+  <comment>Click to create shortcut</comment>
+  </data>
+  <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
+    <value>キャッシュファイルを作成できませんでした。最も可能性の高いアンチウィルスプログラムが阻止しています。Path: {0}</value>
+  <comment>Could not create attachment cache file. Most likely anti-virus program prevented this.
+Path: {0}</comment>
+  </data>
+  <data name="Welcome_UnableCreateAccount" xml:space="preserve">
+    <value>アカウントを作成できません</value>
+  <comment>Cannot create account</comment>
+  </data>
+  <data name="App_Contacts_CreateContactFromAddress" xml:space="preserve">
+    <value>連絡先を作成する</value>
+  <comment>Create contact</comment>
+  </data>
+  <data name="Trial_Feature1" xml:space="preserve">
+    <value>Speed Reader</value>
+    <comment>Speed Reader</comment>
+  </data>
+  <data name="MailEditor_WebrootPasteError" xml:space="preserve">
+    <value>Webroot SecureAnywhere によってブロックされます。Mailbird を許可してください。</value>
+  <comment>Blocked by Webroot SecureAnywhere. Please set Webroot Identity Protection to protect or allow Mailbird</comment>
+  </data>
+  <data name="Invite_Waiting" xml:space="preserve">
+    <value>インストールを待っています</value>
+  <comment>Awaiting installation</comment>
+  </data>
+  <data name="Dialog_MissingOrCorruptFiles" xml:space="preserve">
+    <value>インストールの問題が検出されました</value>
+  <comment>Header of popup shown when a missing or corrupt Mailbird file has been detected.</comment>
+  </data>
+  <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
+    <value>1つまたは複数のファイルが壊れているか、見つかりません。問題を解決するには、Mailbirdをアンインストールしてから再インストールしてください。https://www.getmailbird.com から最新バージョンを入手してください。すべての設定、メール等はアンインストール中にメッセージに従い削除しない限り保持されます。</value>
+  <comment>Message body of popup shown when a missing or corrupt Mailbird file has been detected.</comment>
+  </data>
+  <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
+    <value>デスクトップにショートカットを作成する</value>
+  <comment>Create shortcut on desktop</comment>
+  </data>
+  <data name="InstallationForm_InstallationCompleted" xml:space="preserve">
+    <value>インストールが完了しました</value>
+  <comment>Installation complete</comment>
+  </data>
+  <data name="Trial_AlreadyHaveLicense" xml:space="preserve">
+    <value>私はすでにライセンスキーを持っています</value>
+  <comment>I already have a license key</comment>
+  </data>
+  <data name="InstallationForm_SetAsDefault" xml:space="preserve">
+    <value>Mailbird を既定のメールクライアントとして設定する</value>
+  <comment>Set Mailbird as the default email client</comment>
+  </data>
+  <data name="Dialog_Create" xml:space="preserve">
+    <value>作成</value>
+  <comment>Create</comment>
+  </data>
+  <data name="App_Contacts_AddContact_Create" xml:space="preserve">
+    <value>作成</value>
+  <comment>Create</comment>
+  </data>
+  <data name="Dialog_SubjectChanged_Title" xml:space="preserve">
+    <value>新しい会話を作成しますか？</value>
+  <comment>Create a new conversation?</comment>
+  </data>
+  <data name="App_Contacts_Groups_CreateFromSearch" xml:space="preserve">
+    <value>"{0}" (グループを作成)</value>
+  <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
+  </data>
+  <data name="App_Contacts_AddContact" xml:space="preserve">
+    <value>連絡先を追加または作成する</value>
+  <comment>Tooltip for button to create or add contact to group</comment>
+  </data>
+  <data name="App_Contacts_CreateContact" xml:space="preserve">
+    <value>連絡先を作成する</value>
+  <comment>Tooltip for button to create contact</comment>
   </data>
   </root>
