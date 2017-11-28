@@ -6335,4 +6335,12 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <value>A new version of Mailbird has been installed. Release notes are shown below.</value>
     <comment>Message of notification shown when Mailbird has been updated.</comment>
   </data>
+<data name="Disabled_MessageHeaderAccount" xml:space="preserve">
+    <value>Account is disabled</value>
+    <comment>Header when performing action is not allowed due to disabled account </comment>
+  </data>
+  <data name="Disabled_MessageHeaderIdentity" xml:space="preserve">
+    <value>Identity is disabled</value>
+    <comment>Header when performing action is not allowed due to disabled identity</comment>
+  </data>
 </root>
