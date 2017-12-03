@@ -550,7 +550,7 @@ Message:</comment>
   <comment>Browse</comment>
   </data>
   <data name="Dialog_Continue" xml:space="preserve">
-    <value>続ける</value>
+    <value>Continue</value>
   <comment>Continue</comment>
   </data>
   <data name="Dialog_DiscardDraft" xml:space="preserve">
@@ -690,7 +690,7 @@ Message:</comment>
   <comment>Purchase</comment>
   </data>
   <data name="Dialog_SaveFolder" xml:space="preserve">
-    <value>添付ファイルの保存先を選択</value>
+    <value>添付ファイルの保存先:</value>
   <comment>Select the folder to save the selected attachments in:</comment>
   </data>
   <data name="Draft_Saved" xml:space="preserve">
@@ -782,7 +782,7 @@ Message:</comment>
   <comment>Please enter a valid url</comment>
   </data>
   <data name="AccountValidationRule_SenderName" xml:space="preserve">
-    <value>お名前を入力してください</value>
+    <value>名前を入力してください</value>
   <comment>Please enter your name</comment>
   </data>
   <data name="Facebook_HowMailbirdConnectsLink" xml:space="preserve">
@@ -992,64 +992,64 @@ Path: {0}</comment>
     <comment>Productivity right at your fingertips! Organize, take action, and cross off your to do list.</comment>
   </data>
   <data name="App_Attachments_Description" xml:space="preserve">
-    <value>Search and find attachments, view thumbnails and easily drag them to your local folders.</value>
-    <comment>Search and find attachments, view thumbnails and easily drag them to your local folders.</comment>
+    <value>添付ファイルの検索、サムネイルの表示、ローカルフォルダへ簡単にドラッグ</value>
+  <comment>Search and find attachments, view thumbnails and easily drag them to your local folders.</comment>
   </data>
   <data name="App_Attachments_FilenameLabel" xml:space="preserve">
-    <value>Filename contains:</value>
-    <comment>Filename contains:</comment>
+    <value>ファイル名には以下が含まれます:</value>
+  <comment>Filename contains:</comment>
   </data>
   <data name="App_Attachments_LoadingText" xml:space="preserve">
     <value>Searching...</value>
     <comment>Searching...</comment>
   </data>
   <data name="App_Attachments_MinSizeLabel" xml:space="preserve">
-    <value>Minimum size:</value>
-    <comment>Minimum size:</comment>
+    <value>最小サイズ:</value>
+  <comment>Minimum size:</comment>
   </data>
   <data name="App_Attachments_ThumbSizeLabel" xml:space="preserve">
-    <value>Thumbnail size:</value>
-    <comment>Thumbnail size:</comment>
+    <value>サムネイルのサイズ:</value>
+  <comment>Thumbnail size:</comment>
   </data>
   <data name="App_Attachments_Title" xml:space="preserve">
-    <value>Attachments</value>
-    <comment>Attachments</comment>
+    <value>添付ファイル</value>
+  <comment>Attachments</comment>
   </data>
   <data name="App_Attachments_Tooltip" xml:space="preserve">
-    <value>Search Attachments</value>
-    <comment>Search Attachments</comment>
+    <value>添付ファイルを検索</value>
+  <comment>Search Attachments</comment>
   </data>
   <data name="App_Calendar_Description" xml:space="preserve">
-    <value>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</value>
-    <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
+    <value>予定はありますか？それを追加し、Mailbird で確認してください。 Gmailユーザーに最適なアプリです。</value>
+  <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
-    <value>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</value>
-    <comment>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</comment>
+    <value>Veeting Roomsを使用して、MailbirdからWEB会議を直接セットアップできます。</value>
+  <comment>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</comment>
   </data>
   <data name="App_Contacts_Description" xml:space="preserve">
-    <value>Easily edit, manage and email your contacts and contact groups.</value>
-    <comment>Easily edit, manage and email your contacts and contact groups.</comment>
+    <value>連絡先や連絡先グループを簡単に編集、管理、メールで送信することができます。</value>
+  <comment>Easily edit, manage and email your contacts and contact groups.</comment>
   </data>
   <data name="App_Contacts_FailedFacebook" xml:space="preserve">
-    <value>Could not fetch information on contact from Facebook.</value>
-    <comment>Could not fetch information on contact from Facebook.</comment>
+    <value>Facebookから連絡先に関する情報を取得できませんでした。</value>
+  <comment>Could not fetch information on contact from Facebook.</comment>
   </data>
   <data name="App_Contacts_LoadingFacebook" xml:space="preserve">
-    <value>Loading info on this contact from Facebook...</value>
-    <comment>Loading info on this contact from Facebook...</comment>
+    <value>Facebookから連絡先の情報を読み込んでいます...</value>
+  <comment>Loading info on this contact from Facebook...</comment>
   </data>
   <data name="App_Contacts_LoadingText" xml:space="preserve">
     <value>Searching...</value>
     <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Please connect to Facebook in Settings to get more info on this contact.</value>
-    <comment>Please connect to Facebook in Settings to get more info on this contact.</comment>
+    <value>この連絡先に関する詳しい情報を得るには、Facebookに接続してください。</value>
+  <comment>Please connect to Facebook in Settings to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
-    <value>No matches found</value>
-    <comment>No matches found</comment>
+    <value>一致するものがありません</value>
+  <comment>No matches found</comment>
   </data>
   <data name="App_Contacts_SearchLabel" xml:space="preserve">
     <value>Search people...</value>
@@ -1060,52 +1060,52 @@ Path: {0}</comment>
     <comment>Contacts</comment>
   </data>
   <data name="App_Dropbox_Description" xml:space="preserve">
-    <value>Access, share, and organize all those files without ever leaving the Mailbird nest.</value>
-    <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
+    <value>Mailbirdから離れることなく、すべてのファイルにアクセスし、共有し、整理します。</value>
+  <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Facebook_Description" xml:space="preserve">
-    <value>Be a social superstar. Access Facebook and chat with friends from Mailbird.</value>
-    <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
+    <value>SNSの人気者になりましょう。Facebookにアクセスし、Mailbirdからチャットができます。</value>
+  <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
   <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Help make Mailbird the best email app in the world.</value>
-    <comment>Help make Mailbird the best email app in the world.</comment>
+    <value>Mailbirdを世界最高のメールクライアントにする手助けをしてください。</value>
+  <comment>Help make Mailbird the best email app in the world.</comment>
   </data>
   <data name="App_Feedback_Title" xml:space="preserve">
     <value>Feedback</value>
     <comment>Feedback</comment>
   </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
-    <value>Quickly navigate to your important documents from Mailbird.</value>
-    <comment>Quickly navigate to your important documents from Mailbird.</comment>
+    <value>Mailbirdから重要な文書にすばやく移動できます。</value>
+  <comment>Quickly navigate to your important documents from Mailbird.</comment>
   </data>
   <data name="App_Lifehacker_Description" xml:space="preserve">
-    <value>Curates tips, tricks, and technology for living better in the digital age.</value>
-    <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
+    <value>情報化時代を生きるためのヒント、策略、テクノロジーを紹介します。</value>
+  <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
   </data>
   <data name="App_RetroSift_Description" xml:space="preserve">
-    <value>Easily search and find lost photos in your emails.</value>
-    <comment>Easily search and find lost photos in your emails.</comment>
+    <value>あなたのメールから失われた写真を簡単に見つけられます。</value>
+  <comment>Easily search and find lost photos in your emails.</comment>
   </data>
   <data name="App_RetroSift_Title" xml:space="preserve">
-    <value>Lost Photos</value>
-    <comment>Lost Photos</comment>
+    <value>失われた写真です</value>
+  <comment>Lost Photos</comment>
   </data>
   <data name="App_Support_Description" xml:space="preserve">
-    <value>A place to get help from our Mailbird staff.</value>
-    <comment>A place to get help from our Mailbird staff.</comment>
+    <value>Mailbirdスタッフから助けを得る。</value>
+  <comment>A place to get help from our Mailbird staff.</comment>
   </data>
   <data name="App_Support_Title" xml:space="preserve">
     <value>Support</value>
     <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
-    <value>Paste file(s) as attachment</value>
-    <comment>Paste file(s) as attachment</comment>
+    <value>添付ファイルを貼り付ける</value>
+  <comment>Paste file(s) as attachment</comment>
   </data>
   <data name="InboxZero_HighFive" xml:space="preserve">
-    <value>High-five from the Mailbird team!</value>
-    <comment>High-five from the Mailbird team!</comment>
+    <value>おめでとう！</value>
+  <comment>High-five from the Mailbird team!</comment>
   </data>
   <data name="InboxZero_Impressive" xml:space="preserve">
     <value>You did it! Impressive!</value>
@@ -1136,8 +1136,8 @@ Path: {0}</comment>
     <comment>You're an email rockstar!!</comment>
   </data>
   <data name="License_CorrectComputerDate" xml:space="preserve">
-    <value>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</value>
-    <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
+    <value>お使いのPCで不正な日付が検出されました。コンピュータの日付設定を修正し、OK / Continueを押して続行してください。</value>
+  <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
     <value>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</value>
@@ -1148,8 +1148,8 @@ Path: {0}</comment>
     <comment>Expired License</comment>
   </data>
   <data name="License_ExpiredExplanation" xml:space="preserve">
-    <value>Your license key has expired. Please enter another license key or renew the current license key to continue.</value>
-    <comment>Your license key has expired. Please enter another license key or renew the current license key to continue.</comment>
+    <value>ライセンスキーの有効期限が切れています。続行するには、別のライセンスキーを入力するか、現在のライセンスキーを更新してください。</value>
+  <comment>Your license key has expired. Please enter another license key or renew the current license key to continue.</comment>
   </data>
   <data name="License_IncorrectDate" xml:space="preserve">
     <value>Incorrect Date</value>
@@ -1168,16 +1168,16 @@ Path: {0}</comment>
     <comment>Invalid license key</comment>
   </data>
   <data name="License_InvalidExplanation" xml:space="preserve">
-    <value>Please enter the new license key and press continue to update the license.</value>
-    <comment>Please enter the new license key and press continue to update the license.</comment>
+    <value>新しいライセンスキーを入力し、[continue]を押してライセンスを更新してください。</value>
+  <comment>Please enter the new license key and press continue to update the license.</comment>
   </data>
   <data name="License_License" xml:space="preserve">
     <value>License</value>
     <comment>License</comment>
   </data>
   <data name="License_LicenseExplanation" xml:space="preserve">
-    <value>Please enter your license key to continue.</value>
-    <comment>Please enter your license key to continue.</comment>
+    <value>続行するにはライセンスキーを入力してください。</value>
+  <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
     <value>Your license is valid forever.</value>
@@ -1680,8 +1680,8 @@ Path: {0}</comment>
     <comment>Layout and theme color</comment>
   </data>
   <data name="Options_ChooseMenuColor" xml:space="preserve">
-    <value>Choose theme color</value>
-    <comment>Choose theme color</comment>
+    <value>テーマカラーを選ぶ</value>
+  <comment>Choose theme color</comment>
   </data>
   <data name="Options_ShowAnimations" xml:space="preserve">
     <value>Show animations</value>
@@ -2112,8 +2112,8 @@ Path: {0}</comment>
     <comment>Switch folder</comment>
   </data>
   <data name="Shortcut_SwitchFolderExplanation" xml:space="preserve">
-    <value>Switch between folders</value>
-    <comment>Switch between folders</comment>
+    <value>フォルダを切り替える</value>
+  <comment>Switch between folders</comment>
   </data>
   <data name="Shortcut_Undo" xml:space="preserve">
     <value>Undo</value>
@@ -2196,9 +2196,8 @@ Consider configuring the account in Mailbird to use OAuth 2.0 authentication ins
     <comment>Encryption:</comment>
   </data>
   <data name="Welcome_Facebook" xml:space="preserve">
-    <value>See profile photos of your friends and family in Mailbird. 
-We will never post anything to Facebook.</value>
-    <comment>See profile photos of your friends and family in Mailbird. 
+    <value>Mailbirdで使用するプロフィール写真をFacebookから取得します。これによってMailbirdからFacebookに投稿を許可することはありません。</value>
+  <comment>See profile photos of your friends and family in Mailbird. 
 We will never post anything to Facebook.</comment>
   </data>
   <data name="Welcome_IncomingServer" xml:space="preserve">
@@ -2278,8 +2277,8 @@ We will never post anything to Facebook.</comment>
     <comment>Add account</comment>
   </data>
   <data name="Welcome_WelcomeExplanation" xml:space="preserve">
-    <value>Enter the details of an email account you would like to add to Mailbird.</value>
-    <comment>Enter the details of an email account you would like to add to Mailbird.</comment>
+    <value>Mailbirdに追加するメールアカウントの詳細を入力します。</value>
+  <comment>Enter the details of an email account you would like to add to Mailbird.</comment>
   </data>
   <data name="Report_OptionalEmail" xml:space="preserve">
     <value>Your email: (optional - so we can contact you)</value>
@@ -3358,8 +3357,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Vertical</comment>
   </data>
   <data name="Welcome_FinalStepExplanation" xml:space="preserve">
-    <value>Select your preferred layout</value>
-    <comment>Select your preferred layout</comment>
+    <value>好みのレイアウトを選択してください</value>
+  <comment>Select your preferred layout</comment>
   </data>
   <data name="Welcome_ThemeAndLayout" xml:space="preserve">
     <value>Customize Mailbird</value>
@@ -3370,8 +3369,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</value>
-    <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
+    <value>ライセンス認証サーバーに接続できませんでした。続行するにはインターネット接続を確認してください。 Mailbirdをホワイトリストに登録するには、ファイアウォール、ウイルス対策、またはプロキシ接続を無効にするか、設定してください。</value>
+  <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
     <value>License key</value>
@@ -3394,8 +3393,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
-    <value>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</value>
-    <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
+    <value>あなたのアカウントはLite（無料）バージョンに変換され、すべてのPro機能を使用できなくなります。 Mailbird Proを購入し、以下のライセンスキーを入力する場合は、すべての機能を使用することができます。</value>
+  <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
   </data>
   <data name="Trial_Feature2" xml:space="preserve">
     <value>More than {0} accounts</value>
@@ -3491,8 +3490,8 @@ Are you sure you want to cancel?</comment>
     <comment>Profile photos</comment>
   </data>
   <data name="Welcome_GuideCompletedDescription" xml:space="preserve">
-    <value>You can now start using Mailbird while we sync your messages in the background.</value>
-    <comment>You can now start using Mailbird while we sync your messages in the background.</comment>
+    <value>バックグラウンドでメッセージを同期させている間に、Mailbirdの使用を開始できるようになりました。</value>
+  <comment>You can now start using Mailbird while we sync your messages in the background.</comment>
   </data>
   <data name="Welcome_GuideCompletedTitle" xml:space="preserve">
     <value>Setup completed</value>
@@ -3611,8 +3610,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Get Snooze and many other features to boost your productivity.</comment>
   </data>
   <data name="Welcome_MoreAccounts_Header" xml:space="preserve">
-    <value>Want to add more email accounts?</value>
-    <comment>Want to add more email accounts?</comment>
+    <value>メールアカウントを追加しますか？</value>
+  <comment>Want to add more email accounts?</comment>
   </data>
   <data name="License_RestartToConvertLiteExplanation" xml:space="preserve">
     <value>Because you have more than {0} accounts added, Mailbird will now restart and load only {0} of your accounts. The other accounts will be hidden, and can be loaded by either removing a loaded account or upgrading to Pro.</value>
@@ -3707,8 +3706,8 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Folder not found</comment>
   </data>
   <data name="Folder_Manage" xml:space="preserve">
-    <value>Manage folders</value>
-    <comment>Manage folders</comment>
+    <value>フォルダの管理</value>
+  <comment>Manage folders</comment>
   </data>
   <data name="Folder_NoFolders" xml:space="preserve">
     <value>No folders</value>
@@ -3819,10 +3818,10 @@ Requires multiple accounts.</comment>
     <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
+    <value>Mailbirdに複数のアカウントを追加すると、新しい統一アカウントがナビゲーションバーのアカウントリストの一番上に表示されます。これには、すべてのアカウントのシステムフォルダからのすべてのメッセージが1か所に格納されています。通常のアカウントと同じように使用できます。
 
-You can disable the unified account from the settings, or edit each of your accounts to decide which should be included in it.</value>
-    <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
+設定から統一アカウントを無効にするか、各アカウントを編集して、いずれのアカウントをそのアカウントに含めるかを決めることができます。</value>
+  <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the settings, or edit each of your accounts to decide which should be included in it.</comment>
   </data>
@@ -3987,8 +3986,8 @@ You can disable the unified account from the settings, or edit each of your acco
     <comment>Contact support</comment>
   </data>
   <data name="Welcome_NeedSupportQuestion" xml:space="preserve">
-    <value>Do you have any questions?</value>
-    <comment>Do you have any questions?</comment>
+    <value>サポートが必要ですか？</value>
+  <comment>Do you have any questions?</comment>
   </data>
   <data name="Dialog_Calify" xml:space="preserve">
     <value>Install Calify</value>
@@ -4117,10 +4116,10 @@ https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
     <comment>Send Invites</comment>
   </data>
   <data name="App_DefaultFatalError" xml:space="preserve">
-    <value>An error occured in the app. Please restart Mailbird and try again.
+    <value>エラーが発生しました。 Mailbirdを再起動してもう一度やり直してください。
 
-If you continue to experience this error, please contact support.</value>
-    <comment>An error occured in the app. Please restart Mailbird and try again.
+このエラーが引き続き発生する場合は、サポートにお問い合わせください。</value>
+  <comment>An error occured in the app. Please restart Mailbird and try again.
 
 If you continue to experience this error, please contact support.</comment>
   </data>
@@ -4228,8 +4227,8 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
-    <value>Or import from another email client.</value>
-    <comment>Or import from another email client.</comment>
+    <value>他のメールクライアントからインポートする</value>
+  <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
     <value>Importing [bold]{0}[/bold].
@@ -4515,8 +4514,8 @@ Message 1 to 2</comment>
     <comment>Please select the correct audio file.</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Enter the password used to log in to {0}.</value>
-    <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
+    <value>{0} のパスワードを入力して下さい。</value>
+  <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
     <value>An error occured authorizing Mailbird to access the email account.
@@ -5383,8 +5382,8 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Enter the coupon code below or skip this step.</value>
-    <comment>Enter the coupon code below or skip this step.</comment>
+    <value>クーポンコードを入力するかスキップしてください。</value>
+  <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
     <value>Have a referral coupon code?</value>
