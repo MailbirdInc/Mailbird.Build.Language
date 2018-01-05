@@ -167,11 +167,11 @@
   <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
-    <value>重要なメッセージとしてマークする</value>
+    <value>Important</value>
   <comment>Mark as important</comment>
   </data>
   <data name="Conversation_MarkNotImportant" xml:space="preserve">
-    <value>重要なメッセージとしてマークしない</value>
+    <value>Important から除外</value>
   <comment>Mark as not important</comment>
   </data>
   <data name="Conversation_MarkNotRead" xml:space="preserve">
@@ -179,11 +179,11 @@
   <comment>Mark as unread</comment>
   </data>
   <data name="Conversation_MarkNotSpam" xml:space="preserve">
-    <value>スパムとしてマークする</value>
+    <value>Spam から除外</value>
   <comment>Mark as not spam</comment>
   </data>
   <data name="Conversation_MarkNotStarred" xml:space="preserve">
-    <value>スパムから除外</value>
+    <value>Star から除外</value>
   <comment>Mark as not starred</comment>
   </data>
   <data name="Conversation_MarkRead" xml:space="preserve">
@@ -191,11 +191,11 @@
   <comment>Mark as read</comment>
   </data>
   <data name="Conversation_MarkSpam" xml:space="preserve">
-    <value>スパムとしてマークする</value>
+    <value>Spam</value>
   <comment>Mark as spam</comment>
   </data>
   <data name="Conversation_MarkStarred" xml:space="preserve">
-    <value>スターをつける</value>
+    <value>Star</value>
   <comment>Mark as starred</comment>
   </data>
   <data name="Conversation_MoveTo" xml:space="preserve">
@@ -288,7 +288,7 @@
   </data>
   <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
     <value>添付ファイルをダウンロードできませんでした。
-説明：{0}
+概要：{0}
 URL：{1}</value>
   <comment>Could not download the attachment. 
 Description: {0}
@@ -315,7 +315,7 @@ Url: {1}</comment>
   <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
-    <value>メッセージはまだ送信中です。 終了して送信を遅らせてもよろしいですか？</value>
+    <value>メッセージはまだ送信中です。 終了してもよろしいですか？</value>
   <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
   </data>
   <data name="Dialog_FacebookConnect" xml:space="preserve">
@@ -345,7 +345,7 @@ Do you want to reconnect your Facebook?</comment>
   <comment>Send local file links?</comment>
   </data>
   <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
-    <value>コンピュータ上のローカルファイルへのリンクが含まれています。</value>
+    <value>コンピュータ上のローカルファイルへのリンクが含まれています。このままでよろしいですか？</value>
   <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
   </data>
   <data name="Dialog_No" xml:space="preserve">
@@ -546,7 +546,7 @@ Message:</comment>
   <comment>Add</comment>
   </data>
   <data name="Dialog_Browse" xml:space="preserve">
-    <value>検索</value>
+    <value>Browse</value>
   <comment>Browse</comment>
   </data>
   <data name="Dialog_Continue" xml:space="preserve">
@@ -815,7 +815,7 @@ Message:</comment>
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
-    <value>あなたは素晴らしいです！</value>
+    <value>素晴らしい！</value>
   <comment>You are awesome!</comment>
   </data>
   <data name="Identity_DifferentReplyTo" xml:space="preserve">
@@ -859,7 +859,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
   </data>
   <data name="Options_RecordShortcut1" xml:space="preserve">
-    <value>クリックしてショートカットを作成する</value>
+    <value>ショートカットを作成する</value>
   <comment>Click to create shortcut</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
@@ -948,8 +948,8 @@ Path: {0}</comment>
     <comment>All</comment>
   </data>
   <data name="FolderIdentity_Starred" xml:space="preserve">
-    <value>Starred</value>
-    <comment>Starred</comment>
+    <value>Star</value>
+  <comment>Starred</comment>
   </data>
   <data name="FolderIdentity_Trash" xml:space="preserve">
     <value>Trash</value>
@@ -992,7 +992,7 @@ Path: {0}</comment>
     <comment>Productivity right at your fingertips! Organize, take action, and cross off your to do list.</comment>
   </data>
   <data name="App_Attachments_Description" xml:space="preserve">
-    <value>添付ファイルの検索、サムネイルの表示、ローカルフォルダへ簡単にドラッグ</value>
+    <value>添付ファイルの検索、サムネイルの表示、ローカルフォルダへ簡単にドラッグすることができます。</value>
   <comment>Search and find attachments, view thumbnails and easily drag them to your local folders.</comment>
   </data>
   <data name="App_Attachments_FilenameLabel" xml:space="preserve">
@@ -1092,7 +1092,7 @@ Path: {0}</comment>
   <comment>Lost Photos</comment>
   </data>
   <data name="App_Support_Description" xml:space="preserve">
-    <value>Mailbirdスタッフから助けを得る。</value>
+    <value>ヘルプを求める</value>
   <comment>A place to get help from our Mailbird staff.</comment>
   </data>
   <data name="App_Support_Title" xml:space="preserve">
@@ -1140,32 +1140,32 @@ Path: {0}</comment>
   <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</value>
-    <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
+    <value>このライセンスキーは管理者によって非アクティブ化されています。アクティブ化するには support@getmailbird.com までご連絡ください。</value>
+  <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
-    <value>Expired License</value>
-    <comment>Expired License</comment>
+    <value>ライセンスの期限切れ</value>
+  <comment>Expired License</comment>
   </data>
   <data name="License_ExpiredExplanation" xml:space="preserve">
     <value>ライセンスキーの有効期限が切れています。続行するには、別のライセンスキーを入力するか、現在のライセンスキーを更新してください。</value>
   <comment>Your license key has expired. Please enter another license key or renew the current license key to continue.</comment>
   </data>
   <data name="License_IncorrectDate" xml:space="preserve">
-    <value>Incorrect Date</value>
-    <comment>Incorrect Date</comment>
+    <value>不正な日付</value>
+  <comment>Incorrect Date</comment>
   </data>
   <data name="License_Information" xml:space="preserve">
-    <value>Your license information is listed below.</value>
-    <comment>Your license information is listed below.</comment>
+    <value>ライセンス情報は、次のとおりです。</value>
+  <comment>Your license information is listed below.</comment>
   </data>
   <data name="License_Invalid" xml:space="preserve">
-    <value>Invalid License</value>
-    <comment>Invalid License</comment>
+    <value>無効なライセンス</value>
+  <comment>Invalid License</comment>
   </data>
   <data name="License_InvalidHint" xml:space="preserve">
-    <value>Invalid license key</value>
-    <comment>Invalid license key</comment>
+    <value>無効なライセンスキー</value>
+  <comment>Invalid license key</comment>
   </data>
   <data name="License_InvalidExplanation" xml:space="preserve">
     <value>新しいライセンスキーを入力し、[continue]を押してライセンスを更新してください。</value>
@@ -1180,12 +1180,12 @@ Path: {0}</comment>
   <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
-    <value>Your license is valid forever.</value>
-    <comment>Your license is valid forever.</comment>
+    <value>あなたのライセンスは永久に有効です。</value>
+  <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
-    <value>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</value>
-    <comment>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
+    <value>あなたのライセンスは {0} まで有効です。サブスクリプションをキャンセルしていない場合は、自動的に更新されます。</value>
+  <comment>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
     <value>http://example.com/image.jpg</value>
@@ -1224,8 +1224,8 @@ Path: {0}</comment>
     <comment>Original size</comment>
   </data>
   <data name="LinkEditor_Size" xml:space="preserve">
-    <value>Which size do you prefer?</value>
-    <comment>Which size do you prefer?</comment>
+    <value>どのサイズにしますか？</value>
+  <comment>Which size do you prefer?</comment>
   </data>
   <data name="LinkEditor_Small" xml:space="preserve">
     <value>Small</value>
@@ -1268,8 +1268,8 @@ Path: {0}</comment>
     <comment>Spam</comment>
   </data>
   <data name="MapLabelWindow_Starred" xml:space="preserve">
-    <value>Starred</value>
-    <comment>Starred</comment>
+    <value>Star</value>
+  <comment>Starred</comment>
   </data>
   <data name="MapLabelWindow_Title" xml:space="preserve">
     <value>Map special labels</value>
@@ -2827,8 +2827,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>How often Mailbird will check for new messages. The minimum value is defined by the email provider, as checking for messages more often could lead to the account being blocked from POP3 access temporarily.</comment>
   </data>
   <data name="Conversation_MarkAllAsRead" xml:space="preserve">
-    <value>Mark all as read</value>
-    <comment>Mark all as read</comment>
+    <value>すべて既読にする</value>
+  <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
     <value>Error synchronizing '{0}' folder changes</value>
@@ -5326,12 +5326,12 @@ To add a contact, click the "Add contact" button.</value>
     <comment>Compose email</comment>
   </data>
   <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
-    <value>Mark as not starred</value>
-    <comment>Mark as not starred</comment>
+    <value>Star から除外</value>
+  <comment>Mark as not starred</comment>
   </data>
   <data name="App_Contacts_ContextMenuStarred" xml:space="preserve">
-    <value>Mark as starred</value>
-    <comment>Mark as starred</comment>
+    <value>Star</value>
+  <comment>Mark as starred</comment>
   </data>
   <data name="App_Contacts_AddContact_NewContact" xml:space="preserve">
     <value>New contact</value>
