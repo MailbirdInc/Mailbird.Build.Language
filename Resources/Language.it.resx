@@ -2380,8 +2380,8 @@ Path: {0}</comment>
     <comment>Go Pro</comment>
   </data>
   <data name="UpdateToPro_Includes" xml:space="preserve">
-    <value>Both include:</value>
-    <comment>Both includes:</comment>
+    <value>Entrambi includono:</value>
+  <comment>Both includes:</comment>
   </data>
   <data name="UpdateToPro_LastName" xml:space="preserve">
     <value>Cognome</value>
@@ -6336,67 +6336,67 @@ Riavvia subito per applicare i miglioramenti, ci vorrà un secondo.</value>
   <comment>Message of notification shown when Mailbird has been updated.</comment>
   </data>
 <data name="Disabled_MessageHeaderAccount" xml:space="preserve">
-    <value>Account is disabled</value>
-    <comment>Header when performing action is not allowed due to disabled account </comment>
+    <value>Account disabilitato</value>
+  <comment>Header when performing action is not allowed due to disabled account </comment>
   </data>
   <data name="Disabled_MessageHeaderIdentity" xml:space="preserve">
-    <value>Identity is disabled</value>
-    <comment>Header when performing action is not allowed due to disabled identity</comment>
+    <value>Identità disabilitata</value>
+  <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
 <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose pricing plan:</value>
-    <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
+    <value>Scegli un piano di pagamento:</value>
+  <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
 <data name="Dialog_EmptyFolder" xml:space="preserve">
-    <value>Empty folder?</value>
-    <comment>Dialog box title when user is about to empty a folder</comment>
+    <value>Vuoi svuotare la cartella?</value>
+  <comment>Dialog box title when user is about to empty a folder</comment>
   </data>
   <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
     <value>Are you sure you want to discard all emails in this folder?</value>
     <comment>Dialog box explanation when user is about to empty a folder</comment>
   </data>
   <data name="Account_Exchange_Domain" xml:space="preserve">
-    <value>Domain</value>
-    <comment>Label of the Domain field in the User account setup window</comment>
+    <value>Dominio</value>
+  <comment>Label of the Domain field in the User account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Show reading pane</value>
-    <comment>Option to hide the email view</comment>
+    <value>Mostra il riquadro di lettura</value>
+  <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
-    <value>Autodiscover Url</value>
-    <comment>Label of the Exchange url field in the User account setup window</comment>
+    <value>URL Autodiscover</value>
+  <comment>Label of the Exchange url field in the User account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Full dark theme</value>
-    <comment>Label for full dark theme</comment>
+    <value>Tema scuro</value>
+  <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
     <value>Exchange Server Authentication</value>
     <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>The Exchange Server version you are trying to connect is not currently supported. Only Exchange Server 2010 and above is supported. Please inquiry at Mailbird Support.</value>
-    <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
+    <value>La versione di Exchange Server a cui ti stai connettendo non è attualmente supportata. Soltanto Exchange Server 2010 o superiore è supportato. Per maggiori informazioni rivolgiti all'assistenza di Mailbird.</value>
+  <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Your Exchange account appears to be locked. Please contact your Server Administrator to continue using this account.</value>
-    <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
+    <value>Il tuo account Exchange risulta essere bloccato. Contatta il tuo amministratore di rete per continuare ad usare questo account.</value>
+  <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>The Exchange autodiscover service cannot be located. Make sure your email and password are correct and try again or contact your Server Administrator to make sure Autodiscover is enabled.</value>
-    <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
+    <value>Non è stato possibile individuare il servizio "autodiscover" di Exchange. Assicurati che il nome utente e la password siano corretti e riprova, oppure contatta il tuo amministratore di rete per assicurarti che il servizio "autodiscover" sia abilitato.</value>
+  <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>This is a Microsoft Exchange account</value>
-    <comment>Label in the checkbox to specify adding an Exchange account</comment>
+    <value>Questo è un account Microsoft Exchange</value>
+  <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>An error occured attaching the file.
+    <value>Si è verificato un errore durante l'aggiunta dell'allegato.
 
-This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
+Solitamente il problema è causato dal programma antivirus che interferisce con Mailbird. Prova a disabilitare temporaneamente l'antivirus e riprova.
 
-If the error persists, please contact support.</value>
-    <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
+Se il problema persiste, contatta l'assistenza clienti.</value>
+  <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
 </root>
