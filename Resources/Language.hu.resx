@@ -1076,8 +1076,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>A place to get help from our Mailbird staff.</comment>
   </data>
   <data name="App_Support_Title" xml:space="preserve">
-    <value>Támogatás</value>
-    <comment>Support</comment>
+    <value>Ügyfélszolgálat</value>
+  <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
     <value>Fájl (ok) mentése mellékletként</value>
@@ -4194,8 +4194,8 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <data name="Notification_LostDraftMessage" xml:space="preserve">
     <value>Hiba történt a vázlatokban de a legújabb mentett változata már rendbe hozott.
 
-Ha gyakran látja ezt a hibaüzenetet, forduljon Mailbird támogatáshoz.</value>
-    <comment>An error occurred with your draft and your latest saved version has been restored.
+Ha gyakran látja ezt a hibaüzenetet, forduljon Mailbird ügyfélszolgálathoz.</value>
+  <comment>An error occurred with your draft and your latest saved version has been restored.
 
 If you are seeing this error frequently, please contact Mailbird support.</comment>
   </data>
@@ -4204,8 +4204,8 @@ If you are seeing this error frequently, please contact Mailbird support.</comme
     <comment>Go to draft</comment>
   </data>
   <data name="LostDraft_ContactSupport" xml:space="preserve">
-    <value>Mailbird támogatási névjegy</value>
-    <comment>contact Mailbird support</comment>
+    <value>Mailbird ügyfélszolgálati névjegy</value>
+  <comment>contact Mailbird support</comment>
   </data>
   <data name="LostDraft_Explanation" xml:space="preserve">
     <value>Valamiért nem sikerült megjeleníteni a vázlatokat. A folytatáshoz, kérjük nyomd a [btn_1]
@@ -4396,8 +4396,8 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Mailbird cannot import from selected file</comment>
   </data>
   <data name="Dialog_Error_DragOperationFailed" xml:space="preserve">
-    <value>A húzási művelet nem sikerült, próbáld újra. Ha a hiba továbbra is fennáll, lépjen kapcsolatba támogatást.</value>
-    <comment>The drag operation failed, please try again. If the error persists, please contact support.</comment>
+    <value>A húzási művelet nem sikerült, próbáld újra. Ha a hiba továbbra is fennáll, lépjen kapcsolatba az ügyfélszolgálattal.</value>
+  <comment>The drag operation failed, please try again. If the error persists, please contact support.</comment>
   </data>
   <data name="Dialog_Error_OperationFailed" xml:space="preserve">
     <value>Művelet sikertelen</value>
@@ -4959,8 +4959,8 @@ INGYENES egy életen át</value>
     <comment>Sent ({0})</comment>
   </data>
   <data name="InviteV2_TitleBlockLifetime" xml:space="preserve">
-    <value>Hívd meg a barátaidat, és kiemelt támogatást kapsz</value>
-    <comment>Tell your friends so we can grow together!</comment>
+    <value>Hívd meg a barátaidat és kiemelt támogatást kapsz</value>
+  <comment>Tell your friends so we can grow together!</comment>
   </data>
   <data name="WebBrowser_Bookmark" xml:space="preserve">
     <value>Könyvjelző</value>
@@ -6349,55 +6349,55 @@ Indítsa újra most, hogy a legújabb fejlesztéseket és javításokat elérhes
   <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
 <data name="Dialog_EmptyFolder" xml:space="preserve">
-    <value>Empty folder?</value>
-    <comment>Dialog box title when user is about to empty a folder</comment>
+    <value>Kiüríti a mappát?</value>
+  <comment>Dialog box title when user is about to empty a folder</comment>
   </data>
   <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard all emails in this folder?</value>
-    <comment>Dialog box explanation when user is about to empty a folder</comment>
+    <value>Biztos benne, hogy kidobja a mappában található összes levelet?</value>
+  <comment>Dialog box explanation when user is about to empty a folder</comment>
   </data>
   <data name="Account_Exchange_Domain" xml:space="preserve">
-    <value>Domain</value>
-    <comment>Label of the Domain field in the User account setup window</comment>
+    <value>Internet cím</value>
+  <comment>Label of the Domain field in the User account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Show reading pane</value>
-    <comment>Option to hide the email view</comment>
+    <value>Betekintő ablak megjelenítése</value>
+  <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
-    <value>Autodiscover Url</value>
-    <comment>Label of the Exchange url field in the User account setup window</comment>
+    <value>URL automatikus észlelése</value>
+  <comment>Label of the Exchange url field in the User account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Full dark theme</value>
-    <comment>Label for full dark theme</comment>
+    <value>Teljes sötét téma</value>
+  <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
     <value>Exchange Server Authentication</value>
     <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>The Exchange Server version you are trying to connect is not currently supported. Only Exchange Server 2010 and above is supported. Please inquiry at Mailbird Support.</value>
-    <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
+    <value>Az Exchange Server verzióhoz próbál csatlakozni ami jelenleg nem támogatott. Csak az Exchange Server 2010 felett támogatott. Kérem, érdeklődjön a Mailbird ügyfélszolgálatnál.</value>
+  <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Your Exchange account appears to be locked. Please contact your Server Administrator to continue using this account.</value>
-    <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
+    <value>Az Exchange-fiók zároltnak tűnik. Kérjük, forduljon a rendszergazdához, hogy továbbra is használhassa ezt a fiókot.</value>
+  <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>The Exchange autodiscover service cannot be located. Make sure your email and password are correct and try again or contact your Server Administrator to make sure Autodiscover is enabled.</value>
-    <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
+    <value>Az Exchange automatikus észlelési szolgáltatás nem található. Ellenőrizze az e-mail, jelszó helyes, majd próbálja újra, vagy lépjen kapcsolatba a Kiszolgáló Rendszergazdájával, vagy győződjön meg arról, hogy az automatikus észlelés engedélyezve van.</value>
+  <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>This is a Microsoft Exchange account</value>
-    <comment>Label in the checkbox to specify adding an Exchange account</comment>
+    <value>Ez egy Microsoft Exchange-fiók</value>
+  <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>An error occured attaching the file.
+    <value>Hiba történt a fájl csatolása.
 
-This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
+Ez legtöbbször az okozza, hogy egy víruskereső program zavarja Mailbird. Próbáld meg kikapcsolni a víruskereső program ideiglenesen, majd próbálja meg újra!
 
-If the error persists, please contact support.</value>
-    <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
+Ha a hiba továbbra is fennáll, kérjük, lépjen kapcsolatba az ügyfélszolgálattal.</value>
+  <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
 </root>
