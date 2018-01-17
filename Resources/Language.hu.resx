@@ -158,8 +158,8 @@
     <comment>Copy image address</comment>
   </data>
   <data name="Awesomium_CopyLink" xml:space="preserve">
-    <value>Kép hivatkozásának másolása</value>
-    <comment>Copy link address</comment>
+    <value>Hivatkozás címének másolása</value>
+  <comment>Copy link address</comment>
   </data>
   <data name="Awesomium_Cut" xml:space="preserve">
     <value>Kivágás</value>
@@ -206,8 +206,8 @@
     <comment>Delete permanently</comment>
   </data>
   <data name="Conversation_Discard" xml:space="preserve">
-    <value>Elvetés</value>
-    <comment>Discard</comment>
+    <value>Elvet</value>
+  <comment>Discard</comment>
   </data>
   <data name="Conversation_Draft" xml:space="preserve">
     <value>Vázlat</value>
@@ -218,16 +218,16 @@
   <comment>Empty folder</comment>
   </data>
   <data name="Conversation_Forward" xml:space="preserve">
-    <value>Továbbít</value>
-    <comment>Forward</comment>
+    <value>Előre</value>
+  <comment>Forward</comment>
   </data>
   <data name="Conversation_Folders" xml:space="preserve">
     <value>Mappák</value>
     <comment>Folders</comment>
   </data>
   <data name="Conversation_CopyTo" xml:space="preserve">
-    <value>Másolás</value>
-    <comment>Copy to</comment>
+    <value>Másold</value>
+  <comment>Copy to</comment>
   </data>
   <data name="Conversation_CopyTo2" xml:space="preserve">
     <value>Másolás...</value>
@@ -238,36 +238,36 @@
   <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
-    <value>Megjelölés - fontosként</value>
-    <comment>Mark as important</comment>
+    <value>Megjelölés fontosnak</value>
+  <comment>Mark as important</comment>
   </data>
   <data name="Conversation_MarkNotImportant" xml:space="preserve">
-    <value>Megjelölés - nem fontosként</value>
-    <comment>Mark as not important</comment>
+    <value>Megjelölés nem fontosnak</value>
+  <comment>Mark as not important</comment>
   </data>
   <data name="Conversation_MarkNotRead" xml:space="preserve">
-    <value>Megjelölés - olvasatlanként</value>
-    <comment>Mark as unread</comment>
+    <value>Megjelölés olvasatlannak</value>
+  <comment>Mark as unread</comment>
   </data>
   <data name="Conversation_MarkNotSpam" xml:space="preserve">
-    <value>Megjelölés - nem levélszemétként</value>
-    <comment>Mark as not spam</comment>
+    <value>Megjelölés nem levélszemétként</value>
+  <comment>Mark as not spam</comment>
   </data>
   <data name="Conversation_MarkNotStarred" xml:space="preserve">
-    <value>Megjelölés - nem csillagozottként</value>
-    <comment>Mark as not starred</comment>
+    <value>Megjelölés nem csillagozottként</value>
+  <comment>Mark as not starred</comment>
   </data>
   <data name="Conversation_MarkRead" xml:space="preserve">
-    <value>Megjelölés - olvasottként</value>
-    <comment>Mark as read</comment>
+    <value>Megjelölés olvasottként</value>
+  <comment>Mark as read</comment>
   </data>
   <data name="Conversation_MarkSpam" xml:space="preserve">
-    <value>Megjelölés - levélszemétként</value>
-    <comment>Mark as spam</comment>
+    <value>Megjelölés levélszemétként</value>
+  <comment>Mark as spam</comment>
   </data>
   <data name="Conversation_MarkStarred" xml:space="preserve">
-    <value>Megjelölés - csillagozottként</value>
-    <comment>Mark as starred</comment>
+    <value>Megjelölés csillagozottként</value>
+  <comment>Mark as starred</comment>
   </data>
   <data name="Conversation_MoveTo" xml:space="preserve">
     <value>Áthelyez...</value>
@@ -278,8 +278,8 @@
     <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
-    <value>Nincs levél ebben a mappában</value>
-    <comment>No conversations in this folder</comment>
+    <value>Ebben a mappában nincsenek beszélgetések</value>
+  <comment>No conversations in this folder</comment>
   </data>
   <data name="Conversation_Print" xml:space="preserve">
     <value>Beszélgetés nyomtatása</value>
@@ -298,8 +298,8 @@
     <comment>Sending</comment>
   </data>
   <data name="Conversation_To" xml:space="preserve">
-    <value>Címzett: </value>
-    <comment>To: </comment>
+    <value>Kapja: </value>
+  <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
     <value>nekem </value>
@@ -382,8 +382,8 @@ Url: {1}</comment>
     <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>A továbbítás előtt kérlek a mellékletet töltse le vagy távolítsa el.</value>
-    <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
+    <value>Várjon, amíg az összes mellékletet letöltötte, vagy távolítsa el a mellékleteket.</value>
+  <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
     <value>A kimenő létrehozása sikertelen</value>
@@ -550,8 +550,8 @@ Message:</comment>
     <comment>Please specify at least one recipient.</comment>
   </data>
   <data name="Dialog_WithoutAttachment" xml:space="preserve">
-    <value>Mellékletek nélkül küldi?</value>
-    <comment>Send without attachments?</comment>
+    <value>Küldés mellékletek nélkül?</value>
+  <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
     <value>Az üzenetben a "{0}" sz szerepel, ezért úgy gondoltuk, hogy szeretne egy mellékletet csatolni.
@@ -2283,9 +2283,9 @@ We will never post anything to Facebook.</comment>
     <comment>An error occured downloading the message source. Please try again later.</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
-    <value>Nem hozható létre a melléklet gyorsítótár fájl. Legtöbb esetben az anti-virus program okozhatja ezt.
+    <value>Nem lehet létrehozni a gyorsítótár fájlt. Legtöbb esetben az anti-virus program okozhatja ezt.
 Elérés: {0}</value>
-    <comment>Could not create attachment cache file. Most likely anti-virus program prevented this.
+  <comment>Could not create attachment cache file. Most likely anti-virus program prevented this.
 Path: {0}</comment>
   </data>
   <data name="Dialog_WhatIsThis" xml:space="preserve">
@@ -6303,7 +6303,7 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
   <comment>Formatting button to give more indent in paragraph</comment>
   </data>
   <data name="Message_DropAsInline" xml:space="preserve">
-    <value>Add a mellékletet a sorok közé</value>
+    <value>Add a mellékletet a szöveg közé</value>
   <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
   </data>
   <data name="Options_AutoTagRecipients" xml:space="preserve">
