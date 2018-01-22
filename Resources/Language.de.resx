@@ -4502,7 +4502,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Passwort für die Anmeldung bei {0} eingeben.</value>
+    <value>Enter the password used to log in to {0}</value>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
@@ -6371,8 +6371,8 @@ Starten Sie jetzt neu, um die neuesten Verbesserungen und Korrekturen zu erhalte
   <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
-    <value>URL automatisch erkennen</value>
-  <comment>Label of the Exchange url field in the User account setup window</comment>
+    <value>Server URL</value>
+    <comment>Label of the Exchange url field in the User account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
     <value>Vollständig dunkles Thema</value>
@@ -6383,16 +6383,16 @@ Starten Sie jetzt neu, um die neuesten Verbesserungen und Korrekturen zu erhalte
     <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>Die Exchange-Server-Version, mit der Sie versuchen, eine Verbindung herzustellen, wird derzeit nicht unterstützt. Nur Exchange-Server 2010 und höher werden unterstützt. Bitte wenden Sie sich an den Mailbird-Support.</value>
-  <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
+    <value>The Exchange Server version you are trying to connect to is currently not supported. Mailbird supports Exchange Server 2010 and above. Please contact support for more information.</value>
+    <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Ihr Exchange-Konto ist möglicherweise gesperrt. Bitte wenden Sie sich an Ihren Server-Administrator, um dieses Konto weiter verwenden zu können.</value>
-  <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
+    <value>Your Exchange account appears to be locked. Please contact your server administrator to continue using this account.</value>
+    <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>Der Exchange-AutoErmittlung-Dienst konnte nicht gefunden werden. Stellen Sie sicher, dass Ihre E-Mail-Adresse und Ihr Passwort korrekt sind, und versuchen Sie es erneut oder wenden Sie sich an Ihren Server-Administrator, um sicherzustellen, dass AutoErmittlung aktiviert ist.</value>
-  <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
+    <value>The Exchange autodiscover service cannot be located. Make sure your email and password is correct and try again, or contact your server administrator to make sure autodiscover is enabled.</value>
+    <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
     <value>Dies ist ein Microsoft Exchange-Konto</value>
@@ -6405,5 +6405,19 @@ Dies wird typischerweise durch ein Antivirenprogramm verursacht, welches Mailbir
 
 Wenn der Fehler weiterhin besteht, wenden Sie sich bitte an den Support.</value>
   <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
+  </data>
+<data name="Dialog_DatabaseMismatch" xml:space="preserve">
+    <value>Database version mismatch</value>
+    <comment>Header of message shown when the database version doesn't match the requested version.</comment>
+  </data>
+  <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
+    <value>The version of the database does not match this version of Mailbird.
+
+Please contact support for information on how to resolve this.</value>
+    <comment>Body of message shown when the database version doesn't match the requested version.</comment>
+  </data>
+  <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
+    <value>Leave blank to have Mailbird autodetect your Microsoft Exchange Server URL</value>
+    <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
   </data>
 </root>
