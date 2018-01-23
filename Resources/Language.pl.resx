@@ -4495,8 +4495,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Wpisz hasło używane do logowania do {0}</value>
-  <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
+    <value>Enter the password used to log in to {0}.</value>
+    <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
     <value>Wystąpił błąd podczas autoryzacji Mailbird w celu uzyskania dostępu do konta e-mail.
@@ -6345,71 +6345,5 @@ Zrestartuj teraz, aby uzyskać najnowsze udoskonalenia i poprawki - to potrwa ty
 <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
     <value>Wybierz abonament:</value>
   <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
-  </data>
-<data name="Dialog_EmptyFolder" xml:space="preserve">
-    <value>Opróżnić folder?</value>
-  <comment>Dialog box title when user is about to empty a folder</comment>
-  </data>
-  <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
-    <value>Na pewno chcesz usunąć wszystkie wiadomości z tego folderu?</value>
-  <comment>Dialog box explanation when user is about to empty a folder</comment>
-  </data>
-  <data name="Account_Exchange_Domain" xml:space="preserve">
-    <value>Domena</value>
-  <comment>Label of the Domain field in the User account setup window</comment>
-  </data>
-  <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Pokaż panel odczytu wiadomości</value>
-  <comment>Option to hide the email view</comment>
-  </data>
-  <data name="Account_Exchange_Url" xml:space="preserve">
-    <value>Server URL</value>
-    <comment>Label of the Exchange url field in the User account setup window</comment>
-  </data>
-  <data name="Theme_FullDark" xml:space="preserve">
-    <value>Pełny ciemny motyw</value>
-  <comment>Label for full dark theme</comment>
-  </data>
-  <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
-    <value>Autoryzacja serwera Exchange</value>
-  <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
-  </data>
-  <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>Wersja serwera Exchange, do którego próbujesz się zalogować nie jest obsługiwana. Mailbird obsługuje Microsoft Exchange Server 2010 i nowsze. Skontaktuj się z supportem, by uzyskać więcej informacji.</value>
-  <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
-  </data>
-  <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Wygląda na to, że Twoje konto Exchange jest zablokowane. Skontaktuj się z administratorem, by móc dalej z niego korzystać.</value>
-  <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
-  </data>
-  <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>Nie można zlokalizować usługi autouzupełniania serwera Exchange. Upewnij się, że podany adres email i hasło są poprawne i spróbuj ponownie, lub skontaktuj się z administratorem, w celu aktywacji autouzupełniania.</value>
-  <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
-  </data>
-  <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>To jest konto Microsoft Exchange</value>
-  <comment>Label in the checkbox to specify adding an Exchange account</comment>
-  </data>
-  <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>Wystąpił błąd podczas załączania pliku.
-
-Najczęściej jest on spowodowany, gdy program antywirusowy nie pozwala działać aplikacji Mailbird. Spróbuj tymczasowo wyłączyć program antywirusowy i spróbuj ponownie.
-
-Jeśli błąd występuje nadal, skontaktuj się z supportem.</value>
-  <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
-  </data>
-<data name="Dialog_DatabaseMismatch" xml:space="preserve">
-    <value>Niewłaściwa wersja bazy danych</value>
-  <comment>Header of message shown when the database version doesn't match the requested version.</comment>
-  </data>
-  <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
-    <value>Wersja bazy danych nie jest zgodna z wersją Mailbirda.
-
-Skontaktuj się z supportem, by rozwiązać ten problem.</value>
-  <comment>Body of message shown when the database version doesn't match the requested version.</comment>
-  </data>
-  <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
-    <value>Pozostaw puste, by Mailbird użył autouzupełniania Microsoft Exchange Server</value>
-  <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
   </data>
 </root>
