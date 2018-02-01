@@ -1427,10 +1427,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>清空主题</value>
     <comment>Empty Subject</comment>
   </data>
-  <data name="NewMessage_NewMessage" xml:space="preserve">
-    <value>{0} 条新消息</value>
-    <comment>{0} will be replaced by the number of new messages, so the result will be "2 New Message(s)"</comment>
-  </data>
   <data name="NewMessage_NoName" xml:space="preserve">
     <value>没有名字</value>
     <comment>No Name</comment>
@@ -4495,7 +4491,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Enter the password used to log in to {0}.</value>
+    <value>Enter the password used to log in to {0}</value>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
@@ -6344,5 +6340,79 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
 <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
     <value>Choose pricing plan:</value>
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
+  </data>
+<data name="NewMessage_NewMessageSingular" xml:space="preserve">
+    <value>{0} new message</value>
+    <comment>Label for button when there is 1 new message</comment>
+  </data>
+  <data name="Dialog_EmptyFolder" xml:space="preserve">
+    <value>Empty folder?</value>
+    <comment>Dialog box title when user is about to empty a folder</comment>
+  </data>
+  <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
+    <value>Are you sure you want to discard all emails in this folder?</value>
+    <comment>Dialog box explanation when user is about to empty a folder</comment>
+  </data>
+  <data name="Account_Exchange_Domain" xml:space="preserve">
+    <value>Domain</value>
+    <comment>Label of the domain field in the user account setup window</comment>
+  </data>
+  <data name="Options_ShowReadingPane" xml:space="preserve">
+    <value>Show reading pane</value>
+    <comment>Option to hide the email view</comment>
+  </data>
+  <data name="Account_Exchange_Url" xml:space="preserve">
+    <value>Server URL</value>
+    <comment>Label of the Exchange server field in the user account setup window</comment>
+  </data>
+  <data name="Theme_FullDark" xml:space="preserve">
+    <value>Full dark theme</value>
+    <comment>Label for full dark theme</comment>
+  </data>
+  <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
+    <value>Exchange Server Authentication</value>
+    <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
+  </data>
+  <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
+    <value>The Exchange Server version you are trying to connect to is currently not supported. Mailbird supports Exchange Server 2010 and above. Please contact support for more information.</value>
+    <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
+  </data>
+  <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
+    <value>Your Exchange account appears to be locked. Please contact your server administrator to continue using this account.</value>
+    <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
+  </data>
+  <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
+    <value>The Exchange autodiscover service cannot be located. Make sure your email and password is correct and try again, or contact your server administrator to make sure autodiscover is enabled.</value>
+    <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
+  </data>
+  <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
+    <value>This is a Microsoft Exchange account</value>
+    <comment>Label in the checkbox to specify adding an Exchange account</comment>
+  </data>
+  <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
+    <value>An error occured attaching the file.
+
+This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
+
+If the error persists, please contact support.</value>
+    <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
+  </data>
+  <data name="Dialog_DatabaseMismatch" xml:space="preserve">
+    <value>Database version mismatch</value>
+    <comment>Header of message shown when the database version doesn't match the requested version.</comment>
+  </data>
+  <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
+    <value>The version of the database does not match this version of Mailbird.
+
+Please contact support for information on how to resolve this.</value>
+    <comment>Body of message shown when the database version doesn't match the requested version.</comment>
+  </data>
+  <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
+    <value>Leave blank to have Mailbird autodetect your Microsoft Exchange Server URL</value>
+    <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
+  </data>
+  <data name="NewMessage_NewMessagePlural" xml:space="preserve">
+    <value>{0} new messages</value>
+    <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
   </data>
 </root>
