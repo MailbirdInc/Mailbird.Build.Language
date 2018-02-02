@@ -6361,7 +6361,7 @@ Reporniți acum pentru a obține cele mai recente îmbunătățiri și remedieri
   <comment>Label of the domain field in the user account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Afișează panoul de lectură</value>
+    <value>Afișează panoul de citire</value>
   <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
@@ -6381,11 +6381,11 @@ Reporniți acum pentru a obține cele mai recente îmbunătățiri și remedieri
   <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Contul dvs. Exchange pare să fie blocat. Contactați administratorul de server pentru a continua să utilizați acest cont.</value>
+    <value>Contul dvs. Exchange pare a fi blocat. Contactați administratorul de server pentru a continua să utilizați acest cont.</value>
   <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>Serviciul de autodescoperire Exchange nu poate fi localizat. Asigurați-vă că e-mailul și parola dvs. sunt corecte și încercați din nou sau contactați administratorul de server pentru a vă asigura că este activată descoperirea automată.</value>
+    <value>Serviciul de autodescoperire Exchange nu poate fi localizat. Asigurați-vă că e-mailul și parola dvs. sunt corecte și reîncercați sau contactați administratorul de server pentru a vă asigura că este activată descoperirea automată.</value>
   <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
@@ -6395,9 +6395,9 @@ Reporniți acum pentru a obține cele mai recente îmbunătățiri și remedieri
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
     <value>A apărut o eroare la atașarea fișierului.
 
-Acest lucru este cauzat de obicei de un program antivirus care interferează cu Mailbird. Încercați să dezactivați temporar orice program antivirus și apoi încercați din nou.
+Acest lucru este cauzat de obicei de un program antivirus care interferează cu Mailbird. Încercați să dezactivați temporar orice program antivirus și apoi reîncercați.
 
-Dacă eroarea persistă, contactați suportul.</value>
+Dacă eroarea persistă, contactați asistența.</value>
   <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
@@ -6407,7 +6407,7 @@ Dacă eroarea persistă, contactați suportul.</value>
   <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
     <value>Versiunea bazei de date nu se potrivește cu această versiune de Mailbird.
 
-Contactați serviciul de suport pentru informații despre cum să remediați acest lucru.</value>
+Contactați serviciul de asistență pentru informații despre cum să remediați acest lucru.</value>
   <comment>Body of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
