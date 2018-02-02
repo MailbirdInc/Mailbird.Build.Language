@@ -4493,8 +4493,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Enter the password used to log in to {0}</value>
-    <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
+    <value>Introduceți parola utilizată pentru a vă conecta la {0}</value>
+  <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
     <value>A apărut o eroare de autorizare la Mailbird pentru accesarea contului de email.
@@ -6345,77 +6345,77 @@ Reporniți acum pentru a obține cele mai recente îmbunătățiri și remedieri
   <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
 <data name="NewMessage_NewMessageSingular" xml:space="preserve">
-    <value>{0} new message</value>
-    <comment>Label for button when there is 1 new message</comment>
+    <value>{0} mesaj nou</value>
+  <comment>Label for button when there is 1 new message</comment>
   </data>
   <data name="Dialog_EmptyFolder" xml:space="preserve">
-    <value>Empty folder?</value>
-    <comment>Dialog box title when user is about to empty a folder</comment>
+    <value>Goliți folderul?</value>
+  <comment>Dialog box title when user is about to empty a folder</comment>
   </data>
   <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard all emails in this folder?</value>
-    <comment>Dialog box explanation when user is about to empty a folder</comment>
+    <value>Sigur doriți să eliminați toate emailurile din acest folder?</value>
+  <comment>Dialog box explanation when user is about to empty a folder</comment>
   </data>
   <data name="Account_Exchange_Domain" xml:space="preserve">
-    <value>Domain</value>
-    <comment>Label of the domain field in the user account setup window</comment>
+    <value>Domeniu</value>
+  <comment>Label of the domain field in the user account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Show reading pane</value>
-    <comment>Option to hide the email view</comment>
+    <value>Afișează panoul de lectură</value>
+  <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
     <value>Server URL</value>
     <comment>Label of the Exchange server field in the user account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Full dark theme</value>
-    <comment>Label for full dark theme</comment>
+    <value>Temă întunecată</value>
+  <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
     <value>Exchange Server Authentication</value>
     <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>The Exchange Server version you are trying to connect to is currently not supported. Mailbird supports Exchange Server 2010 and above. Please contact support for more information.</value>
-    <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
+    <value>Versiunea Exchange Server la care încercați să vă conectați nu este acceptată în prezent. Mailbird acceptă Exchange Server 2010 și versiunile mai noi. Contactați pagina de suport pentru mai multe informații.</value>
+  <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Your Exchange account appears to be locked. Please contact your server administrator to continue using this account.</value>
-    <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
+    <value>Contul dvs. Exchange pare să fie blocat. Contactați administratorul de server pentru a continua să utilizați acest cont.</value>
+  <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>The Exchange autodiscover service cannot be located. Make sure your email and password is correct and try again, or contact your server administrator to make sure autodiscover is enabled.</value>
-    <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
+    <value>Serviciul de autodescoperire Exchange nu poate fi localizat. Asigurați-vă că e-mailul și parola dvs. sunt corecte și încercați din nou sau contactați administratorul de server pentru a vă asigura că este activată descoperirea automată.</value>
+  <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>This is a Microsoft Exchange account</value>
-    <comment>Label in the checkbox to specify adding an Exchange account</comment>
+    <value>Acesta este un cont Microsoft Exchange</value>
+  <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>An error occured attaching the file.
+    <value>A apărut o eroare la atașarea fișierului.
 
-This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
+Acest lucru este cauzat de obicei de un program antivirus care interferează cu Mailbird. Încercați să dezactivați temporar orice program antivirus și apoi încercați din nou.
 
-If the error persists, please contact support.</value>
-    <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
+Dacă eroarea persistă, contactați suportul.</value>
+  <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
-    <value>Database version mismatch</value>
-    <comment>Header of message shown when the database version doesn't match the requested version.</comment>
+    <value>Versiunea bazei de date nu corespunde</value>
+  <comment>Header of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
-    <value>The version of the database does not match this version of Mailbird.
+    <value>Versiunea bazei de date nu se potrivește cu această versiune de Mailbird.
 
-Please contact support for information on how to resolve this.</value>
-    <comment>Body of message shown when the database version doesn't match the requested version.</comment>
+Contactați serviciul de suport pentru informații despre cum să remediați acest lucru.</value>
+  <comment>Body of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
-    <value>Leave blank to have Mailbird autodetect your Microsoft Exchange Server URL</value>
-    <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
+    <value>Lăsați necompletat pentru ca Mailbird să detecteze automat adresa URL a serverului Microsoft Exchange</value>
+  <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
   </data>
   <data name="NewMessage_NewMessagePlural" xml:space="preserve">
-    <value>{0} new messages</value>
-    <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
+    <value>{0} mesaje noi</value>
+  <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
   </data>
 </root>
