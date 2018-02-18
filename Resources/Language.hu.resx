@@ -298,7 +298,7 @@
     <comment>Sending</comment>
   </data>
   <data name="Conversation_To" xml:space="preserve">
-    <value>Kapja: </value>
+    <value>Címzett: </value>
   <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
@@ -2515,10 +2515,10 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Nagy munka meghívni barátait Mailbird-be! Van néhány e-mailt, amit már felkért, így itt az ideje, hogy hívjon meg másokat is, hogy megkapja a Mailbird Pro jutalmát.
+    <value>Nagyszerű munka meghívni barátait Mailbird-be! Van néhány e-mailt, amit már felkért, így itt az ideje, hogy hívjon meg másokat is, hogy megkapja a Mailbird Pro jutalmát.
 
 Már meghívott személyek: {0}</value>
-    <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
+  <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
   </data>
@@ -2801,8 +2801,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Leave a copy of messages on the server</comment>
   </data>
   <data name="Welcome_Pop3LeaveMessagesInfo" xml:space="preserve">
-    <value>POP3 szerverek alapértelmezés szerint tárolja a leveleket a szerveren csak addig, amíg letölti őket. Választhat, hogy a leveleket megőrizze a szerveren, de fontos tudnia, hogy ezzel azt okozhatja, hogy a postaláda nagyon gyorsan megtelik, és így előfordulhat, hogy nem kapja meg a fontos üzeneteket, amíg nem törli a kiszolgáló példányt.</value>
-    <comment>POP3 servers by default store messages on the server only until you download them. You can choose to leave messages on the server, but note that doing so can cause your mailbox to become full very quickly, and so you might not receive important messages until you delete the server copies.</comment>
+    <value>POP3 szerverek alapértelmezés szerint tárolja a leveleket a szerveren csak addig, amíg letölti őket. Választhat, hogy a leveleket megőrizze a szerveren, de fontos tudnia, hogy ezzel azt okozhatja, hogy a postaláda nagyon gyorsan megtelik, és így előfordulhat, hogy nem kapja meg a fontos üzeneteket, amíg nem törli a kiszolgáló példányait.</value>
+  <comment>POP3 servers by default store messages on the server only until you download them. You can choose to leave messages on the server, but note that doing so can cause your mailbox to become full very quickly, and so you might not receive important messages until you delete the server copies.</comment>
   </data>
   <data name="Welcome_Pop3RemoveAfter" xml:space="preserve">
     <value>Eltávolítja azután</value>
