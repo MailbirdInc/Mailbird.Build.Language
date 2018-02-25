@@ -234,8 +234,8 @@
     <comment>Copy to...</comment>
   </data>
   <data name="Options_SettingsMoreInfo" xml:space="preserve">
-    <value>Mailbird regolerà questa impostazione in automatico ogni volta che i DPI cambiano. Ma se vuoi modificare l'impostazione manualmente, Mailbird la preserverà fino a quando non cambierai il valore DPI di sistema. Il valore predefinito è 100%</value>
-    <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
+    <value>Mailbird regolerà questa impostazione in automatico ogni volta che i DPI cambieranno. Se modifichi l'impostazione manualmente, Mailbird la manterrà fino a quando non cambierai l'impostazione di sistema dei DPI. Il valore predefinito è 100%</value>
+  <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
     <value>Contrassegna come importante</value>
@@ -314,8 +314,8 @@
     <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
-    <value>Chiudere la finestra nel mezzo del processo di invio causerà anche la chiusura della segnalazione. Sei sicuro di voler annullare la segnalazione?</value>
-    <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
+    <value>Chiudere la finestra durante l'invio annullerà la segnalazione. Sei sicuro di voler annullare la segnalazione?</value>
+  <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
   </data>
   <data name="Dialog_AlreadyAttached" xml:space="preserve">
     <value>Già allegato</value>
@@ -350,11 +350,11 @@
     <comment>This identity is the main identity of an account and cannot be removed.</comment>
   </data>
   <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
-    <value>Impossibile recuperare l'accesso</value>
-    <comment>Could not retrieve access</comment>
+    <value>Impossibile ottenere l'accesso</value>
+  <comment>Could not retrieve access</comment>
   </data>
   <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
-    <value>Impossibile effettuare l'accesso a Facebook in questo momento. Per favore, riprova.</value>
+    <value>Non è stato possibile effettuare l'accesso a Facebook. Per favore, riprova.</value>
   <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
   </data>
   <data name="Dialog_CantSave" xml:space="preserve">
@@ -370,10 +370,10 @@
     <comment>Download failed</comment>
   </data>
   <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
-    <value>Impossibile scaricare l'allegato,
+    <value>Impossibile scaricare l'allegato.
 Descrizione: {0}
 Url: {1}</value>
-    <comment>Could not download the attachment. 
+  <comment>Could not download the attachment. 
 Description: {0}
 Url: {1}</comment>
   </data>
@@ -382,8 +382,8 @@ Url: {1}</comment>
     <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>Per favore, attendi finché tutti gli allegati siano stati scaricati, oppure rimuovili.</value>
-    <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
+    <value>Per favore, attendi che tutti gli allegati siano stati scaricati, oppure rimuovili.</value>
+  <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
     <value>Impossibile creare l'identità</value>
