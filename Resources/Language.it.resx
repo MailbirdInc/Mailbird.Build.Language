@@ -354,8 +354,8 @@
     <comment>Could not retrieve access</comment>
   </data>
   <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
-    <value>Impossibile effettuare l'accesso a Facebook in questo momento. Prova di nuovo per favore.</value>
-    <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
+    <value>Impossibile effettuare l'accesso a Facebook in questo momento. Per favore, riprova.</value>
+  <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
   </data>
   <data name="Dialog_CantSave" xml:space="preserve">
     <value>Impossibile salvare il file</value>
@@ -416,8 +416,8 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>Non riesco a trovare '{0}'. Controlla, per favore, che il file sia nella cartella corretta.</value>
-    <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
+    <value>Non riesco a trovare '{0}'. Per favore, controlla che il file sia nella cartella corretta.</value>
+  <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
     <value>Caricamento</value>
@@ -440,8 +440,8 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Impossibile aprire l'URL. Per favore controlla di aver impostato correttamente il tuo browser predefinito, e prova a reinstallare Google Chrome o Internet Explorer.</value>
-    <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
+    <value>Impossibile aprire l'URL. Per favore, controlla di aver impostato correttamente il tuo browser predefinito, e prova a reinstallare Google Chrome o Internet Explorer.</value>
+  <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
     <value>OK</value>
@@ -688,8 +688,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>SMTP server:</comment>
   </data>
   <data name="Identity_SmtpUsername" xml:space="preserve">
-    <value>Username:</value>
-    <comment>Username:</comment>
+    <value>Nome utente:</value>
+  <comment>Username:</comment>
   </data>
   <data name="Identity_Test" xml:space="preserve">
     <value>Prova connessione</value>
@@ -820,8 +820,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
-    <value>Inserisci, per favore, il tuo indirizzo email</value>
-    <comment>Please enter an email address</comment>
+    <value>Per favore, inserisci il tuo indirizzo email</value>
+  <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
     <value>Inserisci il testo da visualizzare</value>
@@ -832,24 +832,24 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>You cannot send an empty invitation</comment>
   </data>
   <data name="AccountValidationRule_EmptyPassword" xml:space="preserve">
-    <value>Per favore inserisci la password</value>
-    <comment>Please enter a password</comment>
+    <value>Per favore, inserisci la password</value>
+  <comment>Please enter a password</comment>
   </data>
   <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
     <value>Inserisci il numero della porta</value>
     <comment>Please enter a port number</comment>
   </data>
   <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
-    <value>Per favore inserisci il nome del server</value>
-    <comment>Please enter the server name</comment>
+    <value>Per favore, inserisci il nome del server</value>
+  <comment>Please enter the server name</comment>
   </data>
   <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
-    <value>Per favore inserisci un oggetto</value>
-    <comment>Please enter subject</comment>
+    <value>Per favore, inserisci un oggetto</value>
+  <comment>Please enter subject</comment>
   </data>
   <data name="AccountValidationRule_EmptyUsername" xml:space="preserve">
-    <value>Per favore inserisci un nome utente</value>
-    <comment>Please enter a username</comment>
+    <value>Per favore, inserisci un nome utente</value>
+  <comment>Please enter a username</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
     <value>L'email non è valida</value>
@@ -860,16 +860,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email appears invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
-    <value>Per favore inserisci una chiave di licenza valida</value>
-    <comment>Please enter a valid license key</comment>
+    <value>Per favore, inserisci una chiave di licenza valida</value>
+  <comment>Please enter a valid license key</comment>
   </data>
   <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
-    <value>Per favore inserisci un indirizzo valido</value>
-    <comment>Please enter a valid url</comment>
+    <value>Per favore, inserisci un indirizzo valido</value>
+  <comment>Please enter a valid url</comment>
   </data>
   <data name="AccountValidationRule_SenderName" xml:space="preserve">
-    <value>Per favore inserisci il tuo nome</value>
-    <comment>Please enter your name</comment>
+    <value>Per favore, inserisci il tuo nome</value>
+  <comment>Please enter your name</comment>
   </data>
   <data name="Facebook_HowMailbirdConnectsLink" xml:space="preserve">
     <value>Come può Mailbird connetterti con Facebook?</value>
@@ -1148,8 +1148,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Invalid license key</comment>
   </data>
   <data name="License_InvalidExplanation" xml:space="preserve">
-    <value>Per favore inserisci una nuova chiave di licenza e premi continua per aggiornarla.</value>
-    <comment>Please enter the new license key and press continue to update the license.</comment>
+    <value>Per favore, inserisci una nuova chiave di licenza e premi continua per aggiornarla.</value>
+  <comment>Please enter the new license key and press continue to update the license.</comment>
   </data>
   <data name="License_License" xml:space="preserve">
     <value>Licenza</value>
@@ -1508,8 +1508,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Always expand account switcher</comment>
   </data>
   <data name="Options_AutoDownload" xml:space="preserve">
-    <value>Limite di download automatico allegati:</value>
-    <comment>Attachment auto-download limit:</comment>
+    <value>Limite di download automatico degli allegati:</value>
+  <comment>Attachment auto-download limit:</comment>
   </data>
   <data name="Options_AutoDownloadExplanation" xml:space="preserve">
     <value>Scarica automaticamente gli allegati più piccoli della dimensione scelta.</value>
@@ -2156,8 +2156,8 @@ https://support.google.com/accounts/answer/185833</comment>
     <comment>Connections:</comment>
   </data>
   <data name="Welcome_DetectingSettingsSubTitle" xml:space="preserve">
-    <value>Per favore attendi mentre cerchiamo le impostazioni per il server.</value>
-    <comment>Please wait while we search for server settings.</comment>
+    <value>Per favore, attendi mentre cerchiamo le impostazioni per il server.</value>
+  <comment>Please wait while we search for server settings.</comment>
   </data>
   <data name="Welcome_DetectingSettingsTitle" xml:space="preserve">
     <value>Ricerca impostazioni...</value>
@@ -2218,8 +2218,8 @@ We will never post anything to Facebook.</comment>
     <comment>Proxy settings are correct in Windows Internet Options.</comment>
   </data>
   <data name="Welcome_ServerConnFailed" xml:space="preserve">
-    <value>Non sono riuscito a connettermi. Per favore controlla:</value>
-    <comment>Could not connect to server. Please check:</comment>
+    <value>Non sono riuscito a connettermi. Per favore, controlla:</value>
+  <comment>Could not connect to server. Please check:</comment>
   </data>
   <data name="Welcome_ServerNameLabel" xml:space="preserve">
     <value>Nome del server:</value>
@@ -2234,8 +2234,8 @@ We will never post anything to Facebook.</comment>
     <comment>Settings found</comment>
   </data>
   <data name="Welcome_SettingsNotFoundSubTitle" xml:space="preserve">
-    <value>Non siamo riusciti a trovare le impostazioni per il serve di posta del tuo account. Per favore inserisci le informazioni necessarie qui sotto.</value>
-    <comment>We were unable to find settings for your account. Please input the required information below.</comment>
+    <value>Non siamo riusciti a trovare le impostazioni per il serve di posta del tuo account. Per favore, inserisci le informazioni necessarie qui sotto.</value>
+  <comment>We were unable to find settings for your account. Please input the required information below.</comment>
   </data>
   <data name="Welcome_SettingsNotFoundTitle" xml:space="preserve">
     <value>Configurazione non trovata</value>
@@ -2274,8 +2274,8 @@ We will never post anything to Facebook.</comment>
     <comment>Use mail editor</comment>
   </data>
   <data name="Error_DownloadingMessage" xml:space="preserve">
-    <value>Si è verificato un errore durante il download del messaggio. Per favore riprova più tardi.</value>
-    <comment>An error occured downloading the message source. Please try again later.</comment>
+    <value>Si è verificato un errore durante il download del messaggio. Per favore, riprova più tardi.</value>
+  <comment>An error occured downloading the message source. Please try again later.</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
     <value>Errore nel salvataggio dell'allegato. È probabile che il tuo antivirus l'abbia bloccato.
@@ -3076,8 +3076,8 @@ Please exit out of this window to check the credentials and try again.</comment>
   <data name="Dialog_DatabaseErrorMessage" xml:space="preserve">
     <value>Un problema è stato rilevato con il database interno, probabilmente causato da un crash di Windows o un malfunzionamento del disco rigido.
 
-Per favore contatta il supporto tramite il nostro sito web, in modo da poterti aiutare a recuperare i dati e ripristinare Mailbird.</value>
-    <comment>A problem has been detected with the internal database, most likely caused by a Windows crash or hard drive malfunction.
+Per favore, contatta il supporto tramite il nostro sito web, in modo da poterti aiutare a recuperare i dati e ripristinare Mailbird.</value>
+  <comment>A problem has been detected with the internal database, most likely caused by a Windows crash or hard drive malfunction.
 
 Please contact support via our website, so we can help recover your data and get Mailbird up and running again.</comment>
   </data>
@@ -3536,8 +3536,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Someday</comment>
   </data>
   <data name="Options_Snooze_StartMyDayAt" xml:space="preserve">
-    <value>La mio giornata inizia alle</value>
-    <comment>My day starts at</comment>
+    <value>La mia giornata inizia alle</value>
+  <comment>My day starts at</comment>
   </data>
   <data name="Options_Snooze_StartMyWeekendAt" xml:space="preserve">
     <value>Il mio weekend inizia alle</value>
@@ -4343,8 +4343,8 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Import source</comment>
   </data>
   <data name="Import_AccountData" xml:space="preserve">
-    <value>Impostazione dati account</value>
-    <comment>Importing account data</comment>
+    <value>Importazione dati dell'account</value>
+  <comment>Importing account data</comment>
   </data>
   <data name="Import_Cancelled" xml:space="preserve">
     <value>Importazione annullata</value>
@@ -4355,8 +4355,8 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>{0} is running. Please close it an try again</comment>
   </data>
   <data name="Import_Error_General" xml:space="preserve">
-    <value>Si è verificato un errore durante l'importazione. Per favore contatta il supporto</value>
-    <comment>There was an error while importing. Please contact Support</comment>
+    <value>Si è verificato un errore durante l'importazione. Per favore, contatta il supporto</value>
+  <comment>There was an error while importing. Please contact Support</comment>
   </data>
   <data name="Import_Error_Invalid_Pst" xml:space="preserve">
     <value>{0} non è un file .pst valido</value>
@@ -4476,12 +4476,12 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
-    <value>Authentication</value>
-    <comment>Authentication</comment>
+    <value>Autenticazione</value>
+  <comment>Authentication</comment>
   </data>
   <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
-    <value>Username e password</value>
-    <comment>Username and password</comment>
+    <value>Nome utente e password</value>
+  <comment>Username and password</comment>
   </data>
   <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
     <value>Google OAuth 2.0</value>
@@ -4498,16 +4498,16 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
     <value>Si è verificato un errore nell'autorizzazione per accedere all'account email.
 
-Per favore riprova oppure cambia la modalità di autenticazione inserendo username e password.</value>
-    <comment>An error occured authorizing Mailbird to access the email account.
+Per favore, riprova oppure cambia la modalità di autenticazione inserendo Nome utente e password.</value>
+  <comment>An error occured authorizing Mailbird to access the email account.
 
 Please try again or switch to username and password authentication.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
     <value>Si è verificato un errore sconosciuto durante l'autenticazione.
 
-Per favore riprova. Se il problema persiste contatta il supporto.</value>
-    <comment>An unknown error occured during authorization.
+Per favore, riprova. Se il problema persiste contatta il supporto.</value>
+  <comment>An unknown error occured during authorization.
 
 Please try again, or contact support if the issue persists.</comment>
   </data>
@@ -4518,8 +4518,8 @@ Please try again, or contact support if the issue persists.</comment>
   <data name="Dialog_OAuth2AuthorizationError_AccountChanged" xml:space="preserve">
     <value>L'account usato per l'autenticazione non è corretto.
 
-Per favore riprova a fare l'accesso con l'account corretto prima di consentire l'accesso all'account.</value>
-    <comment>The account used to authorize the access is incorrect.
+Per favore, riprova l'accesso con l'account corretto prima di consentire l'accesso all'account.</value>
+  <comment>The account used to authorize the access is incorrect.
 
 Please try again and log in with the correct account before granting access.</comment>
   </data>
@@ -4568,8 +4568,8 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Electronic</comment>
   </data>
   <data name="Sound_None" xml:space="preserve">
-    <value>None</value>
-    <comment>None</comment>
+    <value>Nessuno</value>
+  <comment>None</comment>
   </data>
 <data name="Invite_SendAllExplanation" xml:space="preserve">
     <value>Sei sicuro di voler inviare l'invito a tutti i tuoi contatti?</value>
@@ -4817,8 +4817,8 @@ Please choose another file.</comment>
     <comment>Tip failed to load, please check your internet connection.</comment>
   </data>
   <data name="Tips_ViewInBrowser" xml:space="preserve">
-    <value>View tip in browser</value>
-    <comment>View tip in browser</comment>
+    <value>Visualizza suggerimento nel browser</value>
+  <comment>View tip in browser</comment>
   </data>
   <data name="Menu_Trial2" xml:space="preserve">
     <value>Attiva Mailbird Pro</value>
@@ -4926,8 +4926,8 @@ GRATIS per sempre</value>
     <comment>No contacts found.</comment>
   </data>
   <data name="InviteV2_NoSentInvitations" xml:space="preserve">
-    <value>Non hai inviato nessun invito.</value>
-    <comment>You haven't sent any invitations.</comment>
+    <value>Non hai inviato alcun invito.</value>
+  <comment>You haven't sent any invitations.</comment>
   </data>
   <data name="InviteV2_AcceptedCounter" xml:space="preserve">
     <value> ({0}/{1})</value>
@@ -5239,8 +5239,8 @@ Per aggiungere un contatto, premi "Aggiungi contatto".</value>
   <comment>{0} contacts</comment>
   </data>
   <data name="App_Contacts_ContactsSingular" xml:space="preserve">
-    <value>{0} contact</value>
-    <comment>{0} contact</comment>
+    <value>{0} contatto</value>
+  <comment>{0} contact</comment>
   </data>
   <data name="App_Contacts_Edit" xml:space="preserve">
     <value>Modifica</value>
@@ -5527,8 +5527,8 @@ Per aggiungere un contatto, premi "Aggiungi contatto".</value>
   <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
-    <value>Merge contact</value>
-    <comment>Merge contact</comment>
+    <value>Unisci contatto</value>
+  <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
     <value>Crea o aggiungi contatto</value>
@@ -6066,8 +6066,8 @@ Prova adesso la nuova app Contatti!</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_None" xml:space="preserve">
-    <value>None</value>
-    <comment>Name for type of backround</comment>
+    <value>Nessuno</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Polcadot" xml:space="preserve">
     <value>Pois</value>
@@ -6372,8 +6372,8 @@ Riavvia subito per applicare i miglioramenti, ci vorrà un secondo.</value>
   <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
-    <value>Exchange Server Authentication</value>
-    <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
+    <value>Autenticazione Server Exchange</value>
+  <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
     <value>La versione di Exchange Server a cui stai provando a connetterti non è supportata. Mailbird supporta Exchange Server 2010 o superiore. Contatta l'assistenza per maggiori informazioni.</value>
