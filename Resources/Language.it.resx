@@ -3278,16 +3278,16 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Merge selected contacts</comment>
   </data>
   <data name="App_Contacts_PhoneType_HomeFax" xml:space="preserve">
-    <value>Fax home</value>
-    <comment>Home Fax</comment>
+    <value>Fax casa</value>
+  <comment>Home Fax</comment>
   </data>
   <data name="App_Contacts_PhoneType_Main" xml:space="preserve">
     <value>Principale</value>
     <comment>Main</comment>
   </data>
   <data name="App_Contacts_PhoneType_Mobile" xml:space="preserve">
-    <value>Mobile</value>
-    <comment>Mobile</comment>
+    <value>Cellulare</value>
+  <comment>Mobile</comment>
   </data>
   <data name="App_Contacts_PhoneType_Pager" xml:space="preserve">
     <value>Cercapersone</value>
@@ -5129,8 +5129,8 @@ NB: Text for button to send the survey</comment>
 NB: Text for button to skip the survey</comment>
   </data>
 <data name="App_Contacts_FieldType_Home" xml:space="preserve">
-    <value>Home</value>
-    <comment>Home</comment>
+    <value>Casa</value>
+  <comment>Home</comment>
   </data>
   <data name="App_Contacts_FieldType_Other" xml:space="preserve">
     <value>Altro</value>
@@ -5375,8 +5375,8 @@ Per aggiungere un contatto, premi "Aggiungi contatto".</value>
     <comment>Street</comment>
   </data>
   <data name="App_Contacts_FieldZipCode" xml:space="preserve">
-    <value>ZIP code</value>
-    <comment>ZIP code</comment>
+    <value>Codice postale</value>
+  <comment>ZIP code</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_SubHeader" xml:space="preserve">
     <value>Seleziona gli account per cui vuoi sincronizzare i contatti con Mailbird, oppure premi il pulsante per connettere un altro account.</value>
@@ -5455,8 +5455,8 @@ Per aggiungere un contatto, premi "Aggiungi contatto".</value>
     <comment>Look up on LinkedIn</comment>
   </data>
   <data name="App_Contacts_ContextMenuNewEmail" xml:space="preserve">
-    <value>Invia email</value>
-    <comment>Compose email</comment>
+    <value>Componi email</value>
+  <comment>Compose email</comment>
   </data>
   <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
     <value>Rimuovi dai preferiti</value>
@@ -6202,7 +6202,7 @@ Prova adesso la nuova app Contatti!</value>
   <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
   </data>
   <data name="AppStore_Apps" xml:space="preserve">
-    <value>App</value>
+    <value>Applicazioni</value>
   <comment>Tab in add-ons to show list of apps in Mailbird</comment>
   </data>
   <data name="AppStore_Services" xml:space="preserve">
@@ -6306,7 +6306,7 @@ Prova adesso la nuova app Contatti!</value>
   <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
   </data>
   <data name="UpdatePreference_Auto" xml:space="preserve">
-    <value>Installa aggiornamenti in automatico</value>
+    <value>Installa automaticamente gli aggiornamenti</value>
   <comment>Options to install update silently</comment>
   </data>
   <data name="Button_RestartMailbird" xml:space="preserve">
@@ -6400,7 +6400,7 @@ Se il problema persiste, contatta l'assistenza.</value>
   <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
-    <value>Versione database sbagliata</value>
+    <value>La versione del database non corrisponde</value>
   <comment>Header of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
