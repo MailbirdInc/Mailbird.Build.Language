@@ -673,12 +673,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>Bcc: </value>
-    <comment>Bcc:</comment>
+    <value>Hemlig kopia: </value>
+  <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
-    <value>Bcc</value>
-    <comment>Bcc</comment>
+    <value>Hemlig kopia</value>
+  <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
     <value>Cc: </value>
@@ -1005,7 +1005,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
   </data>
   <data name="App_RetroSift_Description" xml:space="preserve">
-    <value>Sök enkelt och hitta förlorad bilder i dina mejl</value>
+    <value>Sök och hitta borttappade foton bland dina mejl.</value>
   <comment>Easily search and find lost photos in your emails.</comment>
   </data>
   <data name="App_RetroSift_Title" xml:space="preserve">
@@ -1013,7 +1013,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Lost Photos</comment>
   </data>
   <data name="App_Support_Description" xml:space="preserve">
-    <value>En plats för att få hjälp från vår Mailbirds personal</value>
+    <value>En plats för att få hjälp från Mailbirds personal.</value>
   <comment>A place to get help from our Mailbird staff.</comment>
   </data>
   <data name="App_Support_Title" xml:space="preserve">
@@ -1057,7 +1057,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>You're an email rockstar!!</comment>
   </data>
   <data name="License_CorrectComputerDate" xml:space="preserve">
-    <value>Vi upptäckte felaktig datum på datorn. Vänligen korrigera datorn datum-tid i inställningar och  tryck OK/ försätta</value>
+    <value>Vi upptäckte att din dator har avvikande datum. Vänligen korrigera datorns datum&amp;tid inställningar och tryck OK/Fortsätt för att fortsätta.</value>
   <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
@@ -1249,8 +1249,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Display once</comment>
   </data>
   <data name="Message_DropAsAttachment" xml:space="preserve">
-    <value>Drop to add as attachment</value>
-    <comment>Drop as Attachment</comment>
+    <value>Släpp för att lägga till som bilaga</value>
+  <comment>Drop as Attachment</comment>
   </data>
   <data name="Message_EditWindow" xml:space="preserve">
     <value>Ändra i nytt fönster</value>
@@ -1441,7 +1441,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Advanced</comment>
   </data>
   <data name="Options_AlwaysDownloadImage" xml:space="preserve">
-    <value>Alltid visa fjärrbilder.</value>
+    <value>Ladda alltid ner bilder</value>
   <comment>Always show remote images</comment>
   </data>
   <data name="Options_AlwaysExpandSwitcher" xml:space="preserve">
@@ -1529,7 +1529,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
-    <value>In-line svar intro text.</value>
+    <value>In-line svar ingress text</value>
   <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
@@ -1549,7 +1549,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Edit signatures</comment>
   </data>
   <data name="Options_MessagePreview" xml:space="preserve">
-    <value>Visa meddelandevisningar i konversationsvy.</value>
+    <value>Förhandsvisa meddelanden i konversationsvy</value>
   <comment>Show message previews in conversation view</comment>
   </data>
   <data name="Options_NotDefault" xml:space="preserve">
@@ -1701,20 +1701,20 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Houston, we have a problem!</comment>
   </data>
   <data name="Report_HoustonExplanation" xml:space="preserve">
-    <value>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</value>
-    <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
+    <value>Ledsen men något gick fel och Mailbird behövde stängas. För att hjälpa oss fixa detta, vänligen beskriv vad du just skulle göra när felet uppstod. Tack för att du hjälper till att bygga den bästa mejlappen någonsin!</value>
+  <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
   </data>
   <data name="Report_Include" xml:space="preserve">
-    <value>Include: </value>
-    <comment>Include: </comment>
+    <value>Inkludera: </value>
+  <comment>Include: </comment>
   </data>
   <data name="Report_Intro" xml:space="preserve">
-    <value>I was..</value>
-    <comment>I was..</comment>
+    <value>Jag skulle just..</value>
+  <comment>I was..</comment>
   </data>
   <data name="Report_Report" xml:space="preserve">
-    <value>Report an Issue</value>
-    <comment>Report an Issue</comment>
+    <value>Rapportera ett problem</value>
+  <comment>Report an Issue</comment>
   </data>
   <data name="Report_Send" xml:space="preserve">
     <value>Send</value>
@@ -1725,292 +1725,292 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>View details</comment>
   </data>
   <data name="RichText_CantFetch" xml:space="preserve">
-    <value>Could not fetch the content at the moment. Please try again later.</value>
-    <comment>Could not fetch the content at the moment. Please try again later.</comment>
+    <value>Kunde inte hämta innehållet för tillfället. Vänligen försök igen om en liten stund.</value>
+  <comment>Could not fetch the content at the moment. Please try again later.</comment>
   </data>
   <data name="Search_NotMessageFound" xml:space="preserve">
-    <value>No messages matched your search</value>
-    <comment>No messages matched your search</comment>
+    <value>Inga meddelanden matchade din sökning</value>
+  <comment>No messages matched your search</comment>
   </data>
   <data name="Shortcut_ArchiveExplanation" xml:space="preserve">
-    <value>Archive your conversation from any view.</value>
-    <comment>Archive your conversation from any view.</comment>
+    <value>Arkivera din konversation från valfri vy.</value>
+  <comment>Archive your conversation from any view.</comment>
   </data>
   <data name="Shortcut_ArchiveNext" xml:space="preserve">
-    <value>Archive and next</value>
-    <comment>Archive and next</comment>
+    <value>Arkivera och nästa</value>
+  <comment>Archive and next</comment>
   </data>
   <data name="Shortcut_ArchiveNextExplanation" xml:space="preserve">
-    <value>Removes the conversation from the inbox and moves to the next one.</value>
-    <comment>Removes the conversation from the inbox and moves to the next one.</comment>
+    <value>Tar bort konversationen från inkorgen och hoppar till nästa.</value>
+  <comment>Removes the conversation from the inbox and moves to the next one.</comment>
   </data>
   <data name="Shortcut_ArchivePrevious" xml:space="preserve">
-    <value>Archive and previous</value>
-    <comment>Archive and previous</comment>
+    <value>Arkivera och föregående</value>
+  <comment>Archive and previous</comment>
   </data>
   <data name="Shortcut_ArchivePreviousExplanation" xml:space="preserve">
-    <value>Removes the current view's label from your conversation and moves to the previous one.</value>
-    <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
+    <value>Tar bort aktuellt vys etikett från din konversation och hoppar till föregående.</value>
+  <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
   </data>
   <data name="Shortcut_Close" xml:space="preserve">
-    <value>Close Current Window</value>
-    <comment>Close Current Window</comment>
+    <value>Stäng aktuellt fönster</value>
+  <comment>Close Current Window</comment>
   </data>
   <data name="Shortcut_CloseExplanation" xml:space="preserve">
-    <value>Closes the current open window. If the current window is main window, it will be minimized to tray.</value>
-    <comment>Closes the current open window. If the current window is main window, it will be minimized to tray.</comment>
+    <value>Stänger aktuellt fönster. Om det aktuell fönstret är huvudfönstret minimeras det till aktivitetsfältet.</value>
+  <comment>Closes the current open window. If the current window is main window, it will be minimized to tray.</comment>
   </data>
   <data name="Shortcut_CloseOther" xml:space="preserve">
-    <value>Close Other Window</value>
-    <comment>Close Other Window</comment>
+    <value>Stäng alla andra fönster</value>
+  <comment>Close Other Window</comment>
   </data>
   <data name="Shortcut_CloseOtherExplanation" xml:space="preserve">
-    <value>Closes the open windows, except the main window.</value>
-    <comment>Closes the open windows, except the main window.</comment>
+    <value>Stänger alla öppna fönster förutom huvudfönstret.</value>
+  <comment>Closes the open windows, except the main window.</comment>
   </data>
   <data name="Shortcut_ComposeExplanation" xml:space="preserve">
-    <value>Allows you to compose a new message.</value>
-    <comment>Allows you to compose a new message.</comment>
+    <value>Låter dig författa ett nytt meddelande.</value>
+  <comment>Allows you to compose a new message.</comment>
   </data>
   <data name="Shortcut_CopyAttachment" xml:space="preserve">
-    <value>Copy Attachment</value>
-    <comment>Copy Attachment</comment>
+    <value>Kopiera bilaga</value>
+  <comment>Copy Attachment</comment>
   </data>
   <data name="Shortcut_CopyAttachmentExplanation" xml:space="preserve">
-    <value>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</value>
-    <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
+    <value>Kopierar markerade bilagor till urklipp. Fungerar bara när markerade bilagor är i fokus.</value>
+  <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
   </data>
   <data name="Shortcut_Delete" xml:space="preserve">
     <value>Delete</value>
     <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
-    <value>Moves the conversation to Trash.</value>
-    <comment>Moves the conversation to Trash.</comment>
+    <value>Flyttar konversationen till Papperskorgen.</value>
+  <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
-    <value>Delete Draft or Trash Conversation</value>
-    <comment>Delete Draft or Trash Conversation</comment>
+    <value>Radera utkast / konversation</value>
+  <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Delete selected draft or trash the selected conversation.</value>
-    <comment>Delete selected draft or trash the selected conversation.</comment>
+    <value>Radera markerad utkast / konversation.</value>
+  <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
-    <value>Quit Mailbird</value>
-    <comment>Quit Mailbird</comment>
+    <value>Avsluta Mailbird</value>
+  <comment>Quit Mailbird</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
-    <value>Close the application.</value>
-    <comment>Close the application.</comment>
+    <value>Stäng applikationen.</value>
+  <comment>Close the application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
-    <value>Expand/Collapse Window</value>
-    <comment>Expand/Collapse Window</comment>
+    <value>Öppna/Stäng Fönster</value>
+  <comment>Expand/Collapse Window</comment>
   </data>
   <data name="Shortcut_ExpandCollapseExplanation" xml:space="preserve">
-    <value>Allows you to expand/collapse the main window, and navigate between the conversation list and message list.</value>
-    <comment>Allows you to expand/collapse the main window, and navigate between the conversation list and message list.</comment>
+    <value>Låter dig öppna/stänga huvudfönstret och navigera mellan konversationslistan och meddelandelistan.</value>
+  <comment>Allows you to expand/collapse the main window, and navigate between the conversation list and message list.</comment>
   </data>
   <data name="Shortcut_Find" xml:space="preserve">
-    <value>Find</value>
-    <comment>Find</comment>
+    <value>Sök</value>
+  <comment>Find</comment>
   </data>
   <data name="Shortcut_FindExplanation" xml:space="preserve">
-    <value>Search within the text in the selected message.</value>
-    <comment>Search within the text in the selected message.</comment>
+    <value>Söker i aktuellt meddelande.</value>
+  <comment>Search within the text in the selected message.</comment>
   </data>
   <data name="Shortcut_ForwardExplanation" xml:space="preserve">
-    <value>Forwards a message.</value>
-    <comment>Forwards a message.</comment>
+    <value>Vidarebefordrar ett meddelande.</value>
+  <comment>Forwards a message.</comment>
   </data>
   <data name="Shortcut_Gmail" xml:space="preserve">
     <value>TILLGÄNGLIGA GMAIL SNABBKOMMANDON</value>
   <comment>AVAILABLE GMAIL SHORTCUTS</comment>
   </data>
   <data name="Shortcut_GmailExplanation" xml:space="preserve">
-    <value>Enable the following GMail shortcuts below from the Mailbird settings window.</value>
-    <comment>Enable the following GMail shortcuts below from the Mailbird settings window.</comment>
+    <value>Slå på dessa Gmail kortkommandon från Mailbird inställningar.</value>
+  <comment>Enable the following GMail shortcuts below from the Mailbird settings window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
     <value>Visa hjälp för snabbkommandon</value>
   <comment>Show keyboard shortcuts help</comment>
   </data>
   <data name="Shortcut_HelpExplanation" xml:space="preserve">
-    <value>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</value>
-    <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
+    <value>Visar kortkommandon när Mailbird fönstret är aktivt.</value>
+  <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
   </data>
   <data name="Shortcut_ImportantExplanation" xml:space="preserve">
     <value>Hjälper Gmail att identifiera vad som är viktigt för dig genom att markera felkategoriserade meddelanden. (Specifikt för prioriterad inkorg)</value>
   <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_MoreAction" xml:space="preserve">
-    <value>Show more actions</value>
-    <comment>Show more actions.</comment>
+    <value>Ytterligare åtgärder</value>
+  <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Displays the 'More Actions' drop-down menu.</value>
-    <comment>Displays the 'More Actions' drop-down menu.</comment>
+    <value>Visar 'Ytterligare åtgärder' drop-down menyn.</value>
+  <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
-    <value>Move to newer conversation</value>
-    <comment>Move to newer conversation</comment>
+    <value>Flytta till nyare konversation</value>
+  <comment>Move to newer conversation</comment>
   </data>
   <data name="Shortcut_MoveNewerExplanation" xml:space="preserve">
-    <value>Selects the next more recent conversation.</value>
-    <comment>Selects the next more recent conversation.</comment>
+    <value>Markerar nästa (nyare) konversation.</value>
+  <comment>Selects the next more recent conversation.</comment>
   </data>
   <data name="Shortcut_MoveOlder" xml:space="preserve">
-    <value>Move to older conversation</value>
-    <comment>Move to older conversation</comment>
+    <value>Flytta till äldre konversation</value>
+  <comment>Move to older conversation</comment>
   </data>
   <data name="Shortcut_MoveOlderExplanation" xml:space="preserve">
-    <value>Selects the previous older conversation.</value>
-    <comment>Selects the previous older conversation.</comment>
+    <value>Markerar föregående (äldre) konversation.</value>
+  <comment>Selects the previous older conversation.</comment>
   </data>
   <data name="Shortcut_MoveToExplanation" xml:space="preserve">
-    <value>Moves the conversation to a different folder.</value>
-    <comment>Moves the conversation to a different folder.</comment>
+    <value>Flyttar konversationen till en annan mapp.</value>
+  <comment>Moves the conversation to a different folder.</comment>
   </data>
   <data name="Shortcut_NextMessage" xml:space="preserve">
-    <value>Next message</value>
-    <comment>Next message</comment>
+    <value>Nästa meddelande</value>
+  <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</value>
-    <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
+    <value>Flyttar fokus till nästa meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga meddelandet. (Endast giltigt i Konversationsvy)</value>
+  <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
-    <value>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</value>
-    <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
+    <value>Hjälper Gmail lära sig vad som är viktigt för dig genom att markera oviktiga meddelanden. (Specifik till Prioritetsinkorgen)</value>
+  <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_Open" xml:space="preserve">
     <value>Open</value>
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</value>
-    <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
+    <value>Öppnar konversation. Fungerar också för att öppna och stänga meddelanden när du är i 'Konversationsvyn.'</value>
+  <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
     <value>or</value>
     <comment>or</comment>
   </data>
   <data name="Shortcut_CopyToFolder" xml:space="preserve">
-    <value>Copy to / label</value>
-    <comment>Copy to / label</comment>
+    <value>Kopiera till / etikett</value>
+  <comment>Copy to / label</comment>
   </data>
   <data name="Shortcut_CopyToFolderExplanation" xml:space="preserve">
-    <value>Copies the conversation to a different folder. Gmail calls this labeling.</value>
-    <comment>Copies the conversation to a different folder. Gmail calls this labeling.</comment>
+    <value>Kopierar konversationen till en annan mapp. Gmail kallar detta för etikett.</value>
+  <comment>Copies the conversation to a different folder. Gmail calls this labeling.</comment>
   </data>
   <data name="Shortcut_PreviousMessage" xml:space="preserve">
-    <value>Previous message</value>
-    <comment>Previous message</comment>
+    <value>Föregående meddelande</value>
+  <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</value>
-    <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
+    <value>Flyttar fokus till föregående meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga meddelandet. (Endast giltigt i Konversationsvy)</value>
+  <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
-    <value>Print Message</value>
-    <comment>Print Message</comment>
+    <value>Skriv ut meddelande</value>
+  <comment>Print Message</comment>
   </data>
   <data name="Shortcut_PrintConversation" xml:space="preserve">
-    <value>Print Conversation</value>
-    <comment>Print Conversation</comment>
+    <value>Skriv ut konversation</value>
+  <comment>Print Conversation</comment>
   </data>
   <data name="Shortcut_PrintConversationExplanation" xml:space="preserve">
-    <value>Print all messages in the selected conversation.</value>
-    <comment>Print all messages in the selected conversation.</comment>
+    <value>Skriv ut alla meddelanden i den valda konversationen.</value>
+  <comment>Print all messages in the selected conversation.</comment>
   </data>
   <data name="Shortcut_PrintExplanation" xml:space="preserve">
-    <value>Print the selected message.</value>
-    <comment>Print the selected message.</comment>
+    <value>Skriv ut valt meddelande.</value>
+  <comment>Print the selected message.</comment>
   </data>
   <data name="Shortcut_QuickPreview" xml:space="preserve">
-    <value>Attachment Quick Preview</value>
-    <comment>Attachment Quick Preview</comment>
+    <value>Snabbvisning för bilaga</value>
+  <comment>Attachment Quick Preview</comment>
   </data>
   <data name="Shortcut_QuickPreviewExplanation" xml:space="preserve">
-    <value>Open quick preview window for the selected attachment.</value>
-    <comment>Open quick preview window for the selected attachment.</comment>
+    <value>Öppna snabbvisningsfönstret för den markerade bilagan.</value>
+  <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
-    <value>Marks your message as 'read' and skip to the next message.</value>
-    <comment>Marks your message as 'read' and skip to the next message.</comment>
+    <value>Markerar meddelandet som läst och hoppar till nästa.</value>
+  <comment>Marks your message as 'read' and skip to the next message.</comment>
   </data>
   <data name="Shortcut_Refresh" xml:space="preserve">
-    <value>Refresh</value>
-    <comment>Refresh</comment>
+    <value>Uppdatera</value>
+  <comment>Refresh</comment>
   </data>
   <data name="Shortcut_RefreshExplanation" xml:space="preserve">
-    <value>Check online for new messages in current folder.</value>
-    <comment>Check online for new messages in current folder.</comment>
+    <value>Leta efter nya meddelanden för denna mapp.</value>
+  <comment>Check online for new messages in current folder.</comment>
   </data>
   <data name="Shortcut_RemoveView" xml:space="preserve">
-    <value>Remove from Current View</value>
-    <comment>Remove from Current View</comment>
+    <value>Ta bort från denna vy</value>
+  <comment>Remove from Current View</comment>
   </data>
   <data name="Shortcut_RemoveViewExplanation" xml:space="preserve">
-    <value>Automatically removes the message or conversation from your current view.</value>
-    <comment>Automatically removes the message or conversation from your current view.</comment>
+    <value>Tar automatiskt bort meddelandet/konversationen från aktuell vy.</value>
+  <comment>Automatically removes the message or conversation from your current view.</comment>
   </data>
   <data name="Shortcut_ReplyAllExplanation" xml:space="preserve">
-    <value>Replies to all message recipients.</value>
-    <comment>Replies to all message recipients.</comment>
+    <value>Svarar till avsändaren samt alla andra mottagare.</value>
+  <comment>Replies to all message recipients.</comment>
   </data>
   <data name="Shortcut_ReplyExplanation" xml:space="preserve">
-    <value>Replies to the message sender.</value>
-    <comment>Replies to the message sender.</comment>
+    <value>Svarar till avsändaren.</value>
+  <comment>Replies to the message sender.</comment>
   </data>
   <data name="Shortcut_ReportSpam" xml:space="preserve">
-    <value>Report spam</value>
-    <comment>Report spam</comment>
+    <value>Rapportera skräppost</value>
+  <comment>Report spam</comment>
   </data>
   <data name="Shortcut_ReportSpamExplanation" xml:space="preserve">
-    <value>Marks a message as spam and removes it from your conversation list.</value>
-    <comment>Marks a message as spam and removes it from your conversation list.</comment>
+    <value>Markerar meddelandet som skräppost och tar bort det från konversationslistan.</value>
+  <comment>Marks a message as spam and removes it from your conversation list.</comment>
   </data>
   <data name="Shortcut_Return" xml:space="preserve">
-    <value>Return to conversation list</value>
-    <comment>Return to conversation list</comment>
+    <value>Återgå till konversationslista</value>
+  <comment>Return to conversation list</comment>
   </data>
   <data name="Shortcut_ReturnExplanation" xml:space="preserve">
-    <value>Refreshes your page and returns you to the inbox, or list of conversations.</value>
-    <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
+    <value>Uppdaterar sidan och återgår till inkorgen eller till listan med konversationer.</value>
+  <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
   </data>
   <data name="Shortcut_SaveDraft" xml:space="preserve">
-    <value>Save draft</value>
-    <comment>Save draft</comment>
+    <value>Spara utkast</value>
+  <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</value>
-    <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
+    <value>Sparar aktuellt text som utkast när man skriver ett meddelande. Håll ner &lt;Ctrl&gt; knappen medans och försäkra dig att muspekaren är i någon av fälten Till, Kopia, Hemlig kopia, Ämne eller texten medan denna kortkommando används.</value>
+  <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
-    <value>Search</value>
-    <comment>Search</comment>
+    <value>Sök</value>
+  <comment>Search</comment>
   </data>
   <data name="Shortcut_SearchExplanation" xml:space="preserve">
-    <value>Puts your cursor in the search box.</value>
-    <comment>Puts your cursor in the search box.</comment>
+    <value>Förflyttar muspekaren till sökfältet för e-post.</value>
+  <comment>Puts your cursor in the search box.</comment>
   </data>
   <data name="Shortcut_SearchExplanation1" xml:space="preserve">
-    <value>Start new email search.</value>
-    <comment>Start new email search.</comment>
+    <value>Starta ny sökning efter mejl.</value>
+  <comment>Start new email search.</comment>
   </data>
   <data name="Shortcut_Send" xml:space="preserve">
     <value>Send Email</value>
     <comment>Send Email</comment>
   </data>
   <data name="Shortcut_SendExplanation" xml:space="preserve">
-    <value>Sends the current composed email in view.</value>
-    <comment>Sends the current composed email in view.</comment>
+    <value>Skickar aktuellt meddelande.</value>
+  <comment>Sends the current composed email in view.</comment>
   </data>
   <data name="Shortcut_ShowMailbird" xml:space="preserve">
-    <value>Show Mailbird</value>
-    <comment>Show Mailbird</comment>
+    <value>Visa Mailbird</value>
+  <comment>Show Mailbird</comment>
   </data>
   <data name="Shortcut_ShowMailbirdExplanation" xml:space="preserve">
     <value>Flytta Mailbird till förgrunden.</value>
@@ -6176,7 +6176,7 @@ Try the new Contacts now!</value>
     <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>Den här identiteten är inaktiverad på grund av att serverinloggning vara aktiverad..</value>
+    <value>Denna identitet har inaktiverats för att serverloggning är påslaget.</value>
   <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
@@ -6294,8 +6294,8 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
 <data name="NewMessage_NewMessageSingular" xml:space="preserve">
-    <value>{0} new message</value>
-    <comment>Label for button when there is 1 new message</comment>
+    <value>{0} nytt meddelande</value>
+  <comment>Label for button when there is 1 new message</comment>
   </data>
   <data name="Dialog_EmptyFolder" xml:space="preserve">
     <value>Empty folder?</value>
