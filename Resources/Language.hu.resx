@@ -6435,7 +6435,19 @@ Kérjük, lépjen kapcsolatba az ügyfélszolgálattal, hogy hogyan kell megolda
   <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
-    <value>Méretezési szint törlése (Ctrl+0)</value>
+    <value>Reset scaling level</value>
   <comment>Tooltip text for button to reset the scaling level, (Ctrl+0) doesn't need to be translated</comment>
+  </data>
+<data name="MailEditor_CcBcc" xml:space="preserve">
+    <value>Cc Bcc</value>
+    <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
+  </data>
+  <data name="MailEditor_CollapseCcBcc" xml:space="preserve">
+    <value>Hide Cc Bcc fields</value>
+    <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
+  </data>
+  <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
+    <value>Show Cc Bcc fields</value>
+    <comment>Tooltip for button to expand Cc and Bcc fields</comment>
   </data>
 </root>
