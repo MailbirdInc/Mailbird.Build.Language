@@ -118,24 +118,24 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Attachment_Open" xml:space="preserve">
-    <value>Open</value>
-    <comment>Open</comment>
+    <value>Otevřít</value>
+  <comment>Open</comment>
   </data>
   <data name="Attachment_QuickPreview" xml:space="preserve">
     <value>Rychlý náhled</value>
     <comment>Quick preview</comment>
   </data>
   <data name="Attachment_Remove" xml:space="preserve">
-    <value>Odstranit</value>
-    <comment>Remove</comment>
+    <value>Smazat</value>
+  <comment>Remove</comment>
   </data>
   <data name="Attachment_Save" xml:space="preserve">
-    <value>Uložit jako...</value>
-    <comment>Save as...</comment>
+    <value>Uložit jako ..</value>
+  <comment>Save as...</comment>
   </data>
   <data name="Attachment_SaveAll" xml:space="preserve">
-    <value>Uložit vše jako...</value>
-    <comment>Save all as...</comment>
+    <value>Uložit vše jako ..</value>
+  <comment>Save all as...</comment>
   </data>
   <data name="Awesomium_Copy" xml:space="preserve">
     <value>Kopírovat</value>
@@ -158,16 +158,16 @@
     <comment>Copy image address</comment>
   </data>
   <data name="Awesomium_CopyLink" xml:space="preserve">
-    <value>Zkopírovat odkaz</value>
-    <comment>Copy link address</comment>
+    <value>Kopírovat adresu odkazu</value>
+  <comment>Copy link address</comment>
   </data>
   <data name="Awesomium_Cut" xml:space="preserve">
     <value>Vyjmout</value>
     <comment>Cut</comment>
   </data>
   <data name="Awesomium_Ignore" xml:space="preserve">
-    <value>Ignore word</value>
-    <comment>Ignore word</comment>
+    <value>Přeskočit slovo</value>
+  <comment>Ignore word</comment>
   </data>
   <data name="Awesomium_Paste" xml:space="preserve">
     <value>Vložit</value>
@@ -178,8 +178,8 @@
     <comment>Paste as plain text</comment>
   </data>
   <data name="Awesomium_SaveImage" xml:space="preserve">
-    <value>Uložit obrázek jako...</value>
-    <comment>Save image as...</comment>
+    <value>Uložit obrázek jako ..</value>
+  <comment>Save image as...</comment>
   </data>
   <data name="Awesomium_SelectAll" xml:space="preserve">
     <value>Vybrat vše</value>
@@ -190,20 +190,20 @@
     <comment>Copy email</comment>
   </data>
   <data name="Contact_CopyMailName" xml:space="preserve">
-    <value>Zkopírovat jmého a email</value>
-    <comment>Copy name and email</comment>
+    <value>Zkopírujte jméno a email</value>
+  <comment>Copy name and email</comment>
   </data>
   <data name="Contact_NewMail" xml:space="preserve">
     <value>Odeslat nový email</value>
     <comment>Send new mail</comment>
   </data>
   <data name="Conversation_Archive" xml:space="preserve">
-    <value>Archiv</value>
-    <comment>Archive</comment>
+    <value>Archív</value>
+  <comment>Archive</comment>
   </data>
   <data name="Conversation_DeletePermanently" xml:space="preserve">
-    <value>Trvale vymazat</value>
-    <comment>Delete permanently</comment>
+    <value>Trvale smazat</value>
+  <comment>Delete permanently</comment>
   </data>
   <data name="Conversation_Discard" xml:space="preserve">
     <value>Zahodit</value>
@@ -230,12 +230,12 @@
     <comment>Copy to</comment>
   </data>
   <data name="Conversation_CopyTo2" xml:space="preserve">
-    <value>Kopírovat do..</value>
-    <comment>Copy to...</comment>
+    <value>Kopírovat do ..</value>
+  <comment>Copy to...</comment>
   </data>
   <data name="Options_SettingsMoreInfo" xml:space="preserve">
-    <value>Mailbird automaticky upraví nastavení pokaždé když je vaše nastavení dpi změněno. Ale pokud nastavení změníte manuálně, Mailbird zachová tuto hodnotu dokud nezměníte dpi nastavení. Výchozí hodnota je 100%</value>
-    <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
+    <value>Mailbird automaticky upraví toto nastavení pokaždé, když se změní nastavení dpi. Jestliže ručně změníte toto nastavení, Mailbird zachová hodnotu, dokud nezměníte nastavení dpi. Výchozí hodnota je 100 %</value>
+  <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
     <value>Označit jako důležité</value>
@@ -250,8 +250,8 @@
     <comment>Mark as unread</comment>
   </data>
   <data name="Conversation_MarkNotSpam" xml:space="preserve">
-    <value>Označit není spam</value>
-    <comment>Mark as not spam</comment>
+    <value>Označit jako není SPAM</value>
+  <comment>Mark as not spam</comment>
   </data>
   <data name="Conversation_MarkNotStarred" xml:space="preserve">
     <value>Označit jako neoblíbené</value>
@@ -262,28 +262,28 @@
     <comment>Mark as read</comment>
   </data>
   <data name="Conversation_MarkSpam" xml:space="preserve">
-    <value>Označit jako spam</value>
-    <comment>Mark as spam</comment>
+    <value>Označit jako SPAM</value>
+  <comment>Mark as spam</comment>
   </data>
   <data name="Conversation_MarkStarred" xml:space="preserve">
     <value>Označit jako oblíbené</value>
     <comment>Mark as starred</comment>
   </data>
   <data name="Conversation_MoveTo" xml:space="preserve">
-    <value>Přesunout do...</value>
-    <comment>Move to...</comment>
+    <value>Přesunout do ..</value>
+  <comment>Move to...</comment>
   </data>
   <data name="Conversation_MoveToInbox" xml:space="preserve">
-    <value>Přesunout do schránky</value>
-    <comment>Move to Inbox</comment>
+    <value>Přesunout do doručené pošty</value>
+  <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
     <value>Žádná konverzace v této složce</value>
     <comment>No conversations in this folder</comment>
   </data>
   <data name="Conversation_Print" xml:space="preserve">
-    <value>Tisknout konvezaci</value>
-    <comment>Print conversation</comment>
+    <value>Tisknout konverzaci</value>
+  <comment>Print conversation</comment>
   </data>
   <data name="Conversation_Reply" xml:space="preserve">
     <value>Odpovědět</value>
@@ -302,40 +302,40 @@
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>to me </value>
-    <comment>to me</comment>
+    <value>pro mně </value>
+  <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
-    <value>To</value>
-    <comment>To</comment>
+    <value>Do</value>
+  <comment>To</comment>
   </data>
   <data name="Conversation_Trash" xml:space="preserve">
     <value>Koš</value>
     <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
-    <value>Uzavření tohoto dialogu uprostřed procesu odesílání přeruší odeslání zprávy. Opravdu chcete přerušit odeslání zprávy ?</value>
-    <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
+    <value>Uzavření tohoto dialogu uprostřed procesu odesílání přeruší odeslání zprávy. Opravdu chcete přerušit odeslání zprávy?</value>
+  <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
   </data>
   <data name="Dialog_AlreadyAttached" xml:space="preserve">
-    <value>Již přiloženo</value>
-    <comment>Already attached</comment>
+    <value>Již připojeno</value>
+  <comment>Already attached</comment>
   </data>
   <data name="Dialog_AlreadyAttachedExplanation" xml:space="preserve">
-    <value>Nemůžete přidat soubor, který je již přiložen.</value>
-    <comment>You can't add file that is already attached.</comment>
+    <value>Nemůžete přidat soubor, který je již připojen.</value>
+  <comment>You can't add file that is already attached.</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloaded" xml:space="preserve">
     <value>Příloha(y) nebyla stažena</value>
     <comment>Attachment(s) not downloaded</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
-    <value>Prosím vyčkejte než budou staženy všechny přílohy před předáním</value>
-    <comment>Please wait until all attachments have been downloaded before forwarding</comment>
+    <value>Prosím počkejte než budou staženy všechny přílohy před přeposláním</value>
+  <comment>Please wait until all attachments have been downloaded before forwarding</comment>
   </data>
   <data name="Dialog_Cancel" xml:space="preserve">
-    <value>Zrušit</value>
-    <comment>Cancel</comment>
+    <value>Storno</value>
+  <comment>Cancel</comment>
   </data>
   <data name="Dialog_Stop" xml:space="preserve">
     <value>Stop</value>
@@ -354,26 +354,26 @@
     <comment>Could not retrieve access</comment>
   </data>
   <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
-    <value>V tuto chvíli nelze načíst přihlašovací token k účtu facebooku. Prosím zkuste to znovu.</value>
-    <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
+    <value>Současně nelze získat přístupový facebook token. Prosím zkuste to znovu.</value>
+  <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
   </data>
   <data name="Dialog_CantSave" xml:space="preserve">
-    <value>Nelze uložit soubor.</value>
-    <comment>Could not save file</comment>
+    <value>Nelze uložit soubor</value>
+  <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Soubor '{0}' nemůže být uložen. Soubor je používán.</value>
-    <comment>The file '{0}' could not be saved. File already in use.</comment>
+    <value>Soubor '{0}' nemůže být uložen. Soubor je již používán.</value>
+  <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
     <value>Stažení selhalo</value>
     <comment>Download failed</comment>
   </data>
   <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
-    <value>Přílohu nelze stáhnout
+    <value>Nelze stáhnout přílohu. 
 Popis: {0}
 Url: {1}</value>
-    <comment>Could not download the attachment. 
+  <comment>Could not download the attachment. 
 Description: {0}
 Url: {1}</comment>
   </data>
@@ -382,33 +382,33 @@ Url: {1}</comment>
     <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>Prosíme vyčkejte dokud se nestáhnou všechny přílohy nebo odstraňte přílohy.</value>
-    <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
+    <value>Prosíme vyčkejte než budou staženy všechny přílohy, nebo odstraňte přílohy.</value>
+  <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
     <value>Identitu nelze vytvořit</value>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>Identita s touto emailovou adresou již existuje.</value>
-    <comment>An identity with the same email address already exists.</comment>
+    <value>Identita se stejnou email adresou již existuje.</value>
+  <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
     <value>Emaily se odesílají</value>
     <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
-    <value>Zprávy se stále odesílají. Určitě chcete odejít a odložit odesílání ?</value>
-    <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
+    <value>Zprávy jsou stále odesílány. Opravdu chcete ukončit program a odložit odesílání?</value>
+  <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
   </data>
   <data name="Dialog_FacebookConnect" xml:space="preserve">
-    <value>Propojeno s Facebookem</value>
-    <comment>Facebook connect</comment>
+    <value>Propojeno s Facebook</value>
+  <comment>Facebook connect</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
-    <value>Potřebujeme se znovu ověřit Facebook.
-Chcete se znovu připojit k Facebooku ?</value>
-    <comment>We need to re-authenticate with Facebook.
+    <value>Potřebujeme znovu ověřit Facebook.
+Chcete se znovu připojit k Facebooku?</value>
+  <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
   </data>
   <data name="Dialog_FileNotFound" xml:space="preserve">
@@ -424,49 +424,49 @@ Do you want to reconnect your Facebook?</comment>
     <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
-    <value>Send local file links?</value>
-    <comment>Send local file links?</comment>
+    <value>Odeslat lokální odkazy na soubory?</value>
+  <comment>Send local file links?</comment>
   </data>
   <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
-    <value>Vložily jste odkaz na soubor ve vašem počítači ke, kterému nemusí mít příjemci přístup. Opravdu chcete pokračovat ?</value>
-    <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
+    <value>Zahrnuli jste odkazy na lokální soubory v počítači, kde příjemce nemůže získat přístup. Chtěli jste to udělat?</value>
+  <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
   </data>
   <data name="Dialog_No" xml:space="preserve">
-    <value>No</value>
-    <comment>No</comment>
+    <value>Ne</value>
+  <comment>No</comment>
   </data>
   <data name="Dialog_NoBrowser" xml:space="preserve">
     <value>Nebyl nalezen výchozí prohlížeč</value>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Nelze otevřít URL odkaz. Prosíme zkontrolujte zda je váš výchozí prohlížeč nainstalován, případně nainstalujte Google Chrome nebo Internet Explorer.</value>
-    <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
+    <value>Nelze otevřít URL odkaz. Prosíme zkontrolujte zda je Váš výchozí prohlížeč nainstalován, případně přeinstalujte Google Chrome nebo Internet Explorer.</value>
+  <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
     <value>OK</value>
     <comment>OK</comment>
   </data>
   <data name="Dialog_RemoveAccount" xml:space="preserve">
-    <value>Odstranit lokální účet ?</value>
-    <comment>Remove local account?</comment>
+    <value>Odstranit lokální účet?</value>
+  <comment>Remove local account?</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
-    <value>Opravdu chcete odstranit účet a všechny propojené identity ?
+    <value>Opravdu chcete smazat účet a všechny propojené identity?
 
 Toto může chvíli trvat a vyžaduje restart Mailbirdu.</value>
-    <comment>Are you sure you want to remove the account and all connected identities?
+  <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
   </data>
   <data name="Dialog_RemoveIdentity" xml:space="preserve">
-    <value>Odstranit identitu ?</value>
-    <comment>Remove identity?</comment>
+    <value>Smazat identitu?</value>
+  <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Opravdu chcete odstranit identitu '{0}'?
+    <value>Opravdu chcete smazat identitu pro '{0}'?
 Tato akce je nevratná.</value>
-    <comment>Are you sure you want to remove the identity for '{0}'?
+  <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSend" xml:space="preserve">
@@ -475,9 +475,9 @@ This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
     <value>Je nám to líto, ale vaše zpráva nemohla být odeslána.
-Můžete vytvořit zprávu, ale musíte ručně zadat emailovou adresu {0} .
+Ocenili bychom, pokud byste jej mohli poslat přímo na adresu {0}.
 Zpráva:</value>
-    <comment>We're sorry, but your report could not be sent. 
+  <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
   </data>
@@ -502,16 +502,16 @@ Message:</comment>
     <comment>Confirm sending screenshot</comment>
   </data>
   <data name="Dialog_SendScreenshotExplanation" xml:space="preserve">
-    <value>Prosíme potvrďte volbu možnosti, že snímek obrazovky je poslán se zprávou, což nám pomáhá identifikovat problém rychleji.</value>
-    <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
+    <value>Zvolili jste políčko poslat obrazovku spolu se zprávou, aby jste nám pomohli zjistit příčinu problému. Prosím, potvrďte.</value>
+  <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
   </data>
   <data name="Dialog_SizeLimit" xml:space="preserve">
     <value>Překročen limit velikosti</value>
     <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>Nemůžete přidat soubor větší než 25MB za každý.</value>
-    <comment>You can't add file larger than 25 mb each.</comment>
+    <value>Nelze přidat soubor větší než 25 mb.</value>
+  <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
     <value>Chyba spojení SMTP</value>
@@ -984,8 +984,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Minimum size:</comment>
   </data>
   <data name="App_Attachments_ThumbSizeLabel" xml:space="preserve">
-    <value>Velikost náhledu</value>
-    <comment>Thumbnail size:</comment>
+    <value>Velikost náhledu:</value>
+  <comment>Thumbnail size:</comment>
   </data>
   <data name="App_Attachments_Title" xml:space="preserve">
     <value>Přílohy</value>
@@ -1040,8 +1040,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Evernote_Description" xml:space="preserve">
-    <value>Vytvářejte, prohlížejte, upravovajte poznámky přímo z Mailbirdu! Jednoduše a produktivně</value>
-    <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
+    <value>Vytvářejte, prohlížejte, editujte poznámky přímo z Mailbirdu! Jednoduše a produktivně.</value>
+  <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
   </data>
   <data name="App_Facebook_Description" xml:space="preserve">
     <value>Buďte sociální hvězdou. Připojte se k Facebooku a chatujte s přáteli z Mailbirdu.</value>
@@ -1252,8 +1252,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Starred</comment>
   </data>
   <data name="MapLabelWindow_Title" xml:space="preserve">
-    <value>Mapa speciálních štítků.</value>
-    <comment>Map special labels</comment>
+    <value>Mapa speciálních štítků</value>
+  <comment>Map special labels</comment>
   </data>
   <data name="MapLabelWindow_Trash" xml:space="preserve">
     <value>Koš</value>
@@ -1336,8 +1336,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Fwd:</comment>
   </data>
   <data name="Message_InMaking" xml:space="preserve">
-    <value>Tento email právě píšete</value>
-    <comment>Email in the making.</comment>
+    <value>Tento email právě píšete.</value>
+  <comment>Email in the making.</comment>
   </data>
   <data name="Message_Loading" xml:space="preserve">
     <value>Načítání</value>
@@ -1448,8 +1448,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>{0} Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DeleteSingle" xml:space="preserve">
-    <value>Konverzace trvale vymazána.</value>
-    <comment>Conversation deleted permanently</comment>
+    <value>Konverzace trvale vymazána</value>
+  <comment>Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DiscardMany" xml:space="preserve">
     <value>{0} Konceptů zahozeno</value>
@@ -1516,8 +1516,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Automatically download attachments smaller than the chosen size.</comment>
   </data>
   <data name="Options_AutomaticUpdate" xml:space="preserve">
-    <value>Automaticky kontrolovat aktualizace.</value>
-    <comment>Automatically check for updates</comment>
+    <value>Automaticky kontrolovat aktualizace</value>
+  <comment>Automatically check for updates</comment>
   </data>
   <data name="Options_AutoSelectOnArchive" xml:space="preserve">
     <value>Automatický výběr další konverzace při archivaci</value>
@@ -1552,8 +1552,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Go social. See profile pictures and contact information of your friends.</comment>
   </data>
   <data name="Options_FacebookExplanation1" xml:space="preserve">
-    <value>Váš Facebook účet je nyní propojen. Fotografie a kontakty jsou automaticky aktualizovány v Mailbirdu</value>
-    <comment>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</comment>
+    <value>Váš Facebook účet je nyní propojen. Fotografie a kontakty jsou automaticky aktualizovány v Mailbirdu.</value>
+  <comment>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</comment>
   </data>
   <data name="Options_ZoomLevel" xml:space="preserve">
     <value>Zoom level</value>
@@ -1828,8 +1828,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Closes the open windows, except the main window.</comment>
   </data>
   <data name="Shortcut_ComposeExplanation" xml:space="preserve">
-    <value>Vždy umožnit psaní nových zpráv</value>
-    <comment>Allows you to compose a new message.</comment>
+    <value>Umožňuje psaní nové zprávy.</value>
+  <comment>Allows you to compose a new message.</comment>
   </data>
   <data name="Shortcut_CopyAttachment" xml:space="preserve">
     <value>Kopie přílohy</value>
@@ -2530,9 +2530,8 @@ Emails already invited: {0}</comment>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Pokaždé když se tvůj přítel přidá k Mailbirdu z tvého pozvání, oba získáte 1 měsíc Mailbird Pro zadarmo.  
-Nadále pokračuj ve zvaní přátel a užívej si Mailbird Pro zadarmo do konce života!</value>
-    <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
+    <value>Pozvěte své přátelé, aby vyzkoušeli Mailbird a obdržíte [bold] Mailbird Pro doživotní licenci zdarma [/bold] když {0} nebo více přátel si ho nainstaluje z Vaší pozvánky. Pozvěte tolik přátel, kolik chcete!</value>
+  <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
   <data name="Invite_FailedConnectionMessage" xml:space="preserve">
