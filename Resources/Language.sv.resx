@@ -63,7 +63,7 @@
   <comment>Open</comment>
   </data>
   <data name="Attachment_QuickPreview" xml:space="preserve">
-    <value>Snabbt Förhandsvisning</value>
+    <value>Snabb förhandsvisning</value>
   <comment>Quick preview</comment>
   </data>
   <data name="Attachment_Remove" xml:space="preserve">
@@ -83,7 +83,7 @@
   <comment>Copy</comment>
   </data>
   <data name="Awesomium_CopyEmail" xml:space="preserve">
-    <value>Kopiera mejladress</value>
+    <value>Kopiera e-postadress</value>
   <comment>Copy email address</comment>
   </data>
   <data name="Awesomium_CopyHtml" xml:space="preserve">
@@ -103,7 +103,7 @@
   <comment>Copy link address</comment>
   </data>
   <data name="Awesomium_Cut" xml:space="preserve">
-    <value>Klippa ut</value>
+    <value>Klipp ut</value>
   <comment>Cut</comment>
   </data>
   <data name="Awesomium_Ignore" xml:space="preserve">
@@ -115,7 +115,7 @@
   <comment>Paste</comment>
   </data>
   <data name="Awesomium_PastePlain" xml:space="preserve">
-    <value>Klistra in som oformatterad text</value>
+    <value>Klistra in som oformaterad text</value>
   <comment>Paste as plain text</comment>
   </data>
   <data name="Awesomium_SaveImage" xml:space="preserve">
@@ -127,11 +127,11 @@
   <comment>Select all</comment>
   </data>
   <data name="Contact_Copy" xml:space="preserve">
-    <value>Kopiera mejl</value>
+    <value>Kopiera e-post</value>
   <comment>Copy email</comment>
   </data>
   <data name="Contact_CopyMailName" xml:space="preserve">
-    <value>Kopiera namn och mejl</value>
+    <value>Kopiera namn och e-post</value>
   <comment>Copy name and email</comment>
   </data>
   <data name="Contact_NewMail" xml:space="preserve">
@@ -159,11 +159,11 @@
   <comment>Empty folder</comment>
   </data>
   <data name="Conversation_Forward" xml:space="preserve">
-    <value>vidarebefordra</value>
+    <value>Vidarebefordra</value>
   <comment>Forward</comment>
   </data>
   <data name="Conversation_Folders" xml:space="preserve">
-    <value>mappar</value>
+    <value>Mappar</value>
   <comment>Folders</comment>
   </data>
   <data name="Conversation_CopyTo" xml:space="preserve">
@@ -175,7 +175,7 @@
   <comment>Copy to...</comment>
   </data>
   <data name="Options_SettingsMoreInfo" xml:space="preserve">
-    <value>Mailbird justerar automatiskt denna inställning varje gång din dpi-inställning ändras. Men om du manuellt ändrar inställningen kommer Mailbird att bevara värdet tills du ändrar dpi-inställningen. Standardvärdet är 100%</value>
+    <value>Mailbird justerar automatiskt denna inställning varje gång din dpi-inställning ändras. Men om du manuellt ändrar inställningen kommer Mailbird att bevara värdet tills du ändrar dpi-inställningen. Standardvärdet är 100 %</value>
   <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
@@ -191,11 +191,11 @@
   <comment>Mark as unread</comment>
   </data>
   <data name="Conversation_MarkNotSpam" xml:space="preserve">
-    <value>Markera som ej skräppost</value>
+    <value>Markera som inte skräppost</value>
   <comment>Mark as not spam</comment>
   </data>
   <data name="Conversation_MarkNotStarred" xml:space="preserve">
-    <value>Markera som ej favorit</value>
+    <value>Markera som inte favorit</value>
   <comment>Mark as not starred</comment>
   </data>
   <data name="Conversation_MarkRead" xml:space="preserve">
@@ -255,19 +255,19 @@
   <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
-    <value>Om du stänger dialogrutan i mitten av sändnings process avbryts det också rapportering. Är du säkert att du vill avbryta rapporteringen?</value>
+    <value>Om du stänger dialogrutan i mitten av sändningsprocessen avbryts också rapporten. Är du säker att du vill avbryta rapporten?</value>
   <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
   </data>
   <data name="Dialog_AlreadyAttached" xml:space="preserve">
-    <value>Redan är bifogad</value>
+    <value>Redan bifogad</value>
   <comment>Already attached</comment>
   </data>
   <data name="Dialog_AlreadyAttachedExplanation" xml:space="preserve">
-    <value>Du kan inte lägga till en fil som är redan bifogad.</value>
+    <value>Du kan inte lägga till en fil som redan är bifogad.</value>
   <comment>You can't add file that is already attached.</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloaded" xml:space="preserve">
-    <value>Bilaga (-or) är ej nedladdade</value>
+    <value>Bilaga (-or) är inte nedladdade</value>
   <comment>Attachment(s) not downloaded</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
@@ -287,7 +287,7 @@
   <comment>Cannot remove identity</comment>
   </data>
   <data name="Dialog_CantRemoveIdentityExplanation" xml:space="preserve">
-    <value>Denna identitet är den huvudidentiteten av ett konto och kan inte tas bort.</value>
+    <value>Denna identitet är huvudidentiteten för ett konto och kan inte tas bort.</value>
   <comment>This identity is the main identity of an account and cannot be removed.</comment>
   </data>
   <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
@@ -295,7 +295,7 @@
   <comment>Could not retrieve access</comment>
   </data>
   <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
-    <value>Kunde inte hämta Facebook åtkomsttoken för tillfället. Var god försök igen senare.</value>
+    <value>Kunde inte hämta åtkomsttoken för Facebook för tillfället. Var god försök igen senare.</value>
   <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
   </data>
   <data name="Dialog_CantSave" xml:space="preserve">
@@ -303,15 +303,15 @@
   <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Filen '{0}' kunde ej sparas. Filen är redan används.</value>
+    <value>Filen '{0}' kunde inte sparas. Filen används redan.</value>
   <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
-    <value>Hämtning misslyckades</value>
+    <value>Nedladdningen misslyckades</value>
   <comment>Download failed</comment>
   </data>
   <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
-    <value>Det gick inte att hämta bilagan. 
+    <value>Det gick inte att ladda ner bilagan. 
 Beskrivning: {0}
 Url: {1}</value>
   <comment>Could not download the attachment. 
@@ -319,11 +319,11 @@ Description: {0}
 Url: {1}</comment>
   </data>
   <data name="Dialog_DownloadProgress" xml:space="preserve">
-    <value>Hämtning pågår</value>
+    <value>Nedladdning pågår</value>
   <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>Vänta tills alla bilagor har hämtat eller ta borta bilagorna.</value>
+    <value>Vänta tills alla bilagor har laddats ner eller ta bort bilagorna.</value>
   <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
@@ -331,15 +331,15 @@ Url: {1}</comment>
   <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>Det finns redan en identitet med samma mejladress.</value>
+    <value>Det finns redan en identitet med samma e-postadress.</value>
   <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
-    <value>Epost skickar</value>
+    <value>E-post skickas</value>
   <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
-    <value>Meddelanden skickas fortfarande. Är du säker på att du vill sluta nu och fördröja sändningen?</value>
+    <value>Meddelanden skickas fortfarande. Är du säker på att du vill avsluta nu och skjuta upp sändningen?</value>
   <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
   </data>
   <data name="Dialog_FacebookConnect" xml:space="preserve">
@@ -348,16 +348,16 @@ Url: {1}</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
     <value>Vi behöver verifiera behörigheten hos Facebook.
-Vill du återansluta till ditt Facebook konto?</value>
+Vill du återansluta ditt Facebook-konto?</value>
   <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
   </data>
   <data name="Dialog_FileNotFound" xml:space="preserve">
-    <value>Fil hittades inte</value>
+    <value>Filen hittades inte</value>
   <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>kunde inte hitta '{0}'. Vänligen kontrollera att den efterfrågade filen är på rätt platsen.</value>
+    <value>Kunde inte hitta '{0}'. Vänligen kontrollera att den efterfrågade filen är på rätt plats.</value>
   <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
@@ -365,7 +365,7 @@ Do you want to reconnect your Facebook?</comment>
   <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
-    <value>Skicka lokala fil-länkar?</value>
+    <value>Skicka lokala fillänkar?</value>
   <comment>Send local file links?</comment>
   </data>
   <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
@@ -381,11 +381,11 @@ Do you want to reconnect your Facebook?</comment>
   <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Kunde inte öppna webbadressen. Kontrollera att du har standardwebbläsaren korrekt installerad, alternativt försök att ominstallera det t.ex. Google Chrome eller Internet Explorer.</value>
+    <value>Kunde inte öppna webbadressen. Kontrollera att du har standardwebbläsaren korrekt installerad, alternativt försök att installera om t.ex. Google Chrome eller Internet Explorer.</value>
   <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
-    <value>Okej</value>
+    <value>Ok</value>
   <comment>OK</comment>
   </data>
   <data name="Dialog_RemoveAccount" xml:space="preserve">
@@ -393,9 +393,9 @@ Do you want to reconnect your Facebook?</comment>
   <comment>Remove local account?</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
-    <value>Är du säkert  att du vill ta bort kontot och alla anslutna identiteter?
+    <value>Är du säker på att du vill ta bort kontot och alla anslutna identiteter?
 
-Mailbird kommer att omstartas vilka kan ta några minuter.</value>
+Mailbird kommer att startas om, vilket kan ta några minuter.</value>
   <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
@@ -416,7 +416,7 @@ This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
     <value>Vi ber om ursäkt, men rapporten kunde inte skickas.
-Vi skulle uppskatta det om du kunde mejla det direkt till {0} istället.
+Vi skulle uppskatta om du kunde skicka det direkt till {0} istället.
 Meddelande:</value>
   <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
@@ -427,7 +427,7 @@ Message:</comment>
   <comment>Report sent</comment>
   </data>
   <data name="Dialog_ReportSentExplanation" xml:space="preserve">
-    <value>Tack för att du rapporterar detta problem!</value>
+    <value>Tack för att du rapporterat detta problem!</value>
   <comment>Thank you for reporting this issue!</comment>
   </data>
   <data name="Dialog_SendingDescription" xml:space="preserve">
@@ -451,23 +451,23 @@ Message:</comment>
   <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>Det går inte att bifoga en fil drygt 25 MB.</value>
+    <value>Du kan inte lägga till filer större än 25 MB vardera.</value>
   <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
-    <value>SMTP Anslutningsfel</value>
+    <value>Misslyckad SMTP-anslutning</value>
   <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>Ett fel inträffade för att verifiera anslutningsinställningarna. Kontrollera att allt har skrivits in korrekt.</value>
+    <value>Ett fel inträffade vid verifiering av anslutningsinställningarna. Kontrollera att allt har skrivits in korrekt.</value>
   <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
   <data name="Dialog_SmtpSuccess" xml:space="preserve">
-    <value>SMTP Anslutning lyckad</value>
+    <value>Lyckad SMTP-anslutning</value>
   <comment>SMTP connection success</comment>
   </data>
   <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
-    <value>Vi har framgångsrikt anslutit till SMTP-servern. Allt verkar i sin ordning.</value>
+    <value>Vi har framgångsrikt anslutit till SMTP-servern. Allt verkar vara i sin ordning.</value>
   <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
   </data>
   <data name="Dialog_Thanks" xml:space="preserve">
@@ -483,7 +483,7 @@ Message:</comment>
   <comment>Warning</comment>
   </data>
   <data name="Dialog_WhoToEmail" xml:space="preserve">
-    <value>Vem skulle du vilja skicka mejl till?</value>
+    <value>Vem skulle du vilja skicka e-post till?</value>
   <comment>Who'd you like to email?</comment>
   </data>
   <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
@@ -513,7 +513,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Insert image</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>Inkorgen är tom</value>
+    <value>Inbox Zero</value>
   <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
@@ -553,7 +553,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Please enter the correct password</comment>
   </data>
   <data name="Dialog_Add" xml:space="preserve">
-    <value>Lägga till</value>
+    <value>Lägg till</value>
   <comment>Add</comment>
   </data>
   <data name="Dialog_Browse" xml:space="preserve">
@@ -597,7 +597,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Edit identity</comment>
   </data>
   <data name="Identity_ReplyTo" xml:space="preserve">
-    <value>Svara-till:</value>
+    <value>Svara till:</value>
   <comment>Reply-to:</comment>
   </data>
   <data name="Identity_SendFromAccount" xml:space="preserve">
@@ -605,7 +605,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Account</comment>
   </data>
   <data name="Identity_SendFromSmtp" xml:space="preserve">
-    <value>SMTP-Server</value>
+    <value>SMTP-server</value>
   <comment>SMTP Server</comment>
   </data>
   <data name="Identity_SendThrough" xml:space="preserve">
@@ -625,8 +625,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Port:</comment>
   </data>
   <data name="Identity_SmtpServer" xml:space="preserve">
-    <value>SMTP server:</value>
-    <comment>SMTP server:</comment>
+    <value>SMTP-server:</value>
+  <comment>SMTP server:</comment>
   </data>
   <data name="Identity_SmtpUsername" xml:space="preserve">
     <value>Användarnamn:</value>
@@ -665,7 +665,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Upphovsrätt {0} Mailbird. Alla rättigheter förbehållna.</value>
+    <value>Copyright {0} Mailbird. Alla rättigheter förbehållna.</value>
   <comment>Copyright {current year} Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -681,15 +681,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
-    <value>Cc: </value>
-    <comment>Cc:</comment>
+    <value>Kopia: </value>
+  <comment>Cc:</comment>
   </data>
   <data name="Conversation_Cc1" xml:space="preserve">
-    <value>Cc</value>
-    <comment>Cc</comment>
+    <value>Kopia</value>
+  <comment>Cc</comment>
   </data>
   <data name="Default_AlwaysAsk" xml:space="preserve">
-    <value>Alltid utför denna kontroll vid början av Mailbird</value>
+    <value>Utför alltid denna kontroll vid start av Mailbird</value>
   <comment>Always perform this check when starting Mailbird</comment>
   </data>
   <data name="Default_SetAs" xml:space="preserve">
@@ -697,11 +697,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
-    <value>Vill du använda Mailbird som din standard E-postklient?</value>
+    <value>Vill du använda Mailbird som standardprogram för e-post?</value>
   <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
-    <value>Skriv över existerande filer?</value>
+    <value>Skriva över existerande filer?</value>
   <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
@@ -713,7 +713,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Purchase</comment>
   </data>
   <data name="Dialog_SaveFolder" xml:space="preserve">
-    <value>Välj mappen för att spara valda bilagor i:</value>
+    <value>Välj mapp för att spara valda bilagor i:</value>
   <comment>Select the folder to save the selected attachments in:</comment>
   </data>
   <data name="Draft_Saved" xml:space="preserve">
@@ -761,7 +761,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
-    <value>Vänligen ange din mejl</value>
+    <value>Vänligen ange din e-postadress</value>
   <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
@@ -781,7 +781,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Please enter a port number</comment>
   </data>
   <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
-    <value>Vänligen ange servernamnet</value>
+    <value>Vänligen ange servernamn</value>
   <comment>Please enter the server name</comment>
   </data>
   <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
@@ -849,7 +849,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Drafts</comment>
   </data>
   <data name="FolderIdentity_Important" xml:space="preserve">
-    <value>Viktig</value>
+    <value>Viktigt</value>
   <comment>Important</comment>
   </data>
   <data name="FolderIdentity_Inbox" xml:space="preserve">
@@ -857,7 +857,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Inbox</comment>
   </data>
   <data name="FolderIdentity_Sent" xml:space="preserve">
-    <value>Skickad</value>
+    <value>Skickat</value>
   <comment>Sent</comment>
   </data>
   <data name="FolderIdentity_Spam" xml:space="preserve">
@@ -865,7 +865,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Spam</comment>
   </data>
   <data name="FolderIdentity_Starred" xml:space="preserve">
-    <value>Favorit</value>
+    <value>Stjärnmärkt</value>
   <comment>Starred</comment>
   </data>
   <data name="FolderIdentity_Trash" xml:space="preserve">
@@ -905,7 +905,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Search apps</comment>
   </data>
   <data name="App_Asana_Description" xml:space="preserve">
-    <value>Produktivitet nära till hands! Organisera, vidta åtgärder och bocka av i din att göra lista.</value>
+    <value>Produktivitet nära till hands! Organisera, vidta åtgärder och bocka av i din att göra-lista.</value>
   <comment>Productivity right at your fingertips! Organize, take action, and cross off your to do list.</comment>
   </data>
   <data name="App_Attachments_Description" xml:space="preserve">
@@ -945,7 +945,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</comment>
   </data>
   <data name="App_Contacts_Description" xml:space="preserve">
-    <value>Redigera enkelt, hantera e-post till dina kontakter och kontaktsgrupper.</value>
+    <value>Redigera, hantera och skicka e-post enkelt till dina kontakter och kontaktgrupper.</value>
   <comment>Easily edit, manage and email your contacts and contact groups.</comment>
   </data>
   <data name="App_Contacts_FailedFacebook" xml:space="preserve">
@@ -961,7 +961,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Vänligen anslut till Facebook i Inställningar för att få mer information om den här kontakt.</value>
+    <value>Vänligen anslut till Facebook i Inställningar för att få mer information om den här kontakten.</value>
   <comment>Please connect to Facebook in Settings to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
@@ -973,23 +973,23 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Search people...</comment>
   </data>
   <data name="App_Contacts_Title" xml:space="preserve">
-    <value>Contacts</value>
-    <comment>Contacts</comment>
+    <value>Kontakter</value>
+  <comment>Contacts</comment>
   </data>
   <data name="App_Dropbox_Description" xml:space="preserve">
     <value>Åtkomst, dela och organisera alla dessa filer utan att någonsin lämna Mailbird-boet.</value>
   <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Evernote_Description" xml:space="preserve">
-    <value>Skapa, visa, redigera anteckningar direkt från Mailbirds! Enkel och produktiv.</value>
+    <value>Skapa, visa och redigera anteckningar direkt från Mailbird! Enkelt och produktivt.</value>
   <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
   </data>
   <data name="App_Facebook_Description" xml:space="preserve">
-    <value>Vara ett superhjälte. Ansluta till Facebook och chatta vid vänner från Mailbird.</value>
+    <value>Bli en superhjälte i sociala medier. Anslut till Facebook och chatta med vänner från Mailbird.</value>
   <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
   <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Hjälpa att göra Mailbird det bästa e-post appen i världen.</value>
+    <value>Hjälp till att göra Mailbird till det bästa e-postprogrammet i världen.</value>
   <comment>Help make Mailbird the best email app in the world.</comment>
   </data>
   <data name="App_Feedback_Title" xml:space="preserve">
@@ -1001,15 +1001,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Quickly navigate to your important documents from Mailbird.</comment>
   </data>
   <data name="App_Lifehacker_Description" xml:space="preserve">
-    <value>Curates tips, tricks och teknik för att leva bättre i den digitala tiden.</value>
+    <value>Kurerar tips, tricks och teknik för ett bättre liv i den digitala tidsåldern.</value>
   <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
   </data>
   <data name="App_RetroSift_Description" xml:space="preserve">
-    <value>Sök och hitta borttappade foton bland dina mejl.</value>
+    <value>Sök och hitta förlorade foton bland dina e-postmeddelanden.</value>
   <comment>Easily search and find lost photos in your emails.</comment>
   </data>
   <data name="App_RetroSift_Title" xml:space="preserve">
-    <value>Borttappade foton</value>
+    <value>Förlorade foton</value>
   <comment>Lost Photos</comment>
   </data>
   <data name="App_Support_Description" xml:space="preserve">
@@ -1021,7 +1021,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
-    <value>Klistra in fil(er) som bilaga(or)</value>
+    <value>Klistra in fil(er) som bilaga</value>
   <comment>Paste file(s) as attachment</comment>
   </data>
   <data name="InboxZero_HighFive" xml:space="preserve">
@@ -1041,7 +1041,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>You're a true inspiration!</comment>
   </data>
   <data name="InboxZero_HowIsDone" xml:space="preserve">
-    <value>Sådär! Så ska det se ut!</value>
+    <value>Sådär ska det se ut!</value>
   <comment>Now that's how it's done!</comment>
   </data>
   <data name="InboxZero_Flying" xml:space="preserve">
@@ -1053,11 +1053,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>There's the proof. You rock!</comment>
   </data>
   <data name="InboxZero_RockStar" xml:space="preserve">
-    <value>Du är epostens rockstjärna!</value>
+    <value>Du är e-postens rockstjärna!</value>
   <comment>You're an email rockstar!!</comment>
   </data>
   <data name="License_CorrectComputerDate" xml:space="preserve">
-    <value>Vi upptäckte att din dator har avvikande datum. Vänligen korrigera datorns datum&amp;tid inställningar och tryck OK/Fortsätt för att fortsätta.</value>
+    <value>Vi upptäckte att din dator har avvikande datum. Vänligen korrigera datorns datum- och tidsinställningar och tryck Ok/Fortsätt för att fortsätta.</value>
   <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
@@ -1065,15 +1065,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
-    <value>Utgången Licens</value>
+    <value>Utgången licens</value>
   <comment>Expired License</comment>
   </data>
   <data name="License_ExpiredExplanation" xml:space="preserve">
-    <value>Din licensnyckel är utgången. Vänligen skriv in en annan nyckel eller förnya den befintliga för att fortsätta.</value>
+    <value>Din licensnyckel är utgången. Vänligen skriv in en annan licensnyckel eller förnya den befintliga för att fortsätta.</value>
   <comment>Your license key has expired. Please enter another license key or renew the current license key to continue.</comment>
   </data>
   <data name="License_IncorrectDate" xml:space="preserve">
-    <value>Felaktigt Datum</value>
+    <value>Felaktigt datum</value>
   <comment>Incorrect Date</comment>
   </data>
   <data name="License_Information" xml:space="preserve">
@@ -1081,7 +1081,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Your license information is listed below.</comment>
   </data>
   <data name="License_Invalid" xml:space="preserve">
-    <value>Ogiltig Licens</value>
+    <value>Ogiltig licens</value>
   <comment>Invalid License</comment>
   </data>
   <data name="License_InvalidHint" xml:space="preserve">
@@ -1109,20 +1109,20 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
-    <value>http://example.com/image.jpg</value>
-    <comment>http://example.com/image.jpg</comment>
+    <value>http://exempel.se/bild.jpg</value>
+  <comment>http://example.com/image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink1" xml:space="preserve">
-    <value>C:\användare\bilder\bild.jpg</value>
+    <value>C:\Användare\Bilder\bild.jpg</value>
   <comment>C:\users\picture\image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink2" xml:space="preserve">
-    <value>epost@domän.se</value>
+    <value>e-post@exempel.se</value>
   <comment>email@example.com</comment>
   </data>
   <data name="LinkEditor_ExampleLink3" xml:space="preserve">
-    <value>http://example.com</value>
-    <comment>http://example.com</comment>
+    <value>http://exempel.se</value>
+  <comment>http://example.com</comment>
   </data>
   <data name="LinkEditor_FromComputer" xml:space="preserve">
     <value>Från dator</value>
@@ -1157,16 +1157,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Display text:</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
-    <value>Editera</value>
+    <value>Redigera</value>
   <comment>Edit</comment>
   </data>
   <data name="Link_Email" xml:space="preserve">
-    <value>Send email to:</value>
-    <comment>Send email to:</comment>
+    <value>Skicka e-post till:</value>
+  <comment>Send email to:</comment>
   </data>
   <data name="Link_Go" xml:space="preserve">
-    <value>Go to link:</value>
-    <comment>Go to link:</comment>
+    <value>Gå till länk:</value>
+  <comment>Go to link:</comment>
   </data>
   <data name="Link_Remove" xml:space="preserve">
     <value>Ta bort</value>
@@ -1189,15 +1189,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Spam</comment>
   </data>
   <data name="MapLabelWindow_Starred" xml:space="preserve">
-    <value>Favorit</value>
+    <value>Stjärnmärkta</value>
   <comment>Starred</comment>
   </data>
   <data name="MapLabelWindow_Title" xml:space="preserve">
-    <value>Märk speciellt etiketter</value>
+    <value>Mappa specialetiketter</value>
   <comment>Map special labels</comment>
   </data>
   <data name="MapLabelWindow_Trash" xml:space="preserve">
-    <value>Skräp</value>
+    <value>Papperskorg</value>
   <comment>Trash</comment>
   </data>
   <data name="Menu_Compose" xml:space="preserve">
@@ -1225,7 +1225,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Invite friends</comment>
   </data>
   <data name="Message_AddAttachments" xml:space="preserve">
-    <value>Lägg till bilaga(or)</value>
+    <value>Lägg till bilaga(-or)</value>
   <comment>Add attachment(s)</comment>
   </data>
   <data name="Message_AlwaysDisplayFrom" xml:space="preserve">
@@ -1237,8 +1237,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Cancel</comment>
   </data>
   <data name="Message_Date" xml:space="preserve">
-    <value>Date</value>
-    <comment>Date</comment>
+    <value>Datum</value>
+  <comment>Date</comment>
   </data>
   <data name="Message_Detail" xml:space="preserve">
     <value>Visa detaljer</value>
@@ -1261,7 +1261,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Find in message</comment>
   </data>
   <data name="Message_ForwardedMessage" xml:space="preserve">
-    <value>Vidarebefordrat Meddelande</value>
+    <value>Vidarebefordrat meddelande</value>
   <comment>Forwarded Message</comment>
   </data>
   <data name="Message_From" xml:space="preserve">
@@ -1269,15 +1269,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>From</comment>
   </data>
   <data name="Message_Fw" xml:space="preserve">
-    <value>Fw:</value>
-    <comment>Fw:</comment>
+    <value>VB:</value>
+  <comment>Fw:</comment>
   </data>
   <data name="Message_Fwd" xml:space="preserve">
     <value>Vidarebefordra:</value>
   <comment>Fwd:</comment>
   </data>
   <data name="Message_InMaking" xml:space="preserve">
-    <value>Epost produceras.</value>
+    <value>E-post produceras.</value>
   <comment>Email in the making.</comment>
   </data>
   <data name="Message_Loading" xml:space="preserve">
@@ -1293,8 +1293,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Click to open in a new window or tab</comment>
   </data>
   <data name="Message_Options" xml:space="preserve">
-    <value>Options</value>
-    <comment>Options</comment>
+    <value>Inställningar</value>
+  <comment>Options</comment>
   </data>
   <data name="Message_Print" xml:space="preserve">
     <value>Skriv ut meddelande</value>
@@ -1305,8 +1305,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Quick reply</comment>
   </data>
   <data name="Message_Re" xml:space="preserve">
-    <value>Re:</value>
-    <comment>Re:</comment>
+    <value>SV:</value>
+  <comment>Re:</comment>
   </data>
   <data name="Message_RemoteImagesNotDisplayed" xml:space="preserve">
     <value>Fjärrbilder visas inte.</value>
@@ -1317,23 +1317,23 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Save</comment>
   </data>
   <data name="Message_SaveAttachment" xml:space="preserve">
-    <value>Spara bilaga(or)</value>
+    <value>Spara bilaga(-or)</value>
   <comment>Save attachment(s)</comment>
   </data>
   <data name="Message_Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>Send</comment>
+    <value>Skicka</value>
+  <comment>Send</comment>
   </data>
   <data name="Message_SendArchive" xml:space="preserve">
-    <value>Skicka &amp; Arkivera</value>
+    <value>Skicka och arkivera</value>
   <comment>Send &amp; Archive</comment>
   </data>
   <data name="Message_SendEmailTo" xml:space="preserve">
-    <value>Send an email to {0}</value>
-    <comment>Send an email to {0}</comment>
+    <value>Skicka e-post till {0}</value>
+  <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Skickat vid</value>
+    <value>Skickat</value>
   <comment>Sent at</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -1357,7 +1357,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Updating database... please wait</comment>
   </data>
   <data name="NewMessages_BaloonHeader" xml:space="preserve">
-    <value>{0} nya medelanden</value>
+    <value>{0} nya meddelanden</value>
   <comment>{0} new messages</comment>
   </data>
   <data name="NewMessages_BaloonSubHeader" xml:space="preserve">
@@ -1365,19 +1365,19 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>in {0} conversations</comment>
   </data>
   <data name="NewMessage_EmptySubject" xml:space="preserve">
-    <value>Inget Ämne</value>
+    <value>Inget ämne</value>
   <comment>Empty Subject</comment>
   </data>
   <data name="NewMessage_NoName" xml:space="preserve">
-    <value>No Name</value>
-    <comment>No Name</comment>
+    <value>Inget namn</value>
+  <comment>No Name</comment>
   </data>
   <data name="Notification_ArchiveFail" xml:space="preserve">
     <value>Konversationen är redan arkiverad</value>
   <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} Konversationer arkiverade</value>
+    <value>{0} konversationer arkiverade</value>
   <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
@@ -1385,7 +1385,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Conversation archived</comment>
   </data>
   <data name="Notification_DeleteMany" xml:space="preserve">
-    <value>{0} Konversationer permanent borttagna</value>
+    <value>{0} konversationer permanent borttagna</value>
   <comment>{0} Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DeleteSingle" xml:space="preserve">
@@ -1393,11 +1393,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DiscardMany" xml:space="preserve">
-    <value>{0} Utkast makulerade</value>
+    <value>{0} utkast makulerade</value>
   <comment>{0} Drafts discarded</comment>
   </data>
   <data name="Notification_DiscardSingle" xml:space="preserve">
-    <value>Utkast makulerat</value>
+    <value>Utkast makulerad</value>
   <comment>Draft discarded</comment>
   </data>
   <data name="Notification_MailbirdWaiting" xml:space="preserve">
@@ -1405,15 +1405,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Your Mailbird is right here waiting for you.</comment>
   </data>
   <data name="Notification_Press" xml:space="preserve">
-    <value>Tryck {0} närsomhelst för att skriva ny epost.</value>
+    <value>Tryck {0} när som helst för att skriva ny e-post.</value>
   <comment>Press {0} to write a new email anytime.</comment>
   </data>
   <data name="Notification_ReturnToEmail" xml:space="preserve">
-    <value>Klicka här när som helst för att återgå till din epost.</value>
+    <value>Klicka här när som helst för att återgå till din e-post.</value>
   <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
-    <value>{0} Konversationer kastade</value>
+    <value>{0} konversationer kastade</value>
   <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
@@ -1421,7 +1421,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Conversation trashed</comment>
   </data>
   <data name="Notification_Undo" xml:space="preserve">
-    <value>Gör om</value>
+    <value>Ångra</value>
   <comment>Undo</comment>
   </data>
   <data name="Options_About" xml:space="preserve">
@@ -1441,19 +1441,19 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Advanced</comment>
   </data>
   <data name="Options_AlwaysDownloadImage" xml:space="preserve">
-    <value>Ladda alltid ner bilder</value>
+    <value>Visa alltid fjärrbilder</value>
   <comment>Always show remote images</comment>
   </data>
   <data name="Options_AlwaysExpandSwitcher" xml:space="preserve">
-    <value>Expandera alltid kontonomkopplaren</value>
+    <value>Expandera alltid kontoväxlaren</value>
   <comment>Always expand account switcher</comment>
   </data>
   <data name="Options_AutoDownload" xml:space="preserve">
-    <value>Bifogning auto nedladdning gräns:</value>
+    <value>Gräns för automatisk nedladdning av bilagor:</value>
   <comment>Attachment auto-download limit:</comment>
   </data>
   <data name="Options_AutoDownloadExplanation" xml:space="preserve">
-    <value>Automatisk nedladdning av bilagor som är mindre än inställd filstorlek.</value>
+    <value>Automatisk nedladdning av bilagor som är mindre än den valda filstorleken.</value>
   <comment>Automatically download attachments smaller than the chosen size.</comment>
   </data>
   <data name="Options_AutomaticUpdate" xml:space="preserve">
@@ -1469,19 +1469,19 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Check for updates now</comment>
   </data>
   <data name="Options_DefaultApplication" xml:space="preserve">
-    <value>Vald epostapplikation</value>
+    <value>Standardprogram för e-post</value>
   <comment>Default email application</comment>
   </data>
   <data name="Options_DefaultIdentity" xml:space="preserve">
-    <value>(Default)</value>
-    <comment>(Default)</comment>
+    <value>(Standard)</value>
+  <comment>(Default)</comment>
   </data>
   <data name="Options_DefaultNotification" xml:space="preserve">
-    <value>Meddela mig om Mailbird inte är den förvalda epostklienten</value>
+    <value>Meddela mig om Mailbird inte är standardprogram för e-post</value>
   <comment>Tell me if Mailbird is not the default email client</comment>
   </data>
   <data name="Options_DownloadOnDemand" xml:space="preserve">
-    <value>Ladda ner meddelanden efter begäran</value>
+    <value>Ladda ner meddelanden på begäran</value>
   <comment>Download messages on demand</comment>
   </data>
   <data name="Options_Facebook" xml:space="preserve">
@@ -1489,20 +1489,20 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Facebook</comment>
   </data>
   <data name="Options_FacebookExplanation" xml:space="preserve">
-    <value>Gå socialt. Titta på profilbilderna och kontaktuppgifterna av dina vänner.</value>
+    <value>Gå socialt. Se dina vänners profilbilder och kontaktuppgifter.</value>
   <comment>Go social. See profile pictures and contact information of your friends.</comment>
   </data>
   <data name="Options_FacebookExplanation1" xml:space="preserve">
-    <value>Ditt Facebookkonto är nu kopplat. Foton och kontakter uppdateras automatiskt i Mailbird.</value>
+    <value>Ditt Facebook-konto är nu kopplat. Foton och kontakter uppdateras automatiskt i Mailbird.</value>
   <comment>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</comment>
   </data>
   <data name="Options_ZoomLevel" xml:space="preserve">
-    <value>Zoom level</value>
-    <comment>Zoom level</comment>
+    <value>Zoomnivå</value>
+  <comment>Zoom level</comment>
   </data>
   <data name="Options_General" xml:space="preserve">
-    <value>General</value>
-    <comment>General</comment>
+    <value>Allmänt</value>
+  <comment>General</comment>
   </data>
   <data name="Options_Appearance" xml:space="preserve">
     <value>Utseende</value>
@@ -1513,7 +1513,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Group unread conversations at the top</comment>
   </data>
   <data name="Options_HideIcon" xml:space="preserve">
-    <value>Göm ikonen för verktygsfältet i minimerat läge</value>
+    <value>Göm ikonen i Aktivitetsfältet i minimerat läge</value>
   <comment>Hide taskbar icon when minimized</comment>
   </data>
   <data name="Options_Identities" xml:space="preserve">
@@ -1521,11 +1521,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Identities</comment>
   </data>
   <data name="Options_Identities_and_Signatures" xml:space="preserve">
-    <value>Identiteter &amp; Signaturer</value>
+    <value>Identiteter och signaturer</value>
   <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>Visa indikator för "Viktig epost"</value>
+    <value>Visa indikator för "viktig e-post"</value>
   <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
@@ -1533,7 +1533,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
-    <value>Mailbird är förvalda epostklient</value>
+    <value>Mailbird är vald som standardprogram för e-post</value>
   <comment>Mailbird is the default email client</comment>
   </data>
   <data name="Options_FoldersFor" xml:space="preserve">
@@ -1545,7 +1545,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Change license key</comment>
   </data>
   <data name="Options_EditSignatures" xml:space="preserve">
-    <value>Edititera signaturer</value>
+    <value>Redigera signaturer</value>
   <comment>Edit signatures</comment>
   </data>
   <data name="Options_MessagePreview" xml:space="preserve">
@@ -1553,11 +1553,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Show message previews in conversation view</comment>
   </data>
   <data name="Options_NotDefault" xml:space="preserve">
-    <value>Mailbird är inte standardklient för epost</value>
+    <value>Mailbird är inte standardprogram för e-post</value>
   <comment>Mailbird is not the default email client</comment>
   </data>
   <data name="Options_Notifications" xml:space="preserve">
-    <value>Meddelanden</value>
+    <value>Notifieringar</value>
   <comment>Notifications</comment>
   </data>
   <data name="Options_Performance" xml:space="preserve">
@@ -1569,15 +1569,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Quick compose shortcut</comment>
   </data>
   <data name="Options_QuickComposeExplanation" xml:space="preserve">
-    <value>Genom att ställa in det här snabbkommandot kommer du att kunna skriva epost även om Mailbird är minimerat.</value>
+    <value>Genom att ställa in det här snabbkommandot kommer du att kunna skriva e-post även om Mailbird är minimerat.</value>
   <comment>By setting this shortcut, you'll be able to compose email even if Mailbird is minimized.</comment>
   </data>
   <data name="Options_QuickComposeExplanation1" xml:space="preserve">
-    <value>Komponera epost även fast Mailbird är stängt.</value>
+    <value>Skriv e-post även om Mailbird är stängt.</value>
   <comment>Compose even when Mailbird is closed.</comment>
   </data>
   <data name="Options_QuitOnClose" xml:space="preserve">
-    <value>Avsluta Mailbird när du stänger ner det</value>
+    <value>Avsluta Mailbird när du klickar på knappen Stäng</value>
   <comment>Quit Mailbird on close</comment>
   </data>
   <data name="Options_RecordShortcut" xml:space="preserve">
@@ -1589,7 +1589,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Click to create shortcut</comment>
   </data>
   <data name="Options_SendArchive" xml:space="preserve">
-    <value>Skicka &amp; Arkivera</value>
+    <value>Skicka och arkivera</value>
   <comment>Send &amp; Archive</comment>
   </data>
   <data name="Options_SetDefault" xml:space="preserve">
@@ -1597,11 +1597,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Set as default</comment>
   </data>
   <data name="Options_LayoutThemeColor" xml:space="preserve">
-    <value>layout och temafärg</value>
+    <value>Layout och temafärg</value>
   <comment>Layout and theme color</comment>
   </data>
   <data name="Options_ChooseMenuColor" xml:space="preserve">
-    <value>välja temafärg</value>
+    <value>Välj temafärg</value>
   <comment>Choose theme color</comment>
   </data>
   <data name="Options_ShowAnimations" xml:space="preserve">
@@ -1613,7 +1613,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Disable DirectWrite</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Visa knapp för skicka &amp; arkivera</value>
+    <value>Visa knapp för skicka och arkivera</value>
   <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
@@ -1637,7 +1637,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Sync behavior</comment>
   </data>
   <data name="Options_SyncWithServer" xml:space="preserve">
-    <value>Synka med server</value>
+    <value>Synkronisera med server</value>
   <comment>Sync with server</comment>
   </data>
   <data name="Options_SyncWithServer1" xml:space="preserve">
@@ -1645,15 +1645,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Syncing..</comment>
   </data>
   <data name="Options_TrayNotification" xml:space="preserve">
-    <value>Visa notis i aktivitetsfältet när jag får ett meddelande</value>
+    <value>Visa notifiering i Aktivitetsfältet när jag får ett meddelande</value>
   <comment>Show tray notification when receiving a message</comment>
   </data>
   <data name="Options_TypeShortcut" xml:space="preserve">
-    <value>Skriv genväg</value>
+    <value>Skriv snabbkomando</value>
   <comment>Type shortcut</comment>
   </data>
   <data name="Options_UnreadNotification" xml:space="preserve">
-    <value>Visa oläst räkna i aktivitets- och systemfältet</value>
+    <value>Visa antalet olästa meddelanden i Aktivitets- och meddelandefältet</value>
   <comment>Show unread count in taskbar &amp; system tray</comment>
   </data>
   <data name="Options_Updates" xml:space="preserve">
@@ -1701,7 +1701,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Houston, we have a problem!</comment>
   </data>
   <data name="Report_HoustonExplanation" xml:space="preserve">
-    <value>Ledsen men något gick fel och Mailbird behövde stängas. För att hjälpa oss fixa detta, vänligen beskriv vad du just skulle göra när felet uppstod. Tack för att du hjälper till att bygga den bästa mejlappen någonsin!</value>
+    <value>Ledsen, men något gick fel och Mailbird behövde stängas. För att hjälpa oss fixa detta, vänligen beskriv vad du just skulle göra när felet uppstod. Tack för att du hjälper till att bygga det bästa e-postprogrammet någonsin!</value>
   <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
   </data>
   <data name="Report_Include" xml:space="preserve">
@@ -1717,12 +1717,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Report an Issue</comment>
   </data>
   <data name="Report_Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>Send</comment>
+    <value>Skicka</value>
+  <comment>Send</comment>
   </data>
   <data name="Report_ViewDetails" xml:space="preserve">
-    <value>View details</value>
-    <comment>View details</comment>
+    <value>Visa detaljer</value>
+  <comment>View details</comment>
   </data>
   <data name="RichText_CantFetch" xml:space="preserve">
     <value>Kunde inte hämta innehållet för tillfället. Vänligen försök igen om en liten stund.</value>
@@ -1749,7 +1749,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Archive and previous</comment>
   </data>
   <data name="Shortcut_ArchivePreviousExplanation" xml:space="preserve">
-    <value>Tar bort aktuellt vys etikett från din konversation och hoppar till föregående.</value>
+    <value>Tar bort aktuell vys etikett från din konversation och hoppar till föregående.</value>
   <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
   </data>
   <data name="Shortcut_Close" xml:space="preserve">
@@ -1757,7 +1757,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Close Current Window</comment>
   </data>
   <data name="Shortcut_CloseExplanation" xml:space="preserve">
-    <value>Stänger aktuellt fönster. Om det aktuell fönstret är huvudfönstret minimeras det till aktivitetsfältet.</value>
+    <value>Stänger aktuellt fönster. Om det aktuella fönstret är huvudfönstret minimeras det till meddelandefältet.</value>
   <comment>Closes the current open window. If the current window is main window, it will be minimized to tray.</comment>
   </data>
   <data name="Shortcut_CloseOther" xml:space="preserve">
@@ -1769,7 +1769,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Closes the open windows, except the main window.</comment>
   </data>
   <data name="Shortcut_ComposeExplanation" xml:space="preserve">
-    <value>Låter dig författa ett nytt meddelande.</value>
+    <value>Låter dig skriva ett nytt meddelande.</value>
   <comment>Allows you to compose a new message.</comment>
   </data>
   <data name="Shortcut_CopyAttachment" xml:space="preserve">
@@ -1777,23 +1777,23 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Copy Attachment</comment>
   </data>
   <data name="Shortcut_CopyAttachmentExplanation" xml:space="preserve">
-    <value>Kopierar markerade bilagor till urklipp. Fungerar bara när markerade bilagor är i fokus.</value>
+    <value>Kopierar markerad(e) bilaga(-or) till urklipp. Fungerar bara när markerad(e) bilaga(-or) är i fokus.</value>
   <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
   </data>
   <data name="Shortcut_Delete" xml:space="preserve">
-    <value>Delete</value>
-    <comment>Delete</comment>
+    <value>Radera</value>
+  <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
     <value>Flyttar konversationen till Papperskorgen.</value>
   <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
-    <value>Radera utkast / konversation</value>
+    <value>Radera Utkast- eller Papperskorgskonversation</value>
   <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Radera markerad utkast / konversation.</value>
+    <value>Radera markerad utkast eller släng markerad konversation.</value>
   <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
@@ -1805,7 +1805,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Close the application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
-    <value>Öppna/Stäng Fönster</value>
+    <value>Öppna/Stäng fönster</value>
   <comment>Expand/Collapse Window</comment>
   </data>
   <data name="Shortcut_ExpandCollapseExplanation" xml:space="preserve">
@@ -1825,11 +1825,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Forwards a message.</comment>
   </data>
   <data name="Shortcut_Gmail" xml:space="preserve">
-    <value>TILLGÄNGLIGA GMAIL SNABBKOMMANDON</value>
+    <value>TILLGÄNGLIGA SNABBKOMMANDON FRÅN GMAIL</value>
   <comment>AVAILABLE GMAIL SHORTCUTS</comment>
   </data>
   <data name="Shortcut_GmailExplanation" xml:space="preserve">
-    <value>Slå på dessa Gmail kortkommandon från Mailbird inställningar.</value>
+    <value>Aktivera nedanstående snabbkommandon från Gmail från Mailbirds inställningar.</value>
   <comment>Enable the following GMail shortcuts below from the Mailbird settings window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
@@ -1837,11 +1837,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Show keyboard shortcuts help</comment>
   </data>
   <data name="Shortcut_HelpExplanation" xml:space="preserve">
-    <value>Visar kortkommandon när Mailbird fönstret är aktivt.</value>
+    <value>Visar snabbkommandon när Mailbird-fönstret är aktivt.</value>
   <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
   </data>
   <data name="Shortcut_ImportantExplanation" xml:space="preserve">
-    <value>Hjälper Gmail att identifiera vad som är viktigt för dig genom att markera felkategoriserade meddelanden. (Specifikt för prioriterad inkorg)</value>
+    <value>Hjälper Gmail lära sig vad som är viktigt för dig genom att markera felklassificerade meddelanden. (Specifikt för Prioriterad inkorg)</value>
   <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_MoreAction" xml:space="preserve">
@@ -1849,7 +1849,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Visar 'Ytterligare åtgärder' drop-down menyn.</value>
+    <value>Visar 'Ytterligare åtgärder' dropdown-menyn.</value>
   <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
@@ -1877,24 +1877,24 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Flyttar fokus till nästa meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga meddelandet. (Endast giltigt i Konversationsvy)</value>
+    <value>Flyttar fokus till nästa meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
   <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
-    <value>Hjälper Gmail lära sig vad som är viktigt för dig genom att markera oviktiga meddelanden. (Specifik till Prioritetsinkorgen)</value>
+    <value>Hjälper Gmail lära sig vad som inte är viktigt för dig genom att markera felklassificerade meddelanden. (Specifikt för Prioriterad inkorg)</value>
   <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_Open" xml:space="preserve">
-    <value>Open</value>
-    <comment>Open</comment>
+    <value>Öppna</value>
+  <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Öppnar konversation. Fungerar också för att öppna och stänga meddelanden när du är i 'Konversationsvyn.'</value>
+    <value>Öppnar konversation. Fungerar också för att öppna och stänga meddelanden när du är i 'Konversationsvy.'</value>
   <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
-    <value>or</value>
-    <comment>or</comment>
+    <value>eller</value>
+  <comment>or</comment>
   </data>
   <data name="Shortcut_CopyToFolder" xml:space="preserve">
     <value>Kopiera till / etikett</value>
@@ -2191,8 +2191,8 @@ We will never post anything to Facebook.</comment>
   <comment>skip</comment>
   </data>
   <data name="Welcome_SMTPServerLabel" xml:space="preserve">
-    <value>SMTP server:</value>
-    <comment>SMTP server:</comment>
+    <value>SMTP-server:</value>
+  <comment>SMTP server:</comment>
   </data>
   <data name="Welcome_Username" xml:space="preserve">
     <value>Användarnamn:</value>
@@ -3409,8 +3409,8 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Recipients</comment>
   </data>
   <data name="Menu_MailbirdTips" xml:space="preserve">
-    <value>Mailbird tips</value>
-    <comment>Mailbird tips</comment>
+    <value>Mailbird-tips</value>
+  <comment>Mailbird tips</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
     <value>Du behöver lägga till ett e-postkonto för att kunna använda Mailbird.
@@ -6383,7 +6383,7 @@ Vänligen kontakta vår support för information om hur du kan åtgärda detta.<
   <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
-    <value>Reset scaling level</value>
+    <value>Återställ skalningsnivå</value>
   <comment>Tooltip text for button to reset the scaling level, (Ctrl+0) doesn't need to be translated</comment>
   </data>
 <data name="MailEditor_CcBcc" xml:space="preserve">
@@ -6391,11 +6391,11 @@ Vänligen kontakta vår support för information om hur du kan åtgärda detta.<
     <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
   </data>
   <data name="MailEditor_CollapseCcBcc" xml:space="preserve">
-    <value>Hide Cc Bcc fields</value>
-    <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
+    <value>Göm Cc- och Bcc-fälten</value>
+  <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
   </data>
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
-    <value>Show Cc Bcc fields</value>
-    <comment>Tooltip for button to expand Cc and Bcc fields</comment>
+    <value>Visa Cc- och Bcc-fälten</value>
+  <comment>Tooltip for button to expand Cc and Bcc fields</comment>
   </data>
 </root>
