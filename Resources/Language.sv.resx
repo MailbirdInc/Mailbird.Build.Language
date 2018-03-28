@@ -1529,7 +1529,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
-    <value>In-line svar ingress text</value>
+    <value>Inledningstext för inlinekommentar</value>
   <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
@@ -1909,7 +1909,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Flyttar fokus till föregående meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga meddelandet. (Endast giltigt i Konversationsvy)</value>
+    <value>Flyttar fokus till föregående meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
   <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -1945,19 +1945,19 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Refresh</comment>
   </data>
   <data name="Shortcut_RefreshExplanation" xml:space="preserve">
-    <value>Leta efter nya meddelanden för denna mapp.</value>
+    <value>Leta online efter nya meddelanden i den aktuella mappen.</value>
   <comment>Check online for new messages in current folder.</comment>
   </data>
   <data name="Shortcut_RemoveView" xml:space="preserve">
-    <value>Ta bort från denna vy</value>
+    <value>Ta bort från aktuell vy</value>
   <comment>Remove from Current View</comment>
   </data>
   <data name="Shortcut_RemoveViewExplanation" xml:space="preserve">
-    <value>Tar automatiskt bort meddelandet/konversationen från aktuell vy.</value>
+    <value>Tar automatiskt bort meddelandet eller konversationen från aktuell vy.</value>
   <comment>Automatically removes the message or conversation from your current view.</comment>
   </data>
   <data name="Shortcut_ReplyAllExplanation" xml:space="preserve">
-    <value>Svarar till avsändaren samt alla andra mottagare.</value>
+    <value>Svarar till alla meddelandemottagare.</value>
   <comment>Replies to all message recipients.</comment>
   </data>
   <data name="Shortcut_ReplyExplanation" xml:space="preserve">
@@ -1985,7 +1985,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Sparar aktuellt text som utkast när man skriver ett meddelande. Håll ner &lt;Ctrl&gt; knappen medans och försäkra dig att muspekaren är i någon av fälten Till, Kopia, Hemlig kopia, Ämne eller texten medan denna kortkommando används.</value>
+    <value>Sparar aktuell text som utkast när man skriver ett meddelande. Håll ner &lt;Ctrl&gt; medan du trycker s och försäkra dig att muspekaren är i något av fälten, antingen Till, Kopia, Hemlig kopia, Ämne eller meddelandetexten, medan detta snabbkommando används.</value>
   <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
@@ -1993,16 +1993,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Search</comment>
   </data>
   <data name="Shortcut_SearchExplanation" xml:space="preserve">
-    <value>Förflyttar muspekaren till sökfältet för e-post.</value>
+    <value>Placerar muspekaren i sökrutan.</value>
   <comment>Puts your cursor in the search box.</comment>
   </data>
   <data name="Shortcut_SearchExplanation1" xml:space="preserve">
-    <value>Starta ny sökning efter mejl.</value>
+    <value>Startar ny e-postsökning.</value>
   <comment>Start new email search.</comment>
   </data>
   <data name="Shortcut_Send" xml:space="preserve">
-    <value>Send Email</value>
-    <comment>Send Email</comment>
+    <value>Skicka e-post</value>
+  <comment>Send Email</comment>
   </data>
   <data name="Shortcut_SendExplanation" xml:space="preserve">
     <value>Skickar aktuellt meddelande.</value>
@@ -2017,7 +2017,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Bring Mailbird to foreground.</comment>
   </data>
   <data name="Shortcut_Star" xml:space="preserve">
-    <value>Markera ett meddelande eller konversation som favorit</value>
+    <value>Stjärnmarkera ett meddelande eller konversation</value>
   <comment>Star a message or conversation</comment>
   </data>
   <data name="Shortcut_StarExplanation" xml:space="preserve">
