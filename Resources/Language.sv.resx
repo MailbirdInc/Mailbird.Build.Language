@@ -3558,7 +3558,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Want to add more email accounts?</comment>
   </data>
   <data name="License_RestartToConvertLiteExplanation" xml:space="preserve">
-    <value>Du har fler än {0} konton tillagda, Mailbird kommer nu att starta om och enbart ladda {0} av dina konton. De andra kontona kommer att vara dolda och kan enbart laddas genom att du tar bort ett laddat konto eller genom att uppgradera till Pro.</value>
+    <value>Eftersom du har fler än {0} konton tillagda så kommer Mailbird nu att starta om och enbart ladda {0} av dina konton. De andra kontona kommer att vara dolda och kan enbart laddas genom att du tar bort ett laddat konto eller genom att uppgradera till Pro.</value>
   <comment>Because you have more than {0} accounts added, Mailbird will now restart and load only {0} of your accounts. The other accounts will be hidden, and can be loaded by either removing a loaded account or upgrading to Pro.</comment>
   </data>
   <data name="License_RestartToConvertLiteTitle" xml:space="preserve">
@@ -3574,7 +3574,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
-    <value>Automatiskt göm mottagarfälten vid förlorad fokus</value>
+    <value>Göm mottagarfälten automatiskt vid förlorad fokus</value>
   <comment>Auto-collapse recipient fields on lost focus</comment>
   </data>
   <data name="Options_ComposeWindow" xml:space="preserve">
@@ -3590,31 +3590,31 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Apps</comment>
   </data>
   <data name="Options_Email" xml:space="preserve">
-    <value>Email</value>
-    <comment>Email</comment>
+    <value>E-post</value>
+  <comment>Email</comment>
   </data>
   <data name="JumpList_ExitMailbird" xml:space="preserve">
-    <value>Stäng {0}</value>
+    <value>Avsluta {0}</value>
   <comment>{0} will be replaced by "Mailbird", so the result is "Exit Mailbird"</comment>
   </data>
   <data name="JumpList_RecentDrafts" xml:space="preserve">
-    <value>Tidigare utkast</value>
+    <value>Senaste utkast</value>
   <comment>Recent drafts</comment>
   </data>
   <data name="JumpList_RecentEmails" xml:space="preserve">
-    <value>Tidigare e-post</value>
+    <value>Senaste e-post</value>
   <comment>Recent emails</comment>
   </data>
   <data name="MailViewer_LoadingUnusuallySlowMessage" xml:space="preserve">
-    <value>Hämtningen tar längre tid än vanligt. Vänligen kontrollera din internetanslutning.</value>
+    <value>Laddningen tar längre tid än vanligt. Vänligen kontrollera din Internetanslutning.</value>
   <comment>Loading is taking longer than usual. Please check your internet connection.</comment>
   </data>
   <data name="MailEditor_WebrootPasteError" xml:space="preserve">
-    <value>Blockerad av Webroot SecureAnywhere. Vänligen sätt Webroot identitetsskydd till att tillåta Mailbird</value>
+    <value>Blockerad av Webroot SecureAnywhere. Vänligen sätt Webroot Identity Protection till att skydda eller tillåta Mailbird</value>
   <comment>Blocked by Webroot SecureAnywhere. Please set Webroot Identity Protection to protect or allow Mailbird</comment>
   </data>
   <data name="Options_ImproveMailbird" xml:space="preserve">
-    <value>Hjälp oss att förbättra Mailbird</value>
+    <value>Hjälp att förbättra Mailbird</value>
   <comment>Help improve Mailbird</comment>
   </data>
   <data name="Options_ShareDataUsage" xml:space="preserve">
@@ -3626,9 +3626,9 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Kryssa i om du upplever konstig grafik som oläsliga bokstäver eller bokstäver som byter färg och om uppgradering av grafikdrivrutinerna inte hjälper.
+    <value>Kryssa i om du upplever konstig grafik som oläsliga bokstäver eller bokstäver som byter färg och om uppdatering av grafikdrivrutinerna inte hjälper.
 
-Notera att slå på detta vill i de flesta fall resultera i sämre prestanda och högre CPU användning. I vissa fall, speciellt med lågprisgrafikkort kan prestandat förbättras.</value>
+Notera att om du slår på detta kommer det i de flesta fall resultera i sämre gränssnittsprestanda och högre CPU-användning. I sällsynta fall, speciellt med lågprisgrafikkort, kan prestandan förbättras.</value>
   <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -3646,11 +3646,11 @@ Note that enabling this will in most cases result in worse interface performance
   <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>"{0}" (skapa mapp)</value>
+    <value>"{0}" (lägg till mapp)</value>
   <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
-    <value>Mapp kunde inte hittas</value>
+    <value>Mapp hittades inte</value>
   <comment>Folder not found</comment>
   </data>
   <data name="Folder_Manage" xml:space="preserve">
@@ -3662,7 +3662,7 @@ Note that enabling this will in most cases result in worse interface performance
   <comment>No folders</comment>
   </data>
   <data name="Options_QuickReplyBehavior" xml:space="preserve">
-    <value>Standard snabbsvars beteende</value>
+    <value>Standard snabbsvarsbeteende</value>
   <comment>Default quick reply behavior</comment>
   </data>
   <data name="Options_QuickReplyDoReplyToAll" xml:space="preserve">
