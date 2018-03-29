@@ -271,7 +271,7 @@
   <comment>Attachment(s) not downloaded</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
-    <value>Vänta tills alla bilagor har hämtats innan vidarebefordran</value>
+    <value>Vänligen vänta tills alla bilagor har hämtats innan vidarebefordran</value>
   <comment>Please wait until all attachments have been downloaded before forwarding</comment>
   </data>
   <data name="Dialog_Cancel" xml:space="preserve">
@@ -323,7 +323,7 @@ Url: {1}</comment>
   <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>Vänta tills alla bilagor har laddats ner eller ta bort bilagorna.</value>
+    <value>Vänligen vänta tills alla bilagor har laddats ner eller ta bort bilagorna.</value>
   <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
@@ -475,7 +475,7 @@ Message:</comment>
   <comment>Thanks!</comment>
   </data>
   <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
-    <value>Vänligen avvakta tills inkorgen har uppdaterats</value>
+    <value>Vänligen vänta tills inkorgen har uppdaterats</value>
   <comment>Please wait until your Inbox has loaded</comment>
   </data>
   <data name="Dialog_Warning" xml:space="preserve">
@@ -3241,11 +3241,11 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Pager</comment>
   </data>
   <data name="App_Contacts_PhoneType_WorkFax" xml:space="preserve">
-    <value>Arbetefax</value>
+    <value>Arbetsfax</value>
   <comment>Work Fax</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts" xml:space="preserve">
-    <value>Hitta och slå ihop dubletter</value>
+    <value>Hitta och slå ihop dubbletter</value>
   <comment>Find and merge duplicates</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_MergeSelected" xml:space="preserve">
@@ -3257,11 +3257,11 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Select all</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_NoDuplicates" xml:space="preserve">
-    <value>Inga dubbletter hittade</value>
+    <value>Inga dubbletter hittades</value>
   <comment>No duplicates found</comment>
   </data>
   <data name="App_OldContacts_Description" xml:space="preserve">
-    <value>Låter dig söka efter kontakter, visa information om dessa och skicka e-post via dubbelklick.</value>
+    <value>Låter dig söka efter kontakter, visa information om dessa och skicka e-post genom att dubbelklicka.</value>
   <comment>Allows you to search for people, view contact information and email them directly by double-clicking.</comment>
   </data>
   <data name="App_OldContacts_Title" xml:space="preserve">
@@ -3273,8 +3273,8 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Remove nickname</comment>
   </data>
   <data name="App_Contacts_FieldNotes" xml:space="preserve">
-    <value>Notes</value>
-    <comment>Notes</comment>
+    <value>Anteckningar</value>
+  <comment>Notes</comment>
   </data>
   <data name="App_Attachments_NoAttachments" xml:space="preserve">
     <value>Inga bilagor</value>
@@ -3289,12 +3289,12 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Conversation layout</comment>
   </data>
   <data name="Conversation_LayoutHorizontal" xml:space="preserve">
-    <value>Horizontal</value>
-    <comment>Horizontal</comment>
+    <value>Horisontal</value>
+  <comment>Horizontal</comment>
   </data>
   <data name="Conversation_LayoutVertical" xml:space="preserve">
-    <value>Vertical</value>
-    <comment>Vertical</comment>
+    <value>Vertikal</value>
+  <comment>Vertical</comment>
   </data>
   <data name="Welcome_FinalStepExplanation" xml:space="preserve">
     <value>Välj din föredragna vy</value>
@@ -3309,7 +3309,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Kunde inte ansluta till licensservern. Vänligen kontrollera din internetanslutning. Deaktivera eller konfigurera din brandvägg, antivirusprogram eller proxy inställningar för att tillåta Mailbird.</value>
+    <value>Kunde inte ansluta till licensservern. Vänligen kontrollera din Internetanslutning. Vänligen deaktivera eller konfigurera din brandvägg, antivirusprogram eller proxyinställningar för att vitlista Mailbird.</value>
   <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -3329,11 +3329,11 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} dagar återstår av din Pro testperiod. Efter att testperioden kommer Mailbird Pro automatiskt övergå till Mailbird Lite.</value>
+    <value>{0} dagar återstår av din testperiod av Pro. Efter testperioden kommer Mailbird Pro automatiskt övergå till Mailbird Lite.</value>
   <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
-    <value>Ditt konto kommer nu konverteras till Lite (gratis) versionen som begränsar dig ifrån att använda alla Pro funktioner. Du kan fortsätta använda alla funktioner om du bestämmer dig för att köpa Mailbird Pro eller matar in en licensnyckel nedan.</value>
+    <value>Ditt konto kommer nu konverteras till Lite (gratis)-versionen som begränsar dig från att använda alla Pro-funktioner. Du kan fortsätta använda alla funktioner om du bestämmer dig för att köpa Mailbird Pro eller matar in en licensnyckel nedan.</value>
   <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
   </data>
   <data name="Trial_Feature1" xml:space="preserve">
@@ -3346,7 +3346,7 @@ Here are a couple of links to help produce vCard files from various services:</c
 {0} will be changed to number: 1, 2, or 3</comment>
   </data>
   <data name="Trial_Feature3" xml:space="preserve">
-    <value>Förhandsvisning för bilagor</value>
+    <value>Snabb förhandsvisning för bilagor</value>
   <comment>Attachment Quick Preview</comment>
   </data>
   <data name="Trial_Feature4" xml:space="preserve">
@@ -3358,7 +3358,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>No Ads</comment>
   </data>
   <data name="Trial_More" xml:space="preserve">
-    <value>Ytterligare infromation</value>
+    <value>Läs mer</value>
   <comment>Learn more</comment>
   </data>
   <data name="Trial_Purchase" xml:space="preserve">
@@ -3366,7 +3366,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Buy Mailbird Pro</comment>
   </data>
   <data name="Trial_SwitchLite" xml:space="preserve">
-    <value>Nej, Lite versionen räcker för mig</value>
+    <value>Nej, Lite-versionen räcker för mig</value>
   <comment>No, I'm good with free version</comment>
   </data>
   <data name="Folder_Search" xml:space="preserve">
@@ -3374,11 +3374,11 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Search:</comment>
   </data>
   <data name="Notification_NewTipsHeader" xml:space="preserve">
-    <value>Nya Mailbird tips är tillgängliga</value>
+    <value>Nya Mailbird-tips är tillgängliga</value>
   <comment>New Mailbird tips are available</comment>
   </data>
   <data name="Tips_New" xml:space="preserve">
-    <value>Ny tips</value>
+    <value>Nytt tips</value>
   <comment>New tip</comment>
   </data>
   <data name="MailViewer_LoadingMessage" xml:space="preserve">
@@ -3394,7 +3394,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Notifications</comment>
   </data>
   <data name="Notification_FolderSyncErrorMessage" xml:space="preserve">
-    <value>Mailbird kunde inte uppdatera servern med ändringarna för mappen. Vänligen uppdatera servern genom webbläsaren.</value>
+    <value>Mailbird kunde inte uppdatera servern med ändringarna för mappen. Vänligen uppdatera servern manuellt genom att använda din webbläsare.</value>
   <comment>Mailbird was unable to update the server with the changes to the folder. Please update the server manually using your web interface.</comment>
   </data>
   <data name="Notification_SendErrorHeader" xml:space="preserve">
@@ -3402,7 +3402,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird kunde inte skicka meddelandet. Vänligen kontrollera identiteten för din avsändare under utgående server inställningar.</value>
+    <value>Mailbird kunde inte skicka meddelandet. Vänligen kontrollera identiteten för din avsändare under inställningar för utgående server.</value>
   <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
@@ -3438,7 +3438,7 @@ Are you sure you want to cancel?</comment>
   <comment>You can now start using Mailbird while we sync your messages in the background.</comment>
   </data>
   <data name="Welcome_GuideCompletedTitle" xml:space="preserve">
-    <value>Installation klar</value>
+    <value>Installationen är klar</value>
   <comment>Setup completed</comment>
   </data>
   <data name="Welcome_AddMoreAccounts" xml:space="preserve">
@@ -3454,7 +3454,7 @@ Are you sure you want to cancel?</comment>
   <comment>You just snoozed a message!</comment>
   </data>
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
-    <value>Vi har flyttat det till 'fördröjt' mappen så den är ur vägen. Den dyker åter upp i inkorgen senare, sorterad till toppen så att du kan hitta det. Det kommer att vara fast det till du har läst det.
+    <value>Vi har flyttat meddelandet till 'Fördröjt'-mappen så den är ur vägen. Meddelandet dyker åter upp i inkorgen senare, sorterad till toppen så att du kan hitta det och kommer att förbli där tills du har läst det.
 
 Notera att Mailbird måste vara igång för att meddelandet ska flyttas tillbaka. Annars flyttas meddelandet tillbaka nästa gång du startar Mailbird.</value>
   <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
@@ -3478,11 +3478,11 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>My weekend starts on</comment>
   </data>
   <data name="Options_Snooze_SomeDay" xml:space="preserve">
-    <value>Nån dag</value>
+    <value>Någon dag</value>
   <comment>Someday</comment>
   </data>
   <data name="Options_Snooze_StartMyDayAt" xml:space="preserve">
-    <value>Min dag börjar vid</value>
+    <value>Min dag startar</value>
   <comment>My day starts at</comment>
   </data>
   <data name="Options_Snooze_StartMyWeekendAt" xml:space="preserve">
@@ -3514,11 +3514,11 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Next week</comment>
   </data>
   <data name="Snooze_Type_PickDate" xml:space="preserve">
-    <value>Välj dag &amp; tid</value>
+    <value>Välj datum och tid</value>
   <comment>Pick date &amp; time</comment>
   </data>
   <data name="Snooze_Type_Someday" xml:space="preserve">
-    <value>Nån dag</value>
+    <value>Någon dag</value>
   <comment>Someday</comment>
   </data>
   <data name="Snooze_Type_Tomorrow" xml:space="preserve">
@@ -3534,7 +3534,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>This weekend</comment>
   </data>
   <data name="Snooze_Type_NextWeekend" xml:space="preserve">
-    <value>Nästa vecka</value>
+    <value>Nästa helg</value>
   <comment>Next weekend</comment>
   </data>
   <data name="Options_Snooze_InOneHour" xml:space="preserve">
@@ -3550,7 +3550,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Snooze</comment>
   </data>
   <data name="Upgrade_Snooze" xml:space="preserve">
-    <value>Få fördröjning och många andra funktioner för att öka din produktivitet.</value>
+    <value>Få Fördröjning och många andra funktioner för att öka din produktivitet.</value>
   <comment>Get Snooze and many other features to boost your productivity.</comment>
   </data>
   <data name="Welcome_MoreAccounts_Header" xml:space="preserve">
@@ -3558,7 +3558,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Want to add more email accounts?</comment>
   </data>
   <data name="License_RestartToConvertLiteExplanation" xml:space="preserve">
-    <value>Du har fler än {0} konton konfigurerade, Mailbird kommer nu att starta om och ladda bara {0} av dina konton. De andra kontona kommer att vara osynliga och kan laddas enbart genom att du tar bort ett laddat konto eller genom att uppgradera till Pro.</value>
+    <value>Du har fler än {0} konton tillagda, Mailbird kommer nu att starta om och enbart ladda {0} av dina konton. De andra kontona kommer att vara dolda och kan enbart laddas genom att du tar bort ett laddat konto eller genom att uppgradera till Pro.</value>
   <comment>Because you have more than {0} accounts added, Mailbird will now restart and load only {0} of your accounts. The other accounts will be hidden, and can be loaded by either removing a loaded account or upgrading to Pro.</comment>
   </data>
   <data name="License_RestartToConvertLiteTitle" xml:space="preserve">
