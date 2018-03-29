@@ -1805,11 +1805,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Close the application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
-    <value>Öppna/Stäng fönster</value>
+    <value>Visa/Dölj fönster</value>
   <comment>Expand/Collapse Window</comment>
   </data>
   <data name="Shortcut_ExpandCollapseExplanation" xml:space="preserve">
-    <value>Låter dig öppna/stänga huvudfönstret och navigera mellan konversationslistan och meddelandelistan.</value>
+    <value>Låter dig visa/dölja huvudfönstret och navigera mellan konversationslistan och meddelandelistan.</value>
   <comment>Allows you to expand/collapse the main window, and navigate between the conversation list and message list.</comment>
   </data>
   <data name="Shortcut_Find" xml:space="preserve">
@@ -1877,7 +1877,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Flyttar muspekaren till nästa meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
+    <value>Flyttar muspekaren till nästa meddelande. Tryck på &lt;Enter&gt; för att visa eller dölja ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
   <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
@@ -1909,7 +1909,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Flyttar muspekaren till föregående meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
+    <value>Flyttar muspekaren till föregående meddelande. Tryck på &lt;Enter&gt; för att visa eller dölja ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
   <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -3574,7 +3574,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
-    <value>Göm mottagarfälten automatiskt vid förlorad fokus</value>
+    <value>Stäng mottagarfälten automatiskt vid förlorad fokus</value>
   <comment>Auto-collapse recipient fields on lost focus</comment>
   </data>
   <data name="Options_ComposeWindow" xml:space="preserve">
@@ -5026,7 +5026,7 @@ Are you sure you want to close the window?</comment>
   <comment>Download updates but let me choose whether to install them</comment>
   </data>
   <data name="UpdatePreference_CheckWithoutAutoDownload" xml:space="preserve">
-    <value>Leta efter uppdateringar men låt mig välja om jag vill ladda ner och installera</value>
+    <value>Leta efter uppdateringar men låt mig välja om jag vill ladda ner och installera dem</value>
   <comment>Check for updates but let me choose whether to download and install them</comment>
   </data>
   <data name="UpdatePreference_NeverCheck" xml:space="preserve">
@@ -5034,7 +5034,7 @@ Are you sure you want to close the window?</comment>
   <comment>Never check for updates</comment>
   </data>
   <data name="Options_UpdatePreference" xml:space="preserve">
-    <value>Välj din Mailbird uppdateringsinställningar:</value>
+    <value>Välj uppdateringsinställningar:</value>
   <comment>Choose your Mailbird update settings:</comment>
   </data>
   <data name="ContextMenu_RedownloadImage" xml:space="preserve">
@@ -5046,11 +5046,11 @@ Are you sure you want to close the window?</comment>
   <comment>Invite again</comment>
   </data>
   <data name="InstallationForm_SetAsDefault" xml:space="preserve">
-    <value>Välj Mailbird som förvald epostklient</value>
+    <value>Välj Mailbird som standardprogram för e-post</value>
   <comment>Set Mailbird as the default email client</comment>
   </data>
   <data name="NotificationCenter_Notifications" xml:space="preserve">
-    <value>Notiser</value>
+    <value>Notifieringar</value>
   <comment>Notifications</comment>
   </data>
   <data name="App_Contacts_AddGroup" xml:space="preserve">
@@ -5072,7 +5072,7 @@ Are you sure you want to close the window?</comment>
   <data name="App_Contacts_NoContacts" xml:space="preserve">
     <value>Det finns inga kontakter i denna grupp.
 
-För att lägga till en kontakt, klicka på "Lägg till kontakt" knappen.</value>
+För att lägga till en kontakt, klicka på "Lägg till kontakt"-knappen.</value>
   <comment>Placeholder text when no contacts in selected group</comment>
   </data>
   <data name="App_Contacts_ContactsPlural" xml:space="preserve">
@@ -5120,28 +5120,28 @@ För att lägga till en kontakt, klicka på "Lägg till kontakt" knappen.</value
   <comment>({0} linked contacts)</comment>
   </data>
   <data name="App_Contacts_LinkContact" xml:space="preserve">
-    <value>Link contact</value>
-    <comment>Link contact</comment>
+    <value>Länkkontakt</value>
+  <comment>Link contact</comment>
   </data>
   <data name="App_Contacts_Unlink" xml:space="preserve">
     <value>Ta bort länk</value>
   <comment>Unlink</comment>
   </data>
   <data name="App_Contacts_Unified" xml:space="preserve">
-    <value>Kombinerat kontakt</value>
+    <value>Samlingskontakt</value>
   <comment>Unified contact</comment>
   </data>
   <data name="App_Contacts_Link" xml:space="preserve">
-    <value>Link</value>
-    <comment>Link</comment>
+    <value>Länk</value>
+  <comment>Link</comment>
   </data>
   <data name="App_Contacts_LinkContact_Contacts" xml:space="preserve">
-    <value>Contacts</value>
-    <comment>Contacts</comment>
+    <value>Kontakter</value>
+  <comment>Contacts</comment>
   </data>
   <data name="App_Contacts_LinkContact_EnterName" xml:space="preserve">
-    <value>Enter a name</value>
-    <comment>Enter a name</comment>
+    <value>Ange ett namn</value>
+  <comment>Enter a name</comment>
   </data>
   <data name="App_Contacts_Cancel" xml:space="preserve">
     <value>Avbryt</value>
@@ -5160,47 +5160,47 @@ För att lägga till en kontakt, klicka på "Lägg till kontakt" knappen.</value
   <comment>Job title</comment>
   </data>
   <data name="App_Contacts_FieldAddAddress" xml:space="preserve">
-    <value>lägg till adress</value>
+    <value>Lägg till adress</value>
   <comment>add address</comment>
   </data>
   <data name="App_Contacts_FieldAddBirthday" xml:space="preserve">
-    <value>lägg till födelsedag</value>
+    <value>Lägg till födelsedag</value>
   <comment>add birthday</comment>
   </data>
   <data name="App_Contacts_FieldAddCompany" xml:space="preserve">
-    <value>lägg till företag</value>
+    <value>Lägg till företag</value>
   <comment>add company</comment>
   </data>
   <data name="App_Contacts_FieldAddCustomField" xml:space="preserve">
-    <value>lägg till eget fält</value>
+    <value>Lägg till eget fält</value>
   <comment>add custom field</comment>
   </data>
   <data name="App_Contacts_FieldAddDate" xml:space="preserve">
-    <value>lägg till datum</value>
+    <value>Lägg till datum</value>
   <comment>add date</comment>
   </data>
   <data name="App_Contacts_FieldAddInstantMessenger" xml:space="preserve">
-    <value>lägg till messenger</value>
+    <value>Lägg till IM</value>
   <comment>add instant messenger</comment>
   </data>
   <data name="App_Contacts_FieldAddJobTitle" xml:space="preserve">
-    <value>lägg till jobbtitel</value>
+    <value>Lägg till jobbtitel</value>
   <comment>add job title</comment>
   </data>
   <data name="App_Contacts_FieldAddNotes" xml:space="preserve">
-    <value>lägg till notis</value>
+    <value>Lägg till anteckningar</value>
   <comment>add notes</comment>
   </data>
   <data name="App_Contacts_FieldAddRelation" xml:space="preserve">
-    <value>lägg till relation</value>
+    <value>Lägg till relation</value>
   <comment>add relation</comment>
   </data>
   <data name="App_Contacts_FieldAddWebsite" xml:space="preserve">
-    <value>lägg till webbadress</value>
+    <value>Lägg till hemsida</value>
   <comment>add website</comment>
   </data>
   <data name="App_Contacts_SingularFieldExplanation" xml:space="preserve">
-    <value>Det här kommer att visas för kontakten</value>
+    <value>Det här kommer att visas när du tittar på kontakten</value>
   <comment>This will be displayed when viewing the contact</comment>
   </data>
   <data name="App_Contacts_FieldCity" xml:space="preserve">
@@ -5220,11 +5220,11 @@ För att lägga till en kontakt, klicka på "Lägg till kontakt" knappen.</value
   <comment>Street</comment>
   </data>
   <data name="App_Contacts_FieldZipCode" xml:space="preserve">
-    <value>ZIP code</value>
-    <comment>ZIP code</comment>
+    <value>Postnummer</value>
+  <comment>ZIP code</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_SubHeader" xml:space="preserve">
-    <value>Välj konton nedan att ansluta och synkronisera kontakter med Mailbird, eller klicka på knappen anslut till ett annat konto.</value>
+    <value>Välj konton nedan att ansluta och synkronisera kontakter med Mailbird, eller klicka på knappen för att ansluta till ett annat konto.</value>
   <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_Title" xml:space="preserve">
@@ -5236,23 +5236,23 @@ För att lägga till en kontakt, klicka på "Lägg till kontakt" knappen.</value
   <comment>Accounts</comment>
   </data>
   <data name="App_Contacts_MenuDisplayFirstLast" xml:space="preserve">
-    <value>Visa förnamn, efternamn</value>
+    <value>Visa efter för-, efternamn</value>
   <comment>Display by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuDisplayLastFirst" xml:space="preserve">
-    <value>Visa efternamn, förnamn</value>
+    <value>Visa efter efter-, förnamn</value>
   <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
-    <value>Export contacts to vCard</value>
-    <comment>Export group contacts to vCard</comment>
+    <value>Exportera kontakter till vCard</value>
+  <comment>Export group contacts to vCard</comment>
   </data>
   <data name="App_Contacts_MenuSortFirstLast" xml:space="preserve">
-    <value>Sortera på förnamn, efternamn</value>
+    <value>Sortera på för-, efternamn</value>
   <comment>Sort by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuSortLastFirst" xml:space="preserve">
-    <value>Sortera på efternamn, förnamn</value>
+    <value>Sortera på efter-, förnamn</value>
   <comment>Sort by Last, First</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
@@ -5260,11 +5260,11 @@ För att lägga till en kontakt, klicka på "Lägg till kontakt" knappen.</value
   <comment>+ Connect other account</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
-    <value>Ledsen men detta konto har ej stöd för kontaktsynkronisering.</value>
+    <value>Ledsen, men detta konto har inte stöd för kontaktsynkronisering.</value>
   <comment>Sorry, but this email account doesn't have support for contacts sync.</comment>
   </data>
   <data name="App_Contacts_EditAccount_SubHeader" xml:space="preserve">
-    <value>Välj ett av följande ikoner för att identifiera detta konto.</value>
+    <value>Välj en av följande ikoner för att identifiera detta konto.</value>
   <comment>Choose one of the following icons to identify this account.</comment>
   </data>
   <data name="App_Contacts_EditAccount_Title" xml:space="preserve">
@@ -5272,11 +5272,11 @@ För att lägga till en kontakt, klicka på "Lägg till kontakt" knappen.</value
   <comment>Edit account</comment>
   </data>
   <data name="App_Contacts_OtherGoogleAccount" xml:space="preserve">
-    <value>Annan Google konto...</value>
+    <value>Annat Google-konto...</value>
   <comment>Other Google account...</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_Unsupported" xml:space="preserve">
-    <value>(Stöds ej)</value>
+    <value>(Stöds inte)</value>
   <comment>(Unsupported)</comment>
   </data>
   <data name="App_Contacts_AvatarAdd" xml:space="preserve">
@@ -5292,16 +5292,16 @@ För att lägga till en kontakt, klicka på "Lägg till kontakt" knappen.</value
   <comment>Groups...</comment>
   </data>
   <data name="App_Contacts_ContextMenuExport" xml:space="preserve">
-    <value>Export vCard</value>
-    <comment>Export vCard</comment>
+    <value>Exportera vCard</value>
+  <comment>Export vCard</comment>
   </data>
   <data name="App_Contacts_ContextMenuInvite" xml:space="preserve">
     <value>Bjud in till Mailbird</value>
   <comment>Invite to Mailbird</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkContacts" xml:space="preserve">
-    <value>Link contacts</value>
-    <comment>Link contacts</comment>
+    <value>Länka kontakter</value>
+  <comment>Link contacts</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkedin" xml:space="preserve">
     <value>Kolla upp på LinkedIn</value>
@@ -5312,11 +5312,11 @@ För att lägga till en kontakt, klicka på "Lägg till kontakt" knappen.</value
   <comment>Compose email</comment>
   </data>
   <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
-    <value>Markera som ej favorit</value>
+    <value>Markera som inte stjärnmärkt</value>
   <comment>Mark as not starred</comment>
   </data>
   <data name="App_Contacts_ContextMenuStarred" xml:space="preserve">
-    <value>Markera som favorit</value>
+    <value>Markera som stjärnmärkt</value>
   <comment>Mark as starred</comment>
   </data>
   <data name="App_Contacts_AddContact_Create" xml:space="preserve">
@@ -5340,31 +5340,31 @@ Vill du gruppera detta meddelande till en ny konversation?</value>
 Would you like to group this message into a new conversation?</comment>
   </data>
   <data name="Dialog_SubjectChanged_Title" xml:space="preserve">
-    <value>Skapa ny konversation?</value>
+    <value>Skapa en ny konversation?</value>
   <comment>Create a new conversation?</comment>
   </data>
   <data name="InviteV2_ShareSocial" xml:space="preserve">
-    <value>Dela på sociala medier för att få fler inbjudningar</value>
+    <value>Dela på sociala medier och få fler inbjudningar</value>
   <comment>Share on social and get more invites</comment>
   </data>
   <data name="ShareReferralLink_Link" xml:space="preserve">
-    <value>link</value>
-    <comment>link</comment>
+    <value>Länk</value>
+  <comment>link</comment>
   </data>
   <data name="ShareReferralLink_Share" xml:space="preserve">
     <value>Dela</value>
   <comment>Share</comment>
   </data>
   <data name="ShareReferralLink_Title" xml:space="preserve">
-    <value>Dela Mailbird direkt till Facebook eller Twitter</value>
+    <value>Dela Mailbird direkt på Facebook eller Twitter</value>
   <comment>Share Mailbird directly on Facebook or Twitter</comment>
   </data>
   <data name="ShareReferralLink_Tweet" xml:space="preserve">
-    <value>Tweeta</value>
+    <value>Twittra</value>
   <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>Få @Mailbird Pro gratis en månad, ladda ner här: {0}</value>
+    <value>Få 1 månad gratis av @mailbird Pro, ladda ner här: {0}</value>
   <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
@@ -5380,11 +5380,11 @@ Would you like to group this message into a new conversation?</comment>
   <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Har du en kupong?</value>
+    <value>Har du en kupongkod?</value>
   <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>Du har redan använt denna kupong kod.</value>
+    <value>Du har redan använt denna kupongkod.</value>
   <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
@@ -5392,7 +5392,7 @@ Would you like to group this message into a new conversation?</comment>
   <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Kupong koden kan bara användas av nya användare.</value>
+    <value>Kupongkoden kan bara användas av nya användare.</value>
   <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
@@ -5412,23 +5412,23 @@ Would you like to group this message into a new conversation?</comment>
   <comment>All your contacts together in one place.</comment>
   </data>
   <data name="App_Contacts_Intro_2" xml:space="preserve">
-    <value>Du kan numera synkronisera dina Google kontakter med Mailbird. Flera komma skall.</value>
+    <value>Du kan numera synkronisera dina Google-kontakter i Mailbird, med fler leverantörer att komma.</value>
   <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
-    <value>Du kan länka samman kontakter för att visa alla deras detaljer på ett och samma ställe med bara en klick.</value>
+    <value>Du kan länka samman kontakter med bara ett klick för att visa alla deras detaljer på ett och samma ställe.</value>
   <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
-    <value>Anslut till ditt/dina Google konto(n) för att synkronisera dem med din Mailbird.</value>
+    <value>Anslut till ditt/dina Google-konto(n) för att synkronisera dem med Mailbird.</value>
   <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
   </data>
   <data name="App_Contacts_Intro_Welcome" xml:space="preserve">
-    <value>Möt kontakter</value>
+    <value>Möt Kontakter</value>
   <comment>Meet the Contacts</comment>
   </data>
   <data name="App_Contacts_FieldPhoto" xml:space="preserve">
-    <value>Bild</value>
+    <value>Foto</value>
   <comment>Photo</comment>
   </data>
   <data name="App_Contacts_SearchGroup" xml:space="preserve">
@@ -5436,7 +5436,7 @@ Would you like to group this message into a new conversation?</comment>
   <comment>Search group</comment>
   </data>
   <data name="App_Contacts_Groups_CreateFromSearch" xml:space="preserve">
-    <value>"{0}" (skapa grupp)</value>
+    <value>"{0}" (Skapa grupp)</value>
   <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="App_Contacts_LinkContactExplanation" xml:space="preserve">
@@ -5452,12 +5452,12 @@ Would you like to group this message into a new conversation?</comment>
   <comment>Connect accounts</comment>
   </data>
   <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
-    <value>Merge contacts</value>
-    <comment>Merge contacts</comment>
+    <value>Slå ihop kontakter</value>
+  <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
-    <value>Merge contact</value>
-    <comment>Merge contact</comment>
+    <value>Slå ihop kontakt</value>
+  <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
     <value>Skapa eller lägg till kontakt</value>
