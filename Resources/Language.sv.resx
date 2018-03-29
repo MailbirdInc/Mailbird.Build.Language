@@ -3646,7 +3646,7 @@ Note that enabling this will in most cases result in worse interface performance
   <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>"{0}" (lägg till mapp)</value>
+    <value>"{0}" (Lägg till mapp)</value>
   <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
@@ -3670,7 +3670,7 @@ Note that enabling this will in most cases result in worse interface performance
   <comment>Reply to all by default</comment>
   </data>
   <data name="ToolTip_NoReply" xml:space="preserve">
-    <value>{0} (Inga svar)</value>
+    <value>{0} (Inget svar)</value>
   <comment>{0} (No Reply)</comment>
   </data>
   <data name="Attachment_Delete" xml:space="preserve">
@@ -3678,11 +3678,11 @@ Note that enabling this will in most cases result in worse interface performance
   <comment>Delete from cache</comment>
   </data>
   <data name="Invite_MoreSuggestions" xml:space="preserve">
-    <value>Flera förslag</value>
+    <value>Fler förslag</value>
   <comment>More suggestions</comment>
   </data>
   <data name="Invite_ProSubscription" xml:space="preserve">
-    <value>Pro prenumeration ({0} månader)</value>
+    <value>Pro-prenumeration ({0} månader)</value>
   <comment>Pro subscription ({0} months)</comment>
   </data>
   <data name="Invite_PendingInvitation" xml:space="preserve">
@@ -3754,31 +3754,31 @@ Note that enabling this will in most cases result in worse interface performance
   <comment>Include in unified account</comment>
   </data>
   <data name="Options_AlwaysExpandSwitcherTooltip" xml:space="preserve">
-    <value>Behåller kontoväxlaren i navigationspanelen alltid synlig.
+    <value>Behåller kontoväxlaren alltid synlig i navigationspanelen.
 Kräver flera konton.</value>
   <comment>Keeps the account switcher in the navigation pane from collapsing.
 Requires multiple accounts.</comment>
   </data>
   <data name="Options_EnableUnifiedAccountTooltip" xml:space="preserve">
-    <value>Visam ett samlingskonto som visar meddelanden från alla dina konton.
+    <value>Visar ett speciellt konto som innehåller meddelanden från alla konton.
 Kräver flera konton.</value>
   <comment>Shows a special account that contains messages from all accounts.
 Requires multiple accounts.</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroHeader" xml:space="preserve">
-    <value>Intruducerar samlingskontot</value>
+    <value>Introducerar samlingskontot</value>
   <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>När du lägger till flera konton till Mailbird kommer ett nytt "samlad" konto att visas högst upp i navigationsbaren. Det kommer att innehålla alla dina meddelanden från alla dina konton på ett och samma ställe, och du kommer att kunna interagera med dessa precis som vanligt.
+    <value>När du lägger till flera konton i Mailbird visas ett nytt "samlat" konto överst i kontolistan i navigeringspanelen. Kontot kommer att innehålla alla dina meddelanden från alla dina konton på ett och samma ställe, och du kommer att kunna interagera med dessa precis som vanligt.
 
-Du kan stänga av samlat konto under inställningarna eller redigera varje konto för att bestämma om det ska inkluderas eller ej i det samlade kontot.</value>
+Du kan stänga av samlat konto under inställningarna eller redigera varje konto för att bestämma om det ska inkluderas eller inte i det samlade kontot.</value>
   <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the settings, or edit each of your accounts to decide which should be included in it.</comment>
   </data>
   <data name="Options_SelectUnifiedAccountOnStartup" xml:space="preserve">
-    <value>Förvalt vid start</value>
+    <value>Välj vid uppstart</value>
   <comment>Select on startup</comment>
   </data>
   <data name="Options_SelectUnifiedAccountOnStartupTooltip" xml:space="preserve">
