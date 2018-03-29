@@ -2187,7 +2187,7 @@ We will never post anything to Facebook.</comment>
   <comment>Settings not found</comment>
   </data>
   <data name="Welcome_Skip" xml:space="preserve">
-    <value>skippa</value>
+    <value>Hoppa över</value>
   <comment>skip</comment>
   </data>
   <data name="Welcome_SMTPServerLabel" xml:space="preserve">
@@ -2329,7 +2329,7 @@ Path: {0}</comment>
   <comment>Last name</comment>
   </data>
   <data name="UpdateToPro_Lifetime" xml:space="preserve">
-    <value>Livstid</value>
+    <value>Lifetime</value>
   <comment>Lifetime</comment>
   </data>
   <data name="UpdateToPro_ProOnlyFeatures" xml:space="preserve">
@@ -2353,7 +2353,7 @@ Path: {0}</comment>
   <comment>Icon</comment>
   </data>
   <data name="Welcome_DefaultIdentity" xml:space="preserve">
-    <value>Standardidentitet</value>
+    <value>Förvald identitet</value>
   <comment>Default identity</comment>
   </data>
   <data name="Welcome_EditIdentityOutgoingServer" xml:space="preserve">
@@ -2365,11 +2365,11 @@ Path: {0}</comment>
   <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>Den förvalda identiteten när du skapar ett nytt brev med detta konto valt.</value>
+    <value>Den förvalda avsändaridentiteten när du skapar ett nytt meddelande med det här kontot valt.</value>
   <comment>The preselected sender identity when composing a new message with this account selected.</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
-    <value>Identiteten som håller inställningarna för den utgående servern för detta konto</value>
+    <value>Identiteten innehåller inställningarna för den utgående servern för det här kontot</value>
   <comment>The identity containing the outgoing settings for this account</comment>
   </data>
   <data name="Contact_LinkedInLookup" xml:space="preserve">
@@ -2377,19 +2377,19 @@ Path: {0}</comment>
   <comment>Look up on LinkedIn</comment>
   </data>
   <data name="Dialog_Uninstall" xml:space="preserve">
-    <value>Radera Mailbirds lokala data?</value>
+    <value>Ta bort Mailbirds lokala data?</value>
   <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Vill du radera Mailbirds lokala data, inklusive inställningar, meddelanden och kontakter?
+    <value>Vill du ta bort Mailbirds lokala data, inklusive inställningar, meddelanden och kontakter?
 
-Behåll detta om du tänker ominstallera Mailbird. Annars måste du mata in allt på nytt.</value>
+Behåll detta om du tänker ominstallera Mailbird. Annars måste du ange allt på nytt.</value>
   <comment>Would you like to remove Mailbird's local data, including settings, messages and contacts?
 
 If you intend to reinstall Mailbird, keep the data to avoid starting over.</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
-    <value>Skapa mapp</value>
+    <value>Lägg till mapp</value>
   <comment>Add folder</comment>
   </data>
   <data name="Folder_Edit" xml:space="preserve">
@@ -2401,8 +2401,8 @@ If you intend to reinstall Mailbird, keep the data to avoid starting over.</comm
   <comment>Unmap</comment>
   </data>
   <data name="Shortcut_Backspace" xml:space="preserve">
-    <value>Backspace</value>
-    <comment>Backspace</comment>
+    <value>Backsteg</value>
+  <comment>Backspace</comment>
   </data>
   <data name="Shortcut_Enter" xml:space="preserve">
     <value>Enter</value>
@@ -2429,11 +2429,11 @@ If you intend to reinstall Mailbird, keep the data to avoid starting over.</comm
   <comment>Please enter your last name</comment>
   </data>
   <data name="AccountValidationRule_EmptyProxyUsername" xml:space="preserve">
-    <value>Vänligen fyll i ditt proxy användarnamn</value>
+    <value>Vänligen fyll i ditt proxyanvändarnamn</value>
   <comment>Please enter your proxy username</comment>
   </data>
   <data name="Dialog_DiskWriteError" xml:space="preserve">
-    <value>Skrivningsfel</value>
+    <value>Diskskrivningsfel</value>
   <comment>Disk write error</comment>
   </data>
   <data name="Dialog_DiskWriteErrorExplanation" xml:space="preserve">
@@ -2445,13 +2445,13 @@ Kontrollera att det finns tillräckligt med ledigt diskutrymme.</value>
 Please check the free disk space and make more available if running low.</comment>
   </data>
   <data name="Dialog_ServerCertificateError" xml:space="preserve">
-    <value>Server certifikatfel</value>
+    <value>Servercertifikatfel</value>
   <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird har detekterat att SSL certifikatet för servern: '{0}' är felaktigt.
+    <value>Mailbird har detekterat att SSL-certifikatet för servern: '{0}', är felaktigt.
 
-Klicka på "Ytterligare information" knappen nedan för riskerna innan du fortsätter.
+Klicka på "Läs mer"-knappen nedan för mer information innan du fortsätter.
 
 Vill du ignorera felet permanent för denna server?</value>
   <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2461,7 +2461,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Bra jobbat med att bjuda in dina vänner till Mailbird! Några av de har redan blivit inbjudna och det är dags att bjuda in fler för att låsa upp dina Mailbird Pro fördelar.
+    <value>Bra jobbat med att bjuda in dina vänner till Mailbird! Några av de har redan blivit inbjudna och det är dags att bjuda in fler för att låsa upp dina Mailbird Pro-belöningar.
 
 Dessa har redan blivit inbjudna: {0}</value>
   <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
@@ -2473,7 +2473,7 @@ Emails already invited: {0}</comment>
   <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Bjud in dina vänner till Mailbird &amp; få [bold]Mailbird Pro livet ut gratis [/bold] när {0} eller flera vänner installerar via din inbjudan. Bjud in så många du vill!</value>
+    <value>Bjud in dina vänner till Mailbird och få [bold]Mailbird Pro Lifetime gratis[/bold] när {0} eller flera vänner installerar via din inbjudan. Bjud in så många du vill!</value>
   <comment>Invite your friends to try Mailbird &amp; get [bold]Mailbird Pro Lifetime for free [/bold] when {0} or more friends install it from your invites. Invite as many friends as you like!</comment>
   </data>
   <data name="Invite_FailedConnectionMessage" xml:space="preserve">
@@ -2485,7 +2485,7 @@ Meddelande: {0}</value>
 Message: {0}</comment>
   </data>
   <data name="Invite_FailedUpdateInvitationList" xml:space="preserve">
-    <value>Kunde inte uppdatera inbjudningslista.</value>
+    <value>Det gick inte att uppdatera inbjudningslistan.</value>
   <comment>Could not update invitation list.</comment>
   </data>
   <data name="Invite_InviteMore" xml:space="preserve">
@@ -2505,7 +2505,7 @@ Message: {0}</comment>
   <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_Sent" xml:space="preserve">
-    <value>Inbjudan skickade</value>
+    <value>Inbjudningar skickade</value>
   <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
@@ -2513,12 +2513,13 @@ Message: {0}</comment>
   <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
-    <value>[bold]Bjud in dina vänner[/bold] och få Mailbird på gratis livet ut!</value>
+    <value>[bold]Bjud in dina vänner[/bold]
+och få Mailbird Lifetime gratis!</value>
   <comment>[bold]Invite friends to fly together[/bold]
 and get Mailbird Lifetime for free!</comment>
   </data>
   <data name="Invite_TitleBlock2" xml:space="preserve">
-    <value>Skickade inbjudan</value>
+    <value>Skickade inbjudningar</value>
   <comment>Sent invitations</comment>
   </data>
   <data name="Invite_UnableInvitePeople" xml:space="preserve">
@@ -2534,8 +2535,8 @@ and get Mailbird Lifetime for free!</comment>
   <comment>Change proxy settings</comment>
   </data>
   <data name="Options_Network" xml:space="preserve">
-    <value>Network</value>
-    <comment>Network</comment>
+    <value>Nätverk</value>
+  <comment>Network</comment>
   </data>
   <data name="Options_ProxyExplanation" xml:space="preserve">
     <value>Mailbird använder din dators proxyinställningar för att ansluta till nätverket.</value>
@@ -2546,8 +2547,8 @@ and get Mailbird Lifetime for free!</comment>
   <comment>Proxy requires authentication</comment>
   </data>
   <data name="Options_ProxyPassword" xml:space="preserve">
-    <value>Password:</value>
-    <comment>Password:</comment>
+    <value>Lösenord:</value>
+  <comment>Password:</comment>
   </data>
   <data name="Options_ProxyUsername" xml:space="preserve">
     <value>Användarnamn:</value>
@@ -2578,11 +2579,11 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Enjoy Mailbird without ads and get many other features to boost your productivity.</comment>
   </data>
   <data name="Upgrade_QuickPreview" xml:space="preserve">
-    <value>Få förhandsvisning och många andra funktioner för att öka din produktivitet.</value>
+    <value>Få snabb förhandsvisning och många andra funktioner för att öka din produktivitet.</value>
   <comment>Get Quick Preview and many other features to boost your productivity.</comment>
   </data>
   <data name="Upgrade_UnlimitedAccount" xml:space="preserve">
-    <value>Lägg till obegränsat med konton och få en massa andra funktioner för att öka din produktivitet.</value>
+    <value>Lägg till obegränsat med konton och få många andra funktioner för att öka din produktivitet.</value>
   <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
@@ -2606,7 +2607,7 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Download failed.</comment>
   </data>
   <data name="MailViewer_DownloadingMessage" xml:space="preserve">
-    <value>Hämtar meddelande...</value>
+    <value>Laddar ner meddelande...</value>
   <comment>Downloading message...</comment>
   </data>
   <data name="MailViewer_Retry" xml:space="preserve">
@@ -2618,11 +2619,11 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Reply to sender</comment>
   </data>
   <data name="Options_DefaultFont" xml:space="preserve">
-    <value>Default font:</value>
-    <comment>Default font:</comment>
+    <value>Standardteckensnitt:</value>
+  <comment>Default font:</comment>
   </data>
   <data name="Options_DefaultFontPreview" xml:space="preserve">
-    <value>Det här är din förhandsvisningen av din text.</value>
+    <value>Det här är din textförhandsgranskning.</value>
   <comment>This is your text preview.</comment>
   </data>
   <data name="Dialog_Save" xml:space="preserve">
@@ -2630,27 +2631,27 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Save</comment>
   </data>
   <data name="Conversation_Me" xml:space="preserve">
-    <value>me</value>
-    <comment>me</comment>
+    <value>mig</value>
+  <comment>me</comment>
   </data>
   <data name="Welcome_NetworkTitle" xml:space="preserve">
     <value>Nätverksinställningar</value>
   <comment>Network settings</comment>
   </data>
   <data name="Message_To" xml:space="preserve">
-    <value>to</value>
-    <comment>to</comment>
+    <value>till</value>
+  <comment>to</comment>
   </data>
   <data name="Title_License" xml:space="preserve">
-    <value>Mailbird Licensöverenskommelse</value>
+    <value>Licensavtal för Mailbird</value>
   <comment>Mailbird License Agreement</comment>
   </data>
   <data name="Title_ShowSource" xml:space="preserve">
-    <value>Message Source</value>
-    <comment>Message Source</comment>
+    <value>Meddelandekälla</value>
+  <comment>Message Source</comment>
   </data>
   <data name="Title_Version" xml:space="preserve">
-    <value>Mailbird Versionshistorik</value>
+    <value>Versionshistorik för Mailbird</value>
   <comment>Mailbird Version History</comment>
   </data>
   <data name="Options_Add" xml:space="preserve">
@@ -2658,7 +2659,7 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Add</comment>
   </data>
   <data name="Options_AdditionalResource" xml:space="preserve">
-    <value>Ytterligare resurser &amp; information</value>
+    <value>Ytterligare resurser och information</value>
   <comment>Additional resources &amp; information</comment>
   </data>
   <data name="Options_AppBehavior" xml:space="preserve">
@@ -2678,8 +2679,8 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Conversations</comment>
   </data>
   <data name="Options_Default" xml:space="preserve">
-    <value>Default</value>
-    <comment>Default</comment>
+    <value>Standard</value>
+  <comment>Default</comment>
   </data>
   <data name="Options_Edit" xml:space="preserve">
     <value>Redigera</value>
@@ -2690,19 +2691,19 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Language</comment>
   </data>
   <data name="Options_Messages" xml:space="preserve">
-    <value>Messages</value>
-    <comment>Messages</comment>
+    <value>Meddelanden</value>
+  <comment>Messages</comment>
   </data>
   <data name="Options_ProxyServer" xml:space="preserve">
-    <value>Proxy server</value>
-    <comment>Proxy server</comment>
+    <value>Proxyserver</value>
+  <comment>Proxy server</comment>
   </data>
   <data name="Options_Remove" xml:space="preserve">
     <value>Ta bort</value>
   <comment>Remove</comment>
   </data>
   <data name="Options_ShowAvatar" xml:space="preserve">
-    <value>Visa avatar och kontaktinfo</value>
+    <value>Visa avatarer och kontaktinformation</value>
   <comment>Show avatars and contact info</comment>
   </data>
   <data name="Message_SpeedRead" xml:space="preserve">
@@ -2722,11 +2723,11 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Read email more quickly with the speed reader.</comment>
   </data>
   <data name="Options_Minutes" xml:space="preserve">
-    <value>{0} minutes</value>
-    <comment>\{0\} minutes</comment>
+    <value>{0} minuter</value>
+  <comment>\{0\} minutes</comment>
   </data>
   <data name="Attachment_Lost" xml:space="preserve">
-    <value>Denna bilaga har blivit borttagen och är inte längre tillgänglig</value>
+    <value>Denna bilaga har raderats och är inte längre tillgänglig</value>
   <comment>This attachment has been deleted and is no longer available</comment>
   </data>
   <data name="AccountValidationRule_NonZeroInteger" xml:space="preserve">
@@ -2742,7 +2743,7 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Leave a copy of messages on the server</comment>
   </data>
   <data name="Welcome_Pop3LeaveMessagesInfo" xml:space="preserve">
-    <value>POP3 servrar som standard behåller meddelanden enbart tills du hämtat dem. Du kan välja att lämna meddelandena på servern men ditt utrymme kan snabbt ta slut och du kan gå miste om viktiga meddelanden tills du raderar dina serverkopior.</value>
+    <value>POP3-servrar som standard lagrar endast meddelanden på servern tills du laddar ner dem. Du kan välja att lämna meddelandena på servern, men ditt utrymme kan snabbt ta slut och du kan gå miste om viktiga meddelanden tills du raderar dina serverkopior.</value>
   <comment>POP3 servers by default store messages on the server only until you download them. You can choose to leave messages on the server, but note that doing so can cause your mailbox to become full very quickly, and so you might not receive important messages until you delete the server copies.</comment>
   </data>
   <data name="Welcome_Pop3RemoveAfter" xml:space="preserve">
@@ -2758,7 +2759,7 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Update interval:</comment>
   </data>
   <data name="Welcome_Pop3UpdateIntervalInfo" xml:space="preserve">
-    <value>Hur ofta ska Mailbird kontrollera efter nya meddelanden. Minsta värdet dikteras av e-postleverantören då kontroll för ofta skulle kunna leda till att åtkomsten till POP3 servern tillfälligt blockeras.</value>
+    <value>Hur ofta ska Mailbird kontrollera efter nya meddelanden. Minsta värdet definieras av e-postleverantören, eftersom oftare kontroll av meddelanden kan leda till att kontot blockeras från POP3-åtkomst tillfälligt.</value>
   <comment>How often Mailbird will check for new messages. The minimum value is defined by the email provider, as checking for messages more often could lead to the account being blocked from POP3 access temporarily.</comment>
   </data>
   <data name="Conversation_MarkAllAsRead" xml:space="preserve">
@@ -2770,19 +2771,19 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
-    <value>Radera mapp?</value>
+    <value>Ta bort mapp?</value>
   <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Är du säker på att du vill radera "{0}"?</value>
+    <value>Är du säker på att du vill ta bort "{0}"?</value>
   <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
-    <value>Finns redan en mapp med det namnet på den platsen.</value>
+    <value>Det finns redan en mapp med det namnet på den platsen.</value>
   <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>Servern tillåter inte karaktärerna '{0}' i mapp namn.</value>
+    <value>Servern tillåter inte tecknena '{0}' i mappnamn.</value>
   <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
@@ -2794,7 +2795,7 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Do you really want to send this message without a subject?</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorMessage" xml:space="preserve">
-    <value>Det här är ett vanligt fel när e-posten kontrolleras av flera klienter samtidigt eller om kontroll sker för ofta.</value>
+    <value>Det här är ett vanligt fel när e-posten kontrolleras av flera klienter samtidigt eller om kontroll av meddelanden sker för ofta.</value>
   <comment>This is typically caused by another email client checking for messages at the same time, or checking for messages too often.</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorTitle" xml:space="preserve">
@@ -2806,8 +2807,8 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Please input a name for the folder.</comment>
   </data>
   <data name="Message_ReplyTemplate" xml:space="preserve">
-    <value>{0} {1}, {2} {3}:</value>
-    <comment>{on} {date}, {sender} {wrote}:</comment>
+    <value>{0} {1} {3} {2}:</value>
+  <comment>{on} {date}, {sender} {wrote}:</comment>
   </data>
   <data name="NotifyIconTooltip_Exit" xml:space="preserve">
     <value>Avsluta</value>
@@ -2834,8 +2835,8 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Submit request</comment>
   </data>
   <data name="WebBrowser_Home" xml:space="preserve">
-    <value>Home</value>
-    <comment>Home</comment>
+    <value>Hem</value>
+  <comment>Home</comment>
   </data>
   <data name="Conversation_More" xml:space="preserve">
     <value>Mer..</value>
@@ -2886,11 +2887,11 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Title</comment>
   </data>
   <data name="App_Contacts_FieldAddEmail" xml:space="preserve">
-    <value>lägg till e-post</value>
+    <value>Lägg till e-post</value>
   <comment>add email</comment>
   </data>
   <data name="App_Contacts_FieldAddPhone" xml:space="preserve">
-    <value>lägg till telefon</value>
+    <value>Lägg till telefon</value>
   <comment>add phone</comment>
   </data>
   <data name="App_Contacts_Add" xml:space="preserve">
@@ -2898,11 +2899,11 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Add</comment>
   </data>
   <data name="Dialog_DeleteContact_Singular" xml:space="preserve">
-    <value>Delete contact?</value>
-    <comment>Delete contact?</comment>
+    <value>Radera kontakt?</value>
+  <comment>Delete contact?</comment>
   </data>
   <data name="Dialog_DeleteContactExplanation_Singular" xml:space="preserve">
-    <value>Är du säker på att du vill ta bort denna kontakt?</value>
+    <value>Är du säker på att du vill radera denna kontakt?</value>
   <comment>Are you sure you want to delete this contact?</comment>
   </data>
   <data name="App_Contacts_CallPhone" xml:space="preserve">
@@ -2918,8 +2919,8 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>{0} will be replaced by the name of company, so the result will be "Search for Microsoft Ltd"</comment>
   </data>
   <data name="App_Contacts_SendEmail" xml:space="preserve">
-    <value>Email {0}</value>
-    <comment>Tool tip when hovering an email address. {0} will be replaced by the email address, so the result will be "Email test@gmail.com"</comment>
+    <value>E-post {0}</value>
+  <comment>Tool tip when hovering an email address. {0} will be replaced by the email address, so the result will be "Email test@gmail.com"</comment>
   </data>
   <data name="App_Contacts_AddGroup_Cancel" xml:space="preserve">
     <value>Avbryt</value>
@@ -3000,12 +3001,12 @@ NB: Explanation in messagebox when deleting group</comment>
   <comment>(no subject)</comment>
   </data>
   <data name="WebControl_OpenLink" xml:space="preserve">
-    <value>Open link</value>
-    <comment>Open link</comment>
+    <value>Öppna länk</value>
+  <comment>Open link</comment>
   </data>
   <data name="Awesomium_SendEmail" xml:space="preserve">
-    <value>Send an email..</value>
-    <comment>Send an email..</comment>
+    <value>Skicka e-post..</value>
+  <comment>Send an email..</comment>
   </data>
   <data name="App_Contacts_All" xml:space="preserve">
     <value>Alla kontakter</value>
