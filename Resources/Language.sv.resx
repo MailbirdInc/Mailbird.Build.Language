@@ -267,7 +267,7 @@
   <comment>You can't add file that is already attached.</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloaded" xml:space="preserve">
-    <value>Bilaga (-or) är inte nedladdade</value>
+    <value>Bilaga(-or) är inte nedladdade</value>
   <comment>Attachment(s) not downloaded</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
@@ -2179,7 +2179,7 @@ We will never post anything to Facebook.</comment>
   <comment>Settings found</comment>
   </data>
   <data name="Welcome_SettingsNotFoundSubTitle" xml:space="preserve">
-    <value>Vi kunde inte hitta inställningarna för ditt konto. Vänligen komplettera med nödvändig informationen nedan.</value>
+    <value>Vi kunde inte hitta inställningarna för ditt konto. Vänligen komplettera med nödvändig information nedan.</value>
   <comment>We were unable to find settings for your account. Please input the required information below.</comment>
   </data>
   <data name="Welcome_SettingsNotFoundTitle" xml:space="preserve">
@@ -4102,7 +4102,7 @@ If you continue to experience this error, please contact support.</comment>
   <comment>Add new recipients to Contacts</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Fäst Mailbird på Start</value>
+    <value>Fäst Mailbird på Start-menyn</value>
   <comment>Pin Mailbird to start menu</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
@@ -4110,11 +4110,11 @@ If you continue to experience this error, please contact support.</comment>
   <comment>Create shortcut on desktop</comment>
   </data>
   <data name="InstallationForm_InstallationCompleted" xml:space="preserve">
-    <value>Installation klar</value>
+    <value>Installationen är klar</value>
   <comment>Installation complete</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Fäst Mailbird till aktivitetsfältet</value>
+    <value>Fäst Mailbird i Aktivitetsfältet</value>
   <comment>Pin Mailbird to taskbar</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
@@ -4136,8 +4136,8 @@ Please follow this link to further troubleshoot the issue:
 https://support.google.com/mail/accounts/answer/78754</comment>
   </data>
   <data name="Options_Import" xml:space="preserve">
-    <value>Import</value>
-    <comment>Import</comment>
+    <value>Importera</value>
+  <comment>Import</comment>
   </data>
   <data name="Notification_LostDraftHeader" xml:space="preserve">
     <value>Ett fel uppstod med ditt utkast</value>
@@ -4146,21 +4146,21 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <data name="Notification_LostDraftMessage" xml:space="preserve">
     <value>Ett fel uppstod med ditt utkast och den senast sparade versionen har återställts.
 
-Om du ser detta ofta, vänligen kontakta vår support.</value>
+Om du ser detta fel ofta, vänligen kontakta vår support.</value>
   <comment>An error occurred with your draft and your latest saved version has been restored.
 
 If you are seeing this error frequently, please contact Mailbird support.</comment>
   </data>
   <data name="Notification_OpenDraft" xml:space="preserve">
-    <value>Hoppa till utkast</value>
+    <value>Gå till utkast</value>
   <comment>Go to draft</comment>
   </data>
   <data name="LostDraft_ContactSupport" xml:space="preserve">
-    <value>kontakta Mailbird supporten</value>
+    <value>Kontakta Mailbird-supporten</value>
   <comment>contact Mailbird support</comment>
   </data>
   <data name="LostDraft_Explanation" xml:space="preserve">
-    <value>Något gick fel när ditt utkast skulle visas. För att fortsätta vänligen [btn_1]
+    <value>Något gick fel när ditt utkast skulle visas. För att fortsätta, vänligen [btn_1]
 
 
 Om du ser detta fel ofta, vänligen [btn_2]</value>
@@ -4177,7 +4177,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Uh Oh!</comment>
   </data>
   <data name="LostDraft_Reload" xml:space="preserve">
-    <value>ladda om det</value>
+    <value>Ladda om det</value>
   <comment>reload the draft</comment>
   </data>
   <data name="Options_BackgroundPattern" xml:space="preserve">
@@ -4206,7 +4206,7 @@ So leave the texts inside bracket, but you can change the position within senten
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
     <value>Importerar [bold]{0}[/bold].
-Vänligen mata in saknade detaljer nedan.
+Vänligen ange saknade detaljer nedan.
 Konto {1} av {2}.</value>
   <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com.
@@ -4215,7 +4215,7 @@ Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
     <value>Markera kontona du vill importera till Mailbird.
-För att undvika några fel, var vänlig och stäng e-postklienten du importerar ifrån innan du fortsätter.</value>
+För att föhindra fel, vänligen stäng e-postklienten du importerar från innan du fortsätter.</value>
   <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4248,7 +4248,7 @@ To prevent errors, please close the email client you'll import from before conti
   <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird kommer att startas om och konton som du redan har lagt till kommer att tas bort.
+    <value>Mailbird kommer att startas om och ta bort kontot(-n) som du redan har lagt till.
 Är du säker på att du vill fortsätta?</value>
   <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
@@ -4258,15 +4258,15 @@ Are you sure you want to continue?</comment>
   <comment>Are you sure you want to cancel import?</comment>
   </data>
   <data name="Import_ImportMessage" xml:space="preserve">
-    <value>Import messages</value>
-    <comment>Import messages</comment>
+    <value>Importera meddelanden</value>
+  <comment>Import messages</comment>
   </data>
   <data name="Dialog_NoAccountPst" xml:space="preserve">
-    <value>Inga konton eller PST fil vald</value>
+    <value>Inget konto eller PST-fil vald</value>
   <comment>No account or PST file selected</comment>
   </data>
   <data name="Dialog_NoAccountPstExplanation" xml:space="preserve">
-    <value>Vänligen välj minst ett konto eller PST fil att importera.</value>
+    <value>Vänligen välj minst 1 konto eller en PST-fil att importera.</value>
   <comment>Please select at least 1 account or a PST file to import.</comment>
   </data>
   <data name="Dialog_PstLocationNotValid" xml:space="preserve">
@@ -4292,25 +4292,25 @@ Om du avbryter behåller vi redan importerat data.</value>
 Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
-    <value>Välj kontot eller PST filen att importera från.
-För att undvika fel, vänligen stäng e-postklienten du importerar ifrån innan du fortsätter.</value>
+    <value>Välj konto eller PST-fil att importera från.
+För att föhindra fel, vänligen stäng e-postklienten du importerar från innan du fortsätter.</value>
   <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
   <data name="Welcome_ImportToExistingTitle" xml:space="preserve">
-    <value>Import source</value>
-    <comment>Import source</comment>
+    <value>Importera källa</value>
+  <comment>Import source</comment>
   </data>
   <data name="Import_AccountData" xml:space="preserve">
     <value>Importerar kontoinformation</value>
   <comment>Importing account data</comment>
   </data>
   <data name="Import_Cancelled" xml:space="preserve">
-    <value>Import avbryten</value>
+    <value>Import avbruten</value>
   <comment>Import cancelled</comment>
   </data>
   <data name="Import_Error_Client_Running" xml:space="preserve">
-    <value>{0} körs. Vänligen avsluta det och prova igen</value>
+    <value>{0} körs. Vänligen stäng det och prova igen</value>
   <comment>{0} is running. Please close it an try again</comment>
   </data>
   <data name="Import_Error_General" xml:space="preserve">
@@ -4318,7 +4318,7 @@ To prevent errors, please close the email client you'll import from before conti
   <comment>There was an error while importing. Please contact Support</comment>
   </data>
   <data name="Import_Error_Invalid_Pst" xml:space="preserve">
-    <value>{0} är inte en giltig .pst fil</value>
+    <value>{0} är inte en giltig .pst-fil</value>
   <comment>{0} is not a valid pst file</comment>
   </data>
   <data name="Import_Error_Messages" xml:space="preserve">
@@ -4326,15 +4326,15 @@ To prevent errors, please close the email client you'll import from before conti
   <comment>One or more messages could not be imported</comment>
   </data>
   <data name="Import_Finished" xml:space="preserve">
-    <value>Importen slutförd</value>
+    <value>Importen slutfördes</value>
   <comment>Import finished</comment>
   </data>
   <data name="Import_Initializing" xml:space="preserve">
-    <value>Påbörjar...</value>
+    <value>Initierar...</value>
   <comment>Initializing...</comment>
   </data>
   <data name="Import_Error_Data_NotFound" xml:space="preserve">
-    <value>Kontoinformationen finns inte. Kan inte importera</value>
+    <value>Kontoinformationen existerar inte. Kan inte importera</value>
   <comment>Account Data does not exist. Cannot import</comment>
   </data>
   <data name="Dialog_ClientRunning_Message" xml:space="preserve">
@@ -4342,19 +4342,19 @@ To prevent errors, please close the email client you'll import from before conti
   <comment>One or more selected clients are still running. Please close them and try again</comment>
   </data>
   <data name="Dialog_ClientRunning_Title" xml:space="preserve">
-    <value>Vald klient körs fortfarande</value>
+    <value>Den valda klienten körs</value>
   <comment>Selected client is running</comment>
   </data>
   <data name="Import_Error_FileFormatNotValid" xml:space="preserve">
-    <value>Mailbird kan inte importera från vald fil</value>
+    <value>Mailbird kan inte importera från den valda filen</value>
   <comment>Mailbird cannot import from selected file</comment>
   </data>
   <data name="Dialog_Error_DragOperationFailed" xml:space="preserve">
-    <value>Dra&amp;släpp operationen misslyckades. Vänligen försök igen. Om felet kvarstår kontakta vår support.</value>
+    <value>Dra och släpp-operationen misslyckades, vänligen försök igen. Om felet kvarstår, kontakta vår support.</value>
   <comment>The drag operation failed, please try again. If the error persists, please contact support.</comment>
   </data>
   <data name="Dialog_Error_OperationFailed" xml:space="preserve">
-    <value>Operation misslyckades</value>
+    <value>Operationen misslyckades</value>
   <comment>Operation failed</comment>
   </data>
   <data name="Import_Folder_ImportedMessges" xml:space="preserve">
@@ -4370,19 +4370,19 @@ To prevent errors, please close the email client you'll import from before conti
   <comment>Importing from file or folder</comment>
   </data>
   <data name="Import_EmlFile" xml:space="preserve">
-    <value>Eml filer</value>
+    <value>EML-filer</value>
   <comment>Eml files</comment>
   </data>
   <data name="Import_EmlFolder" xml:space="preserve">
-    <value>Mapp med eml filer</value>
+    <value>Mapp med EML-filer</value>
   <comment>Folder with eml files</comment>
   </data>
   <data name="Import_MsfFile" xml:space="preserve">
-    <value>Msf fil</value>
+    <value>MSF-fil</value>
   <comment>Msf file</comment>
   </data>
   <data name="Import_PstFile" xml:space="preserve">
-    <value>Pst fil</value>
+    <value>PST-fil</value>
   <comment>Pst file</comment>
   </data>
   <data name="Dialog_Back" xml:space="preserve">
@@ -4407,7 +4407,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
   <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>Ångra sändning period</value>
+    <value>Period för ångra sändning</value>
   <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
@@ -4415,24 +4415,24 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
   <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Tiden som sändning kommer att fördröjas. Det ger dig möjlighet att ångra.</value>
+    <value>Tiden som sändningen kommer att fördröjas. Det ger dig möjlighet att ångra.</value>
   <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Dina val kommer att överskrida kontogränsen för Lite versionen. Om du fortsätter kommer vissa av kontona vara inaktiverade nästa gång du startar Mailbird. Uppgradera till Pro för att kunna använda alla dina konton.</value>
+    <value>Dina val kommer att överskrida kontogränsen för Lite-versionen. Om du fortsätter kommer vissa av kontona vara inaktiverade nästa gång du startar Mailbird. Uppgradera till Pro för att aktivera alla dina konton.</value>
   <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>Detta konto kan inte importeras då det redan finns i Mailbird</value>
+    <value>Det här kontot kan inte importeras då det redan finns i Mailbird</value>
   <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>Autentiseringstyp att använda. Google OAuth 2.0 fungerar endast med Google konton.</value>
+    <value>Autentiseringstyp att använda. Google OAuth 2.0 fungerar endast med Google-konton.</value>
   <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
-    <value>Authentication</value>
-    <comment>Authentication</comment>
+    <value>Autentisering</value>
+  <comment>Authentication</comment>
   </data>
   <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
     <value>Användarnamn och lösenord</value>
@@ -4459,8 +4459,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
   <comment>Attachments</comment>
   </data>
   <data name="Print_Message" xml:space="preserve">
-    <value>Message {0} of {1}</value>
-    <comment>Will be converted to:
+    <value>Meddelande {0} av {1}</value>
+  <comment>Will be converted to:
 Message 1 to 2</comment>
   </data>
   <data name="Print_PrintNow" xml:space="preserve">
@@ -4476,7 +4476,7 @@ Message 1 to 2</comment>
   <comment>Custom...</comment>
   </data>
   <data name="Notification_SoundFailedToPlay" xml:space="preserve">
-    <value>Kunde inte spela nytt meddelande ljud</value>
+    <value>Misslyckades med att spela nytt meddelandeljud</value>
   <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
@@ -4494,7 +4494,7 @@ Message 1 to 2</comment>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
     <value>Ett fel uppstod under auktoriseringen av Mailbird till e-postkontot.
 
-Vänligen försök igen eller byt till användarnamn/lösenord autentisering.</value>
+Vänligen försök igen eller byt till användarnamn- och lösenordautentisering.</value>
   <comment>An error occured authorizing Mailbird to access the email account.
 
 Please try again or switch to username and password authentication.</comment>
@@ -4514,7 +4514,7 @@ Please try again, or contact support if the issue persists.</comment>
   <data name="Dialog_OAuth2AuthorizationError_AccountChanged" xml:space="preserve">
     <value>Kontot för auktoriseringen är inkorrekt.
 
-Vänligen försök igen och logga in med korrekt konto.</value>
+Vänligen försök igen och logga in med korrekt konto innan du beviljar åtkomst.</value>
   <comment>The account used to authorize the access is incorrect.
 
 Please try again and log in with the correct account before granting access.</comment>
@@ -4530,7 +4530,7 @@ Please try again and log in with the correct account before granting access.</co
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
     <value>Ändringarna du har gjort skulle leda till att kontot byts. Det här stöds inte då det skulle leda till oväntade fel.
 
-För att få åtkomst till en annan e-postlåda, vänligen lägg till det som ett nytt konto i Mailbird.</value>
+För att få åtkomst till ett annat e-postkonto, vänligen lägg till det som ett nytt konto i Mailbird.</value>
   <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
 
 To access another mailbox, please add it as a new account in Mailbird.</comment>
@@ -4544,8 +4544,8 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
   <comment>Electronic</comment>
   </data>
   <data name="Sound_None" xml:space="preserve">
-    <value>None</value>
-    <comment>None</comment>
+    <value>Ingen</value>
+  <comment>None</comment>
   </data>
   <data name="Invite_SendAllExplanation" xml:space="preserve">
     <value>Är du säker på att du vill skicka inbjudan till alla dina kontakter?</value>
@@ -4560,7 +4560,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
   <comment>Invite my main contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Förtjäna obegränsat Mailbird Pro gratis. Dina kontakter kommer att få inbjudan till att skaffa Mailbird.</value>
+    <value>Tjäna obegränsat Mailbird Pro gratis. Dina kontakter kommer att få inbjudan till att skaffa Mailbird.</value>
   <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Quoted_TextHidden" xml:space="preserve">
@@ -4568,11 +4568,11 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
   <comment>[Quoted text hidden]</comment>
   </data>
   <data name="Notification_FailedToSetSound" xml:space="preserve">
-    <value>Misslyckades med att ändra nytt meddelande ljud</value>
+    <value>Misslyckades med att ändra nytt meddelandeljud</value>
   <comment>Failed to set new message sound</comment>
   </data>
   <data name="Notification_FailedToSetSoundExplanation" xml:space="preserve">
-    <value>Vänligen se till att filen inte används av ett annat program och försök igen.</value>
+    <value>Vänligen se till att filen inte används av en annan process och försök igen.</value>
   <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_FileSize" xml:space="preserve">
@@ -4590,7 +4590,7 @@ Please choose another file.</comment>
   <comment>Too many recipients</comment>
   </data>
   <data name="Invite_LimitReachedExplanation" xml:space="preserve">
-    <value>Maximum antal mottagare är {0}.
+    <value>Det maximala antalet mottagare är {0}.
 Vänligen ta bort några mottagare och försök igen.</value>
   <comment>The maximum number of recipients is {0}.
 Please remove some and try again.</comment>
@@ -4600,7 +4600,7 @@ Please remove some and try again.</comment>
   <comment>Show Inbox Zero</comment>
   </data>
   <data name="Options_ShowInboxZeroSharing" xml:space="preserve">
-    <value>Visa dela knappar</value>
+    <value>Visa delaknappar</value>
   <comment>Show share buttons</comment>
   </data>
   <data name="Timeline_ExpireMonths" xml:space="preserve">
@@ -4621,7 +4621,7 @@ Please remove some and try again.</comment>
   <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
-    <value>Skaffa Mailbird Pro med flera fantastiska funktioner för att öka din produktivitet, inklusive fördröjning, förhandsvisning, obegränsat med konton m.m.</value>
+    <value>Skaffa Mailbird Pro med flera fantastiska funktioner för att öka din produktivitet, inklusive fördröjning, snabb förhandsvisning, obegränsat med konton och mycket mer.</value>
   <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
   </data>
   <data name="Ads_Invite" xml:space="preserve">
@@ -4633,7 +4633,7 @@ Please remove some and try again.</comment>
   <comment>Enjoy Mailbird Pro without needing to pay</comment>
   </data>
   <data name="Ads_ReferExplanation" xml:space="preserve">
-    <value>Bjud in vänner och få en månad gratis Mailbird Pro för varje vän som installerar Mailbird. Inga gränser.</value>
+    <value>Bjud in vänner och få 1 månad gratis Mailbird Pro för varje vän som installerar Mailbird. Inga gränser.</value>
   <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
   </data>
   <data name="Menu_Settings" xml:space="preserve">
@@ -4649,7 +4649,7 @@ Please remove some and try again.</comment>
   <comment>Preparing content and loading images...</comment>
   </data>
   <data name="Print_NotLoaded" xml:space="preserve">
-    <value>[Innehåll ej laddat]</value>
+    <value>[Innehåll inte laddat]</value>
   <comment>[Content not loaded]</comment>
   </data>
   <data name="License_NonPurchaseValidUntil" xml:space="preserve">
@@ -4690,7 +4690,7 @@ the final result will be: Search Google for "query"</comment>
   <comment>Search Folders</comment>
   </data>
   <data name="Shortcut_SearchFoldersExplanation" xml:space="preserve">
-    <value>Placerar markören i sök i mappar rutan.</value>
+    <value>Placerar markören i "sök i mappar"-rutan.</value>
   <comment>Puts your cursor in the search folders box.</comment>
   </data>
   <data name="Invite_AcceptedProgress" xml:space="preserve">
