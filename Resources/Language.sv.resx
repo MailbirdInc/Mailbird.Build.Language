@@ -1877,7 +1877,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Flyttar fokus till nästa meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
+    <value>Flyttar muspekaren till nästa meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
   <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
@@ -1909,7 +1909,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Flyttar fokus till föregående meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
+    <value>Flyttar muspekaren till föregående meddelande. Tryck på &lt;Enter&gt; för att öppna eller stänga ett meddelande. (Endast applicerbar i 'Konversationsvy')</value>
   <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -3229,7 +3229,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Home Fax</comment>
   </data>
   <data name="App_Contacts_PhoneType_Main" xml:space="preserve">
-    <value>Hem</value>
+    <value>Huvud</value>
   <comment>Main</comment>
   </data>
   <data name="App_Contacts_PhoneType_Mobile" xml:space="preserve">
@@ -4580,7 +4580,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
   <comment>The file is too large</comment>
   </data>
   <data name="Notification_FileSizeExplanation" xml:space="preserve">
-    <value>Största supporterat ljudfilstorlek är {0}.
+    <value>Den maximala filstorleken för ljudfiler är {0}.
 Vänligen välj en mindre fil.</value>
   <comment>The maximum sound file size is {0}.
 Please choose another file.</comment>
@@ -4690,7 +4690,7 @@ the final result will be: Search Google for "query"</comment>
   <comment>Search Folders</comment>
   </data>
   <data name="Shortcut_SearchFoldersExplanation" xml:space="preserve">
-    <value>Placerar markören i "sök i mappar"-rutan.</value>
+    <value>Placerar muspekaren i "Sök i mappar"-rutan.</value>
   <comment>Puts your cursor in the search folders box.</comment>
   </data>
   <data name="Invite_AcceptedProgress" xml:space="preserve">
@@ -4710,7 +4710,7 @@ the final result will be: Search Google for "query"</comment>
   <comment>Speed read</comment>
   </data>
   <data name="Shortcut_SpeedReadExplanation" xml:space="preserve">
-    <value>Läs markerat e-post snabbare med snabbläsningsläge</value>
+    <value>Läser markerat e-postmeddelande snabbare med snabbläsningsläge</value>
   <comment>Read the selected email more quickly in speed read mode</comment>
   </data>
   <data name="SpeedRead_Finish" xml:space="preserve">
@@ -4742,19 +4742,19 @@ the final result will be: Search Google for "query"</comment>
   <comment>Show welcome message</comment>
   </data>
   <data name="Notification_FailedToLoadBackground" xml:space="preserve">
-    <value>Kunde inte ladda bakgrundsbild</value>
+    <value>Misslyckades med att ladda bakgrundsbild</value>
   <comment>Failed to load background image</comment>
   </data>
   <data name="Notification_FailedToSetBackground" xml:space="preserve">
-    <value>Kunde inte sätta bakgrundsbild</value>
+    <value>Misslyckades med att ange bakgrundsbild</value>
   <comment>Failed to set background image</comment>
   </data>
   <data name="Notification_FailedToSetBackgroundExplanation" xml:space="preserve">
-    <value>Vänligen se till att filen inte används av ett annat program och försök igen.</value>
+    <value>Vänligen se till att filen inte används av en annan process och försök igen.</value>
   <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_ImageFileSizeExplanation" xml:space="preserve">
-    <value>Maximal filstorlek för bilder är {0}.
+    <value>Den maximala filstorleken för bilder är {0}.
 Vänligen välj en mindre fil.</value>
   <comment>The maximum image file size is {0}.
 Please choose another file.</comment>
@@ -4768,12 +4768,12 @@ Please choose another file.</comment>
   <comment>Upgrade now to enable custom covers.</comment>
   </data>
   <data name="Tips_Failed" xml:space="preserve">
-    <value>Kunde inte ladda tips, vänligen kontrollera din internetanslutning.</value>
+    <value>Kunde inte ladda tips, vänligen kontrollera din Internetanslutning.</value>
   <comment>Tip failed to load, please check your internet connection.</comment>
   </data>
   <data name="Tips_ViewInBrowser" xml:space="preserve">
-    <value>View tip in browser</value>
-    <comment>View tip in browser</comment>
+    <value>Visa tips i webbläsaren</value>
+  <comment>View tip in browser</comment>
   </data>
   <data name="Menu_Trial2" xml:space="preserve">
     <value>Aktivera testperiod av Pro</value>
@@ -4784,13 +4784,13 @@ Please choose another file.</comment>
   <comment>Your Pro Trial Has Ended</comment>
   </data>
   <data name="Trial_StartText2" xml:space="preserve">
-    <value>För de kommande dagarna kommer du får tillgång till alla Mailbird Pro funktioner.
-När din testperiod tar slut kommer ditt konto att automatiskt konverteras till Lite (gratis) versionen.</value>
+    <value>För de kommande dagarna kommer du får tillgång till alla Mailbird Pro-funktioner.
+När din testperiod tar slut kommer ditt konto att automatiskt konverteras till Lite (gratis)-versionen.</value>
   <comment>For the next few days, you will get unlimited access to all Mailbird Pro features. 
 Once your trial is over your account will revert to the Lite (free) version.</comment>
   </data>
   <data name="Trial_StartTitle2" xml:space="preserve">
-    <value>Din gratis Pro testperiod startar nu</value>
+    <value>Din gratis Pro-testperiod startar nu</value>
   <comment>Your Free Pro Trial Starts Now</comment>
   </data>
   <data name="Notification_ErrorLoadingBackgroundExplanation" xml:space="preserve">
@@ -4808,8 +4808,8 @@ Please select another image to use as a background.</comment>
   <comment>Remove</comment>
   </data>
   <data name="App_Contacts_FieldType_Home" xml:space="preserve">
-    <value>Home</value>
-    <comment>Home</comment>
+    <value>Hem</value>
+  <comment>Home</comment>
   </data>
   <data name="App_Contacts_FieldType_Other" xml:space="preserve">
     <value>Annan</value>
@@ -4832,8 +4832,8 @@ Please select another image to use as a background.</comment>
   <comment>Assistant</comment>
   </data>
   <data name="App_Contacts_FieldType_Blog" xml:space="preserve">
-    <value>Blog</value>
-    <comment>Blog</comment>
+    <value>Blogg</value>
+  <comment>Blog</comment>
   </data>
   <data name="App_Contacts_FieldType_Brother" xml:space="preserve">
     <value>Bror</value>
@@ -4856,8 +4856,8 @@ Please select another image to use as a background.</comment>
   <comment>Friend</comment>
   </data>
   <data name="App_Contacts_FieldType_Manager" xml:space="preserve">
-    <value>Manager</value>
-    <comment>Manager</comment>
+    <value>Chef</value>
+  <comment>Manager</comment>
   </data>
   <data name="App_Contacts_FieldType_Mother" xml:space="preserve">
     <value>Mamma</value>
@@ -4896,7 +4896,7 @@ Please select another image to use as a background.</comment>
   <comment>Retrieve License Key</comment>
   </data>
   <data name="App_Chrome_Description" xml:space="preserve">
-    <value>Surfa på internet från Mailbird.</value>
+    <value>Surfa på Internet från Mailbird.</value>
   <comment>Navigate the web from Mailbird.</comment>
   </data>
   <data name="Trial_AlreadyHaveLicense" xml:space="preserve">
@@ -4904,36 +4904,36 @@ Please select another image to use as a background.</comment>
   <comment>I already have a license key</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
-    <value>Mörk tema</value>
+    <value>Mörkt tema</value>
   <comment>Dark theme</comment>
   </data>
   <data name="Theme_Light" xml:space="preserve">
-    <value>Ljus tema</value>
+    <value>Ljust tema</value>
   <comment>Light theme</comment>
   </data>
   <data name="UpgradeToPro_Popular" xml:space="preserve">
-    <value>POPULAR</value>
-    <comment>POPULAR</comment>
+    <value>POPULÄR</value>
+  <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Uppgradera till Mailbird PRO nu</value>
+    <value>Uppgradera till Mailbird Pro nu</value>
   <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Dialog_UninstallNoButton" xml:space="preserve">
-    <value>Ta bort lokalt data</value>
+    <value>Ta bort lokal data</value>
   <comment>Remove local data</comment>
   </data>
   <data name="Dialog_UninstallYesButton" xml:space="preserve">
-    <value>Behåll lokalt data</value>
+    <value>Behåll lokal data</value>
   <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Bjud in dina vänner, det är enkelt. När {0} eller flera av dem installerar Mailbird via din inbjudan får du Mailbird Pro livet ut [bold]GRATIS[/bold].</value>
+    <value>Bjud in dina vänner, det är enkelt. När {0} eller flera av dem installerar Mailbird via din inbjudan får du Mailbird Pro Lifetime [bold]GRATIS[/bold].</value>
   <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
     <value>Skaffa Mailbird Pro
-Livet ut GRATIS</value>
+Lifetime GRATIS</value>
   <comment>Get Mailbird Pro
 Lifetime FREE</comment>
   </data>
@@ -4946,7 +4946,7 @@ Lifetime FREE</comment>
   <comment>Accepted!</comment>
   </data>
   <data name="InviteV2_AddnewContact" xml:space="preserve">
-    <value>"{0}" kunde inte hittas, tryck "Enter" för att lägga till i listan.</value>
+    <value>"{0}" hittades inte, tryck "Enter" för att lägga till i listan.</value>
   <comment>"{0}" is not found, press "Enter" to add to list.</comment>
   </data>
   <data name="InviteV2_Invite" xml:space="preserve">
@@ -4966,7 +4966,7 @@ Lifetime FREE</comment>
   <comment>No contacts found.</comment>
   </data>
   <data name="InviteV2_NoSentInvitations" xml:space="preserve">
-    <value>Du har inte skickat några inbjudan.</value>
+    <value>Du har inte skickat några inbjudningar.</value>
   <comment>You haven't sent any invitations.</comment>
   </data>
   <data name="InviteV2_AcceptedCounter" xml:space="preserve">
@@ -4978,11 +4978,11 @@ Lifetime FREE</comment>
   <comment>Accepted</comment>
   </data>
   <data name="InviteV2_AcceptedProgress" xml:space="preserve">
-    <value>{0} av {1} inbjudan accepterade!</value>
+    <value>{0} av {1} inbjudningar accepterade!</value>
   <comment>{0} of {1} invites accepted!</comment>
   </data>
   <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
-    <value>Du är redan ett e-postrockstjärna med Mailbird Pro livet ut! När dina vänner installerar Mailbird via din inbjudan får du 1 månad av gratis Mailbird prioritetssupport!</value>
+    <value>Du är redan ett e-postrockstjärna med Mailbird Pro Lifetime! När dina vänner installerar Mailbird via din inbjudan får du 1 månad av gratis prioritetssupport!</value>
   <comment>Explanation in referral sidebar</comment>
   </data>
   <data name="InviteV2_InviteFriends" xml:space="preserve">
@@ -4994,7 +4994,7 @@ Lifetime FREE</comment>
   <comment>Sent ({0})</comment>
   </data>
   <data name="InviteV2_TitleBlockLifetime" xml:space="preserve">
-    <value>Bjud in dina vänner och få Prioritetssupport</value>
+    <value>Bjud in dina vänner och få prioritetssupport</value>
   <comment>Title for the referral sidebar</comment>
   </data>
   <data name="WebBrowser_Bookmark" xml:space="preserve">
@@ -5002,11 +5002,11 @@ Lifetime FREE</comment>
   <comment>Bookmark</comment>
   </data>
   <data name="App_Chrome_BookmarkLimit" xml:space="preserve">
-    <value>Du kan bokmärka upp till {0} webbsidor. Vänligen ta bort ett bokmärke och försök igen.</value>
+    <value>Du kan bokmärka upp till {0} hemsidor. Vänligen ta bort ett bokmärke och försök igen.</value>
   <comment>You can bookmark up to {0} websites. Please remove existing bookmarks and try again.</comment>
   </data>
   <data name="App_Chrome_BookmarkLimit_Title" xml:space="preserve">
-    <value>Bokmärkesgräns översriden</value>
+    <value>Bokmärkesgräns överskriden</value>
   <comment>Bookmark limit exceeded</comment>
   </data>
   <data name="Welcome_CloseDescription" xml:space="preserve">
@@ -5022,11 +5022,11 @@ Lifetime FREE</comment>
 Are you sure you want to close the window?</comment>
   </data>
   <data name="UpdatePreference_CheckWithAutoDownload" xml:space="preserve">
-    <value>Ladda ner uppdateringar men låt mig välja om jag vill installera</value>
+    <value>Ladda ner uppdateringar men låt mig välja om jag vill installera dem</value>
   <comment>Download updates but let me choose whether to install them</comment>
   </data>
   <data name="UpdatePreference_CheckWithoutAutoDownload" xml:space="preserve">
-    <value>Leta efter uppdateringar, men låte mig välja ifall jag vill ladda ner och installera</value>
+    <value>Leta efter uppdateringar men låt mig välja om jag vill ladda ner och installera</value>
   <comment>Check for updates but let me choose whether to download and install them</comment>
   </data>
   <data name="UpdatePreference_NeverCheck" xml:space="preserve">
