@@ -1285,8 +1285,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Loading</comment>
   </data>
   <data name="Message_On" xml:space="preserve">
-    <value>On</value>
-    <comment>On</comment>
+    <value>Den</value>
+  <comment>On</comment>
   </data>
   <data name="Message_OpenLink" xml:space="preserve">
     <value>Klicka för att öppna i nytt fönster eller flik</value>
@@ -2017,11 +2017,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Bring Mailbird to foreground.</comment>
   </data>
   <data name="Shortcut_Star" xml:space="preserve">
-    <value>Stjärnmarkera ett meddelande eller konversation</value>
+    <value>Stjärnmarkera ett meddelande eller en konversation</value>
   <comment>Star a message or conversation</comment>
   </data>
   <data name="Shortcut_StarExplanation" xml:space="preserve">
-    <value>Markera/Avmarkera ett meddelande eller en konversation som favorit. Att markera ett meddelande eller konversation gör det lättare att hitta dessa.</value>
+    <value>Lägger till eller tar bort stjärnmarkeringen på ett meddelande eller en konversation. Att stjärnmarkera ett meddelande eller en konversation gör det lättare att hitta dessa.</value>
   <comment>Adds or removes a star to a message or conversation. Stars allow you to give a message or conversation a special status.</comment>
   </data>
   <data name="Shortcut_Switch" xml:space="preserve">
@@ -2029,7 +2029,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Switch account</comment>
   </data>
   <data name="Shortcut_SwitchExplanation" xml:space="preserve">
-    <value>Växla mellan konton</value>
+    <value>Växlar mellan konton</value>
   <comment>Switch between accounts</comment>
   </data>
   <data name="Shortcut_SwitchFolder" xml:space="preserve">
@@ -2037,7 +2037,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Switch folder</comment>
   </data>
   <data name="Shortcut_SwitchFolderExplanation" xml:space="preserve">
-    <value>Växla mellan mappar</value>
+    <value>Växlar mellan mappar</value>
   <comment>Switch between folders</comment>
   </data>
   <data name="Shortcut_Undo" xml:space="preserve">
@@ -2045,11 +2045,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Undo</comment>
   </data>
   <data name="Shortcut_UndoExplanation" xml:space="preserve">
-    <value>Ångrar senaste åtgärd om möjligt. (fungerar bara för åtgärder som har en 'ångra' länk).</value>
+    <value>Ångrar senaste åtgärd om möjligt (fungerar bara för åtgärder som har en 'ångra'-länk).</value>
   <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
-    <value>Markerar meddelandet som oläst så du kan återgå till det senare.</value>
+    <value>Markerar meddelandet som 'oläst' så du kan återgå till det senare.</value>
   <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
@@ -2061,11 +2061,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Updates your current conversation when there are new messages.</comment>
   </data>
   <data name="Shortcut_VerticalScroll" xml:space="preserve">
-    <value>Vertical Scroll</value>
-    <comment>Vertical Scroll</comment>
+    <value>Vertikal rullning</value>
+  <comment>Vertical Scroll</comment>
   </data>
   <data name="Shortcut_VerticalScrollExplanation" xml:space="preserve">
-    <value>Navigera upp/ner i den aktuella listan av konversationer eller meddelanden.</value>
+    <value>Navigerar upp eller ner i den aktuella listan av konversationer eller meddelanden.</value>
   <comment>Navigate up/down in the focused list of conversations or messages.</comment>
   </data>
   <data name="WebBrowser_Back" xml:space="preserve">
@@ -2085,9 +2085,9 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>Google stödjer inte 2-steg verifikation när du använder användarnamn/lösenord autentisering.
+    <value>Google stödjer inte tvåstegsverifiering när användarnamn- och lösenordsautentisering används.
 
-Överväg att använda OAuth 2.0 autentisering i Mailbird istället. </value>
+Överväg att konfigurera kontot i Mailbird att använda OAuth 2.0-autentisering istället. </value>
   <comment>Google does not support 2-step verification when using username and password authentication.
 
 Consider configuring the account in Mailbird to use OAuth 2.0 authentication instead.</comment>
@@ -2097,11 +2097,11 @@ Consider configuring the account in Mailbird to use OAuth 2.0 authentication ins
   <comment>Connections:</comment>
   </data>
   <data name="Welcome_DetectingSettingsSubTitle" xml:space="preserve">
-    <value>Vänligen vänta medan vi detekterar serverinställningar.</value>
+    <value>Vänligen vänta medan vi letar efter serverinställningar.</value>
   <comment>Please wait while we search for server settings.</comment>
   </data>
   <data name="Welcome_DetectingSettingsTitle" xml:space="preserve">
-    <value>Detekterar inställningar...</value>
+    <value>Detekterar inställningar..</value>
   <comment>Detecting settings..</comment>
   </data>
   <data name="Welcome_EditAccountTitle" xml:space="preserve">
@@ -2131,7 +2131,7 @@ We will never post anything to Facebook.</comment>
   <comment>Incoming server</comment>
   </data>
   <data name="Welcome_LearnMore" xml:space="preserve">
-    <value>Ytterligare information</value>
+    <value>Läs mer</value>
   <comment>Learn more</comment>
   </data>
   <data name="Welcome_OutgoingServerLabel" xml:space="preserve">
@@ -2147,15 +2147,15 @@ We will never post anything to Facebook.</comment>
   <comment>Requires authentication</comment>
   </data>
   <data name="Welcome_ServerConnCheck1" xml:space="preserve">
-    <value>Att serverinställningarna är korrekta.</value>
+    <value>Serverinställningarna är korrekta.</value>
   <comment>Server settings are correct.</comment>
   </data>
   <data name="Welcome_ServerConnCheck2" xml:space="preserve">
-    <value>Att ingen brandvägg blockerar Mailbird.</value>
+    <value>Ingen brandvägg blockerar Mailbird.</value>
   <comment>No firewall is blocking Mailbird.</comment>
   </data>
   <data name="Welcome_ServerConnCheck3" xml:space="preserve">
-    <value>Att proxyinställningarna är korrekta under Windows Interner Inställningar.</value>
+    <value>Proxyinställningarna är korrekta under Internetalternativ.</value>
   <comment>Proxy settings are correct in Windows Internet Options.</comment>
   </data>
   <data name="Welcome_ServerConnFailed" xml:space="preserve">
