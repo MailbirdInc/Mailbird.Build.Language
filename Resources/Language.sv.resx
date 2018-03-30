@@ -2219,7 +2219,7 @@ We will never post anything to Facebook.</comment>
   <comment>Use mail editor</comment>
   </data>
   <data name="Error_DownloadingMessage" xml:space="preserve">
-    <value>Ett fel uppstod när meddelandet skulle laddas ner. Prova igen lite senare.</value>
+    <value>Ett fel uppstod när meddelandet skulle laddas ner. Försök igen lite senare.</value>
   <comment>An error occured downloading the message source. Please try again later.</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
@@ -2557,7 +2557,7 @@ and get Mailbird Lifetime for free!</comment>
   <data name="Welcome_FailedProxyAuthentication" xml:space="preserve">
     <value>Autentisering med proxyservern misslyckades.
 
-Vänligen stäng detta fönster för att kontrollera dina autentiseringsuppgifter och prova igen.</value>
+Vänligen stäng detta fönster för att kontrollera dina autentiseringsuppgifter och försök igen.</value>
   <comment>Authentication with the proxy server failed.
 
 Please exit out of this window to check the credentials and try again.</comment>
@@ -3035,7 +3035,7 @@ Please contact support via our website, so we can help recover your data and get
   <data name="Notification_PossibleIdentityError" xml:space="preserve">
     <value>Det här orsakas oftast av felaktigt konfigurerad identitet.
 
-Vänligen kontrollera identitetsinställningarna och prova igen.</value>
+Vänligen kontrollera identitetsinställningarna och försök igen.</value>
   <comment>This is commonly caused by an incorrectly set up identity.
 
 Please check the identity setup and try again.</comment>
@@ -4310,7 +4310,7 @@ To prevent errors, please close the email client you'll import from before conti
   <comment>Import cancelled</comment>
   </data>
   <data name="Import_Error_Client_Running" xml:space="preserve">
-    <value>{0} körs. Vänligen stäng det och prova igen</value>
+    <value>{0} körs. Vänligen stäng det och försök igen</value>
   <comment>{0} is running. Please close it an try again</comment>
   </data>
   <data name="Import_Error_General" xml:space="preserve">
@@ -4338,7 +4338,7 @@ To prevent errors, please close the email client you'll import from before conti
   <comment>Account Data does not exist. Cannot import</comment>
   </data>
   <data name="Dialog_ClientRunning_Message" xml:space="preserve">
-    <value>En eller flera valda klienter körs fortfarande. Vänligen stäng dem och prova igen</value>
+    <value>En eller flera valda klienter körs fortfarande. Vänligen stäng dem och försök igen</value>
   <comment>One or more selected clients are still running. Please close them and try again</comment>
   </data>
   <data name="Dialog_ClientRunning_Title" xml:space="preserve">
@@ -6264,13 +6264,13 @@ Prova den nya Kontakter-appen nu!</value>
   <comment>Label for button to restart Mailbird.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyHeader" xml:space="preserve">
-    <value>En uppdatering är klar för dig</value>
+    <value>En uppdatering är redo för dig</value>
   <comment>Header of notification informing the user that an update is ready to be installed.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyMessage" xml:space="preserve">
-    <value>Senaste versionen av Mailbird är klar att installeras.
+    <value>Senaste versionen av Mailbird är redo att installeras.
 
-Starta om nu för att få de senaste förbättringarna och buggfixen - Det tar bara ett ögonblick.</value>
+Starta om nu för att få de senaste förbättringarna och korrigeringarna - det tar bara ett ögonblick.</value>
   <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
   </data>
 <data name="Notification_SilentUpdateAppliedHeader" xml:space="preserve">
@@ -6310,41 +6310,41 @@ Starta om nu för att få de senaste förbättringarna och buggfixen - Det tar b
   <comment>Label of the domain field in the user account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Visa läspanel</value>
+    <value>Visa läspanelen</value>
   <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
-    <value>Server URL</value>
-    <comment>Label of the Exchange server field in the user account setup window</comment>
+    <value>Serveradress</value>
+  <comment>Label of the Exchange server field in the user account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Helmörk tema</value>
+    <value>Helmörkt tema</value>
   <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
-    <value>Exchange Server Authentication</value>
-    <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
+    <value>Exchange Server-autentisering</value>
+  <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>Exchange Server versionen som du försöker ansluta till stöds inte. Mailbird har stöd för Exchange Server 2010 och nyare. Vänligen kontakta supporten för ytterligare information.</value>
+    <value>Exchange Server-versionen som du försöker ansluta till stöds inte. Mailbird har stöd för Exchange Server 2010 och nyare. Vänligen kontakta supporten för ytterligare information.</value>
   <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Ditt Exchange konto verkar vara låst. Vänligen kontakta din serveradministratör för att kunna använd detta konto.</value>
+    <value>Ditt Exchange-konto verkar vara låst. Vänligen kontakta din serveradministratör för att kunna använda detta konto.</value>
   <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>Den automatiska Exchange konfigurationstjänsten kan inte lokaliseras. Kontrollera att din e-postadress och lösenord är korrekta och prova igen, eller kontakta din serveradministratör för att verifiera att den automatiska konfigurationstjänsten är påslagen.</value>
+    <value>Den automatiska Exchange Server-konfigurationstjänsten kan inte lokaliseras. Kontrollera att din e-postadress och lösenord är korrekta och prova igen, eller kontakta din serveradministratör för att verifiera att den automatiska konfigurationstjänsten är påslagen.</value>
   <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>Detta är ett Microsoft Exchange konto</value>
+    <value>Detta är ett Microsoft Exchange-konto</value>
   <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
     <value>Ett fel uppstod när filen skulle bifogas.
 
-Det här orsakas oftast av antivirusprogrammet. Prova tillfälligt stänga av antivirusprogrammet och prova igen.
+Det här orsakas oftast av antivirusprogrammet. Försök att inaktivera antivirusprogrammet tillfälligt och försök igen.
 
 Om felet kvarstår, vänligen kontakta vår support.</value>
   <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
