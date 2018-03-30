@@ -1673,8 +1673,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>View license agreement</comment>
   </data>
   <data name="Options_Zoom" xml:space="preserve">
-    <value>Zoom by 125%</value>
-    <comment>Zoom by 125%</comment>
+    <value>Zooma med 125 %</value>
+  <comment>Zoom by 125%</comment>
   </data>
   <data name="Option_Invalid" xml:space="preserve">
     <value>Ogiltig:</value>
@@ -6334,7 +6334,7 @@ Starta om nu för att få de senaste förbättringarna och korrigeringarna - det
   <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>Den automatiska Exchange Server-konfigurationstjänsten kan inte lokaliseras. Kontrollera att din e-postadress och lösenord är korrekta och prova igen, eller kontakta din serveradministratör för att verifiera att den automatiska konfigurationstjänsten är påslagen.</value>
+    <value>Den automatiska Exchange Server-konfigurationstjänsten kan inte lokaliseras. Kontrollera att din e-postadress och lösenord är korrekta och försök igen, eller kontakta din serveradministratör för att verifiera att den automatiska konfigurationstjänsten är påslagen.</value>
   <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
@@ -6360,7 +6360,7 @@ Vänligen kontakta vår support för information om hur du kan åtgärda detta.<
   <comment>Body of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
-    <value>Lämna tomt för att Mailbird ska automatiskt detektera din Microsoft Exchange Server URL</value>
+    <value>Lämna tomt för att Mailbird ska automatiskt detektera din Microsoft Exchange Server-adress</value>
   <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
   </data>
   <data name="NewMessage_NewMessagePlural" xml:space="preserve">
@@ -6368,15 +6368,15 @@ Vänligen kontakta vår support för information om hur du kan åtgärda detta.<
   <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
   </data>
 <data name="Options_ScaleApplication" xml:space="preserve">
-    <value>Skalningsnivå</value>
+    <value>Applikationsskalningsnivå</value>
   <comment>Header for option to change the UI scaling</comment>
   </data>
   <data name="Options_ScaleInfo" xml:space="preserve">
-    <value>Den nya skalningsnivån kommer att träda ikraft nästa gång detta fönster öppnas.</value>
+    <value>Den nya skalningsnivån kommer att träda i kraft nästa gång detta fönster öppnas.</value>
   <comment>Info wdhen scale is changed in Settings window</comment>
   </data>
   <data name="Options_ScaleOthers" xml:space="preserve">
-    <value>Egen skalningsnivå</value>
+    <value>Andra skalningsnivåer</value>
   <comment>Header for other options to scale the UI</comment>
   </data>
   <data name="Options_ScaleOthersExplanation" xml:space="preserve">
@@ -6388,15 +6388,15 @@ Vänligen kontakta vår support för information om hur du kan åtgärda detta.<
   <comment>Tooltip text for button to reset the scaling level, (Ctrl+0) doesn't need to be translated</comment>
   </data>
 <data name="MailEditor_CcBcc" xml:space="preserve">
-    <value>Cc Bcc</value>
-    <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
+    <value>Kopia, Hemlig kopia</value>
+  <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
   </data>
   <data name="MailEditor_CollapseCcBcc" xml:space="preserve">
-    <value>Göm Cc- och Bcc-fälten</value>
+    <value>Göm Kopia- och Hemlig kopia-fälten</value>
   <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
   </data>
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
-    <value>Visa Cc- och Bcc-fälten</value>
+    <value>Visa Kopia- och Hemlig kopia-fälten</value>
   <comment>Tooltip for button to expand Cc and Bcc fields</comment>
   </data>
 </root>
