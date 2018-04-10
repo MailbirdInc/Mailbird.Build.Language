@@ -632,8 +632,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
-    <value>Wstaw odnośnik</value>
-    <comment>Insert Link</comment>
+    <value>Add link</value>
+  <comment>Insert Link</comment>
   </data>
   <data name="Identity_Account" xml:space="preserve">
     <value>Konto:</value>
@@ -2345,8 +2345,8 @@ Path: {0}</comment>
     <comment>Increase size</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertHyperlink" xml:space="preserve">
-    <value>Wstaw odnośnik</value>
-    <comment>Insert hyperlink</comment>
+    <value>Add link</value>
+  <comment>Insert hyperlink</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
     <value>Wstaw obraz</value>
@@ -3435,10 +3435,6 @@ Here are a couple of links to help produce vCard files from various services:</c
     <value>Dostępne są nowe wskazówki do Mailbirda</value>
     <comment>New Mailbird tips are available</comment>
   </data>
-  <data name="Tips_New" xml:space="preserve">
-    <value>Nowa wskazówka</value>
-    <comment>New tip</comment>
-  </data>
   <data name="MailViewer_LoadingMessage" xml:space="preserve">
     <value>Wczytywanie wiadomości...</value>
     <comment>Loading message...</comment>
@@ -4051,12 +4047,12 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
-    <value>Wstaw odnośnik</value>
-    <comment>Insert link</comment>
+    <value>Add link</value>
+  <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
-    <value>Otwiera okno odnośnika podczas tworzenia wiadomości lub edycji podpisu</value>
-    <comment>Opens insert link window while you are composing email or editing signature</comment>
+    <value>Opens add link window while you are composing email or editing signature</value>
+  <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
     <value>Opublikuj na Facebooku</value>
@@ -6447,5 +6443,17 @@ Skontaktuj się z supportem, by uzyskać informacje na temat możliwości rozwi�
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
     <value>Pokaż pola DW UDW</value>
   <comment>Tooltip for button to expand Cc and Bcc fields</comment>
+  </data>
+<data name="Editor_EditLink" xml:space="preserve">
+    <value>Edit link</value>
+    <comment>Header of window when editing link</comment>
+  </data>
+  <data name="Tips_NewTip" xml:space="preserve">
+    <value>New</value>
+    <comment>Label for new tip in tips window</comment>
+  </data>
+  <data name="Tips_Unread" xml:space="preserve">
+    <value>Unread</value>
+    <comment>Tooltip for unread tips</comment>
   </data>
 </root>

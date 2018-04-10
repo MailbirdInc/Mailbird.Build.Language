@@ -612,8 +612,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
-    <value>Вмъкване на връзка</value>
-    <comment>Insert link</comment>
+    <value>Add link</value>
+  <comment>Insert link</comment>
   </data>
   <data name="Identity_Account" xml:space="preserve">
     <value>Акаунт:</value>
@@ -2356,8 +2356,8 @@ Path: {0}</comment>
     <comment>Increase size</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertHyperlink" xml:space="preserve">
-    <value>Insert link</value>
-    <comment>Insert link</comment>
+    <value>Add link</value>
+  <comment>Insert link</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
     <value>Insert image</value>
@@ -3447,10 +3447,6 @@ Here are a couple of links to help produce vCard files from various services:</c
     <value>New Mailbird tips are available</value>
     <comment>New Mailbird tips are available</comment>
   </data>
-  <data name="Tips_New" xml:space="preserve">
-    <value>New tip</value>
-    <comment>New tip</comment>
-  </data>
   <data name="MailViewer_LoadingMessage" xml:space="preserve">
     <value>Loading message...</value>
     <comment>Loading message...</comment>
@@ -4064,12 +4060,12 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
-    <value>Insert link</value>
-    <comment>Insert link</comment>
+    <value>Add link</value>
+  <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
-    <value>Opens insert link window while you are composing email or editing signature</value>
-    <comment>Opens insert link window while you are composing email or editing signature</comment>
+    <value>Opens add link window while you are composing email or editing signature</value>
+  <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
     <value>Post to Facebook</value>
@@ -6446,5 +6442,17 @@ Please contact support for information on how to resolve this.</value>
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
     <value>Show Cc Bcc fields</value>
     <comment>Tooltip for button to expand Cc and Bcc fields</comment>
+  </data>
+<data name="Editor_EditLink" xml:space="preserve">
+    <value>Edit link</value>
+    <comment>Header of window when editing link</comment>
+  </data>
+  <data name="Tips_NewTip" xml:space="preserve">
+    <value>New</value>
+    <comment>Label for new tip in tips window</comment>
+  </data>
+  <data name="Tips_Unread" xml:space="preserve">
+    <value>Unread</value>
+    <comment>Tooltip for unread tips</comment>
   </data>
 </root>
