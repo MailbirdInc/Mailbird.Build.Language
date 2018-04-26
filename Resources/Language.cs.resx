@@ -2440,127 +2440,127 @@ Path: {0}</comment>
   <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Přejete si odstranit uložiště Mailbirdu, včetně nastavení, uložiště vzkazů a kontaktů?
+    <value>Chcete odstranit místní údaje Mailbird včetně nastavení, zpráv a kontaktů?
 
-Pokud máte v úmyslu přeinstalovat Mailbird, uchovejte data, aby jste nezačínali od znova.</value>
-    <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
+Pokud plánujete přeinstalovat Mailbird, zachovejte data, vyhnete se tak znovu nastavování.</value>
+  <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
-    <value>Add folder</value>
-    <comment>Add folder</comment>
+    <value>Přidat složku</value>
+  <comment>Add folder</comment>
   </data>
   <data name="Folder_Edit" xml:space="preserve">
-    <value>Edit folder</value>
-    <comment>Edit folder</comment>
+    <value>Upravit složku</value>
+  <comment>Edit folder</comment>
   </data>
   <data name="Folder_Unmap" xml:space="preserve">
-    <value>Unmap</value>
-    <comment>Unmap</comment>
+    <value>Odpojit</value>
+  <comment>Unmap</comment>
   </data>
   <data name="Shortcut_Backspace" xml:space="preserve">
-    <value>Backspace</value>
-    <comment>Backspace</comment>
+    <value>Zpět</value>
+  <comment>Backspace</comment>
   </data>
   <data name="Shortcut_Enter" xml:space="preserve">
     <value>Enter</value>
     <comment>Enter</comment>
   </data>
   <data name="Shortcut_NotFound" xml:space="preserve">
-    <value>No shortcut found based on the search.</value>
-    <comment>No shortcut found based on the search.</comment>
+    <value>Na základě vyhledávání nebyla nalezena zkratka.</value>
+  <comment>No shortcut found based on the search.</comment>
   </data>
   <data name="Shortcut_Space" xml:space="preserve">
-    <value>Space</value>
-    <comment>Space</comment>
+    <value>Mezera</value>
+  <comment>Space</comment>
   </data>
   <data name="AccountValidationRule_EmptyEncryption" xml:space="preserve">
-    <value>Please select an encryption</value>
-    <comment>Please select an encryption</comment>
+    <value>Vyberte šifrování</value>
+  <comment>Please select an encryption</comment>
   </data>
   <data name="AccountValidationRule_EmptyFirstName" xml:space="preserve">
-    <value>Please enter your first name</value>
-    <comment>Please enter your first name</comment>
+    <value>Zadejte své křestní jméno</value>
+  <comment>Please enter your first name</comment>
   </data>
   <data name="AccountValidationRule_EmptyLastName" xml:space="preserve">
-    <value>Please enter your last name</value>
-    <comment>Please enter your last name</comment>
+    <value>Zadejte své příjmení</value>
+  <comment>Please enter your last name</comment>
   </data>
   <data name="AccountValidationRule_EmptyProxyUsername" xml:space="preserve">
-    <value>Please enter your proxy username</value>
-    <comment>Please enter your proxy username</comment>
+    <value>Zadejte své uživatelské jméno proxy</value>
+  <comment>Please enter your proxy username</comment>
   </data>
   <data name="Dialog_DiskWriteError" xml:space="preserve">
-    <value>Disk write error</value>
-    <comment>Disk write error</comment>
+    <value>Chyba při zápisu disku</value>
+  <comment>Disk write error</comment>
   </data>
   <data name="Dialog_DiskWriteErrorExplanation" xml:space="preserve">
-    <value>Mailbird was unable to write to the hard disk. This is commonly caused by a lack of space.
+    <value>Mailbird nemohl zapsat na pevný disk. To je obvykle způsobeno nedostatkem místa.
 
-Please check the free disk space and make more available if running low.</value>
-    <comment>Mailbird was unable to write to the hard disk. This is commonly caused by a lack of space.
+Zkontrolujte volné místo na disku a zpřístupněte jej, pokud je nízké.</value>
+  <comment>Mailbird was unable to write to the hard disk. This is commonly caused by a lack of space.
 
 Please check the free disk space and make more available if running low.</comment>
   </data>
   <data name="Dialog_ServerCertificateError" xml:space="preserve">
-    <value>Server certificate error</value>
-    <comment>Server certificate error</comment>
+    <value>Chyba certifikátu serveru</value>
+  <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
+    <value>Mailbird zjistil, že certifikát SSL serveru: '{0}' je neplatný.
 
-Please click "read more" button below for further information before continuing.
+Pro pokračování klikněte na tlačítko "přečíst více".
 
-Would you like to ignore the error permanently for this server?</value>
-    <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
+Chcete trvale ignorovat chybu tohoto serveru?</value>
+  <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
 
 Please click "read more" button below for further information before continuing.
 
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
+    <value>Skvělá práce s pozváním Vašich přátel do Mailbird! Existuje několik e-mailů, které již byly pozvány, takže je čas pozvat ostatní, aby jste odemkli Vaše odměny Mailbird Pro.
 
-Emails already invited: {0}</value>
-    <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
+E-maily již byly pozvány: {0}</value>
+  <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
   </data>
   <data name="Invite_EmailSuggestions" xml:space="preserve">
-    <value>Type email or name of your friends</value>
-    <comment>Type email or name of your friends</comment>
+    <value>Zadejte e-mail nebo jméno svých přátel</value>
+  <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Pozvěte své přátelé, aby vyzkoušeli Mailbird a obdržíte [bold] Mailbird Pro doživotní licenci zdarma [/bold] když {0} nebo více přátel si ho nainstaluje z Vaší pozvánky. Pozvěte tolik přátel, kolik chcete!</value>
+    <value>Pozvěte své přátelé, aby vyzkoušeli Mailbird a obdržíte [bold] Mailbird Pro doživotní licenci zdarma [/bold], když {0} nebo více přátel si ho nainstaluje z Vaší pozvánky. Pozvěte tolik přátel, kolik chcete!</value>
   <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
   <data name="Invite_FailedConnectionMessage" xml:space="preserve">
-    <value>The connection failed. Please try again later.
+    <value>Spojení se nezdařilo. Prosím zkuste to znovu později.
 
-Message: {0}</value>
-    <comment>The connection failed. Please try again later.
+Zpráva: {0}</value>
+  <comment>The connection failed. Please try again later.
 
 Message: {0}</comment>
   </data>
   <data name="Invite_FailedUpdateInvitationList" xml:space="preserve">
-    <value>Could not update invitation list.</value>
-    <comment>Could not update invitation list.</comment>
+    <value>Seznam pozvánek nelze aktualizovat.</value>
+  <comment>Could not update invitation list.</comment>
   </data>
   <data name="Invite_InviteMore" xml:space="preserve">
-    <value>Invite more friends</value>
-    <comment>Invite more friends</comment>
+    <value>Pozvěte více přátel</value>
+  <comment>Invite more friends</comment>
   </data>
   <data name="Invite_NoFriendSelected" xml:space="preserve">
-    <value>No friends selected</value>
-    <comment>No friends selected</comment>
+    <value>Nebyli vybráni žádní přátelé</value>
+  <comment>No friends selected</comment>
   </data>
   <data name="Invite_NoFriendSelectedExplanation" xml:space="preserve">
-    <value>Please select at least one friend to invite.</value>
-    <comment>Please select at least one friend to invite.</comment>
+    <value>Zvolte prosím alespoň jednoho přítele, kterého chcete pozvat.</value>
+  <comment>Please select at least one friend to invite.</comment>
   </data>
   <data name="Invite_Send" xml:space="preserve">
-    <value>Invite to Mailbird</value>
-    <comment>Invite to Mailbird</comment>
+    <value>Pozvat do Mailbird</value>
+  <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_Sent" xml:space="preserve">
     <value>Invitations sent</value>
