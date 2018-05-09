@@ -2044,7 +2044,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Uloží aktuální text jako návrh při psaní zprávy. Podržte klávesu &lt;Ctrl&gt; při stisku klávesy S a ujistěte se, že kurzor se nachází v jednom z textových polí -- v panelu kompozice nebo v polích Komu, Kopie, Skrytá kopie nebo Předmět - při použití této zkratky.</value>
+    <value>Uloží aktuální text jako návrh pro vytváření nové zprávy. Podržte klávesu &lt;Ctrl&gt; při stisku klávesy S a ujistěte se, že kurzor se nachází v jednom z textových polí -- v panelu kompozice nebo v polích Komu, Kopie, Skrytá kopie nebo Předmět - při použití této zkratky.</value>
   <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
@@ -2627,7 +2627,7 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>An account with the same email address already exists.</comment>
   </data>
   <data name="FolderIdentity_More" xml:space="preserve">
-    <value>Více</value>
+    <value>Další</value>
   <comment>More</comment>
   </data>
   <data name="Upgrade_NoAds" xml:space="preserve">
@@ -2731,7 +2731,7 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Click to record</comment>
   </data>
   <data name="Options_ComposingFont" xml:space="preserve">
-    <value>Psaní písma</value>
+    <value>Písmo zprávy</value>
   <comment>Composing font</comment>
   </data>
   <data name="Options_Conversations" xml:space="preserve">
@@ -2811,375 +2811,375 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Remove after [x days]</comment>
   </data>
   <data name="Welcome_Pop3RemoveOnDelete" xml:space="preserve">
-    <value>Remove when I permanently delete them</value>
-    <comment>Remove when I permanently delete them</comment>
+    <value>Odstranit, až je trvale smažu</value>
+  <comment>Remove when I permanently delete them</comment>
   </data>
   <data name="Welcome_Pop3UpdateInterval" xml:space="preserve">
-    <value>Update interval:</value>
-    <comment>Update interval:</comment>
+    <value>Interval aktualizace:</value>
+  <comment>Update interval:</comment>
   </data>
   <data name="Welcome_Pop3UpdateIntervalInfo" xml:space="preserve">
-    <value>How often Mailbird will check for new messages. The minimum value is defined by the email provider, as checking for messages more often could lead to the account being blocked from POP3 access temporarily.</value>
-    <comment>How often Mailbird will check for new messages. The minimum value is defined by the email provider, as checking for messages more often could lead to the account being blocked from POP3 access temporarily.</comment>
+    <value>Jak často bude Mailbird kontrolovat nové zprávy. Minimální hodnotu definuje poskytovatel e-mailu, protože častá kontrola zpráv může vést k dočasnému zablokování přístupu k účtu POP3.</value>
+  <comment>How often Mailbird will check for new messages. The minimum value is defined by the email provider, as checking for messages more often could lead to the account being blocked from POP3 access temporarily.</comment>
   </data>
   <data name="Conversation_MarkAllAsRead" xml:space="preserve">
-    <value>Mark all as read</value>
-    <comment>Mark all as read</comment>
+    <value>Označit vše jako přečtené</value>
+  <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>Error synchronizing '{0}' folder changes</value>
-    <comment>Error synchronizing '{0}' folder changes</comment>
+    <value>Chyba synchronizace '{0}' změn ve složkách</value>
+  <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
-    <value>Remove folder?</value>
-    <comment>Remove folder?</comment>
+    <value>Odstranit složku?</value>
+  <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove "{0}"?</value>
-    <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
+    <value>Opravdu chcete odebrat „{0}“?</value>
+  <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
-    <value>A folder with the same name already exists in that location.</value>
-    <comment>A folder with the same name already exists in that location.</comment>
+    <value>Složka se stejným názvem již existuje v tomto umístění.</value>
+  <comment>A folder with the same name already exists in that location.</comment>
   </data>
   <data name="EditFolderWindow_InvalidName" xml:space="preserve">
-    <value>The server does not allow the '{0}' character in folder names.</value>
-    <comment>The server does not allow the '{0}' character in folder names.</comment>
+    <value>Server neumožňuje znak "{0}" v názvu složky.</value>
+  <comment>The server does not allow the '{0}' character in folder names.</comment>
   </data>
   <data name="Dialog_EmptySubject" xml:space="preserve">
-    <value>Send without subject?</value>
-    <comment>Send without subject?</comment>
+    <value>Odeslat bez předmětu?</value>
+  <comment>Send without subject?</comment>
   </data>
   <data name="Dialog_EmptySubjectExplanation" xml:space="preserve">
-    <value>Do you really want to send this message without a subject?</value>
-    <comment>Do you really want to send this message without a subject?</comment>
+    <value>Opravdu chcete zprávu odeslat bez předmětu?</value>
+  <comment>Do you really want to send this message without a subject?</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorMessage" xml:space="preserve">
-    <value>This is typically caused by another email client checking for messages at the same time, or checking for messages too often.</value>
-    <comment>This is typically caused by another email client checking for messages at the same time, or checking for messages too often.</comment>
+    <value>Toto je obvykle způsobeno kontrolou zpráv dalšího emailového klienta ve stejnou dobu, nebo kontrola zprávy je příliš často.</value>
+  <comment>This is typically caused by another email client checking for messages at the same time, or checking for messages too often.</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorTitle" xml:space="preserve">
-    <value>Error getting messages</value>
-    <comment>Error getting messages</comment>
+    <value>Chyba při získávání zprávy</value>
+  <comment>Error getting messages</comment>
   </data>
   <data name="EditFolderWindow_EmptyName" xml:space="preserve">
-    <value>Please input a name for the folder.</value>
-    <comment>Please input a name for the folder.</comment>
+    <value>Prosím, zadejte název složky.</value>
+  <comment>Please input a name for the folder.</comment>
   </data>
   <data name="Message_ReplyTemplate" xml:space="preserve">
     <value>{0} {1}, {2} {3}:</value>
     <comment>{on} {date}, {sender} {wrote}:</comment>
   </data>
   <data name="NotifyIconTooltip_Exit" xml:space="preserve">
-    <value>Exit</value>
-    <comment>Exit &lt;Mailbird&gt;</comment>
+    <value>Konec</value>
+  <comment>Exit &lt;Mailbird&gt;</comment>
   </data>
   <data name="NotifyIconTooltip_Show" xml:space="preserve">
-    <value>Show</value>
-    <comment>Show &lt;Mailbird&gt;</comment>
+    <value>Zobrazit</value>
+  <comment>Show &lt;Mailbird&gt;</comment>
   </data>
   <data name="Options_ConversationView" xml:space="preserve">
-    <value>Group messages into conversations</value>
-    <comment>Group messages into conversations</comment>
+    <value>Seskupit zprávy do konverzací</value>
+  <comment>Group messages into conversations</comment>
   </data>
   <data name="Dialog_RestartRequiredMessage" xml:space="preserve">
-    <value>Mailbird needs to be restarted for the changes to take effect. Would you like to restart now?</value>
-    <comment>Mailbird needs to be restarted for the changes to take effect. Would you like to restart now?</comment>
+    <value>Mailbird musí být restartován, aby se změny projevily. Chcete restartovat nyní?</value>
+  <comment>Mailbird needs to be restarted for the changes to take effect. Would you like to restart now?</comment>
   </data>
   <data name="Dialog_RestartRequiredTitle" xml:space="preserve">
-    <value>Restart required</value>
-    <comment>Restart required</comment>
+    <value>Vyžadováno restartování</value>
+  <comment>Restart required</comment>
   </data>
   <data name="Support_SubmitTicket" xml:space="preserve">
-    <value>Submit request</value>
-    <comment>Submit request</comment>
+    <value>Podat žádost</value>
+  <comment>Submit request</comment>
   </data>
   <data name="WebBrowser_Home" xml:space="preserve">
-    <value>Home</value>
-    <comment>Home</comment>
+    <value>Domovská stránka</value>
+  <comment>Home</comment>
   </data>
   <data name="Conversation_More" xml:space="preserve">
-    <value>More..</value>
-    <comment>More..</comment>
+    <value>Další ..</value>
+  <comment>More..</comment>
   </data>
   <data name="MailEditorFormattingBar_Formatting" xml:space="preserve">
-    <value>Formatting</value>
-    <comment>Formatting</comment>
+    <value>Formátování</value>
+  <comment>Formatting</comment>
   </data>
   <data name="MarkAsRead_AfterDuration" xml:space="preserve">
-    <value>After {0} seconds</value>
-    <comment>After {0} seconds</comment>
+    <value>Po {0} sekundách</value>
+  <comment>After {0} seconds</comment>
   </data>
   <data name="MarkAsRead_Immediately" xml:space="preserve">
-    <value>Immediately</value>
-    <comment>Immediately</comment>
+    <value>Ihned</value>
+  <comment>Immediately</comment>
   </data>
   <data name="MarkAsRead_Never" xml:space="preserve">
-    <value>Never</value>
-    <comment>Never</comment>
+    <value>Nikdy</value>
+  <comment>Never</comment>
   </data>
   <data name="Options_MarkAsRead" xml:space="preserve">
-    <value>Mark messages as read:</value>
-    <comment>Mark messages as read:</comment>
+    <value>Označit zprávy jako přečtené:</value>
+  <comment>Mark messages as read:</comment>
   </data>
   <data name="App_Contacts_FieldCompany" xml:space="preserve">
-    <value>Company</value>
-    <comment>Company</comment>
+    <value>Společnost</value>
+  <comment>Company</comment>
   </data>
   <data name="App_Contacts_FieldFirstName" xml:space="preserve">
-    <value>First name</value>
-    <comment>First name</comment>
+    <value>Křestní jméno</value>
+  <comment>First name</comment>
   </data>
   <data name="App_Contacts_FieldLastName" xml:space="preserve">
-    <value>Last name</value>
-    <comment>Last name</comment>
+    <value>Příjmení</value>
+  <comment>Last name</comment>
   </data>
   <data name="App_Contacts_FieldMiddleName" xml:space="preserve">
-    <value>Middle name</value>
-    <comment>Middle name</comment>
+    <value>Prostřední jméno</value>
+  <comment>Middle name</comment>
   </data>
   <data name="App_Contacts_FieldNickname" xml:space="preserve">
-    <value>Nickname</value>
-    <comment>Nickname</comment>
+    <value>Přezdívka</value>
+  <comment>Nickname</comment>
   </data>
   <data name="App_Contacts_FieldTitle" xml:space="preserve">
-    <value>Title</value>
-    <comment>Title</comment>
+    <value>Nadpis</value>
+  <comment>Title</comment>
   </data>
   <data name="App_Contacts_FieldAddEmail" xml:space="preserve">
-    <value>add email</value>
-    <comment>Add email</comment>
+    <value>přidat email</value>
+  <comment>Add email</comment>
   </data>
   <data name="App_Contacts_FieldAddPhone" xml:space="preserve">
-    <value>add phone</value>
-    <comment>Add phone</comment>
+    <value>přidat telefon</value>
+  <comment>Add phone</comment>
   </data>
   <data name="App_Contacts_Add" xml:space="preserve">
-    <value>Add</value>
-    <comment>Add</comment>
+    <value>Přidat</value>
+  <comment>Add</comment>
   </data>
   <data name="App_Contacts_Delete" xml:space="preserve">
     <value>Delete</value>
     <comment>Delete</comment>
   </data>
   <data name="Dialog_DeleteContact_Singular" xml:space="preserve">
-    <value>Delete contact?</value>
-    <comment>Delete contact?</comment>
+    <value>Smazat kontakt?</value>
+  <comment>Delete contact?</comment>
   </data>
   <data name="Dialog_DeleteContactExplanation_Singular" xml:space="preserve">
-    <value>Are you sure you want to delete this contact?</value>
-    <comment>Are you sure you want to delete this contact?</comment>
+    <value>Opravdu chcete smazat tento kontakt?</value>
+  <comment>Are you sure you want to delete this contact?</comment>
   </data>
   <data name="App_Contacts_CallPhone" xml:space="preserve">
-    <value>Call (Phone) {0}</value>
-    <comment>{0} will be replaced by the phone number, so the result will be "Call (Phone) +62000000"</comment>
+    <value>Volání (Telefon) {0}</value>
+  <comment>{0} will be replaced by the phone number, so the result will be "Call (Phone) +62000000"</comment>
   </data>
   <data name="App_Contacts_CallSkype" xml:space="preserve">
-    <value>Call (Skype) {0}</value>
-    <comment>{0} will be replaced by the skype name, so the result will be "Call (Skype) skypename"</comment>
+    <value>Volat (Skype) {0}</value>
+  <comment>{0} will be replaced by the skype name, so the result will be "Call (Skype) skypename"</comment>
   </data>
   <data name="App_Contacts_SearchCompany" xml:space="preserve">
-    <value>Search for {0}</value>
-    <comment>{0} will be replaced by the name of company, so the result will be "Search for Microsoft Ltd"</comment>
+    <value>Hledat {0}</value>
+  <comment>{0} will be replaced by the name of company, so the result will be "Search for Microsoft Ltd"</comment>
   </data>
   <data name="App_Contacts_SendEmail" xml:space="preserve">
     <value>Email {0}</value>
     <comment>{0} will be replaced by the email address, so the result will be "Send email to test@gmail.com"</comment>
   </data>
   <data name="App_Contacts_AddGroup_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-    <comment>Cancel</comment>
+    <value>Storno</value>
+  <comment>Cancel</comment>
   </data>
   <data name="App_Contacts_AddGroup_GroupName" xml:space="preserve">
-    <value>Group name:</value>
-    <comment>Group name:</comment>
+    <value>Název skupiny:</value>
+  <comment>Group name:</comment>
   </data>
   <data name="App_Contacts_AddGroup_NewGroup" xml:space="preserve">
-    <value>New Group</value>
-    <comment>New Group</comment>
+    <value>Nová skupina</value>
+  <comment>New Group</comment>
   </data>
   <data name="App_Contacts_AddGroup_Save" xml:space="preserve">
-    <value>Save</value>
-    <comment>Save</comment>
+    <value>Uložit</value>
+  <comment>Save</comment>
   </data>
   <data name="App_Contacts_ManageGroups" xml:space="preserve">
-    <value>Manage groups</value>
-    <comment>Manage groups</comment>
+    <value>Správa skupin</value>
+  <comment>Manage groups</comment>
   </data>
   <data name="App_Contacts_NewGroup" xml:space="preserve">
-    <value>New Group</value>
-    <comment>New Group</comment>
+    <value>Nová skupina</value>
+  <comment>New Group</comment>
   </data>
   <data name="App_Contacts_ManageGroups_Close" xml:space="preserve">
-    <value>Close</value>
-    <comment>Close</comment>
+    <value>Zavřít</value>
+  <comment>Close</comment>
   </data>
   <data name="App_Contacts_ManageGroups_ManageGroups" xml:space="preserve">
-    <value>Manage Groups</value>
-    <comment>Manage Groups</comment>
+    <value>Správa skupin</value>
+  <comment>Manage Groups</comment>
   </data>
   <data name="Dialog_DeleteGroup" xml:space="preserve">
-    <value>Delete group?</value>
-    <comment>Delete group?</comment>
+    <value>Smazat skupinu?</value>
+  <comment>Delete group?</comment>
   </data>
   <data name="Dialog_DeleteGroupExplanation" xml:space="preserve">
-    <value>Are you sure you want to delete this group?</value>
-    <comment>Are you sure you want to delete this group? Contacts belonging to it will not be deleted.</comment>
+    <value>Opravdu chcete smazat tuto skupinu?</value>
+  <comment>Are you sure you want to delete this group? Contacts belonging to it will not be deleted.</comment>
   </data>
   <data name="Contact_RemoveFromGroup" xml:space="preserve">
-    <value>Remove contact from this group</value>
-    <comment>Remove contact from this group</comment>
+    <value>Odstranit kontakt z této skupiny</value>
+  <comment>Remove contact from this group</comment>
   </data>
   <data name="App_Contacts_CollectedAddresses" xml:space="preserve">
-    <value>Collected addresses</value>
-    <comment>Collected addresses</comment>
+    <value>Sebrané adresy</value>
+  <comment>Collected addresses</comment>
   </data>
   <data name="App_Contacts_CollectedAddresses_CollectedAddresses" xml:space="preserve">
-    <value>Collected Addresses</value>
-    <comment>Collected Addresses</comment>
+    <value>Sebrané adresy</value>
+  <comment>Collected Addresses</comment>
   </data>
   <data name="App_Contacts_NewContact" xml:space="preserve">
-    <value>New Contact</value>
-    <comment>New Contact</comment>
+    <value>Nový kontakt</value>
+  <comment>New Contact</comment>
   </data>
   <data name="App_Contacts_CreateContactFromAddress" xml:space="preserve">
-    <value>Create contact</value>
-    <comment>Create contact</comment>
+    <value>Vytvořit kontakt</value>
+  <comment>Create contact</comment>
   </data>
   <data name="Window_Shortcuts" xml:space="preserve">
-    <value>Keyboard Shortcuts</value>
-    <comment>Keyboard Shortcut</comment>
+    <value>Klávesové zkratky</value>
+  <comment>Keyboard Shortcut</comment>
   </data>
   <data name="Conversation_MarkReadNext" xml:space="preserve">
-    <value>Mark as read and go to next conversation</value>
-    <comment>Mark as read and go to next conversation</comment>
+    <value>Označit jako přečtené a přejít na další konverzaci</value>
+  <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>Marks your message as 'read'</value>
-    <comment>Marks your message as 'read'</comment>
+    <value>Označí vaši zprávu jako 'přečtenou'</value>
+  <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
-    <value>(no subject)</value>
-    <comment>(no subject)</comment>
+    <value>(žádný předmět)</value>
+  <comment>(no subject)</comment>
   </data>
   <data name="Awesomium_SendEmail" xml:space="preserve">
-    <value>Send an email..</value>
+    <value>Odeslat email ..</value>
   </data>
   <data name="App_Contacts_All" xml:space="preserve">
-    <value>All Contacts</value>
-    <comment>All Contacts</comment>
+    <value>Všechny kontakty</value>
+  <comment>All Contacts</comment>
   </data>
   <data name="App_Contacts_Import" xml:space="preserve">
-    <value>Import contacts from vCard</value>
-    <comment>Import contacts from vCard</comment>
+    <value>Importovat kontakty z vCard</value>
+  <comment>Import contacts from vCard</comment>
   </data>
   <data name="Invite_SelectAll" xml:space="preserve">
-    <value>Select all</value>
-    <comment>Select all</comment>
+    <value>Vybrat vše</value>
+  <comment>Select all</comment>
   </data>
   <data name="Dialog_DatabaseErrorMessage" xml:space="preserve">
-    <value>A problem has been detected with the internal database, most likely caused by a Windows crash or hard drive malfunction.
+    <value>Byl zjištěn problém s interní databází, pravděpodobně způsobenou selháním systému Windows nebo poruchou pevného disku.
 
-Please contact support via our website, so we can help recover your data and get Mailbird up and running again.</value>
-    <comment>A problem has been detected with the internal database, most likely caused by a Windows crash or hard drive malfunction.
+Kontaktujte podporu prostřednictvím našich webových stránek, abychom vám pomohli obnovit data a znovu spustit službu Mailbird.</value>
+  <comment>A problem has been detected with the internal database, most likely caused by a Windows crash or hard drive malfunction.
 
 Please contact support via our website, so we can help recover your data and get Mailbird up and running again.</comment>
   </data>
   <data name="Dialog_DatabaseErrorTitle" xml:space="preserve">
-    <value>Internal database error</value>
-    <comment>Internal database error</comment>
+    <value>Vnitřní chyba databáze</value>
+  <comment>Internal database error</comment>
   </data>
   <data name="Notification_PossibleIdentityError" xml:space="preserve">
-    <value>This is commonly caused by an incorrectly set up identity.
+    <value>To je obvykle způsobeno nesprávně nastavenou identitou.
 
-Please check the identity setup and try again.</value>
-    <comment>This is commonly caused by an incorrectly set up identity.
+Zkontrolujte prosím nastavení identity a zkuste to znovu.</value>
+  <comment>This is commonly caused by an incorrectly set up identity.
 
 Please check the identity setup and try again.</comment>
   </data>
   <data name="App_Contacts_Import_Browse" xml:space="preserve">
-    <value>Browse</value>
-    <comment>Browse</comment>
+    <value>Procházet</value>
+  <comment>Browse</comment>
   </data>
   <data name="App_Contacts_Import_Success_Singular" xml:space="preserve">
-    <value>1 contact imported.</value>
-    <comment>1 contact imported.</comment>
+    <value>1 importovaný kontakt.</value>
+  <comment>1 contact imported.</comment>
   </data>
   <data name="App_Contacts_Import_Description" xml:space="preserve">
-    <value>vCard (.vcf) is a file format standard for electronic business cards. Mailbird can import contacts from vCard files created from other email services like Gmail, Yahoo, Outlook, etc.
+    <value>vCard (.vcf) je standardní formát souborů pro elektronické vizitky. Mailbird může importovat kontakty z vCard souborů vytvořených z jiných emailových služeb, jako je Gmail, Yahoo, Outlook atd.
 
-Here are a couple of links to help produce vCard files from various services:</value>
-    <comment>vCard (.vcf) is a file format standard for electronic business cards. Mailbird can import contacts from vCard files created from other email services like Gmail, Yahoo, Outlook, etc.
+Zde je několik odkazů, které pomáhají vytvářet soubory vCard z různých služeb:</value>
+  <comment>vCard (.vcf) is a file format standard for electronic business cards. Mailbird can import contacts from vCard files created from other email services like Gmail, Yahoo, Outlook, etc.
 
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>Click on 'Browse' below to select the file(s) to import from.</value>
-    <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
+    <value>Klikněte na tlačítko 'Procházet' a vyberte soubor(y), které chcete importovat.</value>
+  <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
     <value>Gmail</value>
     <comment>Gmail</comment>
   </data>
   <data name="App_Contacts_Import_Import" xml:space="preserve">
-    <value>Import from vCard</value>
-    <comment>Import from vCard</comment>
+    <value>Import z vCard</value>
+  <comment>Import from vCard</comment>
   </data>
   <data name="App_Contacts_Import_Yahoo" xml:space="preserve">
     <value>Yahoo!</value>
     <comment>Yahoo!</comment>
   </data>
   <data name="App_Contacts_Import_Success_Plural" xml:space="preserve">
-    <value>{0} contacts imported.</value>
-    <comment>{0} contacts imported.</comment>
+    <value>{0} kontakty importovány.</value>
+  <comment>{0} contacts imported.</comment>
   </data>
   <data name="App_Contacts_SendGroupEmail" xml:space="preserve">
-    <value>Email this group</value>
-    <comment>Send email to this group</comment>
+    <value>Odeslat email této skupině</value>
+  <comment>Send email to this group</comment>
   </data>
   <data name="App_Contacts_Groups" xml:space="preserve">
-    <value>Groups</value>
-    <comment>Groups</comment>
+    <value>Skupiny</value>
+  <comment>Groups</comment>
   </data>
   <data name="App_Contacts_Filter" xml:space="preserve">
-    <value>Filter contacts...</value>
-    <comment>Filter contacts...</comment>
+    <value>Filtrovat kontakty ..</value>
+  <comment>Filter contacts...</comment>
   </data>
   <data name="Dialog_DeleteContactExplanation_Plural" xml:space="preserve">
-    <value>Are you sure you want to delete the selected contacts?</value>
-    <comment>Are you sure you want to delete the selected contacts?</comment>
+    <value>Opravdu chcete smazat vybrané kontakty?</value>
+  <comment>Are you sure you want to delete the selected contacts?</comment>
   </data>
   <data name="Dialog_DeleteContact_Plural" xml:space="preserve">
-    <value>Delete contacts?</value>
-    <comment>Delete contacts?</comment>
+    <value>Smazat kontakty?</value>
+  <comment>Delete contacts?</comment>
   </data>
   <data name="App_Contacts_MergeContacts" xml:space="preserve">
-    <value>Merge contacts</value>
-    <comment>Merge contacts</comment>
+    <value>Sloučit kontakty</value>
+  <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_Menu" xml:space="preserve">
-    <value>Menu</value>
-    <comment>Menu</comment>
+    <value>Nabídka</value>
+  <comment>Menu</comment>
   </data>
   <data name="App_Contacts_MergeContactsExplanation" xml:space="preserve">
-    <value>Do you really want to merge these contacts?</value>
-    <comment>Do you really want to merge these contacts?</comment>
+    <value>Opravdu chcete sloučit tyto kontakty?</value>
+  <comment>Do you really want to merge these contacts?</comment>
   </data>
   <data name="Options_ConnectToFacebook" xml:space="preserve">
-    <value>Connect with Facebook</value>
-    <comment>Connect with Facebook</comment>
+    <value>Spojit s Facebook</value>
+  <comment>Connect with Facebook</comment>
   </data>
   <data name="Options_DisconnectFacebook" xml:space="preserve">
-    <value>Disconnect Facebook</value>
-    <comment>Disconnect Facebook</comment>
+    <value>Odpojit Facebook</value>
+  <comment>Disconnect Facebook</comment>
   </data>
   <data name="AvatarIconAlarm" xml:space="preserve">
-    <value>Alarm</value>
-    <comment>Alarm</comment>
+    <value>Budík</value>
+  <comment>Alarm</comment>
   </data>
   <data name="AvatarIconCube" xml:space="preserve">
-    <value>Cube</value>
-    <comment>Cube</comment>
+    <value>Krychle</value>
+  <comment>Cube</comment>
   </data>
   <data name="AvatarIconEmail" xml:space="preserve">
     <value>Email</value>
@@ -3190,8 +3190,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>FastMail</comment>
   </data>
   <data name="AvatarIconGlobe" xml:space="preserve">
-    <value>Globe</value>
-    <comment>Globe</comment>
+    <value>Glóbus</value>
+  <comment>Globe</comment>
   </data>
   <data name="AvatarIconGmail" xml:space="preserve">
     <value>Gmail</value>
@@ -3202,16 +3202,16 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>ICloud</comment>
   </data>
   <data name="AvatarIconIdea" xml:space="preserve">
-    <value>Idea</value>
-    <comment>Idea</comment>
+    <value>Nápad</value>
+  <comment>Idea</comment>
   </data>
   <data name="AvatarIconLike" xml:space="preserve">
-    <value>Like</value>
-    <comment>Like</comment>
+    <value>To se mi líbí</value>
+  <comment>Like</comment>
   </data>
   <data name="AvatarIconLocked" xml:space="preserve">
-    <value>Locked</value>
-    <comment>Locked</comment>
+    <value>Uzamčeno</value>
+  <comment>Locked</comment>
   </data>
   <data name="AvatarIconMailCom" xml:space="preserve">
     <value>MailCom</value>
@@ -3226,32 +3226,32 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Outlook</comment>
   </data>
   <data name="AvatarIconPhone" xml:space="preserve">
-    <value>Phone</value>
-    <comment>Phone</comment>
+    <value>Telefon</value>
+  <comment>Phone</comment>
   </data>
   <data name="AvatarIconPinkMonkey" xml:space="preserve">
-    <value>Pink Monkey</value>
-    <comment>Pink Monkey</comment>
+    <value>Růžová Opice</value>
+  <comment>Pink Monkey</comment>
   </data>
   <data name="AvatarIconPrivate" xml:space="preserve">
-    <value>Private</value>
-    <comment>Private</comment>
+    <value>Soukromý</value>
+  <comment>Private</comment>
   </data>
   <data name="AvatarIconQuote" xml:space="preserve">
-    <value>Quote</value>
-    <comment>Quote</comment>
+    <value>Citát</value>
+  <comment>Quote</comment>
   </data>
   <data name="AvatarIconSecure" xml:space="preserve">
-    <value>Secure</value>
-    <comment>Secure</comment>
+    <value>Bezpečný</value>
+  <comment>Secure</comment>
   </data>
   <data name="AvatarIconShield" xml:space="preserve">
-    <value>Shield</value>
-    <comment>Shield</comment>
+    <value>Štít</value>
+  <comment>Shield</comment>
   </data>
   <data name="AvatarIconWork" xml:space="preserve">
-    <value>Work</value>
-    <comment>Work</comment>
+    <value>Práce</value>
+  <comment>Work</comment>
   </data>
   <data name="AvatarIconYahoo" xml:space="preserve">
     <value>Yahoo!</value>
@@ -3266,666 +3266,667 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>STARTTLS</comment>
   </data>
   <data name="SecurityProtocol_Unencrypted" xml:space="preserve">
-    <value>Unencrypted</value>
-    <comment>Unencrypted</comment>
+    <value>Nešifrováno</value>
+  <comment>Unencrypted</comment>
   </data>
   <data name="Welcome_Pop3Settings" xml:space="preserve">
-    <value>POP3 settings</value>
-    <comment>POP3 settings</comment>
+    <value>POP3 nastavení</value>
+  <comment>POP3 settings</comment>
   </data>
   <data name="App_Contacts_MergeContacts_Merge" xml:space="preserve">
-    <value>Merge</value>
-    <comment>Merge</comment>
+    <value>Sloučit</value>
+  <comment>Merge</comment>
   </data>
   <data name="App_Contacts_MergeSelectedContacts" xml:space="preserve">
-    <value>Merge selected contacts</value>
-    <comment>Merge selected contacts</comment>
+    <value>Sloučit vybrané kontakty</value>
+  <comment>Merge selected contacts</comment>
   </data>
   <data name="App_Contacts_PhoneType_HomeFax" xml:space="preserve">
-    <value>Home Fax</value>
-    <comment>Home Fax</comment>
+    <value>Fax domů</value>
+  <comment>Home Fax</comment>
   </data>
   <data name="App_Contacts_PhoneType_Main" xml:space="preserve">
-    <value>Main</value>
-    <comment>Main</comment>
+    <value>Hlavní</value>
+  <comment>Main</comment>
   </data>
   <data name="App_Contacts_PhoneType_Mobile" xml:space="preserve">
-    <value>Mobile</value>
-    <comment>Mobile</comment>
+    <value>Mobilní telefon</value>
+  <comment>Mobile</comment>
   </data>
   <data name="App_Contacts_PhoneType_Pager" xml:space="preserve">
     <value>Pager</value>
     <comment>Pager</comment>
   </data>
   <data name="App_Contacts_PhoneType_WorkFax" xml:space="preserve">
-    <value>Work Fax</value>
-    <comment>Work Fax</comment>
+    <value>Fax práce</value>
+  <comment>Work Fax</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts" xml:space="preserve">
-    <value>Find and merge duplicates</value>
-    <comment>Find and merge duplicates</comment>
+    <value>Najít a sloučit duplikáty</value>
+  <comment>Find and merge duplicates</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_MergeSelected" xml:space="preserve">
-    <value>Merge ({0}) selected</value>
-    <comment>Merge selected</comment>
+    <value>Sloučení ({0}) vybrané</value>
+  <comment>Merge selected</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_SelectAll" xml:space="preserve">
-    <value>Select all</value>
-    <comment>Select all</comment>
+    <value>Vybrat vše</value>
+  <comment>Select all</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_NoDuplicates" xml:space="preserve">
-    <value>No duplicates found</value>
-    <comment>No duplicates found</comment>
+    <value>Nebyly nalezeny žádné duplikáty</value>
+  <comment>No duplicates found</comment>
   </data>
   <data name="App_OldContacts_Description" xml:space="preserve">
-    <value>Allows you to search for people, view contact information and email them directly by double-clicking.</value>
-    <comment>Allows you to search for people, view contact information and email them directly by double-clicking.</comment>
+    <value>Umožňuje vyhledávat osoby, prohlížet kontaktní informace a odesílat jim emaily přímo dvojitým kliknutím.</value>
+  <comment>Allows you to search for people, view contact information and email them directly by double-clicking.</comment>
   </data>
   <data name="App_OldContacts_Title" xml:space="preserve">
-    <value>People</value>
-    <comment>People</comment>
+    <value>Osoby</value>
+  <comment>People</comment>
   </data>
   <data name="App_Contacts_FieldAddNickname" xml:space="preserve">
     <value>nickname</value>
     <comment>Add nickname</comment>
   </data>
   <data name="App_Contacts_FieldRemoveNickname" xml:space="preserve">
-    <value>Remove nickname</value>
-    <comment>Remove nickname</comment>
+    <value>Odstranit přezdívku</value>
+  <comment>Remove nickname</comment>
   </data>
   <data name="App_Contacts_FieldNotes" xml:space="preserve">
-    <value>Notes</value>
-    <comment>Notes</comment>
+    <value>Poznámek</value>
+  <comment>Notes</comment>
   </data>
   <data name="App_Attachments_NoAttachments" xml:space="preserve">
-    <value>No attachments</value>
-    <comment>No attachments</comment>
+    <value>Bez příloh</value>
+  <comment>No attachments</comment>
   </data>
   <data name="AppStore_NoApps" xml:space="preserve">
-    <value>No apps matched your search criteria</value>
-    <comment>No apps matched your search criteria</comment>
+    <value>Zadaným kritériím hledání neodpovídají žádné aplikace</value>
+  <comment>No apps matched your search criteria</comment>
   </data>
   <data name="Conversation_Layout" xml:space="preserve">
-    <value>Conversation layout</value>
-    <comment>Conversation layout</comment>
+    <value>Uspořádání konverzace</value>
+  <comment>Conversation layout</comment>
   </data>
   <data name="Conversation_LayoutHorizontal" xml:space="preserve">
-    <value>Horizontal</value>
-    <comment>Horizontal</comment>
+    <value>Vodorovně</value>
+  <comment>Horizontal</comment>
   </data>
   <data name="Conversation_LayoutVertical" xml:space="preserve">
-    <value>Vertical</value>
-    <comment>Vertical</comment>
+    <value>Svisle</value>
+  <comment>Vertical</comment>
   </data>
   <data name="Welcome_FinalStepExplanation" xml:space="preserve">
-    <value>Select your preferred layout</value>
-    <comment>Select your preferred layout</comment>
+    <value>Vyberte preferované uspořádání</value>
+  <comment>Select your preferred layout</comment>
   </data>
   <data name="Welcome_ThemeAndLayout" xml:space="preserve">
-    <value>Customize Mailbird</value>
-    <comment>Customize Mailbird</comment>
+    <value>Přizpůsobit Mailbird</value>
+  <comment>Customize Mailbird</comment>
   </data>
   <data name="License_Deactivated" xml:space="preserve">
-    <value>Inactive License</value>
-    <comment>Inactive License</comment>
+    <value>Neaktivní Licence</value>
+  <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</value>
-    <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
+    <value>Nelze se připojit k licenčnímu serveru. Zkontrolujte připojení k internetu pro pokračování. Deaktivujte nebo nakonfigurujte připojení brány firewall, antiviru nebo proxy připojení přidáním Mailbird do seznamu výjimek.</value>
+  <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
-    <value>License key</value>
-    <comment>License key</comment>
+    <value>Licenční klíč</value>
+  <comment>License key</comment>
   </data>
   <data name="Menu_Purchase" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro</value>
-    <comment>Upgrade to Mailbird Pro</comment>
+    <value>Upgrade na Mailbird Pro</value>
+  <comment>Upgrade to Mailbird Pro</comment>
   </data>
   <data name="Options_ActivatePro" xml:space="preserve">
-    <value>Activate Mailbird Pro</value>
-    <comment>Activate Mailbird Pro</comment>
+    <value>Aktivovat Mailbird Pro</value>
+  <comment>Activate Mailbird Pro</comment>
   </data>
   <data name="Options_StatusLite" xml:space="preserve">
-    <value>You are running Mailbird Lite.</value>
-    <comment>You are running Mailbird Lite.</comment>
+    <value>Používáte Mailbird Lite.</value>
+  <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</value>
-    <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
+    <value>{0} zbývající dny vaše zkušební verze Pro. Po uplynutí zkušebního období, bude Mailbird Pro převoden na Mailbird Lite.</value>
+  <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
-    <value>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</value>
-    <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
+    <value>Váš účet bude nyní převeden zpět na verzi Lite (zdarma), která bude omezovat používání všech funkcí Pro. Pokud se rozhodnete koupit Mailbird Pro a zadáte níže uvedený licenční klíč, můžete stále používat všechny funkce.</value>
+  <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
   </data>
   <data name="Trial_Feature1" xml:space="preserve">
-    <value>Speed Reader</value>
-    <comment>Speed Reader</comment>
+    <value>Rychlé čtení</value>
+  <comment>Speed Reader</comment>
   </data>
   <data name="Trial_Feature2" xml:space="preserve">
-    <value>Více než {0} účet/ účty</value>
-    <comment>More than 3 accounts</comment>
+    <value>Více než {0} účtů</value>
+  <comment>More than 3 accounts</comment>
   </data>
   <data name="Trial_Feature3" xml:space="preserve">
-    <value>Attachment Quick Preview</value>
-    <comment>Attachment Quick Preview</comment>
+    <value>Rychlý náhled příloh</value>
+  <comment>Attachment Quick Preview</comment>
   </data>
   <data name="Trial_Feature4" xml:space="preserve">
-    <value>Snooze Emails</value>
-    <comment>Snooze Emails</comment>
+    <value>Odložit Emaily</value>
+  <comment>Snooze Emails</comment>
   </data>
   <data name="Trial_Feature5" xml:space="preserve">
-    <value>No Ads</value>
-    <comment>No Ads</comment>
+    <value>Bez reklam</value>
+  <comment>No Ads</comment>
   </data>
   <data name="Trial_More" xml:space="preserve">
-    <value>Learn more</value>
-    <comment>Learn more</comment>
+    <value>Další informace</value>
+  <comment>Learn more</comment>
   </data>
   <data name="Trial_Purchase" xml:space="preserve">
-    <value>Buy Mailbird Pro</value>
-    <comment>Buy Mailbird Pro</comment>
+    <value>Koupit Mailbird Pro</value>
+  <comment>Buy Mailbird Pro</comment>
   </data>
   <data name="Trial_SwitchLite" xml:space="preserve">
-    <value>No, I'm good with free version</value>
-    <comment>No, I'm good with free version</comment>
+    <value>Ne, jsem spokojený s bezplatnou verzí</value>
+  <comment>No, I'm good with free version</comment>
   </data>
   <data name="Folder_Search" xml:space="preserve">
-    <value>Search:</value>
-    <comment>Search:</comment>
+    <value>Hledat:</value>
+  <comment>Search:</comment>
   </data>
   <data name="Notification_NewTipsHeader" xml:space="preserve">
-    <value>New Mailbird tips are available</value>
-    <comment>New Mailbird tips are available</comment>
+    <value>Jsou k dispozici nové Mailbird tipy</value>
+  <comment>New Mailbird tips are available</comment>
   </data>
   <data name="MailViewer_LoadingMessage" xml:space="preserve">
-    <value>Loading message...</value>
-    <comment>Loading message...</comment>
+    <value>Načítání zprávy ..</value>
+  <comment>Loading message...</comment>
   </data>
   <data name="Notification_OpenSettingsLabel" xml:space="preserve">
-    <value>Open settings</value>
-    <comment>Open settings</comment>
+    <value>Otevřít nastavení</value>
+  <comment>Open settings</comment>
   </data>
   <data name="Notification_Notification" xml:space="preserve">
-    <value>Notifications</value>
-    <comment>Notifications</comment>
+    <value>Oznámení</value>
+  <comment>Notifications</comment>
   </data>
   <data name="Notification_FolderSyncErrorMessage" xml:space="preserve">
-    <value>Mailbird was unable to update the server with the changes to the folder. Please update the server manually using your web interface.</value>
-    <comment>Mailbird was unable to update the server with the changes to the folder. Please update the server manually using your web interface.</comment>
+    <value>Mailbird nebyl schopen aktualizovat server se změnami ve složce. Aktualizujte server ručně pomocí webového rozhraní.</value>
+  <comment>Mailbird was unable to update the server with the changes to the folder. Please update the server manually using your web interface.</comment>
   </data>
   <data name="Notification_SendErrorHeader" xml:space="preserve">
-    <value>Error sending message</value>
-    <comment>Error sending message</comment>
+    <value>Chyba při odesílání zpráv</value>
+  <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</value>
-    <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
+    <value>Mailbird nemohl odeslat zprávu. Zkontrolujte nastavení odchozího serveru v identitě 'Od'.</value>
+  <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
-    <value>Recipients</value>
-    <comment>Recipients</comment>
+    <value>Příjemci</value>
+  <comment>Recipients</comment>
   </data>
   <data name="Menu_MailbirdTips" xml:space="preserve">
-    <value>Mailbird tips</value>
-    <comment>Mailbird tips</comment>
+    <value>Mailbird tipy</value>
+  <comment>Mailbird tips</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Musíte přidat emailový účet, aby jste mohli začít používat Mailbird.
-Jste si jistý, že si přejete zrušit?</value>
-    <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
+    <value>Je nutné přidat emailový účet chcete-li začít používat Mailbird. 
+
+Opravdu chcete prováděnou akci zrušit?</value>
+  <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
-    <value>Are you sure you want to cancel?</value>
-    <comment>Are you sure you want to cancel?</comment>
+    <value>Opravdu chcete prováděnou akci zrušit?</value>
+  <comment>Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_AppsTitle" xml:space="preserve">
-    <value>Connect your favorite apps</value>
-    <comment>Connect your favorite apps</comment>
+    <value>Připojte své oblíbené aplikace</value>
+  <comment>Connect your favorite apps</comment>
   </data>
   <data name="Welcome_FacebookTitle" xml:space="preserve">
-    <value>Profile photos</value>
-    <comment>Profile photos</comment>
+    <value>Profilové fotky</value>
+  <comment>Profile photos</comment>
   </data>
   <data name="Welcome_GuideCompletedDescription" xml:space="preserve">
-    <value>You can now start using Mailbird while we sync your messages in the background.</value>
-    <comment>You can now start using Mailbird while we sync your messages in the background.</comment>
+    <value>Nyní můžete začít používat Mailbird, zatímco synchronizujeme vaše zprávy na pozadí.</value>
+  <comment>You can now start using Mailbird while we sync your messages in the background.</comment>
   </data>
   <data name="Welcome_GuideCompletedTitle" xml:space="preserve">
-    <value>Setup completed</value>
-    <comment>Setup completed</comment>
+    <value>Instalace dokončena</value>
+  <comment>Setup completed</comment>
   </data>
   <data name="Welcome_AddMoreAccounts" xml:space="preserve">
-    <value>Add more accounts</value>
-    <comment>Add more accounts</comment>
+    <value>Přidat další účty</value>
+  <comment>Add more accounts</comment>
   </data>
   <data name="FolderIdentity_Snoozed" xml:space="preserve">
-    <value>Snoozed</value>
-    <comment>Snoozed</comment>
+    <value>Odložené</value>
+  <comment>Snoozed</comment>
   </data>
   <data name="Notification_FirstSnoozeHeader" xml:space="preserve">
-    <value>You just snoozed a message!</value>
-    <comment>You just snoozed a message!</comment>
+    <value>Právě jste odložili zprávu!</value>
+  <comment>You just snoozed a message!</comment>
   </data>
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
-    <value>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
+    <value>Přesunuli jsme zprávu do složky Odložené, takže vám nebude překážet. Vrátí se do Doručené pošty později, seřazená nahoře, abyste ji mohli najít. Zůstane tam, dokud nebude přečtená.
 
-Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</value>
-    <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
+Mailbird musí být spuštěn, aby zpráva byla přesunuta zpět. Pokud tomu tak není, bude zpráva znovu přesunuta při příštím spuštění programu Mailbird.</value>
+  <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
 
 Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</comment>
   </data>
   <data name="Options_Snoozes" xml:space="preserve">
-    <value>Snoozes</value>
-    <comment>Snoozes</comment>
+    <value>Odložené</value>
+  <comment>Snoozes</comment>
   </data>
   <data name="Options_Snooze_EndWorkdayAt" xml:space="preserve">
-    <value>My workday ends at</value>
-    <comment>My workday ends at</comment>
+    <value>Můj pracovní den končí v</value>
+  <comment>My workday ends at</comment>
   </data>
   <data name="Options_Snooze_LaterToday" xml:space="preserve">
-    <value>Later today</value>
-    <comment>Later today</comment>
+    <value>Dnes později</value>
+  <comment>Later today</comment>
   </data>
   <data name="Options_Snooze_MyWeekendStartsOn" xml:space="preserve">
-    <value>My weekend starts on</value>
-    <comment>My weekend starts on</comment>
+    <value>Můj víkend začíná v</value>
+  <comment>My weekend starts on</comment>
   </data>
   <data name="Options_Snooze_SomeDay" xml:space="preserve">
-    <value>Someday</value>
-    <comment>Someday</comment>
+    <value>Někdy</value>
+  <comment>Someday</comment>
   </data>
   <data name="Options_Snooze_StartMyDayAt" xml:space="preserve">
-    <value>My day starts at</value>
-    <comment>My day starts at</comment>
+    <value>Můj den začíná v</value>
+  <comment>My day starts at</comment>
   </data>
   <data name="Options_Snooze_StartMyWeekendAt" xml:space="preserve">
-    <value>My weekend starts at</value>
-    <comment>My week starts at</comment>
+    <value>Můj víkend začíná v</value>
+  <comment>My week starts at</comment>
   </data>
   <data name="Options_Snooze_InHours" xml:space="preserve">
-    <value>In {0} hours</value>
-    <comment>In x hours</comment>
+    <value>V {0} hodin</value>
+  <comment>In x hours</comment>
   </data>
   <data name="Options_Snooze_InMonths" xml:space="preserve">
-    <value>In {0} months</value>
-    <comment>In x months</comment>
+    <value>V {0} měsíců</value>
+  <comment>In x months</comment>
   </data>
   <data name="Options_Snooze_MyWeekStartsOn" xml:space="preserve">
-    <value>My week starts on</value>
-    <comment>My week starts on</comment>
+    <value>Můj týden začíná v</value>
+  <comment>My week starts on</comment>
   </data>
   <data name="Snooze_Type_Evening" xml:space="preserve">
-    <value>This evening</value>
-    <comment>This Evening</comment>
+    <value>Dnes večer</value>
+  <comment>This Evening</comment>
   </data>
   <data name="Snooze_Type_Later" xml:space="preserve">
-    <value>Later today</value>
-    <comment>Later today</comment>
+    <value>Dnes později</value>
+  <comment>Later today</comment>
   </data>
   <data name="Snooze_Type_NextWeek" xml:space="preserve">
-    <value>Next week</value>
-    <comment>Next week</comment>
+    <value>Příští týden</value>
+  <comment>Next week</comment>
   </data>
   <data name="Snooze_Type_PickDate" xml:space="preserve">
-    <value>Pick date &amp; time</value>
-    <comment>Pick date &amp; time</comment>
+    <value>Vybrat datum a čas</value>
+  <comment>Pick date &amp; time</comment>
   </data>
   <data name="Snooze_Type_Someday" xml:space="preserve">
-    <value>Someday</value>
-    <comment>Someday</comment>
+    <value>Někdy</value>
+  <comment>Someday</comment>
   </data>
   <data name="Snooze_Type_Tomorrow" xml:space="preserve">
-    <value>Tomorrow</value>
-    <comment>Tomorrow</comment>
+    <value>Zítra</value>
+  <comment>Tomorrow</comment>
   </data>
   <data name="Snooze_Type_TomorrowEve" xml:space="preserve">
-    <value>Tomorrow evening</value>
-    <comment>Tomorrow evening</comment>
+    <value>Zítra večer</value>
+  <comment>Tomorrow evening</comment>
   </data>
   <data name="Snooze_Type_ThisWeekend" xml:space="preserve">
-    <value>This weekend</value>
-    <comment>This weekend</comment>
+    <value>Tento víkend</value>
+  <comment>This weekend</comment>
   </data>
   <data name="Snooze_Type_NextWeekend" xml:space="preserve">
-    <value>Next weekend</value>
-    <comment>Next weekend</comment>
+    <value>Příští víkend</value>
+  <comment>Next weekend</comment>
   </data>
   <data name="Options_Snooze_InOneHour" xml:space="preserve">
-    <value>In 1 hour</value>
-    <comment>In 1 hour</comment>
+    <value>Za 1 hodinu</value>
+  <comment>In 1 hour</comment>
   </data>
   <data name="Options_Snooze_InOneMonth" xml:space="preserve">
-    <value>In 1 month</value>
-    <comment>In 1 month</comment>
+    <value>Za 1 měsíc</value>
+  <comment>In 1 month</comment>
   </data>
   <data name="Conversation_Snooze" xml:space="preserve">
-    <value>Snooze</value>
-    <comment>Snooze</comment>
+    <value>Odložit</value>
+  <comment>Snooze</comment>
   </data>
   <data name="Upgrade_Snooze" xml:space="preserve">
-    <value>Get Snooze and many other features to boost your productivity.</value>
-    <comment>Get Snooze and many other features to boost your productivity.</comment>
+    <value>Získejte Odložit (zprávy) a mnoho dalších funkcí pro zvýšení produktivity.</value>
+  <comment>Get Snooze and many other features to boost your productivity.</comment>
   </data>
   <data name="Welcome_MoreAccounts_Header" xml:space="preserve">
-    <value>Want to add more email accounts?</value>
-    <comment>Want to add more email accounts?</comment>
+    <value>Chcete přidat další emailové účty?</value>
+  <comment>Want to add more email accounts?</comment>
   </data>
   <data name="License_RestartToConvertLiteExplanation" xml:space="preserve">
-    <value>Because you have more than {0} accounts added, Mailbird will now restart and load only {0} of your accounts. The other accounts will be hidden, and can be loaded by either removing a loaded account or upgrading to Pro.</value>
-    <comment>Because you have more than {0} accounts added, Mailbird will now restart and load only {0} of your accounts. The other accounts will be hidden, and can be loaded by either removing a loaded account or upgrading to Pro.</comment>
+    <value>Protože máte přidány více než {0} účtů, Mailbird se nyní restartuje a načte pouze {0} z vašich účtů. Ostatní účty budou skryty a mohou být načteny odebráním načteného účtu nebo upgradem na verzi Pro.</value>
+  <comment>Because you have more than {0} accounts added, Mailbird will now restart and load only {0} of your accounts. The other accounts will be hidden, and can be loaded by either removing a loaded account or upgrading to Pro.</comment>
   </data>
   <data name="License_RestartToConvertLiteTitle" xml:space="preserve">
-    <value>Convert to Mailbird Lite?</value>
-    <comment>Convert to Mailbird Lite?</comment>
+    <value>Převést na Mailbird Lite?</value>
+  <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
-    <value>Activate Licence</value>
-    <comment>Activate Licence</comment>
+    <value>Aktivace Licence</value>
+  <comment>Activate Licence</comment>
   </data>
   <data name="Snooze_SnoozedUntil" xml:space="preserve">
-    <value>Snoozed until {0}</value>
-    <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
+    <value>Odložené do {0}</value>
+  <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
-    <value>Auto-collapse recipient fields on lost focus</value>
-    <comment>Auto-collapse recipient fields on lost focus</comment>
+    <value>Automaticky sbalit seznam příjemců při klepnutí na jinou položku</value>
+  <comment>Auto-collapse recipient fields on lost focus</comment>
   </data>
   <data name="Options_ComposeWindow" xml:space="preserve">
-    <value>Compose window</value>
-    <comment>Compose window</comment>
+    <value>Okno vytvoření zprávy</value>
+  <comment>Compose window</comment>
   </data>
   <data name="SpellChecker_RestartAfterSpellCheckChanged" xml:space="preserve">
-    <value>The changes you've made will be applied after you restart Mailbird.</value>
-    <comment>The changes you've made will be applied after you restart Mailbird.</comment>
+    <value>Změny, které jste provedli budou použity po restartování Mailbird.</value>
+  <comment>The changes you've made will be applied after you restart Mailbird.</comment>
   </data>
   <data name="Options_Apps" xml:space="preserve">
-    <value>Apps</value>
-    <comment>Apps</comment>
+    <value>Aplikace</value>
+  <comment>Apps</comment>
   </data>
   <data name="Options_Email" xml:space="preserve">
     <value>Email</value>
     <comment>Email</comment>
   </data>
   <data name="JumpList_ExitMailbird" xml:space="preserve">
-    <value>Exit {0}</value>
-    <comment>{0} will be replaced by "Mailbird", so the result is "Exit Mailbird"</comment>
+    <value>Ukončit {0}</value>
+  <comment>{0} will be replaced by "Mailbird", so the result is "Exit Mailbird"</comment>
   </data>
   <data name="JumpList_RecentDrafts" xml:space="preserve">
-    <value>Recent drafts</value>
-    <comment>Recent drafts</comment>
+    <value>Nedávné návrhy</value>
+  <comment>Recent drafts</comment>
   </data>
   <data name="JumpList_RecentEmails" xml:space="preserve">
-    <value>Recent emails</value>
-    <comment>Recent emails</comment>
+    <value>Nedávné emaily</value>
+  <comment>Recent emails</comment>
   </data>
   <data name="MailViewer_LoadingUnusuallySlowMessage" xml:space="preserve">
-    <value>Loading is taking longer than usual. Please check your internet connection.</value>
-    <comment>Loading is taking longer than usual. Please check your internet connection.</comment>
+    <value>Načítání trvá déle, než je obvyklé. Prosím zkontrolujte své připojení k internetu.</value>
+  <comment>Loading is taking longer than usual. Please check your internet connection.</comment>
   </data>
   <data name="MailEditor_WebrootPasteError" xml:space="preserve">
-    <value>Blocked by Webroot SecureAnywhere. Please set Webroot Identity Protection to protect or allow Mailbird</value>
-    <comment>Blocked by Webroot SecureAnywhere. Please set Webroot Identity Protection to protect or allow Mailbird</comment>
+    <value>Blokováno Webroot SecureAnywhere. Nastavte prosím Webroot Identity Protection k ochraně nebo povolení Mailbird</value>
+  <comment>Blocked by Webroot SecureAnywhere. Please set Webroot Identity Protection to protect or allow Mailbird</comment>
   </data>
   <data name="Options_ImproveMailbird" xml:space="preserve">
-    <value>Help improve Mailbird</value>
-    <comment>Help improve Mailbird</comment>
+    <value>Pomozte vylepšit Mailbird</value>
+  <comment>Help improve Mailbird</comment>
   </data>
   <data name="Options_ShareDataUsage" xml:space="preserve">
-    <value>Share performance and usage data</value>
-    <comment>Share performance and usage data</comment>
+    <value>Sdílejte údaje o výkonu a využití</value>
+  <comment>Share performance and usage data</comment>
   </data>
   <data name="Options_DisableDirectWriteExplanation" xml:space="preserve">
-    <value>Check this if you experience blurry text in emails and some of the apps.</value>
-    <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
+    <value>Zaškrtněte, pokud se objeví rozmazaný text v emailech a některých aplikacích.</value>
+  <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
+    <value>Zaškrtněte, pokud narazíte na problémy se zobrazením jako jsou písmena, která jsou seskupená nebo změna barvy, a aktualizace ovladačů grafických karet toto neopraví.
 
-Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</value>
-    <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
+Povolení bude ve většině případů mít za následek horší výkon rozhraní a vyšší využití CPU. Ve vzácných případech však s low-end grafickými kartami může zlepšit výkon.</value>
+  <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
   </data>
   <data name="Options_Composing" xml:space="preserve">
-    <value>Composing</value>
-    <comment>Composing</comment>
+    <value>Vytváření</value>
+  <comment>Composing</comment>
   </data>
   <data name="Options_Snooze_Preferences" xml:space="preserve">
-    <value>Snooze preferences</value>
-    <comment>Snooze preferences</comment>
+    <value>Nastavení odložených zpráv</value>
+  <comment>Snooze preferences</comment>
   </data>
   <data name="Options_Snooze_Weekly_Schedule" xml:space="preserve">
-    <value>Your weekly schedule</value>
-    <comment>Your weekly schedule</comment>
+    <value>Váš týdenní plán</value>
+  <comment>Your weekly schedule</comment>
   </data>
   <data name="Folder_AddFromSearch" xml:space="preserve">
-    <value>"{0}" (add folder)</value>
-    <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
+    <value>"{0}" (přidat složku)</value>
+  <comment>"{0}" will be replaced by folder name, so the result will be "Test" (add folder)"</comment>
   </data>
   <data name="Folder_NotFound" xml:space="preserve">
-    <value>Folder not found</value>
-    <comment>Folder not found</comment>
+    <value>Složka nebyla nalezena</value>
+  <comment>Folder not found</comment>
   </data>
   <data name="Folder_Manage" xml:space="preserve">
-    <value>Manage folders</value>
-    <comment>Manage folders</comment>
+    <value>Spravovat složky</value>
+  <comment>Manage folders</comment>
   </data>
   <data name="Folder_NoFolders" xml:space="preserve">
-    <value>No folders</value>
-    <comment>No folders</comment>
+    <value>Žádné složky</value>
+  <comment>No folders</comment>
   </data>
   <data name="Options_QuickReplyBehavior" xml:space="preserve">
-    <value>Default quick reply behavior</value>
-    <comment>Default quick reply behavior</comment>
+    <value>Výchozí chování pro rychlou odpověď</value>
+  <comment>Default quick reply behavior</comment>
   </data>
   <data name="Options_QuickReplyDoReplyToAll" xml:space="preserve">
-    <value>Reply to all by default</value>
-    <comment>Reply to all by default</comment>
+    <value>Odpovědět všem jako výchozí</value>
+  <comment>Reply to all by default</comment>
   </data>
   <data name="ToolTip_NoReply" xml:space="preserve">
-    <value>{0} (No Reply)</value>
-    <comment>{0} (No Reply)</comment>
+    <value>{0} (Žádná odpověď)</value>
+  <comment>{0} (No Reply)</comment>
   </data>
   <data name="Attachment_Delete" xml:space="preserve">
-    <value>Delete from cache</value>
-    <comment>Delete from cache</comment>
+    <value>Smazat z mezipaměti</value>
+  <comment>Delete from cache</comment>
   </data>
   <data name="Invite_MoreSuggestions" xml:space="preserve">
-    <value>More suggestions</value>
-    <comment>More suggestions</comment>
+    <value>Další návrhy</value>
+  <comment>More suggestions</comment>
   </data>
   <data name="Invite_ProSubscription" xml:space="preserve">
-    <value>Pro subscription ({0} months)</value>
-    <comment>Pro subscription ({0} months)</comment>
+    <value>Pro předplatné ({0} měsíců)</value>
+  <comment>Pro subscription ({0} months)</comment>
   </data>
   <data name="Invite_PendingInvitation" xml:space="preserve">
-    <value>Pending invitations ({0} months)</value>
-    <comment>Pending invitations ({0} months)</comment>
+    <value>Nevyřízené pozvánky ({0} měsíců)</value>
+  <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
-    <value>Licence vyprší: {0} (v {1})</value>
-    <comment>Expires</comment>
+    <value>Platnost licence končí: {0} (v {1})</value>
+  <comment>Expires</comment>
   </data>
   <data name="Timeline_Today" xml:space="preserve">
-    <value>Today</value>
-    <comment>Today</comment>
+    <value>Dnes</value>
+  <comment>Today</comment>
   </data>
   <data name="Invite_Accepted" xml:space="preserve">
-    <value>Accepted</value>
-    <comment>Accepted</comment>
+    <value>Přijato</value>
+  <comment>Accepted</comment>
   </data>
   <data name="Invite_Invitees" xml:space="preserve">
-    <value>Invitees</value>
-    <comment>Invitees</comment>
+    <value>Pozvaní</value>
+  <comment>Invitees</comment>
   </data>
   <data name="Invite_SendReminder" xml:space="preserve">
-    <value>Send reminder</value>
-    <comment>Send reminder</comment>
+    <value>Poslat připomenutí</value>
+  <comment>Send reminder</comment>
   </data>
   <data name="Invite_SendReminderAll" xml:space="preserve">
-    <value>Send reminders to all</value>
-    <comment>Send reminders to all</comment>
+    <value>Poslat připomenutí všem</value>
+  <comment>Send reminders to all</comment>
   </data>
   <data name="Invite_Status" xml:space="preserve">
-    <value>Status</value>
-    <comment>Status</comment>
+    <value>Stav</value>
+  <comment>Status</comment>
   </data>
   <data name="Invite_Waiting" xml:space="preserve">
-    <value>Awaiting installation</value>
-    <comment>Awaiting installation</comment>
+    <value>Čekání na instalaci</value>
+  <comment>Awaiting installation</comment>
   </data>
   <data name="Contact_Invite" xml:space="preserve">
-    <value>Invite to Mailbird</value>
-    <comment>Invite to Mailbird</comment>
+    <value>Pozvat do Mailbird</value>
+  <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_ExplanationLifetime" xml:space="preserve">
-    <value>Máte rádi Mailbird? Pomozte nám růst a vylepšit Mailbird jednoduchým pozváním vašich přátel k nám již dnes.</value>
-    <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
+    <value>Milujete Mailbird? Pomozte nám růst a zlepšovat se tím, že jednoduše pozvete své přátele na Mailbird.</value>
+  <comment>Do you know of others who'd benefit from unifying all online communication channels in one place with Mailbird? 
 Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="Invite_TitleBlockLifetime" xml:space="preserve">
-    <value>Tell your friends so we can grow together!</value>
-    <comment>Tell your friends so we can grow together!</comment>
+    <value>Řekněte svým přátelům, abychom mohli společně růst!</value>
+  <comment>Tell your friends so we can grow together!</comment>
   </data>
   <data name="UnifiedAccount_SelectorDisplayName" xml:space="preserve">
-    <value>Unified Account</value>
-    <comment>Unified Account</comment>
+    <value>Jednotný účet</value>
+  <comment>Unified Account</comment>
   </data>
   <data name="Options_EnableUnifiedAccount" xml:space="preserve">
-    <value>Enable unified account</value>
-    <comment>Enable unified account</comment>
+    <value>Povolit jednotný účet</value>
+  <comment>Enable unified account</comment>
   </data>
   <data name="Welcome_UnifyLabel" xml:space="preserve">
-    <value>Unify</value>
-    <comment>Unify</comment>
+    <value>Sjednotit</value>
+  <comment>Unify</comment>
   </data>
   <data name="Welcome_UnifySetting" xml:space="preserve">
-    <value>Include in unified account</value>
-    <comment>Include in unified account</comment>
+    <value>Zahrnout do jednotného účtu</value>
+  <comment>Include in unified account</comment>
   </data>
   <data name="Options_AlwaysExpandSwitcherTooltip" xml:space="preserve">
-    <value>Keeps the account switcher in the navigation pane from collapsing.
-Requires multiple accounts.</value>
-    <comment>Keeps the account switcher in the navigation pane from collapsing.
+    <value>Umožňuje udržovat seznam účtů v bočním navigačním panelu vždy v dohledu.
+Vyžaduje více účtů.</value>
+  <comment>Keeps the account switcher in the navigation pane from collapsing.
 Requires multiple accounts.</comment>
   </data>
   <data name="Options_EnableUnifiedAccountTooltip" xml:space="preserve">
-    <value>Shows a special account that contains messages from all accounts.
-Requires multiple accounts.</value>
-    <comment>Shows a special account that contains messages from all accounts.
+    <value>Zobrazuje speciální účet, který obsahuje zprávy ze všech účtů.
+Vyžaduje více účtů.</value>
+  <comment>Shows a special account that contains messages from all accounts.
 Requires multiple accounts.</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroHeader" xml:space="preserve">
-    <value>Introducing the unified account</value>
-    <comment>Introducing the unified account</comment>
+    <value>Zavedení jednotného účtu</value>
+  <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
-    <value>Přidáte-li více účtů do Mailbirdu, nový "sjednocený" účet je zobrazen v horní části seznamu účtů v navigační liště. Toto obsahuje všechny zprávy ze systémových složek všech účtů na jednom místě, a vy s nimi můžete pracovat stejně, jako s normálními.
+    <value>Při přidání více účtů do služby Mailbird se v horní části navigační lišty, v seznamu účtů, zobrazí nový "sjednocený" účet. Obsahuje všechny zprávy ze systémových složek všech účtů na jednom místě, a můžete s ním pracovat jak jste zvyklí.
 
-Můžete zakázat jednotný účet v nastavení , nebo upravte jednotlivé účty a rozhodněte se, které v něm budou zahrnuty.</value>
-    <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
+Jednotný účet můžete vypnout v nastavení nebo upravit jednotlivé účty a rozhodnout, které z nich by měly být zahrnuty.</value>
+  <comment>When you add multiple accounts to Mailbird, a new "unified" account is shown at the top of the account list in the navigation bar. This contains all messages from the system folders of all accounts in one place, and you can interact with them just as you would normally.
 
 You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</comment>
   </data>
   <data name="Options_SelectUnifiedAccountOnStartup" xml:space="preserve">
-    <value>Select on startup</value>
-    <comment>Select on startup</comment>
+    <value>Vybrat při spuštění</value>
+  <comment>Select on startup</comment>
   </data>
   <data name="Options_SelectUnifiedAccountOnStartupTooltip" xml:space="preserve">
-    <value>Starts Mailbird with the unified account selected.</value>
-    <comment>Starts Mailbird with the unified account selected.</comment>
+    <value>Spustí Mailbird se zvoleným jednotným účtem.</value>
+  <comment>Starts Mailbird with the unified account selected.</comment>
   </data>
   <data name="Notification_UnifiedAccountReleasedHeader" xml:space="preserve">
-    <value>New Feature: Unified Inbox Plus</value>
-    <comment>New Feature: Unified Inbox Plus</comment>
+    <value>Nová funkce: Jednotná složka Doručené pošty Plus</value>
+  <comment>New Feature: Unified Inbox Plus</comment>
   </data>
   <data name="Tutorial_AccountList" xml:space="preserve">
-    <value>Account list</value>
-    <comment>Account list</comment>
+    <value>Seznam účtů</value>
+  <comment>Account list</comment>
   </data>
   <data name="Tutorial_AppList" xml:space="preserve">
-    <value>App list</value>
-    <comment>App list</comment>
+    <value>Seznam aplikací</value>
+  <comment>App list</comment>
   </data>
   <data name="Tutorial_AppStore" xml:space="preserve">
-    <value>App store</value>
-    <comment>App store</comment>
+    <value>Obchod s aplikacemi</value>
+  <comment>App store</comment>
   </data>
   <data name="Tutorial_Archive" xml:space="preserve">
-    <value>Archive</value>
-    <comment>Archive</comment>
+    <value>Archív</value>
+  <comment>Archive</comment>
   </data>
   <data name="Tutorial_Compose" xml:space="preserve">
-    <value>Compose</value>
-    <comment>Compose</comment>
+    <value>Vytvořit</value>
+  <comment>Compose</comment>
   </data>
   <data name="Tutorial_ComposeEmail" xml:space="preserve">
-    <value>Compose your first email</value>
-    <comment>Compose your first email</comment>
+    <value>Vytvořte svůj první e-mail</value>
+  <comment>Compose your first email</comment>
   </data>
   <data name="Tutorial_ConversationList" xml:space="preserve">
-    <value>Conversation list</value>
-    <comment>Conversation list</comment>
+    <value>Seznam konverzací</value>
+  <comment>Conversation list</comment>
   </data>
   <data name="Tutorial_Counter1" xml:space="preserve">
-    <value>1 of 3</value>
-    <comment>1 of 3</comment>
+    <value>1 z 3</value>
+  <comment>1 of 3</comment>
   </data>
   <data name="Tutorial_Counter2" xml:space="preserve">
-    <value>2 of 3</value>
-    <comment>2 of 3</comment>
+    <value>2 z 3</value>
+  <comment>2 of 3</comment>
   </data>
   <data name="Tutorial_Counter3" xml:space="preserve">
-    <value>3 of 3</value>
-    <comment>3 of 3</comment>
+    <value>3 z 3</value>
+  <comment>3 of 3</comment>
   </data>
   <data name="Tutorial_CurrentAccount" xml:space="preserve">
-    <value>Current account</value>
-    <comment>Current account</comment>
+    <value>Současný účet</value>
+  <comment>Current account</comment>
   </data>
   <data name="Tutorial_ExplanationStep1" xml:space="preserve">
-    <value>On the left is your navigation pane. You can use it to switch between accounts, folders and apps.</value>
-    <comment>On the left is your navigation pane. You can use it to switch between accounts, folders and apps.</comment>
+    <value>Vlevo je navigační panel. Můžete jej použít k přepínání mezi účty, složkami a aplikacemi.</value>
+  <comment>On the left is your navigation pane. You can use it to switch between accounts, folders and apps.</comment>
   </data>
   <data name="Tutorial_ExplanationStep2" xml:space="preserve">
-    <value>Use these top buttons to do frequent tasks.</value>
-    <comment>Use these top buttons to do frequent tasks.</comment>
+    <value>Pomocí těchto horních tlačítek provádíte časté úkony.</value>
+  <comment>Use these top buttons to do frequent tasks.</comment>
   </data>
   <data name="Tutorial_ExplanationStep3" xml:space="preserve">
-    <value>This is your conversation view. You can switch between vertical and horizontal layout, as well as disable conversation grouping in the options.</value>
-    <comment>This is your conversation view. You can switch between vertical and horizontal layout, as well as disable conversation grouping in the options.</comment>
+    <value>Toto je vaše zobrazení konverzace. Můžete přepínat mezi vertikálním a horizontálním uspořádáním a zakázat seskupování konverzací v možnostech.</value>
+  <comment>This is your conversation view. You can switch between vertical and horizontal layout, as well as disable conversation grouping in the options.</comment>
   </data>
   <data name="Tutorial_FolderList" xml:space="preserve">
-    <value>Folder list (System folders)</value>
-    <comment>Folder list (System folders)</comment>
+    <value>Seznam složek (Systémové složky)</value>
+  <comment>Folder list (System folders)</comment>
   </data>
   <data name="Tutorial_FolderListGeneric" xml:space="preserve">
-    <value>Folder list (Generic folders)</value>
-    <comment>Folder list (Generic folders)</comment>
+    <value>Seznam složek (Obecné složky)</value>
+  <comment>Folder list (Generic folders)</comment>
   </data>
   <data name="Tutorial_Forward" xml:space="preserve">
-    <value>Forward</value>
-    <comment>Forward</comment>
+    <value>Vpřed</value>
+  <comment>Forward</comment>
   </data>
   <data name="Tutorial_GenericFolder" xml:space="preserve">
-    <value>Generic folder</value>
-    <comment>Generic folder</comment>
+    <value>Obecná složka</value>
+  <comment>Generic folder</comment>
   </data>
   <data name="Tutorial_Gravatar" xml:space="preserve">
     <value>Gravatar</value>
     <comment>Gravatar</comment>
   </data>
   <data name="Tutorial_Heading" xml:space="preserve">
-    <value>Become familiar with Mailbird</value>
-    <comment>Become familiar with Mailbird</comment>
+    <value>Seznamte se s Mailbird</value>
+  <comment>Become familiar with Mailbird</comment>
   </data>
   <data name="Tutorial_MainMenu" xml:space="preserve">
-    <value>Menu</value>
-    <comment>Menu</comment>
+    <value>Nabídka</value>
+  <comment>Menu</comment>
   </data>
   <data name="Tutorial_MessageList" xml:space="preserve">
-    <value>Message list</value>
-    <comment>Message list</comment>
+    <value>Seznam zpráv</value>
+  <comment>Message list</comment>
   </data>
   <data name="Tutorial_More" xml:space="preserve">
     <value>More</value>
@@ -4052,7 +4053,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
-    <value>Opens add link window while you are composing email or editing signature</value>
+    <value>Při vytváření emailu nebo úpravách podpisu se otevře okno s odkazem</value>
   <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
@@ -4587,8 +4588,8 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>[Quoted text hidden]</comment>
   </data>
 <data name="Timeline_ExpireDays" xml:space="preserve">
-    <value>{0} days</value>
-    <comment>{0} days</comment>
+    <value>{0} dnů</value>
+  <comment>{0} days</comment>
   </data>
   <data name="Print_TextHidden" xml:space="preserve">
     <value>[Quoted text hidden]</value>
@@ -4677,8 +4678,8 @@ Please remove some and try again.</comment>
     <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
-    <value>More than 1 account</value>
-    <comment>More than 1 account</comment>
+    <value>Více než 1 účet</value>
+  <comment>More than 1 account</comment>
   </data>
   <data name="Print_Loading" xml:space="preserve">
     <value>Preparing content and loading images...</value>
@@ -4758,8 +4759,8 @@ the final result will be: Search Google for "query"</comment>
     <comment>Print...</comment>
   </data>
 <data name="WebControl_OpenLink" xml:space="preserve">
-    <value>Open link</value>
-    <comment>Open link</comment>
+    <value>Otevřít odkaz</value>
+  <comment>Open link</comment>
   </data>
   <data name="WelcomeMessage_Afternoon" xml:space="preserve">
     <value>Good afternoon, {0}</value>
@@ -5014,9 +5015,9 @@ Are you sure you want to close the window?</comment>
 <data name="Notification_GenericAuthenticationError1" xml:space="preserve">
     <value>This is typically caused by invalid credentials or {0} being disabled on the server for your account.
 
-Read more:
+Čtěte více:
 https://support.getmailbird.com/hc/en-us/articles/220108287</value>
-    <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
+  <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
 
 Read more:
 https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
@@ -5449,8 +5450,8 @@ To add a contact, click the "Add contact" button.</value>
     <comment>Look up on LinkedIn</comment>
   </data>
   <data name="App_Contacts_ContextMenuNewEmail" xml:space="preserve">
-    <value>Compose email</value>
-    <comment>Compose email</comment>
+    <value>Vytvořit email</value>
+  <comment>Compose email</comment>
   </data>
   <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
     <value>Zrušit označení hvězda</value>
@@ -5936,10 +5937,10 @@ with Mailbird Pro?</comment>
     <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Removing a suggestion will keep it from appearing in the list when composing a message - for instance if an email address no longer exists or is incorrect.
+    <value>Odstranění návrhu zabrání, aby se při vytváření zprávy zobrazoval v seznamu - například pokud emailová adresa neexistuje nebo je nesprávná.
 
-Removed suggestions can be restored from the settings.</value>
-    <comment>Dialog box message</comment>
+Odstraněné návrhy lze obnovit z nastavení.</value>
+  <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
     <value>Restore auto-complete suggestions</value>
@@ -6272,8 +6273,8 @@ Try the new Contacts now!</value>
     <comment>Thanks for using Mailbird.</comment>
   </data>
   <data name="App_GoogleKeep_Description" xml:space="preserve">
-    <value>Compose, edit, share, and collaborate on your notes and reminders on any device, anywhere.</value>
-    <comment>Description of the Google Keep App displayed in the app store.</comment>
+    <value>Vytvářejte, upravujte, sdílejte a spolupracujte na svých poznámkách a připomenutích na jakémkoli zařízení, odkudkoli.</value>
+  <comment>Description of the Google Keep App displayed in the app store.</comment>
   </data>
 <data name="SpellCheck_Off" xml:space="preserve">
     <value>Off</value>
