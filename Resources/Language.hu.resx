@@ -126,8 +126,8 @@
     <comment>Quick preview</comment>
   </data>
   <data name="Attachment_Remove" xml:space="preserve">
-    <value>Eltávolít</value>
-    <comment>Remove</comment>
+    <value>Eltávolítás</value>
+  <comment>Remove</comment>
   </data>
   <data name="Attachment_Save" xml:space="preserve">
     <value>Mentés másként...</value>
@@ -146,19 +146,19 @@
     <comment>Copy email address</comment>
   </data>
   <data name="Awesomium_CopyHtml" xml:space="preserve">
-    <value>HTML másolása</value>
-    <comment>Copy HTML</comment>
+    <value>HTML tartalom másolása</value>
+  <comment>Copy HTML</comment>
   </data>
   <data name="Awesomium_CopyImage" xml:space="preserve">
     <value>Kép másolása</value>
     <comment>Copy image</comment>
   </data>
   <data name="Awesomium_CopyImageUrl" xml:space="preserve">
-    <value>Kép címének másolása</value>
-    <comment>Copy image address</comment>
+    <value>Kép webcím másolása</value>
+  <comment>Copy image address</comment>
   </data>
   <data name="Awesomium_CopyLink" xml:space="preserve">
-    <value>Hivatkozás címének másolása</value>
+    <value>Hivatkozás webcím másolása</value>
   <comment>Copy link address</comment>
   </data>
   <data name="Awesomium_Cut" xml:space="preserve">
@@ -166,12 +166,12 @@
     <comment>Cut</comment>
   </data>
   <data name="Awesomium_Ignore" xml:space="preserve">
-    <value>Szöveg kihagyása</value>
+    <value>Szó kihagyása</value>
   <comment>Ignore word</comment>
   </data>
   <data name="Awesomium_Paste" xml:space="preserve">
-    <value>Beilleszt</value>
-    <comment>Paste</comment>
+    <value>Beillesztés</value>
+  <comment>Paste</comment>
   </data>
   <data name="Awesomium_PastePlain" xml:space="preserve">
     <value>Beillesztés egyszerű szövegként</value>
@@ -194,19 +194,19 @@
     <comment>Copy name and email</comment>
   </data>
   <data name="Contact_NewMail" xml:space="preserve">
-    <value>Új e-mail küldése</value>
+    <value>Új email küldése</value>
   <comment>Send new mail</comment>
   </data>
   <data name="Conversation_Archive" xml:space="preserve">
-    <value>Archív</value>
-    <comment>Archive</comment>
+    <value>Archiválás</value>
+  <comment>Archive</comment>
   </data>
   <data name="Conversation_DeletePermanently" xml:space="preserve">
     <value>Végleges törlés</value>
     <comment>Delete permanently</comment>
   </data>
   <data name="Conversation_Discard" xml:space="preserve">
-    <value>Elvet</value>
+    <value>Elvetés</value>
   <comment>Discard</comment>
   </data>
   <data name="Conversation_Draft" xml:space="preserve">
@@ -214,11 +214,11 @@
     <comment>Draft</comment>
   </data>
   <data name="Conversation_EmptyFolder" xml:space="preserve">
-    <value>Üres mappa</value>
+    <value>Mappa kiürítése</value>
   <comment>Empty folder</comment>
   </data>
   <data name="Conversation_Forward" xml:space="preserve">
-    <value>Továbbít</value>
+    <value>Továbbítás</value>
   <comment>Forward</comment>
   </data>
   <data name="Conversation_Folders" xml:space="preserve">
@@ -226,7 +226,7 @@
     <comment>Folders</comment>
   </data>
   <data name="Conversation_CopyTo" xml:space="preserve">
-    <value>Másold</value>
+    <value>Másolás</value>
   <comment>Copy to</comment>
   </data>
   <data name="Conversation_CopyTo2" xml:space="preserve">
@@ -234,7 +234,7 @@
     <comment>Copy to...</comment>
   </data>
   <data name="Options_SettingsMoreInfo" xml:space="preserve">
-    <value>A Mailbird ezt az értéket automatikusan beállítja minden alkalommal, amikor a dpi beállítás változik. Ha kézzel állítod be, a Mailbird megőrzi az értéket, amíg a dpi beállítás nem változik. Az alapértelmezett érték 100%</value>
+    <value>A Mailbird ezt az értéket automatikusan beállítja minden alkalommal, amikor a dpi beállítás változik. Manuálisan megváltoztatva a Mailbird megőrzi az értéket a dpi beállítás megváltoztatásáig. Az alapértelmezett érték 100%</value>
   <comment>Mailbird will automatically adjust this setting everytime your dpi setting is changed. But if you manually change this setting, Mailbird will preserve the value until you change your dpi setting. The default value is 100%</comment>
   </data>
   <data name="Conversation_MarkImportant" xml:space="preserve">
@@ -250,7 +250,7 @@
   <comment>Mark as unread</comment>
   </data>
   <data name="Conversation_MarkNotSpam" xml:space="preserve">
-    <value>Megjelölés nem levélszemétként</value>
+    <value>Levélszemét megjelölés visszavonása</value>
   <comment>Mark as not spam</comment>
   </data>
   <data name="Conversation_MarkNotStarred" xml:space="preserve">
@@ -270,12 +270,12 @@
   <comment>Mark as starred</comment>
   </data>
   <data name="Conversation_MoveTo" xml:space="preserve">
-    <value>Áthelyez...</value>
-    <comment>Move to...</comment>
+    <value>Áthelyezés...</value>
+  <comment>Move to...</comment>
   </data>
   <data name="Conversation_MoveToInbox" xml:space="preserve">
-    <value>Áthelyezés a beérkező levelek közé</value>
-    <comment>Move to Inbox</comment>
+    <value>Áthelyezés a Beérkező levelekhez</value>
+  <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
     <value>Ebben a mappában nincsenek beszélgetések</value>
@@ -314,101 +314,101 @@
     <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
-    <value>Küldés közben a párbeszéd bezárása a jelentés megszakítását vonja maga után. Biztos ezt szeretné?</value>
-    <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
+    <value>A  párbeszéd bezárása a küldés közben a jelentés megszakítását vonja maga után. Megszakításra kerüljön a jelentés?</value>
+  <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
   </data>
   <data name="Dialog_AlreadyAttached" xml:space="preserve">
-    <value>Csatolmány már hozzáadva</value>
-    <comment>Already attached</comment>
+    <value>A melléklet már hozzáadásra került</value>
+  <comment>Already attached</comment>
   </data>
   <data name="Dialog_AlreadyAttachedExplanation" xml:space="preserve">
-    <value>Nem adhat hozzá olyan fájlt ami már csatolva van.</value>
-    <comment>You can't add file that is already attached.</comment>
+    <value>Nem adható hozzá a már mellékelt fájl.</value>
+  <comment>You can't add file that is already attached.</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloaded" xml:space="preserve">
-    <value>A melléklet(ek) nincsenek letöltve</value>
-    <comment>Attachment(s) not downloaded</comment>
+    <value>A mellékletek nem kerültek letölésre</value>
+  <comment>Attachment(s) not downloaded</comment>
   </data>
   <data name="Dialog_AttachmentNotDownloadedExplanation" xml:space="preserve">
-    <value>Továbbítás előtt kérlek várd meg, amíg az összes melléklet letöltésre kerül</value>
-    <comment>Please wait until all attachments have been downloaded before forwarding</comment>
+    <value>A továbbítás előtt meg kell várni az összes melléklet sikeres letöltését</value>
+  <comment>Please wait until all attachments have been downloaded before forwarding</comment>
   </data>
   <data name="Dialog_Cancel" xml:space="preserve">
     <value>Mégsem</value>
     <comment>Cancel</comment>
   </data>
   <data name="Dialog_Stop" xml:space="preserve">
-    <value>Állj</value>
-    <comment>Stop</comment>
+    <value>Megállítás</value>
+  <comment>Stop</comment>
   </data>
   <data name="Dialog_CantRemoveIdentity" xml:space="preserve">
-    <value>A kimenő beállítás nem távolítható el</value>
-    <comment>Cannot remove identity</comment>
+    <value>Az azonosítás nem távolítható el</value>
+  <comment>Cannot remove identity</comment>
   </data>
   <data name="Dialog_CantRemoveIdentityExplanation" xml:space="preserve">
-    <value>Ez a fő kimenő beállítása a fióknak, ami nem távolítható el.</value>
-    <comment>This identity is the main identity of an account and cannot be removed.</comment>
+    <value>Ez a fiók fő azonosítása és nem távolítható el.</value>
+  <comment>This identity is the main identity of an account and cannot be removed.</comment>
   </data>
   <data name="Dialog_CantRetrieveAccess" xml:space="preserve">
-    <value>A hozzáférés nem lekérhető</value>
-    <comment>Could not retrieve access</comment>
+    <value>A hozzáférés nem szerezhető meg</value>
+  <comment>Could not retrieve access</comment>
   </data>
   <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
-    <value>Facebook hozzáférési kulcs jelenleg nem lekérhető. Próbálja újra.</value>
-    <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
+    <value>A Facebook hozzáférési vezérjel jelenleg nem érhető el. Próbáljuk meg újra.</value>
+  <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
   </data>
   <data name="Dialog_CantSave" xml:space="preserve">
-    <value>Fájl nem menthető</value>
-    <comment>Could not save file</comment>
+    <value>A fájl nem menthető</value>
+  <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>'{0}' fájl nem menthető, mert használatban van.</value>
-    <comment>The file '{0}' could not be saved. File already in use.</comment>
+    <value>'{0}' fájl nem menthető, mert éppen használatban van.</value>
+  <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
-    <value>Sikertelen letöltés</value>
-    <comment>Download failed</comment>
+    <value>A letöltés sikertelen</value>
+  <comment>Download failed</comment>
   </data>
   <data name="Dialog_DownloadFailExplanation" xml:space="preserve">
-    <value>Melléklet nem menthető. 
+    <value>A melléklet nem menthető. 
 Leírás: {0}
-Url: {1}</value>
-    <comment>Could not download the attachment. 
+Webcím: {1}</value>
+  <comment>Could not download the attachment. 
 Description: {0}
 Url: {1}</comment>
   </data>
   <data name="Dialog_DownloadProgress" xml:space="preserve">
-    <value>Letöltés folyamatban</value>
-    <comment>Download in progress</comment>
+    <value>A letöltés folyamatban van</value>
+  <comment>Download in progress</comment>
   </data>
   <data name="Dialog_DownloadProgressExplanation" xml:space="preserve">
-    <value>Várjon, amíg az összes mellékletet letöltötte, vagy távolítsa el a mellékleteket.</value>
+    <value>Meg kell várni az összes melléklet letöltését vagy távolítsuk el a mellékleteket.</value>
   <comment>Please wait until all attachments have been downloaded, or remove the attachments.</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentity" xml:space="preserve">
-    <value>A kimenő létrehozása sikertelen</value>
-    <comment>Cannot create identity</comment>
+    <value>Az azonosítás nem hozható létre</value>
+  <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>Az indentitás meg ezzel az email címmel szerepel.</value>
-    <comment>An identity with the same email address already exists.</comment>
+    <value>Már létezik azonosítás ezzel az email címmel.</value>
+  <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
-    <value>Emailek küldése</value>
-    <comment>Emails are sending</comment>
+    <value>Az emailek küldése folyamatban van</value>
+  <comment>Emails are sending</comment>
   </data>
   <data name="Dialog_EmailSendingExplanation" xml:space="preserve">
-    <value>Az üzenet küldése folyamatban. Biztosan ki szeretne lépni és később küldi el a levelet?</value>
-    <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
+    <value>Az üzenetek küldése folyamatban van. Megszakítjuk a műveletet és késleltetjük a küldést?</value>
+  <comment>Messages are still being sent. Are you sure you want to quit now and delay the sending?</comment>
   </data>
   <data name="Dialog_FacebookConnect" xml:space="preserve">
-    <value>Facebook összekapcsolás</value>
-    <comment>Facebook connect</comment>
+    <value>Facebook kapcsolat</value>
+  <comment>Facebook connect</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
-    <value>Facebook azonosítás szükséges.
-Szeretné, hogy újrakapcsolódjuk a Facebook fiókhoz?</value>
-    <comment>We need to re-authenticate with Facebook.
+    <value>Ismételt azonosítás szükséges a Facebookhoz.
+Szeretnénk ismételten kapcsolódni a Facebookhoz?</value>
+  <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
   </data>
   <data name="Dialog_FileNotFound" xml:space="preserve">
@@ -416,20 +416,20 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>{0} nem található. Kérlek ellenőrizze a fájl helyét.</value>
-    <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
+    <value>{0} nem található. Ellenőrizzük a fájl helyét.</value>
+  <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
-    <value>Betöltés</value>
-    <comment>Loading</comment>
+    <value>A betöltés folyamatban van</value>
+  <comment>Loading</comment>
   </data>
   <data name="Dialog_LocalLink" xml:space="preserve">
-    <value>Helyi fájl eléréseket szeretne küldeni?</value>
-    <comment>Send local file links?</comment>
+    <value>Helyi fájl hivatkozásokat szeretnénk küldeni?</value>
+  <comment>Send local file links?</comment>
   </data>
   <data name="Dialog_LocalLinkExplanation" xml:space="preserve">
-    <value>A mellékelt linkek a gépen található fáljra mutatnak, amelyhez a címzettnek nincs hozzáférése. Ezt szeretné tenni?</value>
-    <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
+    <value>A mellékelt hivatkozások a gépen található olyan helyi fájlokra mutatnak, amelyhez a címzettnek nincs hozzáférése. Ezt szeretnénk tenni?</value>
+  <comment>You included links to local files on your computer, which the recipient cannot access. Did you intend to do this?</comment>
   </data>
   <data name="Dialog_No" xml:space="preserve">
     <value>Nem</value>
@@ -440,44 +440,44 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Az URL nem nyitható meg. Kérlek ellenőrizze, hogy az alapértelmezett böngésző helyesen lett telepítve és próbálja meg telepíteni pl. Google Chrome vagy Internet Explorer vagy OPERA.</value>
-    <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
+    <value>A webcím nem nyitható meg. Ellenőrizzük, hogy az alapértelmezett böngésző megfelelően telepítve lett és próbáljuk meg telepíteni például a Google Chrome vagy Internet Explorer böngészőket.</value>
+  <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
     <value>OK</value>
     <comment>OK</comment>
   </data>
   <data name="Dialog_RemoveAccount" xml:space="preserve">
-    <value>Törölni szeretné a helyi fiókot?</value>
-    <comment>Remove local account?</comment>
+    <value>Törlésre kerüljön a helyi fiók?</value>
+  <comment>Remove local account?</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
-    <value>Biztosan elszeretné távolítani a fiókot és az összes kimenő beállítást?
+    <value>Biztosan szeretnénk eltávolítani a fiókot és az összes azonosítást?
 
 A Mailbird újraindítása néhány percet igénybe vehet.</value>
-    <comment>Are you sure you want to remove the account and all connected identities?
+  <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
   </data>
   <data name="Dialog_RemoveIdentity" xml:space="preserve">
-    <value>Törölni szeretné a kimenő beállítást?</value>
-    <comment>Remove identity?</comment>
+    <value>Törlésre kerüljön az azonosítás?</value>
+  <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Biztosan törölni szeretné a {0} kimenőt?
-Ez a művelet visszavonhatatlan.</value>
-    <comment>Are you sure you want to remove the identity for '{0}'?
+    <value>Biztosan törlésre kerüljön {0} azonosítása?
+A műveletet nem lehet visszavonni.</value>
+  <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
   </data>
   <data name="Dialog_ReportCantSend" xml:space="preserve">
-    <value>Nem küldhető</value>
-    <comment>Could not send</comment>
+    <value>Nem küldhető el</value>
+  <comment>Could not send</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
-    <value>Sajnáljuk, de a jelentés küldése sikertelen. 
-Kérjük küldje el nekünk közvetlenül a {0} email címre a mellékelt üzenetet.
+    <value>A jelentést nem lehetett elküldeni. 
+Helyette közvetlenül {0} email címre küldjük el a mellékelt üzenetet.
 Üzenet:</value>
-    <comment>We're sorry, but your report could not be sent. 
+  <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
   </data>
@@ -486,77 +486,77 @@ Message:</comment>
     <comment>Report sent</comment>
   </data>
   <data name="Dialog_ReportSentExplanation" xml:space="preserve">
-    <value>Köszönjük a hiba jelentését!</value>
-    <comment>Thank you for reporting this issue!</comment>
+    <value>Köszönet a hiba jelentéséért!</value>
+  <comment>Thank you for reporting this issue!</comment>
   </data>
   <data name="Dialog_SendingDescription" xml:space="preserve">
     <value>Leírás küldése</value>
     <comment>Sending description</comment>
   </data>
   <data name="Dialog_SendingDescriptionExplanation" xml:space="preserve">
-    <value>Köszönjük a hiba jelentését!</value>
-    <comment>Thank you for reporting this issue!</comment>
+    <value>Köszönet a hiba jelentéséért!</value>
+  <comment>Thank you for reporting this issue!</comment>
   </data>
   <data name="Dialog_SendScreenshot" xml:space="preserve">
-    <value>Képernyőmentés küldésének megerősítése</value>
-    <comment>Confirm sending screenshot</comment>
+    <value>A képernyőmentés küldésének megerősítése</value>
+  <comment>Confirm sending screenshot</comment>
   </data>
   <data name="Dialog_SendScreenshotExplanation" xml:space="preserve">
-    <value>Bejelölte, hogy a hiba azonosítása érdekében a jelentés mellé elküldésre kerüljön egy képernyőmentés. Kérem erősítse meg.</value>
-    <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
+    <value>Képernyőkép küldése került bejelölésre a hiba azonosítása érdekében a jelentés mellé. Ezt meg kell erősíteni.</value>
+  <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
   </data>
   <data name="Dialog_SizeLimit" xml:space="preserve">
-    <value>Méret korlát túllépve</value>
-    <comment>Size limit exceeded</comment>
+    <value>A méretkorlát elérésre került</value>
+  <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>Nem adhat hozzá 25 MB-nál nagyobb méretű fájlokat.</value>
-    <comment>You can't add file larger than 25 mb each.</comment>
+    <value>Nem lehet hozzáadni 25 MB-nál nagyobb méretű fájlokat.</value>
+  <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
-    <value>SMTP kapcsolati hiba</value>
-    <comment>SMTP connection error</comment>
+    <value>SMTP kapcsolati hiba történt</value>
+  <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>Hiba történt a kapcsolati beállítások ellenőrzése közben. Kérlek ellenőrizze, hogy minden helyesen lett kitöltve.</value>
-    <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
+    <value>Hiba történt a kapcsolati beállítások ellenőrzése közben. Ellenőrizzük, hogy minden helyesen lett kitöltve.</value>
+  <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
   <data name="Dialog_SmtpSuccess" xml:space="preserve">
-    <value>SMTP kapcsolódás sikeres</value>
-    <comment>SMTP connection success</comment>
+    <value>AZ SMTP kapcsolódás sikeres</value>
+  <comment>SMTP connection success</comment>
   </data>
   <data name="Dialog_SmtpSuccessExplanation" xml:space="preserve">
-    <value>Sikeresen kapcsolódtunk az SMTP szerverhez. Úgy tűnik minden rendben.</value>
-    <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
+    <value>Sikeres a kapcsolódás az SMTP szerverhez. Úgy tűnik minden rendben.</value>
+  <comment>We successfully connected to the SMTP server. Everything seems in order.</comment>
   </data>
   <data name="Dialog_Thanks" xml:space="preserve">
     <value>Köszönjük!</value>
     <comment>Thanks!</comment>
   </data>
   <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
-    <value>Kérlek várja, amíg a Bejövő üzenetek betöltésre kerül</value>
-    <comment>Please wait until your Inbox has loaded</comment>
+    <value>Meg kell várni a Bejövő postaláda betöltését</value>
+  <comment>Please wait until your Inbox has loaded</comment>
   </data>
   <data name="Dialog_Warning" xml:space="preserve">
     <value>Figyelmeztetés</value>
     <comment>Warning</comment>
   </data>
   <data name="Dialog_WhoToEmail" xml:space="preserve">
-    <value>Kinek szeretne emailt küldeni?</value>
-    <comment>Who'd you like to email?</comment>
+    <value>Kinek küldjünk emailt?</value>
+  <comment>Who'd you like to email?</comment>
   </data>
   <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
-    <value>Legalább egy címzettet adjon meg.</value>
-    <comment>Please specify at least one recipient.</comment>
+    <value>Legalább egy címzettet meg kell adni.</value>
+  <comment>Please specify at least one recipient.</comment>
   </data>
   <data name="Dialog_WithoutAttachment" xml:space="preserve">
     <value>Küldés mellékletek nélkül?</value>
   <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Az üzenetben a "{0}" sz szerepel, ezért úgy gondoltuk, hogy szeretne egy mellékletet csatolni.
-Ha melléklet nélkül szeretné küldeni az emailt, kattintson az "OK" gombra.</value>
-    <comment>You wrote "{0}", and we thought you might want to attach a file.
+    <value>Az üzenetben "{0}" szó szerepel, ezért lehet, hogy mellékletet szeretnénk hozzáadni.
+Ha melléklet nélkül szeretnénk küldeni az emailt, kattintsunk az alábbi "OK" gombra.</value>
+  <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
   <data name="Dialog_Yes" xml:space="preserve">
@@ -568,20 +568,20 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit Html</comment>
   </data>
   <data name="Editor_Picture" xml:space="preserve">
-    <value>Ábra beszúrása</value>
-    <comment>Insert picture</comment>
+    <value>Kép beszúrása</value>
+  <comment>Insert picture</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>Nincs több üzenet</value>
-    <comment>Inbox Zero</comment>
+    <value>Üres bejövő postaláda</value>
+  <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
-    <value>Szuper vagy!</value>
-    <comment>You are awesome!</comment>
+    <value>Gratulálunk!</value>
+  <comment>You are awesome!</comment>
   </data>
   <data name="Dialog_Close" xml:space="preserve">
-    <value>Bezár</value>
-    <comment>Close</comment>
+    <value>Bezárás</value>
+  <comment>Close</comment>
   </data>
   <data name="Dialog_Help" xml:space="preserve">
     <value>Súgó</value>
@@ -608,28 +608,28 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Password:</comment>
   </data>
   <data name="Account_WrongPassword" xml:space="preserve">
-    <value>Kérem a helyes jelszót írja be</value>
-    <comment>Please enter the correct password</comment>
+    <value>Meg kell adni a helyes jelszót</value>
+  <comment>Please enter the correct password</comment>
   </data>
   <data name="Dialog_Add" xml:space="preserve">
-    <value>Hozzáad</value>
-    <comment>Add</comment>
+    <value>Hozzáadás</value>
+  <comment>Add</comment>
   </data>
   <data name="Dialog_Browse" xml:space="preserve">
-    <value>Tallóz</value>
-    <comment>Browse</comment>
+    <value>Tallózás</value>
+  <comment>Browse</comment>
   </data>
   <data name="Dialog_Continue" xml:space="preserve">
-    <value>Folytat</value>
-    <comment>Continue</comment>
+    <value>Folytatás</value>
+  <comment>Continue</comment>
   </data>
   <data name="Dialog_DiscardDraft" xml:space="preserve">
-    <value>Piszkozat elvetése?</value>
-    <comment>Discard Draft?</comment>
+    <value>A vázlat eldobásra kerüljön?</value>
+  <comment>Discard Draft?</comment>
   </data>
   <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
-    <value>Biztosan elveti a piszkozatot?</value>
-    <comment>Are you sure you want to discard your draft?</comment>
+    <value>Valóban eldobásra kerüljön a vázlat?</value>
+  <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
     <value>Hivatkozás hozzáadása</value>
@@ -640,24 +640,24 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Account:</comment>
   </data>
   <data name="Identity_Add" xml:space="preserve">
-    <value>Kimenő hozzáadása</value>
-    <comment>Add identity</comment>
+    <value>Azonosítás hozzáadása</value>
+  <comment>Add identity</comment>
   </data>
   <data name="Identity_DifferentReplyTo" xml:space="preserve">
-    <value>Eltérő válasz email használata</value>
-    <comment>Use a different reply-to address</comment>
+    <value>Eltérő válasz email cím használata</value>
+  <comment>Use a different reply-to address</comment>
   </data>
   <data name="Identity_DifferentSignature" xml:space="preserve">
-    <value>Használjon másik aláírást, mint {0}</value>
-    <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
+    <value>Más aláírás használata mint {0}</value>
+  <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
   </data>
   <data name="Identity_Edit" xml:space="preserve">
-    <value>Kimenő szerkesztése</value>
-    <comment>Edit identity</comment>
+    <value>Azonosítás szerkesztése</value>
+  <comment>Edit identity</comment>
   </data>
   <data name="Identity_ReplyTo" xml:space="preserve">
-    <value>Válasz cím:</value>
-    <comment>Reply-to:</comment>
+    <value>Válasz email cím:</value>
+  <comment>Reply-to:</comment>
   </data>
   <data name="Identity_SendFromAccount" xml:space="preserve">
     <value>Fiók</value>
@@ -696,8 +696,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Test connection</comment>
   </data>
   <data name="Identity_Testing" xml:space="preserve">
-    <value>Kapcsolat tesztelése...</value>
-    <comment>Testing connection...</comment>
+    <value>A kapcsolat tesztelése folyamatban van...</value>
+  <comment>Testing connection...</comment>
   </data>
   <data name="Dialog_Report" xml:space="preserve">
     <value>Hiba jelentése</value>
@@ -732,52 +732,52 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>Másolat2: </value>
-    <comment>Bcc:</comment>
+    <value>Titkos másolat: </value>
+  <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
-    <value>Másolat2</value>
-    <comment>Bcc</comment>
+    <value>Titkos másolat</value>
+  <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
-    <value>Cc: </value>
-    <comment>Cc:</comment>
+    <value>Másolat: </value>
+  <comment>Cc:</comment>
   </data>
   <data name="Conversation_Cc1" xml:space="preserve">
-    <value>Cc</value>
-    <comment>Cc</comment>
+    <value>Másolat</value>
+  <comment>Cc</comment>
   </data>
   <data name="Default_AlwaysAsk" xml:space="preserve">
-    <value>Mindig ellenőrizze a Mailbird indításakor</value>
-    <comment>Always perform this check when starting Mailbird</comment>
+    <value>Az ellenőrzés végrehajtása minden Mailbird indításkor</value>
+  <comment>Always perform this check when starting Mailbird</comment>
   </data>
   <data name="Default_SetAs" xml:space="preserve">
-    <value>Beállítja alapértelmezettnek?</value>
-    <comment>Set as default?</comment>
+    <value>Beállítás alapértelmezettnek?</value>
+  <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
-    <value>Szeretné a Mailbird levelezőt alapértelmezettként használni?</value>
-    <comment>Do you want to use Mailbird as your default email client?</comment>
+    <value>A Mailbird használata alapértelmezett email alkalmazásként?</value>
+  <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
-    <value>Felülírja a fájlokat?</value>
-    <comment>Overwrite Existing Files?</comment>
+    <value>A létező fájlok felülírása?</value>
+  <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
-    <value>Szeretné felülírni a fájlokat?</value>
-    <comment>Would you like to overwrite existing files?</comment>
+    <value>A létező fájlok felülírásra kerüljenek?</value>
+  <comment>Would you like to overwrite existing files?</comment>
   </data>
   <data name="Dialog_Purchase" xml:space="preserve">
     <value>Vásárlás</value>
     <comment>Purchase</comment>
   </data>
   <data name="Dialog_SaveFolder" xml:space="preserve">
-    <value>Válassza ki, melyik mappába kerüljön mentésre a melléklet:</value>
-    <comment>Select the folder to save the selected attachments in:</comment>
+    <value>A mellékletmentés célmappa kiválasztása:</value>
+  <comment>Select the folder to save the selected attachments in:</comment>
   </data>
   <data name="Draft_Saved" xml:space="preserve">
-    <value>Mentve</value>
-    <comment>saved</comment>
+    <value>A mentés megtörtént</value>
+  <comment>saved</comment>
   </data>
   <data name="Day_Friday" xml:space="preserve">
     <value>Péntek</value>
@@ -812,116 +812,116 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Yesterday</comment>
   </data>
   <data name="Download_Always" xml:space="preserve">
-    <value>Mindig töltse le</value>
-    <comment>Always download</comment>
+    <value>Letöltés mindig</value>
+  <comment>Always download</comment>
   </data>
   <data name="Download_Never" xml:space="preserve">
-    <value>Soha se töltse le</value>
-    <comment>Never download</comment>
+    <value>Nincs letöltés</value>
+  <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
-    <value>Kérem adja meg az email címét</value>
-    <comment>Please enter an email address</comment>
+    <value>Meg kell adni az email címet</value>
+  <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
-    <value>Kérjük, írja be a képernyőn megjelenő szöveget</value>
-    <comment>Please enter a link address</comment>
+    <value>Meg kell adni egy megjelenő szöveget</value>
+  <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
-    <value>Nem küldhet üres meghívót</value>
-    <comment>You cannot send an empty invitation</comment>
+    <value>Üres meghívót nem lehet küldeni</value>
+  <comment>You cannot send an empty invitation</comment>
   </data>
   <data name="AccountValidationRule_EmptyPassword" xml:space="preserve">
-    <value>Kérem írjon be egy jelszót</value>
-    <comment>Please enter a password</comment>
+    <value>Meg kell adni egy jelszót</value>
+  <comment>Please enter a password</comment>
   </data>
   <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
-    <value>Adja meg a port számát</value>
-    <comment>Please enter a port number</comment>
+    <value>Meg kell adni egy portszámot</value>
+  <comment>Please enter a port number</comment>
   </data>
   <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
-    <value>Adja meg a szerver nevét</value>
-    <comment>Please enter the server name</comment>
+    <value>Meg kell adni a szerver nevét</value>
+  <comment>Please enter the server name</comment>
   </data>
   <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
-    <value>Kérem írja be a tárgyat</value>
-    <comment>Please enter subject</comment>
+    <value>Meg kell adni a tárgy szövegét</value>
+  <comment>Please enter subject</comment>
   </data>
   <data name="AccountValidationRule_EmptyUsername" xml:space="preserve">
-    <value>Kérem írja be a felhasználónevet</value>
-    <comment>Please enter a username</comment>
+    <value>Meg kell adni egy felhasználónevet</value>
+  <comment>Please enter a username</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
-    <value>Érvénytelen email</value>
-    <comment>Email is invalid</comment>
+    <value>Az email cím érvénytelen</value>
+  <comment>Email is invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail2" xml:space="preserve">
-    <value>Az email érvénytelennek tűnik</value>
-    <comment>Email appears invalid</comment>
+    <value>Az email cím érvénytelennek tűnik</value>
+  <comment>Email appears invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
-    <value>Kérem adjon meg egy érvényes licensz kulcsot</value>
-    <comment>Please enter a valid license key</comment>
+    <value>Érvényes licensz kulcsot kell megadni</value>
+  <comment>Please enter a valid license key</comment>
   </data>
   <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
-    <value>Kérem adjon meg egy érvényes url-t</value>
-    <comment>Please enter a valid url</comment>
+    <value>Meg kell adni egy érvényes webcímet</value>
+  <comment>Please enter a valid url</comment>
   </data>
   <data name="AccountValidationRule_SenderName" xml:space="preserve">
-    <value>Kérem adja meg a nevét</value>
-    <comment>Please enter your name</comment>
+    <value>Meg kell adni a saját nevünket</value>
+  <comment>Please enter your name</comment>
   </data>
   <data name="Facebook_HowMailbirdConnectsLink" xml:space="preserve">
-    <value>Hogyan csatlakozhat a Mailbird a Facebook fiókhoz?</value>
-    <comment>How can Mailbird connect with your Facebook?</comment>
+    <value>Hogyan kapcsolódhat a Mailbird a Facebookhoz?</value>
+  <comment>How can Mailbird connect with your Facebook?</comment>
   </data>
   <data name="Dialog_URL" xml:space="preserve">
-    <value>URL</value>
-    <comment>URL</comment>
+    <value>Webcím</value>
+  <comment>URL</comment>
   </data>
   <data name="Dialog_Email" xml:space="preserve">
-    <value>Email</value>
-    <comment>Email</comment>
+    <value>Email cím</value>
+  <comment>Email</comment>
   </data>
   <data name="Dialog_NameLabel" xml:space="preserve">
     <value>Név:</value>
     <comment>Name:</comment>
   </data>
   <data name="EditFolderWindow_NestFolderUnderLabel" xml:space="preserve">
-    <value>Mappa alatt:</value>
-    <comment>Nest folder under:</comment>
+    <value>Beágyazás mappa alá:</value>
+  <comment>Nest folder under:</comment>
   </data>
   <data name="EditFolderWindow_Title" xml:space="preserve">
-    <value>Új mappa</value>
-    <comment>Add folder</comment>
+    <value>Mappa hozzáadása</value>
+  <comment>Add folder</comment>
   </data>
   <data name="FolderIdentity_AllMail" xml:space="preserve">
     <value>Összes</value>
     <comment>All</comment>
   </data>
   <data name="FolderIdentity_Archived" xml:space="preserve">
-    <value>Archiválva</value>
-    <comment>Archived</comment>
+    <value>Archivált</value>
+  <comment>Archived</comment>
   </data>
   <data name="FolderIdentity_Drafts" xml:space="preserve">
-    <value>Piszkozatok</value>
-    <comment>Drafts</comment>
+    <value>Vázlatok</value>
+  <comment>Drafts</comment>
   </data>
   <data name="FolderIdentity_Important" xml:space="preserve">
     <value>Fontos</value>
     <comment>Important</comment>
   </data>
   <data name="FolderIdentity_Inbox" xml:space="preserve">
-    <value>Bejövő</value>
-    <comment>Inbox</comment>
+    <value>Bejövő postaláda</value>
+  <comment>Inbox</comment>
   </data>
   <data name="FolderIdentity_Sent" xml:space="preserve">
-    <value>Elküldött</value>
-    <comment>Sent</comment>
+    <value>Elküldve</value>
+  <comment>Sent</comment>
   </data>
   <data name="FolderIdentity_Spam" xml:space="preserve">
-    <value>Kéretlen</value>
-    <comment>Spam</comment>
+    <value>Levélszemét</value>
+  <comment>Spam</comment>
   </data>
   <data name="FolderIdentity_Starred" xml:space="preserve">
     <value>Csillagozott</value>
@@ -936,20 +936,20 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Apps</comment>
   </data>
   <data name="Conversation_ShowSource" xml:space="preserve">
-    <value>Üzenet forrása</value>
-    <comment>Message source</comment>
+    <value>Üzenetforrás</value>
+  <comment>Message source</comment>
   </data>
   <data name="Dialog_ReadMore" xml:space="preserve">
-    <value>Olvass még többet</value>
-    <comment>Read more</comment>
+    <value>Bővebben</value>
+  <comment>Read more</comment>
   </data>
   <data name="Dialog_ServerResponse" xml:space="preserve">
-    <value>Szerver válasz:</value>
-    <comment>Server response:</comment>
+    <value>Szerverválasz:</value>
+  <comment>Server response:</comment>
   </data>
   <data name="AppStore_Description" xml:space="preserve">
-    <value>Keressen és telepítsen új alkalmazásokat.</value>
-    <comment>Find and install new apps.</comment>
+    <value>Új alkalmazások keresése és telepítése.</value>
+  <comment>Find and install new apps.</comment>
   </data>
   <data name="AppStore_Off" xml:space="preserve">
     <value>KI</value>
@@ -964,20 +964,20 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search apps</comment>
   </data>
   <data name="App_Asana_Description" xml:space="preserve">
-    <value>A produktivitás itt van! Rendezze, kezelje a tennivaló listáját.</value>
-    <comment>Productivity right at your fingertips! Organize, take action, and cross off your to do list.</comment>
+    <value>A termelékenység a kezünkben van! Szervezés, végrehajtás és kipipálás.</value>
+  <comment>Productivity right at your fingertips! Organize, take action, and cross off your to do list.</comment>
   </data>
   <data name="App_Attachments_Description" xml:space="preserve">
-    <value>Keressen és találjon mellékleteket, megtekinthetjük azokat a miniatűrökben és egyszerűen húzza őket a helyi mappákba.</value>
-    <comment>Search and find attachments, view thumbnails and easily drag them to your local folders.</comment>
+    <value>Mellékletek keresése, bélyegképek megtekintése és áthelyezése a helyi mappákba.</value>
+  <comment>Search and find attachments, view thumbnails and easily drag them to your local folders.</comment>
   </data>
   <data name="App_Attachments_FilenameLabel" xml:space="preserve">
-    <value>Fájl név tartalmazza:</value>
-    <comment>Filename contains:</comment>
+    <value>A fájlnév tartalmaz:</value>
+  <comment>Filename contains:</comment>
   </data>
   <data name="App_Attachments_LoadingText" xml:space="preserve">
-    <value>Keresés...</value>
-    <comment>Searching...</comment>
+    <value>A keresés folyamatban van...</value>
+  <comment>Searching...</comment>
   </data>
   <data name="App_Attachments_MinSizeLabel" xml:space="preserve">
     <value>Minimális méret:</value>
@@ -996,100 +996,100 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search Attachments</comment>
   </data>
   <data name="App_Calendar_Description" xml:space="preserve">
-    <value>Van egy időpontot? Add meg, nyomon követhetjük, erősítse meg azt a Mailbird. Jó program Gmail felhasználóknak.</value>
-    <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
+    <value>Időpontunk van? Adjuk meg, kövessük nyomon, erősítsük meg a Mailbirdben. Nagyszerű program Gmail felhasználóknak.</value>
+  <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
-    <value>Beállítás videó és hang találkozók közvetlenül Mailbird, Veeting szobák segítségével.</value>
-    <comment>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</comment>
+    <value>A videó és audió jellegű találkozók beállítása közvetlenül Mailbirdben a Veeting Rooms segítségével.</value>
+  <comment>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</comment>
   </data>
   <data name="App_Contacts_Description" xml:space="preserve">
-    <value>Könnyedén szerkesztheti, kezelheti és e-mailben a kapcsolatok és a kapcsolattartó csoportokban.</value>
-    <comment>Easily edit, manage and email your contacts and contact groups.</comment>
+    <value>Kapcsolatok és kapcsolatcsoportok könnyű szerkesztése, kezelése és email küldés.</value>
+  <comment>Easily edit, manage and email your contacts and contact groups.</comment>
   </data>
   <data name="App_Contacts_FailedFacebook" xml:space="preserve">
     <value>Nem kérhető le információ a Facebook kapcsolatról.</value>
     <comment>Could not fetch information on contact from Facebook.</comment>
   </data>
   <data name="App_Contacts_LoadingFacebook" xml:space="preserve">
-    <value>Névjegy betöltése a Facebook fiókból...</value>
-    <comment>Loading info on this contact from Facebook...</comment>
+    <value>A kapcsolati információ betöltése a Facebookból...</value>
+  <comment>Loading info on this contact from Facebook...</comment>
   </data>
   <data name="App_Contacts_LoadingText" xml:space="preserve">
     <value>Keresés...</value>
     <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Kérem csatlakoztassa Facebook fiókját a Beállításokon keresztül.</value>
-    <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
+    <value>A Facebook kapcsolat beállítása a Beállításoknál a kapcsolat további információinak beszerzéséhez.</value>
+  <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
     <value>Nincs találat</value>
     <comment>No matches found</comment>
   </data>
   <data name="App_Contacts_SearchLabel" xml:space="preserve">
-    <value>Kapcsolat keresése...</value>
-    <comment>Search people...</comment>
+    <value>Személyek keresése...</value>
+  <comment>Search people...</comment>
   </data>
   <data name="App_Contacts_Title" xml:space="preserve">
-    <value>Névjegyek</value>
+    <value>Kapcsolatok</value>
   <comment>Contacts</comment>
   </data>
   <data name="App_Dropbox_Description" xml:space="preserve">
-    <value>Fájlok megosztása, hozzáférése és rendezése a Mailbird elhagyása nélkül.</value>
-    <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
+    <value>Ezen fájlok elérése, megosztása és szervezése a Mailbird elhagyása nélkül.</value>
+  <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Evernote_Description" xml:space="preserve">
-    <value>Létrehozás, megtekintés, szerkesztés, megjegyzés közvetlenül Mailbirdben! Egyszerű és produktív.</value>
-    <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
+    <value>Létrehozás, megtekintés, szerkesztés, megjegyzés közvetlenül Mailbirdben! Egyszerű és termelékeny.</value>
+  <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
   </data>
   <data name="App_Facebook_Description" xml:space="preserve">
-    <value>Legyen közösségi szupersztár. Kapcsolódjon Facebook fiókjához és csevegjen ismerőseivel a Mailbird levelezőn keresztül.</value>
-    <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
+    <value>Legyünk közösségi szupersztár. Kapcsolódás a Facebookhoz és csevegés az ismerősökkel a Mailbird alkalmazásban.</value>
+  <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
   <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Segítsen, hogy a Mailbird lehessen a világ legjobb levelezőprogramja.</value>
-    <comment>Help make Mailbird the best email app in the world.</comment>
+    <value>Segítség a Mailbird részére a világ legjobb levelező alkalmazássá fejlesztéséhez.</value>
+  <comment>Help make Mailbird the best email app in the world.</comment>
   </data>
   <data name="App_Feedback_Title" xml:space="preserve">
     <value>Visszajelzés</value>
     <comment>Feedback</comment>
   </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
-    <value>Gyors navigálás a fontos dokumentumok között.</value>
-    <comment>Quickly navigate to your important documents from Mailbird.</comment>
+    <value>Gyors navigálás a fontos dokumentumokhoz a Mailbirdben.</value>
+  <comment>Quickly navigate to your important documents from Mailbird.</comment>
   </data>
   <data name="App_Lifehacker_Description" xml:space="preserve">
-    <value>Segéd tippek, trükkök, és technológia a jobb élethez a digitális korban.</value>
-    <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
+    <value>Segédtippek, trükkök és technológia a jobb életminőséghez a digitális korban.</value>
+  <comment>Curates tips, tricks, and technology for living better in the digital age.</comment>
   </data>
   <data name="App_RetroSift_Description" xml:space="preserve">
-    <value>Találd meg az e-mailjeidben az elveszett fotókat és kutasd át őket könnyen.</value>
-    <comment>Easily search and find lost photos in your emails.</comment>
+    <value>Az elveszett képek könnyű megtalálása az emailekben.</value>
+  <comment>Easily search and find lost photos in your emails.</comment>
   </data>
   <data name="App_RetroSift_Title" xml:space="preserve">
-    <value>Elveszett fotók</value>
-    <comment>Lost Photos</comment>
+    <value>Elveszett képek</value>
+  <comment>Lost Photos</comment>
   </data>
   <data name="App_Support_Description" xml:space="preserve">
-    <value>Egy hely, hogy segítséget kérhet a Mailbird tagjaitól.</value>
-    <comment>A place to get help from our Mailbird staff.</comment>
+    <value>Egy hely a segítségkéréshez a Mailbird stábtól.</value>
+  <comment>A place to get help from our Mailbird staff.</comment>
   </data>
   <data name="App_Support_Title" xml:space="preserve">
-    <value>Ügyfélszolgálat</value>
+    <value>Támogatás</value>
   <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
-    <value>Fájl (ok) mentése mellékletként</value>
-    <comment>Paste file(s) as attachment</comment>
+    <value>Fájlok beillesztése mellékletként</value>
+  <comment>Paste file(s) as attachment</comment>
   </data>
   <data name="InboxZero_HighFive" xml:space="preserve">
     <value>Nagy pacsi a Mailbird csapattól!</value>
     <comment>High-five from the Mailbird team!</comment>
   </data>
   <data name="InboxZero_Impressive" xml:space="preserve">
-    <value>Megcsináltad! Lenyűgöző!</value>
-    <comment>You did it! Impressive!</comment>
+    <value>Elkészült! Lenyűgöző!</value>
+  <comment>You did it! Impressive!</comment>
   </data>
   <data name="InboxZero_FeelsGood" xml:space="preserve">
     <value>Ahhh... az jónak tűnik.</value>
@@ -1108,7 +1108,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Wow. You're flying!</comment>
   </data>
   <data name="InboxZero_Rock" xml:space="preserve">
-    <value>Itt van a bizonyíték. Maga a király!</value>
+    <value>Itt van a bizonyíték. Maga a csúcs!</value>
   <comment>There's the proof. You rock!</comment>
   </data>
   <data name="InboxZero_RockStar" xml:space="preserve">
@@ -1116,80 +1116,80 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>You're an email rockstar!!</comment>
   </data>
   <data name="License_CorrectComputerDate" xml:space="preserve">
-    <value>Azt észleltük, hogy nem a helyes a dátum a számítógépen. Kérjük, javítsa a számítógép dátum idő beállítást, majd nyomja meg az OK / Folytatás gombot.</value>
-    <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
+    <value>A számítógép dátumbeállítása helytelen. Javítani kell a számítógép dátum idő beállításait, ezután az OK/Folytatás gombra kell kattintani.</value>
+  <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>Ez a licenc kulcs ki van kapcsolva az adminisztrátor által. Kérjük, lépjen kapcsolatba support@getmailbird.com ha aktiválni szeretné.</value>
-    <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
+    <value>Az adminisztrátor kikapcsolta ezt a licenszkulcsot. Vegyük fel a kapcsolatot a support@getmailbird.com email címen a bekapcsoláshoz.</value>
+  <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
-    <value>Lejárt használati jog</value>
-    <comment>Expired License</comment>
+    <value>A licensz lejárt</value>
+  <comment>Expired License</comment>
   </data>
   <data name="License_ExpiredExplanation" xml:space="preserve">
-    <value>Ön licence kulcs lejárt. Adjon meg másik licenckulcsot vagy nyomja meg a jelenlegi licenc billentyűt a folytatáshoz.</value>
-    <comment>Your license key has expired. Please enter another license key or renew the current license key to continue.</comment>
+    <value>A licenszkulcs lejárt. Adjunk meg egy másik licenszkulcsot vagy újítsuk meg a jelenlegit a folytatáshoz.</value>
+  <comment>Your license key has expired. Please enter another license key or renew the current license key to continue.</comment>
   </data>
   <data name="License_IncorrectDate" xml:space="preserve">
-    <value>Nem valós dátum</value>
-    <comment>Incorrect Date</comment>
+    <value>A dátum helytelen</value>
+  <comment>Incorrect Date</comment>
   </data>
   <data name="License_Information" xml:space="preserve">
-    <value>Az használati jog információdat itt felsoroljuk.</value>
-    <comment>Your license information is listed below.</comment>
+    <value>A licensz információ az alábbiakban látható.</value>
+  <comment>Your license information is listed below.</comment>
   </data>
   <data name="License_Invalid" xml:space="preserve">
-    <value>Érvénytelen használati jog</value>
-    <comment>Invalid License</comment>
+    <value>A licensz érvénytelen</value>
+  <comment>Invalid License</comment>
   </data>
   <data name="License_InvalidHint" xml:space="preserve">
-    <value>Érvénytelen használati kulcs</value>
-    <comment>Invalid license key</comment>
+    <value>A licenszkulcs érvénytelen</value>
+  <comment>Invalid license key</comment>
   </data>
   <data name="License_InvalidExplanation" xml:space="preserve">
-    <value>Kérjük, adja meg az új használati kulcsot, nyomjon a folytatáshoz és frissíthető a használati jog.</value>
-    <comment>Please enter the new license key and press continue to update the license.</comment>
+    <value>Meg kell adni az új licenszkulcsot és a Folytatás gombra kattintva frissíthető a licensz.</value>
+  <comment>Please enter the new license key and press continue to update the license.</comment>
   </data>
   <data name="License_License" xml:space="preserve">
-    <value>Használati jog</value>
-    <comment>License</comment>
+    <value>Licensz</value>
+  <comment>License</comment>
   </data>
   <data name="License_LicenseExplanation" xml:space="preserve">
-    <value>Kérjük, adja meg a licenc kulcsot a folytatáshoz.</value>
-    <comment>Please enter your license key to continue.</comment>
+    <value>A folytatáshoz meg kell adni a licenszkulcsot.</value>
+  <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
-    <value>Az Ön használati joga érvényes örökre.</value>
-    <comment>Your license is valid forever.</comment>
+    <value>Ez a licensz örökre érvényes.</value>
+  <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
-    <value>Az Ön licence még {0}-ig érvényes. Ha még nem törölték az előfizetést, akkor automatikusan meghosszabbodik.</value>
-    <comment>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
+    <value>A jelenlegi licensz lejárata {0}. Ha az előfizetés nem került törlésre, akkor automatikusan megújítható.</value>
+  <comment>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
-    <value>http://example.com/image.jpg</value>
-    <comment>http://example.com/image.jpg</comment>
+    <value>http://valahol.hu/kep.jpg</value>
+  <comment>http://example.com/image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink1" xml:space="preserve">
-    <value>C:\felhasználó\képek\image.jpg</value>
-    <comment>C:\users\picture\image.jpg</comment>
+    <value>C:\felhasznalok\kep\kep.jpg</value>
+  <comment>C:\users\picture\image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink2" xml:space="preserve">
-    <value>email@example.com</value>
-    <comment>email@example.com</comment>
+    <value>jgipsz@valahol.hu</value>
+  <comment>email@example.com</comment>
   </data>
   <data name="LinkEditor_ExampleLink3" xml:space="preserve">
-    <value>http://example.com</value>
-    <comment>http://example.com</comment>
+    <value>http://valahol.hu</value>
+  <comment>http://example.com</comment>
   </data>
   <data name="LinkEditor_FromComputer" xml:space="preserve">
     <value>Számítógépről</value>
     <comment>From Computer</comment>
   </data>
   <data name="LinkEditor_FromUrl" xml:space="preserve">
-    <value>Hivatkozásról</value>
-    <comment>From URL</comment>
+    <value>Webcímről</value>
+  <comment>From URL</comment>
   </data>
   <data name="LinkEditor_Large" xml:space="preserve">
     <value>Nagy</value>
@@ -1200,48 +1200,48 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Medium</comment>
   </data>
   <data name="LinkEditor_OriginalSize" xml:space="preserve">
-    <value>valós méret</value>
-    <comment>Original Size</comment>
+    <value>Eredeti méret</value>
+  <comment>Original Size</comment>
   </data>
   <data name="LinkEditor_Size" xml:space="preserve">
-    <value>Melyik méretű tetszik jobban?</value>
-    <comment>Which size do you prefer?</comment>
+    <value>Melyik méret tetszik jobban?</value>
+  <comment>Which size do you prefer?</comment>
   </data>
   <data name="LinkEditor_Small" xml:space="preserve">
     <value>Kicsi</value>
     <comment>Small</comment>
   </data>
   <data name="LinkEditor_TextToDisplay" xml:space="preserve">
-    <value>Kijelző szövege:</value>
-    <comment>Text to display:</comment>
+    <value>Szöveg megjelenítés:</value>
+  <comment>Text to display:</comment>
   </data>
   <data name="Link_Edit" xml:space="preserve">
     <value>Szerkesztés</value>
     <comment>Edit</comment>
   </data>
   <data name="Link_Email" xml:space="preserve">
-    <value>Elküldött e-mailek:</value>
-    <comment>Send email to:</comment>
+    <value>Email küldés:</value>
+  <comment>Send email to:</comment>
   </data>
   <data name="Link_Go" xml:space="preserve">
-    <value>Ugrás a hivatkozásra:</value>
-    <comment>Go to link:</comment>
+    <value>Webcím felkeresése:</value>
+  <comment>Go to link:</comment>
   </data>
   <data name="Link_Remove" xml:space="preserve">
-    <value>Eltávolít</value>
-    <comment>Remove</comment>
+    <value>Eltávolítás</value>
+  <comment>Remove</comment>
   </data>
   <data name="MapLabelWindow_Draft" xml:space="preserve">
-    <value>Piszkozat</value>
-    <comment>Draft</comment>
+    <value>Vázlat</value>
+  <comment>Draft</comment>
   </data>
   <data name="MapLabelWindow_Important" xml:space="preserve">
     <value>Fontos</value>
     <comment>Important</comment>
   </data>
   <data name="MapLabelWindow_Sent" xml:space="preserve">
-    <value>Küldött</value>
-    <comment>Sent</comment>
+    <value>Elküldve</value>
+  <comment>Sent</comment>
   </data>
   <data name="MapLabelWindow_Spam" xml:space="preserve">
     <value>Levélszemét</value>
@@ -1252,48 +1252,48 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Starred</comment>
   </data>
   <data name="MapLabelWindow_Title" xml:space="preserve">
-    <value>Speciális térkép címkék</value>
-    <comment>Map special labels</comment>
+    <value>Speciális címkék felvétele</value>
+  <comment>Map special labels</comment>
   </data>
   <data name="MapLabelWindow_Trash" xml:space="preserve">
     <value>Lomtár</value>
     <comment>Trash</comment>
   </data>
   <data name="Menu_Compose" xml:space="preserve">
-    <value>Új üzenet létrehozása</value>
-    <comment>Compose</comment>
+    <value>Összeállítás</value>
+  <comment>Compose</comment>
   </data>
   <data name="Menu_DataDirectory" xml:space="preserve">
-    <value>Nyitott adatjegyzék</value>
-    <comment>Open data directory</comment>
+    <value>Adattár megnyitása</value>
+  <comment>Open data directory</comment>
   </data>
   <data name="Menu_Shortcut" xml:space="preserve">
-    <value>Gyorsbillenytűk</value>
-    <comment>Shortcuts</comment>
+    <value>Gyorsbillentyűk</value>
+  <comment>Shortcuts</comment>
   </data>
   <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Visszejelzés küldése</value>
-    <comment>Suggest improvements</comment>
+    <value>Visszajelzés küldése</value>
+  <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Támogatás igénylése</value>
-    <comment>Mailbird support</comment>
+    <value>Támogatás kérés</value>
+  <comment>Mailbird support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
-    <value>Barátok meghívása</value>
-    <comment>Invite friends</comment>
+    <value>Ismerősök meghívása</value>
+  <comment>Invite friends</comment>
   </data>
   <data name="Message_AddAttachments" xml:space="preserve">
-    <value>Csatolmány(ok) hozzáadása</value>
-    <comment>Add attachment(s)</comment>
+    <value>Mellékletek hozzáadása</value>
+  <comment>Add attachment(s)</comment>
   </data>
   <data name="Message_AlwaysDisplayFrom" xml:space="preserve">
-    <value>Mindig jelenítse meg innen</value>
-    <comment>Always display from</comment>
+    <value>Megjelenítés mindig</value>
+  <comment>Always display from</comment>
   </data>
   <data name="Message_Cancel" xml:space="preserve">
-    <value>Mégse</value>
-    <comment>Cancel</comment>
+    <value>Mégsem</value>
+  <comment>Cancel</comment>
   </data>
   <data name="Message_Date" xml:space="preserve">
     <value>Dátum</value>
@@ -1304,8 +1304,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show details</comment>
   </data>
   <data name="Message_DisplayOnce" xml:space="preserve">
-    <value>Megjelenés egyszer</value>
-    <comment>Display once</comment>
+    <value>Megjelenítés egyszer</value>
+  <comment>Display once</comment>
   </data>
   <data name="Message_DropAsAttachment" xml:space="preserve">
     <value>Hozzáadás mellékletként</value>
@@ -1316,8 +1316,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit in new window</comment>
   </data>
   <data name="Message_Find" xml:space="preserve">
-    <value>Üzenet keresése</value>
-    <comment>Find in message</comment>
+    <value>Keresés az üzenetben</value>
+  <comment>Find in message</comment>
   </data>
   <data name="Message_ForwardedMessage" xml:space="preserve">
     <value>Továbbított üzenet</value>
@@ -1328,32 +1328,32 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>From</comment>
   </data>
   <data name="Message_Fw" xml:space="preserve">
-    <value>Fw:</value>
-    <comment>Fw:</comment>
+    <value>Továbbítás:</value>
+  <comment>Fw:</comment>
   </data>
   <data name="Message_Fwd" xml:space="preserve">
-    <value>Továbbít:</value>
-    <comment>Fwd:</comment>
+    <value>Továbbítás:</value>
+  <comment>Fwd:</comment>
   </data>
   <data name="Message_InMaking" xml:space="preserve">
-    <value>Készülőben lévő email.</value>
-    <comment>Email in the making.</comment>
+    <value>Az email készülőben van.</value>
+  <comment>Email in the making.</comment>
   </data>
   <data name="Message_Loading" xml:space="preserve">
     <value>Betöltés</value>
     <comment>Loading</comment>
   </data>
   <data name="Message_On" xml:space="preserve">
-    <value>-hez</value>
-    <comment>On</comment>
+    <value>Erre</value>
+  <comment>On</comment>
   </data>
   <data name="Message_OpenLink" xml:space="preserve">
-    <value>Kattintva új ablak vagy tab nyílik meg</value>
-    <comment>Click to open in a new window or tab</comment>
+    <value>Kattintás megnyitáshoz új ablakban vagy fülön</value>
+  <comment>Click to open in a new window or tab</comment>
   </data>
   <data name="Message_Options" xml:space="preserve">
-    <value>Beállítások</value>
-    <comment>Options</comment>
+    <value>Opciók</value>
+  <comment>Options</comment>
   </data>
   <data name="Message_Print" xml:space="preserve">
     <value>Üzenet nyomtatása</value>
@@ -1364,132 +1364,132 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Quick reply</comment>
   </data>
   <data name="Message_Re" xml:space="preserve">
-    <value>Re:</value>
-    <comment>Re:</comment>
+    <value>Válasz:</value>
+  <comment>Re:</comment>
   </data>
   <data name="Message_RemoteImagesNotDisplayed" xml:space="preserve">
-    <value>Távoli képek nem jelennek meg.</value>
-    <comment>Remote images are not displayed.</comment>
+    <value>A távoli képek nem jelennek meg.</value>
+  <comment>Remote images are not displayed.</comment>
   </data>
   <data name="Message_Save" xml:space="preserve">
     <value>Mentés</value>
     <comment>Save</comment>
   </data>
   <data name="Message_SaveAttachment" xml:space="preserve">
-    <value>Melléklet(ek) mentése</value>
-    <comment>Save attachment(s)</comment>
+    <value>Mellékletek mentése</value>
+  <comment>Save attachment(s)</comment>
   </data>
   <data name="Message_Send" xml:space="preserve">
     <value>Küldés</value>
     <comment>Send</comment>
   </data>
   <data name="Message_SendArchive" xml:space="preserve">
-    <value>Küld és archivál</value>
-    <comment>Send &amp; Archive</comment>
+    <value>Küldés és archiválás</value>
+  <comment>Send &amp; Archive</comment>
   </data>
   <data name="Message_SendEmailTo" xml:space="preserve">
-    <value>Küldj egy e-mailt a {0}</value>
-    <comment>Send an email to {0}</comment>
+    <value>Email küldése {0} részére</value>
+  <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Küldte</value>
-    <comment>Sent:</comment>
+    <value>Elküldve</value>
+  <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
-    <value>Mutasd {0} régebbi üzeneteket</value>
-    <comment>Show {0} older messages</comment>
+    <value>{0} régebbi üzenet megjelenítése</value>
+  <comment>Show {0} older messages</comment>
   </data>
   <data name="Message_ShowWindow" xml:space="preserve">
-    <value>Bemutatóablak</value>
-    <comment>Show window</comment>
+    <value>Ablak megjelenítése</value>
+  <comment>Show window</comment>
   </data>
   <data name="Message_Subject" xml:space="preserve">
     <value>Tárgy</value>
     <comment>Subject</comment>
   </data>
   <data name="Message_Wrote" xml:space="preserve">
-    <value>átír</value>
-    <comment>wrote</comment>
+    <value>írta</value>
+  <comment>wrote</comment>
   </data>
   <data name="Migration_Updating" xml:space="preserve">
-    <value>Adatbázis frissítés... kérlek várj</value>
-    <comment>Updating database... please wait</comment>
+    <value>Az adatbázis frissítése folyamatban van... Várjunk türelemmel</value>
+  <comment>Updating database... please wait</comment>
   </data>
   <data name="NewMessages_BaloonHeader" xml:space="preserve">
     <value>{0} új üzenet</value>
     <comment>{0} new messages</comment>
   </data>
   <data name="NewMessages_BaloonSubHeader" xml:space="preserve">
-    <value>{0} beszélgetésekben</value>
-    <comment>in {0} conversations</comment>
+    <value>{0} beszélgetésben</value>
+  <comment>in {0} conversations</comment>
   </data>
   <data name="NewMessage_EmptySubject" xml:space="preserve">
-    <value>Üres tárgy mező</value>
-    <comment>Empty Subject</comment>
+    <value>Nincs tárgy</value>
+  <comment>Empty Subject</comment>
   </data>
   <data name="NewMessage_NoName" xml:space="preserve">
     <value>Nincs név</value>
     <comment>No Name</comment>
   </data>
   <data name="Notification_ArchiveFail" xml:space="preserve">
-    <value>A beszélgetés már archivált</value>
-    <comment>Conversation already archived</comment>
+    <value>A beszélgetés már archiválásra került</value>
+  <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} beszélgetés arhiválva</value>
-    <comment>{0} Conversations archived</comment>
+    <value>{0} beszélgetés archiválásra került</value>
+  <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
-    <value>Beszélgetés archiválva</value>
-    <comment>Conversation archived</comment>
+    <value>A beszélgetés archiválásra került</value>
+  <comment>Conversation archived</comment>
   </data>
   <data name="Notification_DeleteMany" xml:space="preserve">
-    <value>{0} Beszélgetések véglegesen törlődnek</value>
-    <comment>{0} Conversation deleted permanently</comment>
+    <value>{0} beszélgetés véglegesen törlésre került</value>
+  <comment>{0} Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DeleteSingle" xml:space="preserve">
-    <value>Beszélgetés végleges törlése</value>
+    <value>A beszélgetés véglegesen törlésre került</value>
   <comment>Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DiscardMany" xml:space="preserve">
-    <value>{0} Piszkozat elvetése</value>
-    <comment>{0} Drafts discarded</comment>
+    <value>{0} vázlat elvetésre került</value>
+  <comment>{0} Drafts discarded</comment>
   </data>
   <data name="Notification_DiscardSingle" xml:space="preserve">
-    <value>Piszkozat elvetése</value>
-    <comment>Draft discarded</comment>
+    <value>A vázlat elvetésre került</value>
+  <comment>Draft discarded</comment>
   </data>
   <data name="Notification_MailbirdWaiting" xml:space="preserve">
-    <value>A Mailbirdöd egyenesen itt van miközben vár rád.</value>
-    <comment>Your Mailbird is right here waiting for you.</comment>
+    <value>A Mailbird jelen van és várakozik.</value>
+  <comment>Your Mailbird is right here waiting for you.</comment>
   </data>
   <data name="Notification_Press" xml:space="preserve">
-    <value>Nyomja meg a {0}, hogy írjon egy új e-mailt bármikor.</value>
-    <comment>Press {0} to write a new email anytime.</comment>
+    <value>{0} lenyomása bármikor új email írásához.</value>
+  <comment>Press {0} to write a new email anytime.</comment>
   </data>
   <data name="Notification_ReturnToEmail" xml:space="preserve">
-    <value>Kattintson ide így bármikor visszatérhet az e-mailhez.</value>
-    <comment>Click here anytime to return to your email.</comment>
+    <value>Kattintás ide az emailhez visszatéréshez.</value>
+  <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
-    <value>{0} Beszélgetés kukába</value>
-    <comment>{0} Conversations trashed</comment>
+    <value>{0} beszélgetés a lomtárba került</value>
+  <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
-    <value>Beszélgetés kukába</value>
-    <comment>Conversation trashed</comment>
+    <value>A beszélgetés a lomtárba került</value>
+  <comment>Conversation trashed</comment>
   </data>
   <data name="Notification_Undo" xml:space="preserve">
     <value>Visszavonás</value>
     <comment>Undo</comment>
   </data>
   <data name="Options_About" xml:space="preserve">
-    <value>Mailbird névjegye</value>
-    <comment>About Mailbird</comment>
+    <value>Mailbird névjegy</value>
+  <comment>About Mailbird</comment>
   </data>
   <data name="Options_Policy" xml:space="preserve">
-    <value>Adatvédelmi nyilatkozat megtekintése angolul</value>
-    <comment>View privacy policy</comment>
+    <value>Az adatvédelmi rendszabály megtekintése</value>
+  <comment>View privacy policy</comment>
   </data>
   <data name="Options_Accounts" xml:space="preserve">
     <value>Fiókok</value>
@@ -1500,19 +1500,19 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Advanced</comment>
   </data>
   <data name="Options_AlwaysDownloadImage" xml:space="preserve">
-    <value>Mindig mutassa a távoli képeket</value>
-    <comment>Always show remote images</comment>
+    <value>A távoli képek megjelenítése mindig</value>
+  <comment>Always show remote images</comment>
   </data>
   <data name="Options_AlwaysExpandSwitcher" xml:space="preserve">
-    <value>Mindig mutassa a fiókválasztót</value>
-    <comment>Always expand account switcher</comment>
+    <value>A fiókváltó folyamatos kinyitása</value>
+  <comment>Always expand account switcher</comment>
   </data>
   <data name="Options_AutoDownload" xml:space="preserve">
     <value>Melléklet automatikus letöltési korlát:</value>
     <comment>Attachment auto-download limit:</comment>
   </data>
   <data name="Options_AutoDownloadExplanation" xml:space="preserve">
-    <value>Automatikusan letölti a mellékleteket ha kisebbek, mint a választott méret.</value>
+    <value>A választott méretnél kisebb mellékletek automatikus letöltése.</value>
   <comment>Automatically download attachments smaller than the chosen size.</comment>
   </data>
   <data name="Options_AutomaticUpdate" xml:space="preserve">
@@ -1520,44 +1520,44 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Automatically check for updates</comment>
   </data>
   <data name="Options_AutoSelectOnArchive" xml:space="preserve">
-    <value>Auto-kiválasztás a következő beszélgetés archiválására</value>
-    <comment>Auto-select next conversation when archiving</comment>
+    <value>Archiváláskor a következő beszélgetés automatikus kiválasztása</value>
+  <comment>Auto-select next conversation when archiving</comment>
   </data>
   <data name="Options_CheckUpdate" xml:space="preserve">
     <value>Frissítések ellenőrzése most</value>
     <comment>Check for updates now</comment>
   </data>
   <data name="Options_DefaultApplication" xml:space="preserve">
-    <value>Alapértelmezett levelező</value>
-    <comment>Default email application</comment>
+    <value>Alapértelmezett email alkalmazás</value>
+  <comment>Default email application</comment>
   </data>
   <data name="Options_DefaultIdentity" xml:space="preserve">
     <value>(Alapértelmezett)</value>
     <comment>(Default)</comment>
   </data>
   <data name="Options_DefaultNotification" xml:space="preserve">
-    <value>Szóljon, ha Mailbird nem az alapértelmezett e-mail kliens</value>
-    <comment>Tell me if Mailbird is not the default email client</comment>
+    <value>Jelzés, ha a Mailbird nem az alapértelmezett email alkalmazás</value>
+  <comment>Tell me if Mailbird is not the default email client</comment>
   </data>
   <data name="Options_DownloadOnDemand" xml:space="preserve">
-    <value>Kérésre üzeneteket tölt le</value>
-    <comment>Download messages on demand</comment>
+    <value>Üzenetek letöltése kérésére</value>
+  <comment>Download messages on demand</comment>
   </data>
   <data name="Options_Facebook" xml:space="preserve">
     <value>Facebook</value>
     <comment>Facebook</comment>
   </data>
   <data name="Options_FacebookExplanation" xml:space="preserve">
-    <value>Legyél közösségi. Láss profilképeket és a barátaid kapcsolati információját.</value>
-    <comment>Go social. See profile pictures and contact information of your friends.</comment>
+    <value>Legyünk közösségiek. Nézzük meg az ismerősök profilképeit és kapcsolati információját.</value>
+  <comment>Go social. See profile pictures and contact information of your friends.</comment>
   </data>
   <data name="Options_FacebookExplanation1" xml:space="preserve">
-    <value>Facebook fiókjával most össze van kötve. A fotók és a kapcsolatok automatikusan frissítésre kerülnek a Mailbird-ben.</value>
-    <comment>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</comment>
+    <value>A Facebook fiók összekötésbe került. A képek és a kapcsolatok automatikusan frissítésre kerülnek a Mailbird alkalmazásban.</value>
+  <comment>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</comment>
   </data>
   <data name="Options_ZoomLevel" xml:space="preserve">
-    <value>Nagyítás mértéke</value>
-    <comment>Zoom level</comment>
+    <value>Nagyítás szint</value>
+  <comment>Zoom level</comment>
   </data>
   <data name="Options_General" xml:space="preserve">
     <value>Általános</value>
@@ -1568,184 +1568,184 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Appearance</comment>
   </data>
   <data name="Options_GroupUnread" xml:space="preserve">
-    <value>Olvasatlan beszélgetések legfelül</value>
-    <comment>Group unread conversations at the top</comment>
+    <value>Olvasatlan beszélgetések csoportosítása felül</value>
+  <comment>Group unread conversations at the top</comment>
   </data>
   <data name="Options_HideIcon" xml:space="preserve">
     <value>Tálca ikon elrejtése kis méretnél</value>
     <comment>Hide taskbar icon when minimized</comment>
   </data>
   <data name="Options_Identities" xml:space="preserve">
-    <value>Kimenő</value>
-    <comment>Identities</comment>
+    <value>Azonosítások</value>
+  <comment>Identities</comment>
   </data>
   <data name="Options_Identities_and_Signatures" xml:space="preserve">
-    <value>Személyazonosság és aláírás</value>
-    <comment>Identities &amp; Signatures</comment>
+    <value>Azonosságok és aláírások</value>
+  <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>Fontos leveleket mutató indikátor</value>
-    <comment>Show "important mail" indicator</comment>
+    <value>A "Fontos levél" jelző megjelenítése</value>
+  <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
-    <value>Sorközi válasz bevezető szövege</value>
-    <comment>In-line reply intro text</comment>
+    <value>A sorközi válasz bevezető szövege</value>
+  <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
-    <value>Mailbird az alapértelmezett levelező program</value>
-    <comment>Mailbird is the default email client</comment>
+    <value>A Mailbird az alapértelmezett levelező alkalmazás</value>
+  <comment>Mailbird is the default email client</comment>
   </data>
   <data name="Options_FoldersFor" xml:space="preserve">
-    <value>Mappái:</value>
-    <comment>Folders for:</comment>
+    <value>Mappák:</value>
+  <comment>Folders for:</comment>
   </data>
   <data name="Options_License" xml:space="preserve">
-    <value>Használati kulcs változtatása</value>
-    <comment>Change license key</comment>
+    <value>Licensz kulcs csere</value>
+  <comment>Change license key</comment>
   </data>
   <data name="Options_EditSignatures" xml:space="preserve">
-    <value>Aláírás szerkesztése</value>
-    <comment>Edit signatures</comment>
+    <value>Aláírások szerkesztése</value>
+  <comment>Edit signatures</comment>
   </data>
   <data name="Options_MessagePreview" xml:space="preserve">
-    <value>Beszélgetés nézetben mutasson részletet az üzenetből</value>
-    <comment>Show message previews in conversation view</comment>
+    <value>Üzenet előnézetek megjelenítése beszélgetés nézetben</value>
+  <comment>Show message previews in conversation view</comment>
   </data>
   <data name="Options_NotDefault" xml:space="preserve">
-    <value>Mailbird nem az alapértelmezett levelező program</value>
-    <comment>Mailbird is not the default email client</comment>
+    <value>A Mailbird nem az alapértelmezett levelező alkalmazás</value>
+  <comment>Mailbird is not the default email client</comment>
   </data>
   <data name="Options_Notifications" xml:space="preserve">
     <value>Értesítések</value>
     <comment>Notifications</comment>
   </data>
   <data name="Options_Performance" xml:space="preserve">
-    <value>Teljesítmény</value>
-    <comment>Performance</comment>
+    <value>Működés</value>
+  <comment>Performance</comment>
   </data>
   <data name="Options_QuickCompose" xml:space="preserve">
     <value>Új üzenet gyorsbillentyű</value>
     <comment>Quick compose shortcut</comment>
   </data>
   <data name="Options_QuickComposeExplanation" xml:space="preserve">
-    <value>Ha ezt a parancsikont beállítja, akkor képes lesz arra, hogy levelet készítsen még akkor is amikor a Mailbird kis méretben van.</value>
-    <comment>By setting this shortcut, you'll be able to compose email even if Mailbird is minimized.</comment>
+    <value>Ezt a parancsikont beállítva, akkor is lehetőség van email készítésére, ha a Mailbird kis méretben fut.</value>
+  <comment>By setting this shortcut, you'll be able to compose email even if Mailbird is minimized.</comment>
   </data>
   <data name="Options_QuickComposeExplanation1" xml:space="preserve">
-    <value>Levelet ír akkor is, ha Mailbird zárva van.</value>
-    <comment>Compose even when Mailbird is closed.</comment>
+    <value>Email írás akkor is, ha a Mailbird be van zárva.</value>
+  <comment>Compose even when Mailbird is closed.</comment>
   </data>
   <data name="Options_QuitOnClose" xml:space="preserve">
-    <value>A bezárásra kattintva lépjen ki a Mailbird-ből</value>
-    <comment>Quit Mailbird on close</comment>
+    <value>Bezáráskor kilépés a Mailbird alkalmazásból</value>
+  <comment>Quit Mailbird on close</comment>
   </data>
   <data name="Options_RecordShortcut" xml:space="preserve">
-    <value>Kattintson a rögzítéshez</value>
-    <comment>Click to record</comment>
+    <value>Kattintás a rögzítéshez</value>
+  <comment>Click to record</comment>
   </data>
   <data name="Options_RecordShortcut1" xml:space="preserve">
-    <value>Kattintson a parancsikon létrehozásához</value>
-    <comment>Click to create shortcut</comment>
+    <value>Kattintás a parancsikon létrehozásához</value>
+  <comment>Click to create shortcut</comment>
   </data>
   <data name="Options_SendArchive" xml:space="preserve">
-    <value>Küld és archivál</value>
-    <comment>Send &amp; Archive</comment>
+    <value>Küldés és archiválás</value>
+  <comment>Send &amp; Archive</comment>
   </data>
   <data name="Options_SetDefault" xml:space="preserve">
-    <value>Beállít alapértelmezettnek</value>
-    <comment>Set as default</comment>
+    <value>Beállítás alapértelmezettnek</value>
+  <comment>Set as default</comment>
   </data>
   <data name="Options_LayoutThemeColor" xml:space="preserve">
-    <value>Elrendezés és a téma színe</value>
-    <comment>Layout and theme color</comment>
+    <value>Elrendezés és témaszín</value>
+  <comment>Layout and theme color</comment>
   </data>
   <data name="Options_ChooseMenuColor" xml:space="preserve">
-    <value>Szín kiválasztása</value>
-    <comment>Choose theme color</comment>
+    <value>Témaszín választás</value>
+  <comment>Choose theme color</comment>
   </data>
   <data name="Options_ShowAnimations" xml:space="preserve">
     <value>Animációk megjelenítése</value>
     <comment>Show animations</comment>
   </data>
   <data name="Options_DisableDirectWrite" xml:space="preserve">
-    <value>DirectWrite tiltása</value>
-    <comment>Disable DirectWrite</comment>
+    <value>DirectWrite letiltása</value>
+  <comment>Disable DirectWrite</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Küldés és archiválás gomb használata</value>
-    <comment>Show send &amp; archive button</comment>
+    <value>Küldés és archiválás gomb megjelenítése</value>
+  <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
-    <value>Szoftver által kiszámolt felület</value>
-    <comment>Force software rendering</comment>
+    <value>Szoftveres megjelenítés erőltetés</value>
+  <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>Új üzenet hang:</value>
-    <comment>Play sound when receiving a message</comment>
+    <value>Új üzenethang:</value>
+  <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
     <value>Indítás kis méretben</value>
     <comment>Start minimized</comment>
   </data>
   <data name="Options_StartStartup" xml:space="preserve">
-    <value>Windows-al együtt indul</value>
-    <comment>Run on Windows startup</comment>
+    <value>Indítás a Windows indításakor</value>
+  <comment>Run on Windows startup</comment>
   </data>
   <data name="Options_SyncBehavior" xml:space="preserve">
-    <value>Viselkedés synkronizálás</value>
-    <comment>Sync behavior</comment>
+    <value>Viselkedés szinkronizálás</value>
+  <comment>Sync behavior</comment>
   </data>
   <data name="Options_SyncWithServer" xml:space="preserve">
-    <value>Szerver szinkronizálása</value>
-    <comment>Sync with server</comment>
+    <value>Szinkronizálás a szerverrel</value>
+  <comment>Sync with server</comment>
   </data>
   <data name="Options_SyncWithServer1" xml:space="preserve">
-    <value>Szinkronizál...</value>
-    <comment>Syncing..</comment>
+    <value>A szinkronizálás folyamatban van...</value>
+  <comment>Syncing..</comment>
   </data>
   <data name="Options_TrayNotification" xml:space="preserve">
-    <value>Mutassa a tálcán ha üzenet érkezik</value>
-    <comment>Show tray notification when receiving a message</comment>
+    <value>Értesítés megjelenítése a tálcán új üzenet érkezésekor</value>
+  <comment>Show tray notification when receiving a message</comment>
   </data>
   <data name="Options_TypeShortcut" xml:space="preserve">
-    <value>Gyorsbillenytűk típusa</value>
-    <comment>Type shortcut</comment>
+    <value>Gyorsbillentyű típusa</value>
+  <comment>Type shortcut</comment>
   </data>
   <data name="Options_UnreadNotification" xml:space="preserve">
-    <value>Mutassa az olvasatlan üzenetek számát a tálcán és a rendszertálcán</value>
-    <comment>Show unread count in taskbar &amp; system tray</comment>
+    <value>Olvasatlan számláló megjelenítése a tálcán és a rendszertálcán</value>
+  <comment>Show unread count in taskbar &amp; system tray</comment>
   </data>
   <data name="Options_Updates" xml:space="preserve">
-    <value>Frissítés</value>
-    <comment>Updates</comment>
+    <value>Frissítések</value>
+  <comment>Updates</comment>
   </data>
   <data name="Options_UseGmailShortcut" xml:space="preserve">
-    <value>Használja a Gmail billentyűparancsokat</value>
-    <comment>Use Gmail keyboard shortcuts</comment>
+    <value>A Gmail billentyűparancsok használata</value>
+  <comment>Use Gmail keyboard shortcuts</comment>
   </data>
   <data name="Options_VersionHistory" xml:space="preserve">
-    <value>Változáslista megtekintése</value>
-    <comment>View version history</comment>
+    <value>Verziótörténet megtekintése</value>
+  <comment>View version history</comment>
   </data>
   <data name="Options_ViewLicense" xml:space="preserve">
-    <value>Tekintse meg a licence megállapodást</value>
-    <comment>View license agreement</comment>
+    <value>Licensz megállapodás megtekintése</value>
+  <comment>View license agreement</comment>
   </data>
   <data name="Options_Zoom" xml:space="preserve">
-    <value>125%-ra nagyítva</value>
-    <comment>Zoom by 125%</comment>
+    <value>125%-os nagyítás</value>
+  <comment>Zoom by 125%</comment>
   </data>
   <data name="Option_Invalid" xml:space="preserve">
     <value>Érvénytelen:</value>
     <comment>Invalid:</comment>
   </data>
   <data name="QuickPreview_Loading" xml:space="preserve">
-    <value>Előnézet betöltése...</value>
-    <comment>Loading preview...</comment>
+    <value>Az előnézet betöltése folyamatban van...</value>
+  <comment>Loading preview...</comment>
   </data>
   <data name="QuickPreview_NoPreview" xml:space="preserve">
-    <value>Előnézet nem elérhető</value>
-    <comment>No Preview Available</comment>
+    <value>Az előnézet nem elérhető el</value>
+  <comment>No Preview Available</comment>
   </data>
   <data name="QuickPreview_NotDownloaded" xml:space="preserve">
     <value>A melléklet még nem lett letöltve</value>
@@ -1760,16 +1760,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Houston, we have a problem!</comment>
   </data>
   <data name="Report_HoustonExplanation" xml:space="preserve">
-    <value>Sajnáljuk, de valami elromlott és a Mailbird-öt be kellett zárni. Segítsen nekünk, kérjük ossza meg velünk, hogy mit csinált akkor, amikor ez történt. Köszönjük, hogy részt vesz a legjobb levelezőprogram építésében!</value>
-    <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
+    <value>Valamilyen hiba történt és a Mailbird leállt. A hiba javításához tudnunk kell, hogy mit csináltunk akkor, amikor ez történt. Köszönjük a részvételt a legjobb levelező alkalmazás építésében!</value>
+  <comment>We're sorry, but something went wrong and Mailbird has to close. To help us fix this in a jiffy, please let us know what you were doing just prior to, and when it happened. Thank you for being part of building the best mail app ever!</comment>
   </data>
   <data name="Report_Include" xml:space="preserve">
     <value>Tartalmazza: </value>
     <comment>Include: </comment>
   </data>
   <data name="Report_Intro" xml:space="preserve">
-    <value>Probléma leírása...</value>
-    <comment>I was..</comment>
+    <value>A probléma leírása...</value>
+  <comment>I was..</comment>
   </data>
   <data name="Report_Report" xml:space="preserve">
     <value>Hibajelentés</value>
@@ -1780,8 +1780,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send</comment>
   </data>
   <data name="Report_ViewDetails" xml:space="preserve">
-    <value>Részletek</value>
-    <comment>View details</comment>
+    <value>Részletek megtekintése</value>
+  <comment>View details</comment>
   </data>
   <data name="RichText_CantFetch" xml:space="preserve">
     <value>Jelenleg nem sikerült letölteni a tartalmat. Kérjük próbálja újra később.</value>
@@ -1796,180 +1796,180 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Archive your conversation from any view.</comment>
   </data>
   <data name="Shortcut_ArchiveNext" xml:space="preserve">
-    <value>Archíválás és következő</value>
-    <comment>Archive and next</comment>
+    <value>Archiválás és következő</value>
+  <comment>Archive and next</comment>
   </data>
   <data name="Shortcut_ArchiveNextExplanation" xml:space="preserve">
-    <value>Eltávolítja a beszélgetést a beérkezőből és átkerül a következőbe.</value>
-    <comment>Removes the conversation from the inbox and moves to the next one.</comment>
+    <value>Eltávolítja a beszélgetést a bejövő postaládából és átlép a következőhöz.</value>
+  <comment>Removes the conversation from the inbox and moves to the next one.</comment>
   </data>
   <data name="Shortcut_ArchivePrevious" xml:space="preserve">
-    <value>Archíválás és a korábbi</value>
-    <comment>Archive and previous</comment>
+    <value>Archiválás és előző</value>
+  <comment>Archive and previous</comment>
   </data>
   <data name="Shortcut_ArchivePreviousExplanation" xml:space="preserve">
-    <value>Eltávolítja az aktuális nézet címkéjét a beszélgetéséből, és mozgatja az előzőhöz.</value>
-    <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
+    <value>Eltávolítja az aktuális nézet címkéjét a beszélgetéséből és átlép az előzőhöz.</value>
+  <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
   </data>
   <data name="Shortcut_Close" xml:space="preserve">
     <value>Az aktuális ablak bezárása</value>
     <comment>Close Current Window</comment>
   </data>
   <data name="Shortcut_CloseExplanation" xml:space="preserve">
-    <value>Bezárja az aktuális nyitott ablakot. Ha az aktuális ablak a fő ablak, akkor annak kicsinyítése a tálcára.</value>
-    <comment>Closes the current open window. If the current window is main window, it will be minimized to tray.</comment>
+    <value>Bezárja az aktuális nyitott ablakot. Ha az aktuális ablak a fő ablak, akkor azt a tálcára kicsinyíti.</value>
+  <comment>Closes the current open window. If the current window is main window, it will be minimized to tray.</comment>
   </data>
   <data name="Shortcut_CloseOther" xml:space="preserve">
     <value>Egyéb ablak bezárása</value>
     <comment>Close Other Window</comment>
   </data>
   <data name="Shortcut_CloseOtherExplanation" xml:space="preserve">
-    <value>Bezárja a nyitott ablakok, kivéve a fő ablakban.</value>
-    <comment>Closes the open windows, except the main window.</comment>
+    <value>Bezárja a nyitott ablakokat a fő ablak kivételével.</value>
+  <comment>Closes the open windows, except the main window.</comment>
   </data>
   <data name="Shortcut_ComposeExplanation" xml:space="preserve">
-    <value>Lehetővé teszi, hogy új üzenetet írhat.</value>
-    <comment>Allows you to compose a new message.</comment>
+    <value>Lehetővé teszi új üzenetet írását.</value>
+  <comment>Allows you to compose a new message.</comment>
   </data>
   <data name="Shortcut_CopyAttachment" xml:space="preserve">
     <value>Melléklet másolása</value>
     <comment>Copy Attachment</comment>
   </data>
   <data name="Shortcut_CopyAttachmentExplanation" xml:space="preserve">
-    <value>Másolja a kijelölt melléklet(ek) a vágólapra. Csak akkor működik, ha a kiválasztott melléklet(ek)-re koncentrálnak.</value>
-    <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
+    <value>A kijelölt mellékletek másolása a vágólapra. Csak akkor működik, ha a kiválasztott mellékletek a fókuszban vannak.</value>
+  <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
   </data>
   <data name="Shortcut_Delete" xml:space="preserve">
     <value>Törlés</value>
   <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
-    <value>Beszélgetés áthelyezése a kukába.</value>
-    <comment>Moves the conversation to Trash.</comment>
+    <value>A beszélgetés áthelyezése a kukába.</value>
+  <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
-    <value>Vázlat vagy a beszélgetés törlése</value>
-    <comment>Delete Draft or Trash Conversation</comment>
+    <value>A vázlat törlése vagy a beszélgetés lomtárba helyezése</value>
+  <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Törli a vázlat megjelölést vagy kukába helyezi a kijelölt beszélgetést.</value>
-    <comment>Delete selected draft or trash the selected conversation.</comment>
+    <value>A kiválasztott vázlat törlése vagy a kiválasztott beszélgetés lomtárba helyezése.</value>
+  <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
     <value>Kilépés</value>
     <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
-    <value>Alkalmazás bezárása.</value>
-    <comment>Close Mailbird application.</comment>
+    <value>Az alkalmazás bezárása.</value>
+  <comment>Close Mailbird application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
-    <value>Kiterjeszt / Összevon ablakot</value>
-    <comment>Expand/Collapse Window</comment>
+    <value>Az ablak kinyitása/összezárása</value>
+  <comment>Expand/Collapse Window</comment>
   </data>
   <data name="Shortcut_ExpandCollapseExplanation" xml:space="preserve">
-    <value>Lehetővé teszi, hogy kiterjedt / fő ablakban, és keresse a beszélgetést listát és üzenetek listáját.</value>
-    <comment>Allows you to expand/collapse the main window, and navigate between the conversation list and message list.</comment>
+    <value>Lehetővé teszi a fő ablak kinyitását/összezárását és a navigálást a beszélgetés lista és az üzenet lista között.</value>
+  <comment>Allows you to expand/collapse the main window, and navigate between the conversation list and message list.</comment>
   </data>
   <data name="Shortcut_Find" xml:space="preserve">
-    <value>Keres</value>
-    <comment>Find</comment>
+    <value>Keresés</value>
+  <comment>Find</comment>
   </data>
   <data name="Shortcut_FindExplanation" xml:space="preserve">
-    <value>Keresés a szövegben a kiválasztott üzenetben.</value>
-    <comment>Search within the text in the selected message.</comment>
+    <value>Keresés a kiválasztott üzenet szövegében.</value>
+  <comment>Search within the text in the selected message.</comment>
   </data>
   <data name="Shortcut_ForwardExplanation" xml:space="preserve">
-    <value>Továbbítja az üzenetet.</value>
-    <comment>Forwards a message.</comment>
+    <value>Egy üzenet továbbítása.</value>
+  <comment>Forwards a message.</comment>
   </data>
   <data name="Shortcut_Gmail" xml:space="preserve">
     <value>ELÉRHETŐ GMAIL GYORSBILLENTYŰK</value>
     <comment>AVAILABLE GMAIL SHORTCUTS</comment>
   </data>
   <data name="Shortcut_GmailExplanation" xml:space="preserve">
-    <value>Engedélyezze az alábbi GMail billentyűparancsokat a Mailbird beállításaiban.</value>
-    <comment>Enable the following GMail shortcuts below from the Mailbird Options window.</comment>
+    <value>A következő GMail billentyűparancsok engedélyezése a Mailbird beállítás ablakában.</value>
+  <comment>Enable the following GMail shortcuts below from the Mailbird Options window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
-    <value>Mutassa a billentyűparancsok segédletet</value>
-    <comment>Show keyboard shortcuts help</comment>
+    <value>A billentyűparancsok súgójának megjelenítése</value>
+  <comment>Show keyboard shortcuts help</comment>
   </data>
   <data name="Shortcut_HelpExplanation" xml:space="preserve">
-    <value>Kijelzők gyorsbillentyűk segítenek menübe bármikor Mailbird ablak tekintettel.</value>
-    <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
+    <value>Gyorsbillentyű súgómenü megjelenítése bármikor, ha a Mailbird ablak látható.</value>
+  <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
   </data>
   <data name="Shortcut_ImportantExplanation" xml:space="preserve">
-    <value>Segít Gmail megtanulják, mi a fontos számodra a jelölés pontos eredményt üzeneteket. (Különleges, hogy a Fontos levelek)</value>
-    <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
+    <value>Segíti Gmail megismerését, ami fontos az osztályozatlan üzenetek megjelölésénél. (Különösen az Elsődleges bejövő postaláda)</value>
+  <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_MoreAction" xml:space="preserve">
     <value>További műveletek megjelenítése</value>
     <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Megjeleníti a "További műveleteket" a legördülő menüben.</value>
-    <comment>Displays the 'More Actions' drop-down menu.</comment>
+    <value>A "További műveletek" legördülő menü megjelenítése.</value>
+  <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
-    <value>Mozgasd az újabb beszélgetést</value>
-    <comment>Move to newer conversation</comment>
+    <value>Átlépés az újabb beszélgetésbe</value>
+  <comment>Move to newer conversation</comment>
   </data>
   <data name="Shortcut_MoveNewerExplanation" xml:space="preserve">
-    <value>Kiválasztja a következő újabb beszélgetést.</value>
-    <comment>Selects the next more recent conversation.</comment>
+    <value>A következő újabb beszélgetés kiválasztása.</value>
+  <comment>Selects the next more recent conversation.</comment>
   </data>
   <data name="Shortcut_MoveOlder" xml:space="preserve">
-    <value>Ugrás régebbi beszélgetésre</value>
-    <comment>Move to older conversation</comment>
+    <value>Átlépés a régebbi beszélgetésbe</value>
+  <comment>Move to older conversation</comment>
   </data>
   <data name="Shortcut_MoveOlderExplanation" xml:space="preserve">
-    <value>Kiválasztja az előző régebbi beszélgetésre.</value>
-    <comment>Selects the previous older conversation.</comment>
+    <value>Az előző régebbi beszélgetés kiválasztása.</value>
+  <comment>Selects the previous older conversation.</comment>
   </data>
   <data name="Shortcut_MoveToExplanation" xml:space="preserve">
-    <value>Átmozgatja a beszélgetést egy másik mappába.</value>
-    <comment>Moves the conversation to a different folder.</comment>
+    <value>A beszélgetés áthelyezése egy másik mappába.</value>
+  <comment>Moves the conversation to a different folder.</comment>
   </data>
   <data name="Shortcut_NextMessage" xml:space="preserve">
     <value>Következő üzenet</value>
     <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Mozgatja a kurzort a következő üzenetre. Akkor nyomja az &lt;Enter&gt; kibontásához vagy egy üzenetet. (Csak a "Beszélgetési nézetben." alkalmazható)</value>
-    <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
+    <value>A kurzor áthelyezése a következő üzenethez. Az &lt;Enter&gt; lenyomásával kinyitható vagy összezárható egy üzenet. (Csak a "Beszélgetési nézet" esetén alkalmazható)</value>
+  <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
-    <value>Segít Gmail megtanulják, mi nem fontos neked jelölés pontos eredményt üzeneteket. (Különleges, hogy a Fontos levelek)</value>
-    <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
+    <value>Segíti Gmail megismerését, ami fontos az osztályozatlan üzenetek megjelölésénél. (Különösen az Elsődleges bejövő postaláda esetében)</value>
+  <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_Open" xml:space="preserve">
-    <value>Megnyit</value>
-    <comment>Open</comment>
+    <value>Megnyitás</value>
+  <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Megnyitja a beszélgetést. Ugyanakkor kibontja vagy összecsukja az üzenetet "Beszélgetés nézet"-ben</value>
-    <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
+    <value>A beszélgetés megnyitása. Emellett az üzenet kinyitása vagy összezárása "Beszélgetés nézet" esetén</value>
+  <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
     <value>vagy</value>
     <comment>or</comment>
   </data>
   <data name="Shortcut_CopyToFolder" xml:space="preserve">
-    <value>Másolat / címke</value>
-    <comment>Copy to / label</comment>
+    <value>Másolás / címke</value>
+  <comment>Copy to / label</comment>
   </data>
   <data name="Shortcut_CopyToFolderExplanation" xml:space="preserve">
-    <value>Példányban a beszélgetést egy másik mappába. Gmail kéri ezt a címkézést.</value>
-    <comment>Copies the conversation to a different folder. Gmail calls this labeling.</comment>
+    <value>A beszélgetés másolása egy másik mappába. A Gmail ezt a címkézésnek hívja.</value>
+  <comment>Copies the conversation to a different folder. Gmail calls this labeling.</comment>
   </data>
   <data name="Shortcut_PreviousMessage" xml:space="preserve">
     <value>Előző üzenet</value>
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Mozgatja a kurzort az előző üzenetre. Akkor nyomja az &lt;Enter&gt; kibontásához vagy egy üzenetet. (Csak akkor alkalmazandó, "Beszélgetési nézetben.")</value>
-    <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
+    <value>A kurzor áthelyezése az előző üzenethez. Az &lt;Enter&gt; lenyomásával kinyitható vagy összezárható egy üzenet. (Csak a "Beszélgetési nézet" esetén alkalmazható)</value>
+  <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
     <value>Üzenet nyomtatása</value>
@@ -1980,108 +1980,108 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Print Conversation</comment>
   </data>
   <data name="Shortcut_PrintConversationExplanation" xml:space="preserve">
-    <value>Összes üzenet és beszélgetés nyomtatása.</value>
-    <comment>Print all messages in the selected conversation.</comment>
+    <value>Az összes üzenet és beszélgetés kinyomtatása.</value>
+  <comment>Print all messages in the selected conversation.</comment>
   </data>
   <data name="Shortcut_PrintExplanation" xml:space="preserve">
-    <value>Kijelölt üzenet nyomtatása.</value>
-    <comment>Print the selected message.</comment>
+    <value>A kijelölt üzenet kinyomtatása.</value>
+  <comment>Print the selected message.</comment>
   </data>
   <data name="Shortcut_QuickPreview" xml:space="preserve">
-    <value>Melléklet gyors nézet</value>
-    <comment>Attachment Quick Preview</comment>
+    <value>Melléklet gyors előnézet</value>
+  <comment>Attachment Quick Preview</comment>
   </data>
   <data name="Shortcut_QuickPreviewExplanation" xml:space="preserve">
-    <value>Gyors nézet megnyitása ablakban és a melléklet kijelölése.</value>
-    <comment>Open quick preview window for the selected attachment.</comment>
+    <value>A gyors előnézet ablak megnyitása a kiválasztott mellékletnél.</value>
+  <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
-    <value>Megjelöli az üzenetet "olvasottnak", és ugorjon a következő üzenetre.</value>
-    <comment>Marks your message as 'read' and skip to the next message.</comment>
+    <value>Az üzenet megjelölése "olvasott" tulajdonsággal és átlépés a következő üzenetre.</value>
+  <comment>Marks your message as 'read' and skip to the next message.</comment>
   </data>
   <data name="Shortcut_Refresh" xml:space="preserve">
-    <value>Frissít</value>
-    <comment>Refresh</comment>
+    <value>Frissítés</value>
+  <comment>Refresh</comment>
   </data>
   <data name="Shortcut_RefreshExplanation" xml:space="preserve">
-    <value>Ellenőrizze az új üzeneteket az aktuális mappában.</value>
-    <comment>Check online for new messages in current folder.</comment>
+    <value>Az új üzenetek ellenőrzése az aktuális mappában.</value>
+  <comment>Check online for new messages in current folder.</comment>
   </data>
   <data name="Shortcut_RemoveView" xml:space="preserve">
     <value>Aktuális nézet eltávolítása</value>
     <comment>Remove from Current View</comment>
   </data>
   <data name="Shortcut_RemoveViewExplanation" xml:space="preserve">
-    <value>Automatikusan eltávolítja az üzenetet vagy a beszélgetést a jelenlegi nézetet.</value>
-    <comment>Automatically removes the message or conversation from your current view.</comment>
+    <value>Automatikusan eltávolítja az üzenetet vagy a beszélgetést a jelenlegi nézetből.</value>
+  <comment>Automatically removes the message or conversation from your current view.</comment>
   </data>
   <data name="Shortcut_ReplyAllExplanation" xml:space="preserve">
-    <value>Válaszolok az üzenet összes címzettjének.</value>
-    <comment>Replies to all message recipients.</comment>
+    <value>Válasz küldése az üzenet összes címzettjének.</value>
+  <comment>Replies to all message recipients.</comment>
   </data>
   <data name="Shortcut_ReplyExplanation" xml:space="preserve">
-    <value>Válaszolok a feladónak.</value>
-    <comment>Replies to the message sender.</comment>
+    <value>Válasz küldése az üzenet feladójának.</value>
+  <comment>Replies to the message sender.</comment>
   </data>
   <data name="Shortcut_ReportSpam" xml:space="preserve">
-    <value>SPAM-ként jelölöm</value>
-    <comment>Report spam</comment>
+    <value>Levélszemét jelentés</value>
+  <comment>Report spam</comment>
   </data>
   <data name="Shortcut_ReportSpamExplanation" xml:space="preserve">
-    <value>Megjelöli az üzenetet mint kéretlen levél, és eltávolítja a beszélgetési listáról.</value>
-    <comment>Marks a message as spam and removes it from your conversation list.</comment>
+    <value>Az üzenet megjelölése levélszemétként és eltávolítása a beszélgetés listából.</value>
+  <comment>Marks a message as spam and removes it from your conversation list.</comment>
   </data>
   <data name="Shortcut_Return" xml:space="preserve">
-    <value>Vissza a beszélgetési listához</value>
-    <comment>Return to conversation list</comment>
+    <value>Vissza a beszélgetés listához</value>
+  <comment>Return to conversation list</comment>
   </data>
   <data name="Shortcut_ReturnExplanation" xml:space="preserve">
-    <value>Frissíti az oldalt, és visszatér a postaládájába, vagy a beszélgetések listájához.</value>
-    <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
+    <value>Az oldal frissítése és visszatérés a bejövő postaládához vagy a beszélgetés listához.</value>
+  <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
   </data>
   <data name="Shortcut_SaveDraft" xml:space="preserve">
     <value>Vázlat mentése</value>
     <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Menti a jelenlegi szöveget piszkozatként, üzenet írásakor. Tartsa a &lt;Ctrl&gt; gombot miközben megnyomja s-t, és győződjön meg róla, a kurzor valamelyik szövegmezőben - akár a kompozíció ablaktábla, vagy a Címzett, Másolat, BCC, vagy a Tárgy mezők - ha ezt a parancsikont használja.</value>
-    <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
+    <value>Az aktuális szöveg mentése vázlatként az üzenet összeállításánál. Nyomjuk le a &lt;Ctrl&gt;-S billentyűkombinációt és győződjünk meg arról, hogy a kurzor valamelyik szövegmezőben legyen, akár a összeállító ablakrészben akár a Címzett, Másolat, Rejtett másolat vagy a Tárgy mezők bármelyikében van ennek a használatakor.</value>
+  <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
-    <value>Keres</value>
-    <comment>Search</comment>
+    <value>Keresés</value>
+  <comment>Search</comment>
   </data>
   <data name="Shortcut_SearchExplanation" xml:space="preserve">
-    <value>Helyezi a kurzort a keresőmezőbe.</value>
-    <comment>Puts your cursor in the search box.</comment>
+    <value>A kurzor áthelyezése a keresőmezőbe.</value>
+  <comment>Puts your cursor in the search box.</comment>
   </data>
   <data name="Shortcut_SearchExplanation1" xml:space="preserve">
-    <value>Kezdje az új e-mail kereséssel.</value>
-    <comment>Start new email search.</comment>
+    <value>Az új email keresés elkezdése.</value>
+  <comment>Start new email search.</comment>
   </data>
   <data name="Shortcut_Send" xml:space="preserve">
-    <value>E-mail küldése</value>
-    <comment>Send Email</comment>
+    <value>Email küldése</value>
+  <comment>Send Email</comment>
   </data>
   <data name="Shortcut_SendExplanation" xml:space="preserve">
-    <value>Elküldi az aktuális elkészített e-mailt ebben a nézetben.</value>
-    <comment>Sends the current composed email in view.</comment>
+    <value>A nézetben levő aktuálisan összeállított email elküldése.</value>
+  <comment>Sends the current composed email in view.</comment>
   </data>
   <data name="Shortcut_ShowMailbird" xml:space="preserve">
-    <value>Mailbird mutatása</value>
-    <comment>Show Mailbird</comment>
+    <value>Mailbird megjelenítése</value>
+  <comment>Show Mailbird</comment>
   </data>
   <data name="Shortcut_ShowMailbirdExplanation" xml:space="preserve">
-    <value>Hozd a Mailbird-öt előre.</value>
-    <comment>Bring Mailbird to foreground.</comment>
+    <value>A Mailbird előtérbe helyezése.</value>
+  <comment>Bring Mailbird to foreground.</comment>
   </data>
   <data name="Shortcut_Star" xml:space="preserve">
-    <value>Csillaggal jelölök egy üzenetet vagy beszélgetést</value>
-    <comment>Star a message or conversation</comment>
+    <value>Üzenet vagy beszélgetés csillagozása</value>
+  <comment>Star a message or conversation</comment>
   </data>
   <data name="Shortcut_StarExplanation" xml:space="preserve">
-    <value>Vagy eltávolítja a csillagot, hogy egy üzenetet vagy beszélgetést. A csillagok segítségével, hogy egy üzenet vagy beszélgetés különleges státuszt.</value>
-    <comment>Adds or removes a star to a message or conversation. Stars allow you to give a message or conversation a special status.</comment>
+    <value>A csillag jelzés hozzáadása vagy eltávolítása egy üzenetnél. A csillagok egy üzenetnek vagy beszélgetésnek különleges státuszt adnak.</value>
+  <comment>Adds or removes a star to a message or conversation. Stars allow you to give a message or conversation a special status.</comment>
   </data>
   <data name="Shortcut_Switch" xml:space="preserve">
     <value>Fiókváltás</value>
@@ -2100,69 +2100,69 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Switch between folders</comment>
   </data>
   <data name="Shortcut_Undo" xml:space="preserve">
-    <value>Visszalép</value>
-    <comment>Undo</comment>
+    <value>Visszavonás</value>
+  <comment>Undo</comment>
   </data>
   <data name="Shortcut_UndoExplanation" xml:space="preserve">
-    <value>Visszavonja az előző műveletet, ha lehetséges (műveletek esetében működik a "visszavonás" link).</value>
-    <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
+    <value>Az előző művelet visszavonása, ha az lehetséges ('visszavonás' hivatkozással ellátott műveleteknél működik).</value>
+  <comment>Undoes your previous action, if possible (works for actions with an 'undo' link).</comment>
   </data>
   <data name="Shortcut_UnreadExplanation" xml:space="preserve">
-    <value>Megjelöli az üzenetet "olvasatlannak" így visszatérhet később.</value>
-    <comment>Marks your message as 'unread' so you can go back to it later.</comment>
+    <value>Az üzenet megjelölése "olvasatlan" tulajdonsággal, így később visszatérhetünk.</value>
+  <comment>Marks your message as 'unread' so you can go back to it later.</comment>
   </data>
   <data name="Shortcut_UpdateConversation" xml:space="preserve">
     <value>Jelenlegi beszélgetés frissítése</value>
     <comment>Update current conversation</comment>
   </data>
   <data name="Shortcut_UpdateConversationExplanation" xml:space="preserve">
-    <value>Frissíti a jelenlegi beszélgetést, ha vannak új üzenetek.</value>
-    <comment>Updates your current conversation when there are new messages.</comment>
+    <value>A jelenlegi beszélgetés frissítése, ha vannak új üzenetek.</value>
+  <comment>Updates your current conversation when there are new messages.</comment>
   </data>
   <data name="Shortcut_VerticalScroll" xml:space="preserve">
-    <value>Függőleges keresés</value>
-    <comment>Vertical Scroll</comment>
+    <value>Függőleges görgetés</value>
+  <comment>Vertical Scroll</comment>
   </data>
   <data name="Shortcut_VerticalScrollExplanation" xml:space="preserve">
-    <value>Léphet felfelé / lefelé a fontos fenti beszélgetések, üzenetek között.</value>
-    <comment>Navigate up/down in the focused list of conversations or messages.</comment>
+    <value>Navigálás felfelé/lefelé a beszélgetések vagy üzenetek fókuszban levő listájában.</value>
+  <comment>Navigate up/down in the focused list of conversations or messages.</comment>
   </data>
   <data name="WebBrowser_Back" xml:space="preserve">
     <value>Vissza</value>
     <comment>Back</comment>
   </data>
   <data name="WebBrowser_Forward" xml:space="preserve">
-    <value>Továbbít</value>
-    <comment>Forward</comment>
+    <value>Továbbítás</value>
+  <comment>Forward</comment>
   </data>
   <data name="WebBrowser_Refresh" xml:space="preserve">
-    <value>Frissít</value>
-    <comment>Refresh</comment>
+    <value>Frissítés</value>
+  <comment>Refresh</comment>
   </data>
   <data name="Welcome_AuthenticationFailed" xml:space="preserve">
-    <value>Sikertelen volt a hitelesítés.</value>
-    <comment>Authentication failed.</comment>
+    <value>A hitelesítés sikertelen volt.</value>
+  <comment>Authentication failed.</comment>
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
-    <value>A Google nem támogatja kétlépcsős azonosítást, amikor felhasználónév és jelszó hitelesítést használ.
+    <value>A Google nem támogatja kétlépcsős azonosítást felhasználónév és jelszó hitelesítés esetén.
 
-Fontolja meg, hogy a Mailbird fiókjában beállítja az OAuth 2.0 hitelesítést helyette. </value>
-    <comment>Mailbird does not support 2-step verification.
+Helyette célszerű megfontolni a Mailbird alkalmazás fiókban az OAuth 2.0 hitelesítés használatát. </value>
+  <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
 https://support.google.com/accounts/answer/185833</comment>
   </data>
   <data name="Welcome_ConnectionsLabel" xml:space="preserve">
-    <value>Kapcsolatok:</value>
-    <comment>Connections:</comment>
+    <value>Kapcsolódások:</value>
+  <comment>Connections:</comment>
   </data>
   <data name="Welcome_DetectingSettingsSubTitle" xml:space="preserve">
-    <value>Kérjük várjon, amíg ellenőrzi a szerver beállításokat.</value>
-    <comment>Please wait while we search for server settings.</comment>
+    <value>A szerver beállítások keresése folyamatban van.</value>
+  <comment>Please wait while we search for server settings.</comment>
   </data>
   <data name="Welcome_DetectingSettingsTitle" xml:space="preserve">
-    <value>Beállítások észlelése...</value>
-    <comment>Detecting settings..</comment>
+    <value>A beállítások észlelése folyamatban van...</value>
+  <comment>Detecting settings..</comment>
   </data>
   <data name="Welcome_EditAccountTitle" xml:space="preserve">
     <value>Fiók szerkesztése</value>
@@ -2181,9 +2181,9 @@ https://support.google.com/accounts/answer/185833</comment>
     <comment>Encryption:</comment>
   </data>
   <data name="Welcome_Facebook" xml:space="preserve">
-    <value>Lásd profil képek a barátok és a család Mailbird.
-Mi soha nem fogunk küldeni semmit a Facebookra.</value>
-    <comment>See profile photos of your friends and family in Mailbird. 
+    <value>Nézzük meg az ismerősök és a család képeit a Mailbird alkalmazásban.
+A Mailbird fejlesztői soha nem küldenek semmit a Facebookra.</value>
+  <comment>See profile photos of your friends and family in Mailbird. 
 We will never post anything to Facebook.</comment>
   </data>
   <data name="Welcome_IncomingServer" xml:space="preserve">
@@ -2191,8 +2191,8 @@ We will never post anything to Facebook.</comment>
     <comment>Incoming server</comment>
   </data>
   <data name="Welcome_LearnMore" xml:space="preserve">
-    <value>Tudj meg többet</value>
-    <comment>Learn more</comment>
+    <value>Bővebben</value>
+  <comment>Learn more</comment>
   </data>
   <data name="Welcome_OutgoingServerLabel" xml:space="preserve">
     <value>Kimenő szerver</value>
@@ -2207,44 +2207,44 @@ We will never post anything to Facebook.</comment>
     <comment>Requires authentication</comment>
   </data>
   <data name="Welcome_ServerConnCheck1" xml:space="preserve">
-    <value>Szerver beállítások helyesek.</value>
-    <comment>Server settings are correct.</comment>
+    <value>A szerver beállítások helyesek.</value>
+  <comment>Server settings are correct.</comment>
   </data>
   <data name="Welcome_ServerConnCheck2" xml:space="preserve">
-    <value>A tűzfal nem blokkolja a Mailbird-öt.</value>
-    <comment>No firewall is blocking Mailbird.</comment>
+    <value>Tűzfal nem blokkolja a Mailbird alkalmazást.</value>
+  <comment>No firewall is blocking Mailbird.</comment>
   </data>
   <data name="Welcome_ServerConnCheck3" xml:space="preserve">
-    <value>Proxy beállításai helyesek a Windows Internet beállításokban.</value>
-    <comment>Proxy settings are correct in Windows Internet Options.</comment>
+    <value>A proxy beállítások helyesek a Windows Internet beállításokban.</value>
+  <comment>Proxy settings are correct in Windows Internet Options.</comment>
   </data>
   <data name="Welcome_ServerConnFailed" xml:space="preserve">
-    <value>Nem sikerült kapcsolódni a szerverre. Kérem ellenőrizze:</value>
-    <comment>Could not connect to server. Please check:</comment>
+    <value>Nem sikerült kapcsolódni a szerverhez. Ellenenőrzés:</value>
+  <comment>Could not connect to server. Please check:</comment>
   </data>
   <data name="Welcome_ServerNameLabel" xml:space="preserve">
-    <value>Szerver név:</value>
-    <comment>Server name:</comment>
+    <value>Szervernév:</value>
+  <comment>Server name:</comment>
   </data>
   <data name="Welcome_Servertype" xml:space="preserve">
-    <value>Szerver típus:</value>
-    <comment>Server type:</comment>
+    <value>Szervertípus:</value>
+  <comment>Server type:</comment>
   </data>
   <data name="Welcome_SettingsFoundTitle" xml:space="preserve">
-    <value>Beállításokat találtam</value>
-    <comment>Settings found</comment>
+    <value>Beállításokat találtunk</value>
+  <comment>Settings found</comment>
   </data>
   <data name="Welcome_SettingsNotFoundSubTitle" xml:space="preserve">
-    <value>Nem tudtuk megtalálni a beállításokat a fiókjában. Kérjük, adja meg a szükséges információkat az alábbiakban.</value>
-    <comment>We were unable to find settings for your account. Please input the required information below.</comment>
+    <value>Nem találtunk beállításokat a fiókban. Meg kell adni a szükséges információkat az alábbiakban.</value>
+  <comment>We were unable to find settings for your account. Please input the required information below.</comment>
   </data>
   <data name="Welcome_SettingsNotFoundTitle" xml:space="preserve">
-    <value>Beállítás nem található</value>
-    <comment>Settings not found</comment>
+    <value>Beállítások nem találhatók</value>
+  <comment>Settings not found</comment>
   </data>
   <data name="Welcome_Skip" xml:space="preserve">
-    <value>kihagy</value>
-    <comment>skip</comment>
+    <value>kihagyás</value>
+  <comment>skip</comment>
   </data>
   <data name="Welcome_SMTPServerLabel" xml:space="preserve">
     <value>SMTP szerver:</value>
@@ -2255,50 +2255,50 @@ We will never post anything to Facebook.</comment>
     <comment>Username:</comment>
   </data>
   <data name="Welcome_Welcome" xml:space="preserve">
-    <value>Fiók létrehozása</value>
-    <comment>Add account</comment>
+    <value>Fiók hozzáadása</value>
+  <comment>Add account</comment>
   </data>
   <data name="Welcome_WelcomeExplanation" xml:space="preserve">
-    <value>Adja meg az adatokat ha e-mail fiókot szeretne hozzáadni Mailbird-höz.</value>
-    <comment>Enter the details of an email account you would like to add to Mailbird.</comment>
+    <value>A Mailbird alkalmazáshoz hozzáadandó email fiók adatainak megadása.</value>
+  <comment>Enter the details of an email account you would like to add to Mailbird.</comment>
   </data>
   <data name="Report_OptionalEmail" xml:space="preserve">
-    <value>E-mail címed: (nem kötelező - de így tudjuk tartani Önnel a kapcsolatot)</value>
-    <comment>Your email: (optional - so we can contact you)</comment>
+    <value>Email cím: (opcionális - így tartható a kapcsolat)</value>
+  <comment>Your email: (optional - so we can contact you)</comment>
   </data>
   <data name="Report_OptionalEmail2" xml:space="preserve">
-    <value>E-mail címed: (nem kötelező)</value>
-    <comment>Your email: (optional)</comment>
+    <value>Email cím: (opcionális)</value>
+  <comment>Your email: (optional)</comment>
   </data>
   <data name="Report_UseMailEditor" xml:space="preserve">
-    <value>Használja az e-mail szerkesztőt</value>
-    <comment>Use mail editor</comment>
+    <value>Email szerkesztő használata</value>
+  <comment>Use mail editor</comment>
   </data>
   <data name="Error_DownloadingMessage" xml:space="preserve">
-    <value>Nem lehet letölteni az üzenet forrását. Kérlek, próbáld újra később.</value>
-    <comment>An error occured downloading the message source. Please try again later.</comment>
+    <value>Hiba történt az üzenetforrás letöltésekor. Próbáljuk meg később.</value>
+  <comment>An error occured downloading the message source. Please try again later.</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
-    <value>Nem lehet létrehozni a gyorsítótár fájlt. Legtöbb esetben az anti-virus program okozhatja ezt.
-Elérés: {0}</value>
+    <value>Nem lehet létrehozni melléklet gyorsítótár fájlt. A legvalószínűbb az, hogy egy antivírus program ezt meggátolta.
+Útvonal: {0}</value>
   <comment>Could not create attachment cache file. Most likely anti-virus program prevented this.
 Path: {0}</comment>
   </data>
   <data name="Dialog_WhatIsThis" xml:space="preserve">
-    <value>Mi ez?</value>
-    <comment>What is this?</comment>
+    <value>Mi is ez?</value>
+  <comment>What is this?</comment>
   </data>
   <data name="MailEditorFormattingBar_AlignCenter" xml:space="preserve">
-    <value>Középre igazít</value>
-    <comment>Align center</comment>
+    <value>Igazítás középre</value>
+  <comment>Align center</comment>
   </data>
   <data name="MailEditorFormattingBar_AlignLeft" xml:space="preserve">
-    <value>Balra igazít</value>
-    <comment>Align left</comment>
+    <value>Igazítás balra</value>
+  <comment>Align left</comment>
   </data>
   <data name="MailEditorFormattingBar_AlignRight" xml:space="preserve">
-    <value>Jobbra igazít</value>
-    <comment>Align right</comment>
+    <value>Igazítás jobbra</value>
+  <comment>Align right</comment>
   </data>
   <data name="MailEditorFormattingBar_Bold" xml:space="preserve">
     <value>Félkövér</value>
@@ -2329,16 +2329,16 @@ Path: {0}</comment>
     <comment>Font</comment>
   </data>
   <data name="MailEditorFormattingBar_FontBackground" xml:space="preserve">
-    <value>Betű  háttér</value>
-    <comment>Font Background</comment>
+    <value>Betűháttér</value>
+  <comment>Font Background</comment>
   </data>
   <data name="MailEditorFormattingBar_FontColor" xml:space="preserve">
-    <value>Betű  színe</value>
-    <comment>Font Color</comment>
+    <value>Betűszín</value>
+  <comment>Font Color</comment>
   </data>
   <data name="MailEditorFormattingBar_FontSize" xml:space="preserve">
-    <value>Betű mérete</value>
-    <comment>Font size</comment>
+    <value>Betűméret</value>
+  <comment>Font size</comment>
   </data>
   <data name="MailEditorFormattingBar_IncreaseSize" xml:space="preserve">
     <value>Méret növelése</value>
@@ -2349,8 +2349,8 @@ Path: {0}</comment>
   <comment>Insert hyperlink</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
-    <value>Ábra beszúrása</value>
-    <comment>Insert picture</comment>
+    <value>Kép beszúrása</value>
+  <comment>Insert picture</comment>
   </data>
   <data name="MailEditorFormattingBar_Italic" xml:space="preserve">
     <value>Dőlt</value>
@@ -2365,19 +2365,19 @@ Path: {0}</comment>
     <comment>Underline</comment>
   </data>
   <data name="UpdateToPro_Annual" xml:space="preserve">
-    <value>PRO</value>
+    <value>Pro</value>
   <comment>Annual</comment>
   </data>
   <data name="UpdateToPro_FirstName" xml:space="preserve">
-    <value>Keresztnév</value>
-    <comment>First name</comment>
+    <value>Személynév</value>
+  <comment>First name</comment>
   </data>
   <data name="UpdateToPro_GoPro" xml:space="preserve">
     <value>Pro verzióra ugrás</value>
     <comment>Go Pro</comment>
   </data>
   <data name="UpdateToPro_Includes" xml:space="preserve">
-    <value>Az alábbiakat tartalmazza:</value>
+    <value>Mindkettő tartalmazza:</value>
   <comment>Both includes:</comment>
   </data>
   <data name="UpdateToPro_LastName" xml:space="preserve">
@@ -2389,183 +2389,183 @@ Path: {0}</comment>
   <comment>Lifetime</comment>
   </data>
   <data name="UpdateToPro_ProOnlyFeatures" xml:space="preserve">
-    <value>Pro verzióban érhető el</value>
-    <comment>Pro only features</comment>
+    <value>Csak a Pro verzió jellemzői</value>
+  <comment>Pro only features</comment>
   </data>
   <data name="UpdateToPro_Subtitle" xml:space="preserve">
-    <value>Gyors előnézet és sok egyéb különlegesség</value>
-    <comment>Get Quick Preview and many other benefits</comment>
+    <value>Gyors előnézet és sok egyéb előny beszerzése</value>
+  <comment>Get Quick Preview and many other benefits</comment>
   </data>
   <data name="UpdateToPro_UnlimitedAccounts" xml:space="preserve">
-    <value>Korlátlan fiókok</value>
-    <comment>Unlimited accounts</comment>
+    <value>Korlátlan számú fiók</value>
+  <comment>Unlimited accounts</comment>
   </data>
   <data name="UpdateToPro_Wingman" xml:space="preserve">
-    <value>Kísérő tevékenység</value>
-    <comment>Wingman productivity</comment>
+    <value>Wingman termelékenység</value>
+  <comment>Wingman productivity</comment>
   </data>
   <data name="Welcome_AccountIcon" xml:space="preserve">
     <value>Ikon</value>
     <comment>Icon</comment>
   </data>
   <data name="Welcome_DefaultIdentity" xml:space="preserve">
-    <value>Alapértelmezett személyazonosság</value>
-    <comment>Default identity</comment>
+    <value>Alapértelmezett azonosítás</value>
+  <comment>Default identity</comment>
   </data>
   <data name="Welcome_EditIdentityOutgoingServer" xml:space="preserve">
-    <value>Személyazonosság szerkesztése a kimenő szerveren</value>
-    <comment>Edit identity and outgoing server</comment>
+    <value>Az azonosítás szerkesztése a kimenő szerveren</value>
+  <comment>Edit identity and outgoing server</comment>
   </data>
   <data name="Welcome_Identity" xml:space="preserve">
-    <value>Személyazonosság</value>
-    <comment>Identity</comment>
+    <value>Azonosítás</value>
+  <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>Az előre kiválasztott feladó személyazonosságát amikor új üzenetet ebben a fiókban kiválasztott.</value>
-    <comment>The preselected sender identity when composing a new message with this account selected</comment>
+    <value>Az előre kiválasztott feladó azonosítás új üzenet összeállításánál a kiválasztott fiókban.</value>
+  <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
-    <value>Az identitás tartalmazó kimenő beállításokat erre a fiókra</value>
-    <comment>The identity containing the outgoing settings for this account</comment>
+    <value>Az fiókhoz tartozó kimenő beállításokat tartalmazó azonosítás</value>
+  <comment>The identity containing the outgoing settings for this account</comment>
   </data>
   <data name="Contact_LinkedInLookup" xml:space="preserve">
-    <value>Nézz fel a LinkedIn-re</value>
-    <comment>Look up on LinkedIn</comment>
+    <value>LinkedIn szolgáltatás felkeresése</value>
+  <comment>Look up on LinkedIn</comment>
   </data>
   <data name="Dialog_Uninstall" xml:space="preserve">
-    <value>Törlöd a Mailbird levelező háttértárat?</value>
-    <comment>Delete Mailbird Storage?</comment>
+    <value>Törölve legyen a Mailbird háttértár?</value>
+  <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Szeretné eltávolítani a Mailbird helyi adatait, beleértve a beállításokat, üzeneteket és kontaktokat?
+    <value>Eltávolításra kerüljenek a Mailbird helyi adatai beleértve a beállításokat, az üzeneteket és a kapcsolatokat?
 
-Ha szeretné újratelepíteni a Mailbird-öt, akkor tartsa meg az adatokat, hogy ne kelljen mindent elölről kezdenie.</value>
-    <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
+Ha később szeretnénk újratelepíteni a Mailbird alkalmazást, akkor tartsuk meg az adatokat, hogy ne kelljen mindent elölről kezdeni.</value>
+  <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
-    <value>Mappa létrehozása</value>
-    <comment>Add folder</comment>
+    <value>Mappa hozzáadása</value>
+  <comment>Add folder</comment>
   </data>
   <data name="Folder_Edit" xml:space="preserve">
     <value>Mappa szerkesztése</value>
     <comment>Edit folder</comment>
   </data>
   <data name="Folder_Unmap" xml:space="preserve">
-    <value>Nem térkép</value>
-    <comment>Unmap</comment>
+    <value>Hozzárendelés megszüntetése</value>
+  <comment>Unmap</comment>
   </data>
   <data name="Shortcut_Backspace" xml:space="preserve">
-    <value>Visszalépés</value>
-    <comment>Backspace</comment>
+    <value>Törlés billentyű</value>
+  <comment>Backspace</comment>
   </data>
   <data name="Shortcut_Enter" xml:space="preserve">
-    <value>Belépés</value>
-    <comment>Enter</comment>
+    <value>Enter billentyű</value>
+  <comment>Enter</comment>
   </data>
   <data name="Shortcut_NotFound" xml:space="preserve">
-    <value>Nincs gyorsbillenytű találat a keresés alapján.</value>
-    <comment>No shortcut found based on the search.</comment>
+    <value>Nincs gyorsbillentyű találat a keresés alapján.</value>
+  <comment>No shortcut found based on the search.</comment>
   </data>
   <data name="Shortcut_Space" xml:space="preserve">
-    <value>Szünet</value>
-    <comment>Space</comment>
+    <value>Szóköz billentyű</value>
+  <comment>Space</comment>
   </data>
   <data name="AccountValidationRule_EmptyEncryption" xml:space="preserve">
-    <value>Kérjük, válassza ki a titkosítást</value>
-    <comment>Please select an encryption</comment>
+    <value>Titkosítási mód választás</value>
+  <comment>Please select an encryption</comment>
   </data>
   <data name="AccountValidationRule_EmptyFirstName" xml:space="preserve">
-    <value>Kérem adja meg a keresztnevét</value>
-    <comment>Please enter your first name</comment>
+    <value>Meg kell adni a személynevet</value>
+  <comment>Please enter your first name</comment>
   </data>
   <data name="AccountValidationRule_EmptyLastName" xml:space="preserve">
-    <value>Kérem adja meg a családnevét</value>
-    <comment>Please enter your last name</comment>
+    <value>Meg kell adni a családnevet</value>
+  <comment>Please enter your last name</comment>
   </data>
   <data name="AccountValidationRule_EmptyProxyUsername" xml:space="preserve">
-    <value>Kérem adja meg a proxy felhasználónevet</value>
-    <comment>Please enter your proxy username</comment>
+    <value>Meg kell adni a proxy felhasználónevet</value>
+  <comment>Please enter your proxy username</comment>
   </data>
   <data name="Dialog_DiskWriteError" xml:space="preserve">
-    <value>Lemez írási hiba</value>
-    <comment>Disk write error</comment>
+    <value>Lemezírási hiba történt</value>
+  <comment>Disk write error</comment>
   </data>
   <data name="Dialog_DiskWriteErrorExplanation" xml:space="preserve">
-    <value>Mailbird nem tud írni a merevlemezre. Ezt általában a hely hiánya okozza.
+    <value>A Mailbird nem tud írni a merevlemezre. Ezt általában a hely hiánya okozza.
 
-Kérjük, ellenőrizze a szabad lemezterület, hogy több álljon a rendelkezésre.</value>
-    <comment>Mailbird was unable to write to the hard disk. This is commonly caused by a lack of space.
+Ellenőrizzük a szabad lemezterületet és szükség esetén lemezterületet kell felszabadítani.</value>
+  <comment>Mailbird was unable to write to the hard disk. This is commonly caused by a lack of space.
 
 Please check the free disk space and make more available if running low.</comment>
   </data>
   <data name="Dialog_ServerCertificateError" xml:space="preserve">
-    <value>Szervertanúsítvány hiba</value>
-    <comment>Server certificate error</comment>
+    <value>Szervertanúsítvány hiba történt</value>
+  <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird azt észlelte, hogy az SSL tanúsítvány a kiszolgáló: '{0}', nem valós.
+    <value>A Mailbird érzékelte, hogy érvénytelen a szerver SSL tanúsítványa: '{0}'.
 
-Kérjük, kattintson a "Tovább" gombra a további információkért mielőtt tovább lép.
+A folytatás előtt kattintás a "Bővebben" gombra a további információkért.
 
-Szeretné hogy figyelmen kívül hagyja a hibát véglegesen, erre a szerverre?</value>
-    <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
+Hagyjuk véglegesen figyelmen kívül a hibát ennél a szervernél?</value>
+  <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
 
 Please click "read more" button below for further information before continuing.
 
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Nagyszerű munka meghívni barátait Mailbird-be! Van néhány e-mailt, amit már felkért, így itt az ideje, hogy hívjon meg másokat is, hogy megkapja a Mailbird Pro jutalmát.
+    <value>Nagyszerű munka meghívni az ismerősöket a Mailbird használatára. Van már néhány meghívott email cím, így itt az ideje másokat is meghívni a Mailbird Pro előnyeinek kihasználásához.
 
-Már meghívott személyek: {0}</value>
+Már meghívott email címek: {0}</value>
   <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
   </data>
   <data name="Invite_EmailSuggestions" xml:space="preserve">
-    <value>Írja be az e-mail címét vagy névét barátainak</value>
-    <comment>Type email or name of your friends</comment>
+    <value>Az ismerősök email címének vagy nevének begépelése</value>
+  <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_Explanation" xml:space="preserve">
-    <value>Hívd meg a barátaidat, hogy kipróbálja Mailbird-öt és kap [bold] 1 Mailbird Pro Lifetime ingyen [/bold] 2, ha {0} vagy több barátja telepíti a meghívás után. Hívjon meg sok barátot, ahogy tetszik!</value>
-    <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
+    <value>Ismerősök meghívása a Mailbird kipróbálásához és a [bold]Mailbird Pro díjmentes örökös idejű [/bold] beszerzéséhez, amennyiben {0} vagy több ismerős telepíti azt a meghívás alapján. Bármennyi ismerős meghívható!</value>
+  <comment>Every time a friend joins Mailbird from your invitation, you both get 1 month of free Mailbird Pro.
 Keep inviting friends and you can enjoy Mailbird Pro free for life.</comment>
   </data>
   <data name="Invite_FailedConnectionMessage" xml:space="preserve">
-    <value>A kapcsolat nem sikerült. Próbálja később.
+    <value>A kapcsolódás nem sikerült. Próbáljuk meg később.
 
 Üzenet: {0}</value>
-    <comment>The connection failed. Please try again later.
+  <comment>The connection failed. Please try again later.
 
 Message: {0}</comment>
   </data>
   <data name="Invite_FailedUpdateInvitationList" xml:space="preserve">
-    <value>Nem sikerült frissíteni a meghívási listáját.</value>
-    <comment>Could not update invitation list.</comment>
+    <value>Nem sikerült frissíteni a meghívási listát.</value>
+  <comment>Could not update invitation list.</comment>
   </data>
   <data name="Invite_InviteMore" xml:space="preserve">
-    <value>További barátok meghívása</value>
-    <comment>Invite more friends</comment>
+    <value>További ismerősök meghívása</value>
+  <comment>Invite more friends</comment>
   </data>
   <data name="Invite_NoFriendSelected" xml:space="preserve">
     <value>Nincs ismerős kijelölve</value>
     <comment>No friends selected</comment>
   </data>
   <data name="Invite_NoFriendSelectedExplanation" xml:space="preserve">
-    <value>Kérjük, válasszon és hívjon meg legalább egy barátot.</value>
-    <comment>Please select at least one friend to invite.</comment>
+    <value>A meghíváshoz legalább egy ismerőst ki kell választani.</value>
+  <comment>Please select at least one friend to invite.</comment>
   </data>
   <data name="Invite_Send" xml:space="preserve">
-    <value>Meghívás a Mailbird-re</value>
-    <comment>Invite to Mailbird</comment>
+    <value>Meghívás a Mailbird alkalmazás használatára</value>
+  <comment>Invite to Mailbird</comment>
   </data>
   <data name="Invite_Sent" xml:space="preserve">
-    <value>Elküldött meghívók</value>
-    <comment>Invitations sent</comment>
+    <value>Elküldött meghívások</value>
+  <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Köszönöm a meghívást!</value>
-    <comment>Thanks for inviting!</comment>
+    <value>Köszönet a meghívásért!</value>
+  <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_TitleBlock" xml:space="preserve">
     <value>[bold]Hívja meg barátját[/bold]
@@ -2789,8 +2789,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>This attachment has been deleted and is no longer available</comment>
   </data>
   <data name="AccountValidationRule_NonZeroInteger" xml:space="preserve">
-    <value>Csak nem nulla szám</value>
-    <comment>Must be a non zero number</comment>
+    <value>Csak nem-nulla szám fogadható el</value>
+  <comment>Must be a non zero number</comment>
   </data>
   <data name="Welcome_Pop3Days" xml:space="preserve">
     <value>napok</value>
@@ -3742,8 +3742,8 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
-    <value>Előfizetés lejár: {0} (in {1})</value>
-    <comment>Expires</comment>
+    <value>A licensz lejárata: {0} (in {1})</value>
+  <comment>Expires</comment>
   </data>
   <data name="Timeline_Today" xml:space="preserve">
     <value>Ma</value>
@@ -4158,7 +4158,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Pin Mailbird to taskbar</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Automatikus indítás a Windows-zal együtt</value>
+    <value>Automatikus indítás a Windows segítségével</value>
   <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
@@ -4445,16 +4445,16 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>Küldés visszavonása</value>
-    <comment>Undo send period</comment>
+    <value>A küldés visszavonási időintervalluma</value>
+  <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
     <value>Letiltás</value>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Az idő üzeneteket késni fog küldésekor, hogy megadja a lehetőséget, hogy vonja vissza.</value>
-    <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
+    <value>Az üzeneteket késleltetési ideje a küldéskor, lehetővé téve a visszavonást.</value>
+  <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
     <value>A postafiókok száma meghaladja a levelező Lite verzióben megengedettet. Ha továbbra is használja, egy kis beszámoló lesz tiltva a legközelebb Mailbird nyitva van. Kérjük, frissítsen a Pro verzióra ahhoz, hogy minden postafiók elérhető legyen.</value>
@@ -4465,8 +4465,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
 <data name="Welcome_SettingsFoundSubTitle_OAuth" xml:space="preserve">
-    <value>Szerver beállításokat találtunk fiókjában.</value>
-    <comment>We've found server settings for your account.</comment>
+    <value>Szerver beállításokat vannak a fiókban.</value>
+  <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
     <value>A használt hitelesítés típusa. Google OAuth 2.0 csak Google fiókokkal működik.</value>
@@ -4638,8 +4638,8 @@ Kérjük távolítson el néhányat, majd próbálkozzon újra.</value>
 Please remove some and try again.</comment>
   </data>
   <data name="Options_ShowInboxZero" xml:space="preserve">
-    <value>Zéró bejövő mutatása</value>
-    <comment>Show Inbox Zero</comment>
+    <value>Zéró bejövő postaláda megjelenítése</value>
+  <comment>Show Inbox Zero</comment>
   </data>
   <data name="Options_ShowInboxZeroSharing" xml:space="preserve">
     <value>Megosztási gombok mutatása</value>
@@ -4842,8 +4842,8 @@ Kérjük, válasszon másik háttér képet.</value>
 Please select another image to use as a background.</comment>
   </data>
   <data name="Notification_FailedToRemoveBackground" xml:space="preserve">
-    <value>Nem sikerült a beállított háttérképet eltávolítani</value>
-    <comment>Failed to set remove background image</comment>
+    <value>Nem sikerült a háttérképet eltávolítani</value>
+  <comment>Failed to set remove background image</comment>
   </data>
   <data name="Options_RemoveBackground" xml:space="preserve">
     <value>Eltávolítás</value>
@@ -4935,8 +4935,8 @@ INGYENES egy életen át</value>
     <comment>Accepted</comment>
   </data>
   <data name="InviteV2_AcceptedProgress" xml:space="preserve">
-    <value>{0} a(z) {1} meghívásból elfogadva!</value>
-    <comment>{0} of {1} invites accepted!</comment>
+    <value>{0}/{1} meghívás került elfogadásra!</value>
+  <comment>{0} of {1} invites accepted!</comment>
   </data>
   <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
     <value>Ön már egy e-mailt a Rockstar Mailbird Pro Élettartam! Amikor a barátja telepíti Mailbird saját meghívja, akkor kap 1 hónapos Mailbird Priority Support INGYEN per sikeres telepítéséhez!</value>
@@ -6223,7 +6223,7 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
   <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>Ez biztonsági okokból ki van kapcsolva.</value>
+    <value>Ez az azonosítás a szervernaplózás miatt lett kikapcsolva.</value>
   <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
@@ -6479,7 +6479,7 @@ Kérjük, lépjen kapcsolatba az ügyfélszolgálattal, hogy hogyan kell megolda
   <comment>Your trial time is almost up. In case you don't want to go Pro, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
   </data>
   <data name="Trial_EndingSoonTitle" xml:space="preserve">
-    <value>A próba verzió hamarosan lejár</value>
+    <value>A próbahasználat hamarosan lejár</value>
   <comment>Your trial is ending soon</comment>
   </data>
 </root>
