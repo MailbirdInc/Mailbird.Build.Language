@@ -632,7 +632,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
-    <value>Add link</value>
+    <value>Добавить ссылку</value>
   <comment>Insert Link</comment>
   </data>
   <data name="Identity_Account" xml:space="preserve">
@@ -732,12 +732,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
-    <value>Bcc: </value>
-    <comment>Bcc:</comment>
+    <value>Скрытая копия: </value>
+  <comment>Bcc:</comment>
   </data>
   <data name="Conversation_Bcc1" xml:space="preserve">
-    <value>Bcc</value>
-    <comment>Bcc</comment>
+    <value>Скрытая копия</value>
+  <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
     <value>Cc: </value>
@@ -824,8 +824,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
-    <value>Please enter a display text</value>
-    <comment>Please enter a link address</comment>
+    <value>Введите отображаемый текст</value>
+  <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
     <value>Вы не можете отправить пустое приглашение</value>
@@ -1020,8 +1020,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Searching...</comment>
   </data>
   <data name="App_Contacts_NoFacebook" xml:space="preserve">
-    <value>Пожалуйста, подключите Facebook в Настройках чтобы получить больше информации об этом контакте.</value>
-    <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
+    <value>Пожалуйста, подключите в Настройках Facebook чтобы получить больше информации об этом контакте.</value>
+  <comment>Please connect to Facebook in Options to get more info on this contact.</comment>
   </data>
   <data name="App_Contacts_NoMatched" xml:space="preserve">
     <value>Совпадений не найдено</value>
@@ -1200,8 +1200,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Medium</comment>
   </data>
   <data name="LinkEditor_OriginalSize" xml:space="preserve">
-    <value>Обычный размер</value>
-    <comment>Original Size</comment>
+    <value>Оригинальный размер</value>
+  <comment>Original Size</comment>
   </data>
   <data name="LinkEditor_Size" xml:space="preserve">
     <value>Какой размер предпочитаете?</value>
@@ -1272,12 +1272,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Shortcuts</comment>
   </data>
   <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Предложить улучшения</value>
-    <comment>Suggest improvements</comment>
+    <value>Отправить отзыв</value>
+  <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Поддержка Mailbird</value>
-    <comment>Mailbird support</comment>
+    <value>Получить поддержку</value>
+  <comment>Mailbird support</comment>
   </data>
   <data name="Menu_InviteFriends" xml:space="preserve">
     <value>Пригласить друзей</value>
@@ -1392,7 +1392,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Отправлено:</value>
+    <value>Отправлено</value>
   <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -1680,8 +1680,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
-    <value>Воспроизводить звук при получении сообщения</value>
-    <comment>Play sound when receiving a message</comment>
+    <value>Звук нового сообщения:</value>
+  <comment>Play sound when receiving a message</comment>
   </data>
   <data name="Options_StartMinimized" xml:space="preserve">
     <value>Запускать в свернутом виде</value>
@@ -1856,12 +1856,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
-    <value>Выход</value>
-    <comment>Exit</comment>
+    <value>Выйти из Mailbird</value>
+  <comment>Exit</comment>
   </data>
   <data name="Shortcut_ExitExplanation" xml:space="preserve">
-    <value>Закрыть программу Mailbird.</value>
-    <comment>Close Mailbird application.</comment>
+    <value>Закрыть приложение.</value>
+  <comment>Close Mailbird application.</comment>
   </data>
   <data name="Shortcut_ExpandCollapse" xml:space="preserve">
     <value>Развернуть или свернуть окно</value>
@@ -2345,7 +2345,7 @@ Path: {0}</comment>
     <comment>Increase size</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertHyperlink" xml:space="preserve">
-    <value>Add link</value>
+    <value>Добавить ссылку</value>
   <comment>Insert hyperlink</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
@@ -2421,8 +2421,8 @@ Path: {0}</comment>
     <comment>Identity</comment>
   </data>
   <data name="Welcome_IdentityWhenComposing" xml:space="preserve">
-    <value>Профиль по умолчанию при создании нового сообщения с этим аккаунтом</value>
-    <comment>The preselected sender identity when composing a new message with this account selected</comment>
+    <value>Предварительно выбранный идентификатор отправителя при составлении нового сообщения с выбранным аккаунтом.</value>
+  <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
     <value>Профиль с настройками исходящего сервера для этого аккаунта</value>
@@ -2437,10 +2437,10 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>Хотите также удалить папку данных Mailbird, вместе с настройками и базой данных писем?
+    <value>Вы хотите удалить локальные данные Mailbird, включая настройки, сообщения и контакты?
 
 Если Вы собираетесь переустановить Mailbird выберите Нет, чтобы не пришлось настраивать все заново.</value>
-    <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
+  <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
     <value>Создать папку</value>
@@ -2515,10 +2515,10 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
+    <value>Отличная работа, приглашая ваших друзей в Mailbird! Есть несколько писем, которые уже были приглашены, поэтому пришло время пригласить других, чтобы разблокировать Mailbird Pro.
 
-Emails already invited: {0}</value>
-    <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
+Письма, уже приглашены: {0}</value>
+  <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
   </data>
@@ -2581,8 +2581,8 @@ Message: {0}</comment>
     <comment>Could not invite people</comment>
   </data>
   <data name="Invite_ViewList" xml:space="preserve">
-    <value>Показать приглашения</value>
-    <comment>View invitations</comment>
+    <value>Просмотреть приглашения</value>
+  <comment>View invitations</comment>
   </data>
   <data name="Options_ChangeProxy" xml:space="preserve">
     <value>Измените настройки прокси сервера</value>
@@ -2641,12 +2641,12 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
-    <value>Выбранный язык будет применен после перезапуска Mailbird</value>
-    <comment>The selected language will be applied after you restart Mailbird</comment>
+    <value>Выбранный язык будет применен после перезапуска Mailbird.</value>
+  <comment>The selected language will be applied after you restart Mailbird</comment>
   </data>
   <data name="Options_RestartRequired" xml:space="preserve">
-    <value>Для применения изменений необходима перезагрузка</value>
-    <comment>Restart required for the changes to take effect</comment>
+    <value>Для применения изменений необходима перезагрузка.</value>
+  <comment>Restart required for the changes to take effect</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
     <value>Настройте ваш аватар на http://gravatar.com</value>
@@ -2777,8 +2777,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart</comment>
   </data>
   <data name="Upgrade_SpeedRead" xml:space="preserve">
-    <value>Прочитать это сообщение в режиме быстрого чтения</value>
-    <comment>Read email more quickly with the speed reader</comment>
+    <value>Прочитать это сообщение в режиме быстрого чтения.</value>
+  <comment>Read email more quickly with the speed reader</comment>
   </data>
   <data name="Options_Minutes" xml:space="preserve">
     <value>{0} минут</value>
@@ -2945,12 +2945,12 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Title</comment>
   </data>
   <data name="App_Contacts_FieldAddEmail" xml:space="preserve">
-    <value>add email</value>
-    <comment>Add email</comment>
+    <value>добавить адрес эл. почты</value>
+  <comment>Add email</comment>
   </data>
   <data name="App_Contacts_FieldAddPhone" xml:space="preserve">
-    <value>add phone</value>
-    <comment>Add phone</comment>
+    <value>добавить телефон</value>
+  <comment>Add phone</comment>
   </data>
   <data name="App_Contacts_Add" xml:space="preserve">
     <value>Добавить</value>
@@ -3021,8 +3021,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Delete group?</comment>
   </data>
   <data name="Dialog_DeleteGroupExplanation" xml:space="preserve">
-    <value>Are you sure you want to delete this group?</value>
-    <comment>Are you sure you want to delete this group? Contacts belonging to it will not be deleted.</comment>
+    <value>Вы уверены, что хотите удалить эту группу?</value>
+  <comment>Are you sure you want to delete this group? Contacts belonging to it will not be deleted.</comment>
   </data>
   <data name="Contact_RemoveFromGroup" xml:space="preserve">
     <value>Удалить контакт из группы</value>
@@ -3132,8 +3132,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>{0} contacts imported.</comment>
   </data>
   <data name="App_Contacts_SendGroupEmail" xml:space="preserve">
-    <value>Email this group</value>
-    <comment>Send email to this group</comment>
+    <value>Отправить эту группу по эл. почте</value>
+  <comment>Send email to this group</comment>
   </data>
   <data name="App_Contacts_Groups" xml:space="preserve">
     <value>Группы</value>
@@ -3236,16 +3236,16 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Private</comment>
   </data>
   <data name="AvatarIconQuote" xml:space="preserve">
-    <value>Quote</value>
-    <comment>Quote</comment>
+    <value>Цитата</value>
+  <comment>Quote</comment>
   </data>
   <data name="AvatarIconSecure" xml:space="preserve">
-    <value>Secure</value>
-    <comment>Secure</comment>
+    <value>Безопасный</value>
+  <comment>Secure</comment>
   </data>
   <data name="AvatarIconShield" xml:space="preserve">
-    <value>Shield</value>
-    <comment>Shield</comment>
+    <value>Щит</value>
+  <comment>Shield</comment>
   </data>
   <data name="AvatarIconWork" xml:space="preserve">
     <value>Рабочий</value>
@@ -3304,8 +3304,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Find and merge duplicates</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_MergeSelected" xml:space="preserve">
-    <value>Merge ({0}) selected</value>
-    <comment>Merge selected</comment>
+    <value>Слияние ({0}) выбрано</value>
+  <comment>Merge selected</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_SelectAll" xml:space="preserve">
     <value>Выбрать все</value>
@@ -3324,8 +3324,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>People</comment>
   </data>
   <data name="App_Contacts_FieldAddNickname" xml:space="preserve">
-    <value>nickname</value>
-    <comment>Add nickname</comment>
+    <value>Псевдоним</value>
+  <comment>Add nickname</comment>
   </data>
   <data name="App_Contacts_FieldRemoveNickname" xml:space="preserve">
     <value>Удалить ник</value>
@@ -3400,8 +3400,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Speed Reader</comment>
   </data>
   <data name="Trial_Feature2" xml:space="preserve">
-    <value>Более 3 аккаунтов</value>
-    <comment>More than 3 accounts</comment>
+    <value>Более {0} аккаунтов</value>
+  <comment>More than 3 accounts</comment>
   </data>
   <data name="Trial_Feature3" xml:space="preserve">
     <value>Быстрый просмотр вложений</value>
@@ -3468,8 +3468,10 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Mailbird tips</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Для начало использования Mailbird необходимо добавить почтовый аккаунт. Вы уверены что хотите отменить действие?</value>
-    <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
+    <value>Для начало использования Mailbird необходимо добавить почтовый аккаунт.
+
+Вы уверены что хотите отменить действие?</value>
+  <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
     <value>Вы действительно хотите отменить?</value>
@@ -3740,8 +3742,8 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
-    <value>Истекает</value>
-    <comment>Expires</comment>
+    <value>Срок действия лицензии истекает: {0} (в {1})</value>
+  <comment>Expires</comment>
   </data>
   <data name="Timeline_Today" xml:space="preserve">
     <value>Сегодня</value>
@@ -3953,16 +3955,16 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>For tablets only. Mailbird will automatically change between horizontal and vertical layout when the tablet orientation changes between portrait and landscape.</comment>
   </data>
   <data name="Contact_AddToContacts" xml:space="preserve">
-    <value>Add to Contacts</value>
-    <comment>Add to contacts</comment>
+    <value>Добавить в контакты</value>
+  <comment>Add to contacts</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationPlural" xml:space="preserve">
-    <value>The contacts have been added to the Contacts app.</value>
-    <comment>The contacts have been added to the contacts manager.</comment>
+    <value>Контакты были добавлены в приложение Контакты.</value>
+  <comment>The contacts have been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationSingular" xml:space="preserve">
-    <value>The contact has been added to the Contacts app.</value>
-    <comment>The contact has been added to the contacts manager.</comment>
+    <value>Контакт был добавлен в приложение Контакты.</value>
+  <comment>The contact has been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedPlural" xml:space="preserve">
     <value>Контакты добавлены</value>
@@ -4025,12 +4027,12 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Please ensure that 'allow less secure apps' is enabled in Gmail:
-https://mailbird.zendesk.com/entries/53544244
+    <value>Пожалуйста, настройте свою учетную запись на использование аутентификации OAuth 2.0 вместо имени пользователя и пароля или убедитесь, что в Gmail включена функция разрешить менее безопасные приложения:
+{0}
 
-If the issue persists, please follow this for further troubleshooting:
+Если проблема не устранена, выполните следующие действия для устранения неполадок:
 https://support.google.com/mail/accounts/answer/78754</value>
-    <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
+  <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 If the issue persists, please follow this for further troubleshooting:
@@ -4041,15 +4043,15 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
-    <value>Ошибка аутентификации на прокси сервере. Убедитесь что настройки прокси-сервера введены правильно.</value>
-    <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
+    <value>Ошибка аутентификации с прокси-сервером. Убедитесь, что настройки прокси-сервера введены правильно в настройках Mailbird.</value>
+  <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
-    <value>Add link</value>
+    <value>Добавить ссылку</value>
   <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
-    <value>Opens add link window while you are composing email or editing signature</value>
+    <value>Открывает окно добавления ссылки при создании электронной почты или редактировании подписи</value>
   <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
@@ -4069,12 +4071,12 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Installation issue detected</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
-    <value>Mailbird has detected that one or more files are corrupt or missing from the installation directory.
+    <value>Mailbird обнаружил, что один или несколько файлов повреждены или отсутствуют в каталоге установки.
 
-To fix the problem please uninstall and then reinstall Mailbird by getting the latest version from https://www.getmailbird.com
+Чтобы устранить проблему, удалите и переустановите Mailbird, получив последнюю версию на сайте https://www.getmailbird.com
 
-All your settings, email etc. will be kept as long as you don't delete the storage directory when asked during uninstall.</value>
-    <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
+Все ваши настройки будут храниться до тех пор, пока вы не удалите каталог хранилища при запросе во время удаления программы.</value>
+  <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
   </data>
@@ -4087,8 +4089,8 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Coupon</comment>
   </data>
   <data name="UpdateToPro_UsdMonth" xml:space="preserve">
-    <value>{0} / Month</value>
-    <comment>Note: leave the USD and translate the month</comment>
+    <value>{0} / Месяц</value>
+  <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
     <value>Невозможно прикрепить файл '{0}' к письму. Убедитесь что файл не открыт в другой программе и попробуйте снова.</value>
@@ -4099,8 +4101,8 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>No contacts found</comment>
   </data>
   <data name="Welcome_InviteDescription" xml:space="preserve">
-    <value>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
-    <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
+    <value>За каждого друга, который устанавливает Mailbird на свой компьютер, мы дадим вам обоим бесплатный месяц Mailbird Pro! Там нет предела, так что приглашайте столько друзей, сколько вы захотите.</value>
+  <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
     <value>Получить Mailbird Pro абсолютно бесплатно и навсегда</value>
@@ -4111,8 +4113,8 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Skip to inbox</comment>
   </data>
   <data name="Invite_Loading" xml:space="preserve">
-    <value>Loading your top contacts..</value>
-    <comment>Loading your top contacts..</comment>
+    <value>Загрузка верхних контактов..</value>
+  <comment>Loading your top contacts..</comment>
   </data>
   <data name="Welcome_InviteSend" xml:space="preserve">
     <value>Отправить приглашения</value>
@@ -4135,8 +4137,8 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
-    <value>Add new recipients to Contacts</value>
-    <comment>Add new recipients to contacts app</comment>
+    <value>Добавить новых получателей в контакты</value>
+  <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
     <value>Закрепить Mailbird в меню "Пуск"</value>
@@ -4226,8 +4228,8 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Пригласите друзей - получите Pro</value>
-    <comment>Invite friends - earn Pro</comment>
+    <value>Пригласите друзей - Получите Pro БЕСПЛАТНО</value>
+  <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
     <value>Аккаунт не выбран</value>
@@ -4450,12 +4452,12 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Период времени на который отправка будет задержана, предоставляя вам опцию отмены.</value>
+    <value>Период времени на который отправка будет задержана, предоставляя Вам опцию отмены.</value>
   <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will be disabled the next time Mailbird is opened. Please upgrade to Pro to enable all your accounts.</value>
-    <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
+    <value>Ваш выбор превысит лимит аккаунта для пользователей Lite. Если вы продолжите, некоторые учетные записи будут отключены при следующем открытии Mailbird. Пожалуйста, обновите до Pro, чтобы включить все ваши аккаунты.</value>
+  <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
     <value>Этот аккаунт невозможно импортировать потому что он уже добавлен в Mailbird</value>
@@ -4486,8 +4488,8 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Enter the password used to log in to {0}</value>
-    <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
+    <value>Введите пароль, используемый для входа в {0}</value>
+  <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
     <value>Ошибка во время авторизации.
@@ -4546,8 +4548,8 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Пожалуйста выберите файл корректного формата из опций</value>
-    <comment>Please select the correct audio file from options</comment>
+    <value>Пожалуйста, выберите правильный звуковой файл из настроек.</value>
+  <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
     <value>Пожалуйста выберите корректный аудио файл.</value>
@@ -4586,8 +4588,8 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>[Quoted text hidden]</comment>
   </data>
 <data name="Timeline_ExpireDays" xml:space="preserve">
-    <value>{0} days</value>
-    <comment>{0} days</comment>
+    <value>{0} дней</value>
+  <comment>{0} days</comment>
   </data>
   <data name="Print_TextHidden" xml:space="preserve">
     <value>[Скрытая цитата]</value>
@@ -4708,134 +4710,134 @@ Please remove some and try again.</comment>
     <comment>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</comment>
   </data>
 <data name="Options_RestartNow" xml:space="preserve">
-    <value>Restart now</value>
-    <comment>Restart now</comment>
+    <value>Перезагрузить сейчас</value>
+  <comment>Restart now</comment>
   </data>
   <data name="Awesomium_GoogleSearch" xml:space="preserve">
-    <value>Search Google for "{0}"</value>
-    <comment>PS: leave the {0},
+    <value>Поиск в Google "{0}"</value>
+  <comment>PS: leave the {0},
 the final result will be: Search Google for "query"</comment>
   </data>
   <data name="FolderControl_Search" xml:space="preserve">
-    <value>Search folders</value>
-    <comment>Search folders</comment>
+    <value>Поиск папок</value>
+  <comment>Search folders</comment>
   </data>
   <data name="Shortcut_SearchFolders" xml:space="preserve">
-    <value>Search Folders</value>
-    <comment>Search Folders</comment>
+    <value>Поиск Папок</value>
+  <comment>Search Folders</comment>
   </data>
   <data name="Shortcut_SearchFoldersExplanation" xml:space="preserve">
-    <value>Puts your cursor in the search folders box.</value>
-    <comment>Puts your cursor in the search folders box.</comment>
+    <value>Поместите курсор в поле поиска папок.</value>
+  <comment>Puts your cursor in the search folders box.</comment>
   </data>
   <data name="Invite_AcceptedProgress" xml:space="preserve">
-    <value>Nice! [bold]{0} of {1}[/bold] invitations accepted!</value>
-    <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
+    <value>Хорошо! [bold]{0} из {1}[/bold] приглашений принято!</value>
+  <comment>Nice! [bold]{0} of {1}[/bold] invitations accepted!</comment>
   </data>
   <data name="Invite_SeeAll" xml:space="preserve">
-    <value>See all</value>
-    <comment>See all</comment>
+    <value>Посмотреть все</value>
+  <comment>See all</comment>
   </data>
   <data name="Message_CloseSpeedRead" xml:space="preserve">
-    <value>Back to normal reading</value>
-    <comment>Back to normal reading</comment>
+    <value>Вернуться к нормальному чтению</value>
+  <comment>Back to normal reading</comment>
   </data>
   <data name="Shortcut_SpeedRead" xml:space="preserve">
-    <value>Speed read</value>
-    <comment>Speed read</comment>
+    <value>Быстрое чтение</value>
+  <comment>Speed read</comment>
   </data>
   <data name="Shortcut_SpeedReadExplanation" xml:space="preserve">
-    <value>Read the selected email more quickly in speed read mode</value>
-    <comment>Read the selected email more quickly in speed read mode</comment>
+    <value>Прочитать выбранное сообщение в режиме быстрого чтения</value>
+  <comment>Read the selected email more quickly in speed read mode</comment>
   </data>
   <data name="SpeedRead_Finish" xml:space="preserve">
-    <value>Finish</value>
-    <comment>Finish</comment>
+    <value>Конец</value>
+  <comment>Finish</comment>
   </data>
   <data name="WebControl_Print" xml:space="preserve">
-    <value>Print...</value>
-    <comment>Print...</comment>
+    <value>Печать...</value>
+  <comment>Print...</comment>
   </data>
 <data name="WebControl_OpenLink" xml:space="preserve">
     <value>Open link</value>
     <comment>Open link</comment>
   </data>
   <data name="WelcomeMessage_Afternoon" xml:space="preserve">
-    <value>Good afternoon, {0}</value>
-    <comment>Good afternoon, {0}</comment>
+    <value>Добрый день, {0}</value>
+  <comment>Good afternoon, {0}</comment>
   </data>
   <data name="WelcomeMessage_Morning" xml:space="preserve">
-    <value>Good morning, {0}</value>
-    <comment>Good morning, {0}</comment>
+    <value>Доброе утро, {0}</value>
+  <comment>Good morning, {0}</comment>
   </data>
   <data name="WelcomeMessage_Night" xml:space="preserve">
-    <value>Good evening, {0}</value>
-    <comment>Good evening, {0}</comment>
+    <value>Добрый вечер, {0}</value>
+  <comment>Good evening, {0}</comment>
   </data>
   <data name="Options_Interface" xml:space="preserve">
-    <value>Interface</value>
-    <comment>Interface</comment>
+    <value>Интерфейс</value>
+  <comment>Interface</comment>
   </data>
   <data name="Options_ShowWelcomeMessage" xml:space="preserve">
-    <value>Show welcome message</value>
-    <comment>Show welcome message</comment>
+    <value>Показать сообщение приветствия</value>
+  <comment>Show welcome message</comment>
   </data>
 <data name="Notification_FailedToLoadBackground" xml:space="preserve">
-    <value>Failed to load background image</value>
-    <comment>Failed to load background image</comment>
+    <value>Не удалось загрузить фоновое изображение</value>
+  <comment>Failed to load background image</comment>
   </data>
   <data name="Notification_FailedToSetBackground" xml:space="preserve">
-    <value>Failed to set background image</value>
-    <comment>Failed to set background image</comment>
+    <value>Не удалось установить фоновое изображение</value>
+  <comment>Failed to set background image</comment>
   </data>
   <data name="Notification_FailedToSetBackgroundExplanation" xml:space="preserve">
-    <value>Please make sure the file is not being used by another program and try again.</value>
-    <comment>Please make sure the file is not being used by another program and try again.</comment>
+    <value>Убедитесь, что файл не используется другой программой, и повторите попытку.</value>
+  <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_ImageFileSizeExplanation" xml:space="preserve">
-    <value>The maximum image file size is {0}.
-Please choose another file.</value>
-    <comment>The maximum image file size is {0}.
+    <value>Максимальный размер файла изображения {0}.
+Пожалуйста, выберите другой файл.</value>
+  <comment>The maximum image file size is {0}.
 Please choose another file.</comment>
   </data>
   <data name="Options_Background" xml:space="preserve">
-    <value>Background</value>
-    <comment>Background</comment>
+    <value>Фон</value>
+  <comment>Background</comment>
   </data>
   <data name="Upgrade_CustomCover" xml:space="preserve">
-    <value>Upgrade now to enable custom covers.</value>
-    <comment>Upgrade now to enable custom covers.</comment>
+    <value>Обновите сейчас, чтобы включить пользовательские обложки.</value>
+  <comment>Upgrade now to enable custom covers.</comment>
   </data>
   <data name="Tips_Failed" xml:space="preserve">
-    <value>Tip failed to load, please check your internet connection.</value>
-    <comment>Tip failed to load, please check your internet connection.</comment>
+    <value>Не удалось загрузить совет, пожалуйста, проверьте подключение к интернету.</value>
+  <comment>Tip failed to load, please check your internet connection.</comment>
   </data>
   <data name="Tips_ViewInBrowser" xml:space="preserve">
     <value>View tip in browser</value>
     <comment>View tip in browser</comment>
   </data>
   <data name="Menu_Trial2" xml:space="preserve">
-    <value>Activate pro trial</value>
-    <comment>Activate pro trial</comment>
+    <value>Активируйте пробную версию Pro</value>
+  <comment>Activate pro trial</comment>
   </data>
   <data name="Trial_EndTitle2" xml:space="preserve">
-    <value>Your Pro Trial Has Ended</value>
-    <comment>Your Pro Trial Has Ended</comment>
+    <value>Ваш пробный период Pro версии закончился</value>
+  <comment>Your Pro Trial Has Ended</comment>
   </data>
   <data name="Trial_StartText2" xml:space="preserve">
-    <value>For the next few days, you will get unlimited access to all Mailbird Pro features. 
-Once your trial is over your account will revert to the Lite (free) version.</value>
-    <comment>For the next few days, you will get unlimited access to all Mailbird Pro features. 
+    <value>В течение следующих нескольких дней Вы получите неограниченный доступ ко всем функциям Mailbird Pro. 
+Как только Ваша пробная версия закончится, ваша учетная запись вернется к Lite (бесплатной) версии.</value>
+  <comment>For the next few days, you will get unlimited access to all Mailbird Pro features. 
 Once your trial is over your account will revert to the Lite (free) version.</comment>
   </data>
   <data name="Trial_StartTitle2" xml:space="preserve">
-    <value>Your Free Pro Trial Starts Now</value>
-    <comment>Your Free Pro Trial Starts Now</comment>
+    <value>Бесплатный пробный период Pro версии начинается сейчас</value>
+  <comment>Your Free Pro Trial Starts Now</comment>
   </data>
 <data name="Notification_ErrorLoadingBackgroundExplanation" xml:space="preserve">
-    <value>An error occured loading the background image.
-Please select another image to use as a background.</value>
-    <comment>An error occured loading the background image.
+    <value>Произошла ошибка при загрузке фонового изображения.
+Пожалуйста, выберите другое изображение для использования в качестве фона.</value>
+  <comment>An error occured loading the background image.
 Please select another image to use as a background.</comment>
   </data>
   <data name="Notification_FailedToRemoveBackground" xml:space="preserve">
@@ -4843,272 +4845,273 @@ Please select another image to use as a background.</comment>
     <comment>Failed to set remove background image</comment>
   </data>
   <data name="Options_RemoveBackground" xml:space="preserve">
-    <value>Remove</value>
-    <comment>Remove</comment>
+    <value>Удалить</value>
+  <comment>Remove</comment>
   </data>
   <data name="Options_RetrieveLicense" xml:space="preserve">
-    <value>Retrieve License Key</value>
-    <comment>Retrieve License Key</comment>
+    <value>Получить лицензионный ключ</value>
+  <comment>Retrieve License Key</comment>
   </data>
   <data name="App_Chrome_Description" xml:space="preserve">
-    <value>Navigate the web from Mailbird.</value>
-    <comment>Navigate the web from Mailbird.</comment>
+    <value>Перейдите в интернет из Mailbird.</value>
+  <comment>Navigate the web from Mailbird.</comment>
   </data>
   <data name="Trial_AlreadyHaveLicense" xml:space="preserve">
-    <value>I already have a license key</value>
-    <comment>I already have a license key</comment>
+    <value>У меня уже есть лицензионный ключ</value>
+  <comment>I already have a license key</comment>
   </data>
 <data name="UpgradeToPro_Popular" xml:space="preserve">
     <value>POPULAR</value>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Upgrade now to Mailbird PRO</value>
-    <comment>Upgrade now to Mailbird PRO</comment>
+    <value>Обновить до Mailbird PRO</value>
+  <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
-    <value>Dark theme</value>
-    <comment>Dark theme</comment>
+    <value>Тёмная тема</value>
+  <comment>Dark theme</comment>
   </data>
   <data name="Theme_Light" xml:space="preserve">
-    <value>Light theme</value>
-    <comment>Light theme</comment>
+    <value>Светлая тема</value>
+  <comment>Light theme</comment>
   </data>
 <data name="Dialog_UninstallNoButton" xml:space="preserve">
-    <value>Remove local data</value>
-    <comment>Remove local data</comment>
+    <value>Удалить локальные данные</value>
+  <comment>Remove local data</comment>
   </data>
   <data name="Dialog_UninstallYesButton" xml:space="preserve">
-    <value>Keep local data</value>
-    <comment>Keep local data</comment>
+    <value>Сохранить локальные данные</value>
+  <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</value>
-    <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
+    <value>Пригласите своих друзей, это легко. Когда {0} или более из них установят Mailbird из вашего приглашения, Вы получаете Mailbird Pro Lifetime [bold]БЕСПЛАТНО[/bold].</value>
+  <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Pro Lifetime FREE</value>
-    <comment>Get Mailbird Pro Lifetime FREE</comment>
+    <value>Получите Mailbird Pro
+Пожизненно и БЕСПЛАТНО</value>
+  <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="Invite_SendFrom" xml:space="preserve">
-    <value>Send from</value>
-    <comment>Send from</comment>
+    <value>Отправить с</value>
+  <comment>Send from</comment>
   </data>
   <data name="InviteV2_Accepted" xml:space="preserve">
-    <value>Accepted!</value>
-    <comment>Accepted!</comment>
+    <value>Принято!</value>
+  <comment>Accepted!</comment>
   </data>
   <data name="InviteV2_AddnewContact" xml:space="preserve">
-    <value>"{0}" is not found, press "Enter" to add to list.</value>
-    <comment>"{0}" is not found, press "Enter" to add to list.</comment>
+    <value>"{0}" не найден, нажмите "Enter", чтобы добавить в список.</value>
+  <comment>"{0}" is not found, press "Enter" to add to list.</comment>
   </data>
   <data name="InviteV2_Invite" xml:space="preserve">
-    <value>Invite</value>
-    <comment>Invite</comment>
+    <value>Пригласить</value>
+  <comment>Invite</comment>
   </data>
   <data name="InviteV2_Invited" xml:space="preserve">
-    <value>Invited</value>
-    <comment>Invited</comment>
+    <value>Приглашен</value>
+  <comment>Invited</comment>
   </data>
   <data name="InviteV2_NoAcceptedInvitations" xml:space="preserve">
-    <value>You don't have any accepted invitations.</value>
-    <comment>You don't have any accepted invitations.</comment>
+    <value>У вас нет принятых приглашений.</value>
+  <comment>You don't have any accepted invitations.</comment>
   </data>
   <data name="InviteV2_NoContacts" xml:space="preserve">
-    <value>No contacts found.</value>
-    <comment>No contacts found.</comment>
+    <value>Контакты не найдены.</value>
+  <comment>No contacts found.</comment>
   </data>
   <data name="InviteV2_NoSentInvitations" xml:space="preserve">
-    <value>You haven't sent any invitations.</value>
-    <comment>You haven't sent any invitations.</comment>
+    <value>Вы не отправили никаких приглашений.</value>
+  <comment>You haven't sent any invitations.</comment>
   </data>
   <data name="InviteV2_AcceptedCounter" xml:space="preserve">
     <value> ({0}/{1})</value>
     <comment>({0}/{1})</comment>
   </data>
   <data name="InviteV2_AcceptedHeader" xml:space="preserve">
-    <value>Accepted</value>
-    <comment>Accepted</comment>
+    <value>Принято</value>
+  <comment>Accepted</comment>
   </data>
   <data name="InviteV2_AcceptedProgress" xml:space="preserve">
-    <value>{0} of {1} invites accepted!</value>
-    <comment>{0} of {1} invites accepted!</comment>
+    <value>{0} из {1} приглашений принято!</value>
+  <comment>{0} of {1} invites accepted!</comment>
   </data>
   <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
     <value>You are already an email rockstar with Mailbird Pro Lifetime! When your friend installs Mailbird from your invite, you get 1 month of Mailbird Priority Support for FREE per successful install!</value>
     <comment>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="InviteV2_InviteFriends" xml:space="preserve">
-    <value>Invite Friends</value>
-    <comment>Invite Friends</comment>
+    <value>Пригласить друзей</value>
+  <comment>Invite Friends</comment>
   </data>
   <data name="InviteV2_Sent" xml:space="preserve">
-    <value>Sent ({0})</value>
-    <comment>Sent ({0})</comment>
+    <value>Отправить ({0})</value>
+  <comment>Sent ({0})</comment>
   </data>
   <data name="InviteV2_TitleBlockLifetime" xml:space="preserve">
-    <value>Invite your friends and get Priority Support</value>
-    <comment>Tell your friends so we can grow together!</comment>
+    <value>Приглашайте друзей и получайте приоритетную поддержку</value>
+  <comment>Tell your friends so we can grow together!</comment>
   </data>
   <data name="WebBrowser_Bookmark" xml:space="preserve">
-    <value>Bookmark</value>
-    <comment>Bookmark</comment>
+    <value>Закладка</value>
+  <comment>Bookmark</comment>
   </data>
   <data name="App_Chrome_BookmarkLimit" xml:space="preserve">
-    <value>You can bookmark up to {0} websites. Please remove existing bookmarks and try again.</value>
-    <comment>You can bookmark up to {0} websites. Please remove existing bookmarks and try again.</comment>
+    <value>Вы можете добавить закладки на веб-сайты {0}. Удалите существующие закладки и повторите попытку.</value>
+  <comment>You can bookmark up to {0} websites. Please remove existing bookmarks and try again.</comment>
   </data>
   <data name="App_Chrome_BookmarkLimit_Title" xml:space="preserve">
-    <value>Bookmark limit exceeded</value>
-    <comment>Bookmark limit exceeded</comment>
+    <value>Превышен лимит закладок</value>
+  <comment>Bookmark limit exceeded</comment>
   </data>
   <data name="Welcome_CloseDescription" xml:space="preserve">
-    <value>Are you sure you want to close the window?</value>
-    <comment>Are you sure you want to close the window?</comment>
+    <value>Вы уверены, что хотите закрыть окно?</value>
+  <comment>Are you sure you want to close the window?</comment>
   </data>
   <data name="Welcome_CloseImportDescription" xml:space="preserve">
-    <value>We're still importing your data, closing the window will cancel the import process.
+    <value>Мы все еще импортируем ваши данные, закрытие окна отменит процесс импорта.
 
-Are you sure you want to close the window?</value>
-    <comment>We're still importing your data, closing the window will cancel the import process.
+Вы уверены, что хотите закрыть окно?</value>
+  <comment>We're still importing your data, closing the window will cancel the import process.
 
 Are you sure you want to close the window?</comment>
   </data>
   <data name="UpdatePreference_CheckWithAutoDownload" xml:space="preserve">
-    <value>Download updates but let me choose whether to install them</value>
-    <comment>Download updates but let me choose whether to install them</comment>
+    <value>Загрузить обновления, но позволить мне выбор, устанавливать ли их</value>
+  <comment>Download updates but let me choose whether to install them</comment>
   </data>
   <data name="UpdatePreference_CheckWithoutAutoDownload" xml:space="preserve">
-    <value>Check for updates but let me choose whether to download and install them</value>
-    <comment>Check for updates but let me choose whether to download and install them</comment>
+    <value>Проверить наличие обновлений, но предоставить мне выбор, загружать и устанавливать их</value>
+  <comment>Check for updates but let me choose whether to download and install them</comment>
   </data>
   <data name="UpdatePreference_NeverCheck" xml:space="preserve">
-    <value>Never check for updates</value>
-    <comment>Never check for updates</comment>
+    <value>Никогда не проверять обновления</value>
+  <comment>Never check for updates</comment>
   </data>
   <data name="Options_UpdatePreference" xml:space="preserve">
-    <value>Choose your Mailbird update settings:</value>
-    <comment>Choose your Mailbird update settings:</comment>
+    <value>Выберите настройки обновления Mailbird:</value>
+  <comment>Choose your Mailbird update settings:</comment>
   </data>
 <data name="ContextMenu_RedownloadImage" xml:space="preserve">
-    <value>Redownload image</value>
-    <comment>Redownload image</comment>
+    <value>Скачать заного изображение</value>
+  <comment>Redownload image</comment>
   </data>
   <data name="InviteV2_InviteAgain" xml:space="preserve">
-    <value>Invite again</value>
-    <comment>Invite again</comment>
+    <value>Пригласить снова</value>
+  <comment>Invite again</comment>
   </data>
 <data name="InstallationForm_SetAsDefault" xml:space="preserve">
-    <value>Set Mailbird as the default email client</value>
-    <comment>Set Mailbird as the default email client</comment>
+    <value>Установить Mailbird в качестве почтового клиента по умолчанию</value>
+  <comment>Set Mailbird as the default email client</comment>
   </data>
 <data name="Menu_Settings" xml:space="preserve">
-    <value>Settings</value>
-    <comment>Settings</comment>
+    <value>Настройки</value>
+  <comment>Settings</comment>
   </data>
   <data name="NotificationCenter_Notifications" xml:space="preserve">
-    <value>Notifications</value>
-    <comment>Notifications</comment>
+    <value>Уведомления</value>
+  <comment>Notifications</comment>
   </data>
 <data name="Notification_GenericAuthenticationError1" xml:space="preserve">
-    <value>This is typically caused by invalid credentials or {0} being disabled on the server for your account.
+    <value>Обычно это вызвано неверными учетными данными или {0}, которые отключены на сервере для вашей учетной записи.
 
-Read more:
+Прочитайте больше:
 https://support.getmailbird.com/hc/en-us/articles/220108287</value>
-    <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
+  <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
 
 Read more:
 https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
   </data>
   <data name="Dialog_SubjectChanged" xml:space="preserve">
-    <value>You changed the subject.
+    <value>Вы сменили тему разговора.
 
-Would you like to group this message into a new conversation?</value>
-    <comment>You changed the subject.
+Вы хотите сгруппировать это сообщение в новый разговор?</value>
+  <comment>You changed the subject.
 
 Would you like to group this message into a new conversation?</comment>
   </data>
   <data name="Dialog_SubjectChanged_Title" xml:space="preserve">
-    <value>Create a new conversation?</value>
-    <comment>Create a new conversation?</comment>
+    <value>Создать новый разговор?</value>
+  <comment>Create a new conversation?</comment>
   </data>
   <data name="InviteV2_ShareSocial" xml:space="preserve">
-    <value>Share on social and get more invites</value>
-    <comment>Share on social and get more invites</comment>
+    <value>Поделиться через социальные и получить больше приглашений</value>
+  <comment>Share on social and get more invites</comment>
   </data>
   <data name="ShareReferralLink_Link" xml:space="preserve">
     <value>link</value>
     <comment>link</comment>
   </data>
   <data name="ShareReferralLink_Share" xml:space="preserve">
-    <value>Share</value>
-    <comment>Share</comment>
+    <value>Поделиться</value>
+  <comment>Share</comment>
   </data>
   <data name="ShareReferralLink_Title" xml:space="preserve">
-    <value>Share Mailbird directly on Facebook or Twitter</value>
-    <comment>Share Mailbird directly on Facebook or Twitter</comment>
+    <value>Поделиться Mailbird непосредственно на Facebook или Twitter</value>
+  <comment>Share Mailbird directly on Facebook or Twitter</comment>
   </data>
   <data name="ShareReferralLink_Tweet" xml:space="preserve">
     <value>Tweet</value>
     <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>Get 1 month of @mailbird Pro for free, download here: {0}</value>
-    <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
+    <value>Получите 1 месяц @mailbird Pro бесплатно, скачать здесь: {0}</value>
+  <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
-    <value>Add coupon</value>
-    <comment>Add coupon</comment>
+    <value>Добавить купон</value>
+  <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Coupon code...</value>
-    <comment>Coupon code...</comment>
+    <value>Код купона...</value>
+  <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Enter the coupon code below or skip this step.</value>
-    <comment>Enter the coupon code below or skip this step.</comment>
+    <value>Введите код купона ниже или пропустите этот шаг.</value>
+  <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Have a referral coupon code?</value>
-    <comment>Have a referral coupon code?</comment>
+    <value>Есть реферальный код купона?</value>
+  <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>You've already used this coupon code.</value>
-    <comment>You've already used this coupon code.</comment>
+    <value>Вы уже использовали этот купон.</value>
+  <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>Coupon is not valid.</value>
-    <comment>Coupon is not valid.</comment>
+    <value>Купон недействителен.</value>
+  <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Coupon code can only be used by new users.</value>
-    <comment>Coupon code can only be used by new users.</comment>
+    <value>Код купона могут использовать только новые пользователи.</value>
+  <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
-    <value>You can't use your own code.</value>
-    <comment>You can't use your own code.</comment>
+    <value>Вы не можете использовать свой собственный код.</value>
+  <comment>You can't use your own code.</comment>
   </data>
   <data name="Welcome_Coupon_SameComputer" xml:space="preserve">
-    <value>You can't use this code because it was generated from the same PC.</value>
-    <comment>You can't use this code because it was generated from the same PC.</comment>
+    <value>Этот код нельзя использовать, так как он был сгенерирован с того же компьютера.</value>
+  <comment>You can't use this code because it was generated from the same PC.</comment>
   </data>
   <data name="Welcome_Subscribe" xml:space="preserve">
-    <value>Notify me of awesome updates</value>
-    <comment>Keep me updated</comment>
+    <value>Сообщите мне об обновлениях</value>
+  <comment>Keep me updated</comment>
   </data>
 <data name="DripSurvey_ChooseAnswer" xml:space="preserve">
-    <value>Choose your answer</value>
-    <comment>Choose your answer
+    <value>Выберите cвой ответ</value>
+  <comment>Choose your answer
 NB: Watermark text when user hasn't choosen answer ye</comment>
   </data>
   <data name="DripSurvey_Header" xml:space="preserve">
-    <value>Help us improve</value>
-    <comment>Help us improve
+    <value>Помогите нам улучшить</value>
+  <comment>Help us improve
 NB: Header for survey dialog within app</comment>
   </data>
   <data name="DripSurvey_LearnMore" xml:space="preserve">
-    <value>Why am I seeing this?</value>
-    <comment>Why am I seeing this?
+    <value>Почему я это вижу?</value>
+  <comment>Why am I seeing this?
 NB: Text for button that will take user to browser containing more explanation</comment>
   </data>
   <data name="DripSurvey_Send" xml:space="preserve">
@@ -5117,8 +5120,8 @@ NB: Text for button that will take user to browser containing more explanation</
 NB: Text for button to send the survey</comment>
   </data>
   <data name="DripSurvey_Skip" xml:space="preserve">
-    <value>Skip</value>
-    <comment>Skip
+    <value>Пропустить</value>
+  <comment>Skip
 NB: Text for button to skip the survey</comment>
   </data>
 <data name="App_Contacts_FieldType_Home" xml:space="preserve">
@@ -5126,12 +5129,12 @@ NB: Text for button to skip the survey</comment>
     <comment>Home</comment>
   </data>
   <data name="App_Contacts_FieldType_Other" xml:space="preserve">
-    <value>Other</value>
-    <comment>Other</comment>
+    <value>Другие</value>
+  <comment>Other</comment>
   </data>
   <data name="App_Contacts_FieldType_Work" xml:space="preserve">
-    <value>Work</value>
-    <comment>Work</comment>
+    <value>Работа</value>
+  <comment>Work</comment>
   </data>
   <data name="App_Contacts_PhoneType_GoogleVoice" xml:space="preserve">
     <value>Google Voice</value>
@@ -5142,52 +5145,52 @@ NB: Text for button to skip the survey</comment>
     <comment>Anniversary</comment>
   </data>
   <data name="App_Contacts_FieldType_Assistant" xml:space="preserve">
-    <value>Assistant</value>
-    <comment>Assistant</comment>
+    <value>Помощник</value>
+  <comment>Assistant</comment>
   </data>
   <data name="App_Contacts_FieldType_Blog" xml:space="preserve">
     <value>Blog</value>
     <comment>Blog</comment>
   </data>
   <data name="App_Contacts_FieldType_Brother" xml:space="preserve">
-    <value>Brother</value>
-    <comment>Brother</comment>
+    <value>Брат</value>
+  <comment>Brother</comment>
   </data>
   <data name="App_Contacts_FieldType_Child" xml:space="preserve">
-    <value>Child</value>
-    <comment>Child</comment>
+    <value>Ребенок</value>
+  <comment>Child</comment>
   </data>
   <data name="App_Contacts_FieldType_DomesticPartner" xml:space="preserve">
-    <value>Domestic partner</value>
-    <comment>Domestic partner</comment>
+    <value>Сожитель</value>
+  <comment>Domestic partner</comment>
   </data>
   <data name="App_Contacts_FieldType_Father" xml:space="preserve">
-    <value>Father</value>
-    <comment>Father</comment>
+    <value>Отец</value>
+  <comment>Father</comment>
   </data>
   <data name="App_Contacts_FieldType_Friend" xml:space="preserve">
-    <value>Friend</value>
-    <comment>Friend</comment>
+    <value>Друг</value>
+  <comment>Friend</comment>
   </data>
   <data name="App_Contacts_FieldType_Manager" xml:space="preserve">
     <value>Manager</value>
     <comment>Manager</comment>
   </data>
   <data name="App_Contacts_FieldType_Mother" xml:space="preserve">
-    <value>Mother</value>
-    <comment>Mother</comment>
+    <value>Мать</value>
+  <comment>Mother</comment>
   </data>
   <data name="App_Contacts_FieldType_Parent" xml:space="preserve">
     <value>Parent</value>
     <comment>Parent</comment>
   </data>
   <data name="App_Contacts_FieldType_Partner" xml:space="preserve">
-    <value>Partner</value>
-    <comment>Partner</comment>
+    <value>Партнёр</value>
+  <comment>Partner</comment>
   </data>
   <data name="App_Contacts_FieldType_Profile" xml:space="preserve">
-    <value>Profile</value>
-    <comment>Profile</comment>
+    <value>Профиль</value>
+  <comment>Profile</comment>
   </data>
   <data name="App_Contacts_FieldType_ReferredBy" xml:space="preserve">
     <value>Referred by</value>
@@ -5198,34 +5201,34 @@ NB: Text for button to skip the survey</comment>
     <comment>Relative</comment>
   </data>
   <data name="App_Contacts_FieldType_Sister" xml:space="preserve">
-    <value>Sister</value>
-    <comment>Sister</comment>
+    <value>Сестра</value>
+  <comment>Sister</comment>
   </data>
   <data name="App_Contacts_FieldType_Spouse" xml:space="preserve">
-    <value>Spouse</value>
-    <comment>Spouse</comment>
+    <value>Супруг</value>
+  <comment>Spouse</comment>
   </data>
   <data name="App_Contacts_AddGroup" xml:space="preserve">
-    <value>Add group</value>
-    <comment>Add group</comment>
+    <value>Добавить группу</value>
+  <comment>Add group</comment>
   </data>
   <data name="App_Contacts_AllContacts" xml:space="preserve">
-    <value>All contacts</value>
-    <comment>All contacts</comment>
+    <value>Все контакты</value>
+  <comment>All contacts</comment>
   </data>
   <data name="App_Contacts_Mailbird" xml:space="preserve">
-    <value>Mailbird (my computer)</value>
-    <comment>Mailbird (my computer)</comment>
+    <value>Mailbird (Мой компьютер)</value>
+  <comment>Mailbird (my computer)</comment>
   </data>
   <data name="App_Contacts_Search" xml:space="preserve">
-    <value>Search in {0}</value>
-    <comment>Search in {0}</comment>
+    <value>Поиск в {0}</value>
+  <comment>Search in {0}</comment>
   </data>
   <data name="App_Contacts_NoContacts" xml:space="preserve">
-    <value>There are no contacts in this group.
+    <value>В этой группе нет контактов.
 
-To add a contact, click the "Add contact" button.</value>
-    <comment>Placeholder text when no contacts in selected group</comment>
+Чтобы добавить контакт, нажмите кнопку "Добавить контакт".</value>
+  <comment>Placeholder text when no contacts in selected group</comment>
   </data>
   <data name="App_Contacts_ContactsPlural" xml:space="preserve">
     <value>{0} contacts</value>
@@ -5236,48 +5239,48 @@ To add a contact, click the "Add contact" button.</value>
     <comment>{0} contact</comment>
   </data>
   <data name="App_Contacts_Edit" xml:space="preserve">
-    <value>Edit</value>
-    <comment>Edit</comment>
+    <value>Редактировать</value>
+  <comment>Edit</comment>
   </data>
   <data name="App_Contacts_DeleteGroup" xml:space="preserve">
-    <value>Delete group</value>
-    <comment>Delete group</comment>
+    <value>Удалить группу</value>
+  <comment>Delete group</comment>
   </data>
   <data name="App_Contacts_EditGroup_New" xml:space="preserve">
-    <value>New group</value>
-    <comment>New group</comment>
+    <value>Новая группа</value>
+  <comment>New group</comment>
   </data>
   <data name="App_Contacts_EditGroup_Rename" xml:space="preserve">
-    <value>Rename group</value>
-    <comment>Rename group</comment>
+    <value>Переименовать группу</value>
+  <comment>Rename group</comment>
   </data>
   <data name="Dialog_Create" xml:space="preserve">
-    <value>Create</value>
-    <comment>Create</comment>
+    <value>Создать</value>
+  <comment>Create</comment>
   </data>
   <data name="App_Contacts_EditGroup_EnterName" xml:space="preserve">
-    <value>Enter group name</value>
-    <comment>Enter group name</comment>
+    <value>Введите название группы</value>
+  <comment>Enter group name</comment>
   </data>
   <data name="App_Contacts_LinkedContacts" xml:space="preserve">
-    <value>Linked contacts</value>
-    <comment>Linked contacts</comment>
+    <value>Связанные контакты</value>
+  <comment>Linked contacts</comment>
   </data>
   <data name="App_Contacts_LinkedContactsCountPlural" xml:space="preserve">
-    <value>({0} linked contacts)</value>
-    <comment>({0} linked contacts)</comment>
+    <value>({0} связанных контактов)</value>
+  <comment>({0} linked contacts)</comment>
   </data>
   <data name="App_Contacts_LinkContact" xml:space="preserve">
     <value>Link contact</value>
     <comment>Link contact</comment>
   </data>
   <data name="App_Contacts_Unlink" xml:space="preserve">
-    <value>Unlink</value>
-    <comment>Unlink</comment>
+    <value>Разъединить</value>
+  <comment>Unlink</comment>
   </data>
   <data name="App_Contacts_Unified" xml:space="preserve">
-    <value>Unified contact</value>
-    <comment>Unified contact</comment>
+    <value>Единый контакт</value>
+  <comment>Unified contact</comment>
   </data>
   <data name="App_Contacts_Link" xml:space="preserve">
     <value>Link</value>
@@ -5292,164 +5295,164 @@ To add a contact, click the "Add contact" button.</value>
     <comment>Enter a name</comment>
   </data>
   <data name="App_Contacts_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-    <comment>Cancel</comment>
+    <value>Отмена</value>
+  <comment>Cancel</comment>
   </data>
   <data name="App_Contacts_Save" xml:space="preserve">
-    <value>Save</value>
-    <comment>Save</comment>
+    <value>Сохранить</value>
+  <comment>Save</comment>
   </data>
   <data name="App_Contacts_FieldBirthday" xml:space="preserve">
-    <value>Birthday</value>
-    <comment>Birthday</comment>
+    <value>День рождения</value>
+  <comment>Birthday</comment>
   </data>
   <data name="App_Contacts_FieldJobTitle" xml:space="preserve">
-    <value>Job title</value>
-    <comment>Job title</comment>
+    <value>Должность</value>
+  <comment>Job title</comment>
   </data>
   <data name="App_Contacts_FieldAddAddress" xml:space="preserve">
-    <value>add address</value>
-    <comment>add address</comment>
+    <value>добавить адрес</value>
+  <comment>add address</comment>
   </data>
   <data name="App_Contacts_FieldAddBirthday" xml:space="preserve">
-    <value>add birthday</value>
-    <comment>add birthday</comment>
+    <value>добавить дату рождения</value>
+  <comment>add birthday</comment>
   </data>
   <data name="App_Contacts_FieldAddCompany" xml:space="preserve">
-    <value>add company</value>
-    <comment>add company</comment>
+    <value>добавить компанию</value>
+  <comment>add company</comment>
   </data>
   <data name="App_Contacts_FieldAddCustomField" xml:space="preserve">
-    <value>add custom field</value>
-    <comment>add custom field</comment>
+    <value>добавить пользовательское поле</value>
+  <comment>add custom field</comment>
   </data>
   <data name="App_Contacts_FieldAddDate" xml:space="preserve">
-    <value>add date</value>
-    <comment>add date</comment>
+    <value>добавить дату</value>
+  <comment>add date</comment>
   </data>
   <data name="App_Contacts_FieldAddInstantMessenger" xml:space="preserve">
-    <value>add instant messenger</value>
-    <comment>add instant messenger</comment>
+    <value>добавить мессенджер</value>
+  <comment>add instant messenger</comment>
   </data>
   <data name="App_Contacts_FieldAddJobTitle" xml:space="preserve">
-    <value>add job title</value>
-    <comment>add job title</comment>
+    <value>добавить должность</value>
+  <comment>add job title</comment>
   </data>
   <data name="App_Contacts_FieldAddNotes" xml:space="preserve">
-    <value>add notes</value>
-    <comment>add notes</comment>
+    <value>добавить заметки</value>
+  <comment>add notes</comment>
   </data>
   <data name="App_Contacts_FieldAddRelation" xml:space="preserve">
-    <value>add relation</value>
-    <comment>add relation</comment>
+    <value>добавить связь</value>
+  <comment>add relation</comment>
   </data>
   <data name="App_Contacts_FieldAddWebsite" xml:space="preserve">
-    <value>add website</value>
-    <comment>add website</comment>
+    <value>добавить сайт</value>
+  <comment>add website</comment>
   </data>
   <data name="App_Contacts_SingularFieldExplanation" xml:space="preserve">
-    <value>This will be displayed when viewing the contact</value>
-    <comment>This will be displayed when viewing the contact</comment>
+    <value>Это будет отображаться при просмотре контакта</value>
+  <comment>This will be displayed when viewing the contact</comment>
   </data>
   <data name="App_Contacts_FieldCity" xml:space="preserve">
-    <value>City</value>
-    <comment>City</comment>
+    <value>Город</value>
+  <comment>City</comment>
   </data>
   <data name="App_Contacts_FieldCountry" xml:space="preserve">
-    <value>Country</value>
-    <comment>Country</comment>
+    <value>Страна</value>
+  <comment>Country</comment>
   </data>
   <data name="App_Contacts_FieldRegion" xml:space="preserve">
     <value>Region</value>
     <comment>Region</comment>
   </data>
   <data name="App_Contacts_FieldStreet" xml:space="preserve">
-    <value>Street</value>
-    <comment>Street</comment>
+    <value>Улица</value>
+  <comment>Street</comment>
   </data>
   <data name="App_Contacts_FieldZipCode" xml:space="preserve">
     <value>ZIP code</value>
     <comment>ZIP code</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_SubHeader" xml:space="preserve">
-    <value>Select accounts below to connect and sync their contacts with Mailbird, or click the button to connect to another account.</value>
-    <comment>Explanation in accounts window</comment>
+    <value>Выберите учетные записи ниже для подключения и синхронизации контактов с Mailbird или нажмите кнопку для подключения к другой учетной записи.</value>
+  <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_Title" xml:space="preserve">
-    <value>Accounts</value>
-    <comment>Title for "Accounts" window</comment>
+    <value>Аккаунты</value>
+  <comment>Title for "Accounts" window</comment>
   </data>
   <data name="App_Contacts_MenuAccounts" xml:space="preserve">
-    <value>Accounts</value>
-    <comment>Accounts</comment>
+    <value>Аккаунты</value>
+  <comment>Accounts</comment>
   </data>
   <data name="App_Contacts_MenuDisplayFirstLast" xml:space="preserve">
-    <value>Display by First, Last</value>
-    <comment>Display by First, Last</comment>
+    <value>Отображать от первого к последнему</value>
+  <comment>Display by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuDisplayLastFirst" xml:space="preserve">
-    <value>Display by Last, First</value>
-    <comment>Display by Last, First</comment>
+    <value>Отображать от последнего к первому</value>
+  <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
     <value>Export contacts to vCard</value>
     <comment>Export group contacts to vCards</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
-    <value>+ Connect other account</value>
-    <comment>+ Connect other account</comment>
+    <value>+ Подключить другую учетную запись</value>
+  <comment>+ Connect other account</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
-    <value>Sorry, but this email account doesn't have support for contacts sync.</value>
-    <comment>Sorry, but this email account doesn't have support for contacts sync.</comment>
+    <value>К сожалению, эта учетная запись электронной почты не поддерживает синхронизацию контактов.</value>
+  <comment>Sorry, but this email account doesn't have support for contacts sync.</comment>
   </data>
   <data name="App_Contacts_EditAccount_SubHeader" xml:space="preserve">
-    <value>Choose one of the following icons to identify this account.</value>
-    <comment>Choose one of the following icons to identify this account.</comment>
+    <value>Выберите один из следующих значков для идентификации этой учетной записи.</value>
+  <comment>Choose one of the following icons to identify this account.</comment>
   </data>
   <data name="App_Contacts_EditAccount_Title" xml:space="preserve">
-    <value>Edit account</value>
-    <comment>Edit account</comment>
+    <value>Редактировать учетную запись</value>
+  <comment>Edit account</comment>
   </data>
   <data name="App_Contacts_OtherGoogleAccount" xml:space="preserve">
-    <value>Other Google account...</value>
-    <comment>Other Google account...</comment>
+    <value>Другой аккаунт Google...</value>
+  <comment>Other Google account...</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_Unsupported" xml:space="preserve">
-    <value>(Unsupported)</value>
-    <comment>(Unsupported)</comment>
+    <value>(Неподдерживаемый)</value>
+  <comment>(Unsupported)</comment>
   </data>
   <data name="App_Contacts_AvatarAdd" xml:space="preserve">
-    <value>Add photo</value>
-    <comment>Add photo</comment>
+    <value>Добавить фото</value>
+  <comment>Add photo</comment>
   </data>
   <data name="App_Contacts_AvatarChange" xml:space="preserve">
-    <value>Change</value>
-    <comment>Change</comment>
+    <value>Изменить</value>
+  <comment>Change</comment>
   </data>
   <data name="App_Contacts_ContextMenuAddRemoveGroups" xml:space="preserve">
-    <value>Groups...</value>
-    <comment>Groups...</comment>
+    <value>Группы...</value>
+  <comment>Groups...</comment>
   </data>
   <data name="App_Contacts_ContextMenuExport" xml:space="preserve">
     <value>Export vCard</value>
     <comment>Export vCard</comment>
   </data>
   <data name="App_Contacts_ContextMenuInvite" xml:space="preserve">
-    <value>Invite to Mailbird</value>
-    <comment>Invite to Mailbird</comment>
+    <value>Пригласить в Mailbird</value>
+  <comment>Invite to Mailbird</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkContacts" xml:space="preserve">
     <value>Link contacts</value>
     <comment>Link contacts</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkedin" xml:space="preserve">
-    <value>Look up on LinkedIn</value>
-    <comment>Look up on LinkedIn</comment>
+    <value>Посмотрите на LinkedIn</value>
+  <comment>Look up on LinkedIn</comment>
   </data>
   <data name="App_Contacts_ContextMenuNewEmail" xml:space="preserve">
-    <value>Compose email</value>
-    <comment>Compose email</comment>
+    <value>Написать письмо</value>
+  <comment>Compose email</comment>
   </data>
   <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
     <value>Mark as not starred</value>
@@ -5460,60 +5463,60 @@ To add a contact, click the "Add contact" button.</value>
     <comment>Mark as starred</comment>
   </data>
   <data name="App_Contacts_AddContact_Create" xml:space="preserve">
-    <value>Create</value>
-    <comment>Create</comment>
+    <value>Создать</value>
+  <comment>Create</comment>
   </data>
   <data name="App_Contacts_AddContact_NewContact" xml:space="preserve">
-    <value>New contact</value>
-    <comment>New contact</comment>
+    <value>Новый контакт</value>
+  <comment>New contact</comment>
   </data>
   <data name="App_Contacts_NoContactsFound" xml:space="preserve">
-    <value>No contacts found.</value>
-    <comment>No contacts found.</comment>
+    <value>Контакты не найдены.</value>
+  <comment>No contacts found.</comment>
   </data>
   <data name="App_Contacts_NoGroupsFound" xml:space="preserve">
-    <value>No groups found.</value>
-    <comment>No groups found.</comment>
+    <value>Группы не найдены.</value>
+  <comment>No groups found.</comment>
   </data>
   <data name="App_Contacts_Intro_1" xml:space="preserve">
-    <value>All your contacts together in one place.</value>
-    <comment>All your contacts together in one place.</comment>
+    <value>Все Ваши контакты в одном месте.</value>
+  <comment>All your contacts together in one place.</comment>
   </data>
   <data name="App_Contacts_Intro_2" xml:space="preserve">
-    <value>You can now have your Google contacts synced in Mailbird, with more providers to come.</value>
-    <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
+    <value>Теперь вы можете синхронизировать свои контакты Google в Mailbird.</value>
+  <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
-    <value>You can link contacts together to show their details in one place with just a click.</value>
-    <comment>You can link contacts together to show their details in one place with just a click.</comment>
+    <value>Вы можете связать контакты вместе, чтобы показать свои данные в одном месте щелчком мыши.</value>
+  <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
-    <value>Connect with your Google accounts now to sync them with Mailbird.</value>
-    <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
+    <value>Связать с аккаунтом Google сейчас синхронизировать их с Mailbird.</value>
+  <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
   </data>
   <data name="App_Contacts_Intro_Welcome" xml:space="preserve">
-    <value>Meet the Contacts</value>
-    <comment>Meet the Contacts</comment>
+    <value>Знакомство с контактами</value>
+  <comment>Meet the Contacts</comment>
   </data>
   <data name="App_Contacts_FieldPhoto" xml:space="preserve">
-    <value>Photo</value>
-    <comment>Photo</comment>
+    <value>Фото</value>
+  <comment>Photo</comment>
   </data>
   <data name="App_Contacts_SearchGroup" xml:space="preserve">
-    <value>Search group</value>
-    <comment>Search group</comment>
+    <value>Поиск группы</value>
+  <comment>Search group</comment>
   </data>
   <data name="App_Contacts_LinkContactExplanation" xml:space="preserve">
-    <value>Link with contacts from other accounts to show them as one in Mailbird</value>
-    <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
+    <value>Свяжите контакты с другими учетными записями, чтобы показать их как один в Mailbird</value>
+  <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
   </data>
   <data name="App_Contacts_NoLinkedContacts" xml:space="preserve">
-    <value>(No linked contacts)</value>
-    <comment>(No linked contacts)</comment>
+    <value>(Нет связанных контактов)</value>
+  <comment>(No linked contacts)</comment>
   </data>
   <data name="App_Contacts_Intro_ConnectAccounts" xml:space="preserve">
-    <value>Connect accounts</value>
-    <comment>Connect accounts</comment>
+    <value>Подключение учетных записей</value>
+  <comment>Connect accounts</comment>
   </data>
   <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
     <value>Merge contacts</value>
@@ -5524,32 +5527,32 @@ To add a contact, click the "Add contact" button.</value>
     <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
-    <value>Create or add a contact</value>
-    <comment>Add contact</comment>
+    <value>Создание или добавление контакта</value>
+  <comment>Add contact</comment>
   </data>
   <data name="App_Contacts_CollapseGroups" xml:space="preserve">
-    <value>Collapse groups panel</value>
-    <comment>Collapse groups panel</comment>
+    <value>Свернуть панель групп</value>
+  <comment>Collapse groups panel</comment>
   </data>
   <data name="App_Contacts_ExpandGroups" xml:space="preserve">
-    <value>Expand groups panel</value>
-    <comment>Expand groups panel</comment>
+    <value>Развернуть панель групп</value>
+  <comment>Expand groups panel</comment>
   </data>
   <data name="App_Contacts_Settings" xml:space="preserve">
-    <value>Settings</value>
-    <comment>Settings</comment>
+    <value>Настройки</value>
+  <comment>Settings</comment>
   </data>
   <data name="App_Contacts_ValidationEmpty" xml:space="preserve">
-    <value>Field cannot be empty</value>
-    <comment>Field cannot be empty</comment>
+    <value>Поле не может быть пустым</value>
+  <comment>Field cannot be empty</comment>
   </data>
   <data name="App_Contacts_LinkContact_NoAccounts" xml:space="preserve">
-    <value>You haven't connected any accounts.</value>
-    <comment>You haven't connected any accounts.</comment>
+    <value>Вы не подключили никаких аккаунтов.</value>
+  <comment>You haven't connected any accounts.</comment>
   </data>
   <data name="App_Contacts_RemoveGroup" xml:space="preserve">
-    <value>Remove group</value>
-    <comment>Remove group
+    <value>Удалить группу</value>
+  <comment>Remove group
 NB: tooltip for remove group button</comment>
   </data>
   <data name="App_Contacts_ContextMenuDelete" xml:space="preserve">
@@ -5557,22 +5560,22 @@ NB: tooltip for remove group button</comment>
     <comment>Delete</comment>
   </data>
   <data name="App_Contacts_RemoveField" xml:space="preserve">
-    <value>Remove</value>
-    <comment>Tooltip when removing contact field in contact manager</comment>
+    <value>Удалить</value>
+  <comment>Tooltip when removing contact field in contact manager</comment>
   </data>
   <data name="App_Contacts_ShowAllFields" xml:space="preserve">
-    <value>Show all fields</value>
-    <comment>Show all fields
+    <value>Показать все поля</value>
+  <comment>Show all fields
 NB: button to show extra fields when editing contact, since not all fields are shown since beginning</comment>
   </data>
   <data name="App_Contacts_ShowFewerFields" xml:space="preserve">
-    <value>Show fewer fields</value>
-    <comment>Show fewer fields
+    <value>Показать меньше полей</value>
+  <comment>Show fewer fields
 NB: button to hide extra fields when editing contact</comment>
   </data>
   <data name="App_Contacts_AddToGroup" xml:space="preserve">
-    <value>Add to a group</value>
-    <comment>Add to a group</comment>
+    <value>Добавить в группу</value>
+  <comment>Add to a group</comment>
   </data>
   <data name="App_Contacts_AddContact_InAccount" xml:space="preserve">
     <value>In "{0}"</value>
@@ -5580,13 +5583,13 @@ NB: button to hide extra fields when editing contact</comment>
 NB: This will be used to tell user in which account the new contact will be saved. {0} will be replaced with an account name, e.g. [In "email@email.com"]</comment>
   </data>
   <data name="App_Contacts_MenuGroupView" xml:space="preserve">
-    <value>Show groups</value>
-    <comment>Show groups
+    <value>Показать группы</value>
+  <comment>Show groups
 NB: menu to show/hide group panel</comment>
   </data>
   <data name="App_Contacts_ContextMenuCopyField" xml:space="preserve">
-    <value>Copy</value>
-    <comment>Copy
+    <value>Копировать</value>
+  <comment>Copy
 NB: Menu in context menu to do copy action</comment>
   </data>
   <data name="App_Contacts_OpenInBrowser" xml:space="preserve">
@@ -5594,56 +5597,56 @@ NB: Menu in context menu to do copy action</comment>
     <comment>Menu in context menu to open current url in browser</comment>
   </data>
   <data name="App_Contacts_SearchInGoogleMaps" xml:space="preserve">
-    <value>Open in Google Maps</value>
-    <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
+    <value>Открыть в Google картах</value>
+  <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
   </data>
   <data name="App_Contacts_FieldNamePrefix" xml:space="preserve">
     <value>Title</value>
     <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
   </data>
   <data name="App_Contacts_FieldNameSuffix" xml:space="preserve">
-    <value>Suffix</value>
-    <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
+    <value>Суффикс</value>
+  <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
   </data>
   <data name="SpeedRead_Speed" xml:space="preserve">
     <value>{0} WPM</value>
     <comment>{0} will be replaced with the speed, WPM stands for words per minute</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_LocalExplanation" xml:space="preserve">
-    <value>The Mailbird system account with contacts local to your computer.
+    <value>Системная учетная запись Mailbird с локальными контактами на вашем компьютере.
 
-This cannot be removed.</value>
-    <comment>Explanation for the default local account in contact manager</comment>
+Это не может быть удалено.</value>
+  <comment>Explanation for the default local account in contact manager</comment>
   </data>
   <data name="App_Contacts_ContextMenuGoogleAccount" xml:space="preserve">
     <value>Google account</value>
     <comment>Menu to add Google account</comment>
   </data>
   <data name="App_Contacts_ContextMenuOutlookAccount" xml:space="preserve">
-    <value>Outlook account</value>
-    <comment>Menu to add Outlook account</comment>
+    <value>Учетная запись Outlook</value>
+  <comment>Menu to add Outlook account</comment>
   </data>
   <data name="Dialog_DisconnectAccount" xml:space="preserve">
-    <value>Disconnect account?</value>
-    <comment>Title for dialog window when user tries to disconnect account from Contacts Manager</comment>
+    <value>Отключить аккаунт?</value>
+  <comment>Title for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="Dialog_DisconnectAccountExplanation" xml:space="preserve">
-    <value>Are you sure you want to disconnect the account?
+    <value>Вы уверены, что хотите отключить учетную запись?
 
-This will disable contact sync and remove the account's groups and contacts from Mailbird.</value>
-    <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
+Это отключит синхронизацию контактов, удалит группы и контакты учетной записи из Mailbird.</value>
+  <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="App_Contacts_FieldAdd" xml:space="preserve">
-    <value>add {0}</value>
-    <comment>{0} will be replaced with field's name, e.g. "add title"</comment>
+    <value>добавить {0}</value>
+  <comment>{0} will be replaced with field's name, e.g. "add title"</comment>
   </data>
   <data name="App_Contacts_FieldAddMiddleName" xml:space="preserve">
-    <value>middle name</value>
-    <comment>Button to show middle name when editing contact</comment>
+    <value>Отчество</value>
+  <comment>Button to show middle name when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddSuffix" xml:space="preserve">
-    <value>suffix</value>
-    <comment>Button to show suffix of person when editing contact</comment>
+    <value>суффикс</value>
+  <comment>Button to show suffix of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddTitle" xml:space="preserve">
     <value>title</value>
@@ -5654,40 +5657,40 @@ This will disable contact sync and remove the account's groups and contacts from
     <comment>{0} and {1} will be replaced with field's name, e.g. "title or nickname"</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Coworkers" xml:space="preserve">
-    <value>Coworkers</value>
-    <comment>Name of the coworkers system group with contacts</comment>
+    <value>Коллеги</value>
+  <comment>Name of the coworkers system group with contacts</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Family" xml:space="preserve">
-    <value>Family</value>
-    <comment>Name of the family system group in the Contacts app</comment>
+    <value>Семья</value>
+  <comment>Name of the family system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Friends" xml:space="preserve">
-    <value>Friends</value>
-    <comment>Name of the friends system group in the Contacts app</comment>
+    <value>Друзья</value>
+  <comment>Name of the friends system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Contacts" xml:space="preserve">
     <value>Contacts</value>
     <comment>Name of the contacts system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Starred" xml:space="preserve">
-    <value>Starred</value>
-    <comment>Name of the system group with starred contacts in the Contacts app</comment>
+    <value>Помеченные</value>
+  <comment>Name of the system group with starred contacts in the Contacts app</comment>
   </data>
   <data name="App_Contacts_ValidationDuplicatedGroup" xml:space="preserve">
-    <value>Name already exists or is a protected system name</value>
-    <comment>Error message when trying to add group with the same name</comment>
+    <value>Имя уже существует или является защищенным системным именем</value>
+  <comment>Error message when trying to add group with the same name</comment>
   </data>
   <data name="App_Contacts_FieldType_HomePage" xml:space="preserve">
     <value>Home Page</value>
     <comment>Contact website field type</comment>
   </data>
   <data name="App_Contacts_DisconnectingAccount" xml:space="preserve">
-    <value>Disconnecting account...</value>
-    <comment>Progress message when disconnecting an account in the Contacts app</comment>
+    <value>Отключение аккаунта...</value>
+  <comment>Progress message when disconnecting an account in the Contacts app</comment>
   </data>
   <data name="App_Contacts_Refresh" xml:space="preserve">
-    <value>Refresh</value>
-    <comment>Menu to force contact manager to sync to server</comment>
+    <value>Обновить</value>
+  <comment>Menu to force contact manager to sync to server</comment>
   </data>
   <data name="App_Contacts_Labels_PersonalNotes" xml:space="preserve">
     <value>Personal Notes</value>
@@ -5698,70 +5701,70 @@ This will disable contact sync and remove the account's groups and contacts from
     <comment>Menu to send email to selected group</comment>
   </data>
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
-    <value>Connecting account...</value>
-    <comment>Progress message when connecting an account in the Contacts app</comment>
+    <value>Подключение аккаунта...</value>
+  <comment>Progress message when connecting an account in the Contacts app</comment>
   </data>
 <data name="App_Contacts_MenuSortFirstLast" xml:space="preserve">
-    <value>Sort by First, Last</value>
-    <comment>Sort by First, Last</comment>
+    <value>Сортировать от первого к последнему</value>
+  <comment>Sort by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuSortLastFirst" xml:space="preserve">
-    <value>Sort by Last, First</value>
-    <comment>Sort by Last, First</comment>
+    <value>Сортировать от последнего к первому</value>
+  <comment>Sort by Last, First</comment>
   </data>
   <data name="Dialog_Activate" xml:space="preserve">
-    <value>Activate</value>
-    <comment>Activate</comment>
+    <value>Активировать</value>
+  <comment>Activate</comment>
   </data>
   <data name="Trial_DowngradeToLite" xml:space="preserve">
-    <value>Downgrade me to Mailbird LITE</value>
-    <comment>Downgrade me to Mailbird LITE</comment>
+    <value>Понизить до Mailbird LITE</value>
+  <comment>Downgrade me to Mailbird LITE</comment>
   </data>
   <data name="Trial_DowngradeToLite2" xml:space="preserve">
-    <value>No, downgrade me to Mailbird Lite</value>
-    <comment>No, downgrade me to Mailbird Lite</comment>
+    <value>Нет, понизить до Mailbird Lite</value>
+  <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</value>
-    <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
+    <value>Чтобы получить все функции Mailbird, неограниченные учетные записи и т.д., Вам нужно будет приобрести Mailbird Pro.</value>
+  <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
-    <value>Your Mailbird Pro Trial has ended.</value>
-    <comment>Your Mailbird Pro Trial has ended.</comment>
+    <value>Пробная версия Mailbird Pro закончилась.</value>
+  <comment>Your Mailbird Pro Trial has ended.</comment>
   </data>
   <data name="Trial_EndTitle" xml:space="preserve">
-    <value>Did you enjoy flying 
-with Mailbird Pro?</value>
-    <comment>Did you enjoy flying 
+    <value>Вам понравилось летать 
+с Mailbird Pro?</value>
+  <comment>Did you enjoy flying 
 with Mailbird Pro?</comment>
   </data>
   <data name="Trial_ForgotLicense" xml:space="preserve">
-    <value>I don't remember my license key</value>
-    <comment>I don't remember my license key</comment>
+    <value>Я не помню свой лицензионный ключ</value>
+  <comment>I don't remember my license key</comment>
   </data>
   <data name="Trial_SendInviteButton" xml:space="preserve">
-    <value>Yes, Let's do it!</value>
-    <comment>Yes, Let's do it!</comment>
+    <value>Да, давайте сделаем это!</value>
+  <comment>Yes, Let's do it!</comment>
   </data>
   <data name="Trial_SendInviteConfirmationDescription" xml:space="preserve">
-    <value>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</value>
-    <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
+    <value>Вы будете отправлять приглашения на все Ваши контакты, которые имеют @gmail.com, @yahoo.com адрес электронной почты и некоторые основные поставщики электронной почты.</value>
+  <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
   </data>
   <data name="Trial_SendInviteDescription" xml:space="preserve">
-    <value>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</value>
-    <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
+    <value>Если 5 ваших друзей установят Mailbird по вашему приглашению, мы продлим вашу пробную версию еще на 7 дней.</value>
+  <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
   </data>
   <data name="Trial_SendInviteTitle" xml:space="preserve">
-    <value>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</value>
-    <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
+    <value>Вы хотите пригласить своих друзей, чтобы получить Mailbird Pro пожизненно и [bold]бесплатно?[/bold]</value>
+  <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
   </data>
   <data name="App_Contacts_CreateContact" xml:space="preserve">
-    <value>Create contact</value>
-    <comment>Tooltip for button to create contact</comment>
+    <value>Создать контакт</value>
+  <comment>Tooltip for button to create contact</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Custom" xml:space="preserve">
-    <value>Custom</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Пользовательский</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Date" xml:space="preserve">
     <value>Date</value>
@@ -5776,8 +5779,8 @@ with Mailbird Pro?</comment>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Phone" xml:space="preserve">
-    <value>Phone</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Телефон</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_PostalAddress" xml:space="preserve">
     <value>Address</value>
@@ -5792,59 +5795,59 @@ with Mailbird Pro?</comment>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
 <data name="App_Contacts_Groups_CreateFromSearch" xml:space="preserve">
-    <value>"{0}" (create group)</value>
-    <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
+    <value>"{0}" (создать группу)</value>
+  <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
-    <value>Refresh and sync</value>
-    <comment>Refresh and sync</comment>
+    <value>Обновить и синхронизировать</value>
+  <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
     <value>Up to date</value>
     <comment>Up to date</comment>
   </data>
   <data name="App_Contacts_CropPicture_Done" xml:space="preserve">
-    <value>Done</value>
-    <comment>Button when finish editing picture</comment>
+    <value>Готово</value>
+  <comment>Button when finish editing picture</comment>
   </data>
   <data name="App_Contacts_CropPicture_Title" xml:space="preserve">
     <value/>
   </data>
   <data name="App_Contacts_RotateCCW" xml:space="preserve">
-    <value>Rotate 90° counter-clockwise</value>
-    <comment>Tooltip for rotate image button</comment>
+    <value>Повернуть на 90° против часовой стрелки</value>
+  <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_RotateCW" xml:space="preserve">
-    <value>Rotate 90° clockwise</value>
-    <comment>Tooltip for rotate image button</comment>
+    <value>Повернуть на 90° по часовой стрелке</value>
+  <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_Merge" xml:space="preserve">
     <value>Merge</value>
     <comment>Button that when clicked will merge the selected contact with the current contact.</comment>
   </data>
   <data name="App_Contacts_ImageNotSupported" xml:space="preserve">
-    <value>Error loading image</value>
-    <comment>Title of message box when opening unsupported file</comment>
+    <value>Ошибка загрузки изображения</value>
+  <comment>Title of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_ImageNotSupportedExplanation" xml:space="preserve">
-    <value>Format not supported or file is corrupted.</value>
-    <comment>Explanation of message box when opening unsupported file</comment>
+    <value>Формат не поддерживается или файл поврежден.</value>
+  <comment>Explanation of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_Groups_CreateIn" xml:space="preserve">
-    <value>In [semibold]{0}[/semibold]</value>
-    <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
+    <value>В [semibold]{0}[/semibold]</value>
+  <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
   </data>
   <data name="Notification_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
-    <comment>Dismiss</comment>
+    <value>Отклонить</value>
+  <comment>Dismiss</comment>
   </data>
   <data name="Notification_Syncing" xml:space="preserve">
-    <value>Syncing</value>
-    <comment>Syncing</comment>
+    <value>Синхронизация</value>
+  <comment>Syncing</comment>
   </data>
 <data name="App_Contacts_ImportedGroupName" xml:space="preserve">
-    <value>Imported</value>
-    <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
+    <value>Импортированно</value>
+  <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartPlural" xml:space="preserve">
     <value>contacts</value>
@@ -5855,20 +5858,20 @@ with Mailbird Pro?</comment>
     <comment>Part of label for a group in auto complete when group has 1 contact. E.g. "Group (1 contact)"</comment>
   </data>
   <data name="App_Contacts_Labels_Department" xml:space="preserve">
-    <value>Department</value>
-    <comment>Label for custom field Department when importing vCard</comment>
+    <value>Отдел</value>
+  <comment>Label for custom field Department when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender" xml:space="preserve">
-    <value>Gender</value>
-    <comment>Label for custom field Gender when importing vCard</comment>
+    <value>Пол</value>
+  <comment>Label for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Female" xml:space="preserve">
-    <value>Female</value>
-    <comment>Female value for custom field Gender when importing vCard</comment>
+    <value>Женский</value>
+  <comment>Female value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Male" xml:space="preserve">
-    <value>Male</value>
-    <comment>Male value for custom field Gender when importing vCard</comment>
+    <value>Мужской</value>
+  <comment>Male value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Latitude" xml:space="preserve">
     <value>Latitude</value>
@@ -5879,20 +5882,20 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Longitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Mailer" xml:space="preserve">
-    <value>Mailer</value>
-    <comment>Label for custom field Mailer when importing vCard</comment>
+    <value>Отправитель</value>
+  <comment>Label for custom field Mailer when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Office" xml:space="preserve">
     <value>Office</value>
     <comment>Label for custom field Office when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_ProductId" xml:space="preserve">
-    <value>Product Id</value>
-    <comment>Label for custom field Product Id when importing vCard</comment>
+    <value>Id продукта</value>
+  <comment>Label for custom field Product Id when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_RevisionDate" xml:space="preserve">
-    <value>Revision Date</value>
-    <comment>Label for custom field Revision Date when importing vCard</comment>
+    <value>Дата выпуска</value>
+  <comment>Label for custom field Revision Date when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Role" xml:space="preserve">
     <value>Role</value>
@@ -5907,68 +5910,68 @@ with Mailbird Pro?</comment>
     <comment>Label for contact custom address type International</comment>
   </data>
   <data name="App_Contacts_Labels_Parcel" xml:space="preserve">
-    <value>Parcel</value>
-    <comment>Label for contact custom address type Parcel</comment>
+    <value>Посылка</value>
+  <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
-    <value>Postal</value>
-    <comment>Label for contact custom address type Postal</comment>
+    <value>Открытка</value>
+  <comment>Label for contact custom address type Postal</comment>
   </data>
   <data name="App_Contacts_Labels_Preferred" xml:space="preserve">
     <value>Preferred</value>
     <comment>Label for contact custom address type Preferred</comment>
   </data>
   <data name="MailEditor_RemoveSuggestion" xml:space="preserve">
-    <value>Remove suggestion</value>
-    <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
+    <value>Удалить предложение</value>
+  <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsHeader" xml:space="preserve">
-    <value>Suggestions restored</value>
-    <comment>Dialog box header</comment>
+    <value>Предложения восстановлены</value>
+  <comment>Dialog box header</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsMessage" xml:space="preserve">
-    <value>All previously removed auto-complete suggestions have been restored.</value>
-    <comment>Dialog box message</comment>
+    <value>Все ранее удаленные предложения автозаполнения были восстановлены.</value>
+  <comment>Dialog box message</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionHeader" xml:space="preserve">
-    <value>Removing auto-complete suggestions</value>
-    <comment>Dialog box header</comment>
+    <value>Удаление предложений автозаполнения</value>
+  <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Removing a suggestion will keep it from appearing in the list when composing a message - for instance if an email address no longer exists or is incorrect.
+    <value>Удаление предложения не позволит ему появиться в списке при составлении сообщения - например, если адрес электронной почты больше не существует или является неправильным.
 
-Removed suggestions can be restored from the settings.</value>
-    <comment>Dialog box message</comment>
+Удаленные предложения могут быть восстановлены из настроек.</value>
+  <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Restore auto-complete suggestions</value>
-    <comment>Settings button to restore all auto-complete suggestions</comment>
+    <value>Восстановление предложений автозаполнения</value>
+  <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
-    <value>Restores any auto-complete suggestions you've previously removed.</value>
-    <comment>Explanation for restore auto-complete suggestions button in settings</comment>
+    <value>Восстанавливает все ранее удаленные предложения автозаполнения.</value>
+  <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
 <data name="App_Contacts_MenuRenameGroup" xml:space="preserve">
-    <value>Rename</value>
-    <comment>Label of menu item to rename group in Contacts app</comment>
+    <value>Переименовать</value>
+  <comment>Label of menu item to rename group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
-    <value>Loading duplicates...</value>
-    <comment>Loading message when merge contacts are being calculated.</comment>
+    <value>Загрузка дубликатов...</value>
+  <comment>Loading message when merge contacts are being calculated.</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
-    <value>Try the new and improved Contacts app with contact sync!</value>
-    <comment>Notification header</comment>
+    <value>Попробуйте новое и улучшенное приложение Контакты с синхронизацией контактов!</value>
+  <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>We've not only updated the old Contacts app with a brand new design - we've also added full Google and Outlook support, so you can sync contacts with your existing accounts, and have the same contacts whether you're working in Mailbird or somewhere else.
+    <value>Мы не только обновили старое приложение Контактов с новым дизайном - мы также добавили полную поддержку Google и Outlook, чтобы вы могли синхронизировать контакты с существующими учетными записями и иметь те же контакты, независимо от того, работаете ли вы в Mailbird или где-то еще.
 
-New is also "linking", enabling you to link together identical contacts from different accounts - to make changes once and have them propagate to all accounts automatically.
+Новое "связывание", позволяющее связывать одинаковые контакты из разных организаций - вносить изменения один раз и автоматически распространять их на все организации.
 
-And did we mention you can easily copy or move contacts between accounts?
+И мы упоминали, что вы можете легко копировать или перемещать контакты между учетными записями?
 
-Try the new Contacts now!</value>
-    <comment>Notification message</comment>
+Попробуйте новые контакты сейчас!</value>
+  <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
     <value>Open Contacts</value>
@@ -5979,503 +5982,503 @@ Try the new Contacts now!</value>
     <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
-    <value>Selected group</value>
-    <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
+    <value>Выбранная группа</value>
+  <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 <data name="Menu_Help" xml:space="preserve">
     <value>Help</value>
     <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
-    <value>Share via email</value>
-    <comment>Tooltip to share via email</comment>
+    <value>Поделиться по эл. почте</value>
+  <comment>Tooltip to share via email</comment>
   </data>
   <data name="RateRecommend_Facebook" xml:space="preserve">
-    <value>Share via Facebook</value>
-    <comment>Tooltip to share via Facebook</comment>
+    <value>Поделиться через Facebook</value>
+  <comment>Tooltip to share via Facebook</comment>
   </data>
   <data name="RateRecommend_HeaderFeedback" xml:space="preserve">
-    <value>Please let us know how we can improve Mailbird for you:</value>
-    <comment>Header in rate and recommend control when asking for feedback</comment>
+    <value>Пожалуйста, дайте нам знать, как мы можем улучшить Mailbird для вас:</value>
+  <comment>Header in rate and recommend control when asking for feedback</comment>
   </data>
   <data name="RateRecommend_HeaderRating" xml:space="preserve">
-    <value>How likely are you to recommend Mailbird to a friend?</value>
-    <comment>Header in rate and recommend control when asking for rating</comment>
+    <value>На сколько вероятно, что вы порекомендуете Mailbird другу?</value>
+  <comment>Header in rate and recommend control when asking for rating</comment>
   </data>
   <data name="RateRecommend_HeaderShare" xml:space="preserve">
-    <value>Great! Could you share a brief post with your friends? It really helps.</value>
-    <comment>Header in rate and recommend control when asking for sharing</comment>
+    <value>Отлично! Не могли бы вы поделиться короткой записью с друзьями? Это действительно помогает.</value>
+  <comment>Header in rate and recommend control when asking for sharing</comment>
   </data>
   <data name="RateRecommend_Send" xml:space="preserve">
     <value>Send</value>
     <comment>Button to send feedback</comment>
   </data>
   <data name="RateRecommend_Twitter" xml:space="preserve">
-    <value>Share via Twitter</value>
-    <comment>Tooltip to share via Twitter</comment>
+    <value>Поделиться через Twitter</value>
+  <comment>Tooltip to share via Twitter</comment>
   </data>
   <data name="RateRecommend_Unlikely" xml:space="preserve">
-    <value>Unlikely</value>
-    <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
+    <value>Маловероятно</value>
+  <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="RateRecommend_VeryLikely" xml:space="preserve">
-    <value>Very likely</value>
-    <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
+    <value>Вероятно</value>
+  <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="InviteV2_ShareSocial2" xml:space="preserve">
-    <value>Share on social</value>
-    <comment>Button for sharing invites to social</comment>
+    <value>Поделиться через социальные сети</value>
+  <comment>Button for sharing invites to social</comment>
   </data>
 <data name="Background_AddYourOwn" xml:space="preserve">
-    <value>Add your own picture</value>
-    <comment>Tooltip for a menu to browse picture for background image</comment>
+    <value>Добавить собственную картинку</value>
+  <comment>Tooltip for a menu to browse picture for background image</comment>
   </data>
   <data name="Background_Christmas" xml:space="preserve">
-    <value>Christmas</value>
-    <comment>Name for type of backround</comment>
+    <value>Рождество</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Clover" xml:space="preserve">
-    <value>Clover</value>
-    <comment>Name for type of backround</comment>
+    <value>Клевер</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Custom" xml:space="preserve">
-    <value>Custom</value>
-    <comment>Name for type of backround</comment>
+    <value>Пользовательский</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Diamonds" xml:space="preserve">
-    <value>Diamonds</value>
-    <comment>Name for type of backround</comment>
+    <value>Бриллианты</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Flower" xml:space="preserve">
-    <value>Flower</value>
-    <comment>Name for type of backround</comment>
+    <value>Цветок</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Leaves" xml:space="preserve">
-    <value>Leaves</value>
-    <comment>Name for type of backround</comment>
+    <value>Листья</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_NarrowStripes" xml:space="preserve">
-    <value>Narrow Stripes</value>
-    <comment>Name for type of backround</comment>
+    <value>Узкие полосы</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_None" xml:space="preserve">
     <value>None</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Polcadot" xml:space="preserve">
-    <value>Polcadot</value>
-    <comment>Name for type of backround</comment>
+    <value>Горошек</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Scale" xml:space="preserve">
-    <value>Scale</value>
-    <comment>Name for type of backround</comment>
+    <value>Масштаб</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Snow" xml:space="preserve">
-    <value>Snow</value>
-    <comment>Name for type of backround</comment>
+    <value>Снег</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Square" xml:space="preserve">
-    <value>Square</value>
-    <comment>Name for type of backround</comment>
+    <value>Квадрат</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWars" xml:space="preserve">
-    <value>Star Wars</value>
-    <comment>Name for type of backround</comment>
+    <value>Звёздные войны</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWarsDarkSide" xml:space="preserve">
-    <value>Dark Side</value>
-    <comment>Name for type of backround</comment>
+    <value>Тёмная сторона</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWarsPixel" xml:space="preserve">
-    <value>Star Wars Pixel</value>
-    <comment>Name for type of backround</comment>
+    <value>Звездные Войны Pixel</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Stripes" xml:space="preserve">
-    <value>Stripes</value>
-    <comment>Name for type of backround</comment>
+    <value>Полоски</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Invite_HowItWorks" xml:space="preserve">
-    <value>How it works?</value>
-    <comment>Button to learn more about invite sidebar</comment>
+    <value>Как это работает?</value>
+  <comment>Button to learn more about invite sidebar</comment>
   </data>
   <data name="Sidebar_Collapse" xml:space="preserve">
-    <value>Collapse sidebar</value>
-    <comment>Tooltip for a button to collapse sidebar</comment>
+    <value>Свернуть боковую панель</value>
+  <comment>Tooltip for a button to collapse sidebar</comment>
   </data>
   <data name="Sidebar_Expand" xml:space="preserve">
-    <value>Expand sidebar</value>
-    <comment>Tooltip for a button to expand sidebar</comment>
+    <value>Развернуть боковую панель</value>
+  <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Video conversations with up to 8 people.</value>
+    <value>Видео разговоры до 8 человек.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
-    <value>Store your files in the cloud, 100 GB free cloud backup.</value>
+    <value>Храните ваши файлы в облаке, 100 ГБ свободного резервного копирования облака.</value>
   </data>
   <data name="App_Feedly_Description" xml:space="preserve">
-    <value>The content you need to accelerate your research, marketing, and sales.</value>
+    <value>Контент, необходимый для ускорения исследований, маркетинга и продаж.</value>
   </data>
   <data name="App_FollowUp_Description" xml:space="preserve">
-    <value>File, sort and schedule emails with ease.</value>
+    <value>Пишите, сортируйте и рассылайте электронные письма с легкостью.</value>
   </data>
   <data name="App_FormSwift_Description" xml:space="preserve">
-    <value>Generate a signature for your emails.</value>
+    <value>Создайте подпись для своих писем.</value>
   </data>
   <data name="App_Moodo_Description" xml:space="preserve">
-    <value>Beautiful minimalistic task management app. Drag and organize emails in your task list.</value>
+    <value>Красивое минималистичное приложение для управления задачами. Перетащите и упорядочите электронную почту в списке задач.</value>
   </data>
   <data name="App_Slack_Description" xml:space="preserve">
-    <value>Cloud based real-time messaging, archiving and search for modern teams.</value>
+    <value>Облако на основе обмена сообщениями в режиме реального времени, архивирование и поиск современных команд.</value>
   </data>
   <data name="App_TechCrunch_Description" xml:space="preserve">
-    <value>News website that offers news, videos, and events about IT companies, technology-oriented blogs, and other web properties.</value>
+    <value>Новостной веб-сайт, который предлагает новости, видео и события об ИТ-компаниях, технологически ориентированных блогах и других веб-ресурсах.</value>
   </data>
   <data name="App_TheVerge_Description" xml:space="preserve">
-    <value>American news and media network publishing articles on technology, science, art, business, U.S., world politics and culture.</value>
+    <value>Американская новостная и медийная сеть публикует статьи по технологиям, науке, искусству, бизнесу, США, мировой политике и культуре.</value>
   </data>
   <data name="App_Todoist_Description" xml:space="preserve">
-    <value>Todoist lets you manage your tasks anywhere. At home. At school. At work. Online. Offline. And on 13 platforms and devices.</value>
+    <value>Todoist позволяют управлять задачами в любом месте: дома, в школе, за работой, в интернете, оффлайн, и на 13 платформах и устройствах.</value>
   </data>
   <data name="App_Trello_Description" xml:space="preserve">
-    <value>Trello lets you work more collaboratively and get more done.</value>
+    <value>Trello позволяет вам работать совместно и делать больше.</value>
   </data>
   <data name="App_Twitter_Description" xml:space="preserve">
-    <value>Read and share tweets from all over the world.</value>
+    <value>Читайте и делитесь твитами со всего мира.</value>
   </data>
   <data name="App_UnrollMe_Description" xml:space="preserve">
-    <value>Clean up your inbox.</value>
+    <value>Очистите Ваш почтовый ящик.</value>
   </data>
   <data name="App_WeChat_Description" xml:space="preserve">
-    <value>More Social. More Fun. Free messaging and calling app.</value>
+    <value>Более социальный. Более увлекательный. Бесплатное приложение для обмена сообщениями и звонков.</value>
   </data>
   <data name="App_Weibo_Description" xml:space="preserve">
-    <value>Microblogging and social network with chat functions based in China (partially translated to english).</value>
+    <value>Микроблог и социальная сеть с функциями чата, базирующаяся в Китае (частично переведена на английский язык).</value>
   </data>
   <data name="App_Whatsapp_Description" xml:space="preserve">
-    <value>Simple. Personal. Real Time Messaging. Drag attachments right into WhatsApp from Mailbird.</value>
+    <value>Простой. Персональный. Обмен сообщениями в реальном времени. Перетащите вложения прямо в WhatsApp из Mailbird.</value>
   </data>
   <data name="Tutorial_ContactsAccount" xml:space="preserve">
-    <value>Connect your email accounts and sync contacts.</value>
-    <comment>Tutorial text to guide user to connect account in contact manager</comment>
+    <value>Подключение учетных записей электронной почты и синхронизация контактов.</value>
+  <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
 <data name="App_Contacts_BrowseContacts_Search" xml:space="preserve">
-    <value>Search</value>
-    <comment>Watermark for search textbox</comment>
+    <value>Поиск</value>
+  <comment>Watermark for search textbox</comment>
   </data>
   <data name="App_Contacts_BrowseContacts_SelectAll" xml:space="preserve">
-    <value>Select all</value>
-    <comment>Label for checkbox to select all contacts</comment>
+    <value>Выбрать все</value>
+  <comment>Label for checkbox to select all contacts</comment>
   </data>
   <data name="App_Contacts_Browse_Add" xml:space="preserve">
-    <value>Add</value>
-    <comment>Button to add selected contacts</comment>
+    <value>Добавить</value>
+  <comment>Button to add selected contacts</comment>
   </data>
   <data name="App_Contacts_RemoveContact" xml:space="preserve">
-    <value>Remove</value>
-    <comment>Tooltip for button to remove contact from list</comment>
+    <value>Удалить</value>
+  <comment>Tooltip for button to remove contact from list</comment>
   </data>
   <data name="MailEditor_Browse" xml:space="preserve">
-    <value>Browse contacts</value>
-    <comment>Tooltip in button to open browse contacts window</comment>
+    <value>Просмотр контактов</value>
+  <comment>Tooltip in button to open browse contacts window</comment>
   </data>
   <data name="Apps_Kin_Calendar_Description" xml:space="preserve">
-    <value>The sun will rise again. Here's the best calendar experience. (requires subscription)</value>
-    <comment>Description of Kin Calendar displayed in the App storefront.</comment>
+    <value>Солнце снова взойдет. Вот лучший опыт календаря. (требуется подписка)</value>
+  <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
   <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Hold Meetings on the Go, Virtual Training Classes, Remote Interviews, and More.</value>
-    <comment>Hangouts app description displayed in the App storefront.</comment>
+    <value>Проводите встречи на ходу, виртуальные тренинги, дистанционные интервью и многое другое.</value>
+  <comment>Hangouts app description displayed in the App storefront.</comment>
   </data>
   <data name="Editor_CcBcc" xml:space="preserve">
-    <value>Cc/Bcc</value>
-    <comment>Tooltip to expand or collapse cc/bcc field</comment>
+    <value>Копия/Скрытая копия</value>
+  <comment>Tooltip to expand or collapse cc/bcc field</comment>
   </data>
 <data name="DripSurvey_MoreInfo" xml:space="preserve">
-    <value>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</value>
-    <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
+    <value>Благодаря лучшему пониманию того, кто Вы, что Вам нравится и не нравится в Mailbird, мы можем сделать Mailbird еще лучше.</value>
+  <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
   </data>
   <data name="AppStore_Apps" xml:space="preserve">
-    <value>Apps</value>
-    <comment>Tab in add-ons to show list of apps in Mailbird</comment>
+    <value>Приложения</value>
+  <comment>Tab in add-ons to show list of apps in Mailbird</comment>
   </data>
   <data name="AppStore_Services" xml:space="preserve">
-    <value>Services</value>
-    <comment>Tab in add-ons to show list of 3rd party services in Mailbird</comment>
+    <value>Сервисы</value>
+  <comment>Tab in add-ons to show list of 3rd party services in Mailbird</comment>
   </data>
   <data name="AppStore_LearnMore" xml:space="preserve">
-    <value>Learn more</value>
-    <comment>Button to open link related to 3rd party service in Mailbird</comment>
+    <value>Подробнее</value>
+  <comment>Button to open link related to 3rd party service in Mailbird</comment>
   </data>
   <data name="Options_ShowCcBccByDefault" xml:space="preserve">
-    <value>Show Cc and Bcc by default</value>
-    <comment>Option to show Cc and Bcc by default in compose window</comment>
+    <value>Показывать копию и скрытую копию по умолчанию</value>
+  <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Account limit exceeded</value>
-    <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
+    <value>Лимит аккаунта превышен</value>
+  <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
-    <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
+    <value>Это удостоверение отключено. Обновите до Mailbird Pro, чтобы пользоваться неограниченными учетными записями.</value>
+  <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>This identity is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when identity is disabled due to server logging is on</comment>
+    <value>Это удостоверение отключено из-за включения ведения журнала сервера.</value>
+  <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the account limit in Mailbird Lite.</value>
-    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+    <value>Эта учетная запись была отключена, потому что вы достигли предела учетной записи в Mailbird Lite.</value>
+  <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
-    <value>This account is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when account is disabled due to server logging is on</comment>
+    <value>Эта учетная запись отключена из-за включения ведения журнала сервера.</value>
+  <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro to keep receiving and sending emails from this account.</value>
-    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+    <value>Обновитесь до Mailbird Pro, чтобы продолжать получать и отправлять электронные письма с этой учетной записи.</value>
+  <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
-    <comment>Button to upgrade to pro</comment>
+    <value>Обновить сейчас</value>
+  <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some of your accounts have been disabled because your Mailbird Pro trial has ended. You are now using Mailbird Lite. Mailbird Lite supports {0} email account(s) free for life. Please upgrade to Pro in order to continue using all of your accounts.</value>
-    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Некоторые из ваших учетных записей были отключены, потому что пробная версия Mailbird Pro закончилась. Теперь вы используете Mailbird Lite. Mailbird Lite поддерживает {0} учетных записей электронной почты пожизненно бесплатно. Пожалуйста, обновите до Pro, чтобы продолжить использовать все Ваши учетные записи.</value>
+  <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Upgrade to keep using all of your accounts in Mailbird.</value>
-    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Обновитесь, чтобы продолжать использовать все Ваши учетные записи в Mailbird.</value>
+  <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
-    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Ваш пробный период закончился.</value>
+  <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>For any assistance, please contact us at support@getmailbird.com.</value>
-    <comment>Footer in upgrade notification window</comment>
+    <value>Для помощи, пожалуйста свяжитесь с нами support@getmailbird.com.</value>
+  <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
-    <value>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</value>
-    <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
+    <value>Это Lite версия Mailbird. Если Вы наслаждаетесь Mailbird и хотели бы раскрыть мощь Mailbird Pro, пожалуйста, обновите сейчас</value>
+  <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
   </data>
   <data name="UpgradeNotification_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird Pro</value>
-    <comment>Purchase Mailbird Pro</comment>
+    <value>Купить Mailbird Pro</value>
+  <comment>Purchase Mailbird Pro</comment>
   </data>
   <data name="UpgradeNotification_Subtitle" xml:space="preserve">
-    <value>Would you like to get a Pro license now?</value>
-    <comment>Would you like to get a Pro license now?</comment>
+    <value>Вы хотели бы получить лицензию Pro сейчас?</value>
+  <comment>Would you like to get a Pro license now?</comment>
   </data>
   <data name="UpgradeNotification_Title" xml:space="preserve">
-    <value>Thanks for using Mailbird.</value>
-    <comment>Thanks for using Mailbird.</comment>
+    <value>Спасибо за использование Mailbird.</value>
+  <comment>Thanks for using Mailbird.</comment>
   </data>
   <data name="App_GoogleKeep_Description" xml:space="preserve">
-    <value>Compose, edit, share, and collaborate on your notes and reminders on any device, anywhere.</value>
-    <comment>Description of the Google Keep App displayed in the app store.</comment>
+    <value>Создавайте, редактируйте, делитесь и сотрудничайте с вашими заметками и напоминаниями на любом устройстве и в любом месте.</value>
+  <comment>Description of the Google Keep App displayed in the app store.</comment>
   </data>
 <data name="SpellCheck_Off" xml:space="preserve">
-    <value>Off</value>
-    <comment>Label when spellcheck is off</comment>
+    <value>Откл.</value>
+  <comment>Label when spellcheck is off</comment>
   </data>
   <data name="MailEditorFormattingBar_Align" xml:space="preserve">
-    <value>Align</value>
-    <comment>Formatting button to align paragraph</comment>
+    <value>Выравнивание</value>
+  <comment>Formatting button to align paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentLess" xml:space="preserve">
-    <value>Indent less</value>
-    <comment>Formatting button to give less indent in paragraph</comment>
+    <value>Отступ меньше</value>
+  <comment>Formatting button to give less indent in paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentMore" xml:space="preserve">
-    <value>Indent more</value>
-    <comment>Formatting button to give more indent in paragraph</comment>
+    <value>Отступ больше</value>
+  <comment>Formatting button to give more indent in paragraph</comment>
   </data>
   <data name="Message_DropAsInline" xml:space="preserve">
-    <value>Drop to add inline</value>
-    <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
+    <value>Добавить в строку</value>
+  <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
   </data>
   <data name="Options_AutoTagRecipients" xml:space="preserve">
-    <value>Auto-add recipients when @ tagging</value>
-    <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
+    <value>Автоматическое добавление получателей при @ tagging</value>
+  <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
   </data>
   <data name="UpdatePreference_Auto" xml:space="preserve">
-    <value>Install updates automatically</value>
-    <comment>Options to install update silently</comment>
+    <value>Устанавливать обновления автоматически</value>
+  <comment>Options to install update silently</comment>
   </data>
   <data name="Button_RestartMailbird" xml:space="preserve">
-    <value>Restart Mailbird</value>
-    <comment>Label for button to restart Mailbird.</comment>
+    <value>Перезапустить Mailbird</value>
+  <comment>Label for button to restart Mailbird.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyHeader" xml:space="preserve">
-    <value>An update is ready for you</value>
-    <comment>Header of notification informing the user that an update is ready to be installed.</comment>
+    <value>Обновление готово</value>
+  <comment>Header of notification informing the user that an update is ready to be installed.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyMessage" xml:space="preserve">
-    <value>The latest version of Mailbird is ready to be installed.
+    <value>Последняя Версия Mailbird готова к установке.
 
-Restart now to get the latest improvements and fixes - it'll only take a second.</value>
-    <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
+Перезагрузить сейчас, чтобы получить последние улучшения и исправления - это займет всего секунду.</value>
+  <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
   </data>
 <data name="Notification_SilentUpdateAppliedHeader" xml:space="preserve">
-    <value>Mailbird has been updated</value>
-    <comment>Header of notification shown when Mailbird has been updated.</comment>
+    <value>Mailbird был обновлён</value>
+  <comment>Header of notification shown when Mailbird has been updated.</comment>
   </data>
   <data name="Notification_SilentUpdateAppliedMessage" xml:space="preserve">
-    <value>A new version of Mailbird has been installed. Release notes are shown below.</value>
-    <comment>Message of notification shown when Mailbird has been updated.</comment>
+    <value>Установлена новая версия Mailbird. Примечания к выпуску приведены ниже.</value>
+  <comment>Message of notification shown when Mailbird has been updated.</comment>
   </data>
 <data name="Disabled_MessageHeaderAccount" xml:space="preserve">
-    <value>Account is disabled</value>
-    <comment>Header when performing action is not allowed due to disabled account </comment>
+    <value>Учетная запись отключена</value>
+  <comment>Header when performing action is not allowed due to disabled account </comment>
   </data>
   <data name="Disabled_MessageHeaderIdentity" xml:space="preserve">
-    <value>Identity is disabled</value>
-    <comment>Header when performing action is not allowed due to disabled identity</comment>
+    <value>Идентификация отключена</value>
+  <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
 <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose pricing plan:</value>
-    <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
+    <value>Выберите тарифный план:</value>
+  <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
 <data name="NewMessage_NewMessageSingular" xml:space="preserve">
     <value>{0} новое сообщение</value>
   <comment>Label for button when there is 1 new message</comment>
   </data>
   <data name="Dialog_EmptyFolder" xml:space="preserve">
-    <value>Empty folder?</value>
-    <comment>Dialog box title when user is about to empty a folder</comment>
+    <value>Очистить папку?</value>
+  <comment>Dialog box title when user is about to empty a folder</comment>
   </data>
   <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard all emails in this folder?</value>
-    <comment>Dialog box explanation when user is about to empty a folder</comment>
+    <value>Вы уверены, что хотите удалить все письма из этой папки?</value>
+  <comment>Dialog box explanation when user is about to empty a folder</comment>
   </data>
   <data name="Account_Exchange_Domain" xml:space="preserve">
-    <value>Domain</value>
-    <comment>Label of the domain field in the user account setup window</comment>
+    <value>Домен</value>
+  <comment>Label of the domain field in the user account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Show reading pane</value>
-    <comment>Option to hide the email view</comment>
+    <value>Показать панель чтения</value>
+  <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
     <value>Server URL</value>
     <comment>Label of the Exchange server field in the user account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Full dark theme</value>
-    <comment>Label for full dark theme</comment>
+    <value>Полностью тёмная тема</value>
+  <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
     <value>Exchange Server Authentication</value>
     <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>The Exchange Server version you are trying to connect to is currently not supported. Mailbird supports Exchange Server 2010 and above. Please contact support for more information.</value>
-    <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
+    <value>Версия Exchange Server, к которой вы пытаетесь подключиться, в настоящее время не поддерживается. Mailbird поддерживает Exchange Server 2010 и выше. Для получения дополнительной информации обратитесь в службу поддержки.</value>
+  <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Your Exchange account appears to be locked. Please contact your server administrator to continue using this account.</value>
-    <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
+    <value>Ваша учетная запись Exchange заблокирована. Обратитесь к администратору сервера, чтобы продолжить использование этой учетной записи.</value>
+  <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>The Exchange autodiscover service cannot be located. Make sure your email and password is correct and try again, or contact your server administrator to make sure autodiscover is enabled.</value>
-    <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
+    <value>Не удается найти службу автообнаружения Exchange. Убедитесь, что адрес электронной почты и пароль указаны правильно, и повторите попытку или обратитесь к администратору сервера, чтобы убедиться, что автообнаружение включено.</value>
+  <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>This is a Microsoft Exchange account</value>
-    <comment>Label in the checkbox to specify adding an Exchange account</comment>
+    <value>Это учетная запись Microsoft Exchange</value>
+  <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>An error occured attaching the file.
+    <value>Произошла ошибка при прикреплении файла.
 
-This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
+Обычно это вызвано антивирусной программой, которая мешает Mailbird. Попробуйте временно отключить антивирусную программу и повторите попытку.
 
-If the error persists, please contact support.</value>
-    <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
+Если ошибка повторится, обратитесь в службу поддержки.</value>
+  <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
-    <value>Database version mismatch</value>
-    <comment>Header of message shown when the database version doesn't match the requested version.</comment>
+    <value>Несоответствие версии базы данных</value>
+  <comment>Header of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
-    <value>The version of the database does not match this version of Mailbird.
+    <value>Версия базы данных не соответствует этой версии Mailbird.
 
-Please contact support for information on how to resolve this.</value>
-    <comment>Body of message shown when the database version doesn't match the requested version.</comment>
+Пожалуйста, обратитесь в службу поддержки для получения информации о том, как решить эту проблему.</value>
+  <comment>Body of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
-    <value>Leave blank to have Mailbird autodetect your Microsoft Exchange Server URL</value>
-    <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
+    <value>Оставьте поле пустым, чтобы Mailbird автоматически определил URL-адрес сервера Microsoft Exchange</value>
+  <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
   </data>
   <data name="NewMessage_NewMessagePlural" xml:space="preserve">
-    <value>{0} new messages</value>
-    <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
+    <value>{0} новый сообщений</value>
+  <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
   </data>
 <data name="Options_ScaleApplication" xml:space="preserve">
-    <value>Application scaling level</value>
-    <comment>Header for option to change the UI scaling</comment>
+    <value>Уровень масштабирования приложения</value>
+  <comment>Header for option to change the UI scaling</comment>
   </data>
   <data name="Options_ScaleInfo" xml:space="preserve">
-    <value>The new scaling level will be applied to this window the next time you open it.</value>
-    <comment>Info wdhen scale is changed in Settings window</comment>
+    <value>Новый уровень масштабирования будет применен к этому окну при следующем его открытии.</value>
+  <comment>Info wdhen scale is changed in Settings window</comment>
   </data>
   <data name="Options_ScaleOthers" xml:space="preserve">
-    <value>Other scaling levels</value>
-    <comment>Header for other options to scale the UI</comment>
+    <value>Другие уровни масштабирования</value>
+  <comment>Header for other options to scale the UI</comment>
   </data>
   <data name="Options_ScaleOthersExplanation" xml:space="preserve">
-    <value>The following scaling levels will be applied to the application scaling level, and can be used to fine tune the level for emails and the apps that supports it.</value>
-    <comment>Explanation for other options to scale the UI</comment>
+    <value>Следующие уровни масштабирования будут применены к уровню масштабирования приложения и могут использоваться для точной настройки уровня для сообщений электронной почты и приложений, которые его поддерживают.</value>
+  <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
-    <value>Reset scaling level</value>
+    <value>Сброс уровня масштабирования</value>
   <comment>Tooltip text for button to reset the scaling level, (Ctrl+0) doesn't need to be translated</comment>
   </data>
 <data name="MailEditor_CcBcc" xml:space="preserve">
-    <value>Cc Bcc</value>
-    <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
+    <value>Копия / Скрытая копия</value>
+  <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
   </data>
   <data name="MailEditor_CollapseCcBcc" xml:space="preserve">
-    <value>Hide Cc Bcc fields</value>
-    <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
+    <value>Скрыть поля Копия / Скрытая копия</value>
+  <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
   </data>
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
-    <value>Show Cc Bcc fields</value>
-    <comment>Tooltip for button to expand Cc and Bcc fields</comment>
+    <value>Показать поля Копия / Скрытая копия</value>
+  <comment>Tooltip for button to expand Cc and Bcc fields</comment>
   </data>
 <data name="Editor_EditLink" xml:space="preserve">
-    <value>Edit link</value>
-    <comment>Header of window when editing link</comment>
+    <value>Изменить ссылку</value>
+  <comment>Header of window when editing link</comment>
   </data>
   <data name="Tips_Unread" xml:space="preserve">
-    <value>Unread</value>
-    <comment>Tooltip for unread tips</comment>
+    <value>Не прочитано</value>
+  <comment>Tooltip for unread tips</comment>
   </data>
 <data name="Conversation_ReceivedIn" xml:space="preserve">
-    <value>Received in {0}</value>
-    <comment>Tooltip text for indicator where a conversation is received: Received in email@provider.com</comment>
+    <value>Получено в {0}</value>
+  <comment>Tooltip text for indicator where a conversation is received: Received in email@provider.com</comment>
   </data>
   <data name="Welcome_ColorIndicator" xml:space="preserve">
-    <value>Color indicator in unified account.</value>
-    <comment>Label in settings for choosing color indicator for account when unified account is selected</comment>
+    <value>Индикатор цвета в единой учетной записи.</value>
+  <comment>Label in settings for choosing color indicator for account when unified account is selected</comment>
   </data>
   <data name="Welcome_ColorReset" xml:space="preserve">
     <value>Reset</value>
     <comment>Button to reset the color indicator of an account</comment>
   </data>
   <data name="License_EndingSoonContent" xml:space="preserve">
-    <value>Your pro subscription time is almost up. In case you don't want to continue your subscription, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</value>
-    <comment>Your pro subscription time is almost up. In case you don't want to continue your subscription, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
+    <value>Ваша подписка Pro истекла. Если Вы не хотите продлевать подписку, пожалуйста, убедитесь, что вы синхронизировали свои контакты. Пользователи Lite версии не имеют доступа ни к одному из приложений в разделе приложения, включая менеджер контактов.</value>
+  <comment>Your pro subscription time is almost up. In case you don't want to continue your subscription, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
   </data>
   <data name="License_EndingSoonTitle" xml:space="preserve">
-    <value>Your pro subscription is ending soon</value>
-    <comment>Your pro subscription is ending soon</comment>
+    <value>Ваша Pro подписка скоро закончится</value>
+  <comment>Your pro subscription is ending soon</comment>
   </data>
   <data name="Trial_EndingSoonContent" xml:space="preserve">
-    <value>Your trial time is almost up. In case you don't want to go Pro, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</value>
-    <comment>Your trial time is almost up. In case you don't want to go Pro, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
+    <value>Ваше пробное время почти закончилось. Если вы не хотите переходить на Pro версию, убедитесь, что вы синхронизировали свои контакты. Пользователи Lite версии не имеют доступа ни к одному из приложений в разделе приложения, включая диспетчер контактов.</value>
+  <comment>Your trial time is almost up. In case you don't want to go Pro, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
   </data>
   <data name="Trial_EndingSoonTitle" xml:space="preserve">
-    <value>Your trial is ending soon</value>
-    <comment>Your trial is ending soon</comment>
+    <value>Ваша пробная версия почти закончилась</value>
+  <comment>Your trial is ending soon</comment>
   </data>
 </root>
