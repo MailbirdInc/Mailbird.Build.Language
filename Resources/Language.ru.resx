@@ -302,7 +302,7 @@
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>Мне </value>
+    <value>мне </value>
   <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -1040,8 +1040,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Evernote_Description" xml:space="preserve">
-    <value>Создайвайте, просматривайте и редактируйте заметки прямо в Mailbird! Легко и продуктивно.</value>
-    <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
+    <value>Создавайте, просматривайте и редактируйте заметки прямо в Mailbird! Легко и продуктивно.</value>
+  <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
   </data>
   <data name="App_Facebook_Description" xml:space="preserve">
     <value>Станьте суперзвездой соцсетей! Просматривайте Facebook и общайтесь с друзьями прямо из Mailbird.</value>
@@ -1160,8 +1160,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
-    <value>У вас вечная лицензия.</value>
-    <comment>Your license is valid forever.</comment>
+    <value>У вас пожизненная лицензия.</value>
+  <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
     <value>Ваша лицензия Pro действительна до {0}. Если вы не отменили подписку, она обновится автоматически.</value>
@@ -1948,8 +1948,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Открывает цепочку сообщений. Также разворачивает и сворачивает сообщения если вы находитесь в режиме  'Цепочка сообщений.'</value>
-    <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
+    <value>Открывает цепочку сообщений. Также разворачивает и сворачивает сообщения если Вы находитесь в режиме 'Цепочка сообщений.'</value>
+  <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
     <value>или</value>
@@ -3188,8 +3188,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>FastMail</comment>
   </data>
   <data name="AvatarIconGlobe" xml:space="preserve">
-    <value>Globe</value>
-    <comment>Globe</comment>
+    <value>Глобус</value>
+  <comment>Globe</comment>
   </data>
   <data name="AvatarIconGmail" xml:space="preserve">
     <value>Gmail</value>
@@ -3396,8 +3396,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
   </data>
   <data name="Trial_Feature1" xml:space="preserve">
-    <value>Speed Reader</value>
-    <comment>Speed Reader</comment>
+    <value>Режим быстрого чтения</value>
+  <comment>Speed Reader</comment>
   </data>
   <data name="Trial_Feature2" xml:space="preserve">
     <value>Более {0} аккаунтов</value>
@@ -3742,7 +3742,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Pending invitations ({0} months)</comment>
   </data>
   <data name="Timeline_Expires" xml:space="preserve">
-    <value>Срок действия лицензии истекает: {0} (в {1})</value>
+    <value>Срок лицензии истекает: {0} (в {1})</value>
   <comment>Expires</comment>
   </data>
   <data name="Timeline_Today" xml:space="preserve">
@@ -4444,15 +4444,15 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Sending</comment>
   </data>
   <data name="Options_UndoSend" xml:space="preserve">
-    <value>Период отмены отправки</value>
-    <comment>Undo send period</comment>
+    <value>Отменить период отправки</value>
+  <comment>Undo send period</comment>
   </data>
   <data name="Options_UndoSend_Disabled" xml:space="preserve">
     <value>Не активно</value>
     <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Период времени на который отправка будет задержана, предоставляя Вам опцию отмены.</value>
+    <value>Период времени, на который отправка будет задержана, предоставляя Вам опцию отмены.</value>
   <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
@@ -4560,8 +4560,8 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Default (Chirp)</comment>
   </data>
   <data name="Sound_Electronic" xml:space="preserve">
-    <value>Electronic</value>
-    <comment>Electronic</comment>
+    <value>Электронный</value>
+  <comment>Electronic</comment>
   </data>
   <data name="Sound_None" xml:space="preserve">
     <value>Нет</value>
@@ -4841,8 +4841,8 @@ Once your trial is over your account will revert to the Lite (free) version.</co
 Please select another image to use as a background.</comment>
   </data>
   <data name="Notification_FailedToRemoveBackground" xml:space="preserve">
-    <value>Failed to set remove background image</value>
-    <comment>Failed to set remove background image</comment>
+    <value>Не удалось удалить фоновое изображение</value>
+  <comment>Failed to set remove background image</comment>
   </data>
   <data name="Options_RemoveBackground" xml:space="preserve">
     <value>Удалить</value>
@@ -5141,8 +5141,8 @@ NB: Text for button to skip the survey</comment>
     <comment>Google Voice</comment>
   </data>
   <data name="App_Contacts_FieldType_Anniversary" xml:space="preserve">
-    <value>Anniversary</value>
-    <comment>Anniversary</comment>
+    <value>Юбилей</value>
+  <comment>Anniversary</comment>
   </data>
   <data name="App_Contacts_FieldType_Assistant" xml:space="preserve">
     <value>Помощник</value>
@@ -5181,8 +5181,8 @@ NB: Text for button to skip the survey</comment>
   <comment>Mother</comment>
   </data>
   <data name="App_Contacts_FieldType_Parent" xml:space="preserve">
-    <value>Parent</value>
-    <comment>Parent</comment>
+    <value>Родитель</value>
+  <comment>Parent</comment>
   </data>
   <data name="App_Contacts_FieldType_Partner" xml:space="preserve">
     <value>Партнёр</value>
@@ -5193,12 +5193,12 @@ NB: Text for button to skip the survey</comment>
   <comment>Profile</comment>
   </data>
   <data name="App_Contacts_FieldType_ReferredBy" xml:space="preserve">
-    <value>Referred by</value>
-    <comment>Referred by</comment>
+    <value>Ссылается на</value>
+  <comment>Referred by</comment>
   </data>
   <data name="App_Contacts_FieldType_Relative" xml:space="preserve">
-    <value>Relative</value>
-    <comment>Relative</comment>
+    <value>Относительный</value>
+  <comment>Relative</comment>
   </data>
   <data name="App_Contacts_FieldType_Sister" xml:space="preserve">
     <value>Сестра</value>
@@ -5601,8 +5601,8 @@ NB: Menu in context menu to do copy action</comment>
   <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
   </data>
   <data name="App_Contacts_FieldNamePrefix" xml:space="preserve">
-    <value>Title</value>
-    <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
+    <value>Заголовок</value>
+  <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
   </data>
   <data name="App_Contacts_FieldNameSuffix" xml:space="preserve">
     <value>Суффикс</value>
@@ -5649,8 +5649,8 @@ NB: Menu in context menu to do copy action</comment>
   <comment>Button to show suffix of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddTitle" xml:space="preserve">
-    <value>title</value>
-    <comment>Button to show title of person when editing contact</comment>
+    <value>название</value>
+  <comment>Button to show title of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldOr" xml:space="preserve">
     <value>{0} or {1}</value>
@@ -5803,8 +5803,8 @@ with Mailbird Pro?</comment>
   <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
-    <value>Up to date</value>
-    <comment>Up to date</comment>
+    <value>Обновление данных</value>
+  <comment>Up to date</comment>
   </data>
   <data name="App_Contacts_CropPicture_Done" xml:space="preserve">
     <value>Готово</value>
@@ -5838,7 +5838,7 @@ with Mailbird Pro?</comment>
   <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
   </data>
   <data name="Notification_Dismiss" xml:space="preserve">
-    <value>Отклонить</value>
+    <value>Отменить</value>
   <comment>Dismiss</comment>
   </data>
   <data name="Notification_Syncing" xml:space="preserve">
@@ -5902,8 +5902,8 @@ with Mailbird Pro?</comment>
     <comment>Label for custom field Role when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Domestic" xml:space="preserve">
-    <value>Domestic</value>
-    <comment>Label for contact custom address type Domestic</comment>
+    <value>Пользовательский</value>
+  <comment>Label for contact custom address type Domestic</comment>
   </data>
   <data name="App_Contacts_Labels_International" xml:space="preserve">
     <value>International</value>
@@ -5918,8 +5918,8 @@ with Mailbird Pro?</comment>
   <comment>Label for contact custom address type Postal</comment>
   </data>
   <data name="App_Contacts_Labels_Preferred" xml:space="preserve">
-    <value>Preferred</value>
-    <comment>Label for contact custom address type Preferred</comment>
+    <value>Предпочтительно</value>
+  <comment>Label for contact custom address type Preferred</comment>
   </data>
   <data name="MailEditor_RemoveSuggestion" xml:space="preserve">
     <value>Удалить предложение</value>
@@ -6222,7 +6222,7 @@ with Mailbird Pro?</comment>
   <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>Это удостоверение отключено из-за включения ведения журнала сервера.</value>
+    <value>Этот идентификатор отключен из-за включения ведения журнала сервера.</value>
   <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
