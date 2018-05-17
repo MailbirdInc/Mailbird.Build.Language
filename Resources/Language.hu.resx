@@ -2957,7 +2957,7 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Add</comment>
   </data>
   <data name="App_Contacts_Delete" xml:space="preserve">
-    <value>Névjegy törlése</value>
+    <value>Törlés</value>
   <comment>Delete</comment>
   </data>
   <data name="Dialog_DeleteContact_Singular" xml:space="preserve">
@@ -5025,24 +5025,24 @@ Read more:
 https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
   </data>
   <data name="Dialog_SubjectChanged" xml:space="preserve">
-    <value>Te témát váltottál.
+    <value>A tárgy megváltoztatásra került.
 
-Szeretnéd ez egy csoportos üzenetben elküldeni?</value>
-    <comment>You changed the subject.
+Ezek az üzenetek új beszélgetésben legyenek csoportosítva?</value>
+  <comment>You changed the subject.
 
 Would you like to group this message into a new conversation?</comment>
   </data>
   <data name="Dialog_SubjectChanged_Title" xml:space="preserve">
-    <value>Létrehoz egy új beszélgetést?</value>
-    <comment>Create a new conversation?</comment>
+    <value>Új beszélgetés legyen létrehozva?</value>
+  <comment>Create a new conversation?</comment>
   </data>
   <data name="InviteV2_ShareSocial" xml:space="preserve">
-    <value>Össza meg a minél több meghívóért</value>
-    <comment>Share on social and get more invites</comment>
+    <value>Közösségi megosztás és további meghívások</value>
+  <comment>Share on social and get more invites</comment>
   </data>
   <data name="ShareReferralLink_Link" xml:space="preserve">
-    <value>link</value>
-    <comment>link</comment>
+    <value>hivatkozás</value>
+  <comment>link</comment>
   </data>
   <data name="ShareReferralLink_Share" xml:space="preserve">
     <value>Megosztás</value>
@@ -5053,76 +5053,76 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Share Mailbird directly on Facebook or Twitter</comment>
   </data>
   <data name="ShareReferralLink_Tweet" xml:space="preserve">
-    <value>Tweet-el</value>
-    <comment>Tweet</comment>
+    <value>Tweet bejegyzés</value>
+  <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>1 hónapig a @mailbird Pro ingyen, letöltés itt: {0}</value>
-    <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
+    <value>1 hónapos @mailbird Pro verzió használat ingyen, letöltés itt: {0}</value>
+  <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
     <value>Kupon hozzáadása</value>
     <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Kupon kód...</value>
-    <comment>Coupon code...</comment>
+    <value>Kuponkód megadása...</value>
+  <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Adja meg a kupon kódját vagy hagyja ki ezt a lépést.</value>
-    <comment>Enter the coupon code below or skip this step.</comment>
+    <value>Meg kell adni a kuponkódot vagy kihagyni ezt a lépést.</value>
+  <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Van egy kapott kuponkódja?</value>
-    <comment>Have a referral coupon code?</comment>
+    <value>Van egy kapott kuponkód?</value>
+  <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>Már használta ezt a kuponkódot.</value>
-    <comment>You've already used this coupon code.</comment>
+    <value>Ez a kuponkód már használatban volt.</value>
+  <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>A kuponkód nem valós.</value>
-    <comment>Coupon is not valid.</comment>
+    <value>A kuponkód nem érvényes.</value>
+  <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Kupon kód csak a kezdő felhasználóknak használható.</value>
-    <comment>Coupon code can only be used by new users.</comment>
+    <value>A kuponkódot csak új felhasználók vehetik igénybe.</value>
+  <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
-    <value>Nem tudja használni a saját kódját.</value>
-    <comment>You can't use your own code.</comment>
+    <value>Nem használható a saját kód.</value>
+  <comment>You can't use your own code.</comment>
   </data>
   <data name="Welcome_Coupon_SameComputer" xml:space="preserve">
-    <value>Nem tudja használni ezt a kódot mert már használták.</value>
-    <comment>You can't use this code because it was generated from the same PC.</comment>
+    <value>Ez a kód nem használható, mert már korábban igénybe vették.</value>
+  <comment>You can't use this code because it was generated from the same PC.</comment>
   </data>
   <data name="Welcome_Subscribe" xml:space="preserve">
-    <value>Értesítés a fantasztikus frissítésekről</value>
-    <comment>Keep me updated</comment>
+    <value>Értesítés új frissítésekről</value>
+  <comment>Keep me updated</comment>
   </data>
 <data name="DripSurvey_ChooseAnswer" xml:space="preserve">
-    <value>Válasszon választ</value>
-    <comment>Choose your answer
+    <value>Válasz kiválasztása</value>
+  <comment>Choose your answer
 NB: Watermark text when user hasn't choosen answer ye</comment>
   </data>
   <data name="DripSurvey_Header" xml:space="preserve">
-    <value>Segítsen javítani a</value>
-    <comment>Help us improve
+    <value>Segítség a továbbfejlesztéshez</value>
+  <comment>Help us improve
 NB: Header for survey dialog within app</comment>
   </data>
   <data name="DripSurvey_LearnMore" xml:space="preserve">
-    <value>Miért jelenik meg ez?</value>
-    <comment>Why am I seeing this?
+    <value>Miért jelenik ez meg?</value>
+  <comment>Why am I seeing this?
 NB: Text for button that will take user to browser containing more explanation</comment>
   </data>
   <data name="DripSurvey_Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>Skip
+    <value>Küldés</value>
+  <comment>Skip
 NB: Text for button to send the survey</comment>
   </data>
   <data name="DripSurvey_Skip" xml:space="preserve">
-    <value>Ugrás</value>
-    <comment>Skip
+    <value>Kihagyás</value>
+  <comment>Skip
 NB: Text for button to skip the survey</comment>
   </data>
 <data name="App_Contacts_FieldType_Home" xml:space="preserve">
@@ -5332,52 +5332,52 @@ Kapcsolat hozzáadásához kattintás a "Kapcsolat hozzáadása" gombon.</value>
     <comment>add date</comment>
   </data>
   <data name="App_Contacts_FieldAddInstantMessenger" xml:space="preserve">
-    <value>üzenetküldő hozzáadása</value>
-    <comment>add instant messenger</comment>
+    <value>azonnali üzenetküldő hozzáadása</value>
+  <comment>add instant messenger</comment>
   </data>
   <data name="App_Contacts_FieldAddJobTitle" xml:space="preserve">
-    <value>beosztás hozzáadása</value>
-    <comment>add job title</comment>
+    <value>munkakör hozzáadása</value>
+  <comment>add job title</comment>
   </data>
   <data name="App_Contacts_FieldAddNotes" xml:space="preserve">
-    <value>jegyzet hozzáadása</value>
-    <comment>add notes</comment>
+    <value>jegyzetek hozzáadása</value>
+  <comment>add notes</comment>
   </data>
   <data name="App_Contacts_FieldAddRelation" xml:space="preserve">
-    <value>rokon hozzáadása</value>
-    <comment>add relation</comment>
+    <value>rokonság hozzáadása</value>
+  <comment>add relation</comment>
   </data>
   <data name="App_Contacts_FieldAddWebsite" xml:space="preserve">
-    <value>weboldal hozzáadása</value>
-    <comment>add website</comment>
+    <value>webhely hozzáadása</value>
+  <comment>add website</comment>
   </data>
   <data name="App_Contacts_SingularFieldExplanation" xml:space="preserve">
-    <value>Ez jelenik meg, ha megtekinti a névjegyet</value>
-    <comment>This will be displayed when viewing the contact</comment>
+    <value>Ez jelenik meg a kapcsolat megjelenítésekor</value>
+  <comment>This will be displayed when viewing the contact</comment>
   </data>
   <data name="App_Contacts_FieldCity" xml:space="preserve">
-    <value>Város</value>
-    <comment>City</comment>
+    <value>Település</value>
+  <comment>City</comment>
   </data>
   <data name="App_Contacts_FieldCountry" xml:space="preserve">
     <value>Ország</value>
     <comment>Country</comment>
   </data>
   <data name="App_Contacts_FieldRegion" xml:space="preserve">
-    <value>Region</value>
-    <comment>Region</comment>
+    <value>Régió</value>
+  <comment>Region</comment>
   </data>
   <data name="App_Contacts_FieldStreet" xml:space="preserve">
-    <value>Utca</value>
-    <comment>Street</comment>
+    <value>Közterület (utca)</value>
+  <comment>Street</comment>
   </data>
   <data name="App_Contacts_FieldZipCode" xml:space="preserve">
-    <value>ZIP code</value>
-    <comment>ZIP code</comment>
+    <value>Irányítószám</value>
+  <comment>ZIP code</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_SubHeader" xml:space="preserve">
-    <value>Válassz fiókot a csatlakozáshoz, és szinkronizáld a névjegyeket a Mailbirdben, vagy kattints a gombra hogy csatlakozz egy másik fiókhoz.</value>
-    <comment>Explanation in accounts window</comment>
+    <value>A fiók kiválasztása a kapcsolódáshoz és a kapcsolatok szinkronizálása a Mailbird alkalmazással vagy kattintás a gombra másik fiókhoz kapcsolódáshoz.</value>
+  <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_Title" xml:space="preserve">
     <value>Fiókok</value>
@@ -5388,32 +5388,32 @@ Kapcsolat hozzáadásához kattintás a "Kapcsolat hozzáadása" gombon.</value>
     <comment>Accounts</comment>
   </data>
   <data name="App_Contacts_MenuDisplayFirstLast" xml:space="preserve">
-    <value>Kijelzése az elsőnek, utolsónak</value>
-    <comment>Display by First, Last</comment>
+    <value>Megjelenítés személynév, családnév szerint</value>
+  <comment>Display by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuDisplayLastFirst" xml:space="preserve">
-    <value>Kijelzése az utolsónak, elsőnek</value>
-    <comment>Display by Last, First</comment>
+    <value>Megjelenítés családnév, személynév szerint</value>
+  <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
-    <value>Névjegyek exportálása vCard-ba</value>
+    <value>Kapcsolatok exportálása vCard elemekbe</value>
   <comment>Export group contacts to vCards</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
-    <value>+ Csatlakozás másik fiókkal</value>
-    <comment>+ Connect other account</comment>
+    <value>+ Kapcsolódás másik fiókkal</value>
+  <comment>+ Connect other account</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
-    <value>Sajnáljuk, de az e-mail fiók nem támogatja a névjegyek szinkronizálását.</value>
-    <comment>Sorry, but this email account doesn't have support for contacts sync.</comment>
+    <value>Ez az email fiók nem támogatja a kapcsolatok szinkronizálását.</value>
+  <comment>Sorry, but this email account doesn't have support for contacts sync.</comment>
   </data>
   <data name="App_Contacts_EditAccount_SubHeader" xml:space="preserve">
-    <value>Válasszon egyet az alábbi ikonokból, ennek a fióknak az azonosítására.</value>
-    <comment>Choose one of the following icons to identify this account.</comment>
+    <value>Ikon választása a fiók azonosítására.</value>
+  <comment>Choose one of the following icons to identify this account.</comment>
   </data>
   <data name="App_Contacts_EditAccount_Title" xml:space="preserve">
-    <value>Fiók szerkesztés</value>
-    <comment>Edit account</comment>
+    <value>Fiók szerkesztése</value>
+  <comment>Edit account</comment>
   </data>
   <data name="App_Contacts_OtherGoogleAccount" xml:space="preserve">
     <value>Másik Google fiók...</value>
@@ -5436,24 +5436,24 @@ Kapcsolat hozzáadásához kattintás a "Kapcsolat hozzáadása" gombon.</value>
     <comment>Groups...</comment>
   </data>
   <data name="App_Contacts_ContextMenuExport" xml:space="preserve">
-    <value>Exportálás vCard-ba</value>
+    <value>Exportálás vCard elembe</value>
   <comment>Export vCard</comment>
   </data>
   <data name="App_Contacts_ContextMenuInvite" xml:space="preserve">
-    <value>Meghívni Mailbird-be</value>
-    <comment>Invite to Mailbird</comment>
+    <value>Meghívás a Mailbird alkalmazásba</value>
+  <comment>Invite to Mailbird</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkContacts" xml:space="preserve">
-    <value>Link contacts</value>
-    <comment>Link contacts</comment>
+    <value>Kapcsolatok hozzárendelése</value>
+  <comment>Link contacts</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkedin" xml:space="preserve">
-    <value>Keresse meg a LinkedIn-en</value>
-    <comment>Look up on LinkedIn</comment>
+    <value>Keresés a LinkedIn szolgáltatásban</value>
+  <comment>Look up on LinkedIn</comment>
   </data>
   <data name="App_Contacts_ContextMenuNewEmail" xml:space="preserve">
-    <value>E-mail írása</value>
-    <comment>Compose email</comment>
+    <value>Email írása</value>
+  <comment>Compose email</comment>
   </data>
   <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
     <value>Megjelölés nem csillagozottként</value>
@@ -5464,92 +5464,92 @@ Kapcsolat hozzáadásához kattintás a "Kapcsolat hozzáadása" gombon.</value>
     <comment>Mark as starred</comment>
   </data>
   <data name="App_Contacts_AddContact_Create" xml:space="preserve">
-    <value>Létrehoz</value>
-    <comment>Create</comment>
+    <value>Létrehozás</value>
+  <comment>Create</comment>
   </data>
   <data name="App_Contacts_AddContact_NewContact" xml:space="preserve">
-    <value>Új névjegy</value>
-    <comment>New contact</comment>
+    <value>Új kapcsolat</value>
+  <comment>New contact</comment>
   </data>
   <data name="App_Contacts_NoContactsFound" xml:space="preserve">
-    <value>Nincsenek névjegyek.</value>
-    <comment>No contacts found.</comment>
+    <value>Nincsenek kapcsolatok.</value>
+  <comment>No contacts found.</comment>
   </data>
   <data name="App_Contacts_NoGroupsFound" xml:space="preserve">
-    <value>Csoport nem található.</value>
-    <comment>No groups found.</comment>
+    <value>Nincsenek csoportok.</value>
+  <comment>No groups found.</comment>
   </data>
   <data name="App_Contacts_Intro_1" xml:space="preserve">
-    <value>A névjegyek együtt egy helyen.</value>
-    <comment>All your contacts together in one place.</comment>
+    <value>Minden kapcsolat egy helyen van.</value>
+  <comment>All your contacts together in one place.</comment>
   </data>
   <data name="App_Contacts_Intro_2" xml:space="preserve">
-    <value>Most már a Google névjegyeket is tud szinkronizálni a Mailbird-el, és lesz még több is.</value>
-    <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
+    <value>Most már szinkronizálhatók a Google kapcsolatok a Mailbird alkalmazással, de még további szolgáltatók is jönnek.</value>
+  <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
-    <value>Névjegyeket tudsz összekapcsolni hogy egy helyen legyen minden, ez csak egy kattanás.</value>
-    <comment>You can link contacts together to show their details in one place with just a click.</comment>
+    <value>Kapcsolatokat lehet egymáshoz rendelni, így az adatok egy helyre kerülnek egy kattintással.</value>
+  <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
-    <value>Összekapcsolva a Google fiókjával, most már szinkronizálhatja őket a Mailbird-el.</value>
-    <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
+    <value>Kapcsolódás a Google fiókokkal most a Mailbird alkalmazással történő szinkronizáláshoz.</value>
+  <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
   </data>
   <data name="App_Contacts_Intro_Welcome" xml:space="preserve">
-    <value>Ismerje meg a névjegyeket</value>
-    <comment>Meet the Contacts</comment>
+    <value>Kapcsolatok megtekintése</value>
+  <comment>Meet the Contacts</comment>
   </data>
   <data name="App_Contacts_FieldPhoto" xml:space="preserve">
-    <value>Fotó</value>
-    <comment>Photo</comment>
+    <value>Kép</value>
+  <comment>Photo</comment>
   </data>
   <data name="App_Contacts_SearchGroup" xml:space="preserve">
     <value>Csoport keresése</value>
     <comment>Search group</comment>
   </data>
   <data name="App_Contacts_LinkContactExplanation" xml:space="preserve">
-    <value>Összekötni a névjegyeket más fiókokból, hogy megmutassa nekik, mint egy Mailbird</value>
-    <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
+    <value>Más fiókok kapcsolatainak hozzárendelése a Mailbird alkalmazásban történő megjelenítésre</value>
+  <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
   </data>
   <data name="App_Contacts_NoLinkedContacts" xml:space="preserve">
-    <value>(Nincsenek összekapcsolt névjegyek)</value>
-    <comment>(No linked contacts)</comment>
+    <value>(Nincsenek hozzárendelt kapcsolatok)</value>
+  <comment>(No linked contacts)</comment>
   </data>
   <data name="App_Contacts_Intro_ConnectAccounts" xml:space="preserve">
-    <value>Fiók csatlakoztatása</value>
-    <comment>Connect accounts</comment>
+    <value>Fiókok kapcsolódása</value>
+  <comment>Connect accounts</comment>
   </data>
   <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
-    <value>Merge contacts</value>
-    <comment>Merge contacts</comment>
+    <value>Kapcsolatok egyesítése</value>
+  <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
-    <value>Merge contact</value>
-    <comment>Merge contact</comment>
+    <value>Névjegy egyesítése</value>
+  <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
-    <value>Hozzon látre vagy adjon hozzá egy névjegyet</value>
-    <comment>Add contact</comment>
+    <value>Kapcsolat létrehozása vagy hozzáadása</value>
+  <comment>Add contact</comment>
   </data>
   <data name="App_Contacts_CollapseGroups" xml:space="preserve">
-    <value>Összeomlás-csoportok panel</value>
-    <comment>Collapse groups panel</comment>
+    <value>Csoportok panel összezárása</value>
+  <comment>Collapse groups panel</comment>
   </data>
   <data name="App_Contacts_ExpandGroups" xml:space="preserve">
-    <value>Bontsa ki a csoportok panelt</value>
-    <comment>Expand groups panel</comment>
+    <value>Csoportok panel kinyitása</value>
+  <comment>Expand groups panel</comment>
   </data>
   <data name="App_Contacts_Settings" xml:space="preserve">
     <value>Beállítások</value>
     <comment>Settings</comment>
   </data>
   <data name="App_Contacts_ValidationEmpty" xml:space="preserve">
-    <value>Mező nem lehet üres</value>
-    <comment>Field cannot be empty</comment>
+    <value>A mező nem lehet üres</value>
+  <comment>Field cannot be empty</comment>
   </data>
   <data name="App_Contacts_LinkContact_NoAccounts" xml:space="preserve">
-    <value>Még nem kapcsolódik semmilyen fiókhoz.</value>
-    <comment>You haven't connected any accounts.</comment>
+    <value>Még nincs kapcsolódás egy fiókhoz sem.</value>
+  <comment>You haven't connected any accounts.</comment>
   </data>
   <data name="App_Contacts_RemoveGroup" xml:space="preserve">
     <value>Csoport eltávolítása</value>
@@ -5557,16 +5557,16 @@ Kapcsolat hozzáadásához kattintás a "Kapcsolat hozzáadása" gombon.</value>
 NB: tooltip for remove group button</comment>
   </data>
   <data name="App_Contacts_ContextMenuDelete" xml:space="preserve">
-    <value>Névjegy törlése</value>
+    <value>Törlés</value>
   <comment>Delete</comment>
   </data>
   <data name="App_Contacts_RemoveField" xml:space="preserve">
-    <value>Eltávolít</value>
-    <comment>Tooltip when removing contact field in contact manager</comment>
+    <value>Eltávolítás</value>
+  <comment>Tooltip when removing contact field in contact manager</comment>
   </data>
   <data name="App_Contacts_ShowAllFields" xml:space="preserve">
-    <value>Minden mező megjelenítése</value>
-    <comment>Show all fields
+    <value>Az összes mező megjelenítése</value>
+  <comment>Show all fields
 NB: button to show extra fields when editing contact, since not all fields are shown since beginning</comment>
   </data>
   <data name="App_Contacts_ShowFewerFields" xml:space="preserve">
@@ -5579,8 +5579,8 @@ NB: button to hide extra fields when editing contact</comment>
     <comment>Add to a group</comment>
   </data>
   <data name="App_Contacts_AddContact_InAccount" xml:space="preserve">
-    <value>In "{0}"</value>
-    <comment>In "{0}"
+    <value>"{0}" fiókban</value>
+  <comment>In "{0}"
 NB: This will be used to tell user in which account the new contact will be saved. {0} will be replaced with an account name, e.g. [In "email@email.com"]</comment>
   </data>
   <data name="App_Contacts_MenuGroupView" xml:space="preserve">
@@ -5594,68 +5594,68 @@ NB: menu to show/hide group panel</comment>
 NB: Menu in context menu to do copy action</comment>
   </data>
   <data name="App_Contacts_OpenInBrowser" xml:space="preserve">
-    <value>Open in browser</value>
-    <comment>Menu in context menu to open current url in browser</comment>
+    <value>Megnyitás böngészőben</value>
+  <comment>Menu in context menu to open current url in browser</comment>
   </data>
   <data name="App_Contacts_SearchInGoogleMaps" xml:space="preserve">
-    <value>Megnyitás Google térképen</value>
-    <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
+    <value>Megnyitás Google Maps alkalmazásban</value>
+  <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
   </data>
   <data name="App_Contacts_FieldNamePrefix" xml:space="preserve">
-    <value>Cím</value>
-    <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
+    <value>Megszólítás</value>
+  <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
   </data>
   <data name="App_Contacts_FieldNameSuffix" xml:space="preserve">
     <value>Utótag</value>
     <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
   </data>
   <data name="SpeedRead_Speed" xml:space="preserve">
-    <value>{0} WPM</value>
-    <comment>{0} will be replaced with the speed, WPM stands for words per minute</comment>
+    <value>{0} szó/perc</value>
+  <comment>{0} will be replaced with the speed, WPM stands for words per minute</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_LocalExplanation" xml:space="preserve">
-    <value>A Mailbird a helyi számítógép névjegyeket használja.
+    <value>A Mailbird a helyi számítógép kapcsolatait használja.
 
 Ez nem lehet eltávolítani.</value>
   <comment>Explanation for the default local account in contact manager</comment>
   </data>
   <data name="App_Contacts_ContextMenuGoogleAccount" xml:space="preserve">
-    <value>Google account</value>
-    <comment>Menu to add Google account</comment>
+    <value>Google fiók</value>
+  <comment>Menu to add Google account</comment>
   </data>
   <data name="App_Contacts_ContextMenuOutlookAccount" xml:space="preserve">
-    <value>Outlook-fiók</value>
-    <comment>Menu to add Outlook account</comment>
+    <value>Outlook fiók</value>
+  <comment>Menu to add Outlook account</comment>
   </data>
   <data name="Dialog_DisconnectAccount" xml:space="preserve">
-    <value>Lekapcsolja a fiókot?</value>
-    <comment>Title for dialog window when user tries to disconnect account from Contacts Manager</comment>
+    <value>A fiók lecsatlakoztatása?</value>
+  <comment>Title for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="Dialog_DisconnectAccountExplanation" xml:space="preserve">
-    <value>Biztosan kikapcsolja ezt a fiókot?
+    <value>Biztosan lecsatlakoztatásra kerüljön fiók?
 
-Ez letiltja a névjegyek szinkronizálását, és eltávolítja a fiókban található csoportokat és névjegyeket Mailbird-ben.</value>
-    <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
+Ez letiltja a kapcsolatok szinkronizálását és eltávolítja a Mailbird alkalmazásból a fiókhoz tartozó csoportokat és kapcsolatokat.</value>
+  <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="App_Contacts_FieldAdd" xml:space="preserve">
-    <value>hozzáad {0}</value>
-    <comment>{0} will be replaced with field's name, e.g. "add title"</comment>
+    <value>{0} hozzáadása</value>
+  <comment>{0} will be replaced with field's name, e.g. "add title"</comment>
   </data>
   <data name="App_Contacts_FieldAddMiddleName" xml:space="preserve">
-    <value>középső neve</value>
-    <comment>Button to show middle name when editing contact</comment>
+    <value>középső név</value>
+  <comment>Button to show middle name when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddSuffix" xml:space="preserve">
     <value>utótag</value>
     <comment>Button to show suffix of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddTitle" xml:space="preserve">
-    <value>cím</value>
-    <comment>Button to show title of person when editing contact</comment>
+    <value>megszólítás</value>
+  <comment>Button to show title of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldOr" xml:space="preserve">
-    <value>{0} or {1}</value>
-    <comment>{0} and {1} will be replaced with field's name, e.g. "title or nickname"</comment>
+    <value>{0} vagy {1}</value>
+  <comment>{0} and {1} will be replaced with field's name, e.g. "title or nickname"</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Coworkers" xml:space="preserve">
     <value>Munkatársak</value>
@@ -5666,110 +5666,110 @@ Ez letiltja a névjegyek szinkronizálását, és eltávolítja a fiókban talá
     <comment>Name of the family system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Friends" xml:space="preserve">
-    <value>Barátok</value>
-    <comment>Name of the friends system group in the Contacts app</comment>
+    <value>Ismerősök</value>
+  <comment>Name of the friends system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Contacts" xml:space="preserve">
-    <value>Contacts</value>
-    <comment>Name of the contacts system group in the Contacts app</comment>
+    <value>Kapcsolatok</value>
+  <comment>Name of the contacts system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Starred" xml:space="preserve">
     <value>Csillagozott</value>
     <comment>Name of the system group with starred contacts in the Contacts app</comment>
   </data>
   <data name="App_Contacts_ValidationDuplicatedGroup" xml:space="preserve">
-    <value>A név már létezik, vagy egy védett rendszer neve</value>
-    <comment>Error message when trying to add group with the same name</comment>
+    <value>A név már létezik vagy egy védett rendszernév</value>
+  <comment>Error message when trying to add group with the same name</comment>
   </data>
   <data name="App_Contacts_FieldType_HomePage" xml:space="preserve">
-    <value>Home Page</value>
-    <comment>Contact website field type</comment>
+    <value>Webhely</value>
+  <comment>Contact website field type</comment>
   </data>
   <data name="App_Contacts_DisconnectingAccount" xml:space="preserve">
-    <value>Fiók leválasztva...</value>
-    <comment>Progress message when disconnecting an account in the Contacts app</comment>
+    <value>A fiók lecsatlakoztatása folyamatban van...</value>
+  <comment>Progress message when disconnecting an account in the Contacts app</comment>
   </data>
   <data name="App_Contacts_Refresh" xml:space="preserve">
     <value>Frissítés</value>
     <comment>Menu to force contact manager to sync to server</comment>
   </data>
   <data name="App_Contacts_Labels_PersonalNotes" xml:space="preserve">
-    <value>Personal Notes</value>
-    <comment>Label of the custom field displayed in the Contacts apps</comment>
+    <value>Személyes jegyzetek</value>
+  <comment>Label of the custom field displayed in the Contacts apps</comment>
   </data>
   <data name="App_Contacts_MenuEmailGroup" xml:space="preserve">
-    <value>E-mail csoport</value>
-    <comment>Menu to send email to selected group</comment>
+    <value>Email küldés a csoportnak</value>
+  <comment>Menu to send email to selected group</comment>
   </data>
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
-    <value>Fiók csatlakoztatása...</value>
-    <comment>Progress message when connecting an account in the Contacts app</comment>
+    <value>A fiókhoz kapcsolódás folyamatban van...</value>
+  <comment>Progress message when connecting an account in the Contacts app</comment>
   </data>
 <data name="App_Contacts_MenuSortFirstLast" xml:space="preserve">
-    <value>Első, utolsó rendezés</value>
-    <comment>Sort by First, Last</comment>
+    <value>Rendezés személynév, családnév szerint</value>
+  <comment>Sort by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuSortLastFirst" xml:space="preserve">
-    <value>Rendezés Utolsó, Első</value>
-    <comment>Sort by Last, First</comment>
+    <value>Rendezés családnév, vezetéknév szerint</value>
+  <comment>Sort by Last, First</comment>
   </data>
   <data name="Dialog_Activate" xml:space="preserve">
     <value>Aktiválás</value>
     <comment>Activate</comment>
   </data>
   <data name="Trial_DowngradeToLite" xml:space="preserve">
-    <value>Visszaminősít, hogy Mailbird LITE legyen</value>
-    <comment>Downgrade me to Mailbird LITE</comment>
+    <value>Visszaállás Mailbird LITE verzióra</value>
+  <comment>Downgrade me to Mailbird LITE</comment>
   </data>
   <data name="Trial_DowngradeToLite2" xml:space="preserve">
-    <value>Ne minősítse vissza Mailbird Lite-ra</value>
-    <comment>No, downgrade me to Mailbird Lite</comment>
+    <value>Nem, visszaállás a Mailbird Lite verzióra</value>
+  <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>Ha továbbra is a legtöbbet szeretne kihozni a Mailbird-ből, szundi, korlátlan fiókok, és még sok más, ahhoz meg kell vásárolnia Mailbird Pro-t.</value>
-    <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
+    <value>Ha továbbra is a legtöbbet szeretnénk kihozni a Mailbird alkalmazásból emailek halasztásával, korlátlan fiókokkal és sok egyébbel, akkor meg kell vásárolni a Mailbird Pro verziót.</value>
+  <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
-    <value>A te Mailbird Pro verziód lejárt.</value>
-    <comment>Your Mailbird Pro Trial has ended.</comment>
+    <value>A Mailbird Pro próbahasználat lejárt.</value>
+  <comment>Your Mailbird Pro Trial has ended.</comment>
   </data>
   <data name="Trial_EndTitle" xml:space="preserve">
-    <value>Tetszett, hogy szárnyalhattál
-a Mailbird Pro-val?</value>
-    <comment>Did you enjoy flying 
+    <value>Tetszett a szárnyalás 
+a Mailbird Pro verzióval?</value>
+  <comment>Did you enjoy flying 
 with Mailbird Pro?</comment>
   </data>
   <data name="Trial_ForgotLicense" xml:space="preserve">
-    <value>Elfelejtettem a jelszavam</value>
-    <comment>I don't remember my license key</comment>
+    <value>Elfelejtett licenszkulcs</value>
+  <comment>I don't remember my license key</comment>
   </data>
   <data name="Trial_SendInviteButton" xml:space="preserve">
-    <value>Igen, csináljuk!</value>
-    <comment>Yes, Let's do it!</comment>
+    <value>Igen, mehet!</value>
+  <comment>Yes, Let's do it!</comment>
   </data>
   <data name="Trial_SendInviteConfirmationDescription" xml:space="preserve">
-    <value>Akkor küldjön meghívókat az összes névjegyre, hogy van egy @ gmail.com @ yahoo.com e-mail címét és néhány fontosabb e-mailek számára.</value>
-    <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
+    <value>A meghívásokat az összes kapcsolatnak el lehet küldeni, amik @gmail.com, @yahoo.com email címmel és más fő email szolgáltatóknál rendelkeznek email címmel.</value>
+  <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
   </data>
   <data name="Trial_SendInviteDescription" xml:space="preserve">
-    <value>Ha 5 barát telepíti a Maildbird-öt a meghívó után, akkor meghosszabodik a próba verziód 7 napig.</value>
-    <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
+    <value>Ha 5 ismerős telepíti a Maildbird alkalmazást a meghívás alapján, akkor 7 nappal meghosszabbodik a próbahasználat ideje.</value>
+  <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
   </data>
   <data name="Trial_SendInviteTitle" xml:space="preserve">
-    <value>Szeretnéd meghívni a barátaidat, hogy nyerj egy Mailbird Pro-t örökre [bold] ingyen? [/bold]</value>
-    <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
+    <value>Ismerősök meghívása a Mailbird Pro verzió örökös használatának elnyerésére [bold]ingyen?[/bold]</value>
+  <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
   </data>
   <data name="App_Contacts_CreateContact" xml:space="preserve">
-    <value>Névjegy létrehozása</value>
-    <comment>Tooltip for button to create contact</comment>
+    <value>Kapcsolat létrehozása</value>
+  <comment>Tooltip for button to create contact</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Custom" xml:space="preserve">
-    <value>Testreszabás</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Egyedi</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Date" xml:space="preserve">
-    <value>Date</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Dátum</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Email" xml:space="preserve">
     <value>Email</value>
@@ -5784,28 +5784,28 @@ with Mailbird Pro?</comment>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_PostalAddress" xml:space="preserve">
-    <value>Address</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Postai cím</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Relation" xml:space="preserve">
-    <value>Relation</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Rokonság</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Website" xml:space="preserve">
-    <value>Website</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Webhely</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
 <data name="App_Contacts_Groups_CreateFromSearch" xml:space="preserve">
-    <value>"{0}" (csoport létrehozva)</value>
-    <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
+    <value>"{0}" (csoport létrehozása)</value>
+  <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
     <value>Frissítés és szinkronizálás</value>
     <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
-    <value>Up to date</value>
-    <comment>Up to date</comment>
+    <value>Naprakész</value>
+  <comment>Up to date</comment>
   </data>
   <data name="App_Contacts_CropPicture_Done" xml:space="preserve">
     <value>Kész</value>
@@ -5815,32 +5815,32 @@ with Mailbird Pro?</comment>
     <value/>
   </data>
   <data name="App_Contacts_RotateCCW" xml:space="preserve">
-    <value>Forgatás 90°-ban óramutató járásával ellentétes irányban</value>
-    <comment>Tooltip for rotate image button</comment>
+    <value>Forgatás 90°-ban az óramutató járásával ellentétes irányban</value>
+  <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_RotateCW" xml:space="preserve">
-    <value>Forgatás 90°-kal jobbra</value>
-    <comment>Tooltip for rotate image button</comment>
+    <value>Forgatás 90°-ban az óramutató járásával egyező irányban</value>
+  <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_Merge" xml:space="preserve">
-    <value>Merge</value>
-    <comment>Button that when clicked will merge the selected contact with the current contact.</comment>
+    <value>Egyesítés</value>
+  <comment>Button that when clicked will merge the selected contact with the current contact.</comment>
   </data>
   <data name="App_Contacts_ImageNotSupported" xml:space="preserve">
-    <value>Hiba a kép betöltésekor</value>
-    <comment>Title of message box when opening unsupported file</comment>
+    <value>Hiba történt a kép betöltésekor</value>
+  <comment>Title of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_ImageNotSupportedExplanation" xml:space="preserve">
-    <value>A fájl formátuma nem megfelelő vagy hibás.</value>
-    <comment>Explanation of message box when opening unsupported file</comment>
+    <value>A formátum nem támogatott vagy a fájl megsérült.</value>
+  <comment>Explanation of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_Groups_CreateIn" xml:space="preserve">
-    <value>Ban [semibold]{0}[/semibold]</value>
-    <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
+    <value>[semibold]{0}[/semibold] fiókban</value>
+  <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
   </data>
   <data name="Notification_Dismiss" xml:space="preserve">
-    <value>Elutasít</value>
-    <comment>Dismiss</comment>
+    <value>Elvetés</value>
+  <comment>Dismiss</comment>
   </data>
   <data name="Notification_Syncing" xml:space="preserve">
     <value>Szinkronizálás</value>
@@ -5851,20 +5851,20 @@ with Mailbird Pro?</comment>
     <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartPlural" xml:space="preserve">
-    <value>contacts</value>
-    <comment>Part of label for a group in auto complete when group has multiple contacts. E.g. "Group (3 contacts)"</comment>
+    <value>kapcsolat</value>
+  <comment>Part of label for a group in auto complete when group has multiple contacts. E.g. "Group (3 contacts)"</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartSingular" xml:space="preserve">
-    <value>contact</value>
-    <comment>Part of label for a group in auto complete when group has 1 contact. E.g. "Group (1 contact)"</comment>
+    <value>kapcsolat</value>
+  <comment>Part of label for a group in auto complete when group has 1 contact. E.g. "Group (1 contact)"</comment>
   </data>
   <data name="App_Contacts_Labels_Department" xml:space="preserve">
-    <value>Személy</value>
-    <comment>Label for custom field Department when importing vCard</comment>
+    <value>Osztály</value>
+  <comment>Label for custom field Department when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender" xml:space="preserve">
-    <value>Neme</value>
-    <comment>Label for custom field Gender when importing vCard</comment>
+    <value>Nem</value>
+  <comment>Label for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Female" xml:space="preserve">
     <value>Nő</value>
@@ -5875,44 +5875,44 @@ with Mailbird Pro?</comment>
     <comment>Male value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Latitude" xml:space="preserve">
-    <value>Latitude</value>
-    <comment>Label for custom field Latitude when importing vCard</comment>
+    <value>Földrajzi szélesség</value>
+  <comment>Label for custom field Latitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Longitude" xml:space="preserve">
-    <value>Longitude</value>
-    <comment>Label for custom field Longitude when importing vCard</comment>
+    <value>Földrajzi hosszúság</value>
+  <comment>Label for custom field Longitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Mailer" xml:space="preserve">
-    <value>Levelező</value>
-    <comment>Label for custom field Mailer when importing vCard</comment>
+    <value>Levélküldő</value>
+  <comment>Label for custom field Mailer when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Office" xml:space="preserve">
-    <value>Office</value>
-    <comment>Label for custom field Office when importing vCard</comment>
+    <value>Hivatal</value>
+  <comment>Label for custom field Office when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_ProductId" xml:space="preserve">
-    <value>Termék Azonosító</value>
-    <comment>Label for custom field Product Id when importing vCard</comment>
+    <value>Termék Az</value>
+  <comment>Label for custom field Product Id when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_RevisionDate" xml:space="preserve">
-    <value>Felülvizsgálat napja</value>
-    <comment>Label for custom field Revision Date when importing vCard</comment>
+    <value>Felülvizsgálati nap</value>
+  <comment>Label for custom field Revision Date when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Role" xml:space="preserve">
-    <value>Role</value>
-    <comment>Label for custom field Role when importing vCard</comment>
+    <value>Szerep</value>
+  <comment>Label for custom field Role when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Domestic" xml:space="preserve">
-    <value>Hazai</value>
-    <comment>Label for contact custom address type Domestic</comment>
+    <value>Otthoni</value>
+  <comment>Label for contact custom address type Domestic</comment>
   </data>
   <data name="App_Contacts_Labels_International" xml:space="preserve">
-    <value>International</value>
-    <comment>Label for contact custom address type International</comment>
+    <value>Nemzetközi</value>
+  <comment>Label for contact custom address type International</comment>
   </data>
   <data name="App_Contacts_Labels_Parcel" xml:space="preserve">
-    <value>Csomag</value>
-    <comment>Label for contact custom address type Parcel</comment>
+    <value>Telek</value>
+  <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
     <value>Postai</value>
@@ -5927,59 +5927,59 @@ with Mailbird Pro?</comment>
     <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsHeader" xml:space="preserve">
-    <value>Felújított javaslatok</value>
-    <comment>Dialog box header</comment>
+    <value>Visszaállított javaslatok</value>
+  <comment>Dialog box header</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsMessage" xml:space="preserve">
-    <value>Minden korábban eltávolított automatikus javaslatok vissza kerültek.</value>
-    <comment>Dialog box message</comment>
+    <value>Minden korábban eltávolított automatikus javaslat visszaállításra került.</value>
+  <comment>Dialog box message</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionHeader" xml:space="preserve">
     <value>Automatikus kiegészítési javaslatok eltávolítása</value>
     <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Eltávolítása egy javaslat továbbra is a jegyzékben felsorolt üzenetíráskor - például, ha e-mail cím már nem létezik vagy érvénytelen.
+    <value>Egy javaslat eltávolítása után az a továbbiakban már nem jelenik meg a listában email íráskor - például ha az email cím már nem létezik vagy helytelen.
 
-Eltávolított javaslatokat a beállítások visszaállíthatók.</value>
-    <comment>Dialog box message</comment>
+Az eltávolított javaslatok a beállításoknál visszaállíthatók.</value>
+  <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Automatikus javaslatok visszaállítása</value>
-    <comment>Settings button to restore all auto-complete suggestions</comment>
+    <value>Automatikus kiegészítés javaslatok visszaállítása</value>
+  <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
-    <value>Visszaállítja az automatikus kiegészítés javaslatokat amit korábban eltávolított.</value>
-    <comment>Explanation for restore auto-complete suggestions button in settings</comment>
+    <value>A korábban eltávolított automatikus kiegészítés javaslatok visszaállítása.</value>
+  <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
 <data name="App_Contacts_MenuRenameGroup" xml:space="preserve">
     <value>Átnevezés</value>
     <comment>Label of menu item to rename group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
-    <value>Ismétlődések betöltése...</value>
-    <comment>Loading message when merge contacts are being calculated.</comment>
+    <value>Az ismétlődések betöltése folyamatban van...</value>
+  <comment>Loading message when merge contacts are being calculated.</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
-    <value>Próbálja ki az új és továbbfejlesztett Névjegyek alkalmazást névjegy szinkronizálással!</value>
+    <value>Próbáljuk ki az új és továbbfejlesztett Kapcsolatok alkalmazást kapcsolat szinkronizálással!</value>
   <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>Frissítettük a régi kapcsolatok alkalmazást nem csak egy teljesen új design kapott - hanem bővítettük, támogatja a teljes Googlet és az Outlookot, így tud szinkronizálni névjegyeket a meglévő névjegyekkel, és ugyanazokat az ügyfeleket használhatja Mailbirdben, vagy bárhol ahol dolgozik.
+    <value>A régi Kapcsolatok alkalmazás frissítésre került egy új márkás megjelenéssel - a fejlesztők teljes Google és Outlook támogatással egészítették ki, így lehetőség nyílt a kapcsolatok szinkronizálására a létező fiókokkal és ugyanazokat a kapcsolatokat érhetjük el a Mailbird alkalmazásban vagy máshol.
 
-Új az is, hogy az "összekötő", lehetővé teszi, hogy összekapcsolja az azonos névjegyeket más postafiókba - és ha módosítja azokat akkor minden fiókban automatikusan megváltoznak.
+Újdonság a "hozzárendelés", amely lehetővé teszi a különböző fiókokban levő kapcsolatok egymáshoz rendelését - így a változtatások után a változások az összes fióknál megjelennek.
 
-Arról nem is beszélve, hogy mennyire egyszerű áthelyezni vagy másolni a névjegyeket a postafiókok között?
+A kapcsolatok könnyen másolhatók vagy áthelyezhetők a fiókok között.
 
-Próbálja ki most az új kapcsolatok alkalmazást!</value>
+Próbáljuk ki most az új Kapcsolatok alkalmazást!</value>
   <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
-    <value>Open Contacts</value>
-    <comment>Button label to open Contacts app</comment>
+    <value>Kapcsolatok megnyitása</value>
+  <comment>Button label to open Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuDeleteGroup" xml:space="preserve">
-    <value>Névjegy törlése</value>
+    <value>Törlés</value>
   <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
@@ -5987,32 +5987,32 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
     <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 <data name="Menu_Help" xml:space="preserve">
-    <value>Help</value>
-    <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
+    <value>Súgó</value>
+  <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
-    <value>Megosztás e-mailben</value>
-    <comment>Tooltip to share via email</comment>
+    <value>Megosztás emailen</value>
+  <comment>Tooltip to share via email</comment>
   </data>
   <data name="RateRecommend_Facebook" xml:space="preserve">
     <value>Megosztás Facebookon</value>
     <comment>Tooltip to share via Facebook</comment>
   </data>
   <data name="RateRecommend_HeaderFeedback" xml:space="preserve">
-    <value>Kérjük, tudassa velünk, hogyan javíthatunk a Mailbird-ön:</value>
-    <comment>Header in rate and recommend control when asking for feedback</comment>
+    <value>Jelezhetjük a fejlesztőknek a Mailbird alkalmazásra fejlesztési javaslatokat:</value>
+  <comment>Header in rate and recommend control when asking for feedback</comment>
   </data>
   <data name="RateRecommend_HeaderRating" xml:space="preserve">
-    <value>Mennyire valószínű Ön Mailbird levelezőt ajánlaná egy barátjának?</value>
-    <comment>Header in rate and recommend control when asking for rating</comment>
+    <value>Mennyire ajánlható a Mailbird alkalmazás az ismerősöknek?</value>
+  <comment>Header in rate and recommend control when asking for rating</comment>
   </data>
   <data name="RateRecommend_HeaderShare" xml:space="preserve">
-    <value>Nagyszerű! Megosztanál egy rövid bejegyzést, a barátaidal? Ez tényleg segít.</value>
-    <comment>Header in rate and recommend control when asking for sharing</comment>
+    <value>Nagyszerű! Megosztanánk egy rövid bejegyzést az ismerősökkel? Ez tényleg segít.</value>
+  <comment>Header in rate and recommend control when asking for sharing</comment>
   </data>
   <data name="RateRecommend_Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>Button to send feedback</comment>
+    <value>Küldés</value>
+  <comment>Button to send feedback</comment>
   </data>
   <data name="RateRecommend_Twitter" xml:space="preserve">
     <value>Megosztás Twitteren</value>
@@ -6043,8 +6043,8 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Custom" xml:space="preserve">
-    <value>Egyéni</value>
-    <comment>Name for type of backround</comment>
+    <value>Egyedi</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Diamonds" xml:space="preserve">
     <value>Gyémántok</value>
@@ -6063,12 +6063,12 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_None" xml:space="preserve">
-    <value>None</value>
-    <comment>Name for type of backround</comment>
+    <value>Semmi</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Polcadot" xml:space="preserve">
-    <value>Polca-dot</value>
-    <comment>Name for type of backround</comment>
+    <value>Pöttyös</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Scale" xml:space="preserve">
     <value>Mérleg</value>
@@ -6103,64 +6103,64 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
     <comment>Button to learn more about invite sidebar</comment>
   </data>
   <data name="Sidebar_Collapse" xml:space="preserve">
-    <value>Összeomlás oldalsáv</value>
-    <comment>Tooltip for a button to collapse sidebar</comment>
+    <value>Oldalsáv összezárása</value>
+  <comment>Tooltip for a button to collapse sidebar</comment>
   </data>
   <data name="Sidebar_Expand" xml:space="preserve">
-    <value>Oldalsáv kibontása</value>
-    <comment>Tooltip for a button to expand sidebar</comment>
+    <value>Oldalsáv kinyitása</value>
+  <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Videó-beszélgetés, maximum 8 fő.</value>
-    </data>
+    <value>Videóbeszélgetések maximálisan 8 fővel.</value>
+  </data>
   <data name="App_Degoo_Description" xml:space="preserve">
-    <value>Tárolja a fájlokat a felhőben, 100 GB szabad hely a biztonsági mentésnek.</value>
-    </data>
+    <value>Fájlok tárolása a felhőben, 100 GB ingyenes szabad hely a biztonsági mentésnek.</value>
+  </data>
   <data name="App_Feedly_Description" xml:space="preserve">
-    <value>A tartalomta van szüksége, hogy felgyorsítsa a kutatást, marketinget és értékesítést.</value>
-    </data>
+    <value>A keresés gyorsításához, marketinghez és eladásokhoz szükséges tartalom.</value>
+  </data>
   <data name="App_FollowUp_Description" xml:space="preserve">
-    <value>Fájl, egyfajta rend szerint e-maileket, könnyedén.</value>
-    </data>
+    <value>Emailek csoportosítása, rendezése időzítése könnyedén.</value>
+  </data>
   <data name="App_FormSwift_Description" xml:space="preserve">
-    <value>Létrehoz egy aláírást az e-maileknek.</value>
-    </data>
+    <value>Aláírás létrehozása emailekhez.</value>
+  </data>
   <data name="App_Moodo_Description" xml:space="preserve">
-    <value>Gyönyörű, minimalista feladat kezelő alkalmazás. Fogja, és szervezze meg e-maileket a feladatlistán.</value>
-    </data>
+    <value>Gyönyörű, minimalista feladatkezelő alkalmazás. Emailek áthelyezése és szervezése a feladatlistában.</value>
+  </data>
   <data name="App_Slack_Description" xml:space="preserve">
-    <value>Felhő alapú, valós idejű üzenetek, archiválás és modern csapat keres.</value>
-    </data>
+    <value>Felhő alapú, valós idejű üzenetküldés, archiválás és keresés modern stáboknak.</value>
+  </data>
   <data name="App_TechCrunch_Description" xml:space="preserve">
-    <value>Olyan hírportál, amit felajánl, hírek, videók és eseményeket róla, a technológia-orientált Blogok és más webes tulajdonságait.</value>
-    </data>
+    <value>Hírszolgáltató webhely, amely híreket, videókat eseményeket kínál IT cégekről, technológia-orientált blogokról és más webes dolgokról.</value>
+  </data>
   <data name="App_TheVerge_Description" xml:space="preserve">
-    <value>Amerikai Hírek és média hálózati közzé cikkeket a technológia, a tudomány, a művészet, a business, a U.S., a világpolitika és a kultúra.</value>
-    </data>
+    <value>Amerikai hírekben és médiahálózatban publikált cikkek technológiáról, tudományról, művészetről, az USA-ról, világpolitikáról és kultúráról.</value>
+  </data>
   <data name="App_Todoist_Description" xml:space="preserve">
-    <value>Teendők listája segítségével kezel-a munkák bárhol. otthon. Az iskolában. A munka. Online. Offline. 13 platformok és eszközök.</value>
-    </data>
+    <value>A Todoist lehetővé teszi a feladatok kezelését akárhol. Otthon. Az iskolában. A neten. A neten kívül. Valamint 13 platformon és eszközön.</value>
+  </data>
   <data name="App_Trello_Description" xml:space="preserve">
-    <value>Trello lehetővé teszi, hogy munkára több és több munka végezhető.</value>
-    </data>
+    <value>A Trello lehetővé közös a közös munkavégzést és egyebeket.</value>
+  </data>
   <data name="App_Twitter_Description" xml:space="preserve">
-    <value>Olvassa el és ossza tweets a a világ minden tájáról.</value>
-    </data>
+    <value>Tweet bejegyzések olvasása és megosztása a világ minden tájáról.</value>
+  </data>
   <data name="App_UnrollMe_Description" xml:space="preserve">
-    <value>Tisztítás a bejövő fiókban.</value>
-    </data>
+    <value>A bejövő postaláda tisztogatása.</value>
+  </data>
   <data name="App_WeChat_Description" xml:space="preserve">
-    <value>Több Közösség. Több móka. Ingyenes üzenet és hívó alkalmazás.</value>
-    </data>
+    <value>Több Közösség. Több móka. Ingyenes üzenetküldő és hívó alkalmazás.</value>
+  </data>
   <data name="App_Weibo_Description" xml:space="preserve">
-    <value>Microblogging, és szociális hálózat-kiindulópontul szolgáló-ban Kína (részben lefordított angolra) chat funkcióval.</value>
-    </data>
+    <value>Mikrobloggoló és közösségi hálózat csevegő funkcióval Kínában (részben lefordítva angolra).</value>
+  </data>
   <data name="App_Whatsapp_Description" xml:space="preserve">
-    <value>Egyszerű. Személyes. Valós idejű üzenetek. Húzza a mellékletek jobb WhatsApp a Mailbird.</value>
-    </data>
+    <value>Egyszerű. Személyes. Valós idejű üzenetküldés. Mellékletek behúzása a Maibird alkalmazásból a WhatsApp alkalmazásba.</value>
+  </data>
   <data name="Tutorial_ContactsAccount" xml:space="preserve">
-    <value>Csatlakoztassa az e-mail fiókokat, majd szinkronizálja a névjegyeket.</value>
-    <comment>Tutorial text to guide user to connect account in contact manager</comment>
+    <value>Email fiókok felvétele és a kapcsolatok szinkronizálása.</value>
+  <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
 <data name="App_Contacts_BrowseContacts_Search" xml:space="preserve">
     <value>Keresés</value>
@@ -6179,23 +6179,23 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
     <comment>Tooltip for button to remove contact from list</comment>
   </data>
   <data name="MailEditor_Browse" xml:space="preserve">
-    <value>Névjegyek megnyitása</value>
-    <comment>Tooltip in button to open browse contacts window</comment>
+    <value>Kapcsolatok tallózása</value>
+  <comment>Tooltip in button to open browse contacts window</comment>
   </data>
   <data name="Apps_Kin_Calendar_Description" xml:space="preserve">
-    <value>A nap emelkedik újra. Itt van a legjobb naptár élmény. (előfizetés szükséges)</value>
+    <value>A nap újra felkel. Itt van a legjobb naptár élmény. (előfizetés szükséges)</value>
   <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
   <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Tartsa meg a Találkozókat, Virtuális tanfolyamokat, Távoli Interjúkat.</value>
-    <comment>Hangouts app description displayed in the App storefront.</comment>
+    <value>Menet közben tartsunk találkozókat , virtuális oktatóórákat, távoli interjúkat és egyebeket.</value>
+  <comment>Hangouts app description displayed in the App storefront.</comment>
   </data>
   <data name="Editor_CcBcc" xml:space="preserve">
-    <value>Másolat / Titkos másolat</value>
-    <comment>Tooltip to expand or collapse cc/bcc field</comment>
+    <value>Másolat/Titkos másolat</value>
+  <comment>Tooltip to expand or collapse cc/bcc field</comment>
   </data>
 <data name="DripSurvey_MoreInfo" xml:space="preserve">
-    <value>A jobb megértés, ki vagy, mit szeretsz, de nem úgy, mint a Mailbird, tudjuk, hogy Mailbird még jobb.</value>
+    <value>A Mailbird jobbá tehető a jobb bemutatkozással, annak megismerésével, hogy mi jó és mi nem a Mailbird alkalmazásban.</value>
   <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
   </data>
   <data name="AppStore_Apps" xml:space="preserve">
@@ -6207,19 +6207,19 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
   <comment>Tab in add-ons to show list of 3rd party services in Mailbird</comment>
   </data>
   <data name="AppStore_LearnMore" xml:space="preserve">
-    <value>Tudjon meg többet</value>
+    <value>Bővebben</value>
   <comment>Button to open link related to 3rd party service in Mailbird</comment>
   </data>
   <data name="Options_ShowCcBccByDefault" xml:space="preserve">
-    <value>Muttsd Cc, Bcc az alapértelmezés szerint</value>
+    <value>Másolat és titkos másolat megjelenítése alapértelmezésben az email író ablakban</value>
   <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Túllépte a fiókok számát</value>
+    <value>A fiók korlát elérésre került</value>
   <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>Ez az identitás le van tiltva. Frissítsen a Mailbird Pro verzióra és élvezheti a korlátlan fiókokat.</value>
+    <value>Ez az azonosítás le van tiltva. Frissíteni kell a Mailbird Pro verzióra a korlátlan fiókszám használatához.</value>
   <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
@@ -6227,7 +6227,7 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
   <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>Ez a postafiók le van tiltva, mert elérte a megengedett fiók számot a Mailbird Lite-ban.</value>
+    <value>Ez a postafiók le van tiltva, mert elérte a megengedett fiók számot a Mailbird Lite verzióban.</value>
   <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
@@ -6235,39 +6235,39 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
   <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Frissítsen a Mailbird Pro-ra, hogy e-maileket fogadhasson és küldhessen ebből a fiókból.</value>
+    <value>Áttérés a Mailbird Pro verzióra emailek további fogadásához és küldéséhez ennél a fióknál.</value>
   <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Frissítés most</value>
+    <value>Áttérés most</value>
   <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>A fiókok le vannak tiltva, mert a Mailbird Pro verziója véget ért. Most a Mailbird Lite-ot használja. Mailbird Lite támogatja a {0} e-mail fiókot(okat) ingyen folyamatosan. Kérjük, frissítsen Pro verzióra annak érdekében, hogy továbbra is használhassa a postafiókjait.</value>
+    <value>Egyes fiókok letiltásra kerültek,mert Mailbird Pro verzió próbahasználata véget ért. Most a Mailbird Lite verziót használjuk. A Mailbird Lite {0} email fiókot támogat ingyenesen. Térjünk át a Pro verzióra az összes fiók további használata érdekében.</value>
   <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Frissítsen, hogy a Mailbird összes postafiókját továbbra is használhassa.</value>
+    <value>Áttérés az összes fiók további használatára a Mailbird alkalmazásban.</value>
   <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>A te Mailbird Pro verziód lejárt.</value>
+    <value>A próbahasználat véget ért.</value>
   <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>Bármely segítségért kérjük, vegye fel velünk a kapcsolatot a support@getmailbird.com címen.</value>
+    <value>Bármely segítségért a kapcsolatot a support@getmailbird.com email címen vehetjük fel.</value>
   <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
-    <value>Ez a Mailbird Lite verziója. Ha tetszik a Mailbird, és akar szeret-hoz feszabadít a erő Mailbird Pro, frissítse most</value>
+    <value>Ez a Mailbird Lite verziója. Ha tetszik a Mailbird és szeretnénk kihasználni a Mailbird Pro lehetőségeit, használjuk ki az előfizetési lehetőségeket</value>
   <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
   </data>
   <data name="UpgradeNotification_Purchase" xml:space="preserve">
-    <value>Vásároljon Mailbird Pro-t</value>
+    <value>Mailbird Pro megvásárlása</value>
   <comment>Purchase Mailbird Pro</comment>
   </data>
   <data name="UpgradeNotification_Subtitle" xml:space="preserve">
-    <value>Szeretne most Pro licencet kapni?</value>
+    <value>Szeretnénk most Pro licenszet kapni?</value>
   <comment>Would you like to get a Pro license now?</comment>
   </data>
   <data name="UpgradeNotification_Title" xml:space="preserve">
@@ -6287,7 +6287,7 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
   <comment>Formatting button to align paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentLess" xml:space="preserve">
-    <value>Behúzás növelése</value>
+    <value>Behúzás csökkentése</value>
   <comment>Formatting button to give less indent in paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentMore" xml:space="preserve">
@@ -6295,11 +6295,11 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
   <comment>Formatting button to give more indent in paragraph</comment>
   </data>
   <data name="Message_DropAsInline" xml:space="preserve">
-    <value>Add a mellékletet a szöveg közé</value>
+    <value>Rádobás az elhelyezéshez</value>
   <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
   </data>
   <data name="Options_AutoTagRecipients" xml:space="preserve">
-    <value>Auto-címzettek hozzáadása, mikor @ címkézés</value>
+    <value>Automatikus címzett hozzáadás @ címkézéssel</value>
   <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
   </data>
   <data name="UpdatePreference_Auto" xml:space="preserve">
@@ -6311,33 +6311,33 @@ Próbálja ki most az új kapcsolatok alkalmazást!</value>
   <comment>Label for button to restart Mailbird.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyHeader" xml:space="preserve">
-    <value>Egy frissítés rendelkezésre áll önnek</value>
+    <value>Egy frissítés rendelkezésre</value>
   <comment>Header of notification informing the user that an update is ready to be installed.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyMessage" xml:space="preserve">
-    <value>Mailbird legújabb verziója telepítésre készen.
+    <value>A Mailbird legújabb verziója telepítésre készen áll.
 
-Indítsa újra most, hogy a legújabb fejlesztéseket és javításokat elérhesse - csak egy pillanat lesz.</value>
+Indítsuk újra most a legújabb fejlesztések és javítások eléréséhez - csak egy pillanat az egész.</value>
   <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
   </data>
 <data name="Notification_SilentUpdateAppliedHeader" xml:space="preserve">
-    <value>A Mailbird frissült</value>
+    <value>A Mailbird frissítésre került</value>
   <comment>Header of notification shown when Mailbird has been updated.</comment>
   </data>
   <data name="Notification_SilentUpdateAppliedMessage" xml:space="preserve">
-    <value>Az új Mailbird verzió telepítve lett. A kiadási megjegyzések az alábbiakban láthatóak.</value>
+    <value>Új Mailbird verzió került telepítésre. A kiadási megjegyzések az alábbiakban láthatóak.</value>
   <comment>Message of notification shown when Mailbird has been updated.</comment>
   </data>
 <data name="Disabled_MessageHeaderAccount" xml:space="preserve">
-    <value>Fiók le van tiltva</value>
+    <value>A fiók letiltásra került</value>
   <comment>Header when performing action is not allowed due to disabled account </comment>
   </data>
   <data name="Disabled_MessageHeaderIdentity" xml:space="preserve">
-    <value>Identitás le van tiltva</value>
+    <value>Az azonosítás letiltásra került</value>
   <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
 <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Válassza ki a csomagot:</value>
+    <value>Előfizetési csomag választás:</value>
   <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
 <data name="NewMessage_NewMessageSingular" xml:space="preserve">
@@ -6345,69 +6345,69 @@ Indítsa újra most, hogy a legújabb fejlesztéseket és javításokat elérhes
   <comment>Label for button when there is 1 new message</comment>
   </data>
   <data name="Dialog_EmptyFolder" xml:space="preserve">
-    <value>Kiüríti a mappát?</value>
+    <value>Kiürítésre kerüljön a mappa?</value>
   <comment>Dialog box title when user is about to empty a folder</comment>
   </data>
   <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
-    <value>Biztos benne, hogy elveti a mappában található összes e-mailt?</value>
+    <value>Biztosan eltávolításra kerüljön a mappában levő összes email?</value>
   <comment>Dialog box explanation when user is about to empty a folder</comment>
   </data>
   <data name="Account_Exchange_Domain" xml:space="preserve">
-    <value>Domén</value>
+    <value>Webtartomány</value>
   <comment>Label of the domain field in the user account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Betekintő ablak megjelenítése</value>
+    <value>Az olvasópanel megjelenítése</value>
   <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
-    <value>Server URL</value>
-    <comment>Label of the Exchange server field in the user account setup window</comment>
+    <value>Szerver webcím</value>
+  <comment>Label of the Exchange server field in the user account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Teljes sötét téma</value>
+    <value>Teljesen sötét téma</value>
   <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
-    <value>Exchange Server Authentication</value>
-    <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
+    <value>Exchange szerver hitelesítés</value>
+  <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>Az Exchange Server verzió próbál csatlakozni, jelenleg nem támogatott. Mailbird támogatja a Exchange Server 2010 és fenti. További információért lépjen kapcsolatba a támogatást.</value>
+    <value>Az az Exchange Server verzió, amelyhez kapcsolódni próbálunk, jelenleg nincs támogatva. A Mailbird támogatja a Exchange Server 2010 és újabb verziókat. További információért forduljunk a támogatókhoz.</value>
   <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Az Exchange-fiók zároltnak tűnik. Kérjük, forduljon a rendszergazdához, hogy továbbra is használhassa ezt a fiókot.</value>
+    <value>Az Exchange fiók zároltnak tűnik. Vegyük fel a kapcsolatot a szerveradminisztrátorral a fiók használatának folytatásához.</value>
   <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>Az Exchange automatikus észlelési szolgáltatás nem található. Ellenőrizze az e-mail, jelszó helyes, majd próbálja újra, vagy lépjen kapcsolatba a kiszolgáló rendszergazdájával, hogy győződjön meg arról, automatikus észlelési engedélyezve van.</value>
+    <value>Az Exchange automatikus észlelési szolgáltatás nem található. Ellenőrizzük az email cím és a jelszó helyességét és próbáljuk újra vagy vegyük fel a kapcsolatot a szerveradminisztrátorral az automatikus észlelési szolgáltatás bekapcsolásáért.</value>
   <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>Ez egy Microsoft Exchange-fiók</value>
+    <value>Ez egy Microsoft Exchange fiók</value>
   <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
     <value>Hiba történt a fájl csatolásakor.
 
-Ez legtöbbször az okozza, hogy egy víruskereső program zavarja Mailbird. Próbáld meg kikapcsolni a víruskereső program ideiglenesen, majd próbálja meg újra!
+Ez legtöbbször az okozza, hogy egy víruskereső program ütközik a Mailbird alkalmazással. Próbáljuk meg kikapcsolni a víruskereső programot ideiglenesen, majd próbáljuk újra!
 
-Ha a hiba továbbra is fennáll, kérjük, lépjen kapcsolatba az ügyfélszolgálattal.</value>
+Ha a hiba továbbra is fennáll, vegyük fel a kapcsolatot a támogatással.</value>
   <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
-    <value>Adatbázis verzió eltérés</value>
+    <value>Az adatbázis verzió nem egyezik</value>
   <comment>Header of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
-    <value>Az adatbázis verziója nem egyezik meg a Mailbird ezen változatával.
+    <value>Az adatbázis verziója nem egyezik meg a Mailbird ezen verziójával.
 
-Kérjük, lépjen kapcsolatba az ügyfélszolgálattal, hogy hogyan kell megoldani ezt.</value>
+Vegyük fel a kapcsolatot a támogatással a megoldás érdekében.</value>
   <comment>Body of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
-    <value>Hagyja üresen Mailbird autodetect a Microsoft Exchange kiszolgáló URL-címe</value>
+    <value>Hagyjuk üresen, hogy a Mailbird automatikusan érzékelje a Microsoft Exchange szerver webcímét</value>
   <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
   </data>
   <data name="NewMessage_NewMessagePlural" xml:space="preserve">
@@ -6431,7 +6431,7 @@ Kérjük, lépjen kapcsolatba az ügyfélszolgálattal, hogy hogyan kell megolda
   <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
-    <value>Méretezési szint visszaállítása</value>
+    <value>A méretezési szint alaphelyzetbe állítása</value>
   <comment>Tooltip text for button to reset the scaling level, (Ctrl+0) doesn't need to be translated</comment>
   </data>
 <data name="MailEditor_CcBcc" xml:space="preserve">
@@ -6439,15 +6439,15 @@ Kérjük, lépjen kapcsolatba az ügyfélszolgálattal, hogy hogyan kell megolda
   <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
   </data>
   <data name="MailEditor_CollapseCcBcc" xml:space="preserve">
-    <value>Másolat és titkos másolat mezők elrejtése</value>
+    <value>A másolat és titkos másolat mezők elrejtése</value>
   <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
   </data>
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
-    <value>Másolat és titkos másolat mezők megjelenítése</value>
+    <value>A másolat és titkos másolat mezők megjelenítése</value>
   <comment>Tooltip for button to expand Cc and Bcc fields</comment>
   </data>
 <data name="Editor_EditLink" xml:space="preserve">
-    <value>Hivatkozás szerkesztése</value>
+    <value>A hivatkozás szerkesztése</value>
   <comment>Header of window when editing link</comment>
   </data>
   <data name="Tips_Unread" xml:space="preserve">
