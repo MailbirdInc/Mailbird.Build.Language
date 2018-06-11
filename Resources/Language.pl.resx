@@ -2624,10 +2624,6 @@ Please exit out of this window to check the credentials and try again.</comment>
     <value>Konto z tym samym adresem e-mail już istnieje.</value>
     <comment>An account with the same email address already exists.</comment>
   </data>
-  <data name="FolderIdentity_More" xml:space="preserve">
-    <value>Więcej</value>
-    <comment>More</comment>
-  </data>
   <data name="Upgrade_NoAds" xml:space="preserve">
     <value>Ciesz się Mailbird bez reklam i zyskaj wiele innych funkcji, aby zwiększyć swoją produktywność.</value>
   <comment>Enjoy Mailbird without ads and get many other features to boost your productivity.</comment>
@@ -6479,5 +6475,27 @@ Skontaktuj się z supportem, by uzyskać informacje na temat możliwości rozwi�
   <data name="Trial_EndingSoonTitle" xml:space="preserve">
     <value>Twój okres próbny wkrótce się zakończy</value>
   <comment>Your trial is ending soon</comment>
+  </data>
+  <data name="FolderIdentity_Folders" xml:space="preserve">
+    <value>Folders</value>
+    <comment>Tooltip for button to open the folder list in left menu</comment>
+  </data>
+  <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
+    <value>We value your privacy and would like to stay in touch.
+
+So we'd like to ask your permission to send you the occational email with purely Mailbird related things like usability tips, special promotions and details on new exciting Mailbird features.</value>
+    <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
+  </data>
+  <data name="Welcome_ConsentStepNo" xml:space="preserve">
+    <value>NO THANKS</value>
+    <comment>Button to not give consent</comment>
+  </data>
+  <data name="Welcome_ConsentStepYes" xml:space="preserve">
+    <value>YES, LET'S STAY IN TOUCH</value>
+    <comment>Button to give consent</comment>
+  </data>
+  <data name="Options_Scaling" xml:space="preserve">
+    <value>Scaling</value>
+    <comment>Section in settings window to adjust scaling of the UI</comment>
   </data>
 </root>
