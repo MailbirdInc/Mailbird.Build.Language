@@ -624,11 +624,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Continue</comment>
   </data>
   <data name="Dialog_DiscardDraft" xml:space="preserve">
-    <value>Zahodit koncept?</value>
-    <comment>Discard Draft?</comment>
+    <value>Zahodit koncept zprávy?</value>
+  <comment>Discard Draft?</comment>
   </data>
   <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
-    <value>Opravdu chcete zahodit koncept?</value>
+    <value>Opravdu chcete zahodit koncept zprávy?</value>
   <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
@@ -1452,12 +1452,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DiscardMany" xml:space="preserve">
-    <value>{0} Konceptů zahozeno</value>
-    <comment>{0} Drafts discarded</comment>
+    <value>{0} Konceptů zpráv zahozeno</value>
+  <comment>{0} Drafts discarded</comment>
   </data>
   <data name="Notification_DiscardSingle" xml:space="preserve">
-    <value>Koncept zahozen</value>
-    <comment>Draft discarded</comment>
+    <value>Koncept zprávy zahozen</value>
+  <comment>Draft discarded</comment>
   </data>
   <data name="Notification_MailbirdWaiting" xml:space="preserve">
     <value>Váš Mailbird je tady a čeká na vás.</value>
@@ -2044,7 +2044,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Uloží aktuální text jako návrh pro vytváření nové zprávy. Podržte klávesu &lt;Ctrl&gt; při stisku klávesy S a ujistěte se, že kurzor se nachází v jednom z textových polí -- v panelu kompozice nebo v polích Komu, Kopie, Skrytá kopie nebo Předmět - při použití této zkratky.</value>
+    <value>Uloží aktuální text jako koncept zprávy pro vytváření nové zprávy. Podržte klávesu &lt;Ctrl&gt; při stisku klávesy S a ujistěte se, že kurzor se nachází v jednom z textových polí -- v panelu kompozice nebo v polích Komu, Kopie, Skrytá kopie nebo Předmět - při použití této zkratky.</value>
   <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
@@ -3648,7 +3648,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>{0} will be replaced by "Mailbird", so the result is "Exit Mailbird"</comment>
   </data>
   <data name="JumpList_RecentDrafts" xml:space="preserve">
-    <value>Nedávné návrhy</value>
+    <value>Nedávné koncepty zpráv</value>
   <comment>Recent drafts</comment>
   </data>
   <data name="JumpList_RecentEmails" xml:space="preserve">
@@ -3849,7 +3849,7 @@ You can disable the unified account from the options, or edit each of your accou
   <comment>App store</comment>
   </data>
   <data name="Tutorial_Archive" xml:space="preserve">
-    <value>Archív</value>
+    <value>Archiv</value>
   <comment>Archive</comment>
   </data>
   <data name="Tutorial_Compose" xml:space="preserve">
@@ -3857,7 +3857,7 @@ You can disable the unified account from the options, or edit each of your accou
   <comment>Compose</comment>
   </data>
   <data name="Tutorial_ComposeEmail" xml:space="preserve">
-    <value>Vytvořte svůj první e-mail</value>
+    <value>Vytvořte svůj první email</value>
   <comment>Compose your first email</comment>
   </data>
   <data name="Tutorial_ConversationList" xml:space="preserve">
@@ -3865,15 +3865,15 @@ You can disable the unified account from the options, or edit each of your accou
   <comment>Conversation list</comment>
   </data>
   <data name="Tutorial_Counter1" xml:space="preserve">
-    <value>1 z 3</value>
+    <value>1 / 3</value>
   <comment>1 of 3</comment>
   </data>
   <data name="Tutorial_Counter2" xml:space="preserve">
-    <value>2 z 3</value>
+    <value>2 / 3</value>
   <comment>2 of 3</comment>
   </data>
   <data name="Tutorial_Counter3" xml:space="preserve">
-    <value>3 z 3</value>
+    <value>3 / 3</value>
   <comment>3 of 3</comment>
   </data>
   <data name="Tutorial_CurrentAccount" xml:space="preserve">
@@ -3925,127 +3925,127 @@ You can disable the unified account from the options, or edit each of your accou
   <comment>Message list</comment>
   </data>
   <data name="Tutorial_More" xml:space="preserve">
-    <value>More</value>
-    <comment>More</comment>
+    <value>Více</value>
+  <comment>More</comment>
   </data>
   <data name="Tutorial_Reply" xml:space="preserve">
-    <value>Reply</value>
-    <comment>Reply</comment>
+    <value>Odpověď</value>
+  <comment>Reply</comment>
   </data>
   <data name="Tutorial_SearchResult" xml:space="preserve">
-    <value>Search result</value>
-    <comment>Search result</comment>
+    <value>Výsledek vyhledávání</value>
+  <comment>Search result</comment>
   </data>
   <data name="Tutorial_Trash" xml:space="preserve">
-    <value>Trash</value>
-    <comment>Trash</comment>
+    <value>Koš</value>
+  <comment>Trash</comment>
   </data>
   <data name="Tutorial_UnifiedAccount" xml:space="preserve">
-    <value>Unifed account</value>
-    <comment>Unifed account</comment>
+    <value>Jednotný účet</value>
+  <comment>Unifed account</comment>
   </data>
   <data name="Conversation_AutoLayout" xml:space="preserve">
-    <value>Auto Rotation</value>
-    <comment>Auto Rotation Layout</comment>
+    <value>Automatická rotace</value>
+  <comment>Auto Rotation Layout</comment>
   </data>
   <data name="Options_AutoLayoutMoreInfo" xml:space="preserve">
-    <value>For tablets only. Mailbird will automatically change between horizontal and vertical layout when the tablet orientation changes between portrait and landscape.</value>
-    <comment>For tablets only. Mailbird will automatically change between horizontal and vertical layout when the tablet orientation changes between portrait and landscape.</comment>
+    <value>Pouze pro tablety. Mailbird bude automaticky přepínat mezi horizontálním a vertikálním rozvržením, když se orientace tabletu změní na výšku, nebo na šířku.</value>
+  <comment>For tablets only. Mailbird will automatically change between horizontal and vertical layout when the tablet orientation changes between portrait and landscape.</comment>
   </data>
   <data name="Contact_AddToContacts" xml:space="preserve">
-    <value>Add to Contacts</value>
-    <comment>Add to contacts</comment>
+    <value>Přidat do kontaktů</value>
+  <comment>Add to contacts</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationPlural" xml:space="preserve">
-    <value>The contacts have been added to the Contacts app.</value>
-    <comment>The contacts have been added to the contacts manager.</comment>
+    <value>Kontakty byly přidány do aplikace Kontakty.</value>
+  <comment>The contacts have been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationSingular" xml:space="preserve">
-    <value>The contact has been added to the Contacts app.</value>
-    <comment>The contact has been added to the contacts manager.</comment>
+    <value>Kontakt byl přidán do aplikace Kontakty.</value>
+  <comment>The contact has been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedPlural" xml:space="preserve">
-    <value>Contacts added</value>
-    <comment>Contacts added</comment>
+    <value>Kontakty byly přidány</value>
+  <comment>Contacts added</comment>
   </data>
   <data name="Dialog_ContactAddedSingular" xml:space="preserve">
-    <value>Contact added</value>
-    <comment>Contact added</comment>
+    <value>Kontakt byl přidán</value>
+  <comment>Contact added</comment>
   </data>
   <data name="Dialog_CantInlineReply" xml:space="preserve">
-    <value>Our support provider does not support in-line reply. Please add your reply at the top of the message instead.</value>
-    <comment>Our support provider does not support in-line reply. Please add your reply at the top of the message instead.</comment>
+    <value>Náš poskytovatel podpory nepodporuje in-line (rychlou) odpověď. Přidejte místo toho svou odpověď v horní části zprávy.</value>
+  <comment>Our support provider does not support in-line reply. Please add your reply at the top of the message instead.</comment>
   </data>
   <data name="Dialog_NotSupported" xml:space="preserve">
-    <value>Not supported</value>
-    <comment>Not supported</comment>
+    <value>Není podporováno</value>
+  <comment>Not supported</comment>
   </data>
   <data name="Welcome_NeedSupportButton" xml:space="preserve">
-    <value>Contact support</value>
-    <comment>Contact support</comment>
+    <value>Kontaktujte podporu</value>
+  <comment>Contact support</comment>
   </data>
   <data name="Welcome_NeedSupportQuestion" xml:space="preserve">
-    <value>Do you have any questions?</value>
-    <comment>Do you have any questions?</comment>
+    <value>Máte nějaké dotazy?</value>
+  <comment>Do you have any questions?</comment>
   </data>
   <data name="Dialog_Calify" xml:space="preserve">
-    <value>Install Calify</value>
-    <comment>Install Calify</comment>
+    <value>Nainstalujte Calify</value>
+  <comment>Install Calify</comment>
   </data>
   <data name="Dialog_CalifyExplanation" xml:space="preserve">
-    <value>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</value>
-    <comment>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</comment>
+    <value>Všimli jsme si, že pro otevření tohoto souboru kalendáře nemáte výchozí aplikaci. Pokud jej chcete importovat, doporučujeme stáhnout a nainstalovat Calify. S Mailbird to funguje velmi dobře.</value>
+  <comment>We notice you don't have a default program to open this calendar file. If you need to import it into a calendar, we can recommend downloading and installing Calify. It works very well with Mailbird.</comment>
   </data>
   <data name="App_Wunderlist_Description" xml:space="preserve">
-    <value>Your beautiful and simple online to-do list App.</value>
-    <comment>Your beautiful and simple online to-do list App.</comment>
+    <value>Vaše krásná a jednoduchá aplikace on-line seznam úkolů.</value>
+  <comment>Your beautiful and simple online to-do list App.</comment>
   </data>
   <data name="InboxZero_Facebook" xml:space="preserve">
-    <value>Share on Facebook</value>
-    <comment>Share on Facebook</comment>
+    <value>Sdílet na Facebooku</value>
+  <comment>Share on Facebook</comment>
   </data>
   <data name="InboxZero_Twitter" xml:space="preserve">
-    <value>Tweet it</value>
-    <comment>Tweet it</comment>
+    <value>Tweetni to</value>
+  <comment>Tweet it</comment>
   </data>
   <data name="Notification_AttachmentCannotBeAddedTitle" xml:space="preserve">
-    <value>Selected file cannot be attached</value>
-    <comment>Selected file cannot be attached</comment>
+    <value>Vybraný soubor nelze připojit</value>
+  <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</value>
-    <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
+    <value>Soubor '{0}' nelze přidat jako přílohu, protože nemáte oprávnění k přístupu. Zkontrolujte prosím uživatelská práva a zkuste to znovu.</value>
+  <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird</value>
-    <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
+    <value>Nejlepší emailový klient a komunikační nástroj pro Windows vytvořený pomocí @mailbird</value>
+  <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
-    <value>Enter Twitter pin:</value>
-    <comment>Enter Twitter pin:</comment>
+    <value>Zadejte Twitter pin:</value>
+  <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Prosím nastavte váš účet k používání OAuth 2.0 autentizace místo uživatelského jména a hesla nebo zajistěte, aby byly zapnuty 'povolit méně zabezpečené aplikace' v Gmailu:
-https://mailbird.zendesk.com/entries/53544244
+    <value>Nastavte svůj účet tak, aby místo uživatelského jména a hesla používal ověřování OAuth 2.0 nebo zajistěte, že v Gmailu je povolena možnost "povolit méně zabezpečené aplikace":
+{0}
 
-Pokud problém přetrvává, následujte tento link pro další postup k odstranění problému:
+Pokud potíže přetrvávají, postupujte prosím podle následujících pokynů:
 https://support.google.com/mail/accounts/answer/78754</value>
-    <comment>Please configure your account to use OAuth 2.0 authentication instead of username and password, or ensure that 'allow less secure apps' is enabled in Gmail:
+  <comment>Please configure your account to use OAuth 2.0 authentication instead of username and password, or ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
 If the issue persists, please follow this for further troubleshooting:
 https://support.google.com/mail/accounts/answer/78754</comment>
   </data>
   <data name="Notification_AuthenticationErrorHeader" xml:space="preserve">
-    <value>Server authentication failed</value>
-    <comment>Server authentication failed</comment>
+    <value>Ověření serveru selhalo</value>
+  <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
-    <value>Přihlášení k proxy serveru selhalo. Prosím překontrolujte nastavení proxy v Možnostoech Mailbirdu.</value>
-    <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
+    <value>Ověřování serverem proxy selhalo. Ujistěte se, že nastavení serveru proxy byly správně zadány v nastavení Mailbird.</value>
+  <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
-    <value>Add link</value>
+    <value>Přidat odkaz</value>
   <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
@@ -4053,106 +4053,107 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
-    <value>Post to Facebook</value>
-    <comment>Post to Facebook</comment>
+    <value>Přidat na Facebook</value>
+  <comment>Post to Facebook</comment>
   </data>
   <data name="InboxZero_PostStatus" xml:space="preserve">
-    <value>Status update:</value>
-    <comment>Status update:</comment>
+    <value>Aktualizace stavu:</value>
+  <comment>Status update:</comment>
   </data>
   <data name="InboxZero_PostTwitter" xml:space="preserve">
-    <value>Tweet it</value>
-    <comment>Tweet it</comment>
+    <value>Tweetni to</value>
+  <comment>Tweet it</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFiles" xml:space="preserve">
-    <value>Installation issue detected</value>
-    <comment>Installation issue detected</comment>
+    <value>Byla zjištěna chyba instalace</value>
+  <comment>Installation issue detected</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
-    <value>Mailbird has detected that one or more files are corrupt or missing from the installation directory.
+    <value>Mailbird zjistil, že jeden nebo více souborů je z instalačního adresáře poškozen nebo chybí.
 
-To fix the problem please uninstall and then reinstall Mailbird by getting the latest version from https://www.getmailbird.com
+Chcete-li problém odstranit, odinstalujte a znovu nainstalujte Mailbird stažením nejnovější verze
+https://www.getmailbird.com
 
-All your settings, email etc. will be kept as long as you don't delete the storage directory when asked during uninstall.</value>
-    <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
+Všechna nastavení, email, atd. budou uchovány, dokud neodstraníte úložiště při dotazu během odinstalace.</value>
+  <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
   </data>
   <data name="Trial_GetDiscount" xml:space="preserve">
-    <value>Get Mailbird Pro - 33% off</value>
-    <comment>Get Mailbird Pro - 33% off</comment>
+    <value>Získejte Mailbird Pro - 33% sleva</value>
+  <comment>Get Mailbird Pro - 33% off</comment>
   </data>
   <data name="UpdateToPro_Coupon" xml:space="preserve">
-    <value>Coupon</value>
-    <comment>Coupon</comment>
+    <value>Kupón</value>
+  <comment>Coupon</comment>
   </data>
   <data name="UpdateToPro_UsdMonth" xml:space="preserve">
-    <value>{0} / Month</value>
-    <comment>Note: leave the USD and translate the month</comment>
+    <value>{0} / Měsíc</value>
+  <comment>Note: leave the USD and translate the month</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</value>
-    <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
+    <value>Soubor '{0}' nelze přidat jako přílohu. Zkontrolujte prosím, že soubor není použit v jiném programu a zkuste to znovu.</value>
+  <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="Invite_NoContacts" xml:space="preserve">
-    <value>No contacts found</value>
-    <comment>No contacts found</comment>
+    <value>Nebyly nalezeny žádné kontakty</value>
+  <comment>No contacts found</comment>
   </data>
   <data name="Welcome_InviteDescription" xml:space="preserve">
-    <value>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</value>
-    <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
+    <value>Za každého přítele, který nainstaluje Mailbird na svůj počítač, vám dáme bezplatný měsíc Mailbird Pro! Neexistuje žádný limit, proto zvěte co nejvíce přátel.</value>
+  <comment>For every friend who installs Mailbird on their computer, we'll give you both a free month of Mailbird Pro! There is no limit, so invite as many friends as you want.</comment>
   </data>
   <data name="Welcome_InviteTitle" xml:space="preserve">
-    <value>Get Mailbird Pro 100% Free, Forever</value>
-    <comment>Get Mailbird Pro 100% Free, Forever</comment>
+    <value>Získejte Mailbird Pro 100% zdarma, navždy</value>
+  <comment>Get Mailbird Pro 100% Free, Forever</comment>
   </data>
   <data name="Welcome_SkipToInbox" xml:space="preserve">
-    <value>Skip to inbox</value>
-    <comment>Skip to inbox</comment>
+    <value>Přeskočit na Doručenou poštu</value>
+  <comment>Skip to inbox</comment>
   </data>
   <data name="Invite_Loading" xml:space="preserve">
-    <value>Loading your top contacts..</value>
-    <comment>Loading your top contacts..</comment>
+    <value>Načítání vašich nejlepších kontaktů ..</value>
+  <comment>Loading your top contacts..</comment>
   </data>
   <data name="Welcome_InviteSend" xml:space="preserve">
-    <value>Send Invites</value>
-    <comment>Send Invites</comment>
+    <value>Odeslat pozvánky</value>
+  <comment>Send Invites</comment>
   </data>
   <data name="App_DefaultFatalError" xml:space="preserve">
-    <value>An error occured in the app. Please restart Mailbird and try again.
+    <value>V aplikaci došlo k chybě. Restartujte Mailbird a zkuste to znovu.
 
-If you continue to experience this error, please contact support.</value>
-    <comment>An error occured in the app. Please restart Mailbird and try again.
+Pokud se tato chyba vyskytne i nadále, kontaktujte podporu.</value>
+  <comment>An error occured in the app. Please restart Mailbird and try again.
 
 If you continue to experience this error, please contact support.</comment>
   </data>
   <data name="App_Loading" xml:space="preserve">
-    <value>Loading...</value>
-    <comment>Loading...</comment>
+    <value>Načítání ..</value>
+  <comment>Loading...</comment>
   </data>
   <data name="RateRecommend_TwitterMessage" xml:space="preserve">
-    <value>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</value>
-    <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
+    <value>Získejte závislost na #InboxZero (nulová doručená pošta) pomocí @mailbird. Miluji tento krásný emailový klient pro #Windows http://getmailbird.com/</value>
+  <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
-    <value>Add new recipients to Contacts</value>
-    <comment>Add new recipients to contacts app</comment>
+    <value>Přidat nové příjemce do kontaktů</value>
+  <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Pin Mailbird to start menu</value>
-    <comment>Pin Mailbird to start menu</comment>
+    <value>Připnout Mailbird do nabídky Start</value>
+  <comment>Pin Mailbird to start menu</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Create shortcut on desktop</value>
-    <comment>Create shortcut on desktop</comment>
+    <value>Vytvořit zástupce na Ploše</value>
+  <comment>Create shortcut on desktop</comment>
   </data>
   <data name="InstallationForm_InstallationCompleted" xml:space="preserve">
-    <value>Installation complete</value>
-    <comment>Installation complete</comment>
+    <value>Instalace dokončena</value>
+  <comment>Installation complete</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Pin Mailbird to taskbar</value>
-    <comment>Pin Mailbird to taskbar</comment>
+    <value>Připnout Mailbird na hlavní panel</value>
+  <comment>Pin Mailbird to taskbar</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
     <value>Spustit automaticky s Windows</value>
@@ -4163,11 +4164,11 @@ If you continue to experience this error, please contact support.</comment>
   <comment>Start Mailbird</comment>
   </data>
   <data name="Notification_Gmail_WebLoginRequired" xml:space="preserve">
-    <value>Google is requesting you login via the web interface.
+    <value>Google požaduje přihlášení přes webové rozhraní.
 
-Please follow this link to further troubleshoot the issue:
+Pro další řešení problému postupujte podle tohoto odkazu:
 https://support.google.com/mail/accounts/answer/78754</value>
-    <comment>Google is requesting you login via the web interface.
+  <comment>Google is requesting you login via the web interface.
 
 Please follow this link to further troubleshoot the issue:
 https://support.google.com/mail/accounts/answer/78754</comment>
@@ -4177,31 +4178,31 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Import</comment>
   </data>
   <data name="Notification_LostDraftHeader" xml:space="preserve">
-    <value>An error occurred with your draft</value>
-    <comment>An error occurred with your draft</comment>
+    <value>V konceptu zprávy došlo k chybě</value>
+  <comment>An error occurred with your draft</comment>
   </data>
   <data name="Notification_LostDraftMessage" xml:space="preserve">
-    <value>An error occurred with your draft and your latest saved version has been restored.
+    <value>V konceptu zprávy došlo k chybě a byla obnovena vaše nejnovější uložená verze.
 
-If you are seeing this error frequently, please contact Mailbird support.</value>
-    <comment>An error occurred with your draft and your latest saved version has been restored.
+Pokud se tato chyba vyskytuje často, kontaktujte podporu Mailbird.</value>
+  <comment>An error occurred with your draft and your latest saved version has been restored.
 
 If you are seeing this error frequently, please contact Mailbird support.</comment>
   </data>
   <data name="Notification_OpenDraft" xml:space="preserve">
-    <value>Go to draft</value>
-    <comment>Go to draft</comment>
+    <value>Přejděte na koncept zprávy</value>
+  <comment>Go to draft</comment>
   </data>
   <data name="LostDraft_ContactSupport" xml:space="preserve">
-    <value>contact Mailbird support</value>
-    <comment>contact Mailbird support</comment>
+    <value>kontaktujte podporu Mailbird</value>
+  <comment>contact Mailbird support</comment>
   </data>
   <data name="LostDraft_Explanation" xml:space="preserve">
-    <value>Something went wrong while trying to display your draft. To continue, please [btn_1]
+    <value>Něco se pokazilo při pokusu zobrazit váš koncept zprávy. Pokračujte, prosím [btn_1]
 
 
-If you are seeing this error frequently, please [btn_2]</value>
-    <comment>Note:
+Pokud se vám tato chyba vyskytuje často, prosím [btn_2]</value>
+  <comment>Note:
 The final text will look like this,
 Something went wrong while trying to display your draft. To continue, please reload it
 
@@ -4214,38 +4215,38 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Uh Oh!</comment>
   </data>
   <data name="LostDraft_Reload" xml:space="preserve">
-    <value>reload it</value>
-    <comment>reload the draft</comment>
+    <value>znovu načtěte</value>
+  <comment>reload the draft</comment>
   </data>
   <data name="Options_BackgroundPattern" xml:space="preserve">
-    <value>Choose background/pattern</value>
-    <comment>Choose background/pattern</comment>
+    <value>Zvolte pozadí nebo vzorek</value>
+  <comment>Choose background/pattern</comment>
   </data>
   <data name="Import_NoAccounts" xml:space="preserve">
-    <value>No accounts</value>
-    <comment>No accounts</comment>
+    <value>Žádné účty</value>
+  <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
     <value>Pozvěte přátelé - získat Pro verzi zdarma</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
-    <value>No Account Selected</value>
-    <comment>No Account Selected</comment>
+    <value>Nebyl vybrán žádný účet</value>
+  <comment>No Account Selected</comment>
   </data>
   <data name="Dialog_NoAccountExplanation" xml:space="preserve">
-    <value>Please select at least 1 account to import.</value>
-    <comment>Please select at least 1 account to import.</comment>
+    <value>Vyberte prosím alespoň 1 účet, který chcete importovat.</value>
+  <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
-    <value>Or import from another email client.</value>
-    <comment>Or import from another email client.</comment>
+    <value>Nebo importovat z jiného emailového klienta.</value>
+  <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importing [bold]{0}[/bold].
-Please input any missing details below.
-Account {1} of {2}.</value>
-    <comment>Leave the number within {}, it will be like this:
+    <value>Importování [bold]{0}[/bold].
+Zadejte níže uvedené chybějící podrobnosti.
+Účet {1} z {2}.</value>
+  <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com.
 Please input any missing details below.
 Account 1 of 4.</comment>
@@ -5009,7 +5010,7 @@ Are you sure you want to close the window?</comment>
     <comment>Notifications</comment>
   </data>
 <data name="Notification_GenericAuthenticationError1" xml:space="preserve">
-    <value>This is typically caused by invalid credentials or {0} being disabled on the server for your account.
+    <value>Toto je zpravidla způsobeno neplatnými pověřeními nebo {0} zakázáno na serveru pro váš účet.
 
 Čtěte více:
 https://support.getmailbird.com/hc/en-us/articles/220108287</value>
