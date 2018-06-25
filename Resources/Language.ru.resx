@@ -584,8 +584,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Close</comment>
   </data>
   <data name="Dialog_Help" xml:space="preserve">
-    <value>Справка</value>
-    <comment>Help</comment>
+    <value>Помощь</value>
+  <comment>Help</comment>
   </data>
   <data name="Account_Create" xml:space="preserve">
     <value>Создать учётную запись</value>
@@ -740,12 +740,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Bcc</comment>
   </data>
   <data name="Conversation_Cc" xml:space="preserve">
-    <value>Cc: </value>
-    <comment>Cc:</comment>
+    <value>Копия: </value>
+  <comment>Cc:</comment>
   </data>
   <data name="Conversation_Cc1" xml:space="preserve">
-    <value>Cc</value>
-    <comment>Cc</comment>
+    <value>Копия</value>
+  <comment>Cc</comment>
   </data>
   <data name="Default_AlwaysAsk" xml:space="preserve">
     <value>Всегда проверять при запуске Mailbird</value>
@@ -1260,7 +1260,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Trash</comment>
   </data>
   <data name="Menu_Compose" xml:space="preserve">
-    <value>написатъ</value>
+    <value>Написать</value>
   <comment>Compose</comment>
   </data>
   <data name="Menu_DataDirectory" xml:space="preserve">
@@ -1396,8 +1396,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
-    <value>Показывать {0} старых сообщений</value>
-    <comment>Show {0} older messages</comment>
+    <value>Показать {0} старых сообщений</value>
+  <comment>Show {0} older messages</comment>
   </data>
   <data name="Message_ShowWindow" xml:space="preserve">
     <value>Показать окно</value>
@@ -1724,8 +1724,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Use Gmail keyboard shortcuts</comment>
   </data>
   <data name="Options_VersionHistory" xml:space="preserve">
-    <value>Показывать историю версий</value>
-    <comment>View version history</comment>
+    <value>Посмотреть историю версий</value>
+  <comment>View version history</comment>
   </data>
   <data name="Options_ViewLicense" xml:space="preserve">
     <value>Показать лицензионное соглашение</value>
@@ -1892,12 +1892,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Enable the following GMail shortcuts below from the Mailbird Options window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
-    <value>Показать помощь по сочетаниям клавиш</value>
-    <comment>Show keyboard shortcuts help</comment>
+    <value>Показать справку по сочетаниям клавиш</value>
+  <comment>Show keyboard shortcuts help</comment>
   </data>
   <data name="Shortcut_HelpExplanation" xml:space="preserve">
-    <value>Показывать меню помощи по сочетаниям клавиш когда показано окно Mailbird.</value>
-    <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
+    <value>Показывать меню справки сочетаний клавиш, когда показано окно Mailbird.</value>
+  <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
   </data>
   <data name="Shortcut_ImportantExplanation" xml:space="preserve">
     <value>Помогает Gmail обучаться определению важных вам сообщений, когда вы отмечаете неправильно классифицированные сообщения. (Папка Важное)</value>
@@ -2044,8 +2044,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Сохраняет текущий текст как черновик при составлении сообщения. Удерживайте клавишу &lt;Ctrl&gt; при нажатии s, и при использовании этого сочетания клавиш проверьте что курсор находится в одном из текстовых полей, или в полях  Кому, CC, BCC, или Тема.</value>
-    <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
+    <value>Сохраняет текущий текст как черновик при составлении сообщения. Удерживайте клавишу &lt;Ctrl&gt; при нажатии s, и при использовании этого сочетания клавиш проверьте, что курсор находится в одном из текстовых полей, или в полях Кому, Копия, Скрытая копия, или Тема.</value>
+  <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
     <value>Поиск</value>
@@ -2893,8 +2893,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Home</comment>
   </data>
   <data name="Conversation_More" xml:space="preserve">
-    <value>Больше..</value>
-    <comment>More..</comment>
+    <value>Ещё...</value>
+  <comment>More..</comment>
   </data>
   <data name="MailEditorFormattingBar_Formatting" xml:space="preserve">
     <value>Форматирование</value>
@@ -3923,8 +3923,8 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Message list</comment>
   </data>
   <data name="Tutorial_More" xml:space="preserve">
-    <value>Больше</value>
-    <comment>More</comment>
+    <value>Ещё</value>
+  <comment>More</comment>
   </data>
   <data name="Tutorial_Reply" xml:space="preserve">
     <value>Ответить</value>
@@ -4637,8 +4637,8 @@ Please remove some and try again.</comment>
     <comment>Show Inbox Zero</comment>
   </data>
   <data name="Options_ShowInboxZeroSharing" xml:space="preserve">
-    <value>Показывать кнопки "Поделиться"</value>
-    <comment>Show share buttons</comment>
+    <value>Показать кнопки "Поделиться"</value>
+  <comment>Show share buttons</comment>
   </data>
   <data name="Timeline_ExpireMonths" xml:space="preserve">
     <value>{0} месяцев</value>
