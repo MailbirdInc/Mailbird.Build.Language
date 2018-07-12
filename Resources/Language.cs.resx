@@ -2695,8 +2695,8 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>to</comment>
   </data>
   <data name="Message_From2" xml:space="preserve">
-    <value>From:</value>
-    <comment>From:</comment>
+    <value>Od:</value>
+  <comment>From:</comment>
   </data>
   <data name="Title_License" xml:space="preserve">
     <value>Mailbird licenční smlouva</value>
@@ -3406,7 +3406,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>Attachment Quick Preview</comment>
   </data>
   <data name="Trial_Feature4" xml:space="preserve">
-    <value>Odložit Emaily</value>
+    <value>Odložit emaily</value>
   <comment>Snooze Emails</comment>
   </data>
   <data name="Trial_Feature5" xml:space="preserve">
@@ -4453,254 +4453,254 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
   <comment>Disabled</comment>
   </data>
   <data name="Options_UndoSendPeriodExplanation" xml:space="preserve">
-    <value>Zprávy budou při odesílání zpožděny, což vám umožní se vrátit zpět.</value>
+    <value>Zpožděné odesílání zprávy vám dává možnost se vrátit zpět.</value>
   <comment>The time messages will be delayed when sending, giving you the option to undo.</comment>
   </data>
   <data name="Welcome_ImportLiteLimit" xml:space="preserve">
-    <value>Your selection will exceed the account limit for Lite users. If you continue, some accounts will be disabled the next time Mailbird is opened. Please upgrade to Pro to enable all your accounts.</value>
-    <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
+    <value>Váš výběr bude vyšší než limit účtu pro uživatele Lite. Pokud budete pokračovat, některé účty budou zakázány při příštím otevření Mailbird. Chcete-li povolit všechny účty, proveďte upgrade na Pro.</value>
+  <comment>Your selection will exceed the account limit for Lite users. If you continue, some accounts will not be shown the next time Mailbird is opened. Please upgrade to Pro to show all your accounts.</comment>
   </data>
   <data name="Import_Tooltip_AlreadyAdded" xml:space="preserve">
-    <value>This account cannot be imported because it's already added to Mailbird</value>
-    <comment>This account cannot be imported because it's already added to Mailbird</comment>
+    <value>Tento účet nelze importovat, protože je již přidán do Mailbird</value>
+  <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</value>
-    <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
+    <value>Typ ověřování, který chcete použít. Služba Google OAuth 2.0 funguje pouze s účty Google.</value>
+  <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
-    <value>Authentication</value>
-    <comment>Authentication</comment>
+    <value>Ověření</value>
+  <comment>Authentication</comment>
   </data>
   <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
-    <value>Username and password</value>
-    <comment>Username and password</comment>
+    <value>Uživatelské jméno a heslo</value>
+  <comment>Username and password</comment>
   </data>
   <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
     <value>Google OAuth 2.0</value>
     <comment>Google OAuth 2.0</comment>
   </data>
   <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
-    <value>Authorize access to {0}</value>
-    <comment>Authorize access to [johndoe@domain.com]</comment>
+    <value>Povolit přístup k {0}</value>
+  <comment>Authorize access to [johndoe@domain.com]</comment>
   </data>
   <data name="Options_TestSound" xml:space="preserve">
-    <value>Test sound</value>
-    <comment>Test sound</comment>
+    <value>Test zvuku</value>
+  <comment>Test sound</comment>
   </data>
   <data name="Options_CustomSound" xml:space="preserve">
-    <value>Custom...</value>
-    <comment>Custom...</comment>
+    <value>Vlastní ..</value>
+  <comment>Custom...</comment>
   </data>
   <data name="Notification_SoundFailedToPlay" xml:space="preserve">
-    <value>Failed to play new message sound</value>
-    <comment>Failed to play new message sound</comment>
+    <value>Nepodařilo se přehrát nový zvuk zprávy</value>
+  <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>Prosím zvolte správný zvukový soubor z těchto možností.</value>
-    <comment>Please select the correct audio file from options</comment>
+    <value>Vyberte prosím správný zvukový soubor z nastavení.</value>
+  <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
-    <value>Prosím zvolte správný zvukový soubor.</value>
-    <comment>Please select the correct audio file</comment>
+    <value>Zvolte prosím správný zvukový soubor.</value>
+  <comment>Please select the correct audio file</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Enter the password used to log in to {0}</value>
-    <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
+    <value>Zadejte heslo, které se používá pro přihlášení do {0}</value>
+  <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
-    <value>An error occured authorizing Mailbird to access the email account.
+    <value>Chyba ověřování Mailbird pro přístup k emailovému účtu.
 
-Please try again or switch to username and password authentication.</value>
-    <comment>An error occured authorizing Mailbird to access the email account.
+Zkuste to prosím znovu nebo přepněte na ověřování pomocí uživatelského jména a hesla.</value>
+  <comment>An error occured authorizing Mailbird to access the email account.
 
 Please try again or switch to username and password authentication.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
-    <value>An unknown error occured during authorization.
+    <value>Při ověřování se vyskytla neznámá chyba.
 
-Please try again, or contact support if the issue persists.</value>
-    <comment>An unknown error occured during authorization.
+Zkuste to prosím znovu nebo kontaktujte podporu, pokud problém přetrvává.</value>
+  <comment>An unknown error occured during authorization.
 
 Please try again, or contact support if the issue persists.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationErrorTitle" xml:space="preserve">
-    <value>Error authorizing access</value>
-    <comment>Error authorizing access</comment>
+    <value>Chyba při ověřování přístupu</value>
+  <comment>Error authorizing access</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_AccountChanged" xml:space="preserve">
-    <value>The account used to authorize the access is incorrect.
+    <value>Účet použitý k ověření přístupu je nesprávný.
 
-Please try again and log in with the correct account before granting access.</value>
-    <comment>The account used to authorize the access is incorrect.
+Zkuste to znovu a přihlaste se pomocí správného účtu před povolením přístupu.</value>
+  <comment>The account used to authorize the access is incorrect.
 
 Please try again and log in with the correct account before granting access.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_AccountChangedTitle" xml:space="preserve">
-    <value>Incorrect account</value>
-    <comment>Incorrect account</comment>
+    <value>Nesprávný účet</value>
+  <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Prosím ověřte vaše nastavení účtu zda jsou správná a zda má Mailbird přístup k vašemu emailovému účtu.</value>
-    <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
+    <value>Zkontrolujte nastavení účtu a ověřte, zda jsou správné a že Mailbird je oprávněn k přístupu k vašemu emailovému účtu.</value>
+  <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
-    <value>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
+    <value>Provedené změny způsobí změnu aktuální poštovní schránky. Toto není podporováno, protože by mohly nastat neočekávané problémy.
 
-To access another mailbox, please add it as a new account in Mailbird.</value>
-    <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
+Chcete-li přistupovat k jiné poštovní schránce, přidejte ji jako nový účet v Mailbird.</value>
+  <comment>The changes made would cause the current mailbox to change. This is not supported as it could cause unexpected issues.
 
 To access another mailbox, please add it as a new account in Mailbird.</comment>
   </data>
   <data name="Sound_Default" xml:space="preserve">
-    <value>Default (Chirp)</value>
-    <comment>Default (Chirp)</comment>
+    <value>Výchozí (pípnutí)</value>
+  <comment>Default (Chirp)</comment>
   </data>
   <data name="Sound_Electronic" xml:space="preserve">
-    <value>Electronic</value>
-    <comment>Electronic</comment>
+    <value>Elektronický</value>
+  <comment>Electronic</comment>
   </data>
   <data name="Sound_None" xml:space="preserve">
-    <value>None</value>
-    <comment>None</comment>
+    <value>Žádný</value>
+  <comment>None</comment>
   </data>
   <data name="Invite_SendAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to send invitation to all of your contacts?</value>
-    <comment>Are you sure you want to send invitation to all of your contacts?</comment>
+    <value>Opravdu chcete poslat pozvánku všem vašim kontaktům?</value>
+  <comment>Are you sure you want to send invitation to all of your contacts?</comment>
   </data>
   <data name="Invite_SendAllTitle" xml:space="preserve">
-    <value>Send invitation</value>
-    <comment>Send invitation</comment>
+    <value>Poslat pozvánku</value>
+  <comment>Send invitation</comment>
   </data>
   <data name="Invite_SendToAllContacts" xml:space="preserve">
-    <value>Pozvat moje hlavní kontakty</value>
-    <comment>Invite my contacts</comment>
+    <value>Pozvat mé hlavní kontakty</value>
+  <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</value>
-    <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
+    <value>Získejte neomezený Mailbird Pro zdarma. Vaše kontakty dostanou pozvánku, aby získali Mailbird.</value>
+  <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Quoted_TextHidden" xml:space="preserve">
-    <value>[Quoted text hidden]</value>
-    <comment>[Quoted text hidden]</comment>
+    <value>[Citovaný text je skrytý]</value>
+  <comment>[Quoted text hidden]</comment>
   </data>
 <data name="Timeline_ExpireDays" xml:space="preserve">
     <value>{0} dnů</value>
   <comment>{0} days</comment>
   </data>
   <data name="Print_TextHidden" xml:space="preserve">
-    <value>[Quoted text hidden]</value>
-    <comment>[Quoted text hidden]</comment>
+    <value>[Citovaný text je skrytý]</value>
+  <comment>[Quoted text hidden]</comment>
   </data>
   <data name="Print_Attachments" xml:space="preserve">
-    <value>Attachments</value>
-    <comment>Attachments</comment>
+    <value>Přílohy</value>
+  <comment>Attachments</comment>
   </data>
   <data name="Print_Message" xml:space="preserve">
-    <value>Message {0} of {1}</value>
-    <comment>Will be converted to:
+    <value>Zpráva {0} z {1}</value>
+  <comment>Will be converted to:
 Message 1 to 2</comment>
   </data>
   <data name="Print_PrintNow" xml:space="preserve">
-    <value>Print now</value>
-    <comment>Print now</comment>
+    <value>Tisknout</value>
+  <comment>Print now</comment>
   </data>
   <data name="Notification_FailedToSetSound" xml:space="preserve">
-    <value>Failed to set new message sound</value>
-    <comment>Failed to set new message sound</comment>
+    <value>Nelze nastavit nový zvuk zpráv</value>
+  <comment>Failed to set new message sound</comment>
   </data>
   <data name="Notification_FailedToSetSoundExplanation" xml:space="preserve">
-    <value>Please make sure the file is not being used by another program and try again.</value>
-    <comment>Please make sure the file is not being used by another program and try again.</comment>
+    <value>Ujistěte se, že soubor nepoužívá jiný program a zkuste to znovu.</value>
+  <comment>Please make sure the file is not being used by another program and try again.</comment>
   </data>
   <data name="Notification_FileSize" xml:space="preserve">
-    <value>The file is too large</value>
-    <comment>The file is too large</comment>
+    <value>Soubor je příliš velký</value>
+  <comment>The file is too large</comment>
   </data>
   <data name="Notification_FileSizeExplanation" xml:space="preserve">
-    <value>The maximum sound file size is {0}.
-Please choose another file.</value>
-    <comment>The maximum sound file size is {0}.
+    <value>Maximální velikost zvukového souboru je {0}.
+Vyberte prosím jiný soubor.</value>
+  <comment>The maximum sound file size is {0}.
 Please choose another file.</comment>
   </data>
   <data name="Invite_LimitReached" xml:space="preserve">
-    <value>Too many recipients</value>
-    <comment>Too many recipients</comment>
+    <value>Příliš mnoho příjemců</value>
+  <comment>Too many recipients</comment>
   </data>
   <data name="Invite_LimitReachedExplanation" xml:space="preserve">
-    <value>The maximum number of recipients is {0}.
-Please remove some and try again.</value>
-    <comment>The maximum number of recipients is {0}.
+    <value>Maximální počet příjemců je {0}.
+Některé z nich odstraňte a zkuste to znovu.</value>
+  <comment>The maximum number of recipients is {0}.
 Please remove some and try again.</comment>
   </data>
   <data name="Options_ShowInboxZero" xml:space="preserve">
-    <value>Show Inbox Zero</value>
-    <comment>Show Inbox Zero</comment>
+    <value>Zobrazit nulovou doručenou poštu</value>
+  <comment>Show Inbox Zero</comment>
   </data>
   <data name="Options_ShowInboxZeroSharing" xml:space="preserve">
-    <value>Show share buttons</value>
-    <comment>Show share buttons</comment>
+    <value>Zobrazit tlačítka pro sdílení</value>
+  <comment>Show share buttons</comment>
   </data>
   <data name="Timeline_ExpireMonths" xml:space="preserve">
-    <value>{0} months</value>
-    <comment>{0} months</comment>
+    <value>{0} měsíců</value>
+  <comment>{0} months</comment>
   </data>
   <data name="Signature_SentFrom" xml:space="preserve">
-    <value>Sent from {0}</value>
-    <comment>Sent from {0}
+    <value>Odesláno od {0}</value>
+  <comment>Sent from {0}
 {0} will be replaced by "Mailbird"</comment>
   </data>
   <data name="Ads_BuyNow" xml:space="preserve">
-    <value>Buy Now</value>
-    <comment>Buy Now</comment>
+    <value>Koupit teď</value>
+  <comment>Buy Now</comment>
   </data>
   <data name="Ads_GoPro" xml:space="preserve">
-    <value>Go Pro and Boost Your Productivity</value>
-    <comment>Go Pro and Boost Your Productivity</comment>
+    <value>Přejděte na Pro a zvyšte svou produktivitu</value>
+  <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
-    <value>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</value>
-    <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
+    <value>Získejte Mailbird Pro s dalšími skvělými funkcemi, které zvyšují Vaši produktivitu, včetně Odložených zpráv, Rychlý náhled, Neomezené účty a mnoho dalšího.</value>
+  <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
   </data>
   <data name="Ads_Invite" xml:space="preserve">
-    <value>Invite Friends</value>
-    <comment>Invite Friends</comment>
+    <value>Pozvat přátele</value>
+  <comment>Invite Friends</comment>
   </data>
   <data name="Ads_Refer" xml:space="preserve">
-    <value>Enjoy Mailbird Pro without needing to pay</value>
-    <comment>Enjoy Mailbird Pro without needing to pay</comment>
+    <value>Vychutnejte si Mailbird Pro bez nutnosti platit</value>
+  <comment>Enjoy Mailbird Pro without needing to pay</comment>
   </data>
   <data name="Ads_ReferExplanation" xml:space="preserve">
-    <value>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</value>
-    <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
+    <value>Pozvěte přátele a za každého, který se připojí, získáte 1 měsíc zdarma Mailbird Pro. Bez omezení.</value>
+  <comment>Invite friends and for every friend that joins in, you get 1 month of Free Mailbird Pro. No limits.</comment>
   </data>
   <data name="Trial_Feature2Singular" xml:space="preserve">
     <value>Více než 1 účet</value>
   <comment>More than 1 account</comment>
   </data>
   <data name="Print_Loading" xml:space="preserve">
-    <value>Preparing content and loading images...</value>
-    <comment>Preparing content and loading images...</comment>
+    <value>Příprava obsahu a načítání obrázků ..</value>
+  <comment>Preparing content and loading images...</comment>
   </data>
   <data name="Print_NotLoaded" xml:space="preserve">
-    <value>[Content not loaded]</value>
-    <comment>[Content not loaded]</comment>
+    <value>[Obsah není načten]</value>
+  <comment>[Content not loaded]</comment>
   </data>
   <data name="License_NonPurchaseValidUntil" xml:space="preserve">
-    <value>Your license is valid until {0}.</value>
-    <comment>Your license is valid until {0}.</comment>
+    <value>Vaše licence je platná do {0}.</value>
+  <comment>Your license is valid until {0}.</comment>
   </data>
   <data name="Options_SubscriptionStatus" xml:space="preserve">
-    <value>View subscription details</value>
-    <comment>View subscription details</comment>
+    <value>Zobrazit podrobnosti o předplatném</value>
+  <comment>View subscription details</comment>
   </data>
   <data name="Options_AutoCollapseBlockquote" xml:space="preserve">
-    <value>Collapse message by default when replying</value>
-    <comment>Collapse message by default when replying</comment>
+    <value>Ve výchozím nastavení sbalit zprávu při odpovědi</value>
+  <comment>Collapse message by default when replying</comment>
   </data>
   <data name="Invite_NoInvitee" xml:space="preserve">
-    <value>You haven't invited any contacts</value>
-    <comment>You haven't invited any contacts</comment>
+    <value>Nezadali jste žádné kontakty</value>
+  <comment>You haven't invited any contacts</comment>
   </data>
   <data name="Error_DownloadingMessagePop3" xml:space="preserve">
     <value>The message source could not be downloaded. Likely the message no longer exists in the inbox on the server.</value>
@@ -5002,8 +5002,8 @@ Are you sure you want to close the window?</comment>
     <comment>Set Mailbird as the default email client</comment>
   </data>
 <data name="Menu_Settings" xml:space="preserve">
-    <value>Settings</value>
-    <comment>Settings</comment>
+    <value>Nastavení</value>
+  <comment>Settings</comment>
   </data>
   <data name="NotificationCenter_Notifications" xml:space="preserve">
     <value>Notifications</value>
