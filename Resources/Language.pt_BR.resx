@@ -6500,4 +6500,28 @@ So we'd like to ask your permission to send you the occational email with purely
     <value>Scaling</value>
     <comment>Section in settings window to adjust scaling of the UI</comment>
   </data>
+  <data name="Folder_SearchResult" xml:space="preserve">
+    <value>Search result</value>
+    <comment>Title text when search result is selected</comment>
+  </data>
+  <data name="SyncStatus_Error" xml:space="preserve">
+    <value>Sync error!</value>
+    <comment>When there is sync error</comment>
+  </data>
+  <data name="SyncStatus_Offline" xml:space="preserve">
+    <value>Offline</value>
+    <comment>When there is no internet connection</comment>
+  </data>
+  <data name="SyncStatus_Synced" xml:space="preserve">
+    <value>Synced!</value>
+    <comment>When syncing is completed</comment>
+  </data>
+  <data name="SyncStatus_Syncing" xml:space="preserve">
+    <value>Syncing...</value>
+    <comment>When Mailbird is syncing</comment>
+  </data>
+  <data name="Notification_ShowError" xml:space="preserve">
+    <value>Show error</value>
+    <comment>Tooltip for button to show error details</comment>
+  </data>
 </root>
