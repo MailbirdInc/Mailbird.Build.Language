@@ -724,8 +724,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright 2016 Mailbird. Toate Drepturile Rezervate.</value>
-    <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
+    <value>Copyright {0} Mailbird™. All Rights Reserved.</value>
+  <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
     <value>Versiune</value>
@@ -5796,8 +5796,8 @@ with Mailbird Pro?</comment>
     <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
-    <value>Reîmprospătare și sincronizare</value>
-    <comment>Refresh and sync</comment>
+    <value>Refresh</value>
+  <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
     <value>Up to date</value>
@@ -6462,30 +6462,14 @@ Contactați serviciul de asistență pentru informații despre cum să remediaț
     <value>Reset</value>
     <comment>Button to reset the color indicator of an account</comment>
   </data>
-  <data name="License_EndingSoonContent" xml:space="preserve">
-    <value>Abonamentul dvs. Pro este pe terminate. În cazul în care nu doriți să prelungițiți abonamentul, asigurați-vă că v-ați sincronizat Agenda cu  persoanele de contact. Utilizatorii Lite nu au acces la niciuna dintre aplicațiile ce se regăsesc în secțiunea de aplicații, aici incluzând și Managerul de Contacte.</value>
-  <comment>Your pro subscription time is almost up. In case you don't want to continue your subscription, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
-  </data>
-  <data name="License_EndingSoonTitle" xml:space="preserve">
-    <value>În curând, abonamentul dvs. Pro se va încheia</value>
-  <comment>Your pro subscription is ending soon</comment>
-  </data>
-  <data name="Trial_EndingSoonContent" xml:space="preserve">
-    <value>Perioada dvs. de încercare este aproape încheiată. În cazul în care nu doriți să treceți la versiunea Pro, asigurați-vă că v-ați sincronizat Agenda cu  persoanele de contact. Utilizatorii Lite nu au acces la niciuna dintre aplicațiile ce se regăsesc în secțiunea de aplicații, aici incluzând și Managerul de Contacte.</value>
-  <comment>Your trial time is almost up. In case you don't want to go Pro, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
-  </data>
-  <data name="Trial_EndingSoonTitle" xml:space="preserve">
-    <value>Perioada dvs. de încercare se termină în curând</value>
-  <comment>Your trial is ending soon</comment>
-  </data>
   <data name="FolderIdentity_Folders" xml:space="preserve">
     <value>Dosare</value>
   <comment>Tooltip for button to open the folder list in left menu</comment>
   </data>
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
-    <value>Apreciem confidențialitatea și am dori să ținem legătura în continuare.
+    <value>We value your privacy and would like to stay in touch.
 
-Astfel, am dori să vă cerem permisiunea de a vă trimite ocazional emailuri legate strict de Mailbird din categoria sfaturilor de utilizare, despre promoții speciale și detalii privind noi caracteristici interesante Mailbird.</value>
+So we'd like to ask your permission to send you the occasional email with purely Mailbird related things like usability tips, special promotions and details on new exciting Mailbird features.</value>
   <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
@@ -6505,15 +6489,15 @@ Astfel, am dori să vă cerem permisiunea de a vă trimite ocazional emailuri le
   <comment>Title text when search result is selected</comment>
   </data>
   <data name="SyncStatus_Error" xml:space="preserve">
-    <value>Eroare de sincronizare!</value>
+    <value>ERROR</value>
   <comment>When there is sync error</comment>
   </data>
   <data name="SyncStatus_Offline" xml:space="preserve">
-    <value>Offline</value>
-    <comment>When there is no internet connection</comment>
+    <value>OFFLINE</value>
+  <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
-    <value>Sincronizat!</value>
+    <value>Synced</value>
   <comment>When syncing is completed</comment>
   </data>
   <data name="SyncStatus_Syncing" xml:space="preserve">
@@ -6523,5 +6507,13 @@ Astfel, am dori să vă cerem permisiunea de a vă trimite ocazional emailuri le
   <data name="Notification_ShowError" xml:space="preserve">
     <value>Afișare eroare</value>
   <comment>Tooltip for button to show error details</comment>
+  </data>
+  <data name="SyncStatus_SearchComplete" xml:space="preserve">
+    <value>Done</value>
+    <comment>When search is completed</comment>
+  </data>
+  <data name="SyncStatus_Searching" xml:space="preserve">
+    <value>Searching...</value>
+    <comment>When Mailbird is searching</comment>
   </data>
 </root>

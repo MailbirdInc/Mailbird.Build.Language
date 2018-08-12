@@ -724,8 +724,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Telif Hakkı {0} Mailbird. Tüm hakları saklıdır.</value>
-    <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
+    <value>Copyright {0} Mailbird™. All Rights Reserved.</value>
+  <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
     <value>Sürüm</value>
@@ -5794,8 +5794,8 @@ with Mailbird Pro?</comment>
     <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
-    <value>Yenile ve eşitle</value>
-    <comment>Refresh and sync</comment>
+    <value>Refresh</value>
+  <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
     <value>Güncel</value>
@@ -6460,30 +6460,14 @@ Bunu nasıl çözeceğiniz konusunda bilgi almak için lütfen destekle iletişi
     <value>Reset</value>
     <comment>Button to reset the color indicator of an account</comment>
   </data>
-  <data name="License_EndingSoonContent" xml:space="preserve">
-    <value>Pro aboneliğinizin süresi neredeyse doldu. Aboneliğinizi sürdürmek istemiyorsanız, lütfen Kişilerinizi eşitlediğinizden emin olun. Lite kullanıcılarının, Kişiler Yöneticisi dahil olmak üzere uygulama bölümündeki uygulamalardan herhangi birine erişimi yoktur.</value>
-  <comment>Your pro subscription time is almost up. In case you don't want to continue your subscription, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
-  </data>
-  <data name="License_EndingSoonTitle" xml:space="preserve">
-    <value>Pro aboneliğiniz yakında sona eriyor</value>
-  <comment>Your pro subscription is ending soon</comment>
-  </data>
-  <data name="Trial_EndingSoonContent" xml:space="preserve">
-    <value>Deneme süreniz neredeyse doldu. Pro'ya gitmek istemiyorsanız, lütfen Kişilerinizi eşitlediğinizden emin olun. Lite kullanıcılarının, Kişiler Yöneticisi dahil olmak üzere uygulama bölümündeki uygulamalardan herhangi birine erişimi yoktur.</value>
-  <comment>Your trial time is almost up. In case you don't want to go Pro, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
-  </data>
-  <data name="Trial_EndingSoonTitle" xml:space="preserve">
-    <value>Deneme süreniz yakında sona eriyor</value>
-  <comment>Your trial is ending soon</comment>
-  </data>
   <data name="FolderIdentity_Folders" xml:space="preserve">
     <value>Klasörler</value>
   <comment>Tooltip for button to open the folder list in left menu</comment>
   </data>
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
-    <value>Gizliliğinize değer veriyor ve iletişimde kalmak istiyoruz.
+    <value>We value your privacy and would like to stay in touch.
 
-Bu nedenle, size yeni e-posta gönderebilme özellikleri, özel promosyonlar ve yeni heyecan verici Mailbird özellikleri hakkında tamamen Mailbird ile ilgili şeyleri içeren e-postaları göndermek için izninizi istiyoruz.</value>
+So we'd like to ask your permission to send you the occasional email with purely Mailbird related things like usability tips, special promotions and details on new exciting Mailbird features.</value>
   <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
@@ -6503,15 +6487,15 @@ Bu nedenle, size yeni e-posta gönderebilme özellikleri, özel promosyonlar ve 
   <comment>Title text when search result is selected</comment>
   </data>
   <data name="SyncStatus_Error" xml:space="preserve">
-    <value>Eşitleme Hatası!</value>
+    <value>ERROR</value>
   <comment>When there is sync error</comment>
   </data>
   <data name="SyncStatus_Offline" xml:space="preserve">
-    <value>Offline</value>
-    <comment>When there is no internet connection</comment>
+    <value>OFFLINE</value>
+  <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
-    <value>Eşitlendi!</value>
+    <value>Synced</value>
   <comment>When syncing is completed</comment>
   </data>
   <data name="SyncStatus_Syncing" xml:space="preserve">
@@ -6521,5 +6505,13 @@ Bu nedenle, size yeni e-posta gönderebilme özellikleri, özel promosyonlar ve 
   <data name="Notification_ShowError" xml:space="preserve">
     <value>Hatayı göster</value>
   <comment>Tooltip for button to show error details</comment>
+  </data>
+  <data name="SyncStatus_SearchComplete" xml:space="preserve">
+    <value>Done</value>
+    <comment>When search is completed</comment>
+  </data>
+  <data name="SyncStatus_Searching" xml:space="preserve">
+    <value>Searching...</value>
+    <comment>When Mailbird is searching</comment>
   </data>
 </root>

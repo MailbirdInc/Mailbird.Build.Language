@@ -724,7 +724,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Авторское право {0} Mailbird. Все права защищены.</value>
+    <value>Copyright {0} Mailbird™. All Rights Reserved.</value>
   <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -5795,7 +5795,7 @@ with Mailbird Pro?</comment>
   <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
-    <value>Обновить и синхронизировать</value>
+    <value>Refresh</value>
   <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
@@ -6461,30 +6461,14 @@ with Mailbird Pro?</comment>
     <value>Reset</value>
     <comment>Button to reset the color indicator of an account</comment>
   </data>
-  <data name="License_EndingSoonContent" xml:space="preserve">
-    <value>Ваша подписка Pro истекла. Если Вы не хотите продлевать подписку, пожалуйста, убедитесь, что вы синхронизировали свои контакты. Пользователи Lite версии не имеют доступа ни к одному из приложений в разделе приложения, включая менеджер контактов.</value>
-  <comment>Your pro subscription time is almost up. In case you don't want to continue your subscription, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
-  </data>
-  <data name="License_EndingSoonTitle" xml:space="preserve">
-    <value>Ваша Pro подписка скоро закончится</value>
-  <comment>Your pro subscription is ending soon</comment>
-  </data>
-  <data name="Trial_EndingSoonContent" xml:space="preserve">
-    <value>Ваше пробное время почти закончилось. Если вы не хотите переходить на Pro версию, убедитесь, что вы синхронизировали свои контакты. Пользователи Lite версии не имеют доступа ни к одному из приложений в разделе приложения, включая диспетчер контактов.</value>
-  <comment>Your trial time is almost up. In case you don't want to go Pro, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
-  </data>
-  <data name="Trial_EndingSoonTitle" xml:space="preserve">
-    <value>Ваша пробная версия почти закончилась</value>
-  <comment>Your trial is ending soon</comment>
-  </data>
   <data name="FolderIdentity_Folders" xml:space="preserve">
     <value>Папки</value>
   <comment>Tooltip for button to open the folder list in left menu</comment>
   </data>
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
-    <value>Мы ценим вашу конфиденциальность и хотели бы оставаться на связи.
+    <value>We value your privacy and would like to stay in touch.
 
-Поэтому мы хотели бы попросить вашего разрешения направить вам письма исключительно связанными с Mailbird, такими как советы по удобству использования, специальные акции и подробности о новых интересных функциях Mailbird.</value>
+So we'd like to ask your permission to send you the occasional email with purely Mailbird related things like usability tips, special promotions and details on new exciting Mailbird features.</value>
   <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
@@ -6504,15 +6488,15 @@ with Mailbird Pro?</comment>
   <comment>Title text when search result is selected</comment>
   </data>
   <data name="SyncStatus_Error" xml:space="preserve">
-    <value>Ошибка синхронизации!</value>
+    <value>ERROR</value>
   <comment>When there is sync error</comment>
   </data>
   <data name="SyncStatus_Offline" xml:space="preserve">
-    <value>Offline</value>
-    <comment>When there is no internet connection</comment>
+    <value>OFFLINE</value>
+  <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
-    <value>Синхронизировано!</value>
+    <value>Synced</value>
   <comment>When syncing is completed</comment>
   </data>
   <data name="SyncStatus_Syncing" xml:space="preserve">
@@ -6522,5 +6506,13 @@ with Mailbird Pro?</comment>
   <data name="Notification_ShowError" xml:space="preserve">
     <value>Показать ошибку</value>
   <comment>Tooltip for button to show error details</comment>
+  </data>
+  <data name="SyncStatus_SearchComplete" xml:space="preserve">
+    <value>Done</value>
+    <comment>When search is completed</comment>
+  </data>
+  <data name="SyncStatus_Searching" xml:space="preserve">
+    <value>Searching...</value>
+    <comment>When Mailbird is searching</comment>
   </data>
 </root>

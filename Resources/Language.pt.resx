@@ -724,8 +724,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright {0} Mailbird. Todos os direitos reservados.</value>
-    <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
+    <value>Copyright {0} Mailbird™. All Rights Reserved.</value>
+  <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
     <value>Versão</value>
@@ -5791,8 +5791,8 @@ with Mailbird Pro?</comment>
     <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
-    <value>Actualizar e sincronizar</value>
-    <comment>Refresh and sync</comment>
+    <value>Refresh</value>
+  <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
     <value>Actualizado</value>
@@ -6456,30 +6456,14 @@ Entre em contacto com a assistência para obter informações sobre como resolve
     <value>Reset</value>
     <comment>Button to reset the color indicator of an account</comment>
   </data>
-  <data name="License_EndingSoonContent" xml:space="preserve">
-    <value>A validade da assinatura pro está quase a terminar. Caso não queira continuar a sua assinatura, por favor, certifique-se de sincronizar os seus contactos. Os utilizadores da versão Lite não têm acesso a nenhuma das aplicações da secção aplicação, incluindo o Gestor de Contactos.</value>
-  <comment>Your pro subscription time is almost up. In case you don't want to continue your subscription, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
-  </data>
-  <data name="License_EndingSoonTitle" xml:space="preserve">
-    <value>A sua assinatura pro está quase a terminar</value>
-  <comment>Your pro subscription is ending soon</comment>
-  </data>
-  <data name="Trial_EndingSoonContent" xml:space="preserve">
-    <value>O período de avaliação está quase a terminar. Caso não queira a versão pro, por favor, certifique-se de que sincroniza os seus contactos. Os utilizadores da versão Lite não têm acesso a nenhuma das aplicações na secção aplicação, incluindo o Gestor de Contactos.</value>
-  <comment>Your trial time is almost up. In case you don't want to go Pro, please make sure you sync your Contacts. Lite users do not have access to any of the apps in the app section including the Contacts Manager.</comment>
-  </data>
-  <data name="Trial_EndingSoonTitle" xml:space="preserve">
-    <value>O período de avaliação está quase a terminar</value>
-  <comment>Your trial is ending soon</comment>
-  </data>
   <data name="FolderIdentity_Folders" xml:space="preserve">
     <value>Pastas</value>
   <comment>Tooltip for button to open the folder list in left menu</comment>
   </data>
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
-    <value>Valorizamos a sua privacidade e gostaríamos de manter o seu contacto.
+    <value>We value your privacy and would like to stay in touch.
 
-Por isso, gostaríamos de pedir a sua permissão para enviar e-mails ocasionais com assuntos relacionadas com o Mailbird, como dicas de utilização, promoções especiais e detalhes sobre os novos e excitantes recursos do Mailbird.</value>
+So we'd like to ask your permission to send you the occasional email with purely Mailbird related things like usability tips, special promotions and details on new exciting Mailbird features.</value>
   <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
@@ -6499,15 +6483,15 @@ Por isso, gostaríamos de pedir a sua permissão para enviar e-mails ocasionais 
   <comment>Title text when search result is selected</comment>
   </data>
   <data name="SyncStatus_Error" xml:space="preserve">
-    <value>Erro de sincronização!</value>
+    <value>ERROR</value>
   <comment>When there is sync error</comment>
   </data>
   <data name="SyncStatus_Offline" xml:space="preserve">
-    <value>Offline</value>
-    <comment>When there is no internet connection</comment>
+    <value>OFFLINE</value>
+  <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
-    <value>Sincronizado!</value>
+    <value>Synced</value>
   <comment>When syncing is completed</comment>
   </data>
   <data name="SyncStatus_Syncing" xml:space="preserve">
@@ -6517,5 +6501,13 @@ Por isso, gostaríamos de pedir a sua permissão para enviar e-mails ocasionais 
   <data name="Notification_ShowError" xml:space="preserve">
     <value>Mostrar erro</value>
   <comment>Tooltip for button to show error details</comment>
+  </data>
+  <data name="SyncStatus_SearchComplete" xml:space="preserve">
+    <value>Done</value>
+    <comment>When search is completed</comment>
+  </data>
+  <data name="SyncStatus_Searching" xml:space="preserve">
+    <value>Searching...</value>
+    <comment>When Mailbird is searching</comment>
   </data>
 </root>
