@@ -126,7 +126,7 @@
     <comment>Quick preview</comment>
   </data>
   <data name="Attachment_Remove" xml:space="preserve">
-    <value>Smazat</value>
+    <value>Odstranit</value>
   <comment>Remove</comment>
   </data>
   <data name="Attachment_Save" xml:space="preserve">
@@ -254,8 +254,8 @@
   <comment>Mark as not spam</comment>
   </data>
   <data name="Conversation_MarkNotStarred" xml:space="preserve">
-    <value>Označit jako neoblíbené</value>
-    <comment>Mark as not starred</comment>
+    <value>Zrušit označení Oblíbené</value>
+  <comment>Mark as not starred</comment>
   </data>
   <data name="Conversation_MarkRead" xml:space="preserve">
     <value>Označit jako přečteno</value>
@@ -266,8 +266,8 @@
   <comment>Mark as spam</comment>
   </data>
   <data name="Conversation_MarkStarred" xml:space="preserve">
-    <value>Označit jako oblíbené</value>
-    <comment>Mark as starred</comment>
+    <value>Označit jako Oblíbené</value>
+  <comment>Mark as starred</comment>
   </data>
   <data name="Conversation_MoveTo" xml:space="preserve">
     <value>Přesunout do ..</value>
@@ -452,7 +452,7 @@ Do you want to reconnect your Facebook?</comment>
   <comment>Remove local account?</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
-    <value>Opravdu chcete smazat účet a všechny propojené identity?
+    <value>Opravdu chcete odstranit účet a všechny propojené identity?
 
 Toto může chvíli trvat a vyžaduje restart Mailbirdu.</value>
   <comment>Are you sure you want to remove the account and all connected identities?
@@ -460,11 +460,11 @@ Toto může chvíli trvat a vyžaduje restart Mailbirdu.</value>
 This will restart Mailbird and may take a few minutes.</comment>
   </data>
   <data name="Dialog_RemoveIdentity" xml:space="preserve">
-    <value>Smazat identitu?</value>
+    <value>Odstranit identitu?</value>
   <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Opravdu chcete smazat identitu pro '{0}'?
+    <value>Opravdu chcete odstranit identitu pro '{0}'?
 Tato akce je nevratná.</value>
   <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
@@ -828,7 +828,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
-    <value>Nelze poslat prázdnou pozvánku</value>
+    <value>Nelze odeslat prázdnou pozvánku</value>
   <comment>You cannot send an empty invitation</comment>
   </data>
   <data name="AccountValidationRule_EmptyPassword" xml:space="preserve">
@@ -1220,7 +1220,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit</comment>
   </data>
   <data name="Link_Email" xml:space="preserve">
-    <value>Poslat email pro:</value>
+    <value>Odeslat email pro:</value>
   <comment>Send email to:</comment>
   </data>
   <data name="Link_Go" xml:space="preserve">
@@ -1228,7 +1228,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Go to link:</comment>
   </data>
   <data name="Link_Remove" xml:space="preserve">
-    <value>Smazat</value>
+    <value>Odstranit</value>
   <comment>Remove</comment>
   </data>
   <data name="MapLabelWindow_Draft" xml:space="preserve">
@@ -1388,7 +1388,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send &amp; Archive</comment>
   </data>
   <data name="Message_SendEmailTo" xml:space="preserve">
-    <value>Poslat e-mail pro {0}</value>
+    <value>Odeslat e-mail pro {0}</value>
   <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
@@ -1648,8 +1648,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Click to create shortcut</comment>
   </data>
   <data name="Options_SendArchive" xml:space="preserve">
-    <value>Odeslat a archivovat</value>
-    <comment>Send &amp; Archive</comment>
+    <value>Odeslat a Archivovat</value>
+  <comment>Send &amp; Archive</comment>
   </data>
   <data name="Options_SetDefault" xml:space="preserve">
     <value>Nastavit jako výchozí</value>
@@ -1672,7 +1672,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Disable DirectWrite</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Zobrazit tlačítko Odeslat a archivovat</value>
+    <value>Zobrazit tlačítko Odeslat a Archivovat</value>
   <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
@@ -1840,7 +1840,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
   </data>
   <data name="Shortcut_Delete" xml:space="preserve">
-    <value>Odstranit</value>
+    <value>Smazat</value>
   <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
@@ -1852,7 +1852,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Vymazat vybraný Koncept nebo přesunout konverzace do Koše.</value>
+    <value>Smazat vybraný Koncept nebo přesunout konverzace do Koše.</value>
   <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
@@ -2955,8 +2955,8 @@ Please exit out of this window to check the credentials and try again.</comment>
   <comment>Add</comment>
   </data>
   <data name="App_Contacts_Delete" xml:space="preserve">
-    <value>Delete</value>
-    <comment>Delete</comment>
+    <value>Smazat</value>
+  <comment>Delete</comment>
   </data>
   <data name="Dialog_DeleteContact_Singular" xml:space="preserve">
     <value>Smazat kontakt?</value>
@@ -3322,8 +3322,8 @@ Here are a couple of links to help produce vCard files from various services:</c
   <comment>People</comment>
   </data>
   <data name="App_Contacts_FieldAddNickname" xml:space="preserve">
-    <value>nickname</value>
-    <comment>Add nickname</comment>
+    <value>přezdívka</value>
+  <comment>Add nickname</comment>
   </data>
   <data name="App_Contacts_FieldRemoveNickname" xml:space="preserve">
     <value>Odstranit přezdívku</value>
@@ -3756,11 +3756,11 @@ Note that enabling this will in most cases result in worse interface performance
   <comment>Invitees</comment>
   </data>
   <data name="Invite_SendReminder" xml:space="preserve">
-    <value>Poslat připomenutí</value>
+    <value>Odeslat připomenutí</value>
   <comment>Send reminder</comment>
   </data>
   <data name="Invite_SendReminderAll" xml:space="preserve">
-    <value>Poslat připomenutí všem</value>
+    <value>Odeslat připomenutí všem</value>
   <comment>Send reminders to all</comment>
   </data>
   <data name="Invite_Status" xml:space="preserve">
@@ -4116,7 +4116,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
   <comment>Loading your top contacts..</comment>
   </data>
   <data name="Welcome_InviteSend" xml:space="preserve">
-    <value>Odeslat pozvánky</value>
+    <value>Poslat pozvánky</value>
   <comment>Send Invites</comment>
   </data>
   <data name="App_DefaultFatalError" xml:space="preserve">
@@ -4565,7 +4565,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
   <comment>None</comment>
   </data>
   <data name="Invite_SendAllExplanation" xml:space="preserve">
-    <value>Opravdu chcete poslat pozvánku všem vašim kontaktům?</value>
+    <value>Opravdu chcete odeslat pozvánku všem vašim kontaktům?</value>
   <comment>Are you sure you want to send invitation to all of your contacts?</comment>
   </data>
   <data name="Invite_SendAllTitle" xml:space="preserve">
@@ -4955,7 +4955,7 @@ doživotně ZDARMA</value>
   <comment>Bookmark</comment>
   </data>
   <data name="App_Chrome_BookmarkLimit" xml:space="preserve">
-    <value>Můžete přidat záložku do {0} webových stránek. Zrušte stávající záložky a zkuste to znovu.</value>
+    <value>Můžete přidat záložku do {0} webových stránek. Odeberte stávající záložky a zkuste to znovu.</value>
   <comment>You can bookmark up to {0} websites. Please remove existing bookmarks and try again.</comment>
   </data>
   <data name="App_Chrome_BookmarkLimit_Title" xml:space="preserve">
@@ -5021,104 +5021,104 @@ Read more:
 https://support.getmailbird.com/hc/en-us/articles/220108287</comment>
   </data>
   <data name="Dialog_SubjectChanged" xml:space="preserve">
-    <value>You changed the subject.
+    <value>Změnil jste předmět.
 
-Would you like to group this message into a new conversation?</value>
-    <comment>You changed the subject.
+Chcete tuto zprávu seskupit do nové konverzace?</value>
+  <comment>You changed the subject.
 
 Would you like to group this message into a new conversation?</comment>
   </data>
   <data name="Dialog_SubjectChanged_Title" xml:space="preserve">
-    <value>Create a new conversation?</value>
-    <comment>Create a new conversation?</comment>
+    <value>Vytvořit novou konverzaci?</value>
+  <comment>Create a new conversation?</comment>
   </data>
   <data name="InviteV2_ShareSocial" xml:space="preserve">
-    <value>Share on social and get more invites</value>
-    <comment>Share on social and get more invites</comment>
+    <value>Sdílejte na sociálních sítích a získejte více pozvánek</value>
+  <comment>Share on social and get more invites</comment>
   </data>
   <data name="ShareReferralLink_Link" xml:space="preserve">
-    <value>link</value>
-    <comment>link</comment>
+    <value>odkaz</value>
+  <comment>link</comment>
   </data>
   <data name="ShareReferralLink_Share" xml:space="preserve">
-    <value>Share</value>
-    <comment>Share</comment>
+    <value>Sdílet</value>
+  <comment>Share</comment>
   </data>
   <data name="ShareReferralLink_Title" xml:space="preserve">
-    <value>Share Mailbird directly on Facebook or Twitter</value>
-    <comment>Share Mailbird directly on Facebook or Twitter</comment>
+    <value>Sdílejte Mailbird přímo na Facebook, nebo na Twitter</value>
+  <comment>Share Mailbird directly on Facebook or Twitter</comment>
   </data>
   <data name="ShareReferralLink_Tweet" xml:space="preserve">
-    <value>Tweet</value>
-    <comment>Tweet</comment>
+    <value>Tweetni</value>
+  <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>Get 1 month of @mailbird Pro for free, download here: {0}</value>
-    <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
+    <value>Získejte zdarma 1 měsíc @mailbird Pro, stahujte zde: {0}</value>
+  <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
-    <value>Add coupon</value>
-    <comment>Add coupon</comment>
+    <value>Přidat kupón</value>
+  <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Coupon code...</value>
-    <comment>Coupon code...</comment>
+    <value>Kód kupónu ..</value>
+  <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Enter the coupon code below or skip this step.</value>
-    <comment>Enter the coupon code below or skip this step.</comment>
+    <value>Zadejte níže uvedený kód kupónu nebo přeskočte tento krok.</value>
+  <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Have a referral coupon code?</value>
-    <comment>Have a referral coupon code?</comment>
+    <value>Máte odkaz kódu kupónu?</value>
+  <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>You've already used this coupon code.</value>
-    <comment>You've already used this coupon code.</comment>
+    <value>Tento kód kupónu jste již použili.</value>
+  <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>Coupon is not valid.</value>
-    <comment>Coupon is not valid.</comment>
+    <value>Kupón není platný.</value>
+  <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Coupon code can only be used by new users.</value>
-    <comment>Coupon code can only be used by new users.</comment>
+    <value>Kód kupónu mohou používat pouze noví uživatelé.</value>
+  <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
-    <value>You can't use your own code.</value>
-    <comment>You can't use your own code.</comment>
+    <value>Nemůžete používat vlastní kód.</value>
+  <comment>You can't use your own code.</comment>
   </data>
   <data name="Welcome_Coupon_SameComputer" xml:space="preserve">
-    <value>You can't use this code because it was generated from the same PC.</value>
-    <comment>You can't use this code because it was generated from the same PC.</comment>
+    <value>Tento kód nelze použít, protože byl generován ze stejného počítače.</value>
+  <comment>You can't use this code because it was generated from the same PC.</comment>
   </data>
   <data name="Welcome_Subscribe" xml:space="preserve">
-    <value>Notify me of awesome updates</value>
-    <comment>Keep me updated</comment>
+    <value>Informujte mě o aktualizacích</value>
+  <comment>Keep me updated</comment>
   </data>
 <data name="DripSurvey_ChooseAnswer" xml:space="preserve">
-    <value>Choose your answer</value>
-    <comment>Choose your answer
+    <value>Vyberte svou odpověď</value>
+  <comment>Choose your answer
 NB: Watermark text when user hasn't choosen answer ye</comment>
   </data>
   <data name="DripSurvey_Header" xml:space="preserve">
-    <value>Help us improve</value>
-    <comment>Help us improve
+    <value>Pomozte nám vylepšit</value>
+  <comment>Help us improve
 NB: Header for survey dialog within app</comment>
   </data>
   <data name="DripSurvey_LearnMore" xml:space="preserve">
-    <value>Why am I seeing this?</value>
-    <comment>Why am I seeing this?
+    <value>Proč se mi to zobrazuje?</value>
+  <comment>Why am I seeing this?
 NB: Text for button that will take user to browser containing more explanation</comment>
   </data>
   <data name="DripSurvey_Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>Skip
+    <value>Odeslat</value>
+  <comment>Skip
 NB: Text for button to send the survey</comment>
   </data>
   <data name="DripSurvey_Skip" xml:space="preserve">
-    <value>Skip</value>
-    <comment>Skip
+    <value>Přeskočit</value>
+  <comment>Skip
 NB: Text for button to skip the survey</comment>
   </data>
 <data name="App_Contacts_FieldType_Home" xml:space="preserve">
@@ -5240,7 +5240,7 @@ Chcete-li přidat kontakt, klikněte na tlačítko "Přidat kontakt".</value>
   <comment>Edit</comment>
   </data>
   <data name="App_Contacts_DeleteGroup" xml:space="preserve">
-    <value>Odstranit skupinu</value>
+    <value>Smazat skupinu</value>
   <comment>Delete group</comment>
   </data>
   <data name="App_Contacts_EditGroup_New" xml:space="preserve">
@@ -5452,254 +5452,254 @@ Chcete-li přidat kontakt, klikněte na tlačítko "Přidat kontakt".</value>
   <comment>Compose email</comment>
   </data>
   <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
-    <value>Zrušit označení hvězda</value>
+    <value>Zrušit označení Oblíbené</value>
   <comment>Mark as not starred</comment>
   </data>
   <data name="App_Contacts_ContextMenuStarred" xml:space="preserve">
-    <value>Označit jako hvězda</value>
+    <value>Označit jako Oblíbené</value>
   <comment>Mark as starred</comment>
   </data>
   <data name="App_Contacts_AddContact_Create" xml:space="preserve">
-    <value>Create</value>
-    <comment>Create</comment>
+    <value>Vytvořit</value>
+  <comment>Create</comment>
   </data>
   <data name="App_Contacts_AddContact_NewContact" xml:space="preserve">
-    <value>New contact</value>
-    <comment>New contact</comment>
+    <value>Nový kontakt</value>
+  <comment>New contact</comment>
   </data>
   <data name="App_Contacts_NoContactsFound" xml:space="preserve">
-    <value>No contacts found.</value>
-    <comment>No contacts found.</comment>
+    <value>Nebyly nalezeny žádné kontakty.</value>
+  <comment>No contacts found.</comment>
   </data>
   <data name="App_Contacts_NoGroupsFound" xml:space="preserve">
-    <value>No groups found.</value>
-    <comment>No groups found.</comment>
+    <value>Nebyly nalezeny žádné skupiny.</value>
+  <comment>No groups found.</comment>
   </data>
   <data name="App_Contacts_Intro_1" xml:space="preserve">
-    <value>All your contacts together in one place.</value>
-    <comment>All your contacts together in one place.</comment>
+    <value>Všechny vaše kontakty na jednom místě.</value>
+  <comment>All your contacts together in one place.</comment>
   </data>
   <data name="App_Contacts_Intro_2" xml:space="preserve">
-    <value>You can now have your Google contacts synced in Mailbird, with more providers to come.</value>
-    <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
+    <value>Nyní můžete své kontakty Google synchronizovat v aplikaci Mailbird. Další poskytovatelé již brzy.</value>
+  <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
-    <value>You can link contacts together to show their details in one place with just a click.</value>
-    <comment>You can link contacts together to show their details in one place with just a click.</comment>
+    <value>Můžete propojit kontakty dohromady a zobrazit jejich detaily na jednom místě s jediným kliknutím.</value>
+  <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
-    <value>Connect with your Google accounts now to sync them with Mailbird.</value>
-    <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
+    <value>Připojte se ke svým účtům Google a synchronizujte je se službou Mailbird.</value>
+  <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
   </data>
   <data name="App_Contacts_Intro_Welcome" xml:space="preserve">
-    <value>Meet the Contacts</value>
-    <comment>Meet the Contacts</comment>
+    <value>Seznamte se s kontakty</value>
+  <comment>Meet the Contacts</comment>
   </data>
   <data name="App_Contacts_FieldPhoto" xml:space="preserve">
-    <value>Photo</value>
-    <comment>Photo</comment>
+    <value>Fotka</value>
+  <comment>Photo</comment>
   </data>
   <data name="App_Contacts_SearchGroup" xml:space="preserve">
-    <value>Search group</value>
-    <comment>Search group</comment>
+    <value>Vyhledat skupinu</value>
+  <comment>Search group</comment>
   </data>
   <data name="App_Contacts_LinkContactExplanation" xml:space="preserve">
-    <value>Link with contacts from other accounts to show them as one in Mailbird</value>
-    <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
+    <value>Propojte kontakty s ostatními účty a zobrazte je v Mailbird</value>
+  <comment>Link with contacts from other accounts to show them as one in Mailbird</comment>
   </data>
   <data name="App_Contacts_NoLinkedContacts" xml:space="preserve">
-    <value>(No linked contacts)</value>
-    <comment>(No linked contacts)</comment>
+    <value>(Žádné propojené kontakty)</value>
+  <comment>(No linked contacts)</comment>
   </data>
   <data name="App_Contacts_Intro_ConnectAccounts" xml:space="preserve">
-    <value>Connect accounts</value>
-    <comment>Connect accounts</comment>
+    <value>Připojte účty</value>
+  <comment>Connect accounts</comment>
   </data>
   <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
-    <value>Merge contacts</value>
-    <comment>Merge contacts</comment>
+    <value>Sloučit kontakty</value>
+  <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
-    <value>Merge contact</value>
-    <comment>Merge contact</comment>
+    <value>Sloučit kontakt</value>
+  <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
-    <value>Create or add a contact</value>
-    <comment>Add contact</comment>
+    <value>Vytvořit nebo přidat kontakt</value>
+  <comment>Add contact</comment>
   </data>
   <data name="App_Contacts_CollapseGroups" xml:space="preserve">
-    <value>Collapse groups panel</value>
-    <comment>Collapse groups panel</comment>
+    <value>Sbalit panel skupin</value>
+  <comment>Collapse groups panel</comment>
   </data>
   <data name="App_Contacts_ExpandGroups" xml:space="preserve">
-    <value>Expand groups panel</value>
-    <comment>Expand groups panel</comment>
+    <value>Rozbalit panel skupin</value>
+  <comment>Expand groups panel</comment>
   </data>
   <data name="App_Contacts_Settings" xml:space="preserve">
-    <value>Settings</value>
-    <comment>Settings</comment>
+    <value>Nastavení</value>
+  <comment>Settings</comment>
   </data>
   <data name="App_Contacts_ValidationEmpty" xml:space="preserve">
-    <value>Field cannot be empty</value>
-    <comment>Field cannot be empty</comment>
+    <value>Pole nemůže být prázdné</value>
+  <comment>Field cannot be empty</comment>
   </data>
   <data name="App_Contacts_LinkContact_NoAccounts" xml:space="preserve">
-    <value>You haven't connected any accounts.</value>
-    <comment>You haven't connected any accounts.</comment>
+    <value>Nepřihlásili jste žádné účty.</value>
+  <comment>You haven't connected any accounts.</comment>
   </data>
   <data name="App_Contacts_RemoveGroup" xml:space="preserve">
-    <value>Remove group</value>
-    <comment>Remove group
+    <value>Odstranit skupinu</value>
+  <comment>Remove group
 NB: tooltip for remove group button</comment>
   </data>
   <data name="App_Contacts_ContextMenuDelete" xml:space="preserve">
-    <value>Delete</value>
-    <comment>Delete</comment>
+    <value>Smazat</value>
+  <comment>Delete</comment>
   </data>
   <data name="App_Contacts_RemoveField" xml:space="preserve">
-    <value>Remove</value>
-    <comment>Tooltip when removing contact field in contact manager</comment>
+    <value>Odstranit</value>
+  <comment>Tooltip when removing contact field in contact manager</comment>
   </data>
   <data name="App_Contacts_ShowAllFields" xml:space="preserve">
-    <value>Show all fields</value>
-    <comment>Show all fields
+    <value>Zobrazit všechna pole</value>
+  <comment>Show all fields
 NB: button to show extra fields when editing contact, since not all fields are shown since beginning</comment>
   </data>
   <data name="App_Contacts_ShowFewerFields" xml:space="preserve">
-    <value>Show fewer fields</value>
-    <comment>Show fewer fields
+    <value>Zobrazit méně polí</value>
+  <comment>Show fewer fields
 NB: button to hide extra fields when editing contact</comment>
   </data>
   <data name="App_Contacts_AddToGroup" xml:space="preserve">
-    <value>Add to a group</value>
-    <comment>Add to a group</comment>
+    <value>Přidat do skupiny</value>
+  <comment>Add to a group</comment>
   </data>
   <data name="App_Contacts_AddContact_InAccount" xml:space="preserve">
-    <value>In "{0}"</value>
-    <comment>In "{0}"
+    <value>V "{0}"</value>
+  <comment>In "{0}"
 NB: This will be used to tell user in which account the new contact will be saved. {0} will be replaced with an account name, e.g. [In "email@email.com"]</comment>
   </data>
   <data name="App_Contacts_MenuGroupView" xml:space="preserve">
-    <value>Show groups</value>
-    <comment>Show groups
+    <value>Zobrazit skupiny</value>
+  <comment>Show groups
 NB: menu to show/hide group panel</comment>
   </data>
   <data name="App_Contacts_ContextMenuCopyField" xml:space="preserve">
-    <value>Copy</value>
-    <comment>Copy
+    <value>Kopírovat</value>
+  <comment>Copy
 NB: Menu in context menu to do copy action</comment>
   </data>
   <data name="App_Contacts_OpenInBrowser" xml:space="preserve">
-    <value>Open in browser</value>
-    <comment>Menu in context menu to open current url in browser</comment>
+    <value>Otevřít v prohlížeči</value>
+  <comment>Menu in context menu to open current url in browser</comment>
   </data>
   <data name="App_Contacts_SearchInGoogleMaps" xml:space="preserve">
-    <value>Open in Google Maps</value>
-    <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
+    <value>Otevřít v Mapách Google</value>
+  <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
   </data>
   <data name="App_Contacts_FieldNamePrefix" xml:space="preserve">
-    <value>Title</value>
-    <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
+    <value>Titul</value>
+  <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
   </data>
   <data name="App_Contacts_FieldNameSuffix" xml:space="preserve">
-    <value>Suffix</value>
-    <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
+    <value>Přípona</value>
+  <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
   </data>
   <data name="SpeedRead_Speed" xml:space="preserve">
-    <value>{0} WPM</value>
-    <comment>{0} will be replaced with the speed, WPM stands for words per minute</comment>
+    <value>{0} slov pro min.</value>
+  <comment>{0} will be replaced with the speed, WPM stands for words per minute</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_LocalExplanation" xml:space="preserve">
-    <value>The Mailbird system account with contacts local to your computer.
+    <value>Systémový účet Mailbird s kontakty uložený lokálně v počítači.
 
-This cannot be removed.</value>
-    <comment>Explanation for the default local account in contact manager</comment>
+Nemůže být odstraněno.</value>
+  <comment>Explanation for the default local account in contact manager</comment>
   </data>
   <data name="App_Contacts_ContextMenuGoogleAccount" xml:space="preserve">
-    <value>Google account</value>
-    <comment>Menu to add Google account</comment>
+    <value>Účet Google</value>
+  <comment>Menu to add Google account</comment>
   </data>
   <data name="App_Contacts_ContextMenuOutlookAccount" xml:space="preserve">
-    <value>Outlook account</value>
-    <comment>Menu to add Outlook account</comment>
+    <value>Účet Outlook</value>
+  <comment>Menu to add Outlook account</comment>
   </data>
   <data name="Dialog_DisconnectAccount" xml:space="preserve">
-    <value>Disconnect account?</value>
-    <comment>Title for dialog window when user tries to disconnect account from Contacts Manager</comment>
+    <value>Odpojit účet?</value>
+  <comment>Title for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="Dialog_DisconnectAccountExplanation" xml:space="preserve">
-    <value>Are you sure you want to disconnect the account?
+    <value>Opravdu chcete účet odpojit?
 
-This will disable contact sync and remove the account's groups and contacts from Mailbird.</value>
-    <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
+Tím se zakáže synchronizace kontaktů a odstraní se skupiny a kontakty účtu z Mailbird.</value>
+  <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="App_Contacts_FieldAdd" xml:space="preserve">
-    <value>add {0}</value>
-    <comment>{0} will be replaced with field's name, e.g. "add title"</comment>
+    <value>přidat {0}</value>
+  <comment>{0} will be replaced with field's name, e.g. "add title"</comment>
   </data>
   <data name="App_Contacts_FieldAddMiddleName" xml:space="preserve">
-    <value>middle name</value>
-    <comment>Button to show middle name when editing contact</comment>
+    <value>prostřední jméno</value>
+  <comment>Button to show middle name when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddSuffix" xml:space="preserve">
-    <value>suffix</value>
-    <comment>Button to show suffix of person when editing contact</comment>
+    <value>za jménem</value>
+  <comment>Button to show suffix of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddTitle" xml:space="preserve">
-    <value>title</value>
-    <comment>Button to show title of person when editing contact</comment>
+    <value>titul</value>
+  <comment>Button to show title of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldOr" xml:space="preserve">
-    <value>{0} or {1}</value>
-    <comment>{0} and {1} will be replaced with field's name, e.g. "title or nickname"</comment>
+    <value>{0} nebo {1}</value>
+  <comment>{0} and {1} will be replaced with field's name, e.g. "title or nickname"</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Coworkers" xml:space="preserve">
-    <value>Coworkers</value>
-    <comment>Name of the coworkers system group with contacts</comment>
+    <value>Kolegové</value>
+  <comment>Name of the coworkers system group with contacts</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Family" xml:space="preserve">
-    <value>Family</value>
-    <comment>Name of the family system group in the Contacts app</comment>
+    <value>Rodina</value>
+  <comment>Name of the family system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Friends" xml:space="preserve">
-    <value>Friends</value>
-    <comment>Name of the friends system group in the Contacts app</comment>
+    <value>Přátelé</value>
+  <comment>Name of the friends system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Contacts" xml:space="preserve">
-    <value>Contacts</value>
-    <comment>Name of the contacts system group in the Contacts app</comment>
+    <value>Kontakty</value>
+  <comment>Name of the contacts system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Starred" xml:space="preserve">
-    <value>Označené hvězdou</value>
+    <value>Oblíbené</value>
   <comment>Name of the system group with starred contacts in the Contacts app</comment>
   </data>
   <data name="App_Contacts_ValidationDuplicatedGroup" xml:space="preserve">
-    <value>Name already exists or is a protected system name</value>
-    <comment>Error message when trying to add group with the same name</comment>
+    <value>Název již existuje nebo je chráněný systémový název</value>
+  <comment>Error message when trying to add group with the same name</comment>
   </data>
   <data name="App_Contacts_FieldType_HomePage" xml:space="preserve">
-    <value>Home Page</value>
-    <comment>Contact website field type</comment>
+    <value>Domovská stránka</value>
+  <comment>Contact website field type</comment>
   </data>
   <data name="App_Contacts_DisconnectingAccount" xml:space="preserve">
-    <value>Disconnecting account...</value>
-    <comment>Progress message when disconnecting an account in the Contacts app</comment>
+    <value>Odpojování účtu ..</value>
+  <comment>Progress message when disconnecting an account in the Contacts app</comment>
   </data>
   <data name="App_Contacts_Refresh" xml:space="preserve">
-    <value>Refresh</value>
-    <comment>Menu to force contact manager to sync to server</comment>
+    <value>Obnovit</value>
+  <comment>Menu to force contact manager to sync to server</comment>
   </data>
   <data name="App_Contacts_Labels_PersonalNotes" xml:space="preserve">
-    <value>Personal Notes</value>
-    <comment>Label of the custom field displayed in the Contacts apps</comment>
+    <value>Osobní poznámky</value>
+  <comment>Label of the custom field displayed in the Contacts apps</comment>
   </data>
   <data name="App_Contacts_MenuEmailGroup" xml:space="preserve">
-    <value>Email group</value>
-    <comment>Menu to send email to selected group</comment>
+    <value>Poslat email skupině</value>
+  <comment>Menu to send email to selected group</comment>
   </data>
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
-    <value>Connecting account...</value>
-    <comment>Progress message when connecting an account in the Contacts app</comment>
+    <value>Připojování účtu ..</value>
+  <comment>Progress message when connecting an account in the Contacts app</comment>
   </data>
 <data name="App_Contacts_MenuSortFirstLast" xml:space="preserve">
     <value>Seřadit podle Jméno, Příjmení</value>
@@ -5710,62 +5710,62 @@ This will disable contact sync and remove the account's groups and contacts from
   <comment>Sort by Last, First</comment>
   </data>
   <data name="Dialog_Activate" xml:space="preserve">
-    <value>Activate</value>
-    <comment>Activate</comment>
+    <value>Aktivovat</value>
+  <comment>Activate</comment>
   </data>
   <data name="Trial_DowngradeToLite" xml:space="preserve">
-    <value>Downgrade me to Mailbird LITE</value>
-    <comment>Downgrade me to Mailbird LITE</comment>
+    <value>Obnovit Mailbird LITE</value>
+  <comment>Downgrade me to Mailbird LITE</comment>
   </data>
   <data name="Trial_DowngradeToLite2" xml:space="preserve">
-    <value>No, downgrade me to Mailbird Lite</value>
-    <comment>No, downgrade me to Mailbird Lite</comment>
+    <value>Ne, obnovit Mailbird Lite</value>
+  <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</value>
-    <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
+    <value>Chcete-li Mailbird plně využívat, funkci Odložené zprávy, neomezený počet účtů a mnohem více, musíte si zakoupit licenci programu Mailbird Pro.</value>
+  <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
-    <value>Your Mailbird Pro Trial has ended.</value>
-    <comment>Your Mailbird Pro Trial has ended.</comment>
+    <value>Vaše zkušební verze Mailbird Pro skončila.</value>
+  <comment>Your Mailbird Pro Trial has ended.</comment>
   </data>
   <data name="Trial_EndTitle" xml:space="preserve">
-    <value>Did you enjoy flying 
-with Mailbird Pro?</value>
-    <comment>Did you enjoy flying 
+    <value>Líbilo se vám létání
+s Mailbird Pro?</value>
+  <comment>Did you enjoy flying 
 with Mailbird Pro?</comment>
   </data>
   <data name="Trial_ForgotLicense" xml:space="preserve">
-    <value>I don't remember my license key</value>
-    <comment>I don't remember my license key</comment>
+    <value>Nepamatuji si můj licenční klíč</value>
+  <comment>I don't remember my license key</comment>
   </data>
   <data name="Trial_SendInviteButton" xml:space="preserve">
-    <value>Yes, Let's do it!</value>
-    <comment>Yes, Let's do it!</comment>
+    <value>Ano, jdeme na to!</value>
+  <comment>Yes, Let's do it!</comment>
   </data>
   <data name="Trial_SendInviteConfirmationDescription" xml:space="preserve">
-    <value>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</value>
-    <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
+    <value>Posílejte pozvánky všem svých kontaktům, které mají emailovou adresu @gmail.com, @yahoo.com a někteří hlavní poskytovatelé emailů.</value>
+  <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
   </data>
   <data name="Trial_SendInviteDescription" xml:space="preserve">
-    <value>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</value>
-    <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
+    <value>Pokud 5 vašich přátel nainstaluje Mailbird prostřednictvím vaší pozvánky, vyhráváte, mezitím prodloužíme vaši zkušební dobu o 7 dní.</value>
+  <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
   </data>
   <data name="Trial_SendInviteTitle" xml:space="preserve">
-    <value>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</value>
-    <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
+    <value>Chcete pozvat své přátele, aby jste získali Mailbird Pro Lifetime [bold] zdarma? [/bold]</value>
+  <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
   </data>
   <data name="App_Contacts_CreateContact" xml:space="preserve">
-    <value>Create contact</value>
-    <comment>Tooltip for button to create contact</comment>
+    <value>Vytvořit kontakt</value>
+  <comment>Tooltip for button to create contact</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Custom" xml:space="preserve">
-    <value>Custom</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Vlastní</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Date" xml:space="preserve">
-    <value>Date</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Datum</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Email" xml:space="preserve">
     <value>Email</value>
@@ -5776,353 +5776,353 @@ with Mailbird Pro?</comment>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Phone" xml:space="preserve">
-    <value>Phone</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Telefon</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_PostalAddress" xml:space="preserve">
-    <value>Address</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Adresa</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Relation" xml:space="preserve">
-    <value>Relation</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Vztah</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Website" xml:space="preserve">
-    <value>Website</value>
-    <comment>Singular type name for this field type in the contact manager</comment>
+    <value>Webová stránka</value>
+  <comment>Singular type name for this field type in the contact manager</comment>
   </data>
 <data name="App_Contacts_Groups_CreateFromSearch" xml:space="preserve">
-    <value>"{0}" (create group)</value>
-    <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
+    <value>"{0}" (vytvořit skupinu)</value>
+  <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Obnovit</value>
   <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
-    <value>Up to date</value>
-    <comment>Up to date</comment>
+    <value>Aktuální</value>
+  <comment>Up to date</comment>
   </data>
   <data name="App_Contacts_CropPicture_Done" xml:space="preserve">
-    <value>Done</value>
-    <comment>Button when finish editing picture</comment>
+    <value>Hotovo</value>
+  <comment>Button when finish editing picture</comment>
   </data>
   <data name="App_Contacts_CropPicture_Title" xml:space="preserve">
     <value/>
   </data>
   <data name="App_Contacts_RotateCCW" xml:space="preserve">
-    <value>Rotate 90° counter-clockwise</value>
-    <comment>Tooltip for rotate image button</comment>
+    <value>Otočit o 90° proti směru hodinových ručiček</value>
+  <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_RotateCW" xml:space="preserve">
-    <value>Rotate 90° clockwise</value>
-    <comment>Tooltip for rotate image button</comment>
+    <value>Otočit o 90° ve směru hodinových ručiček</value>
+  <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_Merge" xml:space="preserve">
-    <value>Merge</value>
-    <comment>Button that when clicked will merge the selected contact with the current contact.</comment>
+    <value>Spojit</value>
+  <comment>Button that when clicked will merge the selected contact with the current contact.</comment>
   </data>
   <data name="App_Contacts_ImageNotSupported" xml:space="preserve">
-    <value>Error loading image</value>
-    <comment>Title of message box when opening unsupported file</comment>
+    <value>Při načítání obrázku došlo k chybě</value>
+  <comment>Title of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_ImageNotSupportedExplanation" xml:space="preserve">
-    <value>Format not supported or file is corrupted.</value>
-    <comment>Explanation of message box when opening unsupported file</comment>
+    <value>Formát není podporován nebo je soubor poškozený.</value>
+  <comment>Explanation of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_Groups_CreateIn" xml:space="preserve">
-    <value>In [semibold]{0}[/semibold]</value>
-    <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
+    <value>V [semibold]{0}[/semibold]</value>
+  <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
   </data>
   <data name="Notification_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
-    <comment>Dismiss</comment>
+    <value>Zamítnout</value>
+  <comment>Dismiss</comment>
   </data>
   <data name="Notification_Syncing" xml:space="preserve">
-    <value>Syncing</value>
-    <comment>Syncing</comment>
+    <value>Synchronizace</value>
+  <comment>Syncing</comment>
   </data>
 <data name="App_Contacts_ImportedGroupName" xml:space="preserve">
-    <value>Imported</value>
-    <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
+    <value>Importováno</value>
+  <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartPlural" xml:space="preserve">
-    <value>contacts</value>
-    <comment>Part of label for a group in auto complete when group has multiple contacts. E.g. "Group (3 contacts)"</comment>
+    <value>kontakty</value>
+  <comment>Part of label for a group in auto complete when group has multiple contacts. E.g. "Group (3 contacts)"</comment>
   </data>
   <data name="MailEditor_GroupSuggestionLabelPartSingular" xml:space="preserve">
-    <value>contact</value>
-    <comment>Part of label for a group in auto complete when group has 1 contact. E.g. "Group (1 contact)"</comment>
+    <value>kontakt</value>
+  <comment>Part of label for a group in auto complete when group has 1 contact. E.g. "Group (1 contact)"</comment>
   </data>
   <data name="App_Contacts_Labels_Department" xml:space="preserve">
-    <value>Department</value>
-    <comment>Label for custom field Department when importing vCard</comment>
+    <value>Oddělení</value>
+  <comment>Label for custom field Department when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender" xml:space="preserve">
-    <value>Gender</value>
-    <comment>Label for custom field Gender when importing vCard</comment>
+    <value>Pohlaví</value>
+  <comment>Label for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Female" xml:space="preserve">
-    <value>Female</value>
-    <comment>Female value for custom field Gender when importing vCard</comment>
+    <value>Žena</value>
+  <comment>Female value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Male" xml:space="preserve">
-    <value>Male</value>
-    <comment>Male value for custom field Gender when importing vCard</comment>
+    <value>Muž</value>
+  <comment>Male value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Latitude" xml:space="preserve">
-    <value>Latitude</value>
-    <comment>Label for custom field Latitude when importing vCard</comment>
+    <value>Zeměpisná šířka</value>
+  <comment>Label for custom field Latitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Longitude" xml:space="preserve">
-    <value>Longitude</value>
-    <comment>Label for custom field Longitude when importing vCard</comment>
+    <value>Zeměpisná délka</value>
+  <comment>Label for custom field Longitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Mailer" xml:space="preserve">
-    <value>Mailer</value>
-    <comment>Label for custom field Mailer when importing vCard</comment>
+    <value>Odesílatel</value>
+  <comment>Label for custom field Mailer when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Office" xml:space="preserve">
-    <value>Office</value>
-    <comment>Label for custom field Office when importing vCard</comment>
+    <value>Kancelář</value>
+  <comment>Label for custom field Office when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_ProductId" xml:space="preserve">
-    <value>Product Id</value>
-    <comment>Label for custom field Product Id when importing vCard</comment>
+    <value>ID produktu</value>
+  <comment>Label for custom field Product Id when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_RevisionDate" xml:space="preserve">
-    <value>Revision Date</value>
-    <comment>Label for custom field Revision Date when importing vCard</comment>
+    <value>Datum revize</value>
+  <comment>Label for custom field Revision Date when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Role" xml:space="preserve">
-    <value>Role</value>
-    <comment>Label for custom field Role when importing vCard</comment>
+    <value>Úloha</value>
+  <comment>Label for custom field Role when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Domestic" xml:space="preserve">
-    <value>Domestic</value>
-    <comment>Label for contact custom address type Domestic</comment>
+    <value>Domácí</value>
+  <comment>Label for contact custom address type Domestic</comment>
   </data>
   <data name="App_Contacts_Labels_International" xml:space="preserve">
-    <value>International</value>
-    <comment>Label for contact custom address type International</comment>
+    <value>Mezinárodní</value>
+  <comment>Label for contact custom address type International</comment>
   </data>
   <data name="App_Contacts_Labels_Parcel" xml:space="preserve">
-    <value>Parcel</value>
-    <comment>Label for contact custom address type Parcel</comment>
+    <value>Zásilka</value>
+  <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
-    <value>Postal</value>
-    <comment>Label for contact custom address type Postal</comment>
+    <value>Poštovní</value>
+  <comment>Label for contact custom address type Postal</comment>
   </data>
   <data name="App_Contacts_Labels_Preferred" xml:space="preserve">
-    <value>Preferred</value>
-    <comment>Label for contact custom address type Preferred</comment>
+    <value>Preferovaný</value>
+  <comment>Label for contact custom address type Preferred</comment>
   </data>
   <data name="MailEditor_RemoveSuggestion" xml:space="preserve">
-    <value>Remove suggestion</value>
-    <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
+    <value>Odstranit návrh</value>
+  <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsHeader" xml:space="preserve">
-    <value>Suggestions restored</value>
-    <comment>Dialog box header</comment>
+    <value>Návrhy byly obnoveny</value>
+  <comment>Dialog box header</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsMessage" xml:space="preserve">
-    <value>All previously removed auto-complete suggestions have been restored.</value>
-    <comment>Dialog box message</comment>
+    <value>Všechny dříve odstraněné návrhy automatického dokončování byly obnoveny.</value>
+  <comment>Dialog box message</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionHeader" xml:space="preserve">
-    <value>Removing auto-complete suggestions</value>
-    <comment>Dialog box header</comment>
+    <value>Odstraňování návrhů pro automatické dokončení</value>
+  <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Odstranění návrhu zabrání, aby se při vytváření zprávy zobrazoval v seznamu - například pokud emailová adresa neexistuje nebo je nesprávná.
+    <value>Odstraněním návrhu se nebude při psaní zprávy zobrazovat v seznamu - například pokud emailová adresa již neexistuje nebo je nesprávná.
 
 Odstraněné návrhy lze obnovit z nastavení.</value>
   <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Restore auto-complete suggestions</value>
-    <comment>Settings button to restore all auto-complete suggestions</comment>
+    <value>Obnovit návrhy automatického dokončení</value>
+  <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
-    <value>Restores any auto-complete suggestions you've previously removed.</value>
-    <comment>Explanation for restore auto-complete suggestions button in settings</comment>
+    <value>Obnoví všechny návrhy automatického dokončení, které jste dříve odstranili.</value>
+  <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
 <data name="App_Contacts_MenuRenameGroup" xml:space="preserve">
     <value>Přejmenovat</value>
   <comment>Label of menu item to rename group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
-    <value>Loading duplicates...</value>
-    <comment>Loading message when merge contacts are being calculated.</comment>
+    <value>Nahrávání duplikátů ..</value>
+  <comment>Loading message when merge contacts are being calculated.</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
-    <value>Try the new and improved Contacts app with contact sync!</value>
-    <comment>Notification header</comment>
+    <value>Vyzkoušejte novou a vylepšenou aplikaci Kontakty se synchronizací kontaktů!</value>
+  <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>We've not only updated the old Contacts app with a brand new design - we've also added full Google and Outlook support, so you can sync contacts with your existing accounts, and have the same contacts whether you're working in Mailbird or somewhere else.
+    <value>Aktualizovali jsme starou aplikaci Kontakty s novým designem - přidali jsme také plnou podporu Google a Outlook, abyste mohli synchronizovat kontakty s existujícími účty a mít stejné kontakty, ať už pracujete v Mailbird nebo někde jinde.
 
-New is also "linking", enabling you to link together identical contacts from different accounts - to make changes once and have them propagate to all accounts automatically.
+Novinkou je také "propojení", které umožňuje spojit stejné kontakty z různých účtů - provést změny jednou a nechat je automaticky rozesílat na všechny účty.
 
-And did we mention you can easily copy or move contacts between accounts?
+Zmínili jsme se, že můžete snadno kopírovat a přenášet kontakty mezi účty?
 
-Try the new Contacts now!</value>
-    <comment>Notification message</comment>
+Zkuste nové Kontakty již teď!</value>
+  <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
-    <value>Open Contacts</value>
-    <comment>Button label to open Contacts app</comment>
+    <value>Otevřít Kontakty</value>
+  <comment>Button label to open Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuDeleteGroup" xml:space="preserve">
-    <value>Delete</value>
-    <comment>Label for menu item to delete group in Contacts app</comment>
+    <value>Smazat</value>
+  <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
-    <value>Selected group</value>
-    <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
+    <value>Vybraná skupina</value>
+  <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
 <data name="Menu_Help" xml:space="preserve">
-    <value>Help</value>
-    <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
+    <value>Nápověda</value>
+  <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
-    <value>Share via email</value>
-    <comment>Tooltip to share via email</comment>
+    <value>Sdílet přes email</value>
+  <comment>Tooltip to share via email</comment>
   </data>
   <data name="RateRecommend_Facebook" xml:space="preserve">
-    <value>Share via Facebook</value>
-    <comment>Tooltip to share via Facebook</comment>
+    <value>Sdílet přes Facebook</value>
+  <comment>Tooltip to share via Facebook</comment>
   </data>
   <data name="RateRecommend_HeaderFeedback" xml:space="preserve">
-    <value>Please let us know how we can improve Mailbird for you:</value>
-    <comment>Header in rate and recommend control when asking for feedback</comment>
+    <value>Dejte nám prosím vědět, jak můžeme pro vás vylepšit Mailbird:</value>
+  <comment>Header in rate and recommend control when asking for feedback</comment>
   </data>
   <data name="RateRecommend_HeaderRating" xml:space="preserve">
-    <value>How likely are you to recommend Mailbird to a friend?</value>
-    <comment>Header in rate and recommend control when asking for rating</comment>
+    <value>Jak je pravděpodobné, že doporučíte Mailbird příteli?</value>
+  <comment>Header in rate and recommend control when asking for rating</comment>
   </data>
   <data name="RateRecommend_HeaderShare" xml:space="preserve">
-    <value>Great! Could you share a brief post with your friends? It really helps.</value>
-    <comment>Header in rate and recommend control when asking for sharing</comment>
+    <value>Skvělé! Můžete sdílet krátký příspěvek se svými přáteli? To opravdu pomáhá.</value>
+  <comment>Header in rate and recommend control when asking for sharing</comment>
   </data>
   <data name="RateRecommend_Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>Button to send feedback</comment>
+    <value>Odeslat</value>
+  <comment>Button to send feedback</comment>
   </data>
   <data name="RateRecommend_Twitter" xml:space="preserve">
-    <value>Share via Twitter</value>
-    <comment>Tooltip to share via Twitter</comment>
+    <value>Sdílet přes Twitter</value>
+  <comment>Tooltip to share via Twitter</comment>
   </data>
   <data name="RateRecommend_Unlikely" xml:space="preserve">
-    <value>Unlikely</value>
-    <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
+    <value>Nepravděpodobné</value>
+  <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="RateRecommend_VeryLikely" xml:space="preserve">
-    <value>Very likely</value>
-    <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
+    <value>Velmi pravděpodobné</value>
+  <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="InviteV2_ShareSocial2" xml:space="preserve">
-    <value>Share on social</value>
-    <comment>Button for sharing invites to social</comment>
+    <value>Sdílet přes sociální sítě</value>
+  <comment>Button for sharing invites to social</comment>
   </data>
 <data name="Background_AddYourOwn" xml:space="preserve">
-    <value>Add your own picture</value>
-    <comment>Tooltip for a menu to browse picture for background image</comment>
+    <value>Přidejte svůj vlastní obrázek</value>
+  <comment>Tooltip for a menu to browse picture for background image</comment>
   </data>
   <data name="Background_Christmas" xml:space="preserve">
-    <value>Christmas</value>
-    <comment>Name for type of backround</comment>
+    <value>Vánoce</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Clover" xml:space="preserve">
-    <value>Clover</value>
-    <comment>Name for type of backround</comment>
+    <value>Jetel</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Custom" xml:space="preserve">
-    <value>Custom</value>
-    <comment>Name for type of backround</comment>
+    <value>Vlastní</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Diamonds" xml:space="preserve">
-    <value>Diamonds</value>
-    <comment>Name for type of backround</comment>
+    <value>Diamanty</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Flower" xml:space="preserve">
-    <value>Flower</value>
-    <comment>Name for type of backround</comment>
+    <value>Květina</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Leaves" xml:space="preserve">
-    <value>Leaves</value>
-    <comment>Name for type of backround</comment>
+    <value>Listy</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_NarrowStripes" xml:space="preserve">
-    <value>Narrow Stripes</value>
-    <comment>Name for type of backround</comment>
+    <value>Úzké pruhy</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_None" xml:space="preserve">
-    <value>None</value>
-    <comment>Name for type of backround</comment>
+    <value>Žádné</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Polcadot" xml:space="preserve">
-    <value>Polcadot</value>
-    <comment>Name for type of backround</comment>
+    <value>Tečky</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Scale" xml:space="preserve">
-    <value>Scale</value>
-    <comment>Name for type of backround</comment>
+    <value>Měřítko</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Snow" xml:space="preserve">
-    <value>Snow</value>
-    <comment>Name for type of backround</comment>
+    <value>Sníh</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Square" xml:space="preserve">
-    <value>Square</value>
-    <comment>Name for type of backround</comment>
+    <value>Čtverec</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWars" xml:space="preserve">
-    <value>Star Wars</value>
-    <comment>Name for type of backround</comment>
+    <value>Hvězdné války</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWarsDarkSide" xml:space="preserve">
-    <value>Dark Side</value>
-    <comment>Name for type of backround</comment>
+    <value>Temná strana</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWarsPixel" xml:space="preserve">
-    <value>Star Wars Pixel</value>
-    <comment>Name for type of backround</comment>
+    <value>Hvězdné války pixel</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Stripes" xml:space="preserve">
-    <value>Stripes</value>
-    <comment>Name for type of backround</comment>
+    <value>Pruhy</value>
+  <comment>Name for type of backround</comment>
   </data>
   <data name="Invite_HowItWorks" xml:space="preserve">
-    <value>How it works?</value>
-    <comment>Button to learn more about invite sidebar</comment>
+    <value>Jak to funguje?</value>
+  <comment>Button to learn more about invite sidebar</comment>
   </data>
   <data name="Sidebar_Collapse" xml:space="preserve">
-    <value>Collapse sidebar</value>
-    <comment>Tooltip for a button to collapse sidebar</comment>
+    <value>Sbalit postranní panel</value>
+  <comment>Tooltip for a button to collapse sidebar</comment>
   </data>
   <data name="Sidebar_Expand" xml:space="preserve">
-    <value>Expand sidebar</value>
-    <comment>Tooltip for a button to expand sidebar</comment>
+    <value>Rozbalit postranní panel</value>
+  <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Video conversations with up to 8 people.</value>
+    <value>Video konverzace s až 8 osobami.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
-    <value>Store your files in the cloud, 100 GB free cloud backup.</value>
+    <value>Uložte soubory do cloud, 100 GB zdarma pro zálohování.</value>
   </data>
   <data name="App_Feedly_Description" xml:space="preserve">
-    <value>The content you need to accelerate your research, marketing, and sales.</value>
+    <value>Obsah, který urychlí váš výzkum, marketing a prodej.</value>
   </data>
   <data name="App_FollowUp_Description" xml:space="preserve">
-    <value>File, sort and schedule emails with ease.</value>
+    <value>Uspořádat, plánovat a spravovat emaily pohodlným způsobem.</value>
   </data>
   <data name="App_FormSwift_Description" xml:space="preserve">
-    <value>Generate a signature for your emails.</value>
+    <value>Vytvořte podpis pro vaše emaily.</value>
   </data>
   <data name="App_Moodo_Description" xml:space="preserve">
-    <value>Beautiful minimalistic task management app. Drag and organize emails in your task list.</value>
+    <value>Krásná minimalistická aplikace pro správu úloh. Přetáhněte a uspořádejte emaily v seznamu úkolů.</value>
   </data>
   <data name="App_Slack_Description" xml:space="preserve">
     <value>Cloud based real-time messaging, archiving and search for modern teams.</value>
