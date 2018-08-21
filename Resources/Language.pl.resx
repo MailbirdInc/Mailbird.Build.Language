@@ -210,8 +210,8 @@
     <comment>Discard</comment>
   </data>
   <data name="Conversation_Draft" xml:space="preserve">
-    <value>Szkic</value>
-    <comment>Draft</comment>
+    <value>Wersja robocza</value>
+  <comment>Draft</comment>
   </data>
   <data name="Conversation_EmptyFolder" xml:space="preserve">
     <value>Opróżnij folder</value>
@@ -274,8 +274,8 @@
     <comment>Move to...</comment>
   </data>
   <data name="Conversation_MoveToInbox" xml:space="preserve">
-    <value>Przenieś do skrzynki odbiorczej</value>
-    <comment>Move to Inbox</comment>
+    <value>Przenieś do Odebranych</value>
+  <comment>Move to Inbox</comment>
   </data>
   <data name="Conversation_NoConversations" xml:space="preserve">
     <value>Brak konwersacji w tym folderze</value>
@@ -310,8 +310,8 @@
     <comment>To</comment>
   </data>
   <data name="Conversation_Trash" xml:space="preserve">
-    <value>Do kosza</value>
-    <comment>Trash</comment>
+    <value>Usuń</value>
+  <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
     <value>Zamknięcie okna w środku procesu wysyłania anuluje także raport. Czy na pewno chcesz przerwać generowanie raportu?</value>
@@ -534,8 +534,8 @@ Message:</comment>
     <comment>Thanks!</comment>
   </data>
   <data name="Dialog_WaitUntilInboxLoaded" xml:space="preserve">
-    <value>Poczekaj na załadowanie się twojej Skrzynki odbiorczej</value>
-    <comment>Please wait until your Inbox has loaded</comment>
+    <value>Poczekaj na załadowanie się Odebranych</value>
+  <comment>Please wait until your Inbox has loaded</comment>
   </data>
   <data name="Dialog_Warning" xml:space="preserve">
     <value>Ostrzeżenie</value>
@@ -624,12 +624,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Continue</comment>
   </data>
   <data name="Dialog_DiscardDraft" xml:space="preserve">
-    <value>Odrzucić szkic?</value>
-    <comment>Discard Draft?</comment>
+    <value>Odrzucić wersję roboczą?</value>
+  <comment>Discard Draft?</comment>
   </data>
   <data name="Dialog_DiscardDraftExplanation" xml:space="preserve">
-    <value>Czy na pewno chcesz odrzucić swój szkic?</value>
-    <comment>Are you sure you want to discard your draft?</comment>
+    <value>Czy na pewno chcesz odrzucić tą wersję roboczą?</value>
+  <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
     <value>Wstaw odnośnik</value>
@@ -772,8 +772,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Purchase</comment>
   </data>
   <data name="Dialog_SaveFolder" xml:space="preserve">
-    <value>Wybierz folder, w którym mają zostać zapisane zaznaczone załączniki:</value>
-    <comment>Select the folder to save the selected attachments in:</comment>
+    <value>Wybierz folder, w którym mają zostać zapisane wybrane załączniki:</value>
+  <comment>Select the folder to save the selected attachments in:</comment>
   </data>
   <data name="Draft_Saved" xml:space="preserve">
     <value>Zapisano</value>
@@ -904,16 +904,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Archived</comment>
   </data>
   <data name="FolderIdentity_Drafts" xml:space="preserve">
-    <value>Szkice</value>
-    <comment>Drafts</comment>
+    <value>Wersje robocze</value>
+  <comment>Drafts</comment>
   </data>
   <data name="FolderIdentity_Important" xml:space="preserve">
     <value>Ważne</value>
     <comment>Important</comment>
   </data>
   <data name="FolderIdentity_Inbox" xml:space="preserve">
-    <value>Skrzynka odbiorcza</value>
-    <comment>Inbox</comment>
+    <value>Odebrane</value>
+  <comment>Inbox</comment>
   </data>
   <data name="FolderIdentity_Sent" xml:space="preserve">
     <value>Wysłane</value>
@@ -1232,8 +1232,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Remove</comment>
   </data>
   <data name="MapLabelWindow_Draft" xml:space="preserve">
-    <value>Szkic</value>
-    <comment>Draft</comment>
+    <value>Wersja robocza</value>
+  <comment>Draft</comment>
   </data>
   <data name="MapLabelWindow_Important" xml:space="preserve">
     <value>Ważne</value>
@@ -1436,8 +1436,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} konwersacji zostało zarchiwizowanych</value>
-    <comment>{0} Conversations archived</comment>
+    <value>zarchiwizowano {0} konwersacji</value>
+  <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
     <value>Konwersacja zarchiwizowana</value>
@@ -1452,12 +1452,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Conversation deleted permanently</comment>
   </data>
   <data name="Notification_DiscardMany" xml:space="preserve">
-    <value>{0} szkiców odrzucono</value>
-    <comment>{0} Drafts discarded</comment>
+    <value>odrzucono {0} wersji roboczych</value>
+  <comment>{0} Drafts discarded</comment>
   </data>
   <data name="Notification_DiscardSingle" xml:space="preserve">
-    <value>Szkic odrzucony</value>
-    <comment>Draft discarded</comment>
+    <value>Wersja robocza odrzucona</value>
+  <comment>Draft discarded</comment>
   </data>
   <data name="Notification_MailbirdWaiting" xml:space="preserve">
     <value>Twój Mailbird czeka na Ciebie.</value>
@@ -1584,8 +1584,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>Pokaż wskaźnik "ważny mail"</value>
-    <comment>Show "important mail" indicator</comment>
+    <value>Pokaż znacznik "ważny e-mail"</value>
+  <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
     <value>Tekst wstępny odpowiedzi</value>
@@ -1672,8 +1672,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Disable DirectWrite</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Archiwizuj wysyłane wiadomości</value>
-    <comment>Show send &amp; archive button</comment>
+    <value>Pokaż przycisk "Wyślij i archiwizuj" w odpowiedzi</value>
+  <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
     <value>Wymuś renderowanie programowe</value>
@@ -1704,16 +1704,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Syncing..</comment>
   </data>
   <data name="Options_TrayNotification" xml:space="preserve">
-    <value>Po odebraniu wiadomości pokazuj powiadomienie na pasku zadań</value>
-    <comment>Show tray notification when receiving a message</comment>
+    <value>Pokazuj powiadomienie w zasobniku po odebraniu wiadomości</value>
+  <comment>Show tray notification when receiving a message</comment>
   </data>
   <data name="Options_TypeShortcut" xml:space="preserve">
     <value>Podaj skrót</value>
     <comment>Type shortcut</comment>
   </data>
   <data name="Options_UnreadNotification" xml:space="preserve">
-    <value>Pokazuj licznik nieprzeczytanych na pasku zadań i w obszarze powiadomień</value>
-    <comment>Show unread count in taskbar &amp; system tray</comment>
+    <value>Pokazuj liczbę nieprzeczytanych na pasku zadań i w zasobniku systemowym</value>
+  <comment>Show unread count in taskbar &amp; system tray</comment>
   </data>
   <data name="Options_Updates" xml:space="preserve">
     <value>Aktualizacje</value>
@@ -1800,16 +1800,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Archive and next</comment>
   </data>
   <data name="Shortcut_ArchiveNextExplanation" xml:space="preserve">
-    <value>Usuwa konwersację ze skrzynki odbiorczej i przechodzi do następnej.</value>
-    <comment>Removes the conversation from the inbox and moves to the next one.</comment>
+    <value>Usuwa konwersację z Odebranych i przechodzi do następnej.</value>
+  <comment>Removes the conversation from the inbox and moves to the next one.</comment>
   </data>
   <data name="Shortcut_ArchivePrevious" xml:space="preserve">
     <value>Archiwizuj i przejdź wstecz</value>
     <comment>Archive and previous</comment>
   </data>
   <data name="Shortcut_ArchivePreviousExplanation" xml:space="preserve">
-    <value>Usuwa otwartą konwersację ze skrzynki odbiorczej i przechodzi do poprzedniej.</value>
-    <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
+    <value>Usuwa otwartą konwersację z Odebranych i przechodzi do poprzedniej.</value>
+  <comment>Removes the current view's label from your conversation and moves to the previous one.</comment>
   </data>
   <data name="Shortcut_Close" xml:space="preserve">
     <value>Zamknij aktywne okno</value>
@@ -1836,8 +1836,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Copy Attachment</comment>
   </data>
   <data name="Shortcut_CopyAttachmentExplanation" xml:space="preserve">
-    <value>Kopiuje zaznaczony załącznik(i) do schowka. Działa tylko gdy wybrany załącznik(i) jest w na wierzchu.</value>
-    <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
+    <value>Kopiuje wybrany załącznik(i) do schowka. Działa tylko gdy wybrany załącznik(i) jest na wierzchu.</value>
+  <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
   </data>
   <data name="Shortcut_Delete" xml:space="preserve">
     <value>Usuń</value>
@@ -1848,12 +1848,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
-    <value>Usuń szkic lub konwersację</value>
-    <comment>Delete Draft or Trash Conversation</comment>
+    <value>Usuń wersję roboczą lub konwersację</value>
+  <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Usuń zaznaczony szkic lub konwersację.</value>
-    <comment>Delete selected draft or trash the selected conversation.</comment>
+    <value>Usuń wybraną wersję roboczą lub konwersację.</value>
+  <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
     <value>Opuść Mailbird</value>
@@ -1876,8 +1876,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Find</comment>
   </data>
   <data name="Shortcut_FindExplanation" xml:space="preserve">
-    <value>Szukaj w tekście zaznaczonej wiadomości.</value>
-    <comment>Search within the text in the selected message.</comment>
+    <value>Szukaj w tekście wybranej wiadomości.</value>
+  <comment>Search within the text in the selected message.</comment>
   </data>
   <data name="Shortcut_ForwardExplanation" xml:space="preserve">
     <value>Przekazuje dalej wiadomość.</value>
@@ -1900,8 +1900,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
   </data>
   <data name="Shortcut_ImportantExplanation" xml:space="preserve">
-    <value>Pomaga Gmailowi nauczyć się co jest dla Ciebie ważne, poprzez oznaczanie błędnie sklasyfikowanych wiadomości. (Szczególnie dla Priorytetowej skrzynki odbiorczej)</value>
-    <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
+    <value>Pomaga Gmailowi nauczyć się co jest dla Ciebie ważne, oznaczając błędnie sklasyfikowane wiadomości. (Szczególne dla funkcji Priorytety)</value>
+  <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_MoreAction" xml:space="preserve">
     <value>Pokaż więcej czynności</value>
@@ -1916,16 +1916,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Move to newer conversation</comment>
   </data>
   <data name="Shortcut_MoveNewerExplanation" xml:space="preserve">
-    <value>Zaznacza następną, nowszą konwersację.</value>
-    <comment>Selects the next more recent conversation.</comment>
+    <value>Wybiera następną, nowszą konwersację.</value>
+  <comment>Selects the next more recent conversation.</comment>
   </data>
   <data name="Shortcut_MoveOlder" xml:space="preserve">
     <value>Przejdź do starszej konwersacji</value>
     <comment>Move to older conversation</comment>
   </data>
   <data name="Shortcut_MoveOlderExplanation" xml:space="preserve">
-    <value>Zaznacza poprzednią, starszą konwersację.</value>
-    <comment>Selects the previous older conversation.</comment>
+    <value>Wybiera poprzednią, starszą konwersację.</value>
+  <comment>Selects the previous older conversation.</comment>
   </data>
   <data name="Shortcut_MoveToExplanation" xml:space="preserve">
     <value>Przenosi konwersację do innego folderu.</value>
@@ -1940,8 +1940,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
-    <value>Pomaga Gmailowi nauczyć się co nie jest dla Ciebie ważne poprzez oznaczanie błędnie sklasyfikowanych wiadomości. (Szczególnie dla Priorytetowej skrzynki odbiorczej)</value>
-    <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
+    <value>Pomaga Gmailowi nauczyć się co jest dla Ciebie mało ważne, oznaczając błędnie sklasyfikowane wiadomości. (Szczególne dla funkcji Priorytety)</value>
+  <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_Open" xml:space="preserve">
     <value>Otwórz</value>
@@ -1984,16 +1984,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Print all messages in the selected conversation.</comment>
   </data>
   <data name="Shortcut_PrintExplanation" xml:space="preserve">
-    <value>Drukuje zaznaczoną wiadomość.</value>
-    <comment>Print the selected message.</comment>
+    <value>Drukuje wybraną wiadomość.</value>
+  <comment>Print the selected message.</comment>
   </data>
   <data name="Shortcut_QuickPreview" xml:space="preserve">
     <value>Szybki podgląd załącznika</value>
     <comment>Attachment Quick Preview</comment>
   </data>
   <data name="Shortcut_QuickPreviewExplanation" xml:space="preserve">
-    <value>Otwiera okno szybkiego podglądu dla zaznaczonego załącznika.</value>
-    <comment>Open quick preview window for the selected attachment.</comment>
+    <value>Otwiera okno szybkiego podglądu dla wybranego załącznika.</value>
+  <comment>Open quick preview window for the selected attachment.</comment>
   </data>
   <data name="Shortcut_ReadExplanation" xml:space="preserve">
     <value>Oznacza twoją wiadomość jako 'przeczytana' i przechodzi do następnej wiadomości.</value>
@@ -2036,16 +2036,16 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Return to conversation list</comment>
   </data>
   <data name="Shortcut_ReturnExplanation" xml:space="preserve">
-    <value>Odświeża twoją stronę i powraca do skrzynki odbiorczej lub listy konwersacji.</value>
-    <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
+    <value>Odświeża twoją stronę i powraca do Odebranych lub listy konwersacji.</value>
+  <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
   </data>
   <data name="Shortcut_SaveDraft" xml:space="preserve">
-    <value>Zapisz szkic</value>
-    <comment>Save draft</comment>
+    <value>Zapisz wersję roboczą</value>
+  <comment>Save draft</comment>
   </data>
   <data name="Shortcut_SaveDraftExplanation" xml:space="preserve">
-    <value>Zapisuje wpisany tekst jako szkic podczas tworzenia nowej wiadomości. Przytrzymaj klawisz &lt;Ctrl&gt; jednocześnie wciskając S i upewnij się, że kursor jest w jednym z pól (z treścią wiadomości, Do, DW, UDW lub tematem) w czasie korzystania z tego skrótu.</value>
-    <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
+    <value>Zapisuje bieżący tekst jako wersję roboczą podczas tworzenia nowej wiadomości. Przytrzymaj klawisz &lt;Ctrl&gt; jednocześnie wciskając S i upewnij się, że kursor jest w jednym z pól (z treścią wiadomości, Do, DW, UDW lub tematem) w czasie korzystania z tego skrótu.</value>
+  <comment>Saves the current text as a draft when composing a message. Hold the &lt;Ctrl&gt; key while pressing s and make sure your cursor is in one of the text fields -- either the composition pane, or any of the To, CC, BCC, or Subject fields -- when using this shortcut.</comment>
   </data>
   <data name="Shortcut_Search" xml:space="preserve">
     <value>Szukaj</value>
@@ -2289,8 +2289,8 @@ Path: {0}</comment>
     <comment>What is this?</comment>
   </data>
   <data name="MailEditorFormattingBar_AlignCenter" xml:space="preserve">
-    <value>Wyśrodkuj</value>
-    <comment>Align center</comment>
+    <value>Wyrównaj do środka</value>
+  <comment>Align center</comment>
   </data>
   <data name="MailEditorFormattingBar_AlignLeft" xml:space="preserve">
     <value>Wyrównaj do lewej</value>
@@ -2305,8 +2305,8 @@ Path: {0}</comment>
     <comment>Bold</comment>
   </data>
   <data name="MailEditorFormattingBar_Bullet" xml:space="preserve">
-    <value>Lista wypunktowana</value>
-    <comment>Bullet</comment>
+    <value>Lista punktowana</value>
+  <comment>Bullet</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpelling" xml:space="preserve">
     <value>Sprawdź pisownię</value>
@@ -2329,8 +2329,8 @@ Path: {0}</comment>
     <comment>Font</comment>
   </data>
   <data name="MailEditorFormattingBar_FontBackground" xml:space="preserve">
-    <value>Tło tekstu</value>
-    <comment>Font Background</comment>
+    <value>Kolor tła</value>
+  <comment>Font Background</comment>
   </data>
   <data name="MailEditorFormattingBar_FontColor" xml:space="preserve">
     <value>Kolor tekstu</value>
@@ -2548,12 +2548,12 @@ Message: {0}</comment>
     <comment>Invite more friends</comment>
   </data>
   <data name="Invite_NoFriendSelected" xml:space="preserve">
-    <value>Nie zaznaczono żadnych znajomych</value>
-    <comment>No friends selected</comment>
+    <value>Nie wybrano żadnych znajomych</value>
+  <comment>No friends selected</comment>
   </data>
   <data name="Invite_NoFriendSelectedExplanation" xml:space="preserve">
-    <value>Proszę zaznaczyć przynajmniej jednego znajomego.</value>
-    <comment>Please select at least one friend to invite.</comment>
+    <value>Proszę wybrać przynajmniej jednego znajomego.</value>
+  <comment>Please select at least one friend to invite.</comment>
   </data>
   <data name="Invite_Send" xml:space="preserve">
     <value>Zaproś do Mailbird</value>
@@ -2797,8 +2797,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Leave a copy of messages on the server</comment>
   </data>
   <data name="Welcome_Pop3LeaveMessagesInfo" xml:space="preserve">
-    <value>Serwery POP3 domyślnie przechowują wiadomości na serwerze do czasu ich pobrania przez użytkownika. Można jednak zmienić to zachowanie i zostawiać kopię maili na serwerze. Jednak robiąc to można szybko zapełnić skrzynkę i przestać otrzymywać nowe wiadomości do czasu usunięcia starszych.</value>
-    <comment>POP3 servers by default store messages on the server only until you download them. You can choose to leave messages on the server, but note that doing so can cause your mailbox to become full very quickly, and so you might not receive important messages until you delete the server copies.</comment>
+    <value>Serwery POP3 domyślnie przechowują wiadomości na serwerze do czasu ich pobrania przez użytkownika. Można jednak zmienić to zachowanie i zostawiać kopię e-maili na serwerze. Jednak robiąc to można szybko zapełnić skrzynkę i przestać otrzymywać nowe wiadomości do czasu usunięcia starszych.</value>
+  <comment>POP3 servers by default store messages on the server only until you download them. You can choose to leave messages on the server, but note that doing so can cause your mailbox to become full very quickly, and so you might not receive important messages until you delete the server copies.</comment>
   </data>
   <data name="Welcome_Pop3RemoveAfter" xml:space="preserve">
     <value>Usuń po</value>
@@ -3068,8 +3068,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Import contacts from vCard</comment>
   </data>
   <data name="Invite_SelectAll" xml:space="preserve">
-    <value>Zaznacz wszystkie</value>
-    <comment>Select all</comment>
+    <value>Wybierz wszystkie</value>
+  <comment>Select all</comment>
   </data>
   <data name="Dialog_DatabaseErrorMessage" xml:space="preserve">
     <value>Wykryto problem z wewnętrzną bazą danych, najprawdopodobniej spowodowany błędem systemu Windows lub niepoprawnym funkcjonowaniem dysku twardego.
@@ -3140,8 +3140,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Filter contacts...</comment>
   </data>
   <data name="Dialog_DeleteContactExplanation_Plural" xml:space="preserve">
-    <value>Czy jesteś pewien, że chcesz usunąć zaznaczone kontakty?</value>
-    <comment>Are you sure you want to delete the selected contacts?</comment>
+    <value>Czy jesteś pewien, że chcesz usunąć wybrane kontakty?</value>
+  <comment>Are you sure you want to delete the selected contacts?</comment>
   </data>
   <data name="Dialog_DeleteContact_Plural" xml:space="preserve">
     <value>Usunąć kontakty?</value>
@@ -3304,8 +3304,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Merge selected</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_SelectAll" xml:space="preserve">
-    <value>Zaznacz wszystko</value>
-    <comment>Select all</comment>
+    <value>Wybierz wszystkie</value>
+  <comment>Select all</comment>
   </data>
   <data name="App_Contacts_FindMergeContacts_NoDuplicates" xml:space="preserve">
     <value>Nie znaleziono duplikatów</value>
@@ -3502,10 +3502,10 @@ Na pewno chcesz anulować?</value>
     <comment>You just snoozed a message!</comment>
   </data>
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
-    <value>Przenieśliśmy ją do folderu odłożone, dzięki czemu nie będzie Ci przeszkadzać. Powróci ona na samą górę skrzynki odbiorczej w późniejszym terminie. Pozostanie tam dopóki jej nie przeczytasz.
+    <value>Przenieśliśmy ją do folderu Odłożone, dzięki czemu nie będzie Ci przeszkadzać. Powróci ona na samą górę Odebranych w późniejszym terminie. Pozostanie tam dopóki jej nie przeczytasz.
 
-Pamiętaj, że Mailbird musi być uruchomiony, by wiadomość została przeniesiona z powrotem. W innym wypadku trafi do skrzynki odbiorczej dopiero po uruchomieniu Mailbirda.</value>
-    <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
+Pamiętaj, że Mailbird musi być uruchomiony, by wiadomość została przeniesiona z powrotem. W innym wypadku trafi do Odebranych dopiero po uruchomieniu Mailbirda.</value>
+  <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
 
 Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</comment>
   </data>
@@ -3550,8 +3550,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>My week starts on</comment>
   </data>
   <data name="Snooze_Type_Evening" xml:space="preserve">
-    <value>dziś wieczorem</value>
-    <comment>This Evening</comment>
+    <value>dzisiaj wieczorem</value>
+  <comment>This Evening</comment>
   </data>
   <data name="Snooze_Type_Later" xml:space="preserve">
     <value>później tego dnia</value>
@@ -3570,20 +3570,20 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Someday</comment>
   </data>
   <data name="Snooze_Type_Tomorrow" xml:space="preserve">
-    <value>jutro</value>
-    <comment>Tomorrow</comment>
+    <value>Jutro</value>
+  <comment>Tomorrow</comment>
   </data>
   <data name="Snooze_Type_TomorrowEve" xml:space="preserve">
     <value>jutro wieczorem</value>
     <comment>Tomorrow evening</comment>
   </data>
   <data name="Snooze_Type_ThisWeekend" xml:space="preserve">
-    <value>w weekend</value>
-    <comment>This weekend</comment>
+    <value>Najbliższy weekend</value>
+  <comment>This weekend</comment>
   </data>
   <data name="Snooze_Type_NextWeekend" xml:space="preserve">
-    <value>w następny weekend</value>
-    <comment>Next weekend</comment>
+    <value>Następny weekend</value>
+  <comment>Next weekend</comment>
   </data>
   <data name="Options_Snooze_InOneHour" xml:space="preserve">
     <value>za godzinę</value>
@@ -3594,8 +3594,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>In 1 month</comment>
   </data>
   <data name="Conversation_Snooze" xml:space="preserve">
-    <value>Odłóż do...</value>
-    <comment>Snooze</comment>
+    <value>Odłóż</value>
+  <comment>Snooze</comment>
   </data>
   <data name="Upgrade_Snooze" xml:space="preserve">
     <value>Zdobądź dostęp do Odkładania wiadomości na później i wielu innych funkcji zwiększających twoją produktywność.</value>
@@ -3646,8 +3646,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>{0} will be replaced by "Mailbird", so the result is "Exit Mailbird"</comment>
   </data>
   <data name="JumpList_RecentDrafts" xml:space="preserve">
-    <value>Ostatnie szkice</value>
-    <comment>Recent drafts</comment>
+    <value>Ostatnie wersje robocze</value>
+  <comment>Recent drafts</comment>
   </data>
   <data name="JumpList_RecentEmails" xml:space="preserve">
     <value>Ostanie e-maile</value>
@@ -3811,8 +3811,8 @@ Wymaga wielu kont.</value>
 Requires multiple accounts.</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroHeader" xml:space="preserve">
-    <value>Wprowadzamy zunifikowane konto</value>
-    <comment>Introducing the unified account</comment>
+    <value>Przedstawiamy zunifikowane konto</value>
+  <comment>Introducing the unified account</comment>
   </data>
   <data name="Notification_UnifiedAccountIntroMessage" xml:space="preserve">
     <value>Kiedy dodajesz wiele kont do Mailbirda, nowe "zunifikowane" konto jest wyświetlane na samej górze listy kont w panelu nawigacji. Zbiera ono wiadomości ze wszystkich kont w jednym miejscu, nie ograniczając jednocześnie możliwości interakcji z nimi.
@@ -3831,8 +3831,8 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Starts Mailbird with the unified account selected.</comment>
   </data>
   <data name="Notification_UnifiedAccountReleasedHeader" xml:space="preserve">
-    <value>Nowa funkcja: Zunifikowana skrzynka odbiorcza</value>
-    <comment>New Feature: Unified Inbox Plus</comment>
+    <value>Nowa funkcja: Zunifikowana Skrzynka Plus</value>
+  <comment>New Feature: Unified Inbox Plus</comment>
   </data>
   <data name="Tutorial_AccountList" xml:space="preserve">
     <value>Lista kont</value>
@@ -4103,8 +4103,8 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Get Mailbird Pro 100% Free, Forever</comment>
   </data>
   <data name="Welcome_SkipToInbox" xml:space="preserve">
-    <value>Przejdź do skrzynki odbiorczej</value>
-    <comment>Skip to inbox</comment>
+    <value>Przejdź do Odebranych</value>
+  <comment>Skip to inbox</comment>
   </data>
   <data name="Invite_Loading" xml:space="preserve">
     <value>Wczytywanie ważnych kontaktów..</value>
@@ -4173,31 +4173,31 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Import</comment>
   </data>
   <data name="Notification_LostDraftHeader" xml:space="preserve">
-    <value>Wystąpił błąd z twoim szkicem</value>
-    <comment>An error occurred with your draft</comment>
+    <value>Wystąpił błąd z tą wersją roboczą</value>
+  <comment>An error occurred with your draft</comment>
   </data>
   <data name="Notification_LostDraftMessage" xml:space="preserve">
-    <value>Wystąpił błąd z twoim szkicem i przywrócona została najnowsza zapisana wersja.
+    <value>Wystąpił błąd z tą wersję roboczą i przywrócona została najnowsza zapisana wersja.
 
 Jeśli często widzisz ten błąd, skontaktuj się z działem pomocy Mailbird..</value>
-    <comment>An error occurred with your draft and your latest saved version has been restored.
+  <comment>An error occurred with your draft and your latest saved version has been restored.
 
 If you are seeing this error frequently, please contact Mailbird support.</comment>
   </data>
   <data name="Notification_OpenDraft" xml:space="preserve">
-    <value>Idź do szkicu</value>
-    <comment>Go to draft</comment>
+    <value>Przejdź do wersji roboczej</value>
+  <comment>Go to draft</comment>
   </data>
   <data name="LostDraft_ContactSupport" xml:space="preserve">
     <value>skontaktuj się ze wsparciem technicznym Mailbird</value>
     <comment>contact Mailbird support</comment>
   </data>
   <data name="LostDraft_Explanation" xml:space="preserve">
-    <value>Coś poszło nie tak podczas próby wyświetlenia twojego szkicu. Aby kontynuować [btn_1]
+    <value>Coś poszło nie tak podczas próby wyświetlenia tej wersji roboczej. Aby kontynuować [btn_1]
 
 
 Jeśli często widzisz ten błąd, [btn_2]</value>
-    <comment>Note:
+  <comment>Note:
 The final text will look like this,
 Something went wrong while trying to display your draft. To continue, please reload it
 
@@ -6141,8 +6141,8 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <value>Czytaj i wymieniaj się spostrzeżeniami z użytkownikami z całego świata.</value>
     </data>
   <data name="App_UnrollMe_Description" xml:space="preserve">
-    <value>Oczyść swoją skrzynkę odbiorczą.</value>
-    </data>
+    <value>Uporządkuj swoją skrzynkę odbiorczą.</value>
+  </data>
   <data name="App_WeChat_Description" xml:space="preserve">
     <value>Popularny w Chinach, darmowy komunikator z wieloma funkcjami społecznościowymi.</value>
     </data>
@@ -6161,8 +6161,8 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Watermark for search textbox</comment>
   </data>
   <data name="App_Contacts_BrowseContacts_SelectAll" xml:space="preserve">
-    <value>Zaznacz wszystkie</value>
-    <comment>Label for checkbox to select all contacts</comment>
+    <value>Wybierz wszystkie</value>
+  <comment>Label for checkbox to select all contacts</comment>
   </data>
   <data name="App_Contacts_Browse_Add" xml:space="preserve">
     <value>Dodaj</value>
@@ -6281,11 +6281,11 @@ Wypróbuj nowe Kontakty już teraz!</value>
   <comment>Formatting button to align paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentLess" xml:space="preserve">
-    <value>Mniejsze wcięcie</value>
+    <value>Zmniejsz wcięcie</value>
   <comment>Formatting button to give less indent in paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentMore" xml:space="preserve">
-    <value>Większe wcięcie</value>
+    <value>Zwiększ wcięcie</value>
   <comment>Formatting button to give more indent in paragraph</comment>
   </data>
   <data name="Message_DropAsInline" xml:space="preserve">
@@ -6293,7 +6293,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
   <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
   </data>
   <data name="Options_AutoTagRecipients" xml:space="preserve">
-    <value>Automatycznie dodawaj odbiorców, podczas oznaczania @</value>
+    <value>Automatycznie dodawaj odbiorców, podczas oznaczania "@"</value>
   <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
   </data>
   <data name="UpdatePreference_Auto" xml:space="preserve">
@@ -6409,7 +6409,7 @@ Skontaktuj się z supportem, by uzyskać informacje na temat możliwości rozwi�
   <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
   </data>
 <data name="Options_ScaleApplication" xml:space="preserve">
-    <value>Poziom skalowania aplikacji</value>
+    <value>Poziom skalowania programu</value>
   <comment>Header for option to change the UI scaling</comment>
   </data>
   <data name="Options_ScaleInfo" xml:space="preserve">
@@ -6421,7 +6421,7 @@ Skontaktuj się z supportem, by uzyskać informacje na temat możliwości rozwi�
   <comment>Header for other options to scale the UI</comment>
   </data>
   <data name="Options_ScaleOthersExplanation" xml:space="preserve">
-    <value>Następujące poziomy skalowania będę zastosowane do poziomu skalowania aplikacji, i mogą zostać użyte do dostrojenia poziomu wiadomości e-mail i aplikacji, które je wspierają.</value>
+    <value>Następujące poziomy skalowania będę zastosowane do poziomu skalowania aplikacji i mogą zostać użyte do dostrojenia poziomu wiadomości e-mail i aplikacji, które je wspierają.</value>
   <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
@@ -6487,11 +6487,11 @@ Więc prosimy o Twoją zgodę na przysyłanie Ci okazjonalnych e-maili wyłączn
   <comment>Title text when search result is selected</comment>
   </data>
   <data name="SyncStatus_Error" xml:space="preserve">
-    <value>ERROR</value>
+    <value>BŁĄD</value>
   <comment>When there is sync error</comment>
   </data>
   <data name="SyncStatus_Offline" xml:space="preserve">
-    <value>OFFLINE</value>
+    <value>BRAK POŁĄCZENIA</value>
   <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
