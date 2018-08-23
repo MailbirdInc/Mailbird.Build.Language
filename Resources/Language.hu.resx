@@ -3674,9 +3674,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Jelöljük be, ha olyan furcsa megjelenítési problémák merülnek fel mint a pixeles betűk vagy a szín megváltozása és a grafikus kártya meghajtók frissítése nem vezet eredményre.
-
-Ne feledjük, hogy bejelölve ezt a legtöbb esetben rosszabb működést és magasabb CPU használatot eredményez. Ritka esetekben azonban a kis teljesítményű grafikus kártyáknál a működés javulhat.</value>
+    <value>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
   <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -6515,5 +6513,9 @@ Ezért szeretnénk engedélyed kérni, hogy küldhessünk alkalmanként e-mailt 
   <data name="SyncStatus_Searching" xml:space="preserve">
     <value>A keresés folyamatban van...</value>
   <comment>When Mailbird is searching</comment>
+  </data>
+  <data name="ProgressWorking" xml:space="preserve">
+    <value>Working... please wait</value>
+    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
   </data>
 </root>

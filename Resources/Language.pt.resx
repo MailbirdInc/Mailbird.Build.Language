@@ -3672,10 +3672,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Seleccione esta opção se estiver a experienciar problemas estranhos de ecrã, como letras pixelizadas ou a mudar de cor, e se a actualização dos drivers da sua placa gráfica não resolver o problema.
-
-Tenha em atenção que activar esta opção vai, na maioria dos casos, resultar num desempenho de interface inferior e maior utilização de CPU. No entanto, em alguns casos, com placas gráficas low-end, pode melhorar o desempenho.</value>
-    <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
+    <value>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
+  <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
   </data>
@@ -6509,5 +6507,9 @@ Por isso, gostaríamos de pedir a sua permissão para enviar um e-mail ocasional
   <data name="SyncStatus_Searching" xml:space="preserve">
     <value>A pesquisar...</value>
   <comment>When Mailbird is searching</comment>
+  </data>
+  <data name="ProgressWorking" xml:space="preserve">
+    <value>Working... please wait</value>
+    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
   </data>
 </root>
