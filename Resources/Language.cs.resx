@@ -632,7 +632,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
-    <value>Add link</value>
+    <value>Přidat odkaz</value>
   <comment>Insert Link</comment>
   </data>
   <data name="Identity_Account" xml:space="preserve">
@@ -724,7 +724,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright {0} Mailbird™. All Rights Reserved.</value>
+    <value>Autorská práva {0} Mailbird™. Všechna práva vyhrazena.</value>
   <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -2176,7 +2176,7 @@ Consider configuring the account in Mailbird to use OAuth 2.0 authentication ins
   <comment>Edit settings</comment>
   </data>
   <data name="Welcome_EncryptionLabel" xml:space="preserve">
-    <value>šifrování</value>
+    <value>Šifrování:</value>
   <comment>Encryption:</comment>
   </data>
   <data name="Welcome_Facebook" xml:space="preserve">
@@ -3676,7 +3676,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
+    <value>Zaškrtněte tuto možnost, pokud se vyskytnou problémy s grafikou, jako jsou pixelizovaná písmena nebo změna barev, a aktualizace ovladačů grafické karty nepomůže.</value>
   <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -5604,7 +5604,7 @@ NB: Menu in context menu to do copy action</comment>
   <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
   </data>
   <data name="SpeedRead_Speed" xml:space="preserve">
-    <value>{0} slov pro min.</value>
+    <value>{0} slov za minutu</value>
   <comment>{0} will be replaced with the speed, WPM stands for words per minute</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_LocalExplanation" xml:space="preserve">
@@ -6209,64 +6209,64 @@ Zkuste nové Kontakty již teď!</value>
   <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Account limit exceeded</value>
-    <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
+    <value>Překročen limit účtu</value>
+  <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
-    <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
+    <value>Tato identita je zakázána. Upgradujte na Mailbird Pro, abyste si mohli užívat neomezené účty.</value>
+  <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>This identity is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when identity is disabled due to server logging is on</comment>
+    <value>Tato identita je blokována kvůli přihlášení k serveru.</value>
+  <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the account limit in Mailbird Lite.</value>
-    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+    <value>Tento účet byl zakázán, protože jste dosáhli limitu účtu v programu Mailbird Lite.</value>
+  <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
-    <value>This account is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when account is disabled due to server logging is on</comment>
+    <value>Tento účet je zakázán kvůli povolení protokolování serveru.</value>
+  <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro to keep receiving and sending emails from this account.</value>
-    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+    <value>Aktualizujte na Mailbird Pro, abyste mohli stále přijímat a odesílat e-maily z tohoto účtu.</value>
+  <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
-    <comment>Button to upgrade to pro</comment>
+    <value>Upgradujte nyní</value>
+  <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some of your accounts have been disabled because your Mailbird Pro trial has ended. You are now using Mailbird Lite. Mailbird Lite supports {0} email account(s) free for life. Please upgrade to Pro in order to continue using all of your accounts.</value>
-    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Některé z vašich účtů byly zakázány, protože zkušební verze Mailbird Pro skončila. Nyní používáte Mailbird Lite. Mailbird Lite podporuje {0} e-mailové(á) konto(a) zdarma. Chcete-li pokračovat ve využívání všech vašich účtů, upgradujte na Pro.</value>
+  <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Upgrade to keep using all of your accounts in Mailbird.</value>
-    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Aktualizujte Mailbird pro používání všech vašich účtů.</value>
+  <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
-    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Vaše zkušební verze skončila.</value>
+  <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>For any assistance, please contact us at support@getmailbird.com.</value>
-    <comment>Footer in upgrade notification window</comment>
+    <value>Potřebujete-li pomoc, obraťte se na nás na adrese support@getmailbird.com.</value>
+  <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
-    <value>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</value>
-    <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
+    <value>Toto je Lite verze Mailbird. Pokud se vám líbí Mailbird a chcete uvolnit sílu Mailbird Pro, prosím, upgradujte</value>
+  <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
   </data>
   <data name="UpgradeNotification_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird Pro</value>
-    <comment>Purchase Mailbird Pro</comment>
+    <value>Koupit Mailbird Pro</value>
+  <comment>Purchase Mailbird Pro</comment>
   </data>
   <data name="UpgradeNotification_Subtitle" xml:space="preserve">
-    <value>Would you like to get a Pro license now?</value>
-    <comment>Would you like to get a Pro license now?</comment>
+    <value>Chcete získat licenci Pro?</value>
+  <comment>Would you like to get a Pro license now?</comment>
   </data>
   <data name="UpgradeNotification_Title" xml:space="preserve">
-    <value>Thanks for using Mailbird.</value>
-    <comment>Thanks for using Mailbird.</comment>
+    <value>Děkujeme, že používáte Mailbird.</value>
+  <comment>Thanks for using Mailbird.</comment>
   </data>
   <data name="App_GoogleKeep_Description" xml:space="preserve">
     <value>Vytvářejte, upravujte, sdílejte a spolupracujte na svých poznámkách a připomenutích na jakémkoli zařízení, odkudkoli.</value>
@@ -6293,201 +6293,201 @@ Zkuste nové Kontakty již teď!</value>
   <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
   </data>
   <data name="Options_AutoTagRecipients" xml:space="preserve">
-    <value>Auto-add recipients when @ tagging</value>
-    <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
+    <value>Automatické přidání příjemce při stisku @</value>
+  <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
   </data>
   <data name="UpdatePreference_Auto" xml:space="preserve">
-    <value>Install updates automatically</value>
-    <comment>Options to install update silently</comment>
+    <value>Automatické instalace aktualizací</value>
+  <comment>Options to install update silently</comment>
   </data>
   <data name="Button_RestartMailbird" xml:space="preserve">
-    <value>Restart Mailbird</value>
-    <comment>Label for button to restart Mailbird.</comment>
+    <value>Restartovat Mailbird</value>
+  <comment>Label for button to restart Mailbird.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyHeader" xml:space="preserve">
-    <value>An update is ready for you</value>
-    <comment>Header of notification informing the user that an update is ready to be installed.</comment>
+    <value>Aktualizace je pro vás připravena</value>
+  <comment>Header of notification informing the user that an update is ready to be installed.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyMessage" xml:space="preserve">
-    <value>The latest version of Mailbird is ready to be installed.
+    <value>Nejnovější verze programu Mailbird je připravena k instalaci.
 
-Restart now to get the latest improvements and fixes - it'll only take a second.</value>
-    <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
+Restartujte teď, abyste získali nejnovější vylepšení a opravy - bude to trvat jen chvilku.</value>
+  <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
   </data>
 <data name="Notification_SilentUpdateAppliedHeader" xml:space="preserve">
-    <value>Mailbird has been updated</value>
-    <comment>Header of notification shown when Mailbird has been updated.</comment>
+    <value>Mailbird byl aktualizován</value>
+  <comment>Header of notification shown when Mailbird has been updated.</comment>
   </data>
   <data name="Notification_SilentUpdateAppliedMessage" xml:space="preserve">
-    <value>A new version of Mailbird has been installed. Release notes are shown below.</value>
-    <comment>Message of notification shown when Mailbird has been updated.</comment>
+    <value>Byla nainstalována nová verze Mailbird. Poznámky k vydání jsou uvedeny níže.</value>
+  <comment>Message of notification shown when Mailbird has been updated.</comment>
   </data>
 <data name="Disabled_MessageHeaderAccount" xml:space="preserve">
-    <value>Account is disabled</value>
-    <comment>Header when performing action is not allowed due to disabled account </comment>
+    <value>Účet je zakázán</value>
+  <comment>Header when performing action is not allowed due to disabled account </comment>
   </data>
   <data name="Disabled_MessageHeaderIdentity" xml:space="preserve">
-    <value>Identity is disabled</value>
-    <comment>Header when performing action is not allowed due to disabled identity</comment>
+    <value>Identita je zakázána</value>
+  <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
 <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose pricing plan:</value>
-    <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
+    <value>Vyberte si předplatné:</value>
+  <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
 <data name="NewMessage_NewMessageSingular" xml:space="preserve">
     <value>{0} nová zpráva</value>
   <comment>Label for button when there is 1 new message</comment>
   </data>
   <data name="Dialog_EmptyFolder" xml:space="preserve">
-    <value>Empty folder?</value>
-    <comment>Dialog box title when user is about to empty a folder</comment>
+    <value>Vyprázdnit složku?</value>
+  <comment>Dialog box title when user is about to empty a folder</comment>
   </data>
   <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard all emails in this folder?</value>
-    <comment>Dialog box explanation when user is about to empty a folder</comment>
+    <value>Opravdu chcete odstranit všechny e-maily v této složce?</value>
+  <comment>Dialog box explanation when user is about to empty a folder</comment>
   </data>
   <data name="Account_Exchange_Domain" xml:space="preserve">
-    <value>Domain</value>
-    <comment>Label of the domain field in the user account setup window</comment>
+    <value>Doména</value>
+  <comment>Label of the domain field in the user account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Show reading pane</value>
-    <comment>Option to hide the email view</comment>
+    <value>Zobrazit panel pro čtení</value>
+  <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
-    <value>Server URL</value>
-    <comment>Label of the Exchange server field in the user account setup window</comment>
+    <value>Adresa URL serveru</value>
+  <comment>Label of the Exchange server field in the user account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Full dark theme</value>
-    <comment>Label for full dark theme</comment>
+    <value>Plný tmavý motiv</value>
+  <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
-    <value>Exchange Server Authentication</value>
-    <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
+    <value>Ověřování Exchange serveru</value>
+  <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>The Exchange Server version you are trying to connect to is currently not supported. Mailbird supports Exchange Server 2010 and above. Please contact support for more information.</value>
-    <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
+    <value>Verze serveru Exchange, ke kterému se pokoušíte připojit, momentálně není podporován. Mailbird podporuje Exchange Server 2010 a vyšší. Pro více informací kontaktujte podporu.</value>
+  <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Your Exchange account appears to be locked. Please contact your server administrator to continue using this account.</value>
-    <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
+    <value>Váš účet Exchange se zdá být uzamčen. Obraťte se na správce serveru, abyste mohli tento účet nadále používat.</value>
+  <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>The Exchange autodiscover service cannot be located. Make sure your email and password is correct and try again, or contact your server administrator to make sure autodiscover is enabled.</value>
-    <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
+    <value>Služba Exchange autodiscover nelze najít. Ujistěte se, že je váš e-mail a heslo správné, a zkuste to znovu, nebo kontaktujte administrátora serveru a ujistěte se, že je služba autodiscover povolena.</value>
+  <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>This is a Microsoft Exchange account</value>
-    <comment>Label in the checkbox to specify adding an Exchange account</comment>
+    <value>Jedná se o účet Microsoft Exchange</value>
+  <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>An error occured attaching the file.
+    <value>Při připojování souboru došlo k chybě.
 
-This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
+Toto je nejčastěji způsobeno antivirovým programem, který nepracuje s Mailbird. Dočasně deaktivujte antivirový program a zkuste to znovu.
 
-If the error persists, please contact support.</value>
-    <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
+Pokud chyba přetrvává, kontaktujte podporu.</value>
+  <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
-    <value>Database version mismatch</value>
-    <comment>Header of message shown when the database version doesn't match the requested version.</comment>
+    <value>Neshoda verze databáze</value>
+  <comment>Header of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
-    <value>The version of the database does not match this version of Mailbird.
+    <value>Verze databáze neodpovídá této verzi Mailbird.
 
-Please contact support for information on how to resolve this.</value>
-    <comment>Body of message shown when the database version doesn't match the requested version.</comment>
+Obraťte se na podporu, kde naleznete informace o řešení tohoto problému.</value>
+  <comment>Body of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
-    <value>Leave blank to have Mailbird autodetect your Microsoft Exchange Server URL</value>
-    <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
+    <value>Ponechte prázdné, aby Mailbird automaticky rozpoznala adresu URL serveru Microsoft Exchange</value>
+  <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
   </data>
   <data name="NewMessage_NewMessagePlural" xml:space="preserve">
-    <value>{0} new messages</value>
-    <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
+    <value>{0} nových zpráv</value>
+  <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
   </data>
 <data name="Options_ScaleApplication" xml:space="preserve">
-    <value>Application scaling level</value>
-    <comment>Header for option to change the UI scaling</comment>
+    <value>Úroveň měřítka programu</value>
+  <comment>Header for option to change the UI scaling</comment>
   </data>
   <data name="Options_ScaleInfo" xml:space="preserve">
-    <value>The new scaling level will be applied to this window the next time you open it.</value>
-    <comment>Info wdhen scale is changed in Settings window</comment>
+    <value>Nová úroveň měřítka bude použita pro toto okno při příštím otevření.</value>
+  <comment>Info wdhen scale is changed in Settings window</comment>
   </data>
   <data name="Options_ScaleOthers" xml:space="preserve">
-    <value>Other scaling levels</value>
-    <comment>Header for other options to scale the UI</comment>
+    <value>Další úrovně měřítka</value>
+  <comment>Header for other options to scale the UI</comment>
   </data>
   <data name="Options_ScaleOthersExplanation" xml:space="preserve">
-    <value>The following scaling levels will be applied to the application scaling level, and can be used to fine tune the level for emails and the apps that supports it.</value>
-    <comment>Explanation for other options to scale the UI</comment>
+    <value>Následující úrovně měřítka budou aplikovány na úroveň měřítka aplikací a mohou být použity k vyladění úrovně e-mailových zpráv a aplikací, které je podporují.</value>
+  <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
-    <value>Reset scaling level</value>
+    <value>Obnovit úroveň měřítka</value>
   <comment>Tooltip text for button to reset the scaling level, (Ctrl+0) doesn't need to be translated</comment>
   </data>
 <data name="MailEditor_CcBcc" xml:space="preserve">
-    <value>Cc Bcc</value>
-    <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
+    <value>Kopie / Skrytá kopie</value>
+  <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
   </data>
   <data name="MailEditor_CollapseCcBcc" xml:space="preserve">
-    <value>Hide Cc Bcc fields</value>
-    <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
+    <value>Skrýt pole Kopie / Skrytá kopie</value>
+  <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
   </data>
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
-    <value>Show Cc Bcc fields</value>
-    <comment>Tooltip for button to expand Cc and Bcc fields</comment>
+    <value>Zobrazit pole Kopie / Skrytá kopie</value>
+  <comment>Tooltip for button to expand Cc and Bcc fields</comment>
   </data>
 <data name="Editor_EditLink" xml:space="preserve">
-    <value>Edit link</value>
-    <comment>Header of window when editing link</comment>
+    <value>Upravit odkaz</value>
+  <comment>Header of window when editing link</comment>
   </data>
   <data name="Tips_Unread" xml:space="preserve">
-    <value>Unread</value>
-    <comment>Tooltip for unread tips</comment>
+    <value>Nepřečtené</value>
+  <comment>Tooltip for unread tips</comment>
   </data>
 <data name="Conversation_ReceivedIn" xml:space="preserve">
-    <value>Received in {0}</value>
-    <comment>Tooltip text for indicator where a conversation is received: Received in email@provider.com</comment>
+    <value>Přijata v {0}</value>
+  <comment>Tooltip text for indicator where a conversation is received: Received in email@provider.com</comment>
   </data>
   <data name="Welcome_ColorIndicator" xml:space="preserve">
-    <value>Color indicator in unified account.</value>
-    <comment>Label in settings for choosing color indicator for account when unified account is selected</comment>
+    <value>Barevný indikátor v jednotném účtu.</value>
+  <comment>Label in settings for choosing color indicator for account when unified account is selected</comment>
   </data>
   <data name="Welcome_ColorReset" xml:space="preserve">
-    <value>Reset</value>
-    <comment>Button to reset the color indicator of an account</comment>
+    <value>Resetovat</value>
+  <comment>Button to reset the color indicator of an account</comment>
   </data>
   <data name="FolderIdentity_Folders" xml:space="preserve">
-    <value>Folders</value>
-    <comment>Tooltip for button to open the folder list in left menu</comment>
+    <value>Složky</value>
+  <comment>Tooltip for button to open the folder list in left menu</comment>
   </data>
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
-    <value>We value your privacy and would like to stay in touch.
+    <value>Oceňujeme vaše soukromí a rádi bychom zůstali v kontaktu.
 
-So we'd like to ask your permission to send you the occasional email with purely Mailbird related things like usability tips, special promotions and details on new exciting Mailbird features.</value>
+Proto bychom rádi požádali o svolení, abychom vám zaslali příležitostné e-maily s čistě Mailbird souvisejícími užitečnými tipy, speciálními propagačními akcemi a detaily o nových vzrušujících funkcích Mailbird.</value>
   <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
-    <value>NO THANKS</value>
-    <comment>Button to not give consent</comment>
+    <value>NE, děkuji</value>
+  <comment>Button to not give consent</comment>
   </data>
   <data name="Welcome_ConsentStepYes" xml:space="preserve">
-    <value>YES, LET'S STAY IN TOUCH</value>
-    <comment>Button to give consent</comment>
+    <value>ANO, zůstaňte v kontaktu</value>
+  <comment>Button to give consent</comment>
   </data>
   <data name="Options_Scaling" xml:space="preserve">
-    <value>Scaling</value>
-    <comment>Section in settings window to adjust scaling of the UI</comment>
+    <value>Měřítko</value>
+  <comment>Section in settings window to adjust scaling of the UI</comment>
   </data>
   <data name="Folder_SearchResult" xml:space="preserve">
-    <value>Search result</value>
-    <comment>Title text when search result is selected</comment>
+    <value>Výsledek vyhledávání</value>
+  <comment>Title text when search result is selected</comment>
   </data>
   <data name="SyncStatus_Error" xml:space="preserve">
-    <value>ERROR</value>
+    <value>CHYBA</value>
   <comment>When there is sync error</comment>
   </data>
   <data name="SyncStatus_Offline" xml:space="preserve">
@@ -6495,27 +6495,27 @@ So we'd like to ask your permission to send you the occasional email with purely
   <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
-    <value>Synced</value>
+    <value>Synchronizováno</value>
   <comment>When syncing is completed</comment>
   </data>
   <data name="SyncStatus_Syncing" xml:space="preserve">
-    <value>Syncing...</value>
-    <comment>When Mailbird is syncing</comment>
+    <value>Synchronizace ..</value>
+  <comment>When Mailbird is syncing</comment>
   </data>
   <data name="Notification_ShowError" xml:space="preserve">
-    <value>Show error</value>
-    <comment>Tooltip for button to show error details</comment>
+    <value>Zobrazit chybu</value>
+  <comment>Tooltip for button to show error details</comment>
   </data>
   <data name="SyncStatus_SearchComplete" xml:space="preserve">
-    <value>Done</value>
-    <comment>When search is completed</comment>
+    <value>Hotovo</value>
+  <comment>When search is completed</comment>
   </data>
   <data name="SyncStatus_Searching" xml:space="preserve">
-    <value>Searching...</value>
-    <comment>When Mailbird is searching</comment>
+    <value>Hledání ..</value>
+  <comment>When Mailbird is searching</comment>
   </data>
   <data name="ProgressWorking" xml:space="preserve">
-    <value>Working... please wait</value>
-    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+    <value>Pracuji .. čekejte prosím</value>
+  <comment>Message shown when Mailbird is working on something that will take a while.</comment>
   </data>
 </root>
