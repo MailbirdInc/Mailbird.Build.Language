@@ -724,7 +724,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright {0} Mailbird™. All Rights Reserved.</value>
+    <value>Urheberrecht {0} Mailbird™. Alle Rechte vorbehalten.</value>
   <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -1584,8 +1584,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Identities &amp; Signatures</comment>
   </data>
   <data name="Options_ImportantIndicator" xml:space="preserve">
-    <value>„Wichtige Nachricht“-Anzeige einblenden</value>
-    <comment>Show "important mail" indicator</comment>
+    <value>Anzeige „Wichtige Nachricht” einblenden</value>
+  <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
     <value>Einleitungstext für Inline-Antworten</value>
@@ -1888,8 +1888,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>AVAILABLE GMAIL SHORTCUTS</comment>
   </data>
   <data name="Shortcut_GmailExplanation" xml:space="preserve">
-    <value>Aktivieren Sie die folgenden Gmail-Tastaturkürzel in den Mailbird-Einstellungen.</value>
-    <comment>Enable the following GMail shortcuts below from the Mailbird Options window.</comment>
+    <value>Folgende GMail-Verknüpfungen unten im Mailbird-Einstellungsfenster aktivieren</value>
+  <comment>Enable the following GMail shortcuts below from the Mailbird Options window.</comment>
   </data>
   <data name="Shortcut_Help" xml:space="preserve">
     <value>Hilfe zu Tastaturkürzeln anzeigen</value>
@@ -2157,8 +2157,8 @@ https://support.google.com/accounts/answer/185833</comment>
     <comment>Connections:</comment>
   </data>
   <data name="Welcome_DetectingSettingsSubTitle" xml:space="preserve">
-    <value>Bitte warten, während Mailbird nach Server-Einstellungen suchen.</value>
-    <comment>Please wait while we search for server settings.</comment>
+    <value>Bitte warten, während nach Servereinstellungen gesucht wird</value>
+  <comment>Please wait while we search for server settings.</comment>
   </data>
   <data name="Welcome_DetectingSettingsTitle" xml:space="preserve">
     <value>Einstellungen werden ermittelt …</value>
@@ -3452,8 +3452,8 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird konnte die Nachricht nicht senden. Bitte überprüfen Sie die Einstellungen des Postausgangsservers Ihrer „Von“-Identität.</value>
-    <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
+    <value>Mailbird konnte die Nachricht nicht senden. Bitte überprüfen Sie die Einstellungen des Postausgangsservers Ihrer „Von”-Identität.</value>
+  <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
     <value>Empfänger</value>
@@ -3674,7 +3674,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
+    <value>Überprüfen Sie dies, wenn es zu seltsamen Darstellungsproblemen kommt, wie z.B. das Verpixeln von Buchstaben oder das Ändern der Farbe, und das Aktualisieren der Grafikkartentreiber dies nicht behebt.</value>
   <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -3684,7 +3684,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Composing</comment>
   </data>
   <data name="Options_Snooze_Preferences" xml:space="preserve">
-    <value>„Später lesen”-Einstellungen</value>
+    <value>Einstellungen zu „Später lesen”</value>
   <comment>Snooze preferences</comment>
   </data>
   <data name="Options_Snooze_Weekly_Schedule" xml:space="preserve">
@@ -4548,8 +4548,8 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>In den Einstellungen bitte die korrekte Audiodatei wählen.</value>
-    <comment>Please select the correct audio file from options</comment>
+    <value>Bitte wählen Sie die gewünschte Audiodatei aus den Einstellungen aus.</value>
+  <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
     <value>Bitte die korrekte Audiodatei wählen.</value>
@@ -4990,8 +4990,8 @@ Are you sure you want to close the window?</comment>
     <comment>Never check for updates</comment>
   </data>
   <data name="Options_UpdatePreference" xml:space="preserve">
-    <value>Mailbird-Update-Einstellungen wählen:</value>
-    <comment>Choose your Mailbird update settings:</comment>
+    <value>Wählen Sie Ihre Mailbird-Aktualisierungseinstellungen:</value>
+  <comment>Choose your Mailbird update settings:</comment>
   </data>
 <data name="ContextMenu_RedownloadImage" xml:space="preserve">
     <value>Grafik erneut laden</value>
@@ -6111,7 +6111,7 @@ Entdecken Sie jetzt die Möglichkeiten des neuen Adressbuches!</value>
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Create your own video conversation room easily and share the link, up to 4 people can join without registration for free.</value>
+    <value>Erstellen Sie Ihren eigenen Videokonferenzraum und teilen Sie den Link, bis zu 4 Personen können ohne Registrierung kostenlos teilnehmen.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
     <value>Speichern Sie Ihre Dateien in der Cloud, 100 GB kostenlose Cloud-Sicherung.</value>
@@ -6521,7 +6521,7 @@ Daher möchten wir Sie um die Erlaubnis bitten, Ihnen gelegentlich E-Mails mit a
   <comment>When Mailbird is searching</comment>
   </data>
   <data name="ProgressWorking" xml:space="preserve">
-    <value>Working... please wait</value>
-    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+    <value>Wird ausgeführt … Bitte warten …</value>
+  <comment>Message shown when Mailbird is working on something that will take a while.</comment>
   </data>
 </root>
