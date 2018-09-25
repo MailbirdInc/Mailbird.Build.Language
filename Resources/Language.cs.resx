@@ -440,7 +440,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>No default browser found</comment>
   </data>
   <data name="Dialog_NoBrowserExplanation" xml:space="preserve">
-    <value>Nelze otevřít URL odkaz. Prosíme zkontrolujte zda je Váš výchozí prohlížeč nainstalován, případně přeinstalujte Google Chrome nebo Internet Explorer.</value>
+    <value>Nelze otevřít URL odkaz. Prosíme zkontrolujte jestli je Váš výchozí prohlížeč nainstalován, případně přeinstalujte Google Chrome nebo Internet Explorer.</value>
   <comment>Could not open the URL. Please double check that you have the default browser properly installed, and try to re-install e.g. Google Chrome or Internet Explorer.</comment>
   </data>
   <data name="Dialog_OK" xml:space="preserve">
@@ -518,8 +518,8 @@ Message:</comment>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>Došlo k chybě při pokusu ověřit nastavené připojení. Zkontrolujte zda bylo vše správně zadáno.</value>
-    <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
+    <value>Došlo k chybě při pokusu ověřit nastavené připojení. Zkontrolujte jestli bylo vše správně zadáno.</value>
+  <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
   <data name="Dialog_SmtpSuccess" xml:space="preserve">
     <value>Spojení SMTP bylo úspěšné</value>
@@ -4539,7 +4539,7 @@ Please try again and log in with the correct account before granting access.</co
   <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Zkontrolujte nastavení účtu a ověřte, zda jsou správné a že Mailbird je oprávněn k přístupu k vašemu e-mailovému účtu.</value>
+    <value>Zkontrolujte nastavení účtu a ověřte, jestli jsou správné a že Mailbird je oprávněn k přístupu k vašemu e-mailovému účtu.</value>
   <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
@@ -4973,11 +4973,11 @@ Opravdu chcete zavřít okno?</value>
 Are you sure you want to close the window?</comment>
   </data>
   <data name="UpdatePreference_CheckWithAutoDownload" xml:space="preserve">
-    <value>Stahovat aktualizace, ale dovolte mi rozhodl, zda je instalovat</value>
+    <value>Stahovat aktualizace, ale dovolte mi rozhodnout, jestli je instalovat</value>
   <comment>Download updates but let me choose whether to install them</comment>
   </data>
   <data name="UpdatePreference_CheckWithoutAutoDownload" xml:space="preserve">
-    <value>Zkontrolovat aktualizace, ale dovolte mi rozhodnout, zda je stáhnout a instalovat</value>
+    <value>Zkontrolovat aktualizace, ale dovolte mi rozhodnout, jestli je stáhnout a instalovat</value>
   <comment>Check for updates but let me choose whether to download and install them</comment>
   </data>
   <data name="UpdatePreference_NeverCheck" xml:space="preserve">
