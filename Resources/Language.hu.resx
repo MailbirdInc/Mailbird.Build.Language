@@ -1667,16 +1667,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>Animációk megjelenítése</value>
     <comment>Show animations</comment>
   </data>
-  <data name="Options_DisableDirectWrite" xml:space="preserve">
-    <value>DirectWrite letiltása</value>
-  <comment>Disable DirectWrite</comment>
-  </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Küldés és archiválás gomb megjelenítése</value>
+    <value>Show "send &amp; archive" button</value>
   <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
-    <value>Szoftveres megjelenítés erőltetés</value>
+    <value>Enable hardware rendering</value>
   <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
@@ -3614,7 +3610,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
-    <value>Licensz aktiválása</value>
+    <value>Activate license</value>
   <comment>Activate Licence</comment>
   </data>
   <data name="Snooze_SnoozedUntil" xml:space="preserve">
@@ -3669,12 +3665,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <value>Működés és adathasználat megosztása</value>
   <comment>Share performance and usage data</comment>
   </data>
-  <data name="Options_DisableDirectWriteExplanation" xml:space="preserve">
-    <value>Jelöljük be, ha a szövegek homályosak az emailekben és egyes alkalmazásokban.</value>
-  <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
-  </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Ellenőrizze ezt, ha olyan furcsa megjelenítési problémákat tapasztal, mint például a pixelek szétesése vagy színváltása, a grafikus kártya-illesztőprogram frissítése nem javítja-e.</value>
+    <value>Uncheck this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
   <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -6517,5 +6509,17 @@ Ezért szeretnénk engedélyed kérni, hogy küldhessünk alkalmanként e-mailt 
   <data name="ProgressWorking" xml:space="preserve">
     <value>Dolgozom... kérlek várj</value>
   <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+  </data>
+  <data name="Options_EnableDirectWrite" xml:space="preserve">
+    <value>Enable DirectWrite</value>
+    <comment>Checkbox to enable DirectWrite</comment>
+  </data>
+  <data name="Options_EnableDirectWriteExplanation" xml:space="preserve">
+    <value>Uncheck this if you experience blurry text in emails and some of the apps.</value>
+    <comment>Explanation on what DirectWrite is</comment>
+  </data>
+  <data name="Options_Archiving" xml:space="preserve">
+    <value>Archiving</value>
+    <comment>Section in options window related to archiving emails</comment>
   </data>
 </root>

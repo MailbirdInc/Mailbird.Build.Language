@@ -1667,17 +1667,13 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>Montrer les animations</value>
     <comment>Show animations</comment>
   </data>
-  <data name="Options_DisableDirectWrite" xml:space="preserve">
-    <value>Désactiver DirectWrite</value>
-    <comment>Disable DirectWrite</comment>
-  </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Afficher le bouton envoyer &amp; archiver</value>
-    <comment>Show send &amp; archive button</comment>
+    <value>Show "send &amp; archive" button</value>
+  <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
-    <value>Forcer le rendu logiciel</value>
-    <comment>Force software rendering</comment>
+    <value>Enable hardware rendering</value>
+  <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
     <value>Jouer un son lors de la réception d'un message</value>
@@ -3611,8 +3607,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
-    <value>Activer la license</value>
-    <comment>Activate Licence</comment>
+    <value>Activate license</value>
+  <comment>Activate Licence</comment>
   </data>
   <data name="Snooze_SnoozedUntil" xml:space="preserve">
     <value>Snoozer jusqu'à {0}</value>
@@ -3666,12 +3662,8 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <value>Partagee les données sur l'usage et les performances</value>
     <comment>Share performance and usage data</comment>
   </data>
-  <data name="Options_DisableDirectWriteExplanation" xml:space="preserve">
-    <value>Cochez cette case si vous rencontrez du texte flou dans vos courriels ou dans certaines des applications.</value>
-    <comment>Check this if you experience blurry text in emails and some of the apps.</comment>
-  </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
+    <value>Uncheck this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
   <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -6511,5 +6503,17 @@ So we'd like to ask your permission to send you the occasional email with purely
   <data name="ProgressWorking" xml:space="preserve">
     <value>Working... please wait</value>
     <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+  </data>
+  <data name="Options_EnableDirectWrite" xml:space="preserve">
+    <value>Enable DirectWrite</value>
+    <comment>Checkbox to enable DirectWrite</comment>
+  </data>
+  <data name="Options_EnableDirectWriteExplanation" xml:space="preserve">
+    <value>Uncheck this if you experience blurry text in emails and some of the apps.</value>
+    <comment>Explanation on what DirectWrite is</comment>
+  </data>
+  <data name="Options_Archiving" xml:space="preserve">
+    <value>Archiving</value>
+    <comment>Section in options window related to archiving emails</comment>
   </data>
 </root>
