@@ -724,7 +724,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright {0} Mailbird™. All Rights Reserved.</value>
+    <value>Авторские права {0} Mailbird™. Все права защищены.</value>
   <comment>Copyright 2015 Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
@@ -1668,11 +1668,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show animations</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Show "send &amp; archive" button</value>
+    <value>Показать кнопку "Отправить и архивировать"</value>
   <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
-    <value>Enable hardware rendering</value>
+    <value>Включить аппаратное ускорение</value>
   <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
@@ -3610,7 +3610,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
-    <value>Activate license</value>
+    <value>Активировать лицензию</value>
   <comment>Activate Licence</comment>
   </data>
   <data name="Snooze_SnoozedUntil" xml:space="preserve">
@@ -3666,7 +3666,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Share performance and usage data</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Uncheck this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
+    <value>Снимите этот флажок, если у Вас проблемы с отображением букв, неровности или изменение цвета, и обновление графических драйверов видеокарты не устраняют проблему.</value>
   <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -5785,7 +5785,7 @@ with Mailbird Pro?</comment>
   <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Обновить</value>
   <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
@@ -6486,7 +6486,7 @@ So we'd like to ask your permission to send you the occasional email with purely
   <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
-    <value>Synced</value>
+    <value>Синхронизировано</value>
   <comment>When syncing is completed</comment>
   </data>
   <data name="SyncStatus_Syncing" xml:space="preserve">
@@ -6498,27 +6498,27 @@ So we'd like to ask your permission to send you the occasional email with purely
   <comment>Tooltip for button to show error details</comment>
   </data>
   <data name="SyncStatus_SearchComplete" xml:space="preserve">
-    <value>Done</value>
-    <comment>When search is completed</comment>
+    <value>Готово</value>
+  <comment>When search is completed</comment>
   </data>
   <data name="SyncStatus_Searching" xml:space="preserve">
-    <value>Searching...</value>
-    <comment>When Mailbird is searching</comment>
+    <value>Поиск…</value>
+  <comment>When Mailbird is searching</comment>
   </data>
   <data name="ProgressWorking" xml:space="preserve">
-    <value>Working... please wait</value>
-    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+    <value>Работаю... пожалуйста, подождите</value>
+  <comment>Message shown when Mailbird is working on something that will take a while.</comment>
   </data>
   <data name="Options_EnableDirectWrite" xml:space="preserve">
-    <value>Enable DirectWrite</value>
-    <comment>Checkbox to enable DirectWrite</comment>
+    <value>Включить DirectWrite</value>
+  <comment>Checkbox to enable DirectWrite</comment>
   </data>
   <data name="Options_EnableDirectWriteExplanation" xml:space="preserve">
-    <value>Uncheck this if you experience blurry text in emails and some of the apps.</value>
-    <comment>Explanation on what DirectWrite is</comment>
+    <value>Снимите этот флажок, если вы видите размытый текст в сообщениях электронной почты и некоторых приложениях.</value>
+  <comment>Explanation on what DirectWrite is</comment>
   </data>
   <data name="Options_Archiving" xml:space="preserve">
-    <value>Archiving</value>
-    <comment>Section in options window related to archiving emails</comment>
+    <value>Архивирование</value>
+  <comment>Section in options window related to archiving emails</comment>
   </data>
 </root>
