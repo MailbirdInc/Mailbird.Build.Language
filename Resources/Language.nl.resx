@@ -6504,10 +6504,6 @@ So we'd like to ask your permission to send you the occasional email with purely
     <value>Searching...</value>
     <comment>When Mailbird is searching</comment>
   </data>
-  <data name="ProgressWorking" xml:space="preserve">
-    <value>Working... please wait</value>
-    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
-  </data>
   <data name="Options_EnableDirectWrite" xml:space="preserve">
     <value>Enable DirectWrite</value>
     <comment>Checkbox to enable DirectWrite</comment>
@@ -6519,5 +6515,17 @@ So we'd like to ask your permission to send you the occasional email with purely
   <data name="Options_Archiving" xml:space="preserve">
     <value>Archiving</value>
     <comment>Section in options window related to archiving emails</comment>
+  </data>
+  <data name="Working_Generic" xml:space="preserve">
+    <value>Working. Please wait...</value>
+    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+  </data>
+  <data name="Working_IndexingMessages" xml:space="preserve">
+    <value>Indexing messages...</value>
+    <comment>Message shown when indexing messages for search.</comment>
+  </data>
+  <data name="Working_InitializingAccounts" xml:space="preserve">
+    <value>Initializing accounts...</value>
+    <comment>Message shown when removing one or more accounts on startup.</comment>
   </data>
 </root>

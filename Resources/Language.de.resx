@@ -6512,10 +6512,6 @@ Daher möchten wir Sie um die Erlaubnis bitten, Ihnen gelegentlich E-Mails mit a
     <value>Suche...</value>
   <comment>When Mailbird is searching</comment>
   </data>
-  <data name="ProgressWorking" xml:space="preserve">
-    <value>Wird ausgeführt … Bitte warten …</value>
-  <comment>Message shown when Mailbird is working on something that will take a while.</comment>
-  </data>
   <data name="Options_EnableDirectWrite" xml:space="preserve">
     <value>DirectWrite aktivieren</value>
   <comment>Checkbox to enable DirectWrite</comment>
@@ -6527,5 +6523,17 @@ Daher möchten wir Sie um die Erlaubnis bitten, Ihnen gelegentlich E-Mails mit a
   <data name="Options_Archiving" xml:space="preserve">
     <value>Archivierung</value>
   <comment>Section in options window related to archiving emails</comment>
+  </data>
+  <data name="Working_Generic" xml:space="preserve">
+    <value>Working. Please wait...</value>
+    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+  </data>
+  <data name="Working_IndexingMessages" xml:space="preserve">
+    <value>Indexing messages...</value>
+    <comment>Message shown when indexing messages for search.</comment>
+  </data>
+  <data name="Working_InitializingAccounts" xml:space="preserve">
+    <value>Initializing accounts...</value>
+    <comment>Message shown when removing one or more accounts on startup.</comment>
   </data>
 </root>
