@@ -1668,11 +1668,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show animations</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Show "send &amp; archive" button</value>
+    <value>"Gönder &amp; Arşivle" butonunu göster</value>
   <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
-    <value>Enable hardware rendering</value>
+    <value>Donanım işlemesini etkinleştir</value>
   <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
@@ -3608,7 +3608,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
-    <value>Activate license</value>
+    <value>Lisansı etkinleştir</value>
   <comment>Activate Licence</comment>
   </data>
   <data name="Snooze_SnoozedUntil" xml:space="preserve">
@@ -3664,7 +3664,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Share performance and usage data</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Uncheck this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
+    <value>Pikselleştirilen veya renk değiştiren harfler gibi garip görüntü sorunları yaşarsanız ve grafik kartı sürücülerinizi güncellemeniz sorunu çözmezse, bu seçeneğin işaretini kaldırın.</value>
   <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -6505,27 +6505,27 @@ Bu yüzden kullanışlılık ipuçları, özel promosyonlar ve yeni heyecan veri
   <comment>When Mailbird is searching</comment>
   </data>
   <data name="Options_EnableDirectWrite" xml:space="preserve">
-    <value>Enable DirectWrite</value>
-    <comment>Checkbox to enable DirectWrite</comment>
+    <value>DirectWrite etkinleştir</value>
+  <comment>Checkbox to enable DirectWrite</comment>
   </data>
   <data name="Options_EnableDirectWriteExplanation" xml:space="preserve">
-    <value>Uncheck this if you experience blurry text in emails and some of the apps.</value>
-    <comment>Explanation on what DirectWrite is</comment>
+    <value>E-postalarda ve bazı uygulamalarda bulanık metinlerle karşılaşırsanız, bu seçeneğin işaretini kaldırın.</value>
+  <comment>Explanation on what DirectWrite is</comment>
   </data>
   <data name="Options_Archiving" xml:space="preserve">
-    <value>Archiving</value>
-    <comment>Section in options window related to archiving emails</comment>
+    <value>Arşivleme</value>
+  <comment>Section in options window related to archiving emails</comment>
   </data>
   <data name="Working_Generic" xml:space="preserve">
-    <value>Working. Please wait...</value>
-    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+    <value>Çalışıyor. Lütfen bekleyin...</value>
+  <comment>Message shown when Mailbird is working on something that will take a while.</comment>
   </data>
   <data name="Working_IndexingMessages" xml:space="preserve">
-    <value>Indexing messages...</value>
-    <comment>Message shown when indexing messages for search.</comment>
+    <value>İletiler endeksleniyor...</value>
+  <comment>Message shown when indexing messages for search.</comment>
   </data>
   <data name="Working_InitializingAccounts" xml:space="preserve">
-    <value>Initializing accounts...</value>
-    <comment>Message shown when removing one or more accounts on startup.</comment>
+    <value>Hesapları başlatılıyor...</value>
+  <comment>Message shown when removing one or more accounts on startup.</comment>
   </data>
 </root>
