@@ -1668,11 +1668,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show animations</comment>
   </data>
   <data name="Options_ShowSendArchive" xml:space="preserve">
-    <value>Show "send &amp; archive" button</value>
+    <value>"Küldés és archiválás" gomb megjelenítése</value>
   <comment>Show send &amp; archive button</comment>
   </data>
   <data name="Options_SoftwareRendering" xml:space="preserve">
-    <value>Enable hardware rendering</value>
+    <value>Hardveres megjelenítés engedélyezése</value>
   <comment>Force software rendering</comment>
   </data>
   <data name="Options_SoundNotification" xml:space="preserve">
@@ -3610,7 +3610,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Convert to Mailbird Lite?</comment>
   </data>
   <data name="Trial_ContinuePro" xml:space="preserve">
-    <value>Activate license</value>
+    <value>Licensz aktiválása</value>
   <comment>Activate Licence</comment>
   </data>
   <data name="Snooze_SnoozedUntil" xml:space="preserve">
@@ -3666,7 +3666,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
   <comment>Share performance and usage data</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Uncheck this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.</value>
+    <value>Vegyük ki a jelölést, ha ha olyan furcsa megjelenítést tapasztalunk mint a pixelek pixelizálása vagy színváltása, és ezt a grafikus kártya illesztőprogramok frissítése nem javítja ki.</value>
   <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -6507,27 +6507,27 @@ Ezért szeretnénk engedélyed kérni, hogy küldhessünk alkalmanként e-mailt 
   <comment>When Mailbird is searching</comment>
   </data>
   <data name="Options_EnableDirectWrite" xml:space="preserve">
-    <value>Enable DirectWrite</value>
-    <comment>Checkbox to enable DirectWrite</comment>
+    <value>DirectWrite engedélyezése</value>
+  <comment>Checkbox to enable DirectWrite</comment>
   </data>
   <data name="Options_EnableDirectWriteExplanation" xml:space="preserve">
-    <value>Uncheck this if you experience blurry text in emails and some of the apps.</value>
-    <comment>Explanation on what DirectWrite is</comment>
+    <value>Vegyük ki a jelölést, ha az emailekben és egyes alkalmazásokban elmosódott szöveget tapasztalunk.</value>
+  <comment>Explanation on what DirectWrite is</comment>
   </data>
   <data name="Options_Archiving" xml:space="preserve">
-    <value>Archiving</value>
-    <comment>Section in options window related to archiving emails</comment>
+    <value>Archiválás</value>
+  <comment>Section in options window related to archiving emails</comment>
   </data>
   <data name="Working_Generic" xml:space="preserve">
-    <value>Working. Please wait...</value>
-    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+    <value>A feldolgozás folyamatban van. Várjunk türelemmel...</value>
+  <comment>Message shown when Mailbird is working on something that will take a while.</comment>
   </data>
   <data name="Working_IndexingMessages" xml:space="preserve">
-    <value>Indexing messages...</value>
-    <comment>Message shown when indexing messages for search.</comment>
+    <value>Az üzenetek indexelése folyamatban van...</value>
+  <comment>Message shown when indexing messages for search.</comment>
   </data>
   <data name="Working_InitializingAccounts" xml:space="preserve">
-    <value>Initializing accounts...</value>
-    <comment>Message shown when removing one or more accounts on startup.</comment>
+    <value>A fiókok inicializálása folyamatban van...</value>
+  <comment>Message shown when removing one or more accounts on startup.</comment>
   </data>
 </root>
