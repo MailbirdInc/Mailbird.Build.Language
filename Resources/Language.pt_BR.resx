@@ -258,8 +258,8 @@
     <comment>Mark as unread</comment>
   </data>
   <data name="Conversation_MarkNotSpam" xml:space="preserve">
-    <value>Marcar como não spam</value>
-    <comment>Mark as not spam</comment>
+    <value>Desmarcar como Lixo Eletrônico</value>
+  <comment>Mark as not spam</comment>
   </data>
   <data name="Conversation_MarkNotStarred" xml:space="preserve">
     <value>Remover estrela</value>
@@ -270,8 +270,8 @@
     <comment>Mark as read</comment>
   </data>
   <data name="Conversation_MarkSpam" xml:space="preserve">
-    <value>Marcar como spam</value>
-    <comment>Mark as spam</comment>
+    <value>Marcar como Lixo Eletrônico</value>
+  <comment>Mark as spam</comment>
   </data>
   <data name="Conversation_MarkStarred" xml:space="preserve">
     <value>Marcar com estrela</value>
@@ -928,8 +928,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Sent</comment>
   </data>
   <data name="FolderIdentity_Spam" xml:space="preserve">
-    <value>Spam</value>
-    <comment>Spam</comment>
+    <value>Lixo Eletrônico</value>
+  <comment>Spam</comment>
   </data>
   <data name="FolderIdentity_Starred" xml:space="preserve">
     <value>Com estrela</value>
@@ -1252,8 +1252,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Sent</comment>
   </data>
   <data name="MapLabelWindow_Spam" xml:space="preserve">
-    <value>Spam</value>
-    <comment>Spam</comment>
+    <value>Lixo Eletrônico</value>
+  <comment>Spam</comment>
   </data>
   <data name="MapLabelWindow_Starred" xml:space="preserve">
     <value>Favoritado</value>
@@ -2028,12 +2028,12 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Replies to the message sender.</comment>
   </data>
   <data name="Shortcut_ReportSpam" xml:space="preserve">
-    <value>Denunciar spam</value>
-    <comment>Report spam</comment>
+    <value>Denunciar Lixo Eletrônico</value>
+  <comment>Report spam</comment>
   </data>
   <data name="Shortcut_ReportSpamExplanation" xml:space="preserve">
-    <value>Marca uma mensagem como spam e a remove da lista de conversa.</value>
-    <comment>Marks a message as spam and removes it from your conversation list.</comment>
+    <value>Marca uma mensagem como lixo eletrônico e remover da lista de conversa.</value>
+  <comment>Marks a message as spam and removes it from your conversation list.</comment>
   </data>
   <data name="Shortcut_Return" xml:space="preserve">
     <value>Voltar à lista de conversas</value>
@@ -5742,7 +5742,7 @@ with Mailbird Pro?</comment>
   <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
   </data>
   <data name="Trial_SendInviteTitle" xml:space="preserve">
-    <value>Deseja convidar seus amigos para ganhar o Mailbird PRO Vitalícia [bold]grátis?[/Bold]</value>
+    <value>Deseja convidar seus amigos para ganhar o Mailbird PRO Vitalícia [bold]grátis?[/bold]</value>
   <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
   </data>
   <data name="App_Contacts_CreateContact" xml:space="preserve">
@@ -6093,331 +6093,331 @@ Experimente o novo contatos agora!</value>
   <comment>Tooltip for a button to collapse sidebar</comment>
   </data>
   <data name="Sidebar_Expand" xml:space="preserve">
-    <value>Mostrar barra lateral</value>
+    <value>Exibir barra lateral</value>
   <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Crie sua própria sala de vídeo conferência facilmente e compartilhe o link, até 4 pessoas podem participar sem registro gratuitamente.</value>
+    <value>Crie sua própria sala de vídeo conferência facilmente e compartilhe o link, até 4 pessoas podem participar na versão LITE de graça.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
-    <value>Armazene seus arquivos na nuvem, 100 GB de backup gratuito na nuvem</value>
+    <value>Guarde seus arquivos na nuvem, 100 GB de backup gratuito na nuvem.</value>
   </data>
   <data name="App_Feedly_Description" xml:space="preserve">
-    <value>O conteúdo que você precisa para acelerar suas pesquisas, propagandas e vendas.</value>
+    <value>O conteúdo que você precisa para acelerar sua pesquisa, marketing e vendas.</value>
   </data>
   <data name="App_FollowUp_Description" xml:space="preserve">
     <value>Arquive, ordene e agende e-mails com facilidade.</value>
   </data>
   <data name="App_FormSwift_Description" xml:space="preserve">
-    <value>Gere uma assinatura para seus e-mails.</value>
+    <value>Crie uma assinatura para seus e-mails.</value>
   </data>
   <data name="App_Moodo_Description" xml:space="preserve">
-    <value>Aplicativo de gerenciamento de tarefas bonito e minimalista. Arraste e organize emails na sua lista de tarefas.</value>
+    <value>Aplicativo de gerenciamento de tarefas bonito e minimalista. Arraste e organize e-mails na sua lista de tarefas.</value>
   </data>
   <data name="App_Slack_Description" xml:space="preserve">
-    <value>Chat em tempo real hospedado na nuvem com arquivamento e pesquisa para equipes modernas.</value>
+    <value>Mensagens em tempo real baseadas em nuvem, arquivamento e pesquisa para equipes modernas.</value>
   </data>
   <data name="App_TechCrunch_Description" xml:space="preserve">
-    <value>Site de notícias que publica artigos sobre tecnologia, reviews de produtos e acompanha eventos das empresas de TI.</value>
+    <value>Site de notícias que oferece notícias, vídeos e eventos sobre empresas de TI, blogs voltados para a tecnologia e outras propriedades da web.</value>
   </data>
   <data name="App_TheVerge_Description" xml:space="preserve">
-    <value>Rede americana de notícias e mídia que publica artigos sobre tecnologia, ciência, arte, negócios, política mundial e cultura.</value>
+    <value>Rede americana de notícias e mídia publicando artigos sobre tecnologia, ciência, arte, negócios, EUA, política mundial e cultura.</value>
   </data>
   <data name="App_Todoist_Description" xml:space="preserve">
-    <value>O Todoist permite que você gerencie suas tarefas em qualquer lugar. Em casa, na escola, no trabalho, online, offline. E esta presente em 13 plataformas e dispositivos.</value>
+    <value>O Todoist permite que você gerencie suas tarefas em qualquer lugar. Em casa, na escola, no trabalho, online ou offline. E esta presente em 13 plataformas e dispositivos.</value>
   </data>
   <data name="App_Trello_Description" xml:space="preserve">
-    <value>O Trello permite que você trabalhe de forma colaborativa e para que você seja mais produtivo.</value>
+    <value>O Trello permite que você trabalhe de forma mais colaborativa e faça mais.</value>
   </data>
   <data name="App_Twitter_Description" xml:space="preserve">
     <value>Leia e compartilhe tweets de todo o mundo.</value>
   </data>
   <data name="App_UnrollMe_Description" xml:space="preserve">
-    <value>Faça uma limpeza em sua caixa de entrada.</value>
+    <value>Limpe sua caixa de entrada.</value>
   </data>
   <data name="App_WeChat_Description" xml:space="preserve">
-    <value>Mais social. Mais divertido. Aplicativo gratuito de mensagens e ligações.</value>
+    <value>Mais social. Mais divertido. Aplicativo gratuito de mensagens e chamadas.</value>
   </data>
   <data name="App_Weibo_Description" xml:space="preserve">
-    <value>Microblog e rede social com funções de bate-papo baseadas na China (parcialmente traduzidas para o inglês).</value>
+    <value>Microblogging e rede social com funções de bate-papo baseadas na China (parcialmente traduzidas para o inglês).</value>
   </data>
   <data name="App_Whatsapp_Description" xml:space="preserve">
-    <value>Chat em tempo real, mande os anexos diretamente para o WhatsApp direto do Mailbird.</value>
+    <value>Simples. Pessoal. Mensagens em Tempo Real. Arraste os anexos diretamente para o WhatsApp do Mailbird.</value>
   </data>
   <data name="Tutorial_ContactsAccount" xml:space="preserve">
-    <value>Connect your email accounts and sync contacts.</value>
-    <comment>Tutorial text to guide user to connect account in contact manager</comment>
+    <value>Conecte suas contas de e-mail e sincronize contatos.</value>
+  <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
 <data name="App_Contacts_BrowseContacts_Search" xml:space="preserve">
-    <value>Search</value>
-    <comment>Watermark for search textbox</comment>
+    <value>Pesquisar</value>
+  <comment>Watermark for search textbox</comment>
   </data>
   <data name="App_Contacts_BrowseContacts_SelectAll" xml:space="preserve">
-    <value>Select all</value>
-    <comment>Label for checkbox to select all contacts</comment>
+    <value>Selecionar tudo</value>
+  <comment>Label for checkbox to select all contacts</comment>
   </data>
   <data name="App_Contacts_Browse_Add" xml:space="preserve">
-    <value>Add</value>
-    <comment>Button to add selected contacts</comment>
+    <value>Adicionar</value>
+  <comment>Button to add selected contacts</comment>
   </data>
   <data name="App_Contacts_RemoveContact" xml:space="preserve">
-    <value>Remove</value>
-    <comment>Tooltip for button to remove contact from list</comment>
+    <value>Remover</value>
+  <comment>Tooltip for button to remove contact from list</comment>
   </data>
   <data name="MailEditor_Browse" xml:space="preserve">
-    <value>Browse contacts</value>
-    <comment>Tooltip in button to open browse contacts window</comment>
+    <value>Procurar contatos</value>
+  <comment>Tooltip in button to open browse contacts window</comment>
   </data>
   <data name="Apps_Kin_Calendar_Description" xml:space="preserve">
-    <value>The sun will rise again. Here's the best calendar experience. (requires subscription)</value>
-    <comment>Description of Kin Calendar displayed in the App storefront.</comment>
+    <value>O sol vai nascer novamente. Aqui está a melhor experiência de calendário. (requer assinatura)</value>
+  <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
   <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Hold Meetings on the Go, Virtual Training Classes, Remote Interviews, and More.</value>
-    <comment>Hangouts app description displayed in the App storefront.</comment>
+    <value>Realize reuniões em movimento, aulas de treinamento virtual, entrevistas remotas e muito mais.</value>
+  <comment>Hangouts app description displayed in the App storefront.</comment>
   </data>
   <data name="Editor_CcBcc" xml:space="preserve">
     <value>Cc/Bcc</value>
     <comment>Tooltip to expand or collapse cc/bcc field</comment>
   </data>
 <data name="DripSurvey_MoreInfo" xml:space="preserve">
-    <value>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</value>
-    <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
+    <value>Compreendendo melhor quem você é, o que você gosta e o que não gosta no Mailbird, podemos tornar o Mailbird ainda melhor.</value>
+  <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
   </data>
   <data name="AppStore_Apps" xml:space="preserve">
-    <value>Apps</value>
-    <comment>Tab in add-ons to show list of apps in Mailbird</comment>
+    <value>Aplicativos</value>
+  <comment>Tab in add-ons to show list of apps in Mailbird</comment>
   </data>
   <data name="AppStore_Services" xml:space="preserve">
-    <value>Services</value>
-    <comment>Tab in add-ons to show list of 3rd party services in Mailbird</comment>
+    <value>Serviços</value>
+  <comment>Tab in add-ons to show list of 3rd party services in Mailbird</comment>
   </data>
   <data name="AppStore_LearnMore" xml:space="preserve">
-    <value>Learn more</value>
-    <comment>Button to open link related to 3rd party service in Mailbird</comment>
+    <value>Saiba mais</value>
+  <comment>Button to open link related to 3rd party service in Mailbird</comment>
   </data>
   <data name="Options_ShowCcBccByDefault" xml:space="preserve">
-    <value>Show Cc and Bcc by default</value>
-    <comment>Option to show Cc and Bcc by default in compose window</comment>
+    <value>Exibir Cc e Bcc por padrão</value>
+  <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
 <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Account limit exceeded</value>
-    <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
+    <value>Limite de conta excedido</value>
+  <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
-    <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
+    <value>Essa conta está desativada. Atualize para o Mailbird PRO para desfrutar de contas ilimitadas.</value>
+  <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>Essa identidade está desativada porque o log do servidor está ativado.</value>
+    <value>Essa identificação está desativada devido ao log do servidor que está sendo ativado.</value>
   <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the account limit in Mailbird Lite.</value>
-    <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
+    <value>Esta conta foi desativada porque você atingiu o limite de conta no Mailbird LITE.</value>
+  <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
-    <value>This account is disabled due to server logging being enabled.</value>
-    <comment>Tooltip when account is disabled due to server logging is on</comment>
+    <value>Esta conta está desativada devido à ativação do log do servidor.</value>
+  <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro to keep receiving and sending emails from this account.</value>
-    <comment>Notification when an account is disabled due to using Mailbird lite</comment>
+    <value>Atualize para o Mailbird PRO para continuar recebendo e enviando e-mails desta conta.</value>
+  <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
-    <comment>Button to upgrade to pro</comment>
+    <value>Atualize agora</value>
+  <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some of your accounts have been disabled because your Mailbird Pro trial has ended. You are now using Mailbird Lite. Mailbird Lite supports {0} email account(s) free for life. Please upgrade to Pro in order to continue using all of your accounts.</value>
-    <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Algumas de suas contas foram desativadas porque sua avaliação do Mailbird PRO terminou. Agora você está usando o Mailbird LITE. O Mailbird LITE suporta {0} conta(s) de e-mail de forma gratuita e vitalícia. Atualize para o PRO para continuar usando todas as suas contas.</value>
+  <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Upgrade to keep using all of your accounts in Mailbird.</value>
-    <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Atualize para continuar usando todas as suas contas no Mailbird.</value>
+  <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
-    <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
+    <value>Sua avaliação terminou.</value>
+  <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
 <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>For any assistance, please contact us at support@getmailbird.com.</value>
-    <comment>Footer in upgrade notification window</comment>
+    <value>Para qualquer assistência, por favor, entre em contato conosco no support@getmailbird.com.</value>
+  <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
-    <value>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</value>
-    <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
+    <value>Esta é a versão LITE do Mailbird. Se você está gostando do Mailbird e gostaria de liberar o poder do Mailbird PRO, atualize agora</value>
+  <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
   </data>
   <data name="UpgradeNotification_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird Pro</value>
-    <comment>Purchase Mailbird Pro</comment>
+    <value>Compre o Mailbird PRO</value>
+  <comment>Purchase Mailbird Pro</comment>
   </data>
   <data name="UpgradeNotification_Subtitle" xml:space="preserve">
-    <value>Would you like to get a Pro license now?</value>
-    <comment>Would you like to get a Pro license now?</comment>
+    <value>Gostaria de obter uma licença PRO agora?</value>
+  <comment>Would you like to get a Pro license now?</comment>
   </data>
   <data name="UpgradeNotification_Title" xml:space="preserve">
-    <value>Thanks for using Mailbird.</value>
-    <comment>Thanks for using Mailbird.</comment>
+    <value>Obrigado por usar o Mailbird.</value>
+  <comment>Thanks for using Mailbird.</comment>
   </data>
   <data name="App_GoogleKeep_Description" xml:space="preserve">
-    <value>Compose, edit, share, and collaborate on your notes and reminders on any device, anywhere.</value>
-    <comment>Description of the Google Keep App displayed in the app store.</comment>
+    <value>Escreva, edite, compartilhe e colabore em suas anotações e lembretes em qualquer dispositivo, em qualquer lugar.</value>
+  <comment>Description of the Google Keep App displayed in the app store.</comment>
   </data>
 <data name="SpellCheck_Off" xml:space="preserve">
-    <value>Off</value>
-    <comment>Label when spellcheck is off</comment>
+    <value>Desligado</value>
+  <comment>Label when spellcheck is off</comment>
   </data>
   <data name="MailEditorFormattingBar_Align" xml:space="preserve">
-    <value>Align</value>
-    <comment>Formatting button to align paragraph</comment>
+    <value>Alinhar</value>
+  <comment>Formatting button to align paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentLess" xml:space="preserve">
-    <value>Indent less</value>
-    <comment>Formatting button to give less indent in paragraph</comment>
+    <value>Recuar menos</value>
+  <comment>Formatting button to give less indent in paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentMore" xml:space="preserve">
-    <value>Indent more</value>
-    <comment>Formatting button to give more indent in paragraph</comment>
+    <value>Recuar mais</value>
+  <comment>Formatting button to give more indent in paragraph</comment>
   </data>
   <data name="Message_DropAsInline" xml:space="preserve">
-    <value>Drop to add inline</value>
-    <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
+    <value>Solte para adicionar ao texto</value>
+  <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
   </data>
   <data name="Options_AutoTagRecipients" xml:space="preserve">
-    <value>Auto-add recipients when @ tagging</value>
-    <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
+    <value>Adicionar destinatários automaticamente quando usar a marcação @ (@nome)</value>
+  <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
   </data>
   <data name="UpdatePreference_Auto" xml:space="preserve">
-    <value>Install updates automatically</value>
-    <comment>Options to install update silently</comment>
+    <value>Instalar atualizações automaticamente</value>
+  <comment>Options to install update silently</comment>
   </data>
   <data name="Button_RestartMailbird" xml:space="preserve">
-    <value>Restart Mailbird</value>
-    <comment>Label for button to restart Mailbird.</comment>
+    <value>Reiniciar o Mailbird</value>
+  <comment>Label for button to restart Mailbird.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyHeader" xml:space="preserve">
-    <value>An update is ready for you</value>
-    <comment>Header of notification informing the user that an update is ready to be installed.</comment>
+    <value>Uma atualização está pronta para você</value>
+  <comment>Header of notification informing the user that an update is ready to be installed.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyMessage" xml:space="preserve">
-    <value>The latest version of Mailbird is ready to be installed.
+    <value>A versão mais recente do Mailbird está pronta para ser instalada.
 
-Restart now to get the latest improvements and fixes - it'll only take a second.</value>
-    <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
+Reinicie agora para obter as melhorias e correções mais recentes, levará apenas um segundo.</value>
+  <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
   </data>
 <data name="Notification_SilentUpdateAppliedHeader" xml:space="preserve">
-    <value>Mailbird has been updated</value>
-    <comment>Header of notification shown when Mailbird has been updated.</comment>
+    <value>Mailbird foi atualizado</value>
+  <comment>Header of notification shown when Mailbird has been updated.</comment>
   </data>
   <data name="Notification_SilentUpdateAppliedMessage" xml:space="preserve">
-    <value>A new version of Mailbird has been installed. Release notes are shown below.</value>
-    <comment>Message of notification shown when Mailbird has been updated.</comment>
+    <value>Uma nova versão do Mailbird foi instalada. As notas do lançamento são mostradas abaixo.</value>
+  <comment>Message of notification shown when Mailbird has been updated.</comment>
   </data>
 <data name="Disabled_MessageHeaderAccount" xml:space="preserve">
-    <value>Account is disabled</value>
-    <comment>Header when performing action is not allowed due to disabled account </comment>
+    <value>Conta esta desabilitada</value>
+  <comment>Header when performing action is not allowed due to disabled account </comment>
   </data>
   <data name="Disabled_MessageHeaderIdentity" xml:space="preserve">
-    <value>Identity is disabled</value>
-    <comment>Header when performing action is not allowed due to disabled identity</comment>
+    <value>A identidade está desativada</value>
+  <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
 <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose pricing plan:</value>
-    <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
+    <value>Escolha o plano de preços:</value>
+  <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
 <data name="NewMessage_NewMessageSingular" xml:space="preserve">
     <value>{0} Nova mensagem</value>
   <comment>Label for button when there is 1 new message</comment>
   </data>
   <data name="Dialog_EmptyFolder" xml:space="preserve">
-    <value>Empty folder?</value>
-    <comment>Dialog box title when user is about to empty a folder</comment>
+    <value>Pasta vazia?</value>
+  <comment>Dialog box title when user is about to empty a folder</comment>
   </data>
   <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard all emails in this folder?</value>
-    <comment>Dialog box explanation when user is about to empty a folder</comment>
+    <value>Tem certeza de que deseja descartar todos os e-mails dessa pasta?</value>
+  <comment>Dialog box explanation when user is about to empty a folder</comment>
   </data>
   <data name="Account_Exchange_Domain" xml:space="preserve">
-    <value>Domain</value>
-    <comment>Label of the domain field in the user account setup window</comment>
+    <value>Domínio</value>
+  <comment>Label of the domain field in the user account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Show reading pane</value>
-    <comment>Option to hide the email view</comment>
+    <value>Mostrar painel de leitura</value>
+  <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
     <value>Server URL</value>
     <comment>Label of the Exchange server field in the user account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Full dark theme</value>
-    <comment>Label for full dark theme</comment>
+    <value>Tema completamente escuro</value>
+  <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
     <value>Exchange Server Authentication</value>
     <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>The Exchange Server version you are trying to connect to is currently not supported. Mailbird supports Exchange Server 2010 and above. Please contact support for more information.</value>
-    <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
+    <value>A versão do Exchange Server que você está tentando se conectar não é atualmente suportada. O Mailbird suporta o Exchange Server 2010 e superior. Por favor, contate o suporte para mais informações.</value>
+  <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Your Exchange account appears to be locked. Please contact your server administrator to continue using this account.</value>
-    <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
+    <value>Sua conta do Exchange parece estar bloqueada. Entre em contato com o administrador do servidor para continuar usando essa conta.</value>
+  <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>The Exchange autodiscover service cannot be located. Make sure your email and password is correct and try again, or contact your server administrator to make sure autodiscover is enabled.</value>
-    <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
+    <value>O serviço de descoberta automática do Exchange não pode ser localizado. Verifique se seu e-mail e senha estão corretos e tente novamente ou entre em contato com o administrador do servidor para verificar se a descoberta automática está ativada.</value>
+  <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>This is a Microsoft Exchange account</value>
-    <comment>Label in the checkbox to specify adding an Exchange account</comment>
+    <value>Esta é uma conta do Microsoft Exchange</value>
+  <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>An error occured attaching the file.
+    <value>Ocorreu um erro ao anexar o arquivo.
 
-This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
+Isso geralmente é causado por um programa antivírus que interfere no Mailbird. Tente desativar temporariamente qualquer programa antivírus e tente novamente.
 
-If the error persists, please contact support.</value>
-    <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
+Se o erro persistir, entre em contato com o suporte.</value>
+  <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
-    <value>Database version mismatch</value>
-    <comment>Header of message shown when the database version doesn't match the requested version.</comment>
+    <value>Incompatibilidade na versão do banco de dados</value>
+  <comment>Header of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
-    <value>The version of the database does not match this version of Mailbird.
+    <value>A versão do banco de dados não corresponde a essa versão do Mailbird.
 
-Please contact support for information on how to resolve this.</value>
-    <comment>Body of message shown when the database version doesn't match the requested version.</comment>
+Entre em contato com o suporte para obter informações sobre como resolver isso.</value>
+  <comment>Body of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
-    <value>Leave blank to have Mailbird autodetect your Microsoft Exchange Server URL</value>
-    <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
+    <value>Deixe em branco para que o Mailbird detecte automaticamente seu URL do Microsoft Exchange Server</value>
+  <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
   </data>
   <data name="NewMessage_NewMessagePlural" xml:space="preserve">
-    <value>{0} new messages</value>
-    <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
+    <value>{0} novas mensagens</value>
+  <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
   </data>
 <data name="Options_ScaleApplication" xml:space="preserve">
-    <value>Application scaling level</value>
-    <comment>Header for option to change the UI scaling</comment>
+    <value>Nível de proporções do aplicativo</value>
+  <comment>Header for option to change the UI scaling</comment>
   </data>
   <data name="Options_ScaleInfo" xml:space="preserve">
-    <value>The new scaling level will be applied to this window the next time you open it.</value>
-    <comment>Info wdhen scale is changed in Settings window</comment>
+    <value>O novo nível de proporções será aplicado a essa janela na próxima vez que você abrir.</value>
+  <comment>Info wdhen scale is changed in Settings window</comment>
   </data>
   <data name="Options_ScaleOthers" xml:space="preserve">
-    <value>Other scaling levels</value>
-    <comment>Header for other options to scale the UI</comment>
+    <value>Outros níveis de proporções</value>
+  <comment>Header for other options to scale the UI</comment>
   </data>
   <data name="Options_ScaleOthersExplanation" xml:space="preserve">
-    <value>The following scaling levels will be applied to the application scaling level, and can be used to fine tune the level for emails and the apps that supports it.</value>
-    <comment>Explanation for other options to scale the UI</comment>
+    <value>Os níveis de proporções a seguir serão aplicados ao nível de dimensionamento do aplicativo e podem ser usados para ajustar o nível de e-mails e os aplicativos que o suportam.</value>
+  <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
-    <value>Reset scaling level</value>
+    <value>Reiniciar nível de proporções</value>
   <comment>Tooltip text for button to reset the scaling level, (Ctrl+0) doesn't need to be translated</comment>
   </data>
 <data name="MailEditor_CcBcc" xml:space="preserve">
@@ -6425,28 +6425,28 @@ Please contact support for information on how to resolve this.</value>
     <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
   </data>
   <data name="MailEditor_CollapseCcBcc" xml:space="preserve">
-    <value>Hide Cc Bcc fields</value>
-    <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
+    <value>Esconder os campos Cc e Bcc</value>
+  <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
   </data>
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
-    <value>Show Cc Bcc fields</value>
-    <comment>Tooltip for button to expand Cc and Bcc fields</comment>
+    <value>Exibir os campos Cc e Bcc</value>
+  <comment>Tooltip for button to expand Cc and Bcc fields</comment>
   </data>
 <data name="Editor_EditLink" xml:space="preserve">
-    <value>Edit link</value>
-    <comment>Header of window when editing link</comment>
+    <value>Editar link</value>
+  <comment>Header of window when editing link</comment>
   </data>
   <data name="Tips_Unread" xml:space="preserve">
-    <value>Unread</value>
-    <comment>Tooltip for unread tips</comment>
+    <value>Não lido</value>
+  <comment>Tooltip for unread tips</comment>
   </data>
 <data name="Conversation_ReceivedIn" xml:space="preserve">
-    <value>Received in {0}</value>
-    <comment>Tooltip text for indicator where a conversation is received: Received in email@provider.com</comment>
+    <value>Recebido em {0}</value>
+  <comment>Tooltip text for indicator where a conversation is received: Received in email@provider.com</comment>
   </data>
   <data name="Welcome_ColorIndicator" xml:space="preserve">
-    <value>Color indicator in unified account.</value>
-    <comment>Label in settings for choosing color indicator for account when unified account is selected</comment>
+    <value>Indicador de cor na conta unificada.</value>
+  <comment>Label in settings for choosing color indicator for account when unified account is selected</comment>
   </data>
   <data name="Welcome_ColorReset" xml:space="preserve">
     <value>Reset</value>
@@ -6457,9 +6457,9 @@ Please contact support for information on how to resolve this.</value>
   <comment>Tooltip for button to open the folder list in left menu</comment>
   </data>
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
-    <value>We value your privacy and would like to stay in touch.
+    <value>Valorizamos sua privacidade e gostaríamos de manter contato.
 
-So we'd like to ask your permission to send you the occasional email with purely Mailbird related things like usability tips, special promotions and details on new exciting Mailbird features.</value>
+Por isso, gostaríamos de pedir sua permissão para enviar a você um e-mail ocasional com coisas relacionadas ao Mailbird, como dicas de usabilidade, promoções especiais e detalhes sobre os novos e excitantes recursos do Mailbird.</value>
   <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
@@ -6471,12 +6471,12 @@ So we'd like to ask your permission to send you the occasional email with purely
     <comment>Button to give consent</comment>
   </data>
   <data name="Options_Scaling" xml:space="preserve">
-    <value>Scaling</value>
-    <comment>Section in settings window to adjust scaling of the UI</comment>
+    <value>Proporções</value>
+  <comment>Section in settings window to adjust scaling of the UI</comment>
   </data>
   <data name="Folder_SearchResult" xml:space="preserve">
-    <value>Search result</value>
-    <comment>Title text when search result is selected</comment>
+    <value>Resultado da pesquisa</value>
+  <comment>Title text when search result is selected</comment>
   </data>
   <data name="SyncStatus_Error" xml:space="preserve">
     <value>ERROR</value>
@@ -6487,24 +6487,24 @@ So we'd like to ask your permission to send you the occasional email with purely
   <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
-    <value>Synced</value>
+    <value>Sincronizado</value>
   <comment>When syncing is completed</comment>
   </data>
   <data name="SyncStatus_Syncing" xml:space="preserve">
-    <value>Syncing...</value>
-    <comment>When Mailbird is syncing</comment>
+    <value>Sincronizando...</value>
+  <comment>When Mailbird is syncing</comment>
   </data>
   <data name="Notification_ShowError" xml:space="preserve">
-    <value>Show error</value>
-    <comment>Tooltip for button to show error details</comment>
+    <value>Exibir erro</value>
+  <comment>Tooltip for button to show error details</comment>
   </data>
   <data name="SyncStatus_SearchComplete" xml:space="preserve">
-    <value>Done</value>
-    <comment>When search is completed</comment>
+    <value>Concluído</value>
+  <comment>When search is completed</comment>
   </data>
   <data name="SyncStatus_Searching" xml:space="preserve">
-    <value>Searching...</value>
-    <comment>When Mailbird is searching</comment>
+    <value>Pesquisando...</value>
+  <comment>When Mailbird is searching</comment>
   </data>
   <data name="Options_EnableDirectWrite" xml:space="preserve">
     <value>Habilitar DirectWrite</value>
@@ -6515,27 +6515,27 @@ So we'd like to ask your permission to send you the occasional email with purely
   <comment>Explanation on what DirectWrite is</comment>
   </data>
   <data name="Options_Archiving" xml:space="preserve">
-    <value>Archiving</value>
-    <comment>Section in options window related to archiving emails</comment>
+    <value>Arquivando</value>
+  <comment>Section in options window related to archiving emails</comment>
   </data>
   <data name="Working_Generic" xml:space="preserve">
-    <value>Working. Please wait...</value>
-    <comment>Message shown when Mailbird is working on something that will take a while.</comment>
+    <value>Processando. Por favor, aguarde...</value>
+  <comment>Message shown when Mailbird is working on something that will take a while.</comment>
   </data>
   <data name="Working_IndexingMessages" xml:space="preserve">
-    <value>Indexing messages...</value>
-    <comment>Message shown when indexing messages for search.</comment>
+    <value>Anexando mensagens...</value>
+  <comment>Message shown when indexing messages for search.</comment>
   </data>
   <data name="Working_InitializingAccounts" xml:space="preserve">
-    <value>Initializing accounts...</value>
-    <comment>Message shown when removing one or more accounts on startup.</comment>
+    <value>Iniciando contas...</value>
+  <comment>Message shown when removing one or more accounts on startup.</comment>
   </data>
   <data name="Shortcut_Snooze" xml:space="preserve">
     <value>Snooze</value>
     <comment>Header for snooze shortcut in shortcuts window</comment>
   </data>
   <data name="Shortcut_SnoozeExplanation" xml:space="preserve">
-    <value>Temporarily remove the email from your inbox until a specified time.</value>
-    <comment>Explanation for snooze feature</comment>
+    <value>Remova temporariamente o e-mail da sua caixa de entrada até um horário especificado.</value>
+  <comment>Explanation for snooze feature</comment>
   </data>
 </root>
