@@ -210,8 +210,8 @@
     <comment>Archive</comment>
   </data>
   <data name="Conversation_DeletePermanently" xml:space="preserve">
-    <value>Apagar permanentemente</value>
-    <comment>Delete permanently</comment>
+    <value>Excluir definitivamente</value>
+  <comment>Delete permanently</comment>
   </data>
   <data name="Conversation_Discard" xml:space="preserve">
     <value>Descartar</value>
@@ -222,8 +222,8 @@
     <comment>Draft</comment>
   </data>
   <data name="Conversation_EmptyFolder" xml:space="preserve">
-    <value>Apagar pasta</value>
-    <comment>Empty folder</comment>
+    <value>Esvaziar pasta</value>
+  <comment>Empty folder</comment>
   </data>
   <data name="Conversation_Forward" xml:space="preserve">
     <value>Encaminhar</value>
@@ -1844,20 +1844,20 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Copy the selected attachment(s) to clipboard. Only works when the selected attachment(s) are focused.</comment>
   </data>
   <data name="Shortcut_Delete" xml:space="preserve">
-    <value>Delete</value>
-    <comment>Delete</comment>
+    <value>Excluir</value>
+  <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
     <value>Move a conversa para o lixo.</value>
     <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
-    <value>Excluir rascunho ou jogar a conversa na lixeira</value>
-    <comment>Delete Draft or Trash Conversation</comment>
+    <value>Excluir rascunho ou jogar a conversa na Lixeira</value>
+  <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Excluir rascunho selecionado ou jogar a conversa selecionada na lixeira.</value>
-    <comment>Delete selected draft or trash the selected conversation.</comment>
+    <value>Excluir rascunho selecionado ou jogar a conversa selecionada na Lixeira.</value>
+  <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
     <value>Sair do Mailbird</value>
@@ -2800,16 +2800,16 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Leave a copy of messages on the server</comment>
   </data>
   <data name="Welcome_Pop3LeaveMessagesInfo" xml:space="preserve">
-    <value>Os servidores POP3, por padrão, somente armazenam as mensagem até você baixá-las. Você pode deixar as mensagens no servidor, mas certifique-se que fazendo isso sua caixa de entrada pode encher rapidamente e, portanto, você pode deixar de receber mensagem importantes até apagar as cópias do servidor.</value>
-    <comment>POP3 servers by default store messages on the server only until you download them. You can choose to leave messages on the server, but note that doing so can cause your mailbox to become full very quickly, and so you might not receive important messages until you delete the server copies.</comment>
+    <value>Os servidores POP3, por padrão, somente armazenam as mensagem até você baixá-las. Você pode deixar as mensagens no servidor, mas certifique-se que fazendo isso sua caixa de entrada pode encher rapidamente e, portanto, você pode deixar de receber mensagem importantes até excluir as cópias do servidor.</value>
+  <comment>POP3 servers by default store messages on the server only until you download them. You can choose to leave messages on the server, but note that doing so can cause your mailbox to become full very quickly, and so you might not receive important messages until you delete the server copies.</comment>
   </data>
   <data name="Welcome_Pop3RemoveAfter" xml:space="preserve">
     <value>Remover depois</value>
     <comment>Remove after [x days]</comment>
   </data>
   <data name="Welcome_Pop3RemoveOnDelete" xml:space="preserve">
-    <value>Retire quando eu eliminar de forma permanente,</value>
-    <comment>Remove when I permanently delete them</comment>
+    <value>Remover quando eu excluir definitivamente</value>
+  <comment>Remove when I permanently delete them</comment>
   </data>
   <data name="Welcome_Pop3UpdateInterval" xml:space="preserve">
     <value>Intervalo de atualização:</value>
@@ -2960,8 +2960,8 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Delete</comment>
   </data>
   <data name="Dialog_DeleteContact_Singular" xml:space="preserve">
-    <value>Delete contact?</value>
-    <comment>Delete contact?</comment>
+    <value>Excluir contato?</value>
+  <comment>Delete contact?</comment>
   </data>
   <data name="Dialog_DeleteContactExplanation_Singular" xml:space="preserve">
     <value>Tem certeza de que deseja excluir este contato?</value>
@@ -4074,7 +4074,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
     <value>O Mailbird detectou que um ou mais arquivos estão corrompidos ou ausentes no diretório de instalação.
 
-Para corrigir o problema, desinstale e reinstale o Mailbird, obtendo a versão mais recente https://www.getmailbird.com
+Para corrigir o problema, desinstale e reinstale o Mailbird, instalando a versão mais recente https://www.getmailbird.com
 
 Todas as suas configurações, e-mail, etc. serão mantidos, desde que você não exclua o diretório de armazenamento quando solicitado durante a desinstalação.</value>
   <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
@@ -5965,8 +5965,8 @@ Experimente o novo contatos agora!</value>
     <comment>Button label to open Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuDeleteGroup" xml:space="preserve">
-    <value>Delete</value>
-    <comment>Label for menu item to delete group in Contacts app</comment>
+    <value>Excluir</value>
+  <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
     <value>Grupo selecionado</value>
