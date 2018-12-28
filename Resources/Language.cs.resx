@@ -6209,7 +6209,7 @@ Zkuste nové Kontakty již teď!</value>
   <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>Tato identita je blokována kvůli přihlášení k serveru.</value>
+    <value>Tato identita je zakázána kvůli povolení protokolování serveru.</value>
   <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
@@ -6531,11 +6531,11 @@ Proto bychom rádi požádali o svolení, abychom vám zaslali příležitostné
   <comment>Message shown when removing one or more accounts on startup.</comment>
   </data>
   <data name="Shortcut_Snooze" xml:space="preserve">
-    <value>Snooze</value>
-    <comment>Header for snooze shortcut in shortcuts window</comment>
+    <value>Odložit</value>
+  <comment>Header for snooze shortcut in shortcuts window</comment>
   </data>
   <data name="Shortcut_SnoozeExplanation" xml:space="preserve">
-    <value>Temporarily remove the email from your inbox until a specified time.</value>
-    <comment>Explanation for snooze feature</comment>
+    <value>Dočasně skryje emaily z doručené pošty až do zadaného času.</value>
+  <comment>Explanation for snooze feature</comment>
   </data>
 </root>
