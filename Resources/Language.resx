@@ -6547,4 +6547,14 @@ So we'd like to ask your permission to send you the occasional email with purely
     <value>Or purchase a license.</value>
     <comment>Button to purchase a license. The button appears after some other options.</comment>
   </data>
+  <data name="Dialog_MailDllLicenseError" xml:space="preserve">
+    <value>Error starting Mailbird</value>
+    <comment>Header of message shown when Mailbird fails to start due to a Mail.dll license issue.</comment>
+  </data>
+  <data name="Dialog_MailDllLicenseErrorExplanation" xml:space="preserve">
+    <value>An error occurred starting Mailbird. Please try restarting your computer and try again.
+
+If the issue persists contact support at {0}</value>
+    <comment>Message shown when Mailbird fails to start due to a Mail.dll license issue.</comment>
+  </data>
 </root>
