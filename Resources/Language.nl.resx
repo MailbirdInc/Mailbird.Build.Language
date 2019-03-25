@@ -182,11 +182,11 @@
     <comment>Select all</comment>
   </data>
   <data name="Contact_Copy" xml:space="preserve">
-    <value>E-mailadres kopiëren</value>
+    <value>E-mail kopiëren</value>
     <comment>Copy email</comment>
   </data>
   <data name="Contact_CopyMailName" xml:space="preserve">
-    <value>Naam en e-mailadres kopiëren</value>
+    <value>Naam en e-mail kopiëren</value>
     <comment>Copy name and email</comment>
   </data>
   <data name="Contact_NewMail" xml:space="preserve">
@@ -210,7 +210,7 @@
     <comment>Draft</comment>
   </data>
   <data name="Conversation_EmptyFolder" xml:space="preserve">
-    <value>Deze map legen</value>
+    <value>Lege map</value>
     <comment>Empty folder</comment>
   </data>
   <data name="Conversation_Forward" xml:space="preserve">
@@ -302,7 +302,7 @@
     <comment>To</comment>
   </data>
   <data name="Conversation_Trash" xml:space="preserve">
-    <value>Prullenbak</value>
+    <value>Rommel</value>
     <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
@@ -346,7 +346,7 @@
     <comment>Could not retrieve access</comment>
   </data>
   <data name="Dialog_CantRetrieveAccessExplanation" xml:space="preserve">
-    <value>Kon geen facebook-toegangstoken verkrijgen op dit moment. Probeer het nogmaals.</value>
+    <value>Kon geen facebook-toegangstoken krijgen op dit moment. Probeer het nogmaals.</value>
     <comment>Couldn't retrieve facebook access token at the moment. Please try again.</comment>
   </data>
   <data name="Dialog_CantSave" xml:space="preserve">
@@ -354,7 +354,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Het bestand '{0}' kon niet worden opgeslagen. Bestand nog in gebruik.</value>
+    <value>Het bestand '{0}' kon niet worden opgeslagen. Bestand is nog in gebruik.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -490,7 +490,7 @@ Message:</comment>
     <comment>Thank you for reporting this issue!</comment>
   </data>
   <data name="Dialog_SendScreenshot" xml:space="preserve">
-    <value>Verzenden schermafbeelding bevestigen</value>
+    <value>Verzenden schermafdruk bevestigen</value>
     <comment>Confirm sending screenshot</comment>
   </data>
   <data name="Dialog_SendScreenshotExplanation" xml:space="preserve">
@@ -546,7 +546,7 @@ Message:</comment>
     <comment>Send without attachments?</comment>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
-    <value>Je schreef "{0}" en we dachten dat je misschien een bestand bij wilde voegen.
+    <value>Je schreef "{0}" en we dachten dat je misschien een bestand wilde bijvoegen.
 Als je de e-mail wilt verzenden zonder bijlagen, klik dan gewoon op "OK" hieronder.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
@@ -588,7 +588,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit account</comment>
   </data>
   <data name="Account_Email" xml:space="preserve">
-    <value>E-mailadres:</value>
+    <value>E-mail:</value>
     <comment>Email:</comment>
   </data>
   <data name="Account_Name" xml:space="preserve">
@@ -816,7 +816,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
-    <value>Voer een display-tekst in</value>
+    <value>Vul een weergavetekst in</value>
     <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
@@ -1020,7 +1020,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search people...</comment>
   </data>
   <data name="App_Contacts_Title" xml:space="preserve">
-    <value>Contacts</value>
+    <value>Contacten</value>
     <comment>Contacts</comment>
   </data>
   <data name="App_Dropbox_Description" xml:space="preserve">
@@ -1376,7 +1376,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Sent:</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
-    <value>{0} oudere berichten weergeven</value>
+    <value>Toon {0} oudere berichten</value>
     <comment>Show {0} older messages</comment>
   </data>
   <data name="Message_ShowWindow" xml:space="preserve">
@@ -2793,7 +2793,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Exit &lt;Mailbird&gt;</comment>
   </data>
   <data name="NotifyIconTooltip_Show" xml:space="preserve">
-    <value>Weergeven</value>
+    <value>Tonen</value>
     <comment>Show &lt;Mailbird&gt;</comment>
   </data>
   <data name="Options_ConversationView" xml:space="preserve">
@@ -2928,7 +2928,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <value>Een e-mail verzenden..</value>
   </data>
   <data name="App_Contacts_All" xml:space="preserve">
-    <value>Alle contactpersonen</value>
+    <value>Alle Contactpersonen</value>
     <comment>All Contacts</comment>
   </data>
   <data name="App_Contacts_Import" xml:space="preserve">
@@ -3615,7 +3615,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>The contacts have been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedExplanationSingular" xml:space="preserve">
-    <value>Het contact is toegevoegd aan de app Contacten.</value>
+    <value>De contactpersoon is toegevoegd aan de app Contacten.</value>
     <comment>The contact has been added to the contacts manager.</comment>
   </data>
   <data name="Dialog_ContactAddedPlural" xml:space="preserve">
@@ -4196,7 +4196,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Verdien gratis ongelimiteerd gebruik van Mailbird Pro. Je contacten ontvangen een uitnodiging om Mailbird te downloaden.</value>
+    <value>Verdien gratis ongelimiteerd gebruik van Mailbird Pro. Uw contacten ontvangen een uitnodiging om Mailbird te downloaden.</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Timeline_ExpireDays" xml:space="preserve">
@@ -4249,7 +4249,7 @@ Verwijder alstublieft een paar ontvangers en probeer het opnieuw.</value>
 Please remove some and try again.</comment>
   </data>
   <data name="Options_ShowInboxZero" xml:space="preserve">
-    <value>Inbox Zero tonen</value>
+    <value>Lege POSTVAK IN tonen</value>
     <comment>Show Inbox Zero</comment>
   </data>
   <data name="Options_ShowInboxZeroSharing" xml:space="preserve">
@@ -4399,7 +4399,7 @@ the final result will be: Search Google for "query"</comment>
     <comment>Background</comment>
   </data>
   <data name="Upgrade_CustomCover" xml:space="preserve">
-    <value>Upgrade nu om nieuwe covers te gebruiken.</value>
+    <value>Upgrade nu om aangepaste covers in te schakelen.</value>
     <comment>Upgrade now to enable custom covers.</comment>
   </data>
   <data name="Tips_Failed" xml:space="preserve">
@@ -4528,7 +4528,7 @@ Levenslang GRATIS</value>
     <comment>{0} of {1} invites accepted!</comment>
   </data>
   <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
-    <value>U bent al een rockster met e-mail met Levenslang Mailbird Pro! Wanneer uw vriend Mailbird installeert via je uitnodiging, krijgt u 1 maand Mailbird Prioriteitsondersteuning GRATIS per succesvolle installatie!</value>
+    <value>U bent al een email-rocksterl met Levenslang Mailbird Pro! Wanneer uw vriend Mailbird installeert via je uitnodiging, krijgt u 1 maand Mailbird Prioriteitsondersteuning GRATIS per succesvolle installatie!</value>
     <comment>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="InviteV2_InviteFriends" xml:space="preserve">
@@ -4803,7 +4803,7 @@ Klik op de knop "Contact toevoegen" om een contact toe te voegen.</value>
     <comment>Placeholder text when no contacts in selected group</comment>
   </data>
   <data name="App_Contacts_ContactsPlural" xml:space="preserve">
-    <value>{0} contacts</value>
+    <value>{0} contacten</value>
     <comment>{0} contacts</comment>
   </data>
   <data name="App_Contacts_Edit" xml:space="preserve">
@@ -4847,7 +4847,7 @@ Klik op de knop "Contact toevoegen" om een contact toe te voegen.</value>
     <comment>Link</comment>
   </data>
   <data name="App_Contacts_LinkContact_Contacts" xml:space="preserve">
-    <value>Contacts</value>
+    <value>Contacten</value>
     <comment>Contacts</comment>
   </data>
   <data name="App_Contacts_LinkContact_EnterName" xml:space="preserve">
@@ -4955,7 +4955,7 @@ Klik op de knop "Contact toevoegen" om een contact toe te voegen.</value>
     <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
-    <value>Export contacts to vCard</value>
+    <value>Exporteer contactpersonen naar vCard</value>
     <comment>Export group contacts to vCards</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
@@ -4991,7 +4991,7 @@ Klik op de knop "Contact toevoegen" om een contact toe te voegen.</value>
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkContacts" xml:space="preserve">
-    <value>Link contacts</value>
+    <value>Link contacten</value>
     <comment>Link contacts</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkedin" xml:space="preserve">
@@ -5027,7 +5027,7 @@ Klik op de knop "Contact toevoegen" om een contact toe te voegen.</value>
     <comment>No groups found.</comment>
   </data>
   <data name="App_Contacts_Intro_1" xml:space="preserve">
-    <value>Al je contacten samen op één plek.</value>
+    <value>Al uw contacten samen op één plek.</value>
     <comment>All your contacts together in one place.</comment>
   </data>
   <data name="App_Contacts_Intro_2" xml:space="preserve">
@@ -5035,7 +5035,7 @@ Klik op de knop "Contact toevoegen" om een contact toe te voegen.</value>
     <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
-    <value>Je kunt contacten aan elkaar koppelen om hun details op één plek te tonen met slechts één klik.</value>
+    <value>U kunt contacten aan elkaar koppelen om hun details op één plek te tonen met slechts één klik.</value>
     <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
@@ -5059,11 +5059,11 @@ Klik op de knop "Contact toevoegen" om een contact toe te voegen.</value>
     <comment>(No linked contacts)</comment>
   </data>
   <data name="App_Contacts_Intro_ConnectAccounts" xml:space="preserve">
-    <value>Gekoppelde accounts</value>
+    <value>Verbind accounts</value>
     <comment>Connect accounts</comment>
   </data>
   <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
-    <value>Merge contacts</value>
+    <value>Contacten samenvoegen</value>
     <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
@@ -5129,7 +5129,7 @@ NB: Menu in context menu to do copy action</comment>
     <comment>Menu in context menu to open current url in browser</comment>
   </data>
   <data name="App_Contacts_SearchInGoogleMaps" xml:space="preserve">
-    <value>Open in Google Maps</value>
+    <value>Openen in Google Maps</value>
     <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
   </data>
   <data name="App_Contacts_FieldNamePrefix" xml:space="preserve">
@@ -5163,7 +5163,7 @@ Dit kan niet worden verwijderd.</value>
     <comment>Title for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="Dialog_DisconnectAccountExplanation" xml:space="preserve">
-    <value>Weet je zeker dat je het account wilt ontkoppelen?
+    <value>Weet u zeker dat je het account wilt ontkoppelen?
 
 Hiermee wordt contactgegevensynchronisatie uitgeschakeld en de groepen en contactpersonen van het account uit Mailbird verwijderd.</value>
     <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
@@ -5201,7 +5201,7 @@ Hiermee wordt contactgegevensynchronisatie uitgeschakeld en de groepen en contac
     <comment>Name of the friends system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Contacts" xml:space="preserve">
-    <value>Contacts</value>
+    <value>Contacten</value>
     <comment>Name of the contacts system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Starred" xml:space="preserve">
@@ -5457,7 +5457,7 @@ Verwijderde suggesties kunnen vanuit de instellingen worden hersteld.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Herstel automatisch aanvul suggesties</value>
+    <value>Herstel auto-complete suggesties</value>
     <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
@@ -5473,7 +5473,7 @@ Verwijderde suggesties kunnen vanuit de instellingen worden hersteld.</value>
     <comment>Loading message when merge contacts are being calculated.</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
-    <value>Probeer de nieuwe en verbeterde app Contacten met contactsynchronisatie!</value>
+    <value>Probeer de nieuwe en verbeterde app Contacten met contact-synchronisatie!</value>
     <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
@@ -5487,7 +5487,7 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
-    <value>Open Contacts</value>
+    <value>Open Contacten</value>
     <comment>Button label to open Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuDeleteGroup" xml:space="preserve">
@@ -5691,11 +5691,11 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Tooltip for button to remove contact from list</comment>
   </data>
   <data name="MailEditor_Browse" xml:space="preserve">
-    <value>Browse contacts</value>
+    <value>Bladeren in contacten</value>
     <comment>Tooltip in button to open browse contacts window</comment>
   </data>
   <data name="Apps_Kin_Calendar_Description" xml:space="preserve">
-    <value>The sun will rise again. Here's the best calendar experience. (requires subscription)</value>
+    <value>De zon zal weer opkomen. Dit is de beste kalenderervaring. (vereist een abonnement)</value>
     <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
   <data name="Apps_Hangouts_Description" xml:space="preserve">
@@ -5715,7 +5715,7 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Tab in add-ons to show list of 3rd party services in Mailbird</comment>
   </data>
   <data name="Options_ShowCcBccByDefault" xml:space="preserve">
-    <value>Show Cc and Bcc by default</value>
+    <value>Toon Cc en Bcc als standaard</value>
     <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
   <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
@@ -5775,11 +5775,11 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Would you like to get a Pro license now?</comment>
   </data>
   <data name="UpgradeNotification_Title" xml:space="preserve">
-    <value>Thanks for using Mailbird.</value>
+    <value>Bedankt voor het gebruik van Mailbird.</value>
     <comment>Thanks for using Mailbird.</comment>
   </data>
   <data name="App_GoogleKeep_Description" xml:space="preserve">
-    <value>Compose, edit, share, and collaborate on your notes and reminders on any device, anywhere.</value>
+    <value>Stel uw notities en herinneringen samen, wijzig ze, deel ze en werk ze samen op elk apparaat, waar dan ook.</value>
     <comment>Description of the Google Keep App displayed in the app store.</comment>
   </data>
   <data name="SpellCheck_Off" xml:space="preserve">
@@ -5807,7 +5807,7 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
   </data>
   <data name="UpdatePreference_Auto" xml:space="preserve">
-    <value>Install updates automatically</value>
+    <value>Installeer updates automatisch</value>
     <comment>Options to install update silently</comment>
   </data>
   <data name="Button_RestartMailbird" xml:space="preserve">
@@ -5861,7 +5861,7 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Label of the domain field in the user account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Show reading pane</value>
+    <value>Toon leesvenster</value>
     <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
@@ -5877,7 +5877,7 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>The Exchange Server version you are trying to connect to is currently not supported. Mailbird supports Exchange Server 2010 and above. Please contact support for more information.</value>
+    <value>De Exchange Server-versie waarmee u probeert een verbinding te maken, wordt momenteel niet ondersteund. Mailbird ondersteunt Exchange Server 2010 en hoger. Neem contact op met de ondersteuning voor meer informatie.</value>
     <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
@@ -5919,23 +5919,23 @@ Please contact support for information on how to resolve this.</value>
     <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
   </data>
   <data name="Options_ScaleApplication" xml:space="preserve">
-    <value>Application scaling level</value>
+    <value>Applicatie schaalniveau</value>
     <comment>Header for option to change the UI scaling</comment>
   </data>
   <data name="Options_ScaleInfo" xml:space="preserve">
-    <value>The new scaling level will be applied to this window the next time you open it.</value>
+    <value>Het nieuwe schaalniveau wordt toegepast op dit venster wanneer u het de volgende keer opent.</value>
     <comment>Info wdhen scale is changed in Settings window</comment>
   </data>
   <data name="Options_ScaleOthers" xml:space="preserve">
-    <value>Other scaling levels</value>
+    <value>Andere schaalniveaus</value>
     <comment>Header for other options to scale the UI</comment>
   </data>
   <data name="Options_ScaleOthersExplanation" xml:space="preserve">
-    <value>The following scaling levels will be applied to the application scaling level, and can be used to fine tune the level for emails and the apps that supports it.</value>
+    <value>De volgende schaalniveaus worden toegepast op het applicatie schaalniveau en kunnen worden gebruikt om het niveau aan te passen voor e-mails en de apps die dit ondersteunen.</value>
     <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
-    <value>Reset scaling level</value>
+    <value>Reset schaalniveau</value>
     <comment>Tooltip text for button to reset the scaling level, (Ctrl+0) doesn't need to be translated</comment>
   </data>
   <data name="MailEditor_CcBcc" xml:space="preserve">
@@ -5947,7 +5947,7 @@ Please contact support for information on how to resolve this.</value>
     <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
   </data>
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
-    <value>Show Cc Bcc fields</value>
+    <value>Toon Cc Bcc velden</value>
     <comment>Tooltip for button to expand Cc and Bcc fields</comment>
   </data>
   <data name="Editor_EditLink" xml:space="preserve">
@@ -5981,7 +5981,7 @@ So we'd like to ask your permission to send you the occasional email with purely
     <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
-    <value>NO THANKS</value>
+    <value>GEEN DANK</value>
     <comment>Button to not give consent</comment>
   </data>
   <data name="Welcome_ConsentStepYes" xml:space="preserve">
@@ -5989,7 +5989,7 @@ So we'd like to ask your permission to send you the occasional email with purely
     <comment>Button to give consent</comment>
   </data>
   <data name="Options_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>Schalen</value>
     <comment>Section in settings window to adjust scaling of the UI</comment>
   </data>
   <data name="Folder_SearchResult" xml:space="preserve">
@@ -6053,7 +6053,7 @@ So we'd like to ask your permission to send you the occasional email with purely
     <comment>Explanation for snooze feature</comment>
   </data>
   <data name="Dialog_OrPurchase" xml:space="preserve">
-    <value>Or purchase a license.</value>
+    <value>Of koop een licentie.</value>
     <comment>Button to purchase a license. The button appears after some other options.</comment>
   </data>
   <data name="Dialog_MailDllLicenseError" xml:space="preserve">
@@ -6075,7 +6075,7 @@ Als het issue aanhoudt, neem dan contact op met support via {0}</value>
     <comment>Tooltip to add to bookmarks</comment>
   </data>
   <data name="App_Calendar_Title" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Kalender</value>
     <comment>Name of native calendar app</comment>
   </data>
   <data name="App_Calendar_NoName" xml:space="preserve">
@@ -6091,7 +6091,7 @@ Als het issue aanhoudt, neem dan contact op met support via {0}</value>
     <comment>Menu settings</comment>
   </data>
   <data name="App_Calendar_MenuSidebar" xml:space="preserve">
-    <value>Show left menu</value>
+    <value>Toon linker menu</value>
     <comment>Menu to show or hide left menu</comment>
   </data>
   <data name="App_Calendar_More" xml:space="preserve">
@@ -6131,7 +6131,7 @@ Als het issue aanhoudt, neem dan contact op met support via {0}</value>
     <comment>Menu to change view type to week</comment>
   </data>
   <data name="App_Calendar_ConnectAccount_LocalExplanation" xml:space="preserve">
-    <value>This account doesn't have support for calendar sync. However you still can use it locally.</value>
+    <value>Dit account heeft geen ondersteuning voor agenda synchronisatie. U kunt het echter nog steeds lokaal gebruiken.</value>
     <comment>Explanation for the default local account in calendar</comment>
   </data>
   <data name="App_Calendar_ConnectAccount_Unsupported" xml:space="preserve">
@@ -6139,11 +6139,11 @@ Als het issue aanhoudt, neem dan contact op met support via {0}</value>
     <comment>Label for unsupported email account</comment>
   </data>
   <data name="App_Calendar_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
-    <value>Sorry, but this email account doesn't have support for calendar sync.</value>
+    <value>Sorry, maar dit e-mailaccount biedt geen ondersteuning voor agenda synchronisatie.</value>
     <comment>Explanation when account is not supported for calendar sync</comment>
   </data>
   <data name="App_Calendar_Settings_SubHeader" xml:space="preserve">
-    <value>Select accounts below to connect and sync their calendar with Mailbird, or click the button to connect to another account.</value>
+    <value>Selecteer onderstaande accounts om hun agenda met Mailbird te verbinden en te synchroniseren, of klik op de knop om verbinding te maken met een ander account.</value>
     <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Calendar_Settings_Title" xml:space="preserve">
@@ -6151,33 +6151,33 @@ Als het issue aanhoudt, neem dan contact op met support via {0}</value>
     <comment>Title for "Accounts" window</comment>
   </data>
   <data name="App_Calendar_Settings_ConnectAccount" xml:space="preserve">
-    <value>+ Connect other account</value>
+    <value>+ Verbind andere account</value>
     <comment>Button to connect other account</comment>
   </data>
   <data name="App_Calendar_ConnectingAccount" xml:space="preserve">
-    <value>Connecting account...</value>
+    <value>Account verbinden...</value>
     <comment>Loading message when connecting account</comment>
   </data>
   <data name="Dialog_DisconnectCalendarAccountExplanation" xml:space="preserve">
-    <value>Are you sure you want to disconnect the account?
+    <value>Weet je zeker dat je het account wilt ontkoppelen?
 
-This will disable calendar sync from Mailbird.</value>
+Hiermee wordt de agenda synchronisatie van Mailbird uitgeschakeld.</value>
     <comment>Explanation for dialog window when user tries to disconnect account from Calendar</comment>
   </data>
   <data name="App_Calendar_Settings_TimeFormat" xml:space="preserve">
-    <value>Time format</value>
+    <value>Tijdformaat</value>
     <comment>Label to edit time format 24h or 12h</comment>
   </data>
   <data name="App_Calendar_Settings_TimeRegion" xml:space="preserve">
-    <value>Time and region</value>
+    <value>Tijd en regio</value>
     <comment>Section in settings to customize time zone etc</comment>
   </data>
   <data name="App_Calendar_Settings_TimeZone" xml:space="preserve">
-    <value>Time zone</value>
+    <value>Tijdzone</value>
     <comment>Label to edit time zone in calendar</comment>
   </data>
   <data name="App_Calendar_Minutes" xml:space="preserve">
-    <value>{0} minutes</value>
+    <value>{0} minuten</value>
     <comment>Leave the {0}, will be formatted to e.g. 30 minutes</comment>
   </data>
   <data name="App_Calendar_WeekAt" xml:space="preserve">
@@ -6185,15 +6185,15 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Leave the {0}, will be formatted to e.g. Week 27</comment>
   </data>
   <data name="App_Calendar_Settings_DefaultEventDuration" xml:space="preserve">
-    <value>Default duration</value>
+    <value>Standaard duur</value>
     <comment>Option to set default event duration</comment>
   </data>
   <data name="App_Calendar_Settings_EventSettings" xml:space="preserve">
-    <value>Event settings</value>
+    <value>Evenement instellingen</value>
     <comment>Section in calendar settings window for event related settings</comment>
   </data>
   <data name="App_Calendar_Settings_ShowWeekNumbers" xml:space="preserve">
-    <value>Show week numbers</value>
+    <value>Toon weeknummers</value>
     <comment>Option to show or hide week numbers</comment>
   </data>
   <data name="App_Calendar_Settings_StartWeekOn" xml:space="preserve">
@@ -6201,7 +6201,7 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Option to set first day of week</comment>
   </data>
   <data name="App_Calendar_Settings_ViewOptions" xml:space="preserve">
-    <value>View options</value>
+    <value>Bekijk opties</value>
     <comment>Section in calendar settings window for views related settings</comment>
   </data>
   <data name="App_Calendar_EventCreatedBy" xml:space="preserve">
@@ -6209,59 +6209,59 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Label to show the creator of an event, {0} will be replaced by the name</comment>
   </data>
   <data name="App_Calendar_GuestPlural" xml:space="preserve">
-    <value>{0} guests</value>
+    <value>{0} gasten</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is more than 1</comment>
   </data>
   <data name="App_Calendar_GuestSingular" xml:space="preserve">
-    <value>{0} guest</value>
+    <value>{0} gast</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is only 1</comment>
   </data>
   <data name="App_Calendar_ResponseMaybe" xml:space="preserve">
-    <value>{0} maybe</value>
+    <value>{0} misschien</value>
     <comment>Number of maybe response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseNo" xml:space="preserve">
-    <value>{0} no</value>
+    <value>{0} nee</value>
     <comment>Number of no response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseUnknown" xml:space="preserve">
-    <value>{0} unknown</value>
+    <value>{0} onbekend</value>
     <comment>Number of unknown response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseWaiting" xml:space="preserve">
-    <value>{0} awaiting</value>
+    <value>{0} wachten op</value>
     <comment>Number of waiting for response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseYes" xml:space="preserve">
-    <value>{0} yes</value>
+    <value>{0} ja</value>
     <comment>Number of yes response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ValidationEmpty" xml:space="preserve">
-    <value>Field cannot be empty</value>
+    <value>Veld kan niet leeg zijn</value>
     <comment>Erro message when field can't be empty</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Beschrijving</value>
     <comment>Field label for calendar's description</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Header" xml:space="preserve">
-    <value>Calendar settings</value>
+    <value>Kalender instellingen</value>
     <comment>Header when editing calendar's settings</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Naam</value>
     <comment>Field label for calendar's name</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_NewCalendar" xml:space="preserve">
-    <value>New calendar</value>
+    <value>Nieuwe Kalender</value>
     <comment>Header when creating new calendar</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_SavingCalendar" xml:space="preserve">
-    <value>Saving calendar</value>
+    <value>Kalender opslaan</value>
     <comment>Message when saving calendar</comment>
   </data>
   <data name="App_Calendar_NoCalendars" xml:space="preserve">
-    <value>No calendars</value>
+    <value>Geen Kalenders</value>
     <comment>Label when there is no calendars in an account</comment>
   </data>
   <data name="App_Calendar_Settings_Accounts" xml:space="preserve">
@@ -6269,103 +6269,103 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Label to settings in accounts section</comment>
   </data>
   <data name="App_Calendar_Settings_Calendars" xml:space="preserve">
-    <value>Calendars</value>
+    <value>Kalenders</value>
     <comment>Label to settings in calendars section</comment>
   </data>
   <data name="App_Calendar_Settings_ChooseAccount" xml:space="preserve">
-    <value>Choose account</value>
+    <value>Kies account</value>
     <comment>Label to choose account to edit</comment>
   </data>
   <data name="App_Calendar_Settings_EditCalendars" xml:space="preserve">
-    <value>Edit calendars</value>
+    <value>Bewerk Kalenders</value>
     <comment>Header to settings section related to account's calendars</comment>
   </data>
   <data name="App_Calendar_Settings_General" xml:space="preserve">
-    <value>General</value>
+    <value>Algemeen</value>
     <comment>Label to settings in general section</comment>
   </data>
   <data name="Dialog_RemoveCalendar" xml:space="preserve">
-    <value>Remove calendar?</value>
+    <value>Kalender verwijderen?</value>
     <comment>Header when user is removing a calendar</comment>
   </data>
   <data name="Dialog_RemoveCalendarExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove "{0}"?</value>
+    <value>Weet je zeker dat je "{0}" wilt verwijderen?</value>
     <comment>Explanation when user is removing calendar</comment>
   </data>
   <data name="App_Calendar_ValidationSelectTimeZone" xml:space="preserve">
-    <value>Please select a time zone</value>
+    <value>Selecteer een tijdzone</value>
     <comment>Error message when user doesn't select any timezone on a calendar</comment>
   </data>
   <data name="App_Calendar_AddCalendar" xml:space="preserve">
-    <value>Add calendar</value>
+    <value>Kalender toevoegen</value>
     <comment>Tooltip for button to add calendar</comment>
   </data>
   <data name="App_Calendar_Details_Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Verwijder</value>
     <comment>Delete menu</comment>
   </data>
   <data name="App_Calendar_Details_Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Bewerken</value>
     <comment>Edit menu</comment>
   </data>
   <data name="App_Calendar_Details_Email" xml:space="preserve">
-    <value>Email guests</value>
+    <value>Email gast</value>
     <comment>Menu to send email to guests</comment>
   </data>
   <data name="App_Calendar_Dialog_DeleteExplanation" xml:space="preserve">
-    <value>Are you sure you want to delete this event?</value>
+    <value>Weet je zeker dat je deze afspraak wilt verwijderen?</value>
     <comment>Explanation for messagebox when deleting an event</comment>
   </data>
   <data name="App_Calendar_Dialog_DeleteHeader" xml:space="preserve">
-    <value>Delete event?</value>
+    <value>Afspraak verwijderen?</value>
     <comment>Header for messagebox when deleting an event</comment>
   </data>
   <data name="App_Calendar_Recurring_AllEvents" xml:space="preserve">
-    <value>All events</value>
+    <value>Alle afspraken</value>
     <comment>Option to edit/delete all events</comment>
   </data>
   <data name="App_Calendar_Recurring_EditHeader" xml:space="preserve">
-    <value>Edit recurring event?</value>
+    <value>Terugkerende afspraak bewerken?</value>
     <comment>Header when editing a recurring event</comment>
   </data>
   <data name="App_Calendar_Recurring_ThisAndFollowing" xml:space="preserve">
-    <value>This and following events</value>
+    <value>Deze en volgende evenementen</value>
     <comment>Option to edit/delete this and following events</comment>
   </data>
   <data name="App_Calendar_Recurring_ThisEvent" xml:space="preserve">
-    <value>This event</value>
+    <value>Deze gebeurtenis</value>
     <comment>Option to edit/delete only one event</comment>
   </data>
   <data name="App_Calendar_EditEvent_MarkOptional" xml:space="preserve">
-    <value>Mark optional</value>
+    <value>Markering optioneel</value>
     <comment>Tooltip for button to make guest an optional attendant</comment>
   </data>
   <data name="App_Calendar_EditEvent_MarkRequired" xml:space="preserve">
-    <value>Mark required</value>
+    <value>Markering vereist</value>
     <comment>Tooltip for button to make guest an optional attendant</comment>
   </data>
   <data name="Dialog_DiscardChanges" xml:space="preserve">
-    <value>Discard changes?</value>
+    <value>Veranderingen ongedaan maken?</value>
     <comment>Header for message box when closing edit window without saving</comment>
   </data>
   <data name="Dialog_DiscardChangesExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard unsaved changes?</value>
+    <value>Weet u zeker dat u niet-opgeslagen wijzigingen wilt verwijderen?</value>
     <comment>Explanation for message box when closing edit window without saving</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddGuest" xml:space="preserve">
-    <value>Add guest</value>
+    <value>Gast toevoegen</value>
     <comment>Placeholder for add guest textbox</comment>
   </data>
   <data name="App_Calendar_EditEvent_AllDay" xml:space="preserve">
-    <value>All day</value>
+    <value>Alle dagen</value>
     <comment>Checkbox to determine whether event is an all day event or not</comment>
   </data>
   <data name="App_Calendar_EditEvent_Busy" xml:space="preserve">
-    <value>Busy</value>
+    <value>Bezig</value>
     <comment>Event privacy: busy</comment>
   </data>
   <data name="App_Calendar_EditEvent_DefaultVisibility" xml:space="preserve">
-    <value>Default visibility</value>
+    <value>Standaard zichtbaarheid</value>
     <comment>Event visibility: default</comment>
   </data>
   <data name="App_Calendar_EditEvent_Details" xml:space="preserve">
@@ -6377,43 +6377,43 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Email notification for upcoming event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Free" xml:space="preserve">
-    <value>Free</value>
+    <value>Gratis</value>
     <comment>Event privacy: free</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestCan" xml:space="preserve">
-    <value>Guest can:</value>
+    <value>Gast kan:</value>
     <comment>Section for guest's right</comment>
   </data>
   <data name="App_Calendar_EditEvent_Guests" xml:space="preserve">
-    <value>Guests</value>
+    <value>Gasten</value>
     <comment>Guests section in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_Hour" xml:space="preserve">
-    <value>Hour</value>
+    <value>Uur</value>
     <comment>Time unit: hour</comment>
   </data>
   <data name="App_Calendar_EditEvent_Invite" xml:space="preserve">
-    <value>Invite others</value>
+    <value>Nodig anderen uit</value>
     <comment>Guest right to invite other people</comment>
   </data>
   <data name="App_Calendar_EditEvent_Location" xml:space="preserve">
-    <value>Location</value>
+    <value>Locatie</value>
     <comment>Placeholder for location textbox</comment>
   </data>
   <data name="App_Calendar_EditEvent_Minute" xml:space="preserve">
-    <value>Minute</value>
+    <value>Minuut</value>
     <comment>Time unit: minute</comment>
   </data>
   <data name="App_Calendar_EditEvent_Modify" xml:space="preserve">
-    <value>Modify event</value>
+    <value>Wijzig evenement</value>
     <comment>Guest right to modify event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Notification" xml:space="preserve">
-    <value>Notification</value>
+    <value>Bericht</value>
     <comment>Popup notification for upcoming event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Optional" xml:space="preserve">
-    <value>Optional</value>
+    <value>Optioneel</value>
     <comment>Label when attendee is optional participant</comment>
   </data>
   <data name="App_Calendar_EditEvent_Private" xml:space="preserve">
@@ -6421,64 +6421,64 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Event visibility: private</comment>
   </data>
   <data name="App_Calendar_EditEvent_Public" xml:space="preserve">
-    <value>Public</value>
+    <value>Publiekelijk</value>
     <comment>Event visibility: public</comment>
   </data>
   <data name="App_Calendar_EditEvent_SeeGuestList" xml:space="preserve">
-    <value>See guest list</value>
+    <value>Zie gastenlijst</value>
     <comment>Guest right to see guest list</comment>
   </data>
   <data name="App_Calendar_EditEvent_TimeZone" xml:space="preserve">
-    <value>Time zone</value>
+    <value>Tijdzone</value>
     <comment>Time zone label</comment>
   </data>
   <data name="App_Calendar_EditEvent_Title" xml:space="preserve">
-    <value>Add title</value>
+    <value>Titel toevoegen</value>
     <comment>Placeholder for title in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_To" xml:space="preserve">
-    <value>to</value>
+    <value>naar</value>
     <comment>Label text between start and end time</comment>
   </data>
   <data name="App_Calendar_TimeZone_DifferentStartEnd" xml:space="preserve">
-    <value>Use separate start and end time zones</value>
+    <value>Gebruik afzonderlijke begin- en eindtijdzones</value>
     <comment>Label for checkbox to use different time zone for start and end time of an event</comment>
   </data>
   <data name="App_Calendar_TimeZone_End" xml:space="preserve">
-    <value>Event end time zone</value>
+    <value>Gebeurtenis eindtijdzone</value>
     <comment>Label for time zone for end time for an event</comment>
   </data>
   <data name="App_Calendar_TimeZone_Remove" xml:space="preserve">
-    <value>Remove time zone</value>
+    <value>Verwijder tijdzone</value>
     <comment>Button to remove time zone</comment>
   </data>
   <data name="App_Calendar_TimeZone_Start" xml:space="preserve">
-    <value>Event start time zone</value>
+    <value>Starttijdzone van evenement</value>
     <comment>Label for time zone for start time for an event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Dag</value>
     <comment>Time unit: day</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_DayPlural" xml:space="preserve">
-    <value>Days</value>
+    <value>Dagen</value>
     <comment>Time unit: days</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Maand</value>
     <comment>Time unit: month</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_MonthPlural" xml:space="preserve">
-    <value>Months</value>
+    <value>Maanden</value>
     <comment>Time unit: months</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatEvery" xml:space="preserve">
-    <value>Repeat every</value>
+    <value>Herhaal elke</value>
     <comment>Labels in recurrence field
 E.g. "Repeat every 2 days"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Title" xml:space="preserve">
-    <value>Custom recurrence</value>
+    <value>Aangepaste herhaling</value>
     <comment>Title window for creating custom recurrence event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Week" xml:space="preserve">
@@ -6486,485 +6486,485 @@ E.g. "Repeat every 2 days"</comment>
     <comment>Time unit: week</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_WeekPlural" xml:space="preserve">
-    <value>Weeks</value>
+    <value>Weken</value>
     <comment>Time unit: weeks</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Jaar</value>
     <comment>Time unit: year</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_YearPlural" xml:space="preserve">
-    <value>Years</value>
+    <value>Jaren</value>
     <comment>Time unit: years</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_After" xml:space="preserve">
-    <value>After</value>
+    <value>Na</value>
     <comment>Content for radio button, the full sentence is e.g. "ends after 1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Ends" xml:space="preserve">
-    <value>Ends</value>
+    <value>Loopt af</value>
     <comment>Label to edit when an event ends</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Never" xml:space="preserve">
-    <value>Never</value>
+    <value>Nooit</value>
     <comment>Label for radio button</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Occurrence" xml:space="preserve">
-    <value>occurrence</value>
+    <value>voorval</value>
     <comment>Label for field in custom occurrence window
 e.g. "1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_OccurrencePlural" xml:space="preserve">
-    <value>occurrences</value>
+    <value>voorvallen</value>
     <comment>Label for field in custom occurrence window
 e.g. "2 occurrences"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_On" xml:space="preserve">
-    <value>On</value>
+    <value>Op</value>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
-    <value>Repeat on</value>
+    <value>Herhaal op</value>
     <comment>Label to edit on what days event will repeat</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidNumber" xml:space="preserve">
-    <value>Please enter valid number</value>
+    <value>Voer een geldig nummer in</value>
     <comment>Error message when entring not valid number</comment>
   </data>
   <data name="App_Calendar_Frequency_Daily" xml:space="preserve">
-    <value>Daily</value>
+    <value>Dagelijks</value>
     <comment>An event repeats every day</comment>
   </data>
   <data name="App_Calendar_Frequency_Monthly" xml:space="preserve">
-    <value>Monthly</value>
+    <value>Maandelijks</value>
     <comment>An events repeats every month</comment>
   </data>
   <data name="App_Calendar_Frequency_Weekly" xml:space="preserve">
-    <value>Weekly</value>
+    <value>Weekelijks</value>
     <comment>An events repetas every week</comment>
   </data>
   <data name="App_Calendar_Frequency_Yearly" xml:space="preserve">
-    <value>Annually</value>
+    <value>Jaarlijks</value>
     <comment>An events repetas every year</comment>
   </data>
   <data name="App_Calendar_Recurrence_AfterNRepetitions" xml:space="preserve">
-    <value>{0} times</value>
+    <value>{0} keer</value>
     <comment>An event repeats N times. Example: 3 times</comment>
   </data>
   <data name="App_Calendar_Recurrence_DoesNotRepeat" xml:space="preserve">
-    <value>Doesn't repeat</value>
+    <value>Niet Herhalen</value>
     <comment>An event  of a calendar does not repeat, it's only 1 day</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryPeriod" xml:space="preserve">
-    <value>Every {0} {1}</value>
+    <value>Elke {0} {1}</value>
     <comment>An event repeats every "period". Example: Every 2 years, Every 5 months</comment>
   </data>
   <data name="App_Calendar_Recurrence_First" xml:space="preserve">
-    <value>first</value>
+    <value>eerste</value>
     <comment>An event repeats on the first weekday of the month. Example: First Monday, First Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Fourth" xml:space="preserve">
-    <value>fourth</value>
+    <value>vierde</value>
     <comment>An event repeats on the fourth weekday of the month. Example: Fourth Tuesday, Fourth Thursday</comment>
   </data>
   <data name="App_Calendar_Recurrence_In" xml:space="preserve">
     <value>in {0}</value>
   </data>
   <data name="App_Calendar_Recurrence_Last" xml:space="preserve">
-    <value>last</value>
+    <value>laatste</value>
     <comment>An event repeats on the last weekday of the month. Example: Last Monday, Last Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_On" xml:space="preserve">
-    <value>on {0}</value>
+    <value>op {0}</value>
     <comment>An event repeats on a week day. Example: on Monday, on Friday, On October 8</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnDay" xml:space="preserve">
-    <value>on day {0}</value>
+    <value>op dag {0}</value>
     <comment>An event repeats on a month day. Example: on day 1, on day 2, on day 31</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnlyOnce" xml:space="preserve">
-    <value>Once</value>
+    <value>Een keer</value>
     <comment>Calendar event repeats only 1 time.</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnThe" xml:space="preserve">
-    <value>on the {0}</value>
+    <value>op de {0}</value>
     <comment>An event repeats on n day of the week. Example: on the first Monday, on the third Thursday, on the last Friday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Second" xml:space="preserve">
-    <value>second</value>
+    <value>tweede</value>
     <comment>An event repeats on the second weekday of the month. Example: Second Monday, Second Tuesday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Third" xml:space="preserve">
-    <value>third</value>
+    <value>derde</value>
     <comment>An event repeats on the third weekday of the month. Example: Third Friday, Third Sunday</comment>
   </data>
   <data name="App_Calendar_Recurrence_UntilDate" xml:space="preserve">
-    <value>until {0}</value>
+    <value>tot {0}</value>
     <comment>An event repeats until a date. Example: until 31 august 2009</comment>
   </data>
   <data name="App_Calendar_Recurrence_Custom" xml:space="preserve">
-    <value>Custom...</value>
+    <value>Aangepast...</value>
     <comment>Custom recurrence</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryWeekday" xml:space="preserve">
-    <value>Every weekday (Monday to Friday)</value>
+    <value>Elke werkdag (Maandag tot Vrijdag)</value>
   </data>
   <data name="App_Calendar_Recurrence_OnWeekdays" xml:space="preserve">
-    <value>on weekdays</value>
+    <value>door de week</value>
   </data>
   <data name="App_Calendar_EditEvent_Organizer" xml:space="preserve">
     <value>Organizer</value>
     <comment>Label when attendee is the organizer</comment>
   </data>
   <data name="App_Calendar_Details_Maybe" xml:space="preserve">
-    <value>Maybe</value>
+    <value>Misschien</value>
     <comment>Button to confirm that user maybe can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_No" xml:space="preserve">
-    <value>No</value>
+    <value>Nee</value>
     <comment>Button to confirm that user can't attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Ja</value>
     <comment>Button to confirm that user can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Going" xml:space="preserve">
-    <value>Going?</value>
+    <value>Gaan naar?</value>
     <comment>Label to ask user about his response to an event</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddNotification" xml:space="preserve">
-    <value>Add notification</value>
+    <value>Notificatie toevoegen</value>
     <comment>Button to add notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_BeforeAt" xml:space="preserve">
-    <value>before at</value>
+    <value>voordat</value>
     <comment>Label for notification, will be used like: 10 days before, at 9:00 AM</comment>
   </data>
   <data name="App_Calendar_EditEvent_HourPlural" xml:space="preserve">
-    <value>Hours</value>
+    <value>Uren</value>
     <comment>Time unit: hours</comment>
   </data>
   <data name="App_Calendar_EditEvent_MinutePlural" xml:space="preserve">
-    <value>Minutes</value>
+    <value>Minuten</value>
     <comment>Time unit: minutes</comment>
   </data>
   <data name="App_Calendar_EditEvent_Before" xml:space="preserve">
-    <value>before</value>
+    <value>voor</value>
     <comment>Label for reminder, ej: 30 hours before</comment>
   </data>
   <data name="App_Calendar_Reminder_AsEmail" xml:space="preserve">
-    <value>as email</value>
+    <value>als email</value>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
-    <value>Value can't be greater than {0} {1}</value>
+    <value>Waarde kan niet groter zijn dan {0} {1}</value>
     <comment>Value can't be greater than 2 weeks</comment>
   </data>
   <data name="App_Calendar_ShowWeekends" xml:space="preserve">
-    <value>Show weekends</value>
+    <value>Toon weekenden</value>
     <comment>Menu to show or hide weekends from calendar</comment>
   </data>
   <data name="App_Calendar_ShowDeclinedEvents" xml:space="preserve">
-    <value>Show declined events</value>
+    <value>Toon geweigerde evenementen</value>
     <comment>Menu to show or hide declined events</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidEndTime" xml:space="preserve">
-    <value>End time must be greater than the start time</value>
+    <value>Eindtijd moet groter zijn dan de starttijd</value>
     <comment>Error message when end time is less than start time</comment>
   </data>
   <data name="App_Calendar_Settings_FadeOutEvents" xml:space="preserve">
-    <value>Fade out past events</value>
+    <value>Oude gebeurtenissen vervagen</value>
     <comment>Option to reduce brightness of past events</comment>
   </data>
   <data name="App_Calendar_Notification_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleren</value>
     <comment>Cancel button </comment>
   </data>
   <data name="App_Calendar_Notification_DontSend" xml:space="preserve">
-    <value>Don't send</value>
+    <value>Niet sturen</value>
     <comment>Don't send button</comment>
   </data>
   <data name="App_Calendar_Notification_Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Verstuur</value>
     <comment>Send button</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellation" xml:space="preserve">
-    <value>Send cancellations?</value>
+    <value>Annuleringen versturen?</value>
     <comment>Header for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellationExplanation" xml:space="preserve">
-    <value>Would you like to send cancellations to guests?</value>
+    <value>Wilt u annuleringen naar gasten sturen?</value>
     <comment>Explanation for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitation" xml:space="preserve">
-    <value>Send invitations?</value>
+    <value>Uitnodigingen versturen?</value>
     <comment>Header for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitationExplanation" xml:space="preserve">
-    <value>Would you like to send invitations to guests?</value>
+    <value>Wilt u uitnodigingen verzenden naar gasten?</value>
     <comment>Explanation for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdate" xml:space="preserve">
-    <value>Send updates?</value>
+    <value>Updates sturen?</value>
     <comment>Header for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdateExplanation" xml:space="preserve">
-    <value>Would you like to send updates to existing guests?</value>
+    <value>Wilt u updates naar bestaande gasten sturen?</value>
     <comment>Explanation for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Reminder_At" xml:space="preserve">
-    <value>at</value>
+    <value>op</value>
     <comment>E.g. Event is starting at 1:00 PM</comment>
   </data>
   <data name="App_Calendar_Reminder_WhenEventStarts" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Wanneer het evenement begint</value>
     <comment>Indicates that a reminder for a calendar event will be triggered right when the event starts.</comment>
   </data>
   <data name="App_Calendar_Reminder_Starting" xml:space="preserve">
-    <value>{0} is starting {1}</value>
+    <value>{0} is gestart {1}</value>
     <comment>E.g. Event name is starting at 1:00PM</comment>
   </data>
   <data name="App_Calendar_Reminder_AlreadyStarted" xml:space="preserve">
-    <value>Already started</value>
+    <value>Al gestart</value>
     <comment>Display that an event has already started at the moment the user got the notification</comment>
   </data>
   <data name="App_Calendar_Reminder_DueIn" xml:space="preserve">
-    <value>Due in {0}</value>
+    <value>Verschuldigd in {0}</value>
     <comment>An event is due in X time. Eg: Due in 5 minutes, Due in 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminder_Overdue" xml:space="preserve">
-    <value>Overdue {0}</value>
+    <value>Achterstallig{0}</value>
     <comment>An event is overdue X time. Eg:Overdue 5 minutes, Overdue 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminders_And" xml:space="preserve">
-    <value>and</value>
+    <value>en</value>
     <comment>Use to concatenate hour and time. Eg: 5hours and 15 minutes</comment>
   </data>
   <data name="App_Calendar_Notification_Title" xml:space="preserve">
-    <value>Notification</value>
+    <value>Melding</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_TitlePlural" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Meldingen</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_NoNotifications" xml:space="preserve">
-    <value>No notifications</value>
+    <value>Geen meldingen</value>
     <comment>Label when there are no notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to dismiss all notifications?</value>
+    <value>Weet je zeker dat je alle meldingen wilt verwijderen?</value>
     <comment>Explanation for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllHeader" xml:space="preserve">
-    <value>Dismiss all notifications?</value>
+    <value>Alle meldingen afwijzen?</value>
     <comment>Header for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to snooze all notifications?</value>
+    <value>Weet je zeker dat je alle meldingen wilt uitstellen?</value>
     <comment>Explanation for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllHeader" xml:space="preserve">
-    <value>Snooze all notifications?</value>
+    <value>Alle meldingen uitstellen?</value>
     <comment>Header for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Afwijzen</value>
     <comment>Button dismiss notification</comment>
   </data>
   <data name="App_Calendar_Notification_DismissAll" xml:space="preserve">
-    <value>Dismiss all</value>
+    <value>Alles afwijzen</value>
     <comment>Button to dimiss all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze" xml:space="preserve">
-    <value>Snooze</value>
+    <value>Uitstellen</value>
     <comment>Button to snooze notification</comment>
   </data>
   <data name="App_Calendar_Notification_SnoozeAll" xml:space="preserve">
-    <value>Snooze all</value>
+    <value>Allemaal uitstellen</value>
     <comment>Button to snooze all notifications</comment>
   </data>
   <data name="App_Calendar_Notifications" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Meldingen</value>
     <comment>Button to open notifications window</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddAllDayNotification" xml:space="preserve">
-    <value>Add all day notification</value>
+    <value>De melding voor de hele dag toevoegen</value>
     <comment>Button to add all day notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_AllDayEventNotifications" xml:space="preserve">
-    <value>All day event notifications</value>
+    <value>Meldingen voor de hele dag</value>
     <comment>Section for event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_EventNotifications" xml:space="preserve">
-    <value>Event notifications</value>
+    <value>Gebeurtenismeldingen</value>
     <comment>Section for all day event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_CantModifyMessage" xml:space="preserve">
-    <value>Changes will only be reflected in this calendar</value>
+    <value>Wijzigingen worden alleen in deze kalender weergegeven</value>
     <comment>Message where users editing event but they are not the organizer</comment>
   </data>
   <data name="App_Calendar_Settings_Export" xml:space="preserve">
-    <value>Export</value>
+    <value>Exporteren</value>
     <comment>Label of export event button in Calendar settings</comment>
   </data>
   <data name="App_Calendar_Settings_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importeren</value>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>The export process have finished. There has been errors exporting some events. Please contact Customer Support.</value>
+    <value>Het exportproces is voltooid. Er zijn fouten opgetreden bij het exporteren van sommige gebeurtenissen. Neem contact op met de klantenservice.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
-    <value>The export process have finished. All events have been exported in the selected file.</value>
+    <value>Het exportproces is voltooid. Alle gebeurtenissen zijn geëxporteerd in het geselecteerde bestand.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be open. Please make sure it's not open in other application and your user have access right to it and try again.</value>
+    <value>Het geselecteerde bestand kan niet geopend zijn. Zorg ervoor dat het niet open is in een andere applicatie en en uw gebruikers toegangsrecht hebben erop en probeer het opnieuw.</value>
     <comment>Error message displayed when the selected file where to export events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Export_NoEventsExplanation" xml:space="preserve">
-    <value>The selected calendar does not contains any event to export. Please select another calendar and try again.</value>
+    <value>De geselecteerde agenda bevat geen gebeurtenis om te exporteren. Selecteer een andere agenda en probeer het opnieuw.</value>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>The import process has finished. There has been errors importing some events. Please contact Customer Support.</value>
+    <value>Het importproces is voltooid. Er zijn fouten opgetreden tijdens het importeren van sommige gebeurtenissen. Neem contact op met de klantenservice.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
-    <value>The import process has finished. All events have been imported in the selected calendar.</value>
+    <value>Het importproces is voltooid. Alle evenementen zijn geïmporteerd in de geselecteerde kalender.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Import_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be open. Please make sure it's not open in other application and your user have access right to it and try again.</value>
+    <value>Het geselecteerde bestand kan niet geopend zijn. Zorg ervoor dat het niet open is in een andere applicatie en uw gebruiker toegangrecht heeft er op. Probeer het opnieuw.</value>
     <comment>Error message displayed when the selected file to import events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Import_NoEventsExplanation" xml:space="preserve">
-    <value>The selected file does not contains any event information. Please select another file and try again.</value>
+    <value>Het geselecteerde bestand bevat geen gebeurtenisinformatie. Selecteer een ander bestand en probeer het opnieuw.</value>
     <comment>Error message when there's no events to import in the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_GlobalError" xml:space="preserve">
-    <value>The export process cannot be completed. Please contact support.</value>
+    <value>Het exportproces kan niet worden voltooid. Neem contact op met de ondersteuning.</value>
     <comment>Error displayed when there was a global error in the export process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Import_GlobalError" xml:space="preserve">
-    <value>The import process cannot be completed. Please contact support.</value>
+    <value>Het importproces kan niet worden voltooid. Neem contact op met de ondersteuning.</value>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
-    <value>Export was canceled</value>
+    <value>Exportproces is geannuleerd.</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
-    <value>Export process was canceled. A file might have been created.</value>
+    <value>Exportproces is geannuleerd. Mogelijk is een bestand gemaakt.</value>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
-    <value>Export error</value>
+    <value>Exportfout</value>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
-    <value>Export finished</value>
+    <value>Exporteren is voltooid</value>
     <comment>Header when export has finished</comment>
   </data>
   <data name="App_Calendar_Export_Loading" xml:space="preserve">
-    <value>Exporting calendar...</value>
+    <value>Exporteren van de Kalender...</value>
     <comment>Header when exporting calendar</comment>
   </data>
   <data name="App_Calendar_ImportExport_FileError" xml:space="preserve">
-    <value>Error accessing file</value>
+    <value>Fout bij openen van bestand</value>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
-    <value>No events</value>
+    <value>Geen evenementen</value>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Import was canceled</value>
+    <value>Importeren is geannuleerd</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
-    <value>Import process was canceled. Some events might have been added to the target calendar.</value>
+    <value>Importproces is geannuleerd. Sommige punten zijn mogelijk toegevoegd aan de doelagenda.</value>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
-    <value>Import error</value>
+    <value>Importeerfout</value>
     <comment>Header when there was error in import process</comment>
   </data>
   <data name="App_Calendar_Import_Finished" xml:space="preserve">
-    <value>Import finished</value>
+    <value>Importeren is voltooid</value>
     <comment>Header when import has finished</comment>
   </data>
   <data name="App_Calendar_Import_Loading" xml:space="preserve">
-    <value>Importing calendar...</value>
+    <value>Importeren van de Kalender...</value>
     <comment>Header when importing calendar</comment>
   </data>
   <data name="App_Calendar_Settings_ExportExplanation" xml:space="preserve">
-    <value>Please select one or more calendars to export.</value>
+    <value>Selecteer een of meer agenda's om te exporteren.</value>
     <comment>Instruction for export feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExplanation" xml:space="preserve">
-    <value>Add imported calendar to</value>
+    <value>Voeg geïmporteerde kalender toe aan</value>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
-    <value>Import &amp; export</value>
+    <value>Importeren &amp; exporteren</value>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
-    <value>Calendar is syncing. Please wait for the sync to complete before importing or exporting to avoid any errors or inaccurate results.</value>
+    <value>Agenda is synchroniseert. Wacht tot de synchronisatie voltooid is voordat u importeert of exporteert om fouten of onnauwkeurige resultaten te voorkomen.</value>
     <comment>Warning text when importing or exporting when calendar is syncing</comment>
   </data>
   <data name="App_Calendar_Invitation_Accepted" xml:space="preserve">
-    <value>Accepted</value>
+    <value>Geaccepteerd</value>
   </data>
   <data name="App_Calendar_Invitation_Declined" xml:space="preserve">
-    <value>Declined</value>
+    <value>Afgewezen</value>
   </data>
   <data name="App_Calendar_Invitation_NeedsAction" xml:space="preserve">
-    <value>No response</value>
+    <value>Geen reactie</value>
   </data>
   <data name="App_Calendar_Invitation_Tentative" xml:space="preserve">
-    <value>Maybe</value>
+    <value>Misschien</value>
   </data>
   <data name="App_Calendar_Invitation_Unknown" xml:space="preserve">
-    <value>Unknown response</value>
+    <value>Onbekende reactie</value>
   </data>
   <data name="App_Calendar_Recurring_Delete" xml:space="preserve">
-    <value>Delete recurring event?</value>
+    <value>Terugkerende afspraak verwijderen?</value>
     <comment>Title of the window displayed when trying to delete a instance of a calendar event</comment>
   </data>
   <data name="App_Calendar_Recurring_Reply" xml:space="preserve">
-    <value>Reply to recurring event?</value>
+    <value>Reageren op terugkerende evenementen?</value>
     <comment>Title of the window displayed when replying to a instance of a calendar event</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Attendees" xml:space="preserve">
-    <value>Attendees</value>
+    <value>Deelnemers</value>
     <comment>Attendees field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Calendar" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Kalender</value>
     <comment>Calendar field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Cancelled" xml:space="preserve">
-    <value>This event has been cancelled.</value>
+    <value>Dit evenement is geannuleerd.</value>
     <comment>Message when event was cancelled</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Beschrijving</value>
     <comment>Description field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Error" xml:space="preserve">
-    <value>An error occured while processing the invitation. If the issue persists please [link href={0}]contact support[/link]</value>
+    <value>Er is een fout opgetreden tijdens het verwerken van de uitnodiging. Als het probleem zich blijft voordoen, graag [link href={0}]contact support[/link]</value>
     <comment>Message when there is error when opening ics file, please leave the tag [link]</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventAdded" xml:space="preserve">
-    <value>Event was added to your primary calendar.</value>
+    <value>Evenement is toegevoegd aan je primaire agenda.</value>
     <comment>Message when event is added to a calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventNotAdded" xml:space="preserve">
-    <value>Event was not added due to error. If issue remains please contact support.</value>
+    <value>Gebeurtenis is niet toegevoegd vanwege een fout. Neem contact op met de ondersteuning als het probleem blijft bestaan.</value>
     <comment>Message when there is error when adding event to calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Location" xml:space="preserve">
@@ -6972,15 +6972,15 @@ e.g. "2 occurrences"</comment>
     <comment>Location field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NonExisting" xml:space="preserve">
-    <value>This event is a reply to a non existing request.</value>
+    <value>Deze gebeurtenis is een antwoord op een niet-bestaande aanvraag.</value>
     <comment>Message when the file is a reply to already deleted event</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NotEnabled" xml:space="preserve">
-    <value>Enable the Calendar app and connect {0} to manage this invitation</value>
+    <value>Schakel de Agenda app in en maak verbinding met {0} om deze uitnodiging te beheren</value>
     <comment>Message when calendar app is not activated or account is not connected</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NotInitialized" xml:space="preserve">
-    <value>Calendar is not initialized. Please wait.</value>
+    <value>Kalender is niet geïnitialiseerd. Even geduld aub.</value>
     <comment>Message when calendar is initializing</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Organizer" xml:space="preserve">
@@ -6996,33 +6996,33 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is error</comment>
   </data>
   <data name="Dialog_Success" xml:space="preserve">
-    <value>Success</value>
+    <value>Succes</value>
     <comment>Header when action is success</comment>
   </data>
   <data name="App_Calendar_ExpandCollapseAllDay" xml:space="preserve">
-    <value>Expand/collapse all day event section</value>
+    <value>Uitklappen / inklappen sectie dag evenement</value>
     <comment>Tooltip for button to expand or collapse all day event section</comment>
   </data>
   <data name="App_Calendar_ViewDayView" xml:space="preserve">
-    <value>Day view</value>
+    <value>Dagplanning</value>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_ViewScheduleView" xml:space="preserve">
-    <value>Schedule view</value>
+    <value>Bekijk planning</value>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_Intro_1" xml:space="preserve">
-    <value>All your calendars together in one place.</value>
+    <value>Al uw agenda's samen op één plaats.</value>
     <comment>Caption for tutorial 1</comment>
   </data>
   <data name="App_Calendar_Intro_2" xml:space="preserve">
-    <value>Sync calendars from Google, Exchange, and 
-Outlook (coming soon).</value>
+    <value>Synchroniseer agenda's van Google, Exchange en
+Outlook (binnenkort beschikbaar).</value>
     <comment>Caption for tutorial 2</comment>
   </data>
   <data name="App_Calendar_Intro_3" xml:space="preserve">
-    <value>Enable sidebar and view your calendar next to
-your Inbox.</value>
+    <value>Schakel zijbalk in en bekijk uw agenda naast
+uw inbox.</value>
     <comment>Caption for tutorial 3</comment>
   </data>
   <data name="App_Calendar_Intro_4" xml:space="preserve">
@@ -7030,11 +7030,11 @@ your Inbox.</value>
     <comment>Caption for tutorial 4</comment>
   </data>
   <data name="App_Calendar_Intro_Welcome" xml:space="preserve">
-    <value>Meet the Calendar</value>
+    <value>Maak kennis met de kalender</value>
     <comment>Tutorial title</comment>
   </data>
   <data name="App_Calendar_Intro_ComingSoon" xml:space="preserve">
-    <value>*) Coming soon</value>
+    <value>*) Binnenkort</value>
     <comment>Foot note for upcoming feature</comment>
   </data>
   <data name="App_Calendar_Settings_MatchWindowsTimezone" xml:space="preserve">
@@ -7061,7 +7061,7 @@ your Inbox.</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_Start" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Wanneer het evenement begint</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Settings_DefaultCalendar" xml:space="preserve">
