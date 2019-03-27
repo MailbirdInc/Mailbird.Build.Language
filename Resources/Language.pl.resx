@@ -6093,7 +6093,7 @@ Jeśli problem nadal występuje, skontaktuj się z supportem {0}</value>
     <comment>Menu to show or hide left menu</comment>
   </data>
   <data name="App_Calendar_More" xml:space="preserve">
-    <value>{0} more</value>
+    <value>{0} więcej</value>
     <comment>Button to show more events in a day</comment>
   </data>
   <data name="App_Calendar_NewEvent" xml:space="preserve">
@@ -6215,7 +6215,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is only 1</comment>
   </data>
   <data name="App_Calendar_ResponseMaybe" xml:space="preserve">
-    <value>{0} maybe</value>
+    <value>{0} może</value>
     <comment>Number of maybe response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseNo" xml:space="preserve">
@@ -6223,7 +6223,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Number of no response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseUnknown" xml:space="preserve">
-    <value>{0} unknown</value>
+    <value>{0} nieznane</value>
     <comment>Number of unknown response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseWaiting" xml:space="preserve">
@@ -6307,7 +6307,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Edit menu</comment>
   </data>
   <data name="App_Calendar_Details_Email" xml:space="preserve">
-    <value>Email guests</value>
+    <value>E-mail do gości</value>
     <comment>Menu to send email to guests</comment>
   </data>
   <data name="App_Calendar_Dialog_DeleteExplanation" xml:space="preserve">
@@ -6327,7 +6327,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Header when editing a recurring event</comment>
   </data>
   <data name="App_Calendar_Recurring_ThisAndFollowing" xml:space="preserve">
-    <value>This and following events</value>
+    <value>To oraz następujące wydarzenia</value>
     <comment>Option to edit/delete this and following events</comment>
   </data>
   <data name="App_Calendar_Recurring_ThisEvent" xml:space="preserve">
@@ -6335,11 +6335,11 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Option to edit/delete only one event</comment>
   </data>
   <data name="App_Calendar_EditEvent_MarkOptional" xml:space="preserve">
-    <value>Mark optional</value>
+    <value>Zaznaczenia opcjonalne</value>
     <comment>Tooltip for button to make guest an optional attendant</comment>
   </data>
   <data name="App_Calendar_EditEvent_MarkRequired" xml:space="preserve">
-    <value>Mark required</value>
+    <value>Zaznaczenie obowiązkowe</value>
     <comment>Tooltip for button to make guest an optional attendant</comment>
   </data>
   <data name="Dialog_DiscardChanges" xml:space="preserve">
@@ -6347,23 +6347,23 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Header for message box when closing edit window without saving</comment>
   </data>
   <data name="Dialog_DiscardChangesExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard unsaved changes?</value>
+    <value>Czy na pewno chcesz odrzucić niezapisane zmiany?</value>
     <comment>Explanation for message box when closing edit window without saving</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddGuest" xml:space="preserve">
-    <value>Add guest</value>
+    <value>Dodaj gościa</value>
     <comment>Placeholder for add guest textbox</comment>
   </data>
   <data name="App_Calendar_EditEvent_AllDay" xml:space="preserve">
-    <value>All day</value>
+    <value>Cały dzień</value>
     <comment>Checkbox to determine whether event is an all day event or not</comment>
   </data>
   <data name="App_Calendar_EditEvent_Busy" xml:space="preserve">
-    <value>Busy</value>
+    <value>Zajęty</value>
     <comment>Event privacy: busy</comment>
   </data>
   <data name="App_Calendar_EditEvent_DefaultVisibility" xml:space="preserve">
-    <value>Default visibility</value>
+    <value>Domyślna widoczność</value>
     <comment>Event visibility: default</comment>
   </data>
   <data name="App_Calendar_EditEvent_Details" xml:space="preserve">
@@ -6379,23 +6379,23 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Event privacy: free</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestCan" xml:space="preserve">
-    <value>Guest can:</value>
+    <value>Gość może:</value>
     <comment>Section for guest's right</comment>
   </data>
   <data name="App_Calendar_EditEvent_Guests" xml:space="preserve">
-    <value>Guests</value>
+    <value>Goście</value>
     <comment>Guests section in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_Hour" xml:space="preserve">
-    <value>Hour</value>
+    <value>Godzina</value>
     <comment>Time unit: hour</comment>
   </data>
   <data name="App_Calendar_EditEvent_Invite" xml:space="preserve">
-    <value>Invite others</value>
+    <value>Zapraszać inne osoby</value>
     <comment>Guest right to invite other people</comment>
   </data>
   <data name="App_Calendar_EditEvent_Location" xml:space="preserve">
-    <value>Location</value>
+    <value>Lokalizacja</value>
     <comment>Placeholder for location textbox</comment>
   </data>
   <data name="App_Calendar_EditEvent_Minute" xml:space="preserve">
@@ -6403,7 +6403,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Time unit: minute</comment>
   </data>
   <data name="App_Calendar_EditEvent_Modify" xml:space="preserve">
-    <value>Modify event</value>
+    <value>Modyfikować wydarzenie</value>
     <comment>Guest right to modify event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Notification" xml:space="preserve">
@@ -6411,7 +6411,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Popup notification for upcoming event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Optional" xml:space="preserve">
-    <value>Optional</value>
+    <value>Opcjonalnie</value>
     <comment>Label when attendee is optional participant</comment>
   </data>
   <data name="App_Calendar_EditEvent_Private" xml:space="preserve">
@@ -6423,15 +6423,15 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Event visibility: public</comment>
   </data>
   <data name="App_Calendar_EditEvent_SeeGuestList" xml:space="preserve">
-    <value>See guest list</value>
+    <value>Zobaczyć listę gości</value>
     <comment>Guest right to see guest list</comment>
   </data>
   <data name="App_Calendar_EditEvent_TimeZone" xml:space="preserve">
-    <value>Time zone</value>
+    <value>Strefa czasowa</value>
     <comment>Time zone label</comment>
   </data>
   <data name="App_Calendar_EditEvent_Title" xml:space="preserve">
-    <value>Add title</value>
+    <value>Dodaj tytuł</value>
     <comment>Placeholder for title in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_To" xml:space="preserve">
@@ -6439,19 +6439,19 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Label text between start and end time</comment>
   </data>
   <data name="App_Calendar_TimeZone_DifferentStartEnd" xml:space="preserve">
-    <value>Use separate start and end time zones</value>
+    <value>Użyj oddzielnych stref czasowych dla  początku i końca</value>
     <comment>Label for checkbox to use different time zone for start and end time of an event</comment>
   </data>
   <data name="App_Calendar_TimeZone_End" xml:space="preserve">
-    <value>Event end time zone</value>
+    <value>Strefa czasowa zakończenia wydarzenia</value>
     <comment>Label for time zone for end time for an event</comment>
   </data>
   <data name="App_Calendar_TimeZone_Remove" xml:space="preserve">
-    <value>Remove time zone</value>
+    <value>Usuń strefę czasową</value>
     <comment>Button to remove time zone</comment>
   </data>
   <data name="App_Calendar_TimeZone_Start" xml:space="preserve">
-    <value>Event start time zone</value>
+    <value>Strefa czasowa rozpoczęcia wydarzenia</value>
     <comment>Label for time zone for start time for an event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Day" xml:space="preserve">
@@ -6459,61 +6459,61 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Time unit: day</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_DayPlural" xml:space="preserve">
-    <value>Days</value>
+    <value>Dni</value>
     <comment>Time unit: days</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Miesiąc</value>
     <comment>Time unit: month</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_MonthPlural" xml:space="preserve">
-    <value>Months</value>
+    <value>Miesięcy</value>
     <comment>Time unit: months</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatEvery" xml:space="preserve">
-    <value>Repeat every</value>
+    <value>Powtarzaj co</value>
     <comment>Labels in recurrence field
 E.g. "Repeat every 2 days"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Title" xml:space="preserve">
-    <value>Custom recurrence</value>
+    <value>Niestandardowa powtarzalność</value>
     <comment>Title window for creating custom recurrence event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Week" xml:space="preserve">
-    <value>Week</value>
+    <value>Tydzień</value>
     <comment>Time unit: week</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_WeekPlural" xml:space="preserve">
-    <value>Weeks</value>
+    <value>Tygodni</value>
     <comment>Time unit: weeks</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Rok</value>
     <comment>Time unit: year</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_YearPlural" xml:space="preserve">
-    <value>Years</value>
+    <value>Lata</value>
     <comment>Time unit: years</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_After" xml:space="preserve">
-    <value>After</value>
+    <value>Po</value>
     <comment>Content for radio button, the full sentence is e.g. "ends after 1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Ends" xml:space="preserve">
-    <value>Ends</value>
+    <value>Kończy się</value>
     <comment>Label to edit when an event ends</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Never" xml:space="preserve">
-    <value>Never</value>
+    <value>Nigdy</value>
     <comment>Label for radio button</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Occurrence" xml:space="preserve">
-    <value>occurrence</value>
+    <value>wystąpienie</value>
     <comment>Label for field in custom occurrence window
 e.g. "1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_OccurrencePlural" xml:space="preserve">
-    <value>occurrences</value>
+    <value>wystąpienia</value>
     <comment>Label for field in custom occurrence window
 e.g. "2 occurrences"</comment>
   </data>
@@ -6522,54 +6522,54 @@ e.g. "2 occurrences"</comment>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
-    <value>Repeat on</value>
+    <value>Powtórz co</value>
     <comment>Label to edit on what days event will repeat</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidNumber" xml:space="preserve">
-    <value>Please enter valid number</value>
+    <value>Wprowadź prawidłowy numer</value>
     <comment>Error message when entring not valid number</comment>
   </data>
   <data name="App_Calendar_Frequency_Daily" xml:space="preserve">
-    <value>Daily</value>
+    <value>Każdego dnia</value>
     <comment>An event repeats every day</comment>
   </data>
   <data name="App_Calendar_Frequency_Monthly" xml:space="preserve">
-    <value>Monthly</value>
+    <value>Co miesiąc</value>
     <comment>An events repeats every month</comment>
   </data>
   <data name="App_Calendar_Frequency_Weekly" xml:space="preserve">
-    <value>Weekly</value>
+    <value>Co tydzień</value>
     <comment>An events repetas every week</comment>
   </data>
   <data name="App_Calendar_Frequency_Yearly" xml:space="preserve">
-    <value>Annually</value>
+    <value>Co roku</value>
     <comment>An events repetas every year</comment>
   </data>
   <data name="App_Calendar_Recurrence_AfterNRepetitions" xml:space="preserve">
-    <value>{0} times</value>
+    <value>{0} razy</value>
     <comment>An event repeats N times. Example: 3 times</comment>
   </data>
   <data name="App_Calendar_Recurrence_DoesNotRepeat" xml:space="preserve">
-    <value>Doesn't repeat</value>
+    <value>Nie powtarzaj</value>
     <comment>An event  of a calendar does not repeat, it's only 1 day</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryPeriod" xml:space="preserve">
-    <value>Every {0} {1}</value>
+    <value>Co {0} {1}</value>
     <comment>An event repeats every "period". Example: Every 2 years, Every 5 months</comment>
   </data>
   <data name="App_Calendar_Recurrence_First" xml:space="preserve">
-    <value>first</value>
+    <value>pierwszy/a</value>
     <comment>An event repeats on the first weekday of the month. Example: First Monday, First Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Fourth" xml:space="preserve">
-    <value>fourth</value>
+    <value>czwarty/a</value>
     <comment>An event repeats on the fourth weekday of the month. Example: Fourth Tuesday, Fourth Thursday</comment>
   </data>
   <data name="App_Calendar_Recurrence_In" xml:space="preserve">
     <value>in {0}</value>
   </data>
   <data name="App_Calendar_Recurrence_Last" xml:space="preserve">
-    <value>last</value>
+    <value>ostatni/a</value>
     <comment>An event repeats on the last weekday of the month. Example: Last Monday, Last Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_On" xml:space="preserve">
@@ -6581,7 +6581,7 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on a month day. Example: on day 1, on day 2, on day 31</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnlyOnce" xml:space="preserve">
-    <value>Once</value>
+    <value>Pierwszy/a</value>
     <comment>Calendar event repeats only 1 time.</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnThe" xml:space="preserve">
@@ -6589,33 +6589,33 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on n day of the week. Example: on the first Monday, on the third Thursday, on the last Friday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Second" xml:space="preserve">
-    <value>second</value>
+    <value>drugi/a</value>
     <comment>An event repeats on the second weekday of the month. Example: Second Monday, Second Tuesday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Third" xml:space="preserve">
-    <value>third</value>
+    <value>trzeci/a</value>
     <comment>An event repeats on the third weekday of the month. Example: Third Friday, Third Sunday</comment>
   </data>
   <data name="App_Calendar_Recurrence_UntilDate" xml:space="preserve">
-    <value>until {0}</value>
+    <value>do {0}</value>
     <comment>An event repeats until a date. Example: until 31 august 2009</comment>
   </data>
   <data name="App_Calendar_Recurrence_Custom" xml:space="preserve">
-    <value>Custom...</value>
+    <value>Niestandardowe...</value>
     <comment>Custom recurrence</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryWeekday" xml:space="preserve">
-    <value>Every weekday (Monday to Friday)</value>
+    <value>Każdy dzień powszedni (od poniedziałku do piątku)</value>
   </data>
   <data name="App_Calendar_Recurrence_OnWeekdays" xml:space="preserve">
-    <value>on weekdays</value>
+    <value>w dni powszednie</value>
   </data>
   <data name="App_Calendar_EditEvent_Organizer" xml:space="preserve">
-    <value>Organizer</value>
+    <value>Organizator</value>
     <comment>Label when attendee is the organizer</comment>
   </data>
   <data name="App_Calendar_Details_Maybe" xml:space="preserve">
-    <value>Maybe</value>
+    <value>Może</value>
     <comment>Button to confirm that user maybe can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_No" xml:space="preserve">
@@ -6623,23 +6623,23 @@ e.g. "2 occurrences"</comment>
     <comment>Button to confirm that user can't attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Tak</value>
     <comment>Button to confirm that user can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Going" xml:space="preserve">
-    <value>Going?</value>
+    <value>Będziesz?</value>
     <comment>Label to ask user about his response to an event</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddNotification" xml:space="preserve">
-    <value>Add notification</value>
+    <value>Dodaj powiadomienie</value>
     <comment>Button to add notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_BeforeAt" xml:space="preserve">
-    <value>before at</value>
+    <value>przed, o</value>
     <comment>Label for notification, will be used like: 10 days before, at 9:00 AM</comment>
   </data>
   <data name="App_Calendar_EditEvent_HourPlural" xml:space="preserve">
-    <value>Hours</value>
+    <value>Godzin</value>
     <comment>Time unit: hours</comment>
   </data>
   <data name="App_Calendar_EditEvent_MinutePlural" xml:space="preserve">
@@ -6647,7 +6647,7 @@ e.g. "2 occurrences"</comment>
     <comment>Time unit: minutes</comment>
   </data>
   <data name="App_Calendar_EditEvent_Before" xml:space="preserve">
-    <value>before</value>
+    <value>przez</value>
     <comment>Label for reminder, ej: 30 hours before</comment>
   </data>
   <data name="App_Calendar_Reminder_AsEmail" xml:space="preserve">
@@ -6655,27 +6655,27 @@ e.g. "2 occurrences"</comment>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
-    <value>Value can't be greater than {0} {1}</value>
+    <value>Wartość nie może być większa niż {0} {1}</value>
     <comment>Value can't be greater than 2 weeks</comment>
   </data>
   <data name="App_Calendar_ShowWeekends" xml:space="preserve">
-    <value>Show weekends</value>
+    <value>Pokazuj weekendy</value>
     <comment>Menu to show or hide weekends from calendar</comment>
   </data>
   <data name="App_Calendar_ShowDeclinedEvents" xml:space="preserve">
-    <value>Show declined events</value>
+    <value>Pokaż odmówione wydarzenia</value>
     <comment>Menu to show or hide declined events</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidEndTime" xml:space="preserve">
-    <value>End time must be greater than the start time</value>
+    <value>Czas zakończenia musi być większa niż czas rozpoczęcia</value>
     <comment>Error message when end time is less than start time</comment>
   </data>
   <data name="App_Calendar_Settings_FadeOutEvents" xml:space="preserve">
-    <value>Fade out past events</value>
+    <value>Zanikaj minione wydarzenia</value>
     <comment>Option to reduce brightness of past events</comment>
   </data>
   <data name="App_Calendar_Notification_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Anuluj</value>
     <comment>Cancel button </comment>
   </data>
   <data name="App_Calendar_Notification_DontSend" xml:space="preserve">
@@ -6687,27 +6687,27 @@ e.g. "2 occurrences"</comment>
     <comment>Send button</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellation" xml:space="preserve">
-    <value>Send cancellations?</value>
+    <value>Wysłać odwołania?</value>
     <comment>Header for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellationExplanation" xml:space="preserve">
-    <value>Would you like to send cancellations to guests?</value>
+    <value>Czy chcesz wysłać informację o odwołaniu do gości?</value>
     <comment>Explanation for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitation" xml:space="preserve">
-    <value>Send invitations?</value>
+    <value>Wysłać zaproszenia?</value>
     <comment>Header for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitationExplanation" xml:space="preserve">
-    <value>Would you like to send invitations to guests?</value>
+    <value>Chcesz wysłać zaproszenia dla gości?</value>
     <comment>Explanation for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdate" xml:space="preserve">
-    <value>Send updates?</value>
+    <value>Wysłać aktualizacje?</value>
     <comment>Header for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdateExplanation" xml:space="preserve">
-    <value>Would you like to send updates to existing guests?</value>
+    <value>Czy chcesz wysłać aktualizacje do obecnych gości?</value>
     <comment>Explanation for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Reminder_At" xml:space="preserve">
@@ -6715,27 +6715,27 @@ e.g. "2 occurrences"</comment>
     <comment>E.g. Event is starting at 1:00 PM</comment>
   </data>
   <data name="App_Calendar_Reminder_WhenEventStarts" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Po rozpoczęciu wydarzenia</value>
     <comment>Indicates that a reminder for a calendar event will be triggered right when the event starts.</comment>
   </data>
   <data name="App_Calendar_Reminder_Starting" xml:space="preserve">
-    <value>{0} is starting {1}</value>
+    <value>{0} zaczyna się o {1}</value>
     <comment>E.g. Event name is starting at 1:00PM</comment>
   </data>
   <data name="App_Calendar_Reminder_AlreadyStarted" xml:space="preserve">
-    <value>Already started</value>
+    <value>Już się rozpoczęło</value>
     <comment>Display that an event has already started at the moment the user got the notification</comment>
   </data>
   <data name="App_Calendar_Reminder_DueIn" xml:space="preserve">
-    <value>Due in {0}</value>
+    <value>Za {0}</value>
     <comment>An event is due in X time. Eg: Due in 5 minutes, Due in 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminder_Overdue" xml:space="preserve">
-    <value>Overdue {0}</value>
+    <value>Opóźnione o {0}</value>
     <comment>An event is overdue X time. Eg:Overdue 5 minutes, Overdue 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminders_And" xml:space="preserve">
-    <value>and</value>
+    <value>i</value>
     <comment>Use to concatenate hour and time. Eg: 5hours and 15 minutes</comment>
   </data>
   <data name="App_Calendar_Notification_Title" xml:space="preserve">
@@ -6751,35 +6751,35 @@ e.g. "2 occurrences"</comment>
     <comment>Label when there are no notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to dismiss all notifications?</value>
+    <value>Czy na pewno chcesz odrzucić wszystkie powiadomienia?</value>
     <comment>Explanation for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllHeader" xml:space="preserve">
-    <value>Dismiss all notifications?</value>
+    <value>Odrzucić wszystkie powiadomienia?</value>
     <comment>Header for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to snooze all notifications?</value>
+    <value>Czy na pewno chcesz odłożyć wszystkie powiadomienia?</value>
     <comment>Explanation for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllHeader" xml:space="preserve">
-    <value>Snooze all notifications?</value>
+    <value>Odłżyć wszystkie powiadomienia?</value>
     <comment>Header for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Odrzuć</value>
     <comment>Button dismiss notification</comment>
   </data>
   <data name="App_Calendar_Notification_DismissAll" xml:space="preserve">
-    <value>Dismiss all</value>
+    <value>Odrzuć wszystkie</value>
     <comment>Button to dimiss all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze" xml:space="preserve">
-    <value>Snooze</value>
+    <value>Odłóż</value>
     <comment>Button to snooze notification</comment>
   </data>
   <data name="App_Calendar_Notification_SnoozeAll" xml:space="preserve">
-    <value>Snooze all</value>
+    <value>Odłóż wszystkie</value>
     <comment>Button to snooze all notifications</comment>
   </data>
   <data name="App_Calendar_Notifications" xml:space="preserve">
@@ -6787,11 +6787,11 @@ e.g. "2 occurrences"</comment>
     <comment>Button to open notifications window</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddAllDayNotification" xml:space="preserve">
-    <value>Add all day notification</value>
+    <value>Dodaj powiadomienie całodzienne</value>
     <comment>Button to add all day notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_AllDayEventNotifications" xml:space="preserve">
-    <value>All day event notifications</value>
+    <value>Powiadomienia o całodziennych wydarzeniach</value>
     <comment>Section for event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_EventNotifications" xml:space="preserve">
@@ -6799,7 +6799,7 @@ e.g. "2 occurrences"</comment>
     <comment>Section for all day event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_CantModifyMessage" xml:space="preserve">
-    <value>Changes will only be reflected in this calendar</value>
+    <value>Zmiany będą widoczne tylko w tym kalendarzu</value>
     <comment>Message where users editing event but they are not the organizer</comment>
   </data>
   <data name="App_Calendar_Settings_Export" xml:space="preserve">
@@ -6811,51 +6811,51 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>The export process have finished. There has been errors exporting some events. Please contact Customer Support.</value>
+    <value>Proces eksportu został zakończony. Wystąpiły błędy przy eksporcie niektórych zdarzeń. Prosimy o kontakt z Działem Obsługi Klienta.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
-    <value>The export process have finished. All events have been exported in the selected file.</value>
+    <value>Proces eksportu został zakończony. Wszystkie zdarzenia zostały wyeksportowane do wybranego pliku.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be open. Please make sure it's not open in other application and your user have access right to it and try again.</value>
+    <value>Wybrany plik nie może być otwarty. Upewnij się, że nie jest on otwarty w innej aplikacji, a Twój użytkownik ma do niego dostęp i spróbuj ponownie.</value>
     <comment>Error message displayed when the selected file where to export events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Export_NoEventsExplanation" xml:space="preserve">
-    <value>The selected calendar does not contains any event to export. Please select another calendar and try again.</value>
+    <value>Wybrany kalendarz nie zawiera żadnych zdarzeń do wyeksportowania. Proszę wybrać inny kalendarz i spróbować ponownie.</value>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>The import process has finished. There has been errors importing some events. Please contact Customer Support.</value>
+    <value>Proces importu został zakończony. Wystąpiły błędy w imporcie niektórych zdarzeń. Prosimy o kontakt z Działem Obsługi Klienta.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
-    <value>The import process has finished. All events have been imported in the selected calendar.</value>
+    <value>Proces importu został zakończony. Wszystkie wydarzenia zostały zaimportowane do wybranego kalendarza.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Import_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be open. Please make sure it's not open in other application and your user have access right to it and try again.</value>
+    <value>Wybrany plik nie może być otwarty. Upewnij się, że nie jest on otwarty w innej aplikacji, a Twój użytkownik ma do niego dostęp i spróbuj ponownie.</value>
     <comment>Error message displayed when the selected file to import events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Import_NoEventsExplanation" xml:space="preserve">
-    <value>The selected file does not contains any event information. Please select another file and try again.</value>
+    <value>Wybrany plik nie zawiera żadnych informacji o wydarzeniach. Proszę wybrać inny plik i spróbować ponownie.</value>
     <comment>Error message when there's no events to import in the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_GlobalError" xml:space="preserve">
-    <value>The export process cannot be completed. Please contact support.</value>
+    <value>Proces eksportu nie może zostać zakończony. Prosimy o kontakt z pomocą techniczną.</value>
     <comment>Error displayed when there was a global error in the export process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Import_GlobalError" xml:space="preserve">
-    <value>The import process cannot be completed. Please contact support.</value>
+    <value>Proces importu nie może zostać zakończony. Prosimy o kontakt z pomocą techniczną.</value>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
-    <value>Export was canceled</value>
+    <value>Eksport został anulowany</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
-    <value>Export process was canceled. A file might have been created.</value>
+    <value>Proces eksportu został anulowany. Plik mógł zostać utworzony.</value>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
@@ -6863,15 +6863,15 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
-    <value>Export finished</value>
+    <value>Eksport zakończony</value>
     <comment>Header when export has finished</comment>
   </data>
   <data name="App_Calendar_Export_Loading" xml:space="preserve">
-    <value>Exporting calendar...</value>
+    <value>Eksportowanie kalendarza...</value>
     <comment>Header when exporting calendar</comment>
   </data>
   <data name="App_Calendar_ImportExport_FileError" xml:space="preserve">
-    <value>Error accessing file</value>
+    <value>Błąd dostępu do pliku</value>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
@@ -6879,11 +6879,11 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Import was canceled</value>
+    <value>Import został anulowany</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
-    <value>Import process was canceled. Some events might have been added to the target calendar.</value>
+    <value>Proces importu został anulowany. Niektóre wydarzenia mogły zostać dodane do kalendarza docelowego.</value>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
@@ -6891,19 +6891,19 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error in import process</comment>
   </data>
   <data name="App_Calendar_Import_Finished" xml:space="preserve">
-    <value>Import finished</value>
+    <value>Import zakończony</value>
     <comment>Header when import has finished</comment>
   </data>
   <data name="App_Calendar_Import_Loading" xml:space="preserve">
-    <value>Importing calendar...</value>
+    <value>Importowanie kalendarza...</value>
     <comment>Header when importing calendar</comment>
   </data>
   <data name="App_Calendar_Settings_ExportExplanation" xml:space="preserve">
-    <value>Please select one or more calendars to export.</value>
+    <value>Proszę wybrać jeden lub więcej kalendarzy do eksportu.</value>
     <comment>Instruction for export feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExplanation" xml:space="preserve">
-    <value>Add imported calendar to</value>
+    <value>Dodaj zaimportowane kalendarze do</value>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
@@ -6911,42 +6911,42 @@ e.g. "2 occurrences"</comment>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
-    <value>Calendar is syncing. Please wait for the sync to complete before importing or exporting to avoid any errors or inaccurate results.</value>
+    <value>Kalendarz jest synchronizowany. Proszę poczekać na zakończenie synchronizacji przed importem lub eksportem, aby uniknąć błędów lub niedokładnych wyników.</value>
     <comment>Warning text when importing or exporting when calendar is syncing</comment>
   </data>
   <data name="App_Calendar_Invitation_Accepted" xml:space="preserve">
-    <value>Accepted</value>
+    <value>Zaakceptowany</value>
   </data>
   <data name="App_Calendar_Invitation_Declined" xml:space="preserve">
-    <value>Declined</value>
+    <value>Odrzucony</value>
   </data>
   <data name="App_Calendar_Invitation_NeedsAction" xml:space="preserve">
-    <value>No response</value>
+    <value>Brak odpowiedzi</value>
   </data>
   <data name="App_Calendar_Invitation_Tentative" xml:space="preserve">
-    <value>Maybe</value>
+    <value>Może</value>
   </data>
   <data name="App_Calendar_Invitation_Unknown" xml:space="preserve">
-    <value>Unknown response</value>
+    <value>Nieznana odpowiedź</value>
   </data>
   <data name="App_Calendar_Recurring_Delete" xml:space="preserve">
-    <value>Delete recurring event?</value>
+    <value>Usunąć wydarzenie cykliczne?</value>
     <comment>Title of the window displayed when trying to delete a instance of a calendar event</comment>
   </data>
   <data name="App_Calendar_Recurring_Reply" xml:space="preserve">
-    <value>Reply to recurring event?</value>
+    <value>Odpowiedzieć na wydarzenie cykliczne?</value>
     <comment>Title of the window displayed when replying to a instance of a calendar event</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Attendees" xml:space="preserve">
-    <value>Attendees</value>
+    <value>Uczestnicy</value>
     <comment>Attendees field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Calendar" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Kalendarz</value>
     <comment>Calendar field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Cancelled" xml:space="preserve">
-    <value>This event has been cancelled.</value>
+    <value>To wydarzenie zostało odwołane.</value>
     <comment>Message when event was cancelled</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Description" xml:space="preserve">
@@ -6954,39 +6954,39 @@ e.g. "2 occurrences"</comment>
     <comment>Description field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Error" xml:space="preserve">
-    <value>An error occured while processing the invitation. If the issue persists please [link href={0}]contact support[/link]</value>
+    <value>Podczas przetwarzania zaproszenia wystąpił błąd. Jeśli problem będzie się utrzymywał, proszę [link href={0}]skontaktować się z działem obsługi klienta[/link]</value>
     <comment>Message when there is error when opening ics file, please leave the tag [link]</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventAdded" xml:space="preserve">
-    <value>Event was added to your primary calendar.</value>
+    <value>Wydarzenie zostało dodane do głównego kalendarza.</value>
     <comment>Message when event is added to a calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventNotAdded" xml:space="preserve">
-    <value>Event was not added due to error. If issue remains please contact support.</value>
+    <value>Wydarzenie nie zostało dodane z powodu błędu. Jeśli problem będzie się utrzymywał, prosimy o kontakt z działem pomocy technicznej.</value>
     <comment>Message when there is error when adding event to calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Location" xml:space="preserve">
-    <value>Location</value>
+    <value>Lokalizacja</value>
     <comment>Location field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NonExisting" xml:space="preserve">
-    <value>This event is a reply to a non existing request.</value>
+    <value>To wydarzenie jest odpowiedzią na nieistniejącą prośbę.</value>
     <comment>Message when the file is a reply to already deleted event</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NotEnabled" xml:space="preserve">
-    <value>Enable the Calendar app and connect {0} to manage this invitation</value>
+    <value>Włącz aplikację Kalendarz i podłącz {0}, aby zarządzać tym zaproszeniem</value>
     <comment>Message when calendar app is not activated or account is not connected</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NotInitialized" xml:space="preserve">
-    <value>Calendar is not initialized. Please wait.</value>
+    <value>Kalendarz nie jest zainicjowany. Proszę czekać.</value>
     <comment>Message when calendar is initializing</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Organizer" xml:space="preserve">
-    <value>Organizer</value>
+    <value>Organizator</value>
     <comment>Organizer field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Time" xml:space="preserve">
-    <value>Time</value>
+    <value>Czas</value>
     <comment>Date and time field</comment>
   </data>
   <data name="Dialog_Error" xml:space="preserve">
@@ -6994,11 +6994,11 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is error</comment>
   </data>
   <data name="Dialog_Success" xml:space="preserve">
-    <value>Success</value>
+    <value>Powodzenie</value>
     <comment>Header when action is success</comment>
   </data>
   <data name="App_Calendar_ExpandCollapseAllDay" xml:space="preserve">
-    <value>Expand/collapse all day event section</value>
+    <value>Rozwiń/Zwiń sekcję wydarzeń całodziennych</value>
     <comment>Tooltip for button to expand or collapse all day event section</comment>
   </data>
   <data name="App_Calendar_ViewDayView" xml:space="preserve">
@@ -7006,72 +7006,72 @@ e.g. "2 occurrences"</comment>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_ViewScheduleView" xml:space="preserve">
-    <value>Schedule view</value>
+    <value>Widok harmonogramu</value>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_Intro_1" xml:space="preserve">
-    <value>All your calendars together in one place.</value>
+    <value>Wszystkie Twoje kalendarze w jednym miejscu.</value>
     <comment>Caption for tutorial 1</comment>
   </data>
   <data name="App_Calendar_Intro_2" xml:space="preserve">
-    <value>Sync calendars from Google, Exchange, and 
-Outlook (coming soon).</value>
+    <value>Synchronizuj kalendarze z Google, Exchange i
+Outlook (już wkrótce).</value>
     <comment>Caption for tutorial 2</comment>
   </data>
   <data name="App_Calendar_Intro_3" xml:space="preserve">
-    <value>Enable sidebar and view your calendar next to
-your Inbox.</value>
+    <value>Włącz pasek boczny i zobacz swój kalendarz obok
+Skrzynki odbiorczej.</value>
     <comment>Caption for tutorial 3</comment>
   </data>
   <data name="App_Calendar_Intro_4" xml:space="preserve">
-    <value>Connect your account now to sync with Mailbird.</value>
+    <value>Połącz swoje konto teraz, aby zsynchronizować je z Mailbird.</value>
     <comment>Caption for tutorial 4</comment>
   </data>
   <data name="App_Calendar_Intro_Welcome" xml:space="preserve">
-    <value>Meet the Calendar</value>
+    <value>Poznaj Kalendarz</value>
     <comment>Tutorial title</comment>
   </data>
   <data name="App_Calendar_Intro_ComingSoon" xml:space="preserve">
-    <value>*) Coming soon</value>
+    <value>*) Już wkrótce</value>
     <comment>Foot note for upcoming feature</comment>
   </data>
   <data name="App_Calendar_Settings_MatchWindowsTimezone" xml:space="preserve">
-    <value>Match Windows Timezone</value>
+    <value>Dopasuj strefę czasową Windows</value>
     <comment>Label of checkbox that indicates that the Calendar App will use the same timezone as the one set in Windows</comment>
   </data>
   <data name="App_Calendar_AllDay" xml:space="preserve">
-    <value>All day</value>
+    <value>Cały dzień</value>
   </data>
   <data name="App_Calendar_Notification_Snooze_DaySingular" xml:space="preserve">
-    <value>{0} day before</value>
+    <value>{0} dzień wcześniej</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_HourSingular" xml:space="preserve">
-    <value>{0} hour before</value>
+    <value>{0} godzinę wczesniej</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_MinutePlural" xml:space="preserve">
-    <value>{0} minutes before</value>
+    <value>{0} minut wcześniej</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_MinuteSingular" xml:space="preserve">
-    <value>{0} minute before</value>
+    <value>{0} minutę wcześniej</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_Start" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Po rozpoczęciu wydarzenia</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Settings_DefaultCalendar" xml:space="preserve">
-    <value>Default calendar</value>
+    <value>Domyślny kalendarz</value>
     <comment>Field to set default calendar</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDelete" xml:space="preserve">
-    <value>Can't delete event</value>
+    <value>Nie można usunąć wydarzenia</value>
     <comment>Messagebox title when can't delete event</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDeleteExplanation" xml:space="preserve">
-    <value>You can't delete event which is currently being edited.</value>
+    <value>Nie można usunąć wydarzenia, które jest aktualnie edytowane.</value>
     <comment>Messagebox explanationwhen can't delete event</comment>
   </data>
   <data name="App_Calendar_Menu_NewEvent" xml:space="preserve">
@@ -7079,19 +7079,19 @@ your Inbox.</value>
     <comment>Menu to create event</comment>
   </data>
   <data name="App_Calendar_Menu_SetDefault" xml:space="preserve">
-    <value>Set as default calendar</value>
+    <value>Ustaw jako domyślny kalendarz</value>
     <comment>Menu to set calendar as default</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_AddToCalendar" xml:space="preserve">
-    <value>Add to calendar</value>
+    <value>Dodaj do kalendarza</value>
     <comment>Button to add event to calendar</comment>
   </data>
   <data name="WebBrowser_RemoveFromBookmarks" xml:space="preserve">
-    <value>Remove from bookmarks</value>
+    <value>Usuń z zakładek</value>
     <comment>Tooltip to remove from bookmarks</comment>
   </data>
   <data name="App_Calendar_Tutorial_CalendarAccount" xml:space="preserve">
-    <value>Connect your email accounts and sync calendars.</value>
+    <value>Posłącz swoje konta e-mail i synchronizuj kalendarze.</value>
     <comment>Tutorial text to guide user to connect account in calendar apps</comment>
   </data>
 </root>
