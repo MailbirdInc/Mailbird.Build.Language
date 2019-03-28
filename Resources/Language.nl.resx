@@ -984,7 +984,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search Attachments</comment>
   </data>
   <data name="App_Calendar_Description" xml:space="preserve">
-    <value>Manage many calendars at the same time, create events and organize meetings online and offline.</value>
+    <value>Beheer veel agenda's tegelijkertijd, maak evenementen aan en organiseer vergaderingen online en offline.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
@@ -1908,7 +1908,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Open</comment>
   </data>
   <data name="Shortcut_OpenExplanation" xml:space="preserve">
-    <value>Opent je gesprek. Vouwt ook een bericht uit/samen als je in 'Gespreksweergave' zit.</value>
+    <value>Opent je gesprek. Vouwt ook een bericht uit/samen bij een 'Gespreksweergave.'</value>
     <comment>Opens your conversation. Also expands or collapses a message if you are in 'Conversation View.'</comment>
   </data>
   <data name="Shortcut_Or" xml:space="preserve">
@@ -3671,10 +3671,10 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Configureer uw account om gebruik te maken van OAuth 2.0 authenticatie in plaats van het gebruik van de gebruikersnaam en wachtwoord, of zorg er voor dat 'allow less secure apps' is ingeschakeld in Gmail.
+    <value>Configureer uw account om gebruik te maken van OAuth 2.0 authenticatie in plaats van het gebruik van de gebruikersnaam en wachtwoord, of zorg er voor dat 'laat minder veilige apps toe' is ingeschakeld in Gmail.
+{0}
 
 Als dit probleem zich voor blijft doen, ga dan naar onderstaande link voor verdere hulp.
-
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
@@ -5283,7 +5283,7 @@ with Mailbird Pro?</comment>
     <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
   </data>
   <data name="Trial_SendInviteTitle" xml:space="preserve">
-    <value>Wil je uw vrienden uitnodigen om levenslang Mailbird Pro [bold]GRATIS[/bold] te winnen?</value>
+    <value>Wil je uw vrienden uitnodigen om levenslang Mailbird Pro te winnen [bold]GRATIS?[/bold]</value>
     <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
   </data>
   <data name="App_Contacts_CreateContact" xml:space="preserve">
@@ -5615,11 +5615,11 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Button to learn more about invite sidebar</comment>
   </data>
   <data name="Sidebar_Collapse" xml:space="preserve">
-    <value>Collapse sidebar</value>
+    <value>Zijbalk inklappen</value>
     <comment>Tooltip for a button to collapse sidebar</comment>
   </data>
   <data name="Sidebar_Expand" xml:space="preserve">
-    <value>Expand sidebar</value>
+    <value>Zijbalk uitklappen</value>
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
@@ -5668,7 +5668,7 @@ Probeer nu de nieuwe contacten!</value>
     <value>Microblogging en sociaal netwerk met chatfuncties in China (gedeeltelijk vertaald in het Engels).</value>
   </data>
   <data name="App_Whatsapp_Description" xml:space="preserve">
-    <value>Simple. Personal. Real Time Messaging. Drag attachments right into WhatsApp from Mailbird.</value>
+    <value>Eenvoudig. Personal. Realtime berichten. Sleep bijlagen rechtstreeks naar WhatsApp vanuit Mailbird.</value>
   </data>
   <data name="Tutorial_ContactsAccount" xml:space="preserve">
     <value>Verbind uw e-mailaccounts en synchroniseer contacten.</value>
@@ -5699,11 +5699,11 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
   <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Hold Meetings on the Go, Virtual Training Classes, Remote Interviews, and More.</value>
+    <value>Houd vergadering op gang, virtuele trainingen, externe interviews en meer.</value>
     <comment>Hangouts app description displayed in the App storefront.</comment>
   </data>
   <data name="DripSurvey_MoreInfo" xml:space="preserve">
-    <value>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</value>
+    <value>Door beter te begrijpen wie je bent, wat je leuk en niet leuk vindt in Mailbird, kunnen we Mailbird nog beter maken.</value>
     <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
   </data>
   <data name="AppStore_Apps" xml:space="preserve">
@@ -5719,11 +5719,11 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
   <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
-    <value>Account limit exceeded</value>
+    <value>Accountlimiet overschreden</value>
     <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Upgrade to Mailbird Pro to enjoy unlimited accounts.</value>
+    <value>Deze identiteit is uitgeschakeld. Upgrade naar Mailbird Pro om te genieten van een onbeperkt aantal accounts.</value>
     <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
@@ -5731,15 +5731,15 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the account limit in Mailbird Lite.</value>
+    <value>Dit account is uitgeschakeld omdat u de accountlimiet in Mailbird Lite heeft bereikt.</value>
     <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
-    <value>This account is disabled due to server logging being enabled.</value>
+    <value>Dit account is uitgeschakeld omdat serverlogging is ingeschakeld.</value>
     <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade to Mailbird Pro to keep receiving and sending emails from this account.</value>
+    <value>Upgrade naar Mailbird Pro om e-mails van dit account te blijven ontvangen en verzenden.</value>
     <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
@@ -5747,31 +5747,31 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some of your accounts have been disabled because your Mailbird Pro trial has ended. You are now using Mailbird Lite. Mailbird Lite supports {0} email account(s) free for life. Please upgrade to Pro in order to continue using all of your accounts.</value>
+    <value>Sommige van uw accounts zijn uitgeschakeld omdat uw proefperiode met Mailbird Pro is beëindigd. U gebruikt nu Mailbird Lite.Mailbird Lite ondersteund {0} email account(s) gratis voor het leven. Voer een upgrade naar Pro uit om door te gaan met het gebruik van al uw accounts.</value>
     <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
-    <value>Upgrade to keep using all of your accounts in Mailbird.</value>
+    <value>Voer een upgrade uit om al uw accounts in Mailbird te blijven gebruiken.</value>
     <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Your trial has ended.</value>
+    <value>Uw proefperiode is geëindigd.</value>
     <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>For any assistance, please contact us at support@getmailbird.com.</value>
+    <value>Neem voor hulp contact met ons op via support@getmailbird.com.</value>
     <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
-    <value>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</value>
+    <value>Dit is de Lite-versie van Mailbird. Als u Mailbird leuk vindt en de kracht van Mailbird Pro wilt gebruiken, upgrade dan nu</value>
     <comment>This is the Lite version of Mailbird. If you are enjoying Mailbird and would like to unleash the power of Mailbird Pro, please upgrade now</comment>
   </data>
   <data name="UpgradeNotification_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird Pro</value>
+    <value>Koop Mailbird Pro</value>
     <comment>Purchase Mailbird Pro</comment>
   </data>
   <data name="UpgradeNotification_Subtitle" xml:space="preserve">
-    <value>Would you like to get a Pro license now?</value>
+    <value>Wil je nu een Pro-licentie krijgen?</value>
     <comment>Would you like to get a Pro license now?</comment>
   </data>
   <data name="UpgradeNotification_Title" xml:space="preserve">
@@ -5787,23 +5787,23 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Label when spellcheck is off</comment>
   </data>
   <data name="MailEditorFormattingBar_Align" xml:space="preserve">
-    <value>Align</value>
+    <value>Op één lijn plaatsen</value>
     <comment>Formatting button to align paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentLess" xml:space="preserve">
-    <value>Indent less</value>
+    <value>Minder inspringen</value>
     <comment>Formatting button to give less indent in paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentMore" xml:space="preserve">
-    <value>Indent more</value>
+    <value>Meer inspringen</value>
     <comment>Formatting button to give more indent in paragraph</comment>
   </data>
   <data name="Message_DropAsInline" xml:space="preserve">
-    <value>Drop to add inline</value>
+    <value>Laat vallen om inline toe te voegen</value>
     <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
   </data>
   <data name="Options_AutoTagRecipients" xml:space="preserve">
-    <value>Auto-add recipients when @ tagging</value>
+    <value>Ontvangers automatisch toevoegen bij @ het taggen</value>
     <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
   </data>
   <data name="UpdatePreference_Auto" xml:space="preserve">
@@ -5815,21 +5815,21 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Label for button to restart Mailbird.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyHeader" xml:space="preserve">
-    <value>An update is ready for you</value>
+    <value>Een update staat voor u klaar</value>
     <comment>Header of notification informing the user that an update is ready to be installed.</comment>
   </data>
   <data name="Notification_SilentUpdateReadyMessage" xml:space="preserve">
-    <value>The latest version of Mailbird is ready to be installed.
+    <value>De nieuwste versie van Mailbird is klaar om te worden geïnstalleerd.
 
-Restart now to get the latest improvements and fixes - it'll only take a second.</value>
+Start nu opnieuw om de laatste verbeteringen en oplossingen te krijgen - het kost maar een seconde.</value>
     <comment>Message body of notification informing the user that an update is ready to be installed.</comment>
   </data>
   <data name="Notification_SilentUpdateAppliedHeader" xml:space="preserve">
-    <value>Mailbird has been updated</value>
+    <value>Mailbird is geupdate</value>
     <comment>Header of notification shown when Mailbird has been updated.</comment>
   </data>
   <data name="Notification_SilentUpdateAppliedMessage" xml:space="preserve">
-    <value>A new version of Mailbird has been installed. Release notes are shown below.</value>
+    <value>Er is een nieuwe versie van Mailbird geïnstalleerd. Release opmerkingen worden hieronder getoond.</value>
     <comment>Message of notification shown when Mailbird has been updated.</comment>
   </data>
   <data name="Disabled_MessageHeaderAccount" xml:space="preserve">
@@ -5837,11 +5837,11 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Header when performing action is not allowed due to disabled account </comment>
   </data>
   <data name="Disabled_MessageHeaderIdentity" xml:space="preserve">
-    <value>Identity is disabled</value>
+    <value>Identiteit is uitgeschakeld</value>
     <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
   <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose pricing plan:</value>
+    <value>Kies een tariefplan:</value>
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
   <data name="NewMessage_NewMessageSingular" xml:space="preserve">
@@ -5853,7 +5853,7 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Dialog box title when user is about to empty a folder</comment>
   </data>
   <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard all emails in this folder?</value>
+    <value>Weet je zeker dat je alle e-mails in deze map wilt verwijderen?</value>
     <comment>Dialog box explanation when user is about to empty a folder</comment>
   </data>
   <data name="Account_Exchange_Domain" xml:space="preserve">
@@ -5869,7 +5869,7 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Label of the Exchange server field in the user account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Full dark theme</value>
+    <value>Volledig donker thema</value>
     <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
@@ -5881,37 +5881,37 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
-    <value>Your Exchange account appears to be locked. Please contact your server administrator to continue using this account.</value>
+    <value>Uw Exchange-account lijkt vergrendeld te zijn. Neem contact op met uw serverbeheerder om dit account te blijven gebruiken.</value>
     <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>The Exchange autodiscover service cannot be located. Make sure your email and password is correct and try again, or contact your server administrator to make sure autodiscover is enabled.</value>
+    <value>De Exchange-autodiscover-service kan niet worden gevonden. Controleer of uw e-mailadres en wachtwoord juist zijn en probeer het opnieuw of neem contact op met uw serverbeheerder om ervoor te zorgen dat autodiscover is ingeschakeld.</value>
     <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
-    <value>This is a Microsoft Exchange account</value>
+    <value>Dit is een Microsoft Exchange-account</value>
     <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>An error occured attaching the file.
+    <value>Er is een fout opgetreden bij het koppelen van het bestand.
 
-This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
+Dit wordt meestal veroorzaakt door een antivirusprogramma dat zich met Mailbird bemoeit. Probeer eventuele antivirusprogramma's tijdelijk uit te schakelen en probeer het opnieuw.
 
-If the error persists, please contact support.</value>
+Neem contact op met de ondersteuning als de fout aanhoudt.</value>
     <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
-    <value>Database version mismatch</value>
+    <value>Database versie komt niet overeen</value>
     <comment>Header of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
-    <value>The version of the database does not match this version of Mailbird.
+    <value>De versie van de database komt niet overeen met deze versie van Mailbird.
 
-Please contact support for information on how to resolve this.</value>
+Neem contact op met de ondersteuning voor informatie over hoe u dit kunt oplossen.</value>
     <comment>Body of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
-    <value>Leave blank to have Mailbird autodetect your Microsoft Exchange Server URL</value>
+    <value>Laat dit leeg om Mailbird uw Microsoft Exchange Server-URL automatisch te laten detecteren</value>
     <comment>Tooltip that will display for the Exchange Server URL field to indicate to the user that this field is not mandatory and will be autodetected by Mailbird</comment>
   </data>
   <data name="NewMessage_NewMessagePlural" xml:space="preserve">
@@ -5943,7 +5943,7 @@ Please contact support for information on how to resolve this.</value>
     <comment>Button to expand or collapse Cc and Bcc fields. Please keep the translation very short.</comment>
   </data>
   <data name="MailEditor_CollapseCcBcc" xml:space="preserve">
-    <value>Hide Cc Bcc fields</value>
+    <value>Verberg Cc Bcc velden</value>
     <comment>Tooltip for button to collapse Cc and Bcc fields</comment>
   </data>
   <data name="MailEditor_ExpandCcBcc" xml:space="preserve">
@@ -5959,11 +5959,11 @@ Please contact support for information on how to resolve this.</value>
     <comment>Tooltip for unread tips</comment>
   </data>
   <data name="Conversation_ReceivedIn" xml:space="preserve">
-    <value>Received in {0}</value>
+    <value>Ontvangen in {0}</value>
     <comment>Tooltip text for indicator where a conversation is received: Received in email@provider.com</comment>
   </data>
   <data name="Welcome_ColorIndicator" xml:space="preserve">
-    <value>Color indicator in unified account.</value>
+    <value>Kleurindicator in verenigd account.</value>
     <comment>Label in settings for choosing color indicator for account when unified account is selected</comment>
   </data>
   <data name="Welcome_ColorReset" xml:space="preserve">
@@ -5975,9 +5975,9 @@ Please contact support for information on how to resolve this.</value>
     <comment>Tooltip for button to open the folder list in left menu</comment>
   </data>
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
-    <value>We value your privacy and would like to stay in touch.
+    <value>Wij waarderen uw privacy en willen graag contact houden.
 
-So we'd like to ask your permission to send you the occasional email with purely Mailbird related things like usability tips, special promotions and details on new exciting Mailbird features.</value>
+Daarom vragen we u om toestemming om u af en toe een e-mail te sturen met uitsluitend Mailbird-gerelateerde zaken zoals gebruikerstips, speciale aanbiedingen en details over nieuwe opwindende Mailbird-functies.</value>
     <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
@@ -5993,7 +5993,7 @@ So we'd like to ask your permission to send you the occasional email with purely
     <comment>Section in settings window to adjust scaling of the UI</comment>
   </data>
   <data name="Folder_SearchResult" xml:space="preserve">
-    <value>Search result</value>
+    <value>Zoekresultaat</value>
     <comment>Title text when search result is selected</comment>
   </data>
   <data name="SyncStatus_Error" xml:space="preserve">
@@ -6005,11 +6005,11 @@ So we'd like to ask your permission to send you the occasional email with purely
     <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
-    <value>Synced</value>
+    <value>Synchroniseerd</value>
     <comment>When syncing is completed</comment>
   </data>
   <data name="SyncStatus_Syncing" xml:space="preserve">
-    <value>Syncing...</value>
+    <value>Synchroniseren...</value>
     <comment>When Mailbird is syncing</comment>
   </data>
   <data name="Notification_ShowError" xml:space="preserve">
@@ -6033,15 +6033,15 @@ So we'd like to ask your permission to send you the occasional email with purely
     <comment>Explanation on what DirectWrite is</comment>
   </data>
   <data name="Options_Archiving" xml:space="preserve">
-    <value>Archiving</value>
+    <value>Archiveren</value>
     <comment>Section in options window related to archiving emails</comment>
   </data>
   <data name="Working_Generic" xml:space="preserve">
-    <value>Working. Please wait...</value>
+    <value>Aan het werk. Even geduld aub...</value>
     <comment>Message shown when Mailbird is working on something that will take a while.</comment>
   </data>
   <data name="Working_InitializingAccounts" xml:space="preserve">
-    <value>Initializing accounts...</value>
+    <value>Accounts initialiseren ...</value>
     <comment>Message shown when removing one or more accounts on startup.</comment>
   </data>
   <data name="Shortcut_Snooze" xml:space="preserve">
@@ -6049,7 +6049,7 @@ So we'd like to ask your permission to send you the occasional email with purely
     <comment>Header for snooze shortcut in shortcuts window</comment>
   </data>
   <data name="Shortcut_SnoozeExplanation" xml:space="preserve">
-    <value>Temporarily remove the email from your inbox until a specified time.</value>
+    <value>Verwijder tijdelijk de e-mail uit uw Postvak IN tot een bepaalde tijd.</value>
     <comment>Explanation for snooze feature</comment>
   </data>
   <data name="Dialog_OrPurchase" xml:space="preserve">
@@ -6079,11 +6079,11 @@ Als het issue aanhoudt, neem dan contact op met support via {0}</value>
     <comment>Name of native calendar app</comment>
   </data>
   <data name="App_Calendar_NoName" xml:space="preserve">
-    <value>(No title)</value>
+    <value>(Geen titel)</value>
     <comment>Default text when event doesn't have a name</comment>
   </data>
   <data name="App_Calendar_MenuRefreshSync" xml:space="preserve">
-    <value>Refresh and sync</value>
+    <value>Ververs en synchroniseren</value>
     <comment>Menu to refresh and sync calendar</comment>
   </data>
   <data name="App_Calendar_MenuSettings" xml:space="preserve">
@@ -6107,15 +6107,15 @@ Als het issue aanhoudt, neem dan contact op met support via {0}</value>
     <comment>Button to go to next month, week or day</comment>
   </data>
   <data name="App_Calendar_NoAccounts" xml:space="preserve">
-    <value>No connected accounts</value>
+    <value>Geen verbonden accounts</value>
     <comment>Label when there is no connected account in the list</comment>
   </data>
   <data name="App_Calendar_Prev" xml:space="preserve">
-    <value>Previous</value>
+    <value>Vorige</value>
     <comment>Button to go to previous month, week or day</comment>
   </data>
   <data name="App_Calendar_Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Vandaag</value>
     <comment>Button to go to today's date</comment>
   </data>
   <data name="App_Calendar_ViewDay" xml:space="preserve">
@@ -6123,7 +6123,7 @@ Als het issue aanhoudt, neem dan contact op met support via {0}</value>
     <comment>Menu to change view type to day</comment>
   </data>
   <data name="App_Calendar_ViewMonth" xml:space="preserve">
-    <value>Month</value>
+    <value>Maand</value>
     <comment>Menu to change view type to month</comment>
   </data>
   <data name="App_Calendar_ViewWeek" xml:space="preserve">
@@ -6135,7 +6135,7 @@ Als het issue aanhoudt, neem dan contact op met support via {0}</value>
     <comment>Explanation for the default local account in calendar</comment>
   </data>
   <data name="App_Calendar_ConnectAccount_Unsupported" xml:space="preserve">
-    <value>(Unsupported)</value>
+    <value>(Niet ondersteund)</value>
     <comment>Label for unsupported email account</comment>
   </data>
   <data name="App_Calendar_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
@@ -6197,7 +6197,7 @@ Hiermee wordt de agenda synchronisatie van Mailbird uitgeschakeld.</value>
     <comment>Option to show or hide week numbers</comment>
   </data>
   <data name="App_Calendar_Settings_StartWeekOn" xml:space="preserve">
-    <value>Start week on</value>
+    <value>Start week op</value>
     <comment>Option to set first day of week</comment>
   </data>
   <data name="App_Calendar_Settings_ViewOptions" xml:space="preserve">
@@ -6205,7 +6205,7 @@ Hiermee wordt de agenda synchronisatie van Mailbird uitgeschakeld.</value>
     <comment>Section in calendar settings window for views related settings</comment>
   </data>
   <data name="App_Calendar_EventCreatedBy" xml:space="preserve">
-    <value>Created by: {0}</value>
+    <value>Aangemaakt door: {0}</value>
     <comment>Label to show the creator of an event, {0} will be replaced by the name</comment>
   </data>
   <data name="App_Calendar_GuestPlural" xml:space="preserve">
@@ -6853,7 +6853,7 @@ e.g. "2 occurrences"</comment>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
-    <value>Exportproces is geannuleerd.</value>
+    <value>Exportproces is geannuleerd</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
