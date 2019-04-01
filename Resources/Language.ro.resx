@@ -984,7 +984,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search Attachments</comment>
   </data>
   <data name="App_Calendar_Description" xml:space="preserve">
-    <value>Gestionați mai multe calendare în același timp, creați evenimente și organizați întâlniri online și offline.</value>
+    <value>Administrați mai multe calendare în același timp, creați evenimente și organizați întâlniri online și offline.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
@@ -6066,7 +6066,7 @@ Dacă problema persistă, contactați asistența la {0}</value>
     <comment>Message shown when Mailbird fails to start due to a Mail.dll license issue.</comment>
   </data>
   <data name="App_GoogleCalendar_Description" xml:space="preserve">
-    <value>Aveți o întâlnire? Adăugați-o, urmăriți-o, confirmați-o în Mailbird. Aplicație excelentă pentru utilizatorii Gmail.</value>
+    <value>Aveți o întâlnire? Adăugați-o, urmăriți-o, confirmați-o în Mailbird. O aplicație excelentă pentru utilizatorii Gmail.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="WebBrowser_AddToBookmarks" xml:space="preserve">
@@ -6090,7 +6090,7 @@ Dacă problema persistă, contactați asistența la {0}</value>
     <comment>Menu settings</comment>
   </data>
   <data name="App_Calendar_MenuSidebar" xml:space="preserve">
-    <value>Afișare meniu stânga</value>
+    <value>Arată meniul din stânga</value>
     <comment>Menu to show or hide left menu</comment>
   </data>
   <data name="App_Calendar_More" xml:space="preserve">
@@ -6102,11 +6102,11 @@ Dacă problema persistă, contactați asistența la {0}</value>
     <comment>Button to create new event</comment>
   </data>
   <data name="App_Calendar_Next" xml:space="preserve">
-    <value>Următoare</value>
+    <value>Următoarea</value>
     <comment>Button to go to next month, week or day</comment>
   </data>
   <data name="App_Calendar_NoAccounts" xml:space="preserve">
-    <value>Nu există conturi conectate</value>
+    <value>Niciun cont conectat</value>
     <comment>Label when there is no connected account in the list</comment>
   </data>
   <data name="App_Calendar_Prev" xml:space="preserve">
@@ -6142,7 +6142,7 @@ Dacă problema persistă, contactați asistența la {0}</value>
     <comment>Explanation when account is not supported for calendar sync</comment>
   </data>
   <data name="App_Calendar_Settings_SubHeader" xml:space="preserve">
-    <value>Selectați conturile de mai jos pentru a vă conecta și sincroniza calendarul cu Mailbird sau dați clic pe buton pentru a vă conecta la alt cont.</value>
+    <value>Selectați conturile de mai jos pentru a vă conecta și sincroniza calendarul cu Mailbird sau apăsați butonul pentru a vă conecta la alt cont.</value>
     <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Calendar_Settings_Title" xml:space="preserve">
@@ -6160,11 +6160,11 @@ Dacă problema persistă, contactați asistența la {0}</value>
   <data name="Dialog_DisconnectCalendarAccountExplanation" xml:space="preserve">
     <value>Sigur doriți să deconectați contul?
 
-Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
+Prin deconectare se va dezactiva sincronizarea calendarului prin Mailbird.</value>
     <comment>Explanation for dialog window when user tries to disconnect account from Calendar</comment>
   </data>
   <data name="App_Calendar_Settings_TimeFormat" xml:space="preserve">
-    <value>Format timp</value>
+    <value>Formatul orei</value>
     <comment>Label to edit time format 24h or 12h</comment>
   </data>
   <data name="App_Calendar_Settings_TimeRegion" xml:space="preserve">
@@ -6188,15 +6188,15 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
     <comment>Option to set default event duration</comment>
   </data>
   <data name="App_Calendar_Settings_EventSettings" xml:space="preserve">
-    <value>Setări evenimente</value>
+    <value>Setări pentru evenimente</value>
     <comment>Section in calendar settings window for event related settings</comment>
   </data>
   <data name="App_Calendar_Settings_ShowWeekNumbers" xml:space="preserve">
-    <value>Afișează numerele săptămânii</value>
+    <value>Afișează numărul săptămânii</value>
     <comment>Option to show or hide week numbers</comment>
   </data>
   <data name="App_Calendar_Settings_StartWeekOn" xml:space="preserve">
-    <value>Începe săptămâna</value>
+    <value>Începe săptămâna cu</value>
     <comment>Option to set first day of week</comment>
   </data>
   <data name="App_Calendar_Settings_ViewOptions" xml:space="preserve">
@@ -6216,7 +6216,7 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is only 1</comment>
   </data>
   <data name="App_Calendar_ResponseMaybe" xml:space="preserve">
-    <value>{0} posibili</value>
+    <value>{0} posibil</value>
     <comment>Number of maybe response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseNo" xml:space="preserve">
@@ -6224,7 +6224,7 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
     <comment>Number of no response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseUnknown" xml:space="preserve">
-    <value>{0} nehotărâți</value>
+    <value>{0} necunoscut</value>
     <comment>Number of unknown response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseWaiting" xml:space="preserve">
@@ -6304,7 +6304,7 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
     <comment>Delete menu</comment>
   </data>
   <data name="App_Calendar_Details_Edit" xml:space="preserve">
-    <value>Editează</value>
+    <value>Editare</value>
     <comment>Edit menu</comment>
   </data>
   <data name="App_Calendar_Details_Email" xml:space="preserve">
@@ -6324,7 +6324,7 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
     <comment>Option to edit/delete all events</comment>
   </data>
   <data name="App_Calendar_Recurring_EditHeader" xml:space="preserve">
-    <value>Editați evenimentul recurent?</value>
+    <value>Editați evenimentul repetabil?</value>
     <comment>Header when editing a recurring event</comment>
   </data>
   <data name="App_Calendar_Recurring_ThisAndFollowing" xml:space="preserve">
@@ -6336,11 +6336,11 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
     <comment>Option to edit/delete only one event</comment>
   </data>
   <data name="App_Calendar_EditEvent_MarkOptional" xml:space="preserve">
-    <value>Marchează opțional</value>
+    <value>Marchează ca opțional</value>
     <comment>Tooltip for button to make guest an optional attendant</comment>
   </data>
   <data name="App_Calendar_EditEvent_MarkRequired" xml:space="preserve">
-    <value>Marcare necesară</value>
+    <value>Marchează ca necesar</value>
     <comment>Tooltip for button to make guest an optional attendant</comment>
   </data>
   <data name="Dialog_DiscardChanges" xml:space="preserve">
@@ -6388,7 +6388,7 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
     <comment>Guests section in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_Hour" xml:space="preserve">
-    <value>Ora</value>
+    <value>Oră</value>
     <comment>Time unit: hour</comment>
   </data>
   <data name="App_Calendar_EditEvent_Invite" xml:space="preserve">
@@ -6424,7 +6424,7 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
     <comment>Event visibility: public</comment>
   </data>
   <data name="App_Calendar_EditEvent_SeeGuestList" xml:space="preserve">
-    <value>Vede lista de invitați</value>
+    <value>Poate vizualiza lista de invitați</value>
     <comment>Guest right to see guest list</comment>
   </data>
   <data name="App_Calendar_EditEvent_TimeZone" xml:space="preserve">
@@ -6440,7 +6440,7 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
     <comment>Label text between start and end time</comment>
   </data>
   <data name="App_Calendar_TimeZone_DifferentStartEnd" xml:space="preserve">
-    <value>Utilizați zone separate de început și de sfârșit</value>
+    <value>Utilizați fusuri orare diferite pentru începutul și sfârșitul unui evenimet</value>
     <comment>Label for checkbox to use different time zone for start and end time of an event</comment>
   </data>
   <data name="App_Calendar_TimeZone_End" xml:space="preserve">
@@ -6477,7 +6477,7 @@ Aceasta va dezactiva sincronizarea calendarului de la Mailbird.</value>
 E.g. "Repeat every 2 days"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Title" xml:space="preserve">
-    <value>Recurență particularizată</value>
+    <value>Repetare particularizată</value>
     <comment>Title window for creating custom recurrence event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Week" xml:space="preserve">
@@ -6497,7 +6497,7 @@ E.g. "Repeat every 2 days"</comment>
     <comment>Time unit: years</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_After" xml:space="preserve">
-    <value>Peste</value>
+    <value>După</value>
     <comment>Content for radio button, the full sentence is e.g. "ends after 1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Ends" xml:space="preserve">
@@ -6523,7 +6523,7 @@ e.g. "2 occurrences"</comment>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
-    <value>Repetă pe</value>
+    <value>Repetă în ziua de</value>
     <comment>Label to edit on what days event will repeat</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidNumber" xml:space="preserve">
