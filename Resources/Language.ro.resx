@@ -6559,18 +6559,18 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats every "period". Example: Every 2 years, Every 5 months</comment>
   </data>
   <data name="App_Calendar_Recurrence_First" xml:space="preserve">
-    <value>first</value>
+    <value>prima</value>
     <comment>An event repeats on the first weekday of the month. Example: First Monday, First Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Fourth" xml:space="preserve">
-    <value>fourth</value>
+    <value>a patra</value>
     <comment>An event repeats on the fourth weekday of the month. Example: Fourth Tuesday, Fourth Thursday</comment>
   </data>
   <data name="App_Calendar_Recurrence_In" xml:space="preserve">
     <value>in {0}</value>
   </data>
   <data name="App_Calendar_Recurrence_Last" xml:space="preserve">
-    <value>last</value>
+    <value>ultima</value>
     <comment>An event repeats on the last weekday of the month. Example: Last Monday, Last Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_On" xml:space="preserve">
@@ -6582,7 +6582,7 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on a month day. Example: on day 1, on day 2, on day 31</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnlyOnce" xml:space="preserve">
-    <value>Once</value>
+    <value>O dată</value>
     <comment>Calendar event repeats only 1 time.</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnThe" xml:space="preserve">
@@ -6590,33 +6590,33 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on n day of the week. Example: on the first Monday, on the third Thursday, on the last Friday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Second" xml:space="preserve">
-    <value>second</value>
+    <value>a doua</value>
     <comment>An event repeats on the second weekday of the month. Example: Second Monday, Second Tuesday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Third" xml:space="preserve">
-    <value>third</value>
+    <value>a treia</value>
     <comment>An event repeats on the third weekday of the month. Example: Third Friday, Third Sunday</comment>
   </data>
   <data name="App_Calendar_Recurrence_UntilDate" xml:space="preserve">
-    <value>until {0}</value>
+    <value>până {0}</value>
     <comment>An event repeats until a date. Example: until 31 august 2009</comment>
   </data>
   <data name="App_Calendar_Recurrence_Custom" xml:space="preserve">
-    <value>Custom...</value>
+    <value>Personalizat...</value>
     <comment>Custom recurrence</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryWeekday" xml:space="preserve">
-    <value>Every weekday (Monday to Friday)</value>
+    <value>În fiecare zi de lucru (de Luni până Vineri)</value>
   </data>
   <data name="App_Calendar_Recurrence_OnWeekdays" xml:space="preserve">
-    <value>on weekdays</value>
+    <value>în zilele lucrătoare</value>
   </data>
   <data name="App_Calendar_EditEvent_Organizer" xml:space="preserve">
-    <value>Organizer</value>
+    <value>Organizator</value>
     <comment>Label when attendee is the organizer</comment>
   </data>
   <data name="App_Calendar_Details_Maybe" xml:space="preserve">
-    <value>Maybe</value>
+    <value>Posibil</value>
     <comment>Button to confirm that user maybe can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_No" xml:space="preserve">
@@ -6624,23 +6624,23 @@ e.g. "2 occurrences"</comment>
     <comment>Button to confirm that user can't attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Da</value>
     <comment>Button to confirm that user can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Going" xml:space="preserve">
-    <value>Going?</value>
+    <value>Participați?</value>
     <comment>Label to ask user about his response to an event</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddNotification" xml:space="preserve">
-    <value>Add notification</value>
+    <value>Adaugă notificare</value>
     <comment>Button to add notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_BeforeAt" xml:space="preserve">
-    <value>before at</value>
+    <value>înainte de</value>
     <comment>Label for notification, will be used like: 10 days before, at 9:00 AM</comment>
   </data>
   <data name="App_Calendar_EditEvent_HourPlural" xml:space="preserve">
-    <value>Hours</value>
+    <value>Ore</value>
     <comment>Time unit: hours</comment>
   </data>
   <data name="App_Calendar_EditEvent_MinutePlural" xml:space="preserve">
@@ -6648,7 +6648,7 @@ e.g. "2 occurrences"</comment>
     <comment>Time unit: minutes</comment>
   </data>
   <data name="App_Calendar_EditEvent_Before" xml:space="preserve">
-    <value>before</value>
+    <value>înainte</value>
     <comment>Label for reminder, ej: 30 hours before</comment>
   </data>
   <data name="App_Calendar_Reminder_AsEmail" xml:space="preserve">
@@ -6656,27 +6656,27 @@ e.g. "2 occurrences"</comment>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
-    <value>Value can't be greater than {0} {1}</value>
+    <value>Valoarea nu poate fi mai mare decât {0} {1}</value>
     <comment>Value can't be greater than 2 weeks</comment>
   </data>
   <data name="App_Calendar_ShowWeekends" xml:space="preserve">
-    <value>Show weekends</value>
+    <value>Afișează weekend-urile</value>
     <comment>Menu to show or hide weekends from calendar</comment>
   </data>
   <data name="App_Calendar_ShowDeclinedEvents" xml:space="preserve">
-    <value>Show declined events</value>
+    <value>Afișează evenimente refuzate</value>
     <comment>Menu to show or hide declined events</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidEndTime" xml:space="preserve">
-    <value>End time must be greater than the start time</value>
+    <value>Timpul de sfârșit trebuie să fie mai mare decât timpul de începere</value>
     <comment>Error message when end time is less than start time</comment>
   </data>
   <data name="App_Calendar_Settings_FadeOutEvents" xml:space="preserve">
-    <value>Fade out past events</value>
+    <value>Separă evenimentele trecute</value>
     <comment>Option to reduce brightness of past events</comment>
   </data>
   <data name="App_Calendar_Notification_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Anulare</value>
     <comment>Cancel button </comment>
   </data>
   <data name="App_Calendar_Notification_DontSend" xml:space="preserve">
@@ -6688,27 +6688,27 @@ e.g. "2 occurrences"</comment>
     <comment>Send button</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellation" xml:space="preserve">
-    <value>Send cancellations?</value>
+    <value>Trimiteți anulările?</value>
     <comment>Header for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellationExplanation" xml:space="preserve">
-    <value>Would you like to send cancellations to guests?</value>
+    <value>Doriți să trimiteți anulările invitaților?</value>
     <comment>Explanation for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitation" xml:space="preserve">
-    <value>Send invitations?</value>
+    <value>Trimiteți invitațiile?</value>
     <comment>Header for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitationExplanation" xml:space="preserve">
-    <value>Would you like to send invitations to guests?</value>
+    <value>Doriți să trimiteți invitațiile către invitați?</value>
     <comment>Explanation for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdate" xml:space="preserve">
-    <value>Send updates?</value>
+    <value>Trimiteți actualizările?</value>
     <comment>Header for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdateExplanation" xml:space="preserve">
-    <value>Would you like to send updates to existing guests?</value>
+    <value>Doriți să trimiteți actualizări invitaților existenți?</value>
     <comment>Explanation for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Reminder_At" xml:space="preserve">
@@ -6716,27 +6716,27 @@ e.g. "2 occurrences"</comment>
     <comment>E.g. Event is starting at 1:00 PM</comment>
   </data>
   <data name="App_Calendar_Reminder_WhenEventStarts" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Când începe evenimentul</value>
     <comment>Indicates that a reminder for a calendar event will be triggered right when the event starts.</comment>
   </data>
   <data name="App_Calendar_Reminder_Starting" xml:space="preserve">
-    <value>{0} is starting {1}</value>
+    <value>{0} începe {1}</value>
     <comment>E.g. Event name is starting at 1:00PM</comment>
   </data>
   <data name="App_Calendar_Reminder_AlreadyStarted" xml:space="preserve">
-    <value>Already started</value>
+    <value>A început deja</value>
     <comment>Display that an event has already started at the moment the user got the notification</comment>
   </data>
   <data name="App_Calendar_Reminder_DueIn" xml:space="preserve">
-    <value>Due in {0}</value>
+    <value>Începe în {0}</value>
     <comment>An event is due in X time. Eg: Due in 5 minutes, Due in 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminder_Overdue" xml:space="preserve">
-    <value>Overdue {0}</value>
+    <value>Întârziat {0}</value>
     <comment>An event is overdue X time. Eg:Overdue 5 minutes, Overdue 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminders_And" xml:space="preserve">
-    <value>and</value>
+    <value>și</value>
     <comment>Use to concatenate hour and time. Eg: 5hours and 15 minutes</comment>
   </data>
   <data name="App_Calendar_Notification_Title" xml:space="preserve">
@@ -6752,35 +6752,35 @@ e.g. "2 occurrences"</comment>
     <comment>Label when there are no notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to dismiss all notifications?</value>
+    <value>Sigur doriți să eliminați toate notificările?</value>
     <comment>Explanation for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllHeader" xml:space="preserve">
-    <value>Dismiss all notifications?</value>
+    <value>Eliminați toate notificările?</value>
     <comment>Header for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to snooze all notifications?</value>
+    <value>Sigur doriți să amânați toate notificările?</value>
     <comment>Explanation for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllHeader" xml:space="preserve">
-    <value>Snooze all notifications?</value>
+    <value>Amânați toate notificările?</value>
     <comment>Header for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Anulează</value>
     <comment>Button dismiss notification</comment>
   </data>
   <data name="App_Calendar_Notification_DismissAll" xml:space="preserve">
-    <value>Dismiss all</value>
+    <value>Anulează tot</value>
     <comment>Button to dimiss all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze" xml:space="preserve">
-    <value>Snooze</value>
+    <value>Amână</value>
     <comment>Button to snooze notification</comment>
   </data>
   <data name="App_Calendar_Notification_SnoozeAll" xml:space="preserve">
-    <value>Snooze all</value>
+    <value>Amână tot</value>
     <comment>Button to snooze all notifications</comment>
   </data>
   <data name="App_Calendar_Notifications" xml:space="preserve">
@@ -6788,11 +6788,11 @@ e.g. "2 occurrences"</comment>
     <comment>Button to open notifications window</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddAllDayNotification" xml:space="preserve">
-    <value>Add all day notification</value>
+    <value>Adaugă notificare pentru întreaga zi</value>
     <comment>Button to add all day notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_AllDayEventNotifications" xml:space="preserve">
-    <value>All day event notifications</value>
+    <value>Notificările evenimentului pentru întreaga zi</value>
     <comment>Section for event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_EventNotifications" xml:space="preserve">
@@ -6800,7 +6800,7 @@ e.g. "2 occurrences"</comment>
     <comment>Section for all day event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_CantModifyMessage" xml:space="preserve">
-    <value>Changes will only be reflected in this calendar</value>
+    <value>Modificările se vor reflecta doar în acest calendar</value>
     <comment>Message where users editing event but they are not the organizer</comment>
   </data>
   <data name="App_Calendar_Settings_Export" xml:space="preserve">
@@ -6812,51 +6812,51 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>The export process have finished. There has been errors exporting some events. Please contact Customer Support.</value>
+    <value>Procesul de export a fost terminat. Au apărut erori la exportul unor evenimente. Vă rugăm să contactați serviciul de asistență pentru clienți.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
-    <value>The export process have finished. All events have been exported in the selected file.</value>
+    <value>Procesul de export a fost terminat. Toate evenimentele au fost exportate în fișierul selectat.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be open. Please make sure it's not open in other application and your user have access right to it and try again.</value>
+    <value>Fișierul selectat nu poate fi deschis. Asigurați-vă că nu este deschis în altă aplicație și că utilizatorul dvs. are drept de acces la acesta și încercați din nou.</value>
     <comment>Error message displayed when the selected file where to export events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Export_NoEventsExplanation" xml:space="preserve">
-    <value>The selected calendar does not contains any event to export. Please select another calendar and try again.</value>
+    <value>Calendarul selectat nu conține niciun eveniment de exportat. Vă rugăm să selectați un alt calendar și să încercați din nou.</value>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>The import process has finished. There has been errors importing some events. Please contact Customer Support.</value>
+    <value>Procesul de import a fost terminat. Au apărut erori la importul unor evenimente. Vă rugăm să contactați serviciul de asistență pentru clienți.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
-    <value>The import process has finished. All events have been imported in the selected calendar.</value>
+    <value>Procesul de import a fost terminat. Toate evenimentele au fost importate în calendarul selectat.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Import_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be open. Please make sure it's not open in other application and your user have access right to it and try again.</value>
+    <value>Fișierul selectat nu poate fi deschis. Asigurați-vă că nu este deschis în altă aplicație și că utilizatorul dvs. are drept de acces la acesta și încercați din nou.</value>
     <comment>Error message displayed when the selected file to import events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Import_NoEventsExplanation" xml:space="preserve">
-    <value>The selected file does not contains any event information. Please select another file and try again.</value>
+    <value>Fișierul selectat nu conține informații despre eveniment. Vă rugăm să selectați un alt fișier și să încercați din nou.</value>
     <comment>Error message when there's no events to import in the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_GlobalError" xml:space="preserve">
-    <value>The export process cannot be completed. Please contact support.</value>
+    <value>Procesul de export nu poate fi finalizat. Vă rugăm să contactați serviciul de asistență pentru clienți.</value>
     <comment>Error displayed when there was a global error in the export process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Import_GlobalError" xml:space="preserve">
-    <value>The import process cannot be completed. Please contact support.</value>
+    <value>Procesul de import nu poate fi finalizat. Vă rugăm să contactați serviciul de asistență pentru clienți.</value>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
-    <value>Export was canceled</value>
+    <value>Exportarea a fost anulată</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
-    <value>Export process was canceled. A file might have been created.</value>
+    <value>Procesul de exportare a fost anulat. Este posibil ca un fișier să fie creat.</value>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
@@ -6864,15 +6864,15 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
-    <value>Export finished</value>
+    <value>Exportarea a fost terminată</value>
     <comment>Header when export has finished</comment>
   </data>
   <data name="App_Calendar_Export_Loading" xml:space="preserve">
-    <value>Exporting calendar...</value>
+    <value>Se exportă calendarul...</value>
     <comment>Header when exporting calendar</comment>
   </data>
   <data name="App_Calendar_ImportExport_FileError" xml:space="preserve">
-    <value>Error accessing file</value>
+    <value>Eroare la accesarea fișierului</value>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
@@ -6880,11 +6880,11 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Import was canceled</value>
+    <value>Importarea a fost anulată</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
-    <value>Import process was canceled. Some events might have been added to the target calendar.</value>
+    <value>Procesul de importare a fost anulat. Unele evenimente ar putea fi adăugate în calendarul indicat.</value>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
@@ -6892,19 +6892,19 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error in import process</comment>
   </data>
   <data name="App_Calendar_Import_Finished" xml:space="preserve">
-    <value>Import finished</value>
+    <value>Importare terminată</value>
     <comment>Header when import has finished</comment>
   </data>
   <data name="App_Calendar_Import_Loading" xml:space="preserve">
-    <value>Importing calendar...</value>
+    <value>Se importă calendarul...</value>
     <comment>Header when importing calendar</comment>
   </data>
   <data name="App_Calendar_Settings_ExportExplanation" xml:space="preserve">
-    <value>Please select one or more calendars to export.</value>
+    <value>Selectați unul sau mai multe calendare pentru exportare.</value>
     <comment>Instruction for export feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExplanation" xml:space="preserve">
-    <value>Add imported calendar to</value>
+    <value>Adăugă calendarul importat</value>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
@@ -6912,7 +6912,7 @@ e.g. "2 occurrences"</comment>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
-    <value>Calendar is syncing. Please wait for the sync to complete before importing or exporting to avoid any errors or inaccurate results.</value>
+    <value>Calendarul se sincronizează. Așteptați să se finalizeze sincronizarea înainte de a importa sau de a exporta, pentru a evita orice eroare sau rezultate inexacte.</value>
     <comment>Warning text when importing or exporting when calendar is syncing</comment>
   </data>
   <data name="App_Calendar_Invitation_Accepted" xml:space="preserve">
