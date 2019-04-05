@@ -7090,4 +7090,12 @@ sua caixa de entrada.</value>
     <value>Ligue as suas contas de e-mail e sincronize calendários.</value>
     <comment>Tutorial text to guide user to connect account in calendar apps</comment>
   </data>
+  <data name="App_Calendar_Dialog_CantAddEvent" xml:space="preserve">
+    <value>Can't add event</value>
+    <comment>Header when user tries to add event but there is no connected account</comment>
+  </data>
+  <data name="App_Calendar_Dialog_CantAddEventExplanation" xml:space="preserve">
+    <value>You haven't connected any account to calendar. Please connect account to start using calendar.</value>
+    <comment>Explanation when user tries to add event but there is no connected account</comment>
+  </data>
 </root>
