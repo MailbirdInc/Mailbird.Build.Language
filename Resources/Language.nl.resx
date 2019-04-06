@@ -3671,7 +3671,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Configureer uw account om gebruik te maken van OAuth 2.0 authenticatie in plaats van het gebruik van de gebruikersnaam en wachtwoord, of zorg er voor dat 'laat minder veilige apps toe' is ingeschakeld in Gmail.
+    <value>Configureer a.u.b. uw account om gebruik te maken van OAuth 2.0 authenticatie i.p.v. het gebruik van de gebruikersnaam en wachtwoord, of zorg er voor dat 'laat minder veilige apps toe' is ingeschakeld in Gmail.
 {0}
 
 Als dit probleem zich voor blijft doen, ga dan naar onderstaande link voor verdere hulp.
@@ -6837,7 +6837,7 @@ e.g. "2 occurrences"</comment>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Import_ErrorFile" xml:space="preserve">
-    <value>Het geselecteerde bestand kan niet geopend zijn. Zorg ervoor dat het niet open is in een andere applicatie en uw gebruiker toegangrecht heeft er op. Probeer het opnieuw.</value>
+    <value>Het geselecteerde bestand kan niet geopend worden. Zorg ervoor dat het niet open is in een andere applicatie en uw gebruiker toegangrecht heeft er op. Probeer het opnieuw.</value>
     <comment>Error message displayed when the selected file to import events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Import_NoEventsExplanation" xml:space="preserve">
@@ -6849,7 +6849,7 @@ e.g. "2 occurrences"</comment>
     <comment>Error displayed when there was a global error in the export process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Import_GlobalError" xml:space="preserve">
-    <value>Het importproces kan niet worden voltooid. Neem contact op met de ondersteuning.</value>
+    <value>Het importeerproces kan niet worden voltooid. Neem contact op met de ondersteuning.</value>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
@@ -6885,7 +6885,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
-    <value>Importproces is geannuleerd. Sommige punten zijn mogelijk toegevoegd aan de doelagenda.</value>
+    <value>Importeerproces is geannuleerd. Sommige punten zijn mogelijk toegevoegd aan de doelagenda.</value>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
@@ -6948,7 +6948,7 @@ e.g. "2 occurrences"</comment>
     <comment>Calendar field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Cancelled" xml:space="preserve">
-    <value>Dit evenement is geannuleerd.</value>
+    <value>Deze gebeurtenis is geannuleerd.</value>
     <comment>Message when event was cancelled</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Description" xml:space="preserve">
@@ -7000,7 +7000,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when action is success</comment>
   </data>
   <data name="App_Calendar_ExpandCollapseAllDay" xml:space="preserve">
-    <value>Uitklappen / inklappen sectie dag evenement</value>
+    <value>Uitklappen / inklappen sectie alle dagen gebeurtenis</value>
     <comment>Tooltip for button to expand or collapse all day event section</comment>
   </data>
   <data name="App_Calendar_ViewDayView" xml:space="preserve">
@@ -7061,7 +7061,7 @@ uw inbox.</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_Start" xml:space="preserve">
-    <value>Wanneer het evenement begint</value>
+    <value>Wanneer de gebeurtenis begint</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Settings_DefaultCalendar" xml:space="preserve">
@@ -7097,11 +7097,11 @@ uw inbox.</value>
     <comment>Tutorial text to guide user to connect account in calendar apps</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEvent" xml:space="preserve">
-    <value>Can't add event</value>
+    <value>Kan geen gebeurtenis toevoegen</value>
     <comment>Header when user tries to add event but there is no connected account</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEventExplanation" xml:space="preserve">
-    <value>You haven't connected any account to calendar. Please connect account to start using calendar.</value>
+    <value>U heeft nog geen account verbonden met de kalender. Maak een account aan om de kalender te gebruiken.</value>
     <comment>Explanation when user tries to add event but there is no connected account</comment>
   </data>
 </root>
