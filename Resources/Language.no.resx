@@ -510,7 +510,10 @@ Message:</comment>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>En feil oppsto ved verifisering av tilkoblingsinnstillingene. Vennligst sjekk at alt har blitt skrevet inn riktig.</value>
+    <value>An error occured trying to verify the connection settings. Please check that everything has been input correctly.
+
+Read more:
+https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
   <data name="Dialog_SmtpSuccess" xml:space="preserve">
@@ -3278,7 +3281,10 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird var ikke i stand til å sende meldingen. Vennligst sjekk din 'Fra'-identitets utgående serverinnstillinger.</value>
+    <value>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.
+
+Read more:
+https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
   <data name="MailEditor_Recipients" xml:space="preserve">
@@ -6603,7 +6609,7 @@ e.g. "2 occurrences"</comment>
     <comment>Custom recurrence</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryWeekday" xml:space="preserve">
-    <value>Every weekday (Monday to Friday)</value>
+    <value>Every weekday ({0} to {1})</value>
   </data>
   <data name="App_Calendar_Recurrence_OnWeekdays" xml:space="preserve">
     <value>on weekdays</value>
@@ -6653,7 +6659,7 @@ e.g. "2 occurrences"</comment>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
-    <value>Value can't be greater than {0} {1}</value>
+    <value>Value cannot be greater than {0} {1}</value>
     <comment>Value can't be greater than 2 weeks</comment>
   </data>
   <data name="App_Calendar_ShowWeekends" xml:space="preserve">
@@ -6697,7 +6703,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitationExplanation" xml:space="preserve">
-    <value>Would you like to send invitations to guests?</value>
+    <value>Would you like to send invitations to the guests?</value>
     <comment>Explanation for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdate" xml:space="preserve">
@@ -6809,35 +6815,35 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>The export process have finished. There has been errors exporting some events. Please contact Customer Support.</value>
+    <value>The export process has finished. Some errors occured while exporting some events. Please contact support.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
-    <value>The export process have finished. All events have been exported in the selected file.</value>
+    <value>The export process has finished. All events have been exported to the selected file.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be open. Please make sure it's not open in other application and your user have access right to it and try again.</value>
+    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
     <comment>Error message displayed when the selected file where to export events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Export_NoEventsExplanation" xml:space="preserve">
-    <value>The selected calendar does not contains any event to export. Please select another calendar and try again.</value>
+    <value>The selected calendar does not contain any events to export. Please select another calendar and try again.</value>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>The import process has finished. There has been errors importing some events. Please contact Customer Support.</value>
+    <value>The import process has finished. Some errors occured while importing some events. Please contact support.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
-    <value>The import process has finished. All events have been imported in the selected calendar.</value>
+    <value>The import process has finished. All events have been imported to the selected calendar.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Import_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be open. Please make sure it's not open in other application and your user have access right to it and try again.</value>
+    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
     <comment>Error message displayed when the selected file to import events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Import_NoEventsExplanation" xml:space="preserve">
-    <value>The selected file does not contains any event information. Please select another file and try again.</value>
+    <value>The selected file does not contain any event information. Please select another file and try again.</value>
     <comment>Error message when there's no events to import in the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_GlobalError" xml:space="preserve">
@@ -6849,11 +6855,11 @@ e.g. "2 occurrences"</comment>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
-    <value>Export was canceled</value>
+    <value>Export was cancelled</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
-    <value>Export process was canceled. A file might have been created.</value>
+    <value>Export process was cancelled. A file might have been created.</value>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
@@ -6877,11 +6883,11 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Import was canceled</value>
+    <value>Import was cancelled</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
-    <value>Import process was canceled. Some events might have been added to the target calendar.</value>
+    <value>The import process was cancelled. Some events might have been added to the target calendar.</value>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
@@ -6909,7 +6915,7 @@ e.g. "2 occurrences"</comment>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
-    <value>Calendar is syncing. Please wait for the sync to complete before importing or exporting to avoid any errors or inaccurate results.</value>
+    <value>Calendar is syncing. Please wait for the sync to complete before importing or exporting, to avoid any errors or inaccurate results.</value>
     <comment>Warning text when importing or exporting when calendar is syncing</comment>
   </data>
   <data name="App_Calendar_Invitation_Accepted" xml:space="preserve">
@@ -7013,11 +7019,11 @@ e.g. "2 occurrences"</comment>
   </data>
   <data name="App_Calendar_Intro_2" xml:space="preserve">
     <value>Sync calendars from Google, Exchange, and 
-Outlook (coming soon).</value>
+Outlook.</value>
     <comment>Caption for tutorial 2</comment>
   </data>
   <data name="App_Calendar_Intro_3" xml:space="preserve">
-    <value>Enable sidebar and view your calendar next to
+    <value>Enable the sidebar and view your calendar next to
 your Inbox.</value>
     <comment>Caption for tutorial 3</comment>
   </data>
@@ -7029,12 +7035,8 @@ your Inbox.</value>
     <value>Meet the Calendar</value>
     <comment>Tutorial title</comment>
   </data>
-  <data name="App_Calendar_Intro_ComingSoon" xml:space="preserve">
-    <value>*) Coming soon</value>
-    <comment>Foot note for upcoming feature</comment>
-  </data>
   <data name="App_Calendar_Settings_MatchWindowsTimezone" xml:space="preserve">
-    <value>Match Windows Timezone</value>
+    <value>Match Windows timezone</value>
     <comment>Label of checkbox that indicates that the Calendar App will use the same timezone as the one set in Windows</comment>
   </data>
   <data name="App_Calendar_AllDay" xml:space="preserve">
@@ -7065,11 +7067,11 @@ your Inbox.</value>
     <comment>Field to set default calendar</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDelete" xml:space="preserve">
-    <value>Can't delete event</value>
+    <value>Cannot delete event</value>
     <comment>Messagebox title when can't delete event</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDeleteExplanation" xml:space="preserve">
-    <value>You can't delete event which is currently being edited.</value>
+    <value>You cannot delete an event that's currently being edited.</value>
     <comment>Messagebox explanationwhen can't delete event</comment>
   </data>
   <data name="App_Calendar_Menu_NewEvent" xml:space="preserve">
@@ -7093,11 +7095,15 @@ your Inbox.</value>
     <comment>Tutorial text to guide user to connect account in calendar apps</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEvent" xml:space="preserve">
-    <value>Can't add event</value>
+    <value>Cannot add event</value>
     <comment>Header when user tries to add event but there is no connected account</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEventExplanation" xml:space="preserve">
-    <value>You haven't connected any account to calendar. Please connect account to start using calendar.</value>
+    <value>You haven't connected any accounts with the calendar. Please connect an account from the calendar settings and try again.</value>
     <comment>Explanation when user tries to add event but there is no connected account</comment>
+  </data>
+  <data name="RateRecommend_LinkedIn" xml:space="preserve">
+    <value>Share via LinkedIn</value>
+    <comment>Tooltip to share via LinkedIn</comment>
   </data>
 </root>
