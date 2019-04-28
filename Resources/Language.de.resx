@@ -510,9 +510,9 @@ Message:</comment>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>An error occured trying to verify the connection settings. Please check that everything has been input correctly.
+    <value>Beim Versuch, die Verbindungseinstellungen zu überprüfen, ist ein Fehler aufgetreten. Bitte überprüfen Sie, ob alles korrekt eingegeben wurde.
 
-Read more:
+Weitere Informationen:
 https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
@@ -3237,7 +3237,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Attachment Quick Preview</comment>
   </data>
   <data name="Trial_Feature4" xml:space="preserve">
-    <value>Nachrichten später lesen</value>
+    <value>Nachrichten zurückstellen</value>
     <comment>Snooze Emails</comment>
   </data>
   <data name="Trial_Feature5" xml:space="preserve">
@@ -3281,9 +3281,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.
+    <value>Mailbird konnte die Nachricht nicht senden. Überprüfen Sie die Einstellungen für ausgehende Server Ihrer „Von”-Identität.
 
-Read more:
+Weitere Informationen:
 https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
@@ -3326,15 +3326,15 @@ Sind Sie sicher, dass Sie abbrechen möchten?</value>
     <comment>Add more accounts</comment>
   </data>
   <data name="FolderIdentity_Snoozed" xml:space="preserve">
-    <value>Für „Später lesen” ausgewählt</value>
+    <value>Zurückgestellt</value>
     <comment>Snoozed</comment>
   </data>
   <data name="Notification_FirstSnoozeHeader" xml:space="preserve">
-    <value>Sie haben gerade eine Nachricht zum „Später lesen” ausgewählt!</value>
+    <value>Sie haben gerade eine Nachricht zurückgestellt!</value>
     <comment>You just snoozed a message!</comment>
   </data>
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
-    <value>Mailbird hat die Nachricht in den Ordner „Später lesen” verschoben, damit Sie sich später darum kümmern können. Sie wird wieder im Posteingang ganz oben aufgeführt, so dass Sie sie einfach finden können. Sie verbleibt dort, bis sie gelesen wurde.
+    <value>Mailbird hat die Nachricht in den Ordner „Zurückgestellt” verschoben, damit Sie sich später darum kümmern können. Sie wird wieder im Posteingang ganz oben aufgeführt, so dass Sie sie einfach finden können. Sie verbleibt dort, bis sie gelesen wurde.
 
 Beachten Sie, dass Mailbird ausgeführt werden muss, damit die Nachricht zurück verschoben werden kann. Wenn dies nicht der Fall ist, wird die Nachricht beim nächsten Start von Mailbird zurückgesetzt.</value>
     <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
@@ -3342,7 +3342,7 @@ Beachten Sie, dass Mailbird ausgeführt werden muss, damit die Nachricht zurück
 Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</comment>
   </data>
   <data name="Options_Snoozes" xml:space="preserve">
-    <value>Einstellungen: Später lesen</value>
+    <value>Zurückgestellt</value>
     <comment>Snoozes</comment>
   </data>
   <data name="Options_Snooze_EndWorkdayAt" xml:space="preserve">
@@ -3426,11 +3426,11 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>In 1 month</comment>
   </data>
   <data name="Conversation_Snooze" xml:space="preserve">
-    <value>Später lesen</value>
+    <value>Zurückgestellt</value>
     <comment>Snooze</comment>
   </data>
   <data name="Upgrade_Snooze" xml:space="preserve">
-    <value>Sie erhalten die Funktion „Später lesen” und viele weitere, um Ihre Produktivität zu steigern.</value>
+    <value>Sie erhalten die Funktion „Zurückstellen (Später lesen)” und viele weitere, um Ihre Produktivität zu steigern.</value>
     <comment>Get Snooze and many other features to boost your productivity.</comment>
   </data>
   <data name="Welcome_MoreAccounts_Header" xml:space="preserve">
@@ -3450,7 +3450,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Activate Licence</comment>
   </data>
   <data name="Snooze_SnoozedUntil" xml:space="preserve">
-    <value>Zum „Später lesen” ausgewählt bis {0}</value>
+    <value>Zurückstellen bis {0}</value>
     <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
@@ -3508,7 +3508,7 @@ Note that enabling this will in most cases result in worse interface performance
     <comment>Composing</comment>
   </data>
   <data name="Options_Snooze_Preferences" xml:space="preserve">
-    <value>Einstellungen zu „Später lesen”</value>
+    <value>Zurückstellen-Einstellungen</value>
     <comment>Snooze preferences</comment>
   </data>
   <data name="Options_Snooze_Weekly_Schedule" xml:space="preserve">
@@ -4284,7 +4284,7 @@ Please remove some and try again.</comment>
     <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
-    <value>Holen Sie sich Mailbird Pro mit mehr großartigen Funktionen, um Ihre Produktivität zu steigern, einschließlich „Später lesen”-Erinnerungen, Schnellvorschau, unbegrenzte Anzahl von Konten und vieles mehr.</value>
+    <value>Holen Sie sich Mailbird Pro mit mehr großartigen Funktionen, um Ihre Produktivität zu steigern, einschließlich Zurückstellen, Schnellvorschau, unbegrenzte Anzahl von Konten und vieles mehr.</value>
     <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
   </data>
   <data name="Ads_Invite" xml:space="preserve">
@@ -5264,7 +5264,7 @@ Dadurch wird die Kontaktsynchronisierung deaktiviert und die Gruppen und Kontakt
     <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>Um weiterhin Mailbird mit allen Funktionen wie „Später lesen”, unbegrenzte Anzahl von Konten und weiteres mehr uneingeschränkt nutzen zu können, müssen die Mailbird Pro erwerben.</value>
+    <value>Um weiterhin Mailbird mit allen Funktionen wie Zurückstellen, unbegrenzte Anzahl von Konten und weiteres mehr uneingeschränkt nutzen zu können, müssen die Mailbird Pro erwerben.</value>
     <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
@@ -6056,7 +6056,7 @@ Daher möchten wir Sie um die Erlaubnis bitten, Ihnen gelegentlich E-Mails mit a
     <comment>Message shown when removing one or more accounts on startup.</comment>
   </data>
   <data name="Shortcut_Snooze" xml:space="preserve">
-    <value>Später lesen</value>
+    <value>Zurückstellen</value>
     <comment>Header for snooze shortcut in shortcuts window</comment>
   </data>
   <data name="Shortcut_SnoozeExplanation" xml:space="preserve">
@@ -6618,7 +6618,7 @@ e.g. "2 occurrences"</comment>
     <comment>Custom recurrence</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryWeekday" xml:space="preserve">
-    <value>Every weekday ({0} to {1})</value>
+    <value>Alle Werktage ({0} bis {1})</value>
   </data>
   <data name="App_Calendar_Recurrence_OnWeekdays" xml:space="preserve">
     <value>an Werktagen</value>
@@ -6668,7 +6668,7 @@ e.g. "2 occurrences"</comment>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
-    <value>Value cannot be greater than {0} {1}</value>
+    <value>Wert darf nicht größer sein als {0} {1}</value>
     <comment>Value can't be greater than 2 weeks</comment>
   </data>
   <data name="App_Calendar_ShowWeekends" xml:space="preserve">
@@ -6712,7 +6712,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitationExplanation" xml:space="preserve">
-    <value>Would you like to send invitations to the guests?</value>
+    <value>Möchten Sie Einladungen an die Gäste versenden?</value>
     <comment>Explanation for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdate" xml:space="preserve">
@@ -6772,11 +6772,11 @@ e.g. "2 occurrences"</comment>
     <comment>Header for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllExplanation" xml:space="preserve">
-    <value>Möchten Sie wirklich alle Benachrichtigungen erst später lesen?</value>
+    <value>Möchten Sie wirklich alle Benachrichtigungen zurückstellen?</value>
     <comment>Explanation for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllHeader" xml:space="preserve">
-    <value>Alle Benachrichtigungen später lesen?</value>
+    <value>Alle Benachrichtigungen zurückstellen?</value>
     <comment>Header for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Dismiss" xml:space="preserve">
@@ -6788,11 +6788,11 @@ e.g. "2 occurrences"</comment>
     <comment>Button to dimiss all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze" xml:space="preserve">
-    <value>Später lesen</value>
+    <value>Zurückstellen</value>
     <comment>Button to snooze notification</comment>
   </data>
   <data name="App_Calendar_Notification_SnoozeAll" xml:space="preserve">
-    <value>Alle später lesen</value>
+    <value>Alle zurückstellen</value>
     <comment>Button to snooze all notifications</comment>
   </data>
   <data name="App_Calendar_Notifications" xml:space="preserve">
@@ -6824,35 +6824,35 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>The export process has finished. Some errors occured while exporting some events. Please contact support.</value>
+    <value>Der Exportvorgang wurde abgeschlossen. Beim Export einiger Ereignisse sind Fehler aufgetreten. Bitte wenden Sie sich an den Support.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
-    <value>The export process has finished. All events have been exported to the selected file.</value>
+    <value>Der Exportvorgang wurde abgeschlossen. Alle Ereignisse wurden in die ausgewählte Datei exportiert.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
+    <value>Die ausgewählte Datei konnte nicht geöffnet werden. Bitte stellen Sie sicher, dass sie nicht in einer anderen Anwendung geöffnet ist und dass Ihr Windows-Benutzer Zugriffsrechte darauf hat und versuchen Sie es anschließend erneut.</value>
     <comment>Error message displayed when the selected file where to export events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Export_NoEventsExplanation" xml:space="preserve">
-    <value>The selected calendar does not contain any events to export. Please select another calendar and try again.</value>
+    <value>Der ausgewählte Kalender enthält keine Ereignisse zum Exportieren. Bitte wählen Sie einen anderen Kalender aus und versuchen Sie es erneut.</value>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>The import process has finished. Some errors occured while importing some events. Please contact support.</value>
+    <value>Der Importvorgang ist abgeschlossen. Beim Import einiger Ereignisse sind Fehler aufgetreten. Bitte wenden Sie sich an den Support.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
-    <value>The import process has finished. All events have been imported to the selected calendar.</value>
+    <value>Der Importvorgang ist abgeschlossen. Alle Ereignisse wurden in den ausgewählten Kalender importiert.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Import_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
+    <value>Die ausgewählte Datei konnte nicht geöffnet werden. Bitte stellen Sie sicher, dass sie nicht in einer anderen Anwendung geöffnet ist und dass Ihr Windows-Benutzer Zugriffsrechte darauf hat und versuchen Sie es erneut.</value>
     <comment>Error message displayed when the selected file to import events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Import_NoEventsExplanation" xml:space="preserve">
-    <value>The selected file does not contain any event information. Please select another file and try again.</value>
+    <value>Die ausgewählte Datei enthält keine Ereignisinformationen. Bitte wählen Sie eine andere Datei aus und versuchen Sie es erneut.</value>
     <comment>Error message when there's no events to import in the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_GlobalError" xml:space="preserve">
@@ -6864,11 +6864,11 @@ e.g. "2 occurrences"</comment>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
-    <value>Export was cancelled</value>
+    <value>Der Export wurde abgebrochen</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
-    <value>Export process was cancelled. A file might have been created.</value>
+    <value>Der Exportvorgang wurde abgebrochen. Möglicherweise wurde eine Datei erstellt.</value>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
@@ -6892,11 +6892,11 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Import was cancelled</value>
+    <value>Der Import wurde abgebrochen</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
-    <value>The import process was cancelled. Some events might have been added to the target calendar.</value>
+    <value>Der Importvorgang wurde abgebrochen. Einige Ereignisse wurden möglicherweise dem Zielkalender hinzugefügt.</value>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
@@ -6924,7 +6924,7 @@ e.g. "2 occurrences"</comment>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
-    <value>Calendar is syncing. Please wait for the sync to complete before importing or exporting, to avoid any errors or inaccurate results.</value>
+    <value>Der Kalender wird derzeit synchronisiert. Bitte warten Sie vor dem Importieren oder Exportieren, bis die Synchronisation abgeschlossen ist, um Fehler oder ungenaue Ergebnisse zu vermeiden.</value>
     <comment>Warning text when importing or exporting when calendar is syncing</comment>
   </data>
   <data name="App_Calendar_Invitation_Accepted" xml:space="preserve">
@@ -7027,13 +7027,13 @@ e.g. "2 occurrences"</comment>
     <comment>Caption for tutorial 1</comment>
   </data>
   <data name="App_Calendar_Intro_2" xml:space="preserve">
-    <value>Sync calendars from Google, Exchange, and 
-Outlook.</value>
+    <value>Kalender aus Google, Exchange und
+Outlook synchronisieren</value>
     <comment>Caption for tutorial 2</comment>
   </data>
   <data name="App_Calendar_Intro_3" xml:space="preserve">
-    <value>Enable the sidebar and view your calendar next to
-your Inbox.</value>
+    <value>Aktivieren Sie die Seitenleiste und sehen Sie Ihren
+Kalender neben Ihrem Posteingang.</value>
     <comment>Caption for tutorial 3</comment>
   </data>
   <data name="App_Calendar_Intro_4" xml:space="preserve">
@@ -7045,7 +7045,7 @@ your Inbox.</value>
     <comment>Tutorial title</comment>
   </data>
   <data name="App_Calendar_Settings_MatchWindowsTimezone" xml:space="preserve">
-    <value>Match Windows timezone</value>
+    <value>Windows-Zeitzone anpassen</value>
     <comment>Label of checkbox that indicates that the Calendar App will use the same timezone as the one set in Windows</comment>
   </data>
   <data name="App_Calendar_AllDay" xml:space="preserve">
@@ -7076,11 +7076,11 @@ your Inbox.</value>
     <comment>Field to set default calendar</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDelete" xml:space="preserve">
-    <value>Cannot delete event</value>
+    <value>Ereignis konnte nicht gelöscht werden</value>
     <comment>Messagebox title when can't delete event</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDeleteExplanation" xml:space="preserve">
-    <value>You cannot delete an event that's currently being edited.</value>
+    <value>Ein Ereignis, welches gerade bearbeitet wird, kann nicht gelöscht werden.</value>
     <comment>Messagebox explanationwhen can't delete event</comment>
   </data>
   <data name="App_Calendar_Menu_NewEvent" xml:space="preserve">
@@ -7104,15 +7104,15 @@ your Inbox.</value>
     <comment>Tutorial text to guide user to connect account in calendar apps</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEvent" xml:space="preserve">
-    <value>Cannot add event</value>
+    <value>Ereignis konnte nicht hinzugefügt werden</value>
     <comment>Header when user tries to add event but there is no connected account</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEventExplanation" xml:space="preserve">
-    <value>You haven't connected any accounts with the calendar. Please connect an account from the calendar settings and try again.</value>
+    <value>Keine Konten sind mit dem Kalender verbunden. Bitte verbinden Sie ein Konto über die Kalendereinstellungen und versuchen Sie es erneut.</value>
     <comment>Explanation when user tries to add event but there is no connected account</comment>
   </data>
   <data name="RateRecommend_LinkedIn" xml:space="preserve">
-    <value>Share via LinkedIn</value>
+    <value>Über LinkedIn teilen</value>
     <comment>Tooltip to share via LinkedIn</comment>
   </data>
 </root>
