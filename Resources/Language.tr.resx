@@ -510,9 +510,9 @@ Message:</comment>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>An error occured trying to verify the connection settings. Please check that everything has been input correctly.
+    <value>Bağlantı ayarlarını doğrulamaya çalışırken bir hata oluştu. Lütfen her şeyin doğru bir şekilde girildiğini denetleyin.
 
-Read more:
+Daha fazla oku:
 https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
@@ -3281,9 +3281,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.
+    <value>Mailbird iletiyi gönderemedi. Lütfen 'Kimden' kimliğinizin giden sunucu ayarlarını denetleyin.
 
-Read more:
+Daha fazla oku:
 https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
@@ -6057,7 +6057,7 @@ Bu yüzden kullanışlılık ipuçları, özel promosyonlar ve yeni heyecan veri
     <comment>Explanation for snooze feature</comment>
   </data>
   <data name="Dialog_OrPurchase" xml:space="preserve">
-    <value>Ya da bir lisans sipariş et.</value>
+    <value>Ya da bir lisans satın alın.</value>
     <comment>Button to purchase a license. The button appears after some other options.</comment>
   </data>
   <data name="Dialog_MailDllLicenseError" xml:space="preserve">
@@ -6611,7 +6611,7 @@ e.g. "2 occurrences"</comment>
     <comment>Custom recurrence</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryWeekday" xml:space="preserve">
-    <value>Every weekday ({0} to {1})</value>
+    <value>({0} den {1}) ya haftanın her günü</value>
   </data>
   <data name="App_Calendar_Recurrence_OnWeekdays" xml:space="preserve">
     <value>haftaiçleri</value>
@@ -6661,7 +6661,7 @@ e.g. "2 occurrences"</comment>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
-    <value>Value cannot be greater than {0} {1}</value>
+    <value>Değer {0} {1} den daha büyük olamaz</value>
     <comment>Value can't be greater than 2 weeks</comment>
   </data>
   <data name="App_Calendar_ShowWeekends" xml:space="preserve">
@@ -6705,7 +6705,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitationExplanation" xml:space="preserve">
-    <value>Would you like to send invitations to the guests?</value>
+    <value>Konuklara davetiye göndermek ister misiniz?</value>
     <comment>Explanation for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdate" xml:space="preserve">
@@ -6817,35 +6817,35 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>The export process has finished. Some errors occured while exporting some events. Please contact support.</value>
+    <value>Dışa aktarma işlemi bitti. Bazı etkinlikleri dışa aktarırken bazı hatalar oluştu. Lütfen desteğe başvurun.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
-    <value>The export process has finished. All events have been exported to the selected file.</value>
+    <value>Dışa aktarma işlemi bitti. Tüm etkinlikler seçilen dosyaya aktarıldı.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
+    <value>Seçilen dosya açılamıyor. Lütfen başka bir uygulamada açık olmadığından ve Windows kullanıcınızın uygulama haklarına sahip olduğundan emin olun ve yeniden deneyin.</value>
     <comment>Error message displayed when the selected file where to export events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Export_NoEventsExplanation" xml:space="preserve">
-    <value>The selected calendar does not contain any events to export. Please select another calendar and try again.</value>
+    <value>Seçilen takvim, dışa aktarılacak hiçbir etkinlik içermiyor. Lütfen başka bir takvim seçin ve yeniden deneyin.</value>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>The import process has finished. Some errors occured while importing some events. Please contact support.</value>
+    <value>İçe aktarma işlemi bitti. Bazı etkinlikleri içe aktarırken bazı hatalar oluştu. Lütfen desteğe başvurun.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
-    <value>The import process has finished. All events have been imported to the selected calendar.</value>
+    <value>İçe aktarma işlemi bitti. Tüm etkinlikler seçilen takvime aktarıldı.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Import_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
+    <value>Seçilen dosya açılamıyor. Lütfen başka bir uygulamada açık olmadığından ve Windows kullanıcınızın uygulama haklarına sahip olduğundan emin olun ve yeniden deneyin.</value>
     <comment>Error message displayed when the selected file to import events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Import_NoEventsExplanation" xml:space="preserve">
-    <value>The selected file does not contain any event information. Please select another file and try again.</value>
+    <value>Seçilen dosya herhangi bir etkinlik bilgisi içermiyor. Lütfen başka bir dosya seçin ve yeniden deneyin.</value>
     <comment>Error message when there's no events to import in the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_GlobalError" xml:space="preserve">
@@ -6857,15 +6857,15 @@ e.g. "2 occurrences"</comment>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
-    <value>Export was cancelled</value>
+    <value>Dışa aktarımdan vazgeçildi</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
-    <value>Export process was cancelled. A file might have been created.</value>
+    <value>Dışa aktarım işlemden vazgeçildi. Bir dosya oluşturulmuş olabilir.</value>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
-    <value>Export error</value>
+    <value>Dışa aktarım hatası</value>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
@@ -6881,19 +6881,19 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
-    <value>No events</value>
+    <value>Etkinlik yok</value>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Import was cancelled</value>
+    <value>İçe aktarımdan vazgeçildi</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
-    <value>The import process was cancelled. Some events might have been added to the target calendar.</value>
+    <value>İçe aktarma işlemden vazgeçildi. Bazı etkinlikler hedef takvime eklenmiş olabilir.</value>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
-    <value>Import error</value>
+    <value>İçe aktarım hatası</value>
     <comment>Header when there was error in import process</comment>
   </data>
   <data name="App_Calendar_Import_Finished" xml:space="preserve">
@@ -6909,15 +6909,15 @@ e.g. "2 occurrences"</comment>
     <comment>Instruction for export feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExplanation" xml:space="preserve">
-    <value>Alınan takvimi şuraya ekle</value>
+    <value>İçe aktarılan takvimi şuraya ekle</value>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
-    <value>Import &amp; export</value>
+    <value>İçe &amp; Dışa aktar</value>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
-    <value>Calendar is syncing. Please wait for the sync to complete before importing or exporting, to avoid any errors or inaccurate results.</value>
+    <value>Takvim eşitleniyor. Hatalardan ya da yanlış sonuçlardan kaçınmak için lütfen içe aktarmadan veya dışa aktarmadan önce eşitlemenin tamamlanmasını bekleyin.</value>
     <comment>Warning text when importing or exporting when calendar is syncing</comment>
   </data>
   <data name="App_Calendar_Invitation_Accepted" xml:space="preserve">
@@ -6956,7 +6956,7 @@ e.g. "2 occurrences"</comment>
     <comment>Message when event was cancelled</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Açıklama</value>
     <comment>Description field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Error" xml:space="preserve">
@@ -6968,7 +6968,7 @@ e.g. "2 occurrences"</comment>
     <comment>Message when event is added to a calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventNotAdded" xml:space="preserve">
-    <value>Hata nedeniyle etkinlik eklenmedi. Sorun devam ederse, lütfen desteğe başvurun.</value>
+    <value>Hata nedeniyle etkinlik eklenemedi. Sorun devam ederse, lütfen desteğe başvurun.</value>
     <comment>Message when there is error when adding event to calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Location" xml:space="preserve">
@@ -6996,7 +6996,7 @@ e.g. "2 occurrences"</comment>
     <comment>Date and time field</comment>
   </data>
   <data name="Dialog_Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Hata</value>
     <comment>Header when there is error</comment>
   </data>
   <data name="Dialog_Success" xml:space="preserve">
@@ -7008,7 +7008,7 @@ e.g. "2 occurrences"</comment>
     <comment>Tooltip for button to expand or collapse all day event section</comment>
   </data>
   <data name="App_Calendar_ViewDayView" xml:space="preserve">
-    <value>Day view</value>
+    <value>Gün görünümü</value>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_ViewScheduleView" xml:space="preserve">
@@ -7020,13 +7020,13 @@ e.g. "2 occurrences"</comment>
     <comment>Caption for tutorial 1</comment>
   </data>
   <data name="App_Calendar_Intro_2" xml:space="preserve">
-    <value>Sync calendars from Google, Exchange, and 
-Outlook.</value>
+    <value>Takvimleri Google, Exchange ve Outlook'tan
+eşitle.</value>
     <comment>Caption for tutorial 2</comment>
   </data>
   <data name="App_Calendar_Intro_3" xml:space="preserve">
-    <value>Enable the sidebar and view your calendar next to
-your Inbox.</value>
+    <value>Kenar çubuğunu etkinleştirin ve Gelen Kutunuzun yanında takviminizi
+görüntüleyin.</value>
     <comment>Caption for tutorial 3</comment>
   </data>
   <data name="App_Calendar_Intro_4" xml:space="preserve">
@@ -7038,7 +7038,7 @@ your Inbox.</value>
     <comment>Tutorial title</comment>
   </data>
   <data name="App_Calendar_Settings_MatchWindowsTimezone" xml:space="preserve">
-    <value>Match Windows timezone</value>
+    <value>Windows saat dilimini eşleştir</value>
     <comment>Label of checkbox that indicates that the Calendar App will use the same timezone as the one set in Windows</comment>
   </data>
   <data name="App_Calendar_AllDay" xml:space="preserve">
@@ -7069,15 +7069,15 @@ your Inbox.</value>
     <comment>Field to set default calendar</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDelete" xml:space="preserve">
-    <value>Cannot delete event</value>
+    <value>Etkinlik silinemiyor</value>
     <comment>Messagebox title when can't delete event</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDeleteExplanation" xml:space="preserve">
-    <value>You cannot delete an event that's currently being edited.</value>
+    <value>Halen düzenlenmekte olan bir etkinliği silemezsiniz.</value>
     <comment>Messagebox explanationwhen can't delete event</comment>
   </data>
   <data name="App_Calendar_Menu_NewEvent" xml:space="preserve">
-    <value>New event</value>
+    <value>Yeni etkinlik</value>
     <comment>Menu to create event</comment>
   </data>
   <data name="App_Calendar_Menu_SetDefault" xml:space="preserve">
@@ -7097,15 +7097,15 @@ your Inbox.</value>
     <comment>Tutorial text to guide user to connect account in calendar apps</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEvent" xml:space="preserve">
-    <value>Cannot add event</value>
+    <value>Etkinlik eklenemiyor</value>
     <comment>Header when user tries to add event but there is no connected account</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEventExplanation" xml:space="preserve">
-    <value>You haven't connected any accounts with the calendar. Please connect an account from the calendar settings and try again.</value>
+    <value>Takvim ile hiçbir hesap bağlamadınız. Lütfen takvim ayarlarından bir hesap bağlayın ve yeniden deneyin.</value>
     <comment>Explanation when user tries to add event but there is no connected account</comment>
   </data>
   <data name="RateRecommend_LinkedIn" xml:space="preserve">
-    <value>Share via LinkedIn</value>
+    <value>LinkedIn ile paylaş</value>
     <comment>Tooltip to share via LinkedIn</comment>
   </data>
 </root>
