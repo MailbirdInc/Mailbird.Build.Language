@@ -7039,7 +7039,7 @@ Inbox-ul dvs.</value>
     <comment>Tutorial title</comment>
   </data>
   <data name="App_Calendar_Settings_MatchWindowsTimezone" xml:space="preserve">
-    <value>Potrivire fus orar cu cel din Windows</value>
+    <value>Match Windows time zone</value>
     <comment>Label of checkbox that indicates that the Calendar App will use the same timezone as the one set in Windows</comment>
   </data>
   <data name="App_Calendar_AllDay" xml:space="preserve">
@@ -7128,5 +7128,13 @@ Inbox-ul dvs.</value>
   <data name="App_Calendar_SyncDetailsAllProperties" xml:space="preserve">
     <value>Din cauza limitărilor de integrare, setările calendarului de mai sus nu sunt sincronizate cu serverul.</value>
     <comment>Warning when all properties wont be synced with server</comment>
+  </data>
+  <data name="App_Contacts_Browse_SelectedPlural" xml:space="preserve">
+    <value>{0} contacts selected</value>
+    <comment>Label to show how many contact selected (plural)</comment>
+  </data>
+  <data name="App_Contacts_Browse_SelectedSingular" xml:space="preserve">
+    <value>{0} contact selected</value>
+    <comment>Label to show how many contact selected</comment>
   </data>
 </root>
