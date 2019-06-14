@@ -1143,7 +1143,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
-    <value>Je licentie is onbeperkt geldig.</value>
+    <value>Your license is valid.</value>
     <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
@@ -2325,42 +2325,6 @@ Path: {0}</comment>
     <value>Onderstrepen</value>
     <comment>Underline</comment>
   </data>
-  <data name="UpdateToPro_Annual" xml:space="preserve">
-    <value>Pro</value>
-    <comment>Annual</comment>
-  </data>
-  <data name="UpdateToPro_FirstName" xml:space="preserve">
-    <value>Voornaam</value>
-    <comment>First name</comment>
-  </data>
-  <data name="UpdateToPro_GoPro" xml:space="preserve">
-    <value>Word Pro</value>
-    <comment>Go Pro</comment>
-  </data>
-  <data name="UpdateToPro_Includes" xml:space="preserve">
-    <value>Beide inclusief:</value>
-    <comment>Both includes:</comment>
-  </data>
-  <data name="UpdateToPro_LastName" xml:space="preserve">
-    <value>Achternaam</value>
-    <comment>Last name</comment>
-  </data>
-  <data name="UpdateToPro_Lifetime" xml:space="preserve">
-    <value>Levenslang</value>
-    <comment>Lifetime</comment>
-  </data>
-  <data name="UpdateToPro_ProOnlyFeatures" xml:space="preserve">
-    <value>Functies alleen voor Pro</value>
-    <comment>Pro only features</comment>
-  </data>
-  <data name="UpdateToPro_Subtitle" xml:space="preserve">
-    <value>Ontvang snel voorbeeld en vele andere voordelen</value>
-    <comment>Get Quick Preview and many other benefits</comment>
-  </data>
-  <data name="UpdateToPro_UnlimitedAccounts" xml:space="preserve">
-    <value>Onbeperkt aantal accounts</value>
-    <comment>Unlimited accounts</comment>
-  </data>
   <data name="Welcome_AccountIcon" xml:space="preserve">
     <value>Icoon</value>
     <comment>Icon</comment>
@@ -3207,11 +3171,11 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>License key</comment>
   </data>
   <data name="Menu_Purchase" xml:space="preserve">
-    <value>Upgraden naar Mailbird Pro</value>
+    <value>Purchase Mailbird</value>
     <comment>Upgrade to Mailbird Pro</comment>
   </data>
   <data name="Options_ActivatePro" xml:space="preserve">
-    <value>Mailbird Pro activeren</value>
+    <value>Activate Mailbird license</value>
     <comment>Activate Mailbird Pro</comment>
   </data>
   <data name="Options_StatusLite" xml:space="preserve">
@@ -3219,7 +3183,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} dagen resterend van je Pro-proefperiode. Nadat de proefperiode eindigt, zal Mailbird Pro omgezet worden naar Mailbird Lite.</value>
+    <value>{0} days remaining of your trial. After the trial ends you'll need to purchase license, otherwise Mailbird will go offline.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -3251,7 +3215,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Learn more</comment>
   </data>
   <data name="Trial_Purchase" xml:space="preserve">
-    <value>Mailbird Pro kopen</value>
+    <value>Buy Mailbird</value>
     <comment>Buy Mailbird Pro</comment>
   </data>
   <data name="Trial_SwitchLite" xml:space="preserve">
@@ -3734,14 +3698,6 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <value>Krijg Mailbird Pro - 33% korting</value>
     <comment>Get Mailbird Pro - 33% off</comment>
   </data>
-  <data name="UpdateToPro_Coupon" xml:space="preserve">
-    <value>Coupon</value>
-    <comment>Coupon</comment>
-  </data>
-  <data name="UpdateToPro_UsdMonth" xml:space="preserve">
-    <value>{0} / Maand</value>
-    <comment>Note: leave the USD and translate the month</comment>
-  </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
     <value>Het is niet mogelijk om het bestand '{0}' toe te voegen als bijlage. Controleer of het bestand niet in een ander programma wordt gebruikt en probeer het opnieuw.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
@@ -4105,10 +4061,6 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <value>Google OAuth 2.0</value>
     <comment>Google OAuth 2.0</comment>
   </data>
-  <data name="OAuth2AuthBrowser_Title" xml:space="preserve">
-    <value>Autoriseer toegang tot {0}</value>
-    <comment>Authorize access to [johndoe@domain.com]</comment>
-  </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
     <value>Voer het wachtwoord in waarmee u zich hebt aangemeld {0}</value>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
@@ -4449,7 +4401,7 @@ Please select another image to use as a background.</comment>
     <comment>Remove</comment>
   </data>
   <data name="Options_RetrieveLicense" xml:space="preserve">
-    <value>Licentiesleutel verkrijgen</value>
+    <value>Retrieve license key</value>
     <comment>Retrieve License Key</comment>
   </data>
   <data name="App_Chrome_Description" xml:space="preserve">
@@ -4465,7 +4417,7 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Nu upgraden naar Mailbird PRO</value>
+    <value>Purchase Mailbird now!</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
@@ -5259,7 +5211,7 @@ Hiermee wordt contactgegevensynchronisatie uitgeschakeld en de groepen en contac
     <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>Om Mailmark optimaal te blijven gebruiken, met snooze, onbeperkte accounts en nog veel meer, moet je Mailbird Pro kopen.</value>
+    <value>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird.</value>
     <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
@@ -5729,7 +5681,7 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>Deze identiteit is uitgeschakeld. Upgrade naar Mailbird Pro om te genieten van een onbeperkt aantal accounts.</value>
+    <value>This identity is disabled. Purchase Mailbird to enjoy unlimited accounts.</value>
     <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
@@ -5737,7 +5689,7 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>Dit account is uitgeschakeld omdat u de accountlimiet in Mailbird Lite heeft bereikt.</value>
+    <value>This account has been disabled because you have reached the account limit in your license.</value>
     <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
@@ -5745,15 +5697,15 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Upgrade naar Mailbird Pro om e-mails van dit account te blijven ontvangen en verzenden.</value>
+    <value>Purchase Mailbird to keep receiving and sending emails from this account.</value>
     <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Upgrade nu</value>
+    <value>Buy now</value>
     <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Sommige van uw accounts zijn uitgeschakeld omdat uw proefperiode met Mailbird Pro is beëindigd. U gebruikt nu Mailbird Lite.Mailbird Lite ondersteund {0} email account(s) gratis voor het leven. Voer een upgrade naar Pro uit om door te gaan met het gebruik van al uw accounts.</value>
+    <value>Some of your accounts have been disabled because your Mailbird trial has ended. You are now using Mailbird Lite. Mailbird Lite supports {0} email account(s) free for life. Please purchase Mailbird in order to continue using all of your accounts.</value>
     <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
@@ -7115,7 +7067,7 @@ your Inbox.</value>
     <comment>Field for calendar's color</comment>
   </data>
   <data name="App_ZeroBounce_Description" xml:space="preserve">
-    <value>ZeroBounce is the premier email validation service. By removing bounces and spam traps, we help businesses across the globe reach humans, not bots.</value>
+    <value>The premier email validation system. Reach the inbox by weeding out risky emails from your list.</value>
     <comment>App description for ZeroBounce.</comment>
   </data>
   <data name="App_Calendar_SyncDetails" xml:space="preserve">
@@ -7137,5 +7089,357 @@ your Inbox.</value>
   <data name="App_Contacts_Browse_SelectedSingular" xml:space="preserve">
     <value>{0} contact selected</value>
     <comment>Label to show how many contact selected</comment>
+  </data>
+  <data name="UpgradeToPro_Annual" xml:space="preserve">
+    <value>Personal (Annually)</value>
+    <comment>Type of Mailbird license: personal</comment>
+  </data>
+  <data name="UpgradeToPro_FirstName" xml:space="preserve">
+    <value>First name</value>
+    <comment>First name</comment>
+  </data>
+  <data name="UpgradeToPro_GoPro" xml:space="preserve">
+    <value>Buy now</value>
+    <comment>Button to purchase license</comment>
+  </data>
+  <data name="UpgradeToPro_LastName" xml:space="preserve">
+    <value>Last name</value>
+    <comment>Last name</comment>
+  </data>
+  <data name="UpgradeToPro_Lifetime" xml:space="preserve">
+    <value>Personal (Pay once)</value>
+    <comment>Type of Mailbird license: personal pay once</comment>
+  </data>
+  <data name="Upgrade_Subtitle" xml:space="preserve">
+    <value>Get Quick Preview and many other benefits</value>
+    <comment>Get Quick Preview and many other benefits</comment>
+  </data>
+  <data name="UpgradeToPro_Coupon" xml:space="preserve">
+    <value>Coupon</value>
+    <comment>Coupon</comment>
+  </data>
+  <data name="UpgradeToPro_UsdMonth" xml:space="preserve">
+    <value>{0} / Month</value>
+    <comment>Note: leave the {0} and translate the month</comment>
+  </data>
+  <data name="Welcome_FixedMaxConnectionsInfo" xml:space="preserve">
+    <value>The number of connections to this server is fixed for performance reasons.</value>
+    <comment>Tooltip shown for info button visible when the account connections slider is disabled.</comment>
+  </data>
+  <data name="Dialog_RequiresReAuthorization" xml:space="preserve">
+    <value>Authorization required</value>
+    <comment>Title of dialog shown when Mailbird needs to re-authorize one or more accounts using OAuth2.</comment>
+  </data>
+  <data name="Dialog_RequiresReAuthorizationExplanation" xml:space="preserve">
+    <value>Mailbird needs to authorize again with one or more of your accounts in order to continue accessing them.
+
+These requests will open in your default browser and each must be completed with the account originally used.</value>
+    <comment>Message of dialog shown when Mailbird needs to re-authorize one or more accounts using OAuth2.</comment>
+  </data>
+  <data name="License_EnterLicense" xml:space="preserve">
+    <value>Enter license key</value>
+    <comment>Button to enter license key</comment>
+  </data>
+  <data name="License_NotNow" xml:space="preserve">
+    <value>Not now</value>
+    <comment>Button to dismiss offer</comment>
+  </data>
+  <data name="License_TrialReminder_Explanation" xml:space="preserve">
+    <value>This is just a friendly reminder that your trial will expire soon. If you feel like you have had enough time to try all features, then you can now purchase Mailbird for {0}% off. This offer will expire with the trial.</value>
+    <comment>Body copy for trial reminder window</comment>
+  </data>
+  <data name="License_TrialReminder_HeaderPlural" xml:space="preserve">
+    <value>Your trial will end in {0} days</value>
+    <comment>Nb {0} will be replaced by number</comment>
+  </data>
+  <data name="License_PurchaseDiscount" xml:space="preserve">
+    <value>Get Mailbird {0}% off</value>
+    <comment>Button to purchase Mailbird license, 
+NB {0} will be replaced with the amount of discount</comment>
+  </data>
+  <data name="License_TrialReminder_SubHeader" xml:space="preserve">
+    <value>You are currently on the free Mailbird trial</value>
+    <comment>Subheader in trial reminder window</comment>
+  </data>
+  <data name="License_Purchase" xml:space="preserve">
+    <value>Buy Mailbird</value>
+    <comment>Button to purchase Mailbird license</comment>
+  </data>
+  <data name="License_WelcomeBasic_Explanation" xml:space="preserve">
+    <value>For the next {0} days you will get unlimited access to all Mailbird features.
+Which version you would like to try?</value>
+    <comment>Message body for welcome trial window</comment>
+  </data>
+  <data name="License_DismissGoOffline" xml:space="preserve">
+    <value>Dismiss and go offline</value>
+    <comment>Button to dismiss offer</comment>
+  </data>
+  <data name="License_EndTrial_Explanation" xml:space="preserve">
+    <value>To continue using Mailbird with Unified account, Native calendar, Inline reply and much more, you will need to purchase Mailbird.</value>
+    <comment>Explanation when trial ends</comment>
+  </data>
+  <data name="License_EndTrial_Header" xml:space="preserve">
+    <value>You have reached the end of your trial</value>
+    <comment>End of trial header</comment>
+  </data>
+  <data name="License_EndTrial_SubHeader" xml:space="preserve">
+    <value>Time flies when you do something you love</value>
+    <comment>Sub header when trial is end</comment>
+  </data>
+  <data name="License_ExtendTrial" xml:space="preserve">
+    <value>Extend trial</value>
+    <comment>Button to extend trial</comment>
+  </data>
+  <data name="License_FeatureComparison" xml:space="preserve">
+    <value>See feature comparison</value>
+    <comment>Button for looking the feature comparison</comment>
+  </data>
+  <data name="License_GetLiteLicense" xml:space="preserve">
+    <value>Get Lite license</value>
+    <comment>Button to get lite license</comment>
+  </data>
+  <data name="License_NeedExtension" xml:space="preserve">
+    <value>I need more time to decide</value>
+    <comment>Button to ask extra trial days</comment>
+  </data>
+  <data name="License_NewLite_Explanation" xml:space="preserve">
+    <value>In our latest newsletter, we highlight that new users have the choice of the awesome brand new Mailbird or Mailbird Business. You've been with us for a while, and we appreciate that! So we'd like to give you the option keep your Mailbird Lite License forever - this option will not be available to new users.
+
+A unique license will be provided, so you can continue using Mailbird Lite without any changes. Mailbird Lite will no longer be updated as we transition to the new product lineup.
+
+So you don't miss out on all the many great upcoming Mailbird updates and improvements, we highly recommend a one time upgrade to the best never versions, simply called Mailbird or Mailbird Business.</value>
+    <comment>Explanation of the new lite version</comment>
+  </data>
+  <data name="License_NewLite_Header" xml:space="preserve">
+    <value>Mailbird has launched a new product line up</value>
+    <comment>Header for the new lite version</comment>
+  </data>
+  <data name="License_NewLite_SubHeader" xml:space="preserve">
+    <value>Mailbird Lite is no longer available to new users</value>
+    <comment>Sub header for the new lite version</comment>
+  </data>
+  <data name="License_Offline_Explanation" xml:space="preserve">
+    <value>All of your emails in your Inbox will still be accessible. However, you will not be able to send or receive new emails.
+
+Was that all a misunderstanding and you wish to continue Mailbird? No worries you can purchase Mailbird at any time, or enter the license key below.</value>
+    <comment>Explanation when Mailbird has offline</comment>
+  </data>
+  <data name="License_Offline_Header" xml:space="preserve">
+    <value>You have decided to discontinue Mailbird</value>
+    <comment>Header when Mailbird has gone offline</comment>
+  </data>
+  <data name="License_Offline_SubHeader" xml:space="preserve">
+    <value>Your Mailbird has gone offline</value>
+    <comment>SubHeader when Mailbird has gone offline</comment>
+  </data>
+  <data name="License_StartTrial" xml:space="preserve">
+    <value>Start trial</value>
+    <comment>Button to start trial</comment>
+  </data>
+  <data name="License_TrialExtension_Explanation" xml:space="preserve">
+    <value>We understand that you may need more time to test all of the Mailbird features. Here is an additional {0} days to fall in love with Mailbird.</value>
+    <comment>Trial extension explanation</comment>
+  </data>
+  <data name="License_TrialExtension_SubHeader" xml:space="preserve">
+    <value>Do you need more time to decide?</value>
+    <comment>Trial extension sub header</comment>
+  </data>
+  <data name="License_TrialReminder_NoDiscountExplanation" xml:space="preserve">
+    <value>This is just a friendly reminder that your trial will expire soon. If you feel like you have had enough time to try all features, then you can now purchase Mailbird now.</value>
+    <comment>Body copy for trial reminder window without discount</comment>
+  </data>
+  <data name="License_WelcomeBasic_Header" xml:space="preserve">
+    <value>Welcome to the Mailbird trial</value>
+    <comment>Header for welcome to trial window</comment>
+  </data>
+  <data name="License_MailbirdPersonal" xml:space="preserve">
+    <value>Personal</value>
+    <comment>Mailbird Personal, see resource with key License_Mailbird</comment>
+  </data>
+  <data name="License_MailbirdBusiness" xml:space="preserve">
+    <value>Business</value>
+    <comment>Mailbird Business, see resource with key License_Mailbird</comment>
+  </data>
+  <data name="License_WelcomeBasic_MailbirdBusinessFeatures" xml:space="preserve">
+    <value>(Includes all Mailbird features plus Exchange support, LinkedIn lookup, priority support, etc)</value>
+    <comment>Label for business features</comment>
+  </data>
+  <data name="License_WelcomeBusiness_Explanation" xml:space="preserve">
+    <value>For the next {0} days you will get unlimited access to all Mailbird Business features.</value>
+    <comment>Explanation for business trial</comment>
+  </data>
+  <data name="License_WelcomeBusiness_FeatureAndMore" xml:space="preserve">
+    <value>And more...</value>
+    <comment>Label for many more feature</comment>
+  </data>
+  <data name="License_WelcomeBusiness_FeatureExchangeSupport" xml:space="preserve">
+    <value>Exchange support</value>
+    <comment>Feature label for exchange support</comment>
+  </data>
+  <data name="License_WelcomeBusiness_FeatureInlineReply" xml:space="preserve">
+    <value>Inline reply</value>
+    <comment>Feature label for inline reply</comment>
+  </data>
+  <data name="License_WelcomeBusiness_FeatureLinkedInLookup" xml:space="preserve">
+    <value>LinkedIn lookup</value>
+    <comment>Feature label for linkedIn lookup</comment>
+  </data>
+  <data name="License_WelcomeBusiness_FeaturePrioritySupport" xml:space="preserve">
+    <value>Priority support</value>
+    <comment>Feature label for priority support</comment>
+  </data>
+  <data name="License_WelcomeBusiness_FeatureTagContact" xml:space="preserve">
+    <value>Tag contacts</value>
+    <comment>Feature label for auto tagging contacts</comment>
+  </data>
+  <data name="License_WelcomeBusiness_Header" xml:space="preserve">
+    <value>Welcome to the Mailbird Business trial</value>
+    <comment>Header for welcome to mailbird business trial window</comment>
+  </data>
+  <data name="License_Welcome_Question" xml:space="preserve">
+    <value>If you have any questions please [link href={0}]contact support[/link]. And we will get back to you asap.</value>
+    <comment>Copy for welcome to trial</comment>
+  </data>
+  <data name="Dialog_TrialExtended" xml:space="preserve">
+    <value>Your trial has been extended</value>
+    <comment>Header for messagebox</comment>
+  </data>
+  <data name="Dialog_TrialExtended_Explanation" xml:space="preserve">
+    <value>Continue using Mailbird and all of its features for another {0} days.</value>
+    <comment>Explanation for messagebox</comment>
+  </data>
+  <data name="License_EndTrialNoExtension_Explanation" xml:space="preserve">
+    <value>Your Mailbird extended trial has reached its end. You can now choose between Mailbird or Mailbird Business. We highly recommend Mailbird Business to get the best email solution for you.</value>
+    <comment>End of trial text explanation when it can not be extended</comment>
+  </data>
+  <data name="License_EndTrialNoExtension_ExplanationBusiness" xml:space="preserve">
+    <value>Your Mailbird Business extended trial has reached its end. You can choose between Mailbird or Mailbird  Business. Continue using features such as Snooze, Exchange support and more features to come, get Mailbird Business now.</value>
+    <comment>End of trial text explanation when it can not be extended</comment>
+  </data>
+  <data name="License_EndTrial_ExplanationBusiness" xml:space="preserve">
+    <value>To continue using Mailbird Business with Exchange support, LinkedIn lookup, Inline reply and much more, you will need to purchase Mailbird Business.</value>
+    <comment>Explanation when trial ends</comment>
+  </data>
+  <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
+    <value>We understand that you may need more time to test all of the Mailbird Business features. Here is an additional {0} days for you to fall in love with Mailbird Business.</value>
+    <comment>Trial extension explanation</comment>
+  </data>
+  <data name="License_TrialExtension_Header" xml:space="preserve">
+    <value>Great! You have requested more time</value>
+    <comment>Header in windows when extending trial</comment>
+  </data>
+  <data name="License_WelcomeBasic_Calendar" xml:space="preserve">
+    <value>Native calendar</value>
+    <comment>Feature native calendar</comment>
+  </data>
+  <data name="License_WelcomeBasic_SpeedRead" xml:space="preserve">
+    <value>Speed reader</value>
+    <comment>Feature speed reading</comment>
+  </data>
+  <data name="License_WelcomeBasic_UnifiedAccount" xml:space="preserve">
+    <value>Unified account</value>
+    <comment>Feature unified account</comment>
+  </data>
+  <data name="Dialog_LiteLicenseRetrieved" xml:space="preserve">
+    <value>Congratulations!</value>
+    <comment>Confirmation dialog header text when user is getting lite license</comment>
+  </data>
+  <data name="Dialog_LiteLicenseRetrieved_Explanation" xml:space="preserve">
+    <value>Your Mailbird Lite license has been activated and is valid for life.</value>
+    <comment>Confirmation dialog body text when user is getting lite license</comment>
+  </data>
+  <data name="Dialog_OfflineRestartRequired" xml:space="preserve">
+    <value>Attention</value>
+    <comment>Message box header to restart Mailbird</comment>
+  </data>
+  <data name="Dialog_OfflineRestartRequired_Explanation" xml:space="preserve">
+    <value>Mailbird will restart and go offline.</value>
+    <comment>Message box explanation to restart Mailbird</comment>
+  </data>
+  <data name="License_TrialReminder_HeaderSingular" xml:space="preserve">
+    <value>Your trial will end in {0} day</value>
+    <comment>Nb {0} will be replaced by number</comment>
+  </data>
+  <data name="Notification_OfflineMode" xml:space="preserve">
+    <value>Mailbird is offline</value>
+    <comment>Notification message when Mailbird is on offline mode</comment>
+  </data>
+  <data name="UpgradeToPro_Business" xml:space="preserve">
+    <value>Business (Annually)</value>
+    <comment>Type of Mailbird license: Business</comment>
+  </data>
+  <data name="Upgrade_Exchange" xml:space="preserve">
+    <value>Purchase Mailbird Business to use Exchange accounts.</value>
+    <comment>Feature description</comment>
+  </data>
+  <data name="Upgrade_LinkedInLookup" xml:space="preserve">
+    <value>Purchase Mailbird Business to use LinkedIn lookup feature.</value>
+    <comment>Feature description</comment>
+  </data>
+  <data name="Disabled_IdentityExchange" xml:space="preserve">
+    <value>This identity is disabled. Purchase Mailbird Business to send from Exchange account.</value>
+    <comment>Tooltip when identity is disabled due to using Mailbird personal</comment>
+  </data>
+  <data name="Disabled_AccountExchange" xml:space="preserve">
+    <value>This account has been disabled because Exchange is not supported by your license.</value>
+    <comment>Tooltip when account is disabled due to not supported in the license type</comment>
+  </data>
+  <data name="Dialog_LiteLicenseError" xml:space="preserve">
+    <value>Could not get Lite license</value>
+    <comment>Could not get Lite license</comment>
+  </data>
+  <data name="Dialog_LiteLicenseError_Explanation" xml:space="preserve">
+    <value>That didn't work. Please [link href={0}]contact support[/link] to get your Lite license.</value>
+    <comment>Error message on the explanation</comment>
+  </data>
+  <data name="Upgrade_Apps" xml:space="preserve">
+    <value>Purchase Mailbird to use this app.</value>
+    <comment>Feature description</comment>
+  </data>
+  <data name="Upgrade_AppsBusiness" xml:space="preserve">
+    <value>Purchase Mailbird Business to use Slack, FormSwift, Feedly and many other apps.</value>
+    <comment>Feature description</comment>
+  </data>
+  <data name="License_OfflineWelcome_Explanation" xml:space="preserve">
+    <value>You cannot add a new account without a valid license.
+
+If you wish to continue using Mailbird you can purchase a license below or enter an existing license key.</value>
+    <comment>Explanation when Mailbird has offline in welcome window</comment>
+  </data>
+  <data name="Welcome_Exchange" xml:space="preserve">
+    <value>Exchange accounts are only available in Mailbird Business.</value>
+    <comment>Warning text when trying to add exchange account while license is not business</comment>
+  </data>
+  <data name="Dialog_Downgrade" xml:space="preserve">
+    <value>You're leaving {0}</value>
+    <comment>Message box header when license is downgraded, Nb: You're leaving Mailbird Business</comment>
+  </data>
+  <data name="Dialog_Downgrade_Explanation" xml:space="preserve">
+    <value>{0} will activate after restarting. To get the best out of Mailbird, you can always change to Mailbird Business in the future.</value>
+    <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
+  </data>
+  <data name="License_MailbirdLite" xml:space="preserve">
+    <value>Lite</value>
+    <comment>Mailbird Lite, see resource with key License_Mailbird</comment>
+  </data>
+  <data name="License_OfflineWelcome_Header" xml:space="preserve">
+    <value>License required</value>
+    <comment>Header when Mailbird has gone offline before adding any account</comment>
+  </data>
+  <data name="License_OfflineWelcome_SubHeader" xml:space="preserve">
+    <value>Mailbird is now offline</value>
+    <comment>SubHeader when Mailbird has gone offline before adding any account</comment>
+  </data>
+  <data name="License_Trial" xml:space="preserve">
+    <value>{0} trial</value>
+    <comment>{0} will be replaced with license name, e.g. Mailbird Business</comment>
+  </data>
+  <data name="License_Mailbird" xml:space="preserve">
+    <value>Mailbird {0}</value>
+    <comment>Label for license, e.g. Mailbird Business</comment>
+  </data>
+  <data name="License_Offline" xml:space="preserve">
+    <value>Mailbird is offline.</value>
+    <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
 </root>
