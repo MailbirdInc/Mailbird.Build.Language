@@ -3859,8 +3859,9 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird vil genstarte og fjerne konto(er) som allerede er tilføjet.
-Er du sikker på du vil fortsætte?</value>
+    <value>Mailbird will restart and remove any accounts that you've already added.
+
+Are you sure you want to continue?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
   </data>
@@ -5794,7 +5795,7 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
   <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose pricing plan:</value>
+    <value>Choose version and payment plan:</value>
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
   <data name="NewMessage_NewMessageSingular" xml:space="preserve">
@@ -7085,10 +7086,6 @@ your Inbox.</value>
     <value>{0} contact selected</value>
     <comment>Label to show how many contact selected</comment>
   </data>
-  <data name="UpgradeToPro_Annual" xml:space="preserve">
-    <value>Personal (Annually)</value>
-    <comment>Type of Mailbird license: personal</comment>
-  </data>
   <data name="UpgradeToPro_FirstName" xml:space="preserve">
     <value>First name</value>
     <comment>First name</comment>
@@ -7102,7 +7099,7 @@ your Inbox.</value>
     <comment>Last name</comment>
   </data>
   <data name="UpgradeToPro_Lifetime" xml:space="preserve">
-    <value>Personal (Pay once)</value>
+    <value>Lifetime</value>
     <comment>Type of Mailbird license: personal pay once</comment>
   </data>
   <data name="Upgrade_Subtitle" xml:space="preserve">
@@ -7148,7 +7145,7 @@ These requests will open in your default browser and each must be completed with
     <comment>Nb {0} will be replaced by number</comment>
   </data>
   <data name="License_PurchaseDiscount" xml:space="preserve">
-    <value>Get Mailbird {0}% off</value>
+    <value>Buy - {0}% OFF</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount</comment>
   </data>
@@ -7198,11 +7195,12 @@ Which version you would like to try?</value>
     <comment>Button to ask extra trial days</comment>
   </data>
   <data name="License_NewLite_Explanation" xml:space="preserve">
-    <value>In our latest newsletter, we highlight that new users have the choice of the awesome brand new Mailbird or Mailbird Business. You've been with us for a while, and we appreciate that! So we'd like to give you the option keep your Mailbird Lite License forever - this option will not be available to new users.
+    <value>In our latest newsletter we highlighted that Mailbird Lite would no longer be available to new users, and they would instead have the choice of the awesome new Mailbird Personal or Mailbird Business version.
 
-A unique license will be provided, so you can continue using Mailbird Lite without any changes. Mailbird Lite will no longer be updated as we transition to the new product lineup.
+But you've been with us for a while, and we appreciate that! So we'd like to give you the additional option of keeping your Mailbird Lite license forever - this option will not be available to new users.
+A unique license will therefore be provided, so you can continue using Mailbird Lite without any changes.
 
-So you don't miss out on all the many great upcoming Mailbird updates and improvements, we highly recommend a one time upgrade to the best never versions, simply called Mailbird or Mailbird Business.</value>
+Mailbird Lite will no longer be updated with new features though as we transition to the new product lineup, so in order to not miss out on all the many great upcoming Mailbird updates and improvements, like the soon to be released native calendar, we highly recommend a one time upgrade, at a much reduced price, to one of the new versions, Mailbird Personal or Mailbird Business.</value>
     <comment>Explanation of the new lite version</comment>
   </data>
   <data name="License_NewLite_Header" xml:space="preserve">
@@ -7214,13 +7212,13 @@ So you don't miss out on all the many great upcoming Mailbird updates and improv
     <comment>Sub header for the new lite version</comment>
   </data>
   <data name="License_Offline_Explanation" xml:space="preserve">
-    <value>All of your emails in your Inbox will still be accessible. However, you will not be able to send or receive new emails.
+    <value>All of your existing emails will still be accessible, but you will not be able to send or receive new ones.
 
-Was that all a misunderstanding and you wish to continue Mailbird? No worries you can purchase Mailbird at any time, or enter the license key below.</value>
+Was that all a misunderstanding and you wish to continue using Mailbird? No problem, you can purchase Mailbird at any time or enter an existing license key below.</value>
     <comment>Explanation when Mailbird has offline</comment>
   </data>
   <data name="License_Offline_Header" xml:space="preserve">
-    <value>You have decided to discontinue Mailbird</value>
+    <value>License required to keep using Mailbird</value>
     <comment>Header when Mailbird has gone offline</comment>
   </data>
   <data name="License_Offline_SubHeader" xml:space="preserve">
@@ -7232,7 +7230,7 @@ Was that all a misunderstanding and you wish to continue Mailbird? No worries yo
     <comment>Button to start trial</comment>
   </data>
   <data name="License_TrialExtension_Explanation" xml:space="preserve">
-    <value>We understand that you may need more time to test all of the Mailbird features. Here is an additional {0} days to fall in love with Mailbird.</value>
+    <value>We understand that you may need more time to test all of the features in Mailbird. Here is an additional {0} days for you to fall in love with Mailbird.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_SubHeader" xml:space="preserve">
@@ -7240,7 +7238,7 @@ Was that all a misunderstanding and you wish to continue Mailbird? No worries yo
     <comment>Trial extension sub header</comment>
   </data>
   <data name="License_TrialReminder_NoDiscountExplanation" xml:space="preserve">
-    <value>This is just a friendly reminder that your trial will expire soon. If you feel like you have had enough time to try all features, then you can now purchase Mailbird now.</value>
+    <value>This is just a friendly reminder that your trial will expire soon. If you already love Mailbird we've included a button to purchase Mailbird now.</value>
     <comment>Body copy for trial reminder window without discount</comment>
   </data>
   <data name="License_WelcomeBasic_Header" xml:space="preserve">
@@ -7292,7 +7290,7 @@ Was that all a misunderstanding and you wish to continue Mailbird? No worries yo
     <comment>Header for welcome to mailbird business trial window</comment>
   </data>
   <data name="License_Welcome_Question" xml:space="preserve">
-    <value>If you have any questions please [link href={0}]contact support[/link]. And we will get back to you asap.</value>
+    <value>If you have any questions please [link href={0}]contact support[/link] and we will get back to you asap.</value>
     <comment>Copy for welcome to trial</comment>
   </data>
   <data name="Dialog_TrialExtended" xml:space="preserve">
@@ -7308,7 +7306,9 @@ Was that all a misunderstanding and you wish to continue Mailbird? No worries yo
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrialNoExtension_ExplanationBusiness" xml:space="preserve">
-    <value>Your Mailbird Business extended trial has reached its end. You can choose between Mailbird or Mailbird  Business. Continue using features such as Snooze, Exchange support and more features to come, get Mailbird Business now.</value>
+    <value>Your Mailbird Business trial to experience everything Mailbird has to offer has reached its end.
+
+You can now choose between Mailbird Personal or Mailbird Business depending on your needs.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrial_ExplanationBusiness" xml:space="preserve">
@@ -7316,11 +7316,11 @@ Was that all a misunderstanding and you wish to continue Mailbird? No worries yo
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
-    <value>We understand that you may need more time to test all of the Mailbird Business features. Here is an additional {0} days for you to fall in love with Mailbird Business.</value>
+    <value>We understand that you may need more time to test all of the features in Mailbird Business. Here is an additional {0} days for you to fall in love with Mailbird.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_Header" xml:space="preserve">
-    <value>Great! You have requested more time</value>
+    <value>Wait! How about a few more days?</value>
     <comment>Header in windows when extending trial</comment>
   </data>
   <data name="License_WelcomeBasic_Calendar" xml:space="preserve">
@@ -7360,7 +7360,7 @@ Was that all a misunderstanding and you wish to continue Mailbird? No worries yo
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_Business" xml:space="preserve">
-    <value>Business (Annually)</value>
+    <value>BUSINESS</value>
     <comment>Type of Mailbird license: Business</comment>
   </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
@@ -7434,7 +7434,23 @@ If you wish to continue using Mailbird you can purchase a license below or enter
     <comment>Label for license, e.g. Mailbird Business</comment>
   </data>
   <data name="License_Offline" xml:space="preserve">
-    <value>Mailbird is offline.</value>
+    <value>Mailbird is offline. License required.</value>
     <comment>Label in about window when Mailbird is on offline mode</comment>
+  </data>
+  <data name="UpgradeToPro_Personal" xml:space="preserve">
+    <value>PERSONAL</value>
+    <comment>Type of Mailbird license: personal</comment>
+  </data>
+  <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
+    <value>(paid annually)</value>
+    <comment>Text to explain the payment is annually.</comment>
+  </data>
+  <data name="UpgradeToPro_PayOnce" xml:space="preserve">
+    <value>(pay once)</value>
+    <comment>Text to explain the payment is one time.</comment>
+  </data>
+  <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
+    <value>Choose a version and payment plan below that's right for you.</value>
+    <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
 </root>
