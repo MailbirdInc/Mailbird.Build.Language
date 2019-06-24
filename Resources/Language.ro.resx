@@ -3169,7 +3169,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>License key</comment>
   </data>
   <data name="Menu_Purchase" xml:space="preserve">
-    <value>Cumpără Mailbird</value>
+    <value>Aciziționează Mailbird</value>
     <comment>Upgrade to Mailbird Pro</comment>
   </data>
   <data name="Options_ActivatePro" xml:space="preserve">
@@ -3181,7 +3181,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} zile rămase din versiunea de încercare. După terminarea procesului, va trebui să achiziționați licența, altfel, Mailbird va fi deconectat.</value>
+    <value>{0} zile rămase din versiunea de încercare. După terminarea  acestei perioade, va trebui să achiziționați licența, or Mailbird va fi deconectat.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -4418,7 +4418,7 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Cumpărați Mailbird acum!</value>
+    <value>Achiziționează Mailbird acum!</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
@@ -5212,7 +5212,7 @@ Acest lucru va dezactiva sincronizarea contactelor și va elimina grupurile și 
     <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>Pentru a continua să profitați la maximum de Mailbird, cu amânare, conturi nelimitate și multe altele, va trebui să cumpărați Mailbird.</value>
+    <value>Pentru a continua să profitați la maximum de Mailbird, de funcția „snooze”, conturi nelimitate și multe altele, va trebui să cumpărați Mailbird.</value>
     <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
@@ -5686,11 +5686,11 @@ Altă noutate, „corelarea” permițându-vă să conectați împreună contac
     <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
-    <value>Această identitate este dezactivată datorită activării înregistrării serverului.</value>
+    <value>Această identitate este dezactivată întrucât este activată funcția de  autentificare prin server.</value>
     <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>Acest cont a fost dezactivat deoarece ați atins limita de cont în licența dvs.</value>
+    <value>Acest cont a fost dezactivat deoarece ați atins limita de conturi în licența dvs.</value>
     <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
@@ -5706,7 +5706,7 @@ Altă noutate, „corelarea” permițându-vă să conectați împreună contac
     <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Unele conturi au fost dezactivate, deoarece versiunea dvs. de încercare Mailbird s-a încheiat. Acum folosiți Mailbird Lite. Mailbird Lite acceptă {0} cont(uri) de email gratuit(e) pe viață. Achiziționați Mailbird pentru a continua să utilizați toate conturile dvs.</value>
+    <value>Unele conturi au fost dezactivate, deoarece versiunea dvs. de încercare a Mailbird s-a încheiat. Acum folosiți Mailbird Lite. Mailbird Lite acceptă {0} cont(uri) de email gratuit(e) pe viață. Achiziționați Mailbird pentru a continua să utilizați toate conturile dvs.</value>
     <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
@@ -5800,7 +5800,7 @@ Reporniți acum pentru a obține cele mai recente îmbunătățiri și remedieri
     <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
   <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Alegeți versiunea și planul de plată:</value>
+    <value>Alegeți versiunea și modalitatea de plată:</value>
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
   <data name="NewMessage_NewMessageSingular" xml:space="preserve">
@@ -7067,7 +7067,7 @@ Inbox-ul dvs.</value>
     <comment>Field for calendar's color</comment>
   </data>
   <data name="App_ZeroBounce_Description" xml:space="preserve">
-    <value>Sistemul principal de validare a emailului. Ajungeți la mesajele primite prin eliminarea emailurilor riscante din lista dvs.</value>
+    <value>Sistemul principal de validare a emailului. Accesați inbox prin eliminarea emailurilor riscante din lista dvs.</value>
     <comment>App description for ZeroBounce.</comment>
   </data>
   <data name="App_Calendar_SyncDetails" xml:space="preserve">
@@ -7075,7 +7075,7 @@ Inbox-ul dvs.</value>
     <comment>Warning about some properties those can't be synced</comment>
   </data>
   <data name="App_Calendar_SyncDetailsAllDayNotification" xml:space="preserve">
-    <value>Toate notificările de zi</value>
+    <value>Notificări pentru întreaga zi</value>
     <comment>All day notifications field</comment>
   </data>
   <data name="App_Calendar_SyncDetailsAllProperties" xml:space="preserve">
@@ -7129,7 +7129,7 @@ Inbox-ul dvs.</value>
   <data name="Dialog_RequiresReAuthorizationExplanation" xml:space="preserve">
     <value>Mailbird trebuie să fie autorizat din nou cu unul sau mai multe conturi pentru a continua accesarea acestora.
 
-Aceste cereri se vor deschide în browserul dvs. prestabilit și fiecare trebuie să fie completată cu contul inițial utilizat.</value>
+Aceste cereri se vor deschide în browserul dvs. prestabilit și fiecare dintre acestea trebuie să fie completată cu contul inițial utilizat.</value>
     <comment>Message of dialog shown when Mailbird needs to re-authorize one or more accounts using OAuth2.</comment>
   </data>
   <data name="License_EnterLicense" xml:space="preserve">
@@ -7141,7 +7141,7 @@ Aceste cereri se vor deschide în browserul dvs. prestabilit și fiecare trebuie
     <comment>Button to dismiss offer</comment>
   </data>
   <data name="License_TrialReminder_Explanation" xml:space="preserve">
-    <value>Acesta este doar un memento prietenos prin care versiunea dvs. de încercare va expira în curând. Dacă simțiți că ați avut timp suficient pentru a încerca toate funcțiile, puteți cumpăra acum Mailbird cu {0}% mai puțin. Această ofertă va expira o dată cu versiunea de încercare.</value>
+    <value>Acesta este doar un memento prin care  vă anunțăm că versiunea dvs. de încercare va expira în curând. Dacă simțiți că ați avut timp suficient pentru a încerca toate funcțiile, puteți cumpăra acum Mailbird cu {0}% mai puțin. Această ofertă va expira o dată cu versiunea de încercare.</value>
     <comment>Body copy for trial reminder window</comment>
   </data>
   <data name="License_TrialReminder_HeaderPlural" xml:space="preserve">
@@ -7154,7 +7154,7 @@ Aceste cereri se vor deschide în browserul dvs. prestabilit și fiecare trebuie
 NB {0} will be replaced with the amount of discount</comment>
   </data>
   <data name="License_TrialReminder_SubHeader" xml:space="preserve">
-    <value>Sunteți în prezent în perioada gratuită de încercare Mailbird</value>
+    <value>În prezent dispuneți de perioada gratuită de încercare Mailbird</value>
     <comment>Subheader in trial reminder window</comment>
   </data>
   <data name="License_Purchase" xml:space="preserve">
@@ -7171,7 +7171,7 @@ Ce versiune doriți să încercați?</value>
     <comment>Button to dismiss offer</comment>
   </data>
   <data name="License_EndTrial_Explanation" xml:space="preserve">
-    <value>Pentru a continua să utilizați Mailbird cu cont Unificat, calendarul Nativ, răspunsul Inline și multe altele, va trebui să achiziționați Mailbird.</value>
+    <value>Pentru a continua să utilizați Mailbird cu funcțiile de cont Unificat, calendar Nativ, răspuns Inline și multe altele, va trebui să achiziționați Mailbird.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_EndTrial_Header" xml:space="preserve">
@@ -7187,7 +7187,7 @@ Ce versiune doriți să încercați?</value>
     <comment>Button to extend trial</comment>
   </data>
   <data name="License_FeatureComparison" xml:space="preserve">
-    <value>Consultați compararea caracteristicilor</value>
+    <value>Consultați compararea tuturor caracteristicilor</value>
     <comment>Button for looking the feature comparison</comment>
   </data>
   <data name="License_GetLiteLicense" xml:space="preserve">
@@ -7199,12 +7199,12 @@ Ce versiune doriți să încercați?</value>
     <comment>Button to ask extra trial days</comment>
   </data>
   <data name="License_NewLite_Explanation" xml:space="preserve">
-    <value>În ultimul nostru buletin informativ am subliniat că Mailbird Lite nu mai este disponibil pentru utilizatorii noi și ei ar avea în schimb posibilitatea de a alege minunata versiune Mailbird Personal sau Mailbird Business.
+    <value>În ultimul nostru buletin informativ am subliniat că Mailbird Lite nu mai este disponibil pentru utilizatorii noi și că ei vor avea în schimb posibilitatea de a alege versiune Mailbird Personal sau Mailbird Business.
 
 Dar ați fost cu noi o vreme și apreciem asta! Așadar, am dori să vă oferim opțiunea suplimentară de a păstra permanent licența dvs. Mailbird Lite - această opțiune nu va fi disponibilă utilizatorilor noi.
-Prin urmare, va fi furnizată o licență unică, astfel încât să puteți continua să utilizați Mailbird Lite fără nicio modificare.
+Prin urmare, vă va fi furnizată o licență unică, astfel încât să puteți continua să utilizați Mailbird Lite fără nicio modificare.
 
-Mailbird Lite nu va mai fi actualizat cu noile caracteristici, deși trecem la noua gamă de produse, astfel încât, pentru a nu pierde toate numeroasele actualizări și îmbunătățiri viitoare ale programului Mailbird, cum ar fi calendarul nativ lansat în curând, vă recomandăm o actualizare unică, la un preț mult mai redus, la una dintre versiunile noi, Mailbird Personal sau Mailbird Business.</value>
+Mailbird Lite nu va mai fi actualizat cu noile caracteristici, deși trecem la noua gamă de produse, astfel încât, pentru a nu pierde viitoarele actualizări și îmbunătățiri ale programului Mailbird, cum ar fi calendarul nativ lansat în curând, vă recomandăm o actualizare unică, la un preț mult mai redus, la una dintre versiunile noi, Mailbird Personal sau Mailbird Business.</value>
     <comment>Explanation of the new lite version</comment>
   </data>
   <data name="License_NewLite_Header" xml:space="preserve">
@@ -7216,9 +7216,9 @@ Mailbird Lite nu va mai fi actualizat cu noile caracteristici, deși trecem la n
     <comment>Sub header for the new lite version</comment>
   </data>
   <data name="License_Offline_Explanation" xml:space="preserve">
-    <value>Toate emailurile existente vor fi în continuare accesibile, dar nu veți putea să le trimiteți sau să le primiți pe cele noi.
+    <value>Toate emailurile existente vor fi în continuare accesibile, dar nu veți putea să  trimiteți sau să primiți emailuri noi.
 
-A fost o neînțelegere și doriți să continuați să utilizați Mailbird? Nici o problemă, puteți achiziționa Mailbird în orice moment sau introduceți o cheie de licență existentă, mai jos.</value>
+A fost o neînțelegere și doriți să continuați să utilizați Mailbird? Nici o problemă, puteți achiziționa Mailbird în orice moment sau să introduceți o cheie de licență existentă, mai jos.</value>
     <comment>Explanation when Mailbird has offline</comment>
   </data>
   <data name="License_Offline_Header" xml:space="preserve">
@@ -7242,7 +7242,7 @@ A fost o neînțelegere și doriți să continuați să utilizați Mailbird? Nic
     <comment>Trial extension sub header</comment>
   </data>
   <data name="License_TrialReminder_NoDiscountExplanation" xml:space="preserve">
-    <value>Acesta este doar un memento prietenos care vă anunță că versiunea dvs. de încercare va expira curând. Dacă vă place deja Mailbird, am inclus un buton pentru a achiziționa Mailbird acum.</value>
+    <value>Acesta este doar un memento prin care vă anunțăm că versiunea dvs. de încercare va expira curând. Dacă vă place deja Mailbird, am inclus un buton pentru a achiziționa Mailbird acum.</value>
     <comment>Body copy for trial reminder window without discount</comment>
   </data>
   <data name="License_WelcomeBasic_Header" xml:space="preserve">
@@ -7258,7 +7258,7 @@ A fost o neînțelegere și doriți să continuați să utilizați Mailbird? Nic
     <comment>Mailbird Business, see resource with key License_Mailbird</comment>
   </data>
   <data name="License_WelcomeBasic_MailbirdBusinessFeatures" xml:space="preserve">
-    <value>(Include toate caracteristicile Mailbird plus suport pentru Exchange, căutare LinkedIn, suport prioritar, etc.)</value>
+    <value>(Include toate caracteristicile Mailbird plus suport pentru Exchange, căutare LinkedIn, suport prioritar etc.)</value>
     <comment>Label for business features</comment>
   </data>
   <data name="License_WelcomeBusiness_Explanation" xml:space="preserve">
@@ -7306,13 +7306,13 @@ A fost o neînțelegere și doriți să continuați să utilizați Mailbird? Nic
     <comment>Explanation for messagebox</comment>
   </data>
   <data name="License_EndTrialNoExtension_Explanation" xml:space="preserve">
-    <value>Versiunea dvs. de încercare extinsă pentru Mailbird a ajuns la final. Acum puteți alege între Mailbird sau Mailbird Business. Vă recomandăm în mod deosebit Mailbird Business pentru a obține cea mai bună soluție de email pentru dvs.</value>
+    <value>Versiunea extinsă de încercare a Mailbird a ajuns la final. Acum puteți alege între Mailbird sau Mailbird Business. Vă recomandăm în mod deosebit Mailbird Business pentru a obține cea mai bună soluție de email pentru dvs.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrialNoExtension_ExplanationBusiness" xml:space="preserve">
-    <value>Perioada dvs. de încercare Mailbird Business pentru a experimenta tot ce Mailbird are de oferit, a ajuns la final.
+    <value>Perioada dvs. de încercare Mailbird Business pentru a experimenta tot ceea ce Mailbird are de oferit, a ajuns la final.
 
-Puteți alege acum între Mailbird Personal sau Mailbird Business în funcție de nevoile dvs.</value>
+Puteți alege acum între Mailbird Personal sau Mailbird Business, în funcție de nevoile dvs.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrial_ExplanationBusiness" xml:space="preserve">
@@ -7320,7 +7320,7 @@ Puteți alege acum între Mailbird Personal sau Mailbird Business în funcție d
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
-    <value>Înțelegem că este posibil să aveți nevoie de mai mult timp pentru a testa toate funcțiile din Business Mailbird. Iată {0} zile în plus pentru a vă îndrăgosti de Mailbird.</value>
+    <value>Înțelegem că este posibil să aveți nevoie de mai mult timp pentru a testa toate funcțiile din Business Mailbird. Vă oferim încă {0} zile pentru a vă îndrăgosti de Mailbird.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_Header" xml:space="preserve">
@@ -7380,7 +7380,7 @@ Puteți alege acum între Mailbird Personal sau Mailbird Business în funcție d
     <comment>Tooltip when identity is disabled due to using Mailbird personal</comment>
   </data>
   <data name="Disabled_AccountExchange" xml:space="preserve">
-    <value>Acest cont a fost dezactivat deoarece Exchange nu este acceptat de licența dvs.</value>
+    <value>Acest cont a fost dezactivat, întrucât Exchange nu este acceptat de licența dvs.</value>
     <comment>Tooltip when account is disabled due to not supported in the license type</comment>
   </data>
   <data name="Dialog_LiteLicenseError" xml:space="preserve">
@@ -7388,7 +7388,7 @@ Puteți alege acum între Mailbird Personal sau Mailbird Business în funcție d
     <comment>Could not get Lite license</comment>
   </data>
   <data name="Dialog_LiteLicenseError_Explanation" xml:space="preserve">
-    <value>Asta nu a funcționat. Vă rugăm să [link href={0}]contactați asistența[/link] pentru a obține licența dvs. Lite.</value>
+    <value>Aceasta nu a funcționat. Vă rugăm să [link href={0}]contactați asistența[/link] pentru a obține licența dvs. Lite.</value>
     <comment>Error message on the explanation</comment>
   </data>
   <data name="Upgrade_Apps" xml:space="preserve">
@@ -7402,7 +7402,7 @@ Puteți alege acum între Mailbird Personal sau Mailbird Business în funcție d
   <data name="License_OfflineWelcome_Explanation" xml:space="preserve">
     <value>Nu puteți adăuga un cont nou fără o licență validă.
 
-Dacă doriți să continuați să utilizați Mailbird, puteți achiziționa mai jos o licență sau introduceți o cheie de licență existentă.</value>
+Dacă doriți să continuați să utilizați Mailbird, puteți achiziționa de mai jos o licență sau introduceți o cheie de licență existentă.</value>
     <comment>Explanation when Mailbird has offline in welcome window</comment>
   </data>
   <data name="Welcome_Exchange" xml:space="preserve">
@@ -7438,7 +7438,7 @@ Dacă doriți să continuați să utilizați Mailbird, puteți achiziționa mai 
     <comment>Label for license, e.g. Mailbird Business</comment>
   </data>
   <data name="License_Offline" xml:space="preserve">
-    <value>Mail este în modul offline. Licență necesară.</value>
+    <value>Mailbird este în modul offline. Licență necesară.</value>
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_Personal" xml:space="preserve">
