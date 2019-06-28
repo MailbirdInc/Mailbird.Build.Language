@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -510,9 +510,9 @@ Message:</comment>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>An error occured trying to verify the connection settings. Please check that everything has been input correctly.
+    <value>Si è verificato un errore durante la verifica della connessione. Controlla che tutti i campi siano corretti.
 
-Read more:
+Qua trovi alcuni suggerimenti:
 https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
@@ -987,7 +987,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search Attachments</comment>
   </data>
   <data name="App_Calendar_Description" xml:space="preserve">
-    <value>Manage many calendars at the same time, create events and organize meetings online and offline.</value>
+    <value>Gestisci più calendari, crea eventi e organizza incontri online e offline.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
@@ -1143,7 +1143,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
-    <value>Your license is valid.</value>
+    <value>La tua licenza è valida.</value>
     <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
@@ -1395,7 +1395,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>wrote</comment>
   </data>
   <data name="Migration_Updating" xml:space="preserve">
-    <value>Updating database...</value>
+    <value>Aggiornamento del database...</value>
     <comment>Updating database... please wait</comment>
   </data>
   <data name="NewMessages_BaloonHeader" xml:space="preserve">
@@ -3167,11 +3167,11 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>License key</comment>
   </data>
   <data name="Menu_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird</value>
+    <value>Acquista Mailbird</value>
     <comment>Upgrade to Mailbird Pro</comment>
   </data>
   <data name="Options_ActivatePro" xml:space="preserve">
-    <value>Activate Mailbird license</value>
+    <value>Attiva licenza Mailbird</value>
     <comment>Activate Mailbird Pro</comment>
   </data>
   <data name="Options_StatusLite" xml:space="preserve">
@@ -3179,7 +3179,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} days remaining of your trial. After the trial ends you'll need to purchase license, otherwise Mailbird will go offline.</value>
+    <value>{0} giorni rimanenti nel periodo di prova. Dopo la scadenza dovrai acquistare una licenza, altrimenti Mailbird non funzionerà più.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -3211,7 +3211,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Learn more</comment>
   </data>
   <data name="Trial_Purchase" xml:space="preserve">
-    <value>Buy Mailbird</value>
+    <value>Acquista Mailbird</value>
     <comment>Buy Mailbird Pro</comment>
   </data>
   <data name="Trial_SwitchLite" xml:space="preserve">
@@ -3243,9 +3243,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.
+    <value>Non è stato possibile inviare il messaggio. Controlla nelle impostazioni che l'identità mittente per il server in uscita sia impostata correttamente.
 
-Read more:
+Altri consigli:
 https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>Mailbird was unable to send the message. Please check your 'From' identity's outgoing server settings.</comment>
   </data>
@@ -3709,7 +3709,7 @@ Se il problema persiste, per favore contatta il supporto.</value>
 If you continue to experience this error, please contact support.</comment>
   </data>
   <data name="App_Loading" xml:space="preserve">
-    <value>{0} is loading...</value>
+    <value>Caricamento di {0}...</value>
     <comment>Loading...</comment>
   </data>
   <data name="RateRecommend_TwitterMessage" xml:space="preserve">
@@ -3862,9 +3862,9 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Importing data</comment>
   </data>
   <data name="Welcome_CancelImportDescription" xml:space="preserve">
-    <value>Mailbird will restart and remove any accounts that you've already added.
+    <value>Mailbird si riavvierà e rimuoverà gli account che hai già aggiunto.
 
-Are you sure you want to continue?</value>
+Vuoi continuare?</value>
     <comment>Mailbird will restart and remove account(s) that you've already added. 
 Are you sure you want to continue?</comment>
   </data>
@@ -4401,7 +4401,7 @@ Please select another image to use as a background.</comment>
     <comment>Remove</comment>
   </data>
   <data name="Options_RetrieveLicense" xml:space="preserve">
-    <value>Retrieve license key</value>
+    <value>Recupera chiave di licenza</value>
     <comment>Retrieve License Key</comment>
   </data>
   <data name="App_Chrome_Description" xml:space="preserve">
@@ -4417,7 +4417,7 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Purchase Mailbird now!</value>
+    <value>Acquista Mailbird ora!</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
@@ -5211,7 +5211,7 @@ La sincronizzazione dei contatti verrà disabilitata e saranno rimossi i relativ
     <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird.</value>
+    <value>Per continuare a usare Mailbird, incluse le funzioni posticipa email, account illimitati e molto altro, devi acquistare Mailbird.</value>
     <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
@@ -5681,7 +5681,7 @@ Prova adesso la nuova app Contatti!</value>
     <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>This identity is disabled. Purchase Mailbird to enjoy unlimited accounts.</value>
+    <value>Questa identità è disabilitata. Acquista Mailbird per poter aggiungere account illimitati.</value>
     <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
@@ -5689,7 +5689,7 @@ Prova adesso la nuova app Contatti!</value>
     <comment>Tooltip when identity is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_AccountLite" xml:space="preserve">
-    <value>This account has been disabled because you have reached the account limit in your license.</value>
+    <value>Questo account è stato disabilitato perché hai raggiunto il limite previsto dalla tua licenza.</value>
     <comment>Tooltip when account is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_AccountServerLogging" xml:space="preserve">
@@ -5697,15 +5697,15 @@ Prova adesso la nuova app Contatti!</value>
     <comment>Tooltip when account is disabled due to server logging is on</comment>
   </data>
   <data name="Disabled_Notification" xml:space="preserve">
-    <value>Purchase Mailbird to keep receiving and sending emails from this account.</value>
+    <value>Acquista Mailbird per continuare a ricevere e inviare email tramite questo account.</value>
     <comment>Notification when an account is disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_UpgradeNow" xml:space="preserve">
-    <value>Buy now</value>
+    <value>Acquista ora</value>
     <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some of your accounts have been disabled because your Mailbird trial has ended. You are now using Mailbird Lite. Mailbird Lite supports {0} email account(s) free for life. Please purchase Mailbird in order to continue using all of your accounts.</value>
+    <value>Alcuni account sono stati disabilitati perché la tua prova di Mailbird è terminata. Stai ora usando Mailbird Lite. Mailbird Lite supporta {0} account email, gratis per sempre. Se vuoi continuare ad usare tutti i tuoi account, acquista Mailbird.</value>
     <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
@@ -5799,7 +5799,7 @@ Riavvia subito per applicare i miglioramenti, ci vorrà un secondo.</value>
     <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
   <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose version and payment plan:</value>
+    <value>Scegli la versione e il piano di pagamento:</value>
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
   <data name="NewMessage_NewMessageSingular" xml:space="preserve">
@@ -6015,45 +6015,45 @@ Vorremmo chiederti il permesso per inviarti occasionalmente messaggi riguardanti
     <comment>Button to purchase a license. The button appears after some other options.</comment>
   </data>
   <data name="Dialog_MailDllLicenseError" xml:space="preserve">
-    <value>Error starting Mailbird</value>
+    <value>Errore nell'avvio di Mailbird</value>
     <comment>Header of message shown when Mailbird fails to start due to a Mail.dll license issue.</comment>
   </data>
   <data name="Dialog_MailDllLicenseErrorExplanation" xml:space="preserve">
-    <value>An error occurred starting Mailbird. Please try restarting your computer and try again.
+    <value>Si è verificato un errore nell'avvio di Mailbird. Per favore prova a riavviare il computer e riprova.
 
-If the issue persists contact support at {0}</value>
+Se il problema persiste contatta il supporto: {0}</value>
     <comment>Message shown when Mailbird fails to start due to a Mail.dll license issue.</comment>
   </data>
   <data name="App_GoogleCalendar_Description" xml:space="preserve">
-    <value>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</value>
+    <value>Hai un impegno? Aggiungilo, traccialo e confermalo in Mailbird. Un'ottima app per gli utenti Gmail.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="WebBrowser_AddToBookmarks" xml:space="preserve">
-    <value>Add to bookmarks</value>
+    <value>Aggiungi ai preferiti</value>
     <comment>Tooltip to add to bookmarks</comment>
   </data>
   <data name="App_Calendar_Title" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Calendario</value>
     <comment>Name of native calendar app</comment>
   </data>
   <data name="App_Calendar_NoName" xml:space="preserve">
-    <value>(No title)</value>
+    <value>(Nessun titolo)</value>
     <comment>Default text when event doesn't have a name</comment>
   </data>
   <data name="App_Calendar_MenuRefreshSync" xml:space="preserve">
-    <value>Refresh and sync</value>
+    <value>Aggiorna e sincronizza</value>
     <comment>Menu to refresh and sync calendar</comment>
   </data>
   <data name="App_Calendar_MenuSettings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Impostazioni</value>
     <comment>Menu settings</comment>
   </data>
   <data name="App_Calendar_MenuSidebar" xml:space="preserve">
-    <value>Show left menu</value>
+    <value>Mostra menù laterale</value>
     <comment>Menu to show or hide left menu</comment>
   </data>
   <data name="App_Calendar_More" xml:space="preserve">
-    <value>{0} more</value>
+    <value>Altri {0}</value>
     <comment>Button to show more events in a day</comment>
   </data>
   <data name="App_Calendar_NewEvent" xml:space="preserve">
@@ -6061,19 +6061,19 @@ If the issue persists contact support at {0}</value>
     <comment>Button to create new event</comment>
   </data>
   <data name="App_Calendar_Next" xml:space="preserve">
-    <value>Next</value>
+    <value>Prossimo</value>
     <comment>Button to go to next month, week or day</comment>
   </data>
   <data name="App_Calendar_NoAccounts" xml:space="preserve">
-    <value>No connected accounts</value>
+    <value>Nessun account collegato</value>
     <comment>Label when there is no connected account in the list</comment>
   </data>
   <data name="App_Calendar_Prev" xml:space="preserve">
-    <value>Previous</value>
+    <value>Precedente</value>
     <comment>Button to go to previous month, week or day</comment>
   </data>
   <data name="App_Calendar_Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Oggi</value>
     <comment>Button to go to today's date</comment>
   </data>
   <data name="App_Calendar_ViewDay" xml:space="preserve">
@@ -6081,57 +6081,57 @@ If the issue persists contact support at {0}</value>
     <comment>Menu to change view type to day</comment>
   </data>
   <data name="App_Calendar_ViewMonth" xml:space="preserve">
-    <value>Month</value>
+    <value>Mese</value>
     <comment>Menu to change view type to month</comment>
   </data>
   <data name="App_Calendar_ViewWeek" xml:space="preserve">
-    <value>Week</value>
+    <value>Settimana</value>
     <comment>Menu to change view type to week</comment>
   </data>
   <data name="App_Calendar_ConnectAccount_LocalExplanation" xml:space="preserve">
-    <value>This account doesn't have support for calendar sync. However you still can use it locally.</value>
+    <value>Questo account non supporta la sincronizzazione del calendario. Puoi comunque utilizzarlo in locale.</value>
     <comment>Explanation for the default local account in calendar</comment>
   </data>
   <data name="App_Calendar_ConnectAccount_Unsupported" xml:space="preserve">
-    <value>(Unsupported)</value>
+    <value>(Non supportato)</value>
     <comment>Label for unsupported email account</comment>
   </data>
   <data name="App_Calendar_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
-    <value>Sorry, but this email account doesn't have support for calendar sync.</value>
+    <value>Ci dispiace, ma questo account non ha il supporto per la sincronizzazione del calendario.</value>
     <comment>Explanation when account is not supported for calendar sync</comment>
   </data>
   <data name="App_Calendar_Settings_SubHeader" xml:space="preserve">
-    <value>Select accounts below to connect and sync their calendar with Mailbird, or click the button to connect to another account.</value>
+    <value>Seleziona gli account per cui sincronizzare il calendario con Mailbird, oppure premi il pulsante per collegare un nuovo account.</value>
     <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Calendar_Settings_Title" xml:space="preserve">
-    <value>Accounts</value>
+    <value>Account</value>
     <comment>Title for "Accounts" window</comment>
   </data>
   <data name="App_Calendar_Settings_ConnectAccount" xml:space="preserve">
-    <value>+ Connect other account</value>
+    <value>+ Collega un altro account</value>
     <comment>Button to connect other account</comment>
   </data>
   <data name="App_Calendar_ConnectingAccount" xml:space="preserve">
-    <value>Connecting account...</value>
+    <value>Connessione account...</value>
     <comment>Loading message when connecting account</comment>
   </data>
   <data name="Dialog_DisconnectCalendarAccountExplanation" xml:space="preserve">
-    <value>Are you sure you want to disconnect the account?
+    <value>Sei sicuro di voler scollegare questo account?
 
-This will disable calendar sync from Mailbird.</value>
+La sincronizzazione del calendario con Mailbird verrà disabilitata.</value>
     <comment>Explanation for dialog window when user tries to disconnect account from Calendar</comment>
   </data>
   <data name="App_Calendar_Settings_TimeFormat" xml:space="preserve">
-    <value>Time format</value>
+    <value>Formato ora</value>
     <comment>Label to edit time format 24h or 12h</comment>
   </data>
   <data name="App_Calendar_Settings_TimeRegion" xml:space="preserve">
-    <value>Time and region</value>
+    <value>Orario e zona</value>
     <comment>Section in settings to customize time zone etc</comment>
   </data>
   <data name="App_Calendar_Settings_TimeZone" xml:space="preserve">
-    <value>Time zone</value>
+    <value>Fuso orario</value>
     <comment>Label to edit time zone in calendar</comment>
   </data>
   <data name="App_Calendar_Minutes" xml:space="preserve">
@@ -6139,23 +6139,23 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Leave the {0}, will be formatted to e.g. 30 minutes</comment>
   </data>
   <data name="App_Calendar_WeekAt" xml:space="preserve">
-    <value>Week {0}</value>
+    <value>Settimana {0}</value>
     <comment>Leave the {0}, will be formatted to e.g. Week 27</comment>
   </data>
   <data name="App_Calendar_Settings_DefaultEventDuration" xml:space="preserve">
-    <value>Default duration</value>
+    <value>Durata predefinita</value>
     <comment>Option to set default event duration</comment>
   </data>
   <data name="App_Calendar_Settings_EventSettings" xml:space="preserve">
-    <value>Event settings</value>
+    <value>Impostazioni evento</value>
     <comment>Section in calendar settings window for event related settings</comment>
   </data>
   <data name="App_Calendar_Settings_ShowWeekNumbers" xml:space="preserve">
-    <value>Show week numbers</value>
+    <value>Mostra numero settimana</value>
     <comment>Option to show or hide week numbers</comment>
   </data>
   <data name="App_Calendar_Settings_StartWeekOn" xml:space="preserve">
-    <value>Start week on</value>
+    <value>La settimana inizia di</value>
     <comment>Option to set first day of week</comment>
   </data>
   <data name="App_Calendar_Settings_ViewOptions" xml:space="preserve">
@@ -6163,19 +6163,19 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Section in calendar settings window for views related settings</comment>
   </data>
   <data name="App_Calendar_EventCreatedBy" xml:space="preserve">
-    <value>Created by: {0}</value>
+    <value>Creato da: {0}</value>
     <comment>Label to show the creator of an event, {0} will be replaced by the name</comment>
   </data>
   <data name="App_Calendar_GuestPlural" xml:space="preserve">
-    <value>{0} guests</value>
+    <value>{0} ospiti</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is more than 1</comment>
   </data>
   <data name="App_Calendar_GuestSingular" xml:space="preserve">
-    <value>{0} guest</value>
+    <value>{0} ospite</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is only 1</comment>
   </data>
   <data name="App_Calendar_ResponseMaybe" xml:space="preserve">
-    <value>{0} maybe</value>
+    <value>{0} indecisi</value>
     <comment>Number of maybe response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseNo" xml:space="preserve">
@@ -6183,19 +6183,19 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Number of no response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseUnknown" xml:space="preserve">
-    <value>{0} unknown</value>
+    <value>{0} senza risposta</value>
     <comment>Number of unknown response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseWaiting" xml:space="preserve">
-    <value>{0} awaiting</value>
+    <value>{0} in attesa di risposta</value>
     <comment>Number of waiting for response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseYes" xml:space="preserve">
-    <value>{0} yes</value>
+    <value>{0} parteciperanno</value>
     <comment>Number of yes response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ValidationEmpty" xml:space="preserve">
-    <value>Field cannot be empty</value>
+    <value>Il campo non può essere vuoto</value>
     <comment>Erro message when field can't be empty</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Description" xml:space="preserve">
@@ -6203,7 +6203,7 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Field label for calendar's description</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Header" xml:space="preserve">
-    <value>Calendar settings</value>
+    <value>Impostazioni calendario</value>
     <comment>Header when editing calendar's settings</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Name" xml:space="preserve">
@@ -6211,31 +6211,31 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Field label for calendar's name</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_NewCalendar" xml:space="preserve">
-    <value>New calendar</value>
+    <value>Nuovo calendario</value>
     <comment>Header when creating new calendar</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_SavingCalendar" xml:space="preserve">
-    <value>Saving calendar</value>
+    <value>Salvataggio calendario</value>
     <comment>Message when saving calendar</comment>
   </data>
   <data name="App_Calendar_NoCalendars" xml:space="preserve">
-    <value>No calendars</value>
+    <value>Non ci sono calendari</value>
     <comment>Label when there is no calendars in an account</comment>
   </data>
   <data name="App_Calendar_Settings_Accounts" xml:space="preserve">
-    <value>Accounts</value>
+    <value>Account</value>
     <comment>Label to settings in accounts section</comment>
   </data>
   <data name="App_Calendar_Settings_Calendars" xml:space="preserve">
-    <value>Calendars</value>
+    <value>Calendari</value>
     <comment>Label to settings in calendars section</comment>
   </data>
   <data name="App_Calendar_Settings_ChooseAccount" xml:space="preserve">
-    <value>Choose account</value>
+    <value>Scegli account</value>
     <comment>Label to choose account to edit</comment>
   </data>
   <data name="App_Calendar_Settings_EditCalendars" xml:space="preserve">
-    <value>Edit calendars</value>
+    <value>Modifica calendari</value>
     <comment>Header to settings section related to account's calendars</comment>
   </data>
   <data name="App_Calendar_Settings_General" xml:space="preserve">
@@ -6243,19 +6243,19 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Label to settings in general section</comment>
   </data>
   <data name="Dialog_RemoveCalendar" xml:space="preserve">
-    <value>Remove calendar?</value>
+    <value>Rimuovo il calendario?</value>
     <comment>Header when user is removing a calendar</comment>
   </data>
   <data name="Dialog_RemoveCalendarExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove "{0}"?</value>
+    <value>Vuoi rimuovere "{0}"?</value>
     <comment>Explanation when user is removing calendar</comment>
   </data>
   <data name="App_Calendar_ValidationSelectTimeZone" xml:space="preserve">
-    <value>Please select a time zone</value>
+    <value>Seleziona un fuso orario</value>
     <comment>Error message when user doesn't select any timezone on a calendar</comment>
   </data>
   <data name="App_Calendar_AddCalendar" xml:space="preserve">
-    <value>Add calendar</value>
+    <value>Aggiungi calendario</value>
     <comment>Tooltip for button to add calendar</comment>
   </data>
   <data name="App_Calendar_Details_Delete" xml:space="preserve">
@@ -6263,15 +6263,15 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Delete menu</comment>
   </data>
   <data name="App_Calendar_Details_Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Modifica</value>
     <comment>Edit menu</comment>
   </data>
   <data name="App_Calendar_Details_Email" xml:space="preserve">
-    <value>Email guests</value>
+    <value>Invia email agli ospiti</value>
     <comment>Menu to send email to guests</comment>
   </data>
   <data name="App_Calendar_Dialog_DeleteExplanation" xml:space="preserve">
-    <value>Are you sure you want to delete this event?</value>
+    <value>Vuoi eliminare questo evento?</value>
     <comment>Explanation for messagebox when deleting an event</comment>
   </data>
   <data name="App_Calendar_Dialog_DeleteHeader" xml:space="preserve">
@@ -6279,51 +6279,51 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Header for messagebox when deleting an event</comment>
   </data>
   <data name="App_Calendar_Recurring_AllEvents" xml:space="preserve">
-    <value>All events</value>
+    <value>Tutti gli eventi</value>
     <comment>Option to edit/delete all events</comment>
   </data>
   <data name="App_Calendar_Recurring_EditHeader" xml:space="preserve">
-    <value>Edit recurring event?</value>
+    <value>Modifico l'evento ricorrente?</value>
     <comment>Header when editing a recurring event</comment>
   </data>
   <data name="App_Calendar_Recurring_ThisAndFollowing" xml:space="preserve">
-    <value>This and following events</value>
+    <value>Questo evento e i successivi</value>
     <comment>Option to edit/delete this and following events</comment>
   </data>
   <data name="App_Calendar_Recurring_ThisEvent" xml:space="preserve">
-    <value>This event</value>
+    <value>Questo evento</value>
     <comment>Option to edit/delete only one event</comment>
   </data>
   <data name="App_Calendar_EditEvent_MarkOptional" xml:space="preserve">
-    <value>Mark optional</value>
+    <value>Segna come opzionale</value>
     <comment>Tooltip for button to make guest an optional attendant</comment>
   </data>
   <data name="App_Calendar_EditEvent_MarkRequired" xml:space="preserve">
-    <value>Mark required</value>
+    <value>Segna come richiesto</value>
     <comment>Tooltip for button to make guest an optional attendant</comment>
   </data>
   <data name="Dialog_DiscardChanges" xml:space="preserve">
-    <value>Discard changes?</value>
+    <value>Annullo le modifiche?</value>
     <comment>Header for message box when closing edit window without saving</comment>
   </data>
   <data name="Dialog_DiscardChangesExplanation" xml:space="preserve">
-    <value>Are you sure you want to discard unsaved changes?</value>
+    <value>Sei sicuro/a di voler scartare le modifiche non salvate?</value>
     <comment>Explanation for message box when closing edit window without saving</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddGuest" xml:space="preserve">
-    <value>Add guest</value>
+    <value>Aggiungi ospite</value>
     <comment>Placeholder for add guest textbox</comment>
   </data>
   <data name="App_Calendar_EditEvent_AllDay" xml:space="preserve">
-    <value>All day</value>
+    <value>Tutto il giorno</value>
     <comment>Checkbox to determine whether event is an all day event or not</comment>
   </data>
   <data name="App_Calendar_EditEvent_Busy" xml:space="preserve">
-    <value>Busy</value>
+    <value>Occupato</value>
     <comment>Event privacy: busy</comment>
   </data>
   <data name="App_Calendar_EditEvent_DefaultVisibility" xml:space="preserve">
-    <value>Default visibility</value>
+    <value>Visibilità predefinita</value>
     <comment>Event visibility: default</comment>
   </data>
   <data name="App_Calendar_EditEvent_Details" xml:space="preserve">
@@ -6339,23 +6339,23 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Event privacy: free</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestCan" xml:space="preserve">
-    <value>Guest can:</value>
+    <value>Gli ospiti possono:</value>
     <comment>Section for guest's right</comment>
   </data>
   <data name="App_Calendar_EditEvent_Guests" xml:space="preserve">
-    <value>Guests</value>
+    <value>Ospiti</value>
     <comment>Guests section in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_Hour" xml:space="preserve">
-    <value>Hour</value>
+    <value>Ora</value>
     <comment>Time unit: hour</comment>
   </data>
   <data name="App_Calendar_EditEvent_Invite" xml:space="preserve">
-    <value>Invite others</value>
+    <value>Invita altri</value>
     <comment>Guest right to invite other people</comment>
   </data>
   <data name="App_Calendar_EditEvent_Location" xml:space="preserve">
-    <value>Location</value>
+    <value>Luogo</value>
     <comment>Placeholder for location textbox</comment>
   </data>
   <data name="App_Calendar_EditEvent_Minute" xml:space="preserve">
@@ -6363,7 +6363,7 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Time unit: minute</comment>
   </data>
   <data name="App_Calendar_EditEvent_Modify" xml:space="preserve">
-    <value>Modify event</value>
+    <value>Modifica evento</value>
     <comment>Guest right to modify event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Notification" xml:space="preserve">
@@ -6371,7 +6371,7 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Popup notification for upcoming event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Optional" xml:space="preserve">
-    <value>Optional</value>
+    <value>Opzionale</value>
     <comment>Label when attendee is optional participant</comment>
   </data>
   <data name="App_Calendar_EditEvent_Private" xml:space="preserve">
@@ -6383,15 +6383,15 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Event visibility: public</comment>
   </data>
   <data name="App_Calendar_EditEvent_SeeGuestList" xml:space="preserve">
-    <value>See guest list</value>
+    <value>Vedi lista ospiti</value>
     <comment>Guest right to see guest list</comment>
   </data>
   <data name="App_Calendar_EditEvent_TimeZone" xml:space="preserve">
-    <value>Time zone</value>
+    <value>Fuso orario</value>
     <comment>Time zone label</comment>
   </data>
   <data name="App_Calendar_EditEvent_Title" xml:space="preserve">
-    <value>Add title</value>
+    <value>Aggiungi titolo</value>
     <comment>Placeholder for title in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_To" xml:space="preserve">
@@ -6399,19 +6399,19 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Label text between start and end time</comment>
   </data>
   <data name="App_Calendar_TimeZone_DifferentStartEnd" xml:space="preserve">
-    <value>Use separate start and end time zones</value>
+    <value>Usa fusi orario diversi per inizio e fine</value>
     <comment>Label for checkbox to use different time zone for start and end time of an event</comment>
   </data>
   <data name="App_Calendar_TimeZone_End" xml:space="preserve">
-    <value>Event end time zone</value>
+    <value>Fuso orario per la fine dell'evento</value>
     <comment>Label for time zone for end time for an event</comment>
   </data>
   <data name="App_Calendar_TimeZone_Remove" xml:space="preserve">
-    <value>Remove time zone</value>
+    <value>Rimuovi fuso orario</value>
     <comment>Button to remove time zone</comment>
   </data>
   <data name="App_Calendar_TimeZone_Start" xml:space="preserve">
-    <value>Event start time zone</value>
+    <value>Fuso orario per l'inizio dell'evento</value>
     <comment>Label for time zone for start time for an event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Day" xml:space="preserve">
@@ -6419,61 +6419,61 @@ This will disable calendar sync from Mailbird.</value>
     <comment>Time unit: day</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_DayPlural" xml:space="preserve">
-    <value>Days</value>
+    <value>Giorni</value>
     <comment>Time unit: days</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Mese</value>
     <comment>Time unit: month</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_MonthPlural" xml:space="preserve">
-    <value>Months</value>
+    <value>Mesi</value>
     <comment>Time unit: months</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatEvery" xml:space="preserve">
-    <value>Repeat every</value>
+    <value>Ripeti ogni</value>
     <comment>Labels in recurrence field
 E.g. "Repeat every 2 days"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Title" xml:space="preserve">
-    <value>Custom recurrence</value>
+    <value>Ripetizione personalizzata</value>
     <comment>Title window for creating custom recurrence event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Week" xml:space="preserve">
-    <value>Week</value>
+    <value>Settimana</value>
     <comment>Time unit: week</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_WeekPlural" xml:space="preserve">
-    <value>Weeks</value>
+    <value>Settimane</value>
     <comment>Time unit: weeks</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Anno</value>
     <comment>Time unit: year</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_YearPlural" xml:space="preserve">
-    <value>Years</value>
+    <value>Anni</value>
     <comment>Time unit: years</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_After" xml:space="preserve">
-    <value>After</value>
+    <value>Dopo</value>
     <comment>Content for radio button, the full sentence is e.g. "ends after 1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Ends" xml:space="preserve">
-    <value>Ends</value>
+    <value>Finisce</value>
     <comment>Label to edit when an event ends</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Never" xml:space="preserve">
-    <value>Never</value>
+    <value>Mai</value>
     <comment>Label for radio button</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Occurrence" xml:space="preserve">
-    <value>occurrence</value>
+    <value>ripetizione</value>
     <comment>Label for field in custom occurrence window
 e.g. "1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_OccurrencePlural" xml:space="preserve">
-    <value>occurrences</value>
+    <value>ripetizioni</value>
     <comment>Label for field in custom occurrence window
 e.g. "2 occurrences"</comment>
   </data>
@@ -6482,54 +6482,54 @@ e.g. "2 occurrences"</comment>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
-    <value>Repeat on</value>
+    <value>Ripeti di</value>
     <comment>Label to edit on what days event will repeat</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidNumber" xml:space="preserve">
-    <value>Please enter valid number</value>
+    <value>Inserisci un numero valido</value>
     <comment>Error message when entring not valid number</comment>
   </data>
   <data name="App_Calendar_Frequency_Daily" xml:space="preserve">
-    <value>Daily</value>
+    <value>Ogni giorno</value>
     <comment>An event repeats every day</comment>
   </data>
   <data name="App_Calendar_Frequency_Monthly" xml:space="preserve">
-    <value>Monthly</value>
+    <value>Ogni mese</value>
     <comment>An events repeats every month</comment>
   </data>
   <data name="App_Calendar_Frequency_Weekly" xml:space="preserve">
-    <value>Weekly</value>
+    <value>Ogni settimana</value>
     <comment>An events repetas every week</comment>
   </data>
   <data name="App_Calendar_Frequency_Yearly" xml:space="preserve">
-    <value>Annually</value>
+    <value>Ogni anno</value>
     <comment>An events repetas every year</comment>
   </data>
   <data name="App_Calendar_Recurrence_AfterNRepetitions" xml:space="preserve">
-    <value>{0} times</value>
+    <value>{0} volte</value>
     <comment>An event repeats N times. Example: 3 times</comment>
   </data>
   <data name="App_Calendar_Recurrence_DoesNotRepeat" xml:space="preserve">
-    <value>Doesn't repeat</value>
+    <value>Senza ripetizione</value>
     <comment>An event  of a calendar does not repeat, it's only 1 day</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryPeriod" xml:space="preserve">
-    <value>Every {0} {1}</value>
+    <value>Ogni {0} {1}</value>
     <comment>An event repeats every "period". Example: Every 2 years, Every 5 months</comment>
   </data>
   <data name="App_Calendar_Recurrence_First" xml:space="preserve">
-    <value>first</value>
+    <value>primo</value>
     <comment>An event repeats on the first weekday of the month. Example: First Monday, First Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Fourth" xml:space="preserve">
-    <value>fourth</value>
+    <value>quarto</value>
     <comment>An event repeats on the fourth weekday of the month. Example: Fourth Tuesday, Fourth Thursday</comment>
   </data>
   <data name="App_Calendar_Recurrence_In" xml:space="preserve">
     <value>in {0}</value>
   </data>
   <data name="App_Calendar_Recurrence_Last" xml:space="preserve">
-    <value>last</value>
+    <value>ultimo</value>
     <comment>An event repeats on the last weekday of the month. Example: Last Monday, Last Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_On" xml:space="preserve">
@@ -6541,7 +6541,7 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on a month day. Example: on day 1, on day 2, on day 31</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnlyOnce" xml:space="preserve">
-    <value>Once</value>
+    <value>Una volta</value>
     <comment>Calendar event repeats only 1 time.</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnThe" xml:space="preserve">
@@ -6549,33 +6549,33 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on n day of the week. Example: on the first Monday, on the third Thursday, on the last Friday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Second" xml:space="preserve">
-    <value>second</value>
+    <value>secondo</value>
     <comment>An event repeats on the second weekday of the month. Example: Second Monday, Second Tuesday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Third" xml:space="preserve">
-    <value>third</value>
+    <value>terzo</value>
     <comment>An event repeats on the third weekday of the month. Example: Third Friday, Third Sunday</comment>
   </data>
   <data name="App_Calendar_Recurrence_UntilDate" xml:space="preserve">
-    <value>until {0}</value>
+    <value>fino al {0}</value>
     <comment>An event repeats until a date. Example: until 31 august 2009</comment>
   </data>
   <data name="App_Calendar_Recurrence_Custom" xml:space="preserve">
-    <value>Custom...</value>
+    <value>Personalizzato...</value>
     <comment>Custom recurrence</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryWeekday" xml:space="preserve">
-    <value>Every weekday ({0} to {1})</value>
+    <value>Ogni giorno lavorativo (da {0} a {1})</value>
   </data>
   <data name="App_Calendar_Recurrence_OnWeekdays" xml:space="preserve">
-    <value>on weekdays</value>
+    <value>nei giorni lavorativi</value>
   </data>
   <data name="App_Calendar_EditEvent_Organizer" xml:space="preserve">
-    <value>Organizer</value>
+    <value>Organizzatore</value>
     <comment>Label when attendee is the organizer</comment>
   </data>
   <data name="App_Calendar_Details_Maybe" xml:space="preserve">
-    <value>Maybe</value>
+    <value>Forse</value>
     <comment>Button to confirm that user maybe can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_No" xml:space="preserve">
@@ -6583,23 +6583,23 @@ e.g. "2 occurrences"</comment>
     <comment>Button to confirm that user can't attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Parteciperà</value>
     <comment>Button to confirm that user can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Going" xml:space="preserve">
-    <value>Going?</value>
+    <value>Sarà presente?</value>
     <comment>Label to ask user about his response to an event</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddNotification" xml:space="preserve">
-    <value>Add notification</value>
+    <value>Aggiungi notifica</value>
     <comment>Button to add notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_BeforeAt" xml:space="preserve">
-    <value>before at</value>
+    <value>prima, alle</value>
     <comment>Label for notification, will be used like: 10 days before, at 9:00 AM</comment>
   </data>
   <data name="App_Calendar_EditEvent_HourPlural" xml:space="preserve">
-    <value>Hours</value>
+    <value>Ore</value>
     <comment>Time unit: hours</comment>
   </data>
   <data name="App_Calendar_EditEvent_MinutePlural" xml:space="preserve">
@@ -6607,7 +6607,7 @@ e.g. "2 occurrences"</comment>
     <comment>Time unit: minutes</comment>
   </data>
   <data name="App_Calendar_EditEvent_Before" xml:space="preserve">
-    <value>before</value>
+    <value>prima</value>
     <comment>Label for reminder, ej: 30 hours before</comment>
   </data>
   <data name="App_Calendar_Reminder_AsEmail" xml:space="preserve">
@@ -6615,27 +6615,27 @@ e.g. "2 occurrences"</comment>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
-    <value>Value cannot be greater than {0} {1}</value>
+    <value>Il valore non può essere maggiore di {0} {1}</value>
     <comment>Value can't be greater than 2 weeks</comment>
   </data>
   <data name="App_Calendar_ShowWeekends" xml:space="preserve">
-    <value>Show weekends</value>
+    <value>Mostra fine settimana</value>
     <comment>Menu to show or hide weekends from calendar</comment>
   </data>
   <data name="App_Calendar_ShowDeclinedEvents" xml:space="preserve">
-    <value>Show declined events</value>
+    <value>Mostra eventi declinati</value>
     <comment>Menu to show or hide declined events</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidEndTime" xml:space="preserve">
-    <value>End time must be greater than the start time</value>
+    <value>L'orario di fine deve essere successivo a quello di inizio</value>
     <comment>Error message when end time is less than start time</comment>
   </data>
   <data name="App_Calendar_Settings_FadeOutEvents" xml:space="preserve">
-    <value>Fade out past events</value>
+    <value>Rendi meno visibili gli eventi passati</value>
     <comment>Option to reduce brightness of past events</comment>
   </data>
   <data name="App_Calendar_Notification_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
     <comment>Cancel button </comment>
   </data>
   <data name="App_Calendar_Notification_DontSend" xml:space="preserve">
@@ -6647,27 +6647,27 @@ e.g. "2 occurrences"</comment>
     <comment>Send button</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellation" xml:space="preserve">
-    <value>Send cancellations?</value>
+    <value>Invio cancellazione?</value>
     <comment>Header for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellationExplanation" xml:space="preserve">
-    <value>Would you like to send cancellations to guests?</value>
+    <value>Vuoi inviare una notifica di cancellazione dell'evento agli ospiti?</value>
     <comment>Explanation for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitation" xml:space="preserve">
-    <value>Send invitations?</value>
+    <value>Invio gli inviti?</value>
     <comment>Header for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitationExplanation" xml:space="preserve">
-    <value>Would you like to send invitations to the guests?</value>
+    <value>Vuoi inviare gli inviti agli utenti?</value>
     <comment>Explanation for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdate" xml:space="preserve">
-    <value>Send updates?</value>
+    <value>Invio gli aggiornamenti?</value>
     <comment>Header for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdateExplanation" xml:space="preserve">
-    <value>Would you like to send updates to existing guests?</value>
+    <value>Vuoi inviare gli aggiornamenti dell'evento agli ospiti invitati?</value>
     <comment>Explanation for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Reminder_At" xml:space="preserve">
@@ -6675,27 +6675,27 @@ e.g. "2 occurrences"</comment>
     <comment>E.g. Event is starting at 1:00 PM</comment>
   </data>
   <data name="App_Calendar_Reminder_WhenEventStarts" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Quando l'evento inizia</value>
     <comment>Indicates that a reminder for a calendar event will be triggered right when the event starts.</comment>
   </data>
   <data name="App_Calendar_Reminder_Starting" xml:space="preserve">
-    <value>{0} is starting {1}</value>
+    <value>{0} inizia {1}</value>
     <comment>E.g. Event name is starting at 1:00PM</comment>
   </data>
   <data name="App_Calendar_Reminder_AlreadyStarted" xml:space="preserve">
-    <value>Already started</value>
+    <value>Già iniziato</value>
     <comment>Display that an event has already started at the moment the user got the notification</comment>
   </data>
   <data name="App_Calendar_Reminder_DueIn" xml:space="preserve">
-    <value>Due in {0}</value>
+    <value>Inizia tra {0}</value>
     <comment>An event is due in X time. Eg: Due in 5 minutes, Due in 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminder_Overdue" xml:space="preserve">
-    <value>Overdue {0}</value>
+    <value>Iniziato da {0}</value>
     <comment>An event is overdue X time. Eg:Overdue 5 minutes, Overdue 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminders_And" xml:space="preserve">
-    <value>and</value>
+    <value>e</value>
     <comment>Use to concatenate hour and time. Eg: 5hours and 15 minutes</comment>
   </data>
   <data name="App_Calendar_Notification_Title" xml:space="preserve">
@@ -6711,35 +6711,35 @@ e.g. "2 occurrences"</comment>
     <comment>Label when there are no notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to dismiss all notifications?</value>
+    <value>Sei sicuro di voler rimuovere tutte le notifiche?</value>
     <comment>Explanation for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllHeader" xml:space="preserve">
-    <value>Dismiss all notifications?</value>
+    <value>Rimuovo le notifiche?</value>
     <comment>Header for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to snooze all notifications?</value>
+    <value>Sei sicuro di voler rimandare tutte le notifiche?</value>
     <comment>Explanation for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllHeader" xml:space="preserve">
-    <value>Snooze all notifications?</value>
+    <value>Rimando le notifiche?</value>
     <comment>Header for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Rimuovi</value>
     <comment>Button dismiss notification</comment>
   </data>
   <data name="App_Calendar_Notification_DismissAll" xml:space="preserve">
-    <value>Dismiss all</value>
+    <value>Rimuovi tutte</value>
     <comment>Button to dimiss all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze" xml:space="preserve">
-    <value>Snooze</value>
+    <value>Rimanda</value>
     <comment>Button to snooze notification</comment>
   </data>
   <data name="App_Calendar_Notification_SnoozeAll" xml:space="preserve">
-    <value>Snooze all</value>
+    <value>Rimanda tutte</value>
     <comment>Button to snooze all notifications</comment>
   </data>
   <data name="App_Calendar_Notifications" xml:space="preserve">
@@ -6747,11 +6747,11 @@ e.g. "2 occurrences"</comment>
     <comment>Button to open notifications window</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddAllDayNotification" xml:space="preserve">
-    <value>Add all day notification</value>
+    <value>Aggiungi notifica per tutta la giornata</value>
     <comment>Button to add all day notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_AllDayEventNotifications" xml:space="preserve">
-    <value>All day event notifications</value>
+    <value>Notifiche eventi che durano tutto il giorno</value>
     <comment>Section for event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_EventNotifications" xml:space="preserve">
@@ -6759,7 +6759,7 @@ e.g. "2 occurrences"</comment>
     <comment>Section for all day event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_CantModifyMessage" xml:space="preserve">
-    <value>Changes will only be reflected in this calendar</value>
+    <value>I cambiamenti saranno applicati solo a questo calendario</value>
     <comment>Message where users editing event but they are not the organizer</comment>
   </data>
   <data name="App_Calendar_Settings_Export" xml:space="preserve">
@@ -6771,51 +6771,51 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>The export process has finished. Some errors occured while exporting some events. Please contact support.</value>
+    <value>L'esportazione è stata completata, ma si sono verificati alcuni errori durante l'esportazione di alcuni eventi. Per favore contatta il supporto.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
-    <value>The export process has finished. All events have been exported to the selected file.</value>
+    <value>L'esportazione è stata completata. Tutti gli eveneti sono stati salvati nel file selezionato.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
+    <value>Il file selezionato non può essere aperto. Assicurati che non è aperto in un'altra applicazione e che il tuo utente Windows abbia i diritti per accederci, poi riprova.</value>
     <comment>Error message displayed when the selected file where to export events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Export_NoEventsExplanation" xml:space="preserve">
-    <value>The selected calendar does not contain any events to export. Please select another calendar and try again.</value>
+    <value>Il calendario selezionato non contiene nessuno evento da esportare. Selezionane un altro e riprova.</value>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>The import process has finished. Some errors occured while importing some events. Please contact support.</value>
+    <value>L'importazione è stata completata, ma si sono verificati degli errori durante l'importazione di alcuni eventi. Per favore contatta il supporto.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
-    <value>The import process has finished. All events have been imported to the selected calendar.</value>
+    <value>L'impostazione è stata completata. Tutti gli eventi sono stati inseriti nel calendario selezionato.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Import_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
+    <value>Il file selezionato non può essere aperto. Assicurati che non è aperto in un'altra applicazione e che il tuo utente Windows abbia i diritti per accederci, poi riprova.</value>
     <comment>Error message displayed when the selected file to import events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Import_NoEventsExplanation" xml:space="preserve">
-    <value>The selected file does not contain any event information. Please select another file and try again.</value>
+    <value>Il file selezionato non contiene nessuna informazione sugli eventi. Seleziona un altro file e riprova.</value>
     <comment>Error message when there's no events to import in the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_GlobalError" xml:space="preserve">
-    <value>The export process cannot be completed. Please contact support.</value>
+    <value>L'esportazione non può essere completata. Per favore contatta il supporto.</value>
     <comment>Error displayed when there was a global error in the export process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Import_GlobalError" xml:space="preserve">
-    <value>The import process cannot be completed. Please contact support.</value>
+    <value>L'importazione non può essere completata. Per favore contatta il supporto.</value>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
-    <value>Export was cancelled</value>
+    <value>Esportazione annullata</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
-    <value>Export process was cancelled. A file might have been created.</value>
+    <value>L'esportazione è stata annullata, ma un file potrebbe essere stato creato comunque.</value>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
@@ -6823,15 +6823,15 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
-    <value>Export finished</value>
+    <value>Esportazione completata</value>
     <comment>Header when export has finished</comment>
   </data>
   <data name="App_Calendar_Export_Loading" xml:space="preserve">
-    <value>Exporting calendar...</value>
+    <value>Esportazione calendario...</value>
     <comment>Header when exporting calendar</comment>
   </data>
   <data name="App_Calendar_ImportExport_FileError" xml:space="preserve">
-    <value>Error accessing file</value>
+    <value>Errore di accesso al file</value>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
@@ -6839,11 +6839,11 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Import was cancelled</value>
+    <value>Importazione annullata</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
-    <value>The import process was cancelled. Some events might have been added to the target calendar.</value>
+    <value>L'importazione è stata annullata. Alcuni eventi potrebbero essere stati aggiunti al calendario selezionato.</value>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
@@ -6851,19 +6851,19 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error in import process</comment>
   </data>
   <data name="App_Calendar_Import_Finished" xml:space="preserve">
-    <value>Import finished</value>
+    <value>Importazione completata</value>
     <comment>Header when import has finished</comment>
   </data>
   <data name="App_Calendar_Import_Loading" xml:space="preserve">
-    <value>Importing calendar...</value>
+    <value>Importazione calendario...</value>
     <comment>Header when importing calendar</comment>
   </data>
   <data name="App_Calendar_Settings_ExportExplanation" xml:space="preserve">
-    <value>Please select one or more calendars to export.</value>
+    <value>Seleziona uno o più calendari da esportare.</value>
     <comment>Instruction for export feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExplanation" xml:space="preserve">
-    <value>Add imported calendar to</value>
+    <value>Aggiungi calendario importato a</value>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
@@ -6871,42 +6871,42 @@ e.g. "2 occurrences"</comment>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
-    <value>Calendar is syncing. Please wait for the sync to complete before importing or exporting, to avoid any errors or inaccurate results.</value>
+    <value>La sincronizzazione del calendario è in corso. Attendi che sia completata prima di importare o esportare eventi, per evitare errori o risultati imprecisi.</value>
     <comment>Warning text when importing or exporting when calendar is syncing</comment>
   </data>
   <data name="App_Calendar_Invitation_Accepted" xml:space="preserve">
-    <value>Accepted</value>
+    <value>Accettato</value>
   </data>
   <data name="App_Calendar_Invitation_Declined" xml:space="preserve">
-    <value>Declined</value>
+    <value>Declinato</value>
   </data>
   <data name="App_Calendar_Invitation_NeedsAction" xml:space="preserve">
-    <value>No response</value>
+    <value>Senza risposta</value>
   </data>
   <data name="App_Calendar_Invitation_Tentative" xml:space="preserve">
-    <value>Maybe</value>
+    <value>Indeciso</value>
   </data>
   <data name="App_Calendar_Invitation_Unknown" xml:space="preserve">
-    <value>Unknown response</value>
+    <value>Risposta ignota</value>
   </data>
   <data name="App_Calendar_Recurring_Delete" xml:space="preserve">
-    <value>Delete recurring event?</value>
+    <value>Elimino evento ricorrente?</value>
     <comment>Title of the window displayed when trying to delete a instance of a calendar event</comment>
   </data>
   <data name="App_Calendar_Recurring_Reply" xml:space="preserve">
-    <value>Reply to recurring event?</value>
+    <value>Rispondo a evento ricorrente?</value>
     <comment>Title of the window displayed when replying to a instance of a calendar event</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Attendees" xml:space="preserve">
-    <value>Attendees</value>
+    <value>Partecipanti</value>
     <comment>Attendees field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Calendar" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Calendario</value>
     <comment>Calendar field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Cancelled" xml:space="preserve">
-    <value>This event has been cancelled.</value>
+    <value>Questo evento è stato annullato.</value>
     <comment>Message when event was cancelled</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Description" xml:space="preserve">
@@ -6914,39 +6914,39 @@ e.g. "2 occurrences"</comment>
     <comment>Description field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Error" xml:space="preserve">
-    <value>An error occured while processing the invitation. If the issue persists please [link href={0}]contact support[/link]</value>
+    <value>Si è verificato un errore nell'elaborazione dell'invito. Se il problema persiste [link href={0}]contatta il supporto[/link]</value>
     <comment>Message when there is error when opening ics file, please leave the tag [link]</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventAdded" xml:space="preserve">
-    <value>Event was added to your primary calendar.</value>
+    <value>L'evento è stato aggiunto al tuo calendario principale.</value>
     <comment>Message when event is added to a calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventNotAdded" xml:space="preserve">
-    <value>Event was not added due to error. If issue remains please contact support.</value>
+    <value>L'evento non è stato aggiunto per via di un errore. Se il problema persiste, contatta il supporto.</value>
     <comment>Message when there is error when adding event to calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Location" xml:space="preserve">
-    <value>Location</value>
+    <value>Luogo</value>
     <comment>Location field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NonExisting" xml:space="preserve">
-    <value>This event is a reply to a non existing request.</value>
+    <value>Questo evento è una risposta a una richiesta che non esiste più.</value>
     <comment>Message when the file is a reply to already deleted event</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NotEnabled" xml:space="preserve">
-    <value>Enable the Calendar app and connect {0} to manage this invitation</value>
+    <value>Abilita l'app Calendario e collega {0} per gestire questo invito</value>
     <comment>Message when calendar app is not activated or account is not connected</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NotInitialized" xml:space="preserve">
-    <value>Calendar is not initialized. Please wait.</value>
+    <value>Il calendario non è inizializzato. Attendi.</value>
     <comment>Message when calendar is initializing</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Organizer" xml:space="preserve">
-    <value>Organizer</value>
+    <value>Organizzatore</value>
     <comment>Organizer field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Time" xml:space="preserve">
-    <value>Time</value>
+    <value>Ora</value>
     <comment>Date and time field</comment>
   </data>
   <data name="Dialog_Error" xml:space="preserve">
@@ -6954,11 +6954,11 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is error</comment>
   </data>
   <data name="Dialog_Success" xml:space="preserve">
-    <value>Success</value>
+    <value>Fatto</value>
     <comment>Header when action is success</comment>
   </data>
   <data name="App_Calendar_ExpandCollapseAllDay" xml:space="preserve">
-    <value>Expand/collapse all day event section</value>
+    <value>Espandi/nascondi la sezione eventi che durano tutto il giorno</value>
     <comment>Tooltip for button to expand or collapse all day event section</comment>
   </data>
   <data name="App_Calendar_ViewDayView" xml:space="preserve">
@@ -6966,68 +6966,68 @@ e.g. "2 occurrences"</comment>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_ViewScheduleView" xml:space="preserve">
-    <value>Schedule view</value>
+    <value>Vista programma</value>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_Intro_1" xml:space="preserve">
-    <value>All your calendars together in one place.</value>
+    <value>Tutti i tuoi calendari raccolti in un unico posto.</value>
     <comment>Caption for tutorial 1</comment>
   </data>
   <data name="App_Calendar_Intro_2" xml:space="preserve">
-    <value>Sync calendars from Google, Exchange, and 
+    <value>Sincronizza i calendari di Google, Exchange e
 Outlook.</value>
     <comment>Caption for tutorial 2</comment>
   </data>
   <data name="App_Calendar_Intro_3" xml:space="preserve">
-    <value>Enable the sidebar and view your calendar next to
-your Inbox.</value>
+    <value>Abilita la sidebar per avere il calendario accanto
+alla Posta in arrivo.</value>
     <comment>Caption for tutorial 3</comment>
   </data>
   <data name="App_Calendar_Intro_4" xml:space="preserve">
-    <value>Connect your account now to sync with Mailbird.</value>
+    <value>Collega il tuo account per sincronizzarlo con Mailbird.</value>
     <comment>Caption for tutorial 4</comment>
   </data>
   <data name="App_Calendar_Intro_Welcome" xml:space="preserve">
-    <value>Meet the Calendar</value>
+    <value>Scopri il Calendario</value>
     <comment>Tutorial title</comment>
   </data>
   <data name="App_Calendar_Settings_MatchWindowsTimezone" xml:space="preserve">
-    <value>Match Windows time zone</value>
+    <value>Usa il fuso orario di Windows</value>
     <comment>Label of checkbox that indicates that the Calendar App will use the same timezone as the one set in Windows</comment>
   </data>
   <data name="App_Calendar_AllDay" xml:space="preserve">
-    <value>All day</value>
+    <value>Tutto il giorno</value>
   </data>
   <data name="App_Calendar_Notification_Snooze_DaySingular" xml:space="preserve">
-    <value>{0} day before</value>
+    <value>{0} giorno prima</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_HourSingular" xml:space="preserve">
-    <value>{0} hour before</value>
+    <value>{0} ora prima</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_MinutePlural" xml:space="preserve">
-    <value>{0} minutes before</value>
+    <value>{0} minuti prima</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_MinuteSingular" xml:space="preserve">
-    <value>{0} minute before</value>
+    <value>{0} minuto prima</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_Start" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Quando l'evento inizia</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Settings_DefaultCalendar" xml:space="preserve">
-    <value>Default calendar</value>
+    <value>Calendario predefinito</value>
     <comment>Field to set default calendar</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDelete" xml:space="preserve">
-    <value>Cannot delete event</value>
+    <value>Errore cancellazione evento</value>
     <comment>Messagebox title when can't delete event</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDeleteExplanation" xml:space="preserve">
-    <value>You cannot delete an event that's currently being edited.</value>
+    <value>Non puoi modificare un evento mentre viene modificato.</value>
     <comment>Messagebox explanationwhen can't delete event</comment>
   </data>
   <data name="App_Calendar_Menu_NewEvent" xml:space="preserve">
@@ -7035,31 +7035,31 @@ your Inbox.</value>
     <comment>Menu to create event</comment>
   </data>
   <data name="App_Calendar_Menu_SetDefault" xml:space="preserve">
-    <value>Set as default calendar</value>
+    <value>Imposta come calendario predefinito</value>
     <comment>Menu to set calendar as default</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_AddToCalendar" xml:space="preserve">
-    <value>Add to calendar</value>
+    <value>Aggiungi al calendario</value>
     <comment>Button to add event to calendar</comment>
   </data>
   <data name="WebBrowser_RemoveFromBookmarks" xml:space="preserve">
-    <value>Remove from bookmarks</value>
+    <value>Rimuovi dai preferiti</value>
     <comment>Tooltip to remove from bookmarks</comment>
   </data>
   <data name="App_Calendar_Tutorial_CalendarAccount" xml:space="preserve">
-    <value>Connect your email accounts and sync calendars.</value>
+    <value>Collega i tuoi account email e sincronizza i calendari.</value>
     <comment>Tutorial text to guide user to connect account in calendar apps</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEvent" xml:space="preserve">
-    <value>Cannot add event</value>
+    <value>Errore creazione evento</value>
     <comment>Header when user tries to add event but there is no connected account</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEventExplanation" xml:space="preserve">
-    <value>You haven't connected any accounts with the calendar. Please connect an account from the calendar settings and try again.</value>
+    <value>Non hai collegato nessun account. Collega un account dalle impostazioni del calendario e riprova.</value>
     <comment>Explanation when user tries to add event but there is no connected account</comment>
   </data>
   <data name="RateRecommend_LinkedIn" xml:space="preserve">
-    <value>Share via LinkedIn</value>
+    <value>Condividi con LinkedIn</value>
     <comment>Tooltip to share via LinkedIn</comment>
   </data>
   <data name="App_Calendar_Settings_Color" xml:space="preserve">
@@ -7071,43 +7071,43 @@ your Inbox.</value>
     <comment>App description for ZeroBounce.</comment>
   </data>
   <data name="App_Calendar_SyncDetails" xml:space="preserve">
-    <value>Due to integration limitations the following changes to the calendar will not be synced with the server:</value>
+    <value>Per via di limitazioni dell'integrazione, le seguenti modifiche al calendario non saranno sincronizzate con il server:</value>
     <comment>Warning about some properties those can't be synced</comment>
   </data>
   <data name="App_Calendar_SyncDetailsAllDayNotification" xml:space="preserve">
-    <value>All day notifications</value>
+    <value>Notifiche per tutto il giorno</value>
     <comment>All day notifications field</comment>
   </data>
   <data name="App_Calendar_SyncDetailsAllProperties" xml:space="preserve">
-    <value>Due to integration limitations the calendar settings above are not synced with the server.</value>
+    <value>Per via di limitazioni dell'integrazione, le impostazioni del calendario elencate sopra non saranno sincronizzate con il server.</value>
     <comment>Warning when all properties wont be synced with server</comment>
   </data>
   <data name="App_Contacts_Browse_SelectedPlural" xml:space="preserve">
-    <value>{0} contacts selected</value>
+    <value>{0} contatti selezionati</value>
     <comment>Label to show how many contact selected (plural)</comment>
   </data>
   <data name="App_Contacts_Browse_SelectedSingular" xml:space="preserve">
-    <value>{0} contact selected</value>
+    <value>{0} contatto selezionato</value>
     <comment>Label to show how many contact selected</comment>
   </data>
   <data name="UpgradeToPro_FirstName" xml:space="preserve">
-    <value>First name</value>
+    <value>Nome</value>
     <comment>First name</comment>
   </data>
   <data name="UpgradeToPro_GoPro" xml:space="preserve">
-    <value>Buy now</value>
+    <value>Acquista ora</value>
     <comment>Button to purchase license</comment>
   </data>
   <data name="UpgradeToPro_LastName" xml:space="preserve">
-    <value>Last name</value>
+    <value>Cognome</value>
     <comment>Last name</comment>
   </data>
   <data name="UpgradeToPro_Lifetime" xml:space="preserve">
-    <value>Lifetime</value>
+    <value>Per sempre</value>
     <comment>Type of Mailbird license: personal pay once</comment>
   </data>
   <data name="Upgrade_Subtitle" xml:space="preserve">
-    <value>Get Quick Preview and many other benefits</value>
+    <value>Ottieni "Anteprima Rapida" e molti altri benifici</value>
     <comment>Get Quick Preview and many other benefits</comment>
   </data>
   <data name="UpgradeToPro_Coupon" xml:space="preserve">
@@ -7115,138 +7115,138 @@ your Inbox.</value>
     <comment>Coupon</comment>
   </data>
   <data name="UpgradeToPro_UsdMonth" xml:space="preserve">
-    <value>{0} / Month</value>
+    <value>{0} / mese</value>
     <comment>Note: leave the {0} and translate the month</comment>
   </data>
   <data name="Welcome_FixedMaxConnectionsInfo" xml:space="preserve">
-    <value>The number of connections to this server is fixed for performance reasons.</value>
+    <value>Il numero di connessioni per questo server è fisso per motivi di prestazioni.</value>
     <comment>Tooltip shown for info button visible when the account connections slider is disabled.</comment>
   </data>
   <data name="Dialog_RequiresReAuthorization" xml:space="preserve">
-    <value>Authorization required</value>
+    <value>Autorizzazione richiesta</value>
     <comment>Title of dialog shown when Mailbird needs to re-authorize one or more accounts using OAuth2.</comment>
   </data>
   <data name="Dialog_RequiresReAuthorizationExplanation" xml:space="preserve">
-    <value>Mailbird needs to authorize again with one or more of your accounts in order to continue accessing them.
+    <value>Mailbird deve chiederti di nuovo l'autorizzazione per uno o più account per poter continuare ad usarli.
 
-These requests will open in your default browser and each must be completed with the account originally used.</value>
+Le richieste di autorizzazione saranno aperte nel tuo browser predefinito e dovranno essere completate con il relativo account.</value>
     <comment>Message of dialog shown when Mailbird needs to re-authorize one or more accounts using OAuth2.</comment>
   </data>
   <data name="License_EnterLicense" xml:space="preserve">
-    <value>Enter license key</value>
+    <value>Inserisci chiave di licenza</value>
     <comment>Button to enter license key</comment>
   </data>
   <data name="License_NotNow" xml:space="preserve">
-    <value>Not now</value>
+    <value>Non ora</value>
     <comment>Button to dismiss offer</comment>
   </data>
   <data name="License_TrialReminder_Explanation" xml:space="preserve">
-    <value>This is just a friendly reminder that your trial will expire soon. If you feel like you have had enough time to try all features, then you can now purchase Mailbird for {0}% off. This offer will expire with the trial.</value>
+    <value>Ti ricordiamo che il tuo periodo di prova scadrà presto. Se ti sembra di aver avuto abbastanza tempo per provare tutte le funzionalità, puoi acquistare Mailbird ora con uno sconto del {0}%. Questa offerta scadrà assieme al periodo di prova.</value>
     <comment>Body copy for trial reminder window</comment>
   </data>
   <data name="License_TrialReminder_HeaderPlural" xml:space="preserve">
-    <value>Your trial will end in {0} days</value>
+    <value>Il periodo di prova terminerà fra {0} giorni</value>
     <comment>Nb {0} will be replaced by number</comment>
   </data>
   <data name="License_PurchaseDiscount" xml:space="preserve">
-    <value>Buy - {0}% OFF</value>
+    <value>Acquista ora - SCONTO {0}%</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount</comment>
   </data>
   <data name="License_TrialReminder_SubHeader" xml:space="preserve">
-    <value>You are currently on the free Mailbird trial</value>
+    <value>Stai usando il periodo di prova gratuito di Mailbird</value>
     <comment>Subheader in trial reminder window</comment>
   </data>
   <data name="License_Purchase" xml:space="preserve">
-    <value>Buy Mailbird</value>
+    <value>Acquista Mailbird</value>
     <comment>Button to purchase Mailbird license</comment>
   </data>
   <data name="License_WelcomeBasic_Explanation" xml:space="preserve">
-    <value>For the next {0} days you will get unlimited access to all Mailbird features.
-Which version you would like to try?</value>
+    <value>Per i prossimi {0} giorni avrai accesso illimitato a tutte le funzionalità di Mailbird.
+Quale versione vorresti provare?</value>
     <comment>Message body for welcome trial window</comment>
   </data>
   <data name="License_DismissGoOffline" xml:space="preserve">
-    <value>Dismiss and go offline</value>
+    <value>Ignora e vai offline</value>
     <comment>Button to dismiss offer</comment>
   </data>
   <data name="License_EndTrial_Explanation" xml:space="preserve">
-    <value>To continue using Mailbird with Unified account, Native calendar, Inline reply and much more, you will need to purchase Mailbird.</value>
+    <value>Per continuare a usare Mailbird, con gli account unificati, il calendario nativo, le risposte in linea e molto altro, devi acquistare Mailbird.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_EndTrial_Header" xml:space="preserve">
-    <value>You have reached the end of your trial</value>
+    <value>Il periodo di prova è terminato</value>
     <comment>End of trial header</comment>
   </data>
   <data name="License_EndTrial_SubHeader" xml:space="preserve">
-    <value>Time flies when you do something you love</value>
+    <value>Il tempo vola quando ci si diverte</value>
     <comment>Sub header when trial is end</comment>
   </data>
   <data name="License_ExtendTrial" xml:space="preserve">
-    <value>Extend trial</value>
+    <value>Estendi periodo di prova</value>
     <comment>Button to extend trial</comment>
   </data>
   <data name="License_FeatureComparison" xml:space="preserve">
-    <value>See feature comparison</value>
+    <value>Guarda il confronto funzionalità</value>
     <comment>Button for looking the feature comparison</comment>
   </data>
   <data name="License_GetLiteLicense" xml:space="preserve">
-    <value>Get Lite license</value>
+    <value>Ottieni licenza Lite</value>
     <comment>Button to get lite license</comment>
   </data>
   <data name="License_NeedExtension" xml:space="preserve">
-    <value>I need more time to decide</value>
+    <value>Mi serve più tempo per decidere</value>
     <comment>Button to ask extra trial days</comment>
   </data>
   <data name="License_NewLite_Explanation" xml:space="preserve">
-    <value>In our latest newsletter we highlighted that Mailbird Lite would no longer be available to new users, and they would instead have the choice of the awesome new Mailbird Personal or Mailbird Business version.
+    <value>Nella nostra ultima newsletter abbiamo spiegato come Mailbird Lite non sarebbe stato più disponibile per i nuovi utenti, che avrebbero invece avuto la possibilità di scegliere tra le versioni Mailbird Personal e Mailbird Business.
 
-But you've been with us for a while, and we appreciate that! So we'd like to give you the additional option of keeping your Mailbird Lite license forever - this option will not be available to new users.
-A unique license will therefore be provided, so you can continue using Mailbird Lite without any changes.
+Ma tu sei con noi da un po' di tempo, e questo ci fa piacere! Vorremmo quindi darti la possibilità di tenere la tua licenza Mailbird Lite per sempre (non sarà più disponibile per i nuovi utenti).
+Ti forniremo quindi una licenza unica, in modo che tu possa continuare a usare Mailbird Lite senza modifiche.
 
-Mailbird Lite will no longer be updated with new features though as we transition to the new product lineup, so in order to not miss out on all the many great upcoming Mailbird updates and improvements, like the soon to be released native calendar, we highly recommend a one time upgrade, at a much reduced price, to one of the new versions, Mailbird Personal or Mailbird Business.</value>
+Mailbird Lite non sarà più aggiornato con nuove funzionalità però, e se non vuoi perderti tutti i nuovi aggiornamenti e miglioramenti che stanno per arrivare su Mailbird, tra cui il nuovo calendario integrato, ti consigliamo di fare un upgrade con un pagamento una tantum, a un prezzo molto ridotto, a una delle nuove versioni: Mailbird Personal o Mailbird Business.</value>
     <comment>Explanation of the new lite version</comment>
   </data>
   <data name="License_NewLite_Header" xml:space="preserve">
-    <value>Mailbird has launched a new product line up</value>
+    <value>Mailbird ha lanciato nuove versioni del prodotto</value>
     <comment>Header for the new lite version</comment>
   </data>
   <data name="License_NewLite_SubHeader" xml:space="preserve">
-    <value>Mailbird Lite is no longer available to new users</value>
+    <value>Mailbird Lite non è più disponibile per i nuovi utenti</value>
     <comment>Sub header for the new lite version</comment>
   </data>
   <data name="License_Offline_Explanation" xml:space="preserve">
-    <value>All of your existing emails will still be accessible, but you will not be able to send or receive new ones.
+    <value>Le tue email esistenti resteranno accessibili, ma non sarà possibile inviarne o riceverne di nuove.
 
-Was that all a misunderstanding and you wish to continue using Mailbird? No problem, you can purchase Mailbird at any time or enter an existing license key below.</value>
+Forse ci siamo capiti male e vuoi continuare a utilizzare Mailbird? Nessun problema, puoi acquistare Mailbird in qualsiasi momento, o inserire una chiave di licenza già esistente.</value>
     <comment>Explanation when Mailbird has offline</comment>
   </data>
   <data name="License_Offline_Header" xml:space="preserve">
-    <value>License required to keep using Mailbird</value>
+    <value>Licenza richiesta per continuare a usare Mailbird</value>
     <comment>Header when Mailbird has gone offline</comment>
   </data>
   <data name="License_Offline_SubHeader" xml:space="preserve">
-    <value>Your Mailbird has gone offline</value>
+    <value>Mailbird è andato offline</value>
     <comment>SubHeader when Mailbird has gone offline</comment>
   </data>
   <data name="License_StartTrial" xml:space="preserve">
-    <value>Start trial</value>
+    <value>Avvia prova</value>
     <comment>Button to start trial</comment>
   </data>
   <data name="License_TrialExtension_Explanation" xml:space="preserve">
-    <value>We understand that you may need more time to test all of the features in Mailbird. Here is an additional {0} days for you to fall in love with Mailbird.</value>
+    <value>Capiamo che potresti aver bisogno di più tempo per provare tutte le funzionalità di Mailbird. Ecco per te altri {0} giorni per innamorarti di Mailbird.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_SubHeader" xml:space="preserve">
-    <value>Do you need more time to decide?</value>
+    <value>Ti serve più tempo per decidere?</value>
     <comment>Trial extension sub header</comment>
   </data>
   <data name="License_TrialReminder_NoDiscountExplanation" xml:space="preserve">
-    <value>This is just a friendly reminder that your trial will expire soon. If you already love Mailbird we've included a button to purchase Mailbird now.</value>
+    <value>Ti ricordiamo che il tuo periodo di prova scadrà presto. Se ti abbiamo convinto, puoi acquistare Mailbird ora.</value>
     <comment>Body copy for trial reminder window without discount</comment>
   </data>
   <data name="License_WelcomeBasic_Header" xml:space="preserve">
-    <value>Welcome to the Mailbird trial</value>
+    <value>Benvenuto nel periodo di prova di Mailbird</value>
     <comment>Header for welcome to trial window</comment>
   </data>
   <data name="License_MailbirdPersonal" xml:space="preserve">
@@ -7258,15 +7258,15 @@ Was that all a misunderstanding and you wish to continue using Mailbird? No prob
     <comment>Mailbird Business, see resource with key License_Mailbird</comment>
   </data>
   <data name="License_WelcomeBasic_MailbirdBusinessFeatures" xml:space="preserve">
-    <value>(Includes all Mailbird features plus Exchange support, LinkedIn lookup, priority support, etc)</value>
+    <value>(Include tutte le funzionalità di Mailbird, più il supporto a Exchange, ricerca su LinkedIn, supporto prioritario, ecc.)</value>
     <comment>Label for business features</comment>
   </data>
   <data name="License_WelcomeBusiness_Explanation" xml:space="preserve">
-    <value>For the next {0} days you will get unlimited access to all Mailbird Business features.</value>
+    <value>Per i prossimi {0} giorni avrai accesso illimitato a tutte le funzionalità di Mailbird Business.</value>
     <comment>Explanation for business trial</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureAndMore" xml:space="preserve">
-    <value>And more...</value>
+    <value>E molto altro...</value>
     <comment>Label for many more feature</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureExchangeSupport" xml:space="preserve">
@@ -7274,15 +7274,15 @@ Was that all a misunderstanding and you wish to continue using Mailbird? No prob
     <comment>Feature label for exchange support</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureInlineReply" xml:space="preserve">
-    <value>Inline reply</value>
+    <value>Risposte in linea</value>
     <comment>Feature label for inline reply</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureLinkedInLookup" xml:space="preserve">
-    <value>LinkedIn lookup</value>
+    <value>Ricerca su LinkedIn</value>
     <comment>Feature label for linkedIn lookup</comment>
   </data>
   <data name="License_WelcomeBusiness_FeaturePrioritySupport" xml:space="preserve">
-    <value>Priority support</value>
+    <value>Supporto prioritario</value>
     <comment>Feature label for priority support</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureTagContact" xml:space="preserve">
@@ -7290,49 +7290,49 @@ Was that all a misunderstanding and you wish to continue using Mailbird? No prob
     <comment>Feature label for auto tagging contacts</comment>
   </data>
   <data name="License_WelcomeBusiness_Header" xml:space="preserve">
-    <value>Welcome to the Mailbird Business trial</value>
+    <value>Benvenuto nel periodo di prova di Mailbird Business</value>
     <comment>Header for welcome to mailbird business trial window</comment>
   </data>
   <data name="License_Welcome_Question" xml:space="preserve">
-    <value>If you have any questions please [link href={0}]contact support[/link] and we will get back to you asap.</value>
+    <value>Se hai domande, [link href={0}]contatta il supporto[/link] e ti risponderemo il prima possibile.</value>
     <comment>Copy for welcome to trial</comment>
   </data>
   <data name="Dialog_TrialExtended" xml:space="preserve">
-    <value>Your trial has been extended</value>
+    <value>Il tuo periodo di prova è stato esteso</value>
     <comment>Header for messagebox</comment>
   </data>
   <data name="Dialog_TrialExtended_Explanation" xml:space="preserve">
-    <value>Continue using Mailbird and all of its features for another {0} days.</value>
+    <value>Puoi continuare a usare Mailbird e tutte le sue funzionalità per altri {0} giorni.</value>
     <comment>Explanation for messagebox</comment>
   </data>
   <data name="License_EndTrialNoExtension_Explanation" xml:space="preserve">
-    <value>Your Mailbird extended trial has reached its end. You can now choose between Mailbird or Mailbird Business. We highly recommend Mailbird Business to get the best email solution for you.</value>
+    <value>Il periodo di prova esteso di Mailbird è scaduto. Ora puoi scegliere tra Mailbird o Mailbird Business. Ti consigliamo di scegliere Mailbird Business per poter avere a disposizione la miglior soluzione email.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrialNoExtension_ExplanationBusiness" xml:space="preserve">
-    <value>Your Mailbird Business trial to experience everything Mailbird has to offer has reached its end.
+    <value>Il periodo di prova di Mailbird Business per provare tutto ciò che Mailbird ha da offrire è giunto al termine.
 
-You can now choose between Mailbird Personal or Mailbird Business depending on your needs.</value>
+Puoi ora scegliere tra Mailbird Personal e Mailbird Business in base alle tue necessità.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrial_ExplanationBusiness" xml:space="preserve">
-    <value>To continue using Mailbird Business with Exchange support, LinkedIn lookup, Inline reply and much more, you will need to purchase Mailbird Business.</value>
+    <value>Per continuare a usare Mailbird Business, con il supporto a Exchange, la ricerca su LinkedIn, le risposte in linea e molto altro, dovrai acquistare Mailbird Business.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
-    <value>We understand that you may need more time to test all of the features in Mailbird Business. Here is an additional {0} days for you to fall in love with Mailbird.</value>
+    <value>Capiamo che potresti aver bisogno di più tempo per provare tutte le funzionalità di Mailbird Business. Ecco per te altri {0} giorni per innamorarti di Mailbird.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_Header" xml:space="preserve">
-    <value>Wait! How about a few more days?</value>
+    <value>Aspetta! Che ne dici di qualche giorno in più?</value>
     <comment>Header in windows when extending trial</comment>
   </data>
   <data name="License_WelcomeBasic_Calendar" xml:space="preserve">
-    <value>Native calendar</value>
+    <value>Calendario nativo</value>
     <comment>Feature native calendar</comment>
   </data>
   <data name="License_WelcomeBasic_SpeedRead" xml:space="preserve">
-    <value>Speed reader</value>
+    <value>Lettura veloce</value>
     <comment>Feature speed reading</comment>
   </data>
   <data name="License_WelcomeBasic_UnifiedAccount" xml:space="preserve">
@@ -7340,27 +7340,27 @@ You can now choose between Mailbird Personal or Mailbird Business depending on y
     <comment>Feature unified account</comment>
   </data>
   <data name="Dialog_LiteLicenseRetrieved" xml:space="preserve">
-    <value>Congratulations!</value>
+    <value>Congratulazioni!</value>
     <comment>Confirmation dialog header text when user is getting lite license</comment>
   </data>
   <data name="Dialog_LiteLicenseRetrieved_Explanation" xml:space="preserve">
-    <value>Your Mailbird Lite license has been activated and is valid for life.</value>
+    <value>La tua licenza Mailbird Lite è stata attivata e sarà valida per sempre.</value>
     <comment>Confirmation dialog body text when user is getting lite license</comment>
   </data>
   <data name="Dialog_OfflineRestartRequired" xml:space="preserve">
-    <value>Attention</value>
+    <value>Attenzione</value>
     <comment>Message box header to restart Mailbird</comment>
   </data>
   <data name="Dialog_OfflineRestartRequired_Explanation" xml:space="preserve">
-    <value>Mailbird will restart and go offline.</value>
+    <value>Mailbird si riavvierà e andrà offline.</value>
     <comment>Message box explanation to restart Mailbird</comment>
   </data>
   <data name="License_TrialReminder_HeaderSingular" xml:space="preserve">
-    <value>Your trial will end in {0} day</value>
+    <value>Il tuo periodo di prova terminerà tra {0} giorno</value>
     <comment>Nb {0} will be replaced by number</comment>
   </data>
   <data name="Notification_OfflineMode" xml:space="preserve">
-    <value>Mailbird is offline</value>
+    <value>Mailbird è offline</value>
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_Business" xml:space="preserve">
@@ -7368,53 +7368,53 @@ You can now choose between Mailbird Personal or Mailbird Business depending on y
     <comment>Type of Mailbird license: Business</comment>
   </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
-    <value>Purchase Mailbird Business to use Exchange accounts.</value>
+    <value>Acquista Mailbird Business per usare gli account Exchange.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_LinkedInLookup" xml:space="preserve">
-    <value>Purchase Mailbird Business to use LinkedIn lookup feature.</value>
+    <value>Acquista Mailbird Business per usare la ricerca su LinkedIn.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Disabled_IdentityExchange" xml:space="preserve">
-    <value>This identity is disabled. Purchase Mailbird Business to send from Exchange account.</value>
+    <value>Questa identità è disabilitata. Acquista Mailbird Business per inviare email da account Exchange.</value>
     <comment>Tooltip when identity is disabled due to using Mailbird personal</comment>
   </data>
   <data name="Disabled_AccountExchange" xml:space="preserve">
-    <value>This account has been disabled because Exchange is not supported by your license.</value>
+    <value>Questo account è stato disabilitato perché Exchange non è supportato dalla tua licenza.</value>
     <comment>Tooltip when account is disabled due to not supported in the license type</comment>
   </data>
   <data name="Dialog_LiteLicenseError" xml:space="preserve">
-    <value>Could not get Lite license</value>
+    <value>Non è stato possibile recuperare una licenza Lite</value>
     <comment>Could not get Lite license</comment>
   </data>
   <data name="Dialog_LiteLicenseError_Explanation" xml:space="preserve">
-    <value>That didn't work. Please [link href={0}]contact support[/link] to get your Lite license.</value>
+    <value>C'è stato un problema. Per favore [link href={0}]contatta il supporto[/link] per ottenere una licenza Lite.</value>
     <comment>Error message on the explanation</comment>
   </data>
   <data name="Upgrade_Apps" xml:space="preserve">
-    <value>Purchase Mailbird to use this app.</value>
+    <value>Acquista Mailbird per poter usare questa app.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_AppsBusiness" xml:space="preserve">
-    <value>Purchase Mailbird Business to use Slack, FormSwift, Feedly and many other apps.</value>
+    <value>Acquista Mailbird Business per poter usare Slack, FormSwift, Feedly e molte altre app.</value>
     <comment>Feature description</comment>
   </data>
   <data name="License_OfflineWelcome_Explanation" xml:space="preserve">
-    <value>You cannot add a new account without a valid license.
+    <value>Non puoi aggiungere un nuovo account senza una licenza valida.
 
-If you wish to continue using Mailbird you can purchase a license below or enter an existing license key.</value>
+Se desideri continuare a usare Mailbird puoi acquistare una licenza oppure inserire una chiave di licenza esistente.</value>
     <comment>Explanation when Mailbird has offline in welcome window</comment>
   </data>
   <data name="Welcome_Exchange" xml:space="preserve">
-    <value>Exchange accounts are only available in Mailbird Business.</value>
+    <value>Gli account Exchange sono disponibili solo in Mailbird Business.</value>
     <comment>Warning text when trying to add exchange account while license is not business</comment>
   </data>
   <data name="Dialog_Downgrade" xml:space="preserve">
-    <value>You're leaving {0}</value>
+    <value>Stai per lasciare {0}</value>
     <comment>Message box header when license is downgraded, Nb: You're leaving Mailbird Business</comment>
   </data>
   <data name="Dialog_Downgrade_Explanation" xml:space="preserve">
-    <value>{0} will activate after restarting. To get the best out of Mailbird, you can always change to Mailbird Business in the future.</value>
+    <value>{0} sarà attivo dopo aver riavviato Mailbird. Per avere il massimo, puoi sempre scegliere Mailbird Business di nuovo in futuro.</value>
     <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
   </data>
   <data name="License_MailbirdLite" xml:space="preserve">
@@ -7422,15 +7422,15 @@ If you wish to continue using Mailbird you can purchase a license below or enter
     <comment>Mailbird Lite, see resource with key License_Mailbird</comment>
   </data>
   <data name="License_OfflineWelcome_Header" xml:space="preserve">
-    <value>License required</value>
+    <value>Licenza richiesta</value>
     <comment>Header when Mailbird has gone offline before adding any account</comment>
   </data>
   <data name="License_OfflineWelcome_SubHeader" xml:space="preserve">
-    <value>Mailbird is now offline</value>
+    <value>Mailbird è ora offline</value>
     <comment>SubHeader when Mailbird has gone offline before adding any account</comment>
   </data>
   <data name="License_Trial" xml:space="preserve">
-    <value>{0} trial</value>
+    <value>{0} periodo di prova</value>
     <comment>{0} will be replaced with license name, e.g. Mailbird Business</comment>
   </data>
   <data name="License_Mailbird" xml:space="preserve">
@@ -7438,7 +7438,7 @@ If you wish to continue using Mailbird you can purchase a license below or enter
     <comment>Label for license, e.g. Mailbird Business</comment>
   </data>
   <data name="License_Offline" xml:space="preserve">
-    <value>Mailbird is offline. License required.</value>
+    <value>Mailbird è offline. Licenza richiesta.</value>
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_Personal" xml:space="preserve">
@@ -7446,15 +7446,15 @@ If you wish to continue using Mailbird you can purchase a license below or enter
     <comment>Type of Mailbird license: personal</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
-    <value>(paid annually)</value>
+    <value>(pagamento annuale)</value>
     <comment>Text to explain the payment is annually.</comment>
   </data>
   <data name="UpgradeToPro_PayOnce" xml:space="preserve">
-    <value>(pay once)</value>
+    <value>(pagamento singolo)</value>
     <comment>Text to explain the payment is one time.</comment>
   </data>
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
-    <value>Choose a version and payment plan below that's right for you.</value>
+    <value>Seleziona la versione e il piano di pagamento che preferisci.</value>
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
 </root>
