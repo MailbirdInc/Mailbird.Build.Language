@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -3213,7 +3213,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Impossible de se connecter au serveur. Veuillez vérifier votre connexion Internet pour continuer. Veuillez désactiver ou configurer vos pare-feu, antivirus ou connexion proxy pour ajouter Mailbird à la liste d'applications autorisées.</value>
+    <value>Mailbird was unable to contact the license server.
+
+Please check your Internet connection and make sure any firewalls are configured to allow Mailbird to connect to the server and try again.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -3233,7 +3235,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} days remaining of your trial. After the trial ends you'll need to purchase license, otherwise Mailbird will go offline.</value>
+    <value>{0} days remaining of your trial. When the trial ends a license will be required to keep using Mailbird.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -5987,14 +5989,6 @@ So we'd like to ask your permission to send you the occasional email with purely
     <value>Searching...</value>
     <comment>When Mailbird is searching</comment>
   </data>
-  <data name="Options_EnableDirectWrite" xml:space="preserve">
-    <value>Enable DirectWrite</value>
-    <comment>Checkbox to enable DirectWrite</comment>
-  </data>
-  <data name="Options_EnableDirectWriteExplanation" xml:space="preserve">
-    <value>Uncheck this if you experience blurry text in emails and some of the apps.</value>
-    <comment>Explanation on what DirectWrite is</comment>
-  </data>
   <data name="Options_Archiving" xml:space="preserve">
     <value>Archiving</value>
     <comment>Section in options window related to archiving emails</comment>
@@ -7127,16 +7121,6 @@ your Inbox.</value>
     <value>The number of connections to this server is fixed for performance reasons.</value>
     <comment>Tooltip shown for info button visible when the account connections slider is disabled.</comment>
   </data>
-  <data name="Dialog_RequiresReAuthorization" xml:space="preserve">
-    <value>Authorization required</value>
-    <comment>Title of dialog shown when Mailbird needs to re-authorize one or more accounts using OAuth2.</comment>
-  </data>
-  <data name="Dialog_RequiresReAuthorizationExplanation" xml:space="preserve">
-    <value>Mailbird needs to authorize again with one or more of your accounts in order to continue accessing them.
-
-These requests will open in your default browser and each must be completed with the account originally used.</value>
-    <comment>Message of dialog shown when Mailbird needs to re-authorize one or more accounts using OAuth2.</comment>
-  </data>
   <data name="License_EnterLicense" xml:space="preserve">
     <value>Enter license key</value>
     <comment>Button to enter license key</comment>
@@ -7461,5 +7445,75 @@ If you wish to continue using Mailbird you can purchase a license below or enter
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
     <value>Choose a version and payment plan below that's right for you.</value>
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
+  </data>
+  <data name="App_GoogleDrive_Description" xml:space="preserve">
+    <value>Access all your files in Google Drive.</value>
+    <comment>Description of Google Drive app</comment>
+  </data>
+  <data name="App_GoogleSheets_Description" xml:space="preserve">
+    <value>Quickly navigate to your spreadsheets from Mailbird.</value>
+    <comment>Description of Google Sheets app</comment>
+  </data>
+  <data name="App_GoogleSlides_Description" xml:space="preserve">
+    <value>Quickly navigate to your presentations from Mailbird.</value>
+    <comment>Description of Google Slides app</comment>
+  </data>
+  <data name="Dialog_ReauthorizationRequired" xml:space="preserve">
+    <value>Authorization required</value>
+    <comment>Title of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
+  </data>
+  <data name="Dialog_ReauthorizationRequiredExplanation" xml:space="preserve">
+    <value>Mailbird needs to reauthorize with your {0} account.
+
+This request will open in your default browser and must be completed in order for Mailbird to continue accessing the account.</value>
+    <comment>Message of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
+  </data>
+  <data name="Notification_AuthorizationRequiredButton" xml:space="preserve">
+    <value>Authorize</value>
+    <comment>Button to start authorization as shown on notification when Mailbird needs to authorize with an account.</comment>
+  </data>
+  <data name="Notification_AuthorizationRequiredHeader" xml:space="preserve">
+    <value>Authorization required for {0}</value>
+    <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
+  </data>
+  <data name="Notification_AuthorizationRequiredMessage" xml:space="preserve">
+    <value>Mailbird needs to authorize with your account in order to continue accessing it.
+
+Until authorization has been performed the account will not synchronize with the server.</value>
+    <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError_HttpsRedirect" xml:space="preserve">
+    <value>Mailbird was unable to authorize with the server due to the loopback address being redirected to HTTPS in the browser.
+
+Mailbird will now try again using another browser. If it still doesn't work, please disable the HTTPS redirect of the loopback address and try again.</value>
+    <comment>Message of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError_HttpsRedirectTitle" xml:space="preserve">
+    <value>HTTPS redirect detected</value>
+    <comment>Title of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
+  </data>
+  <data name="Disabled_AccountOffline" xml:space="preserve">
+    <value>This account has been disabled because Mailbird is offline.</value>
+    <comment>Tooltip when account is disabled due to using Mailbird Offline</comment>
+  </data>
+  <data name="Dialog_GoOffline" xml:space="preserve">
+    <value>Dismiss trial extension?</value>
+    <comment>Header for messagebox when dismissing trial extension window</comment>
+  </data>
+  <data name="Dialog_GoOfflineExplanation" xml:space="preserve">
+    <value>By not extending your trial Mailbird will restart and go offline. Do you wish to continue?</value>
+    <comment>Explanationfor messagebox when dismissing trial extension window</comment>
+  </data>
+  <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
+    <value>Exchange support not included in Mailbird Personal</value>
+    <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
+  </data>
+  <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
+    <value>You have selected Mailbird Personal which does not include Exchange support. For Exchange support and other business focused features Mailbird Business is required.
+
+Be aware that already added Exchange accounts will be disabled in Mailbird following your activation of Personal.
+
+Are you sure you want to continue with the purchase of Mailbird Personal?</value>
+    <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
 </root>

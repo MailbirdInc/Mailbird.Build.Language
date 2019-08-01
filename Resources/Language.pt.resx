@@ -3159,7 +3159,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Não foi possível ligar ao servidor de licença. Por favor verifique a sua ligação à internet para continuar. Por favor, desactive ou configure a sua firewall, antivirus ou ligação proxy para ter o Mailbird na lista de permissões.</value>
+    <value>Mailbird was unable to contact the license server.
+
+Please check your Internet connection and make sure any firewalls are configured to allow Mailbird to connect to the server and try again.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -3179,7 +3181,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} dias restantes do seu período de avaliação. Após o término da avaliação, necessita de adquirir uma licença, caso contrário, o Mailbird ficará off-line.</value>
+    <value>{0} days remaining of your trial. When the trial ends a license will be required to keep using Mailbird.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -5977,14 +5979,6 @@ Por isso, gostaríamos de pedir a sua permissão para enviar um e-mail ocasional
     <value>A pesquisar...</value>
     <comment>When Mailbird is searching</comment>
   </data>
-  <data name="Options_EnableDirectWrite" xml:space="preserve">
-    <value>Activar DirectWrite</value>
-    <comment>Checkbox to enable DirectWrite</comment>
-  </data>
-  <data name="Options_EnableDirectWriteExplanation" xml:space="preserve">
-    <value>Desmarque esta opção se tiver texto tremido nos e-mails ou nalgumas aplicações.</value>
-    <comment>Explanation on what DirectWrite is</comment>
-  </data>
   <data name="Options_Archiving" xml:space="preserve">
     <value>Arquivar</value>
     <comment>Section in options window related to archiving emails</comment>
@@ -7117,16 +7111,6 @@ sua Caixa de Entrada.</value>
     <value>O número de ligações para este servidor é fixo por motivos de desempenho.</value>
     <comment>Tooltip shown for info button visible when the account connections slider is disabled.</comment>
   </data>
-  <data name="Dialog_RequiresReAuthorization" xml:space="preserve">
-    <value>Autorização necessária</value>
-    <comment>Title of dialog shown when Mailbird needs to re-authorize one or more accounts using OAuth2.</comment>
-  </data>
-  <data name="Dialog_RequiresReAuthorizationExplanation" xml:space="preserve">
-    <value>O Mailbird precisa de autorizar novamente uma ou mais das suas contas para continuar a aceder às mesmas.
-
-Essas solicitações serão abertas no seu navegador padrão e cada uma deve ser concluída com a conta usada originalmente.</value>
-    <comment>Message of dialog shown when Mailbird needs to re-authorize one or more accounts using OAuth2.</comment>
-  </data>
   <data name="License_EnterLicense" xml:space="preserve">
     <value>Insira a chave da licença</value>
     <comment>Button to enter license key</comment>
@@ -7451,5 +7435,75 @@ Se deseja continuar a usar o Mailbird, pode comprar uma licença abaixo ou inser
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
     <value>Escolha uma versão e um plano de pagamento abaixo adequados para si.</value>
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
+  </data>
+  <data name="App_GoogleDrive_Description" xml:space="preserve">
+    <value>Access all your files in Google Drive.</value>
+    <comment>Description of Google Drive app</comment>
+  </data>
+  <data name="App_GoogleSheets_Description" xml:space="preserve">
+    <value>Quickly navigate to your spreadsheets from Mailbird.</value>
+    <comment>Description of Google Sheets app</comment>
+  </data>
+  <data name="App_GoogleSlides_Description" xml:space="preserve">
+    <value>Quickly navigate to your presentations from Mailbird.</value>
+    <comment>Description of Google Slides app</comment>
+  </data>
+  <data name="Dialog_ReauthorizationRequired" xml:space="preserve">
+    <value>Authorization required</value>
+    <comment>Title of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
+  </data>
+  <data name="Dialog_ReauthorizationRequiredExplanation" xml:space="preserve">
+    <value>Mailbird needs to reauthorize with your {0} account.
+
+This request will open in your default browser and must be completed in order for Mailbird to continue accessing the account.</value>
+    <comment>Message of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
+  </data>
+  <data name="Notification_AuthorizationRequiredButton" xml:space="preserve">
+    <value>Authorize</value>
+    <comment>Button to start authorization as shown on notification when Mailbird needs to authorize with an account.</comment>
+  </data>
+  <data name="Notification_AuthorizationRequiredHeader" xml:space="preserve">
+    <value>Authorization required for {0}</value>
+    <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
+  </data>
+  <data name="Notification_AuthorizationRequiredMessage" xml:space="preserve">
+    <value>Mailbird needs to authorize with your account in order to continue accessing it.
+
+Until authorization has been performed the account will not synchronize with the server.</value>
+    <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError_HttpsRedirect" xml:space="preserve">
+    <value>Mailbird was unable to authorize with the server due to the loopback address being redirected to HTTPS in the browser.
+
+Mailbird will now try again using another browser. If it still doesn't work, please disable the HTTPS redirect of the loopback address and try again.</value>
+    <comment>Message of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError_HttpsRedirectTitle" xml:space="preserve">
+    <value>HTTPS redirect detected</value>
+    <comment>Title of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
+  </data>
+  <data name="Disabled_AccountOffline" xml:space="preserve">
+    <value>This account has been disabled because Mailbird is offline.</value>
+    <comment>Tooltip when account is disabled due to using Mailbird Offline</comment>
+  </data>
+  <data name="Dialog_GoOffline" xml:space="preserve">
+    <value>Dismiss trial extension?</value>
+    <comment>Header for messagebox when dismissing trial extension window</comment>
+  </data>
+  <data name="Dialog_GoOfflineExplanation" xml:space="preserve">
+    <value>By not extending your trial Mailbird will restart and go offline. Do you wish to continue?</value>
+    <comment>Explanationfor messagebox when dismissing trial extension window</comment>
+  </data>
+  <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
+    <value>Exchange support not included in Mailbird Personal</value>
+    <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
+  </data>
+  <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
+    <value>You have selected Mailbird Personal which does not include Exchange support. For Exchange support and other business focused features Mailbird Business is required.
+
+Be aware that already added Exchange accounts will be disabled in Mailbird following your activation of Personal.
+
+Are you sure you want to continue with the purchase of Mailbird Personal?</value>
+    <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
 </root>
