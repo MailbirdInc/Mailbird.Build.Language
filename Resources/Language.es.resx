@@ -6336,10 +6336,6 @@ This will disable calendar sync from Mailbird.</value>
     <value>Free</value>
     <comment>Event privacy: free</comment>
   </data>
-  <data name="App_Calendar_EditEvent_GuestCan" xml:space="preserve">
-    <value>Guest can:</value>
-    <comment>Section for guest's right</comment>
-  </data>
   <data name="App_Calendar_EditEvent_Guests" xml:space="preserve">
     <value>Guests</value>
     <comment>Guests section in edit event window</comment>
@@ -7514,5 +7510,9 @@ Be aware that already added Exchange accounts will be disabled in Mailbird follo
 
 Are you sure you want to continue with the purchase of Mailbird Personal?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
+  </data>
+  <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
+    <value>Guests can:</value>
+    <comment>Section for guest rights</comment>
   </data>
 </root>

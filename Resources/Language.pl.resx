@@ -6332,10 +6332,6 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <value>Free</value>
     <comment>Event privacy: free</comment>
   </data>
-  <data name="App_Calendar_EditEvent_GuestCan" xml:space="preserve">
-    <value>Gość może:</value>
-    <comment>Section for guest's right</comment>
-  </data>
   <data name="App_Calendar_EditEvent_Guests" xml:space="preserve">
     <value>Goście</value>
     <comment>Guests section in edit event window</comment>
@@ -7510,5 +7506,9 @@ Pamiętaj, że już dodane konta Exchange zostaną wyłączone po aktywacji Mail
 
 Jesteś pewien, że chcesz kontynuować zakup Mailbird  do użytku osobistego?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
+  </data>
+  <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
+    <value>Guests can:</value>
+    <comment>Section for guest rights</comment>
   </data>
 </root>
