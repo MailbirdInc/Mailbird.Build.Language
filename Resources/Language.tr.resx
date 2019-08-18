@@ -3183,7 +3183,7 @@ Please check your Internet connection and make sure any firewalls are configured
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} days remaining of your trial. When the trial ends a license will be required to keep using Mailbird.</value>
+    <value>Kalan deneme süreniz {0} gün. Süre sona erdiğinde Mailbird'ü kullanmayı sürdürmek için bir lisans gerekecek.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -7437,19 +7437,19 @@ Mailbird'ü kullanmaya devam etmek istiyorsanız, aşağıdaki lisansları satı
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
   <data name="App_GoogleDrive_Description" xml:space="preserve">
-    <value>Access all your files in Google Drive.</value>
+    <value>Google Drive'daki tüm dosyalarınıza erişin.</value>
     <comment>Description of Google Drive app</comment>
   </data>
   <data name="App_GoogleSheets_Description" xml:space="preserve">
-    <value>Quickly navigate to your spreadsheets from Mailbird.</value>
+    <value>Mailbird'ten hesap tablolarınıza hızlıca geçiş yapın.</value>
     <comment>Description of Google Sheets app</comment>
   </data>
   <data name="App_GoogleSlides_Description" xml:space="preserve">
-    <value>Quickly navigate to your presentations from Mailbird.</value>
+    <value>Mailbird'ten sunumlarınıza hızlıca geçiş yapın.</value>
     <comment>Description of Google Slides app</comment>
   </data>
   <data name="Dialog_ReauthorizationRequired" xml:space="preserve">
-    <value>Authorization required</value>
+    <value>Yetki gerekli</value>
     <comment>Title of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Dialog_ReauthorizationRequiredExplanation" xml:space="preserve">
@@ -7459,11 +7459,11 @@ This request will open in your default browser and must be completed in order fo
     <comment>Message of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredButton" xml:space="preserve">
-    <value>Authorize</value>
+    <value>Yetkilendirme</value>
     <comment>Button to start authorization as shown on notification when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredHeader" xml:space="preserve">
-    <value>Authorization required for {0}</value>
+    <value>{0} için yetkilendirme gerekli</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredMessage" xml:space="preserve">
@@ -7479,23 +7479,23 @@ Mailbird will now try again using another browser. If it still doesn't work, ple
     <comment>Message of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirectTitle" xml:space="preserve">
-    <value>HTTPS redirect detected</value>
+    <value>HTTPS yönlendirmesi algılandı</value>
     <comment>Title of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Disabled_AccountOffline" xml:space="preserve">
-    <value>This account has been disabled because Mailbird is offline.</value>
+    <value>Mailbird çevrimdışı olduğundan bu hesap devredışı bırakılmıştır.</value>
     <comment>Tooltip when account is disabled due to using Mailbird Offline</comment>
   </data>
   <data name="Dialog_GoOffline" xml:space="preserve">
-    <value>Dismiss trial extension?</value>
+    <value>Deneme süresi uzatılsın mı?</value>
     <comment>Header for messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Dialog_GoOfflineExplanation" xml:space="preserve">
-    <value>By not extending your trial Mailbird will restart and go offline. Do you wish to continue?</value>
+    <value>Deneme süresini uzatmadığınızda Mailbird yeniden başlatılır ve çevrimdışı olur.  Devam etmek istiyor musun?</value>
     <comment>Explanationfor messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
-    <value>Exchange support not included in Mailbird Personal</value>
+    <value>Mailbird Personal'da Exchange desteği bulunmaz</value>
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
@@ -7507,7 +7507,7 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
-    <value>Guests can:</value>
+    <value>Ziyaretçilerin yapabildikleri:</value>
     <comment>Section for guest rights</comment>
   </data>
 </root>
