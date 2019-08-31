@@ -567,7 +567,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Insert picture</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>Inbox Zero postaláda</value>
+    <value>A bejövő postaláda üres.</value>
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
@@ -903,7 +903,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Important</comment>
   </data>
   <data name="FolderIdentity_Inbox" xml:space="preserve">
-    <value>Bejövő postafiók</value>
+    <value>Bejövő postaláda</value>
     <comment>Inbox</comment>
   </data>
   <data name="FolderIdentity_Sent" xml:space="preserve">
@@ -1095,7 +1095,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>There's the proof. You rock!</comment>
   </data>
   <data name="InboxZero_RockStar" xml:space="preserve">
-    <value>Te egy e-mail rocksztár vagy!</value>
+    <value>Minden a legnagyobb rendben!</value>
     <comment>You're an email rockstar!!</comment>
   </data>
   <data name="License_CorrectComputerDate" xml:space="preserve">
@@ -1763,7 +1763,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Archive and next</comment>
   </data>
   <data name="Shortcut_ArchiveNextExplanation" xml:space="preserve">
-    <value>Eltávolítja a beszélgetést a bejövő postafiókból és átlép a következőhöz.</value>
+    <value>Eltávolítja a beszélgetést a bejövő postaládából és átlép a következőhöz.</value>
     <comment>Removes the conversation from the inbox and moves to the next one.</comment>
   </data>
   <data name="Shortcut_ArchivePrevious" xml:space="preserve">
@@ -1863,7 +1863,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Displays keyboard shortcuts help menu anytime Mailbird window is in view.</comment>
   </data>
   <data name="Shortcut_ImportantExplanation" xml:space="preserve">
-    <value>Segíti Gmail megismerését, ami fontos az osztályozatlan üzenetek megjelölésénél. (Különösen az Elsődleges bejövő postafiókban)</value>
+    <value>Segíti Gmail megismerését, ami fontos az osztályozatlan üzenetek megjelölésénél. (Különösen az Elsődleges bejövő postaládában)</value>
     <comment>Helps Gmail learn what's important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_MoreAction" xml:space="preserve">
@@ -1903,7 +1903,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
-    <value>Segíti Gmail megismerését, ami fontos az osztályozatlan üzenetek megjelölésénél. (Különösen az Elsődleges bejövő postafiók esetében)</value>
+    <value>Segíti Gmail megismerését, ami fontos az osztályozatlan üzenetek megjelölésénél. (Különösen az Elsődleges bejövő postaláda esetében)</value>
     <comment>Helps Gmail learn what's not important to you by marking misclassified messages. (Specific to Priority Inbox)</comment>
   </data>
   <data name="Shortcut_Open" xml:space="preserve">
@@ -1999,7 +1999,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Return to conversation list</comment>
   </data>
   <data name="Shortcut_ReturnExplanation" xml:space="preserve">
-    <value>Az oldal frissítése és visszatérése a bejövő postafiókhoz vagy a beszélgetés listához.</value>
+    <value>Az oldal frissítése és visszatérés a bejövő postaládához vagy a beszélgetés listához.</value>
     <comment>Refreshes your page and returns you to the inbox, or list of conversations.</comment>
   </data>
   <data name="Shortcut_SaveDraft" xml:space="preserve">
@@ -3161,9 +3161,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Mailbird was unable to contact the license server.
+    <value>A Mailbird nem tudott kapcsolódni a licensz szerverhez.
 
-Please check your Internet connection and make sure any firewalls are configured to allow Mailbird to connect to the server and try again.</value>
+Ellenőrizzük az internet kapcsolatot és győződjünk meg a tűzfal konfigurációja engedi-e a MaiBird számára  a kapcsolódást a szerverhez. Ezután próbáljuk újra.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -3183,7 +3183,7 @@ Please check your Internet connection and make sure any firewalls are configured
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} days remaining of your trial. When the trial ends a license will be required to keep using Mailbird.</value>
+    <value>{0} nap marad a próbaidőszakból. Ha a próbaidőszak véget ér, egy licensz szükséges a Mailbird használatához.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -3300,9 +3300,9 @@ Biztosan megszakításra kerüljön a művelet?</value>
     <comment>You just snoozed a message!</comment>
   </data>
   <data name="Notification_FirstSnoozeMessage" xml:space="preserve">
-    <value>Ezt azért helyeztük át a halasztás mappába, hogy eltegyük az útból. Ez később visszakerül a bejövő postafiókba legfelülre, ezért könnyen megtalálható ott. Ott is marad az elolvasásig.
+    <value>Ezt azért helyeztük át a halasztás mappába, hogy eltegyük az útból. Ez később visszakerül a bejövő postaládába legfelülre, ezért könnyen megtalálható ott. Ott is marad az elolvasásig.
 
-Ne feledjük, hogy a Mailbird fusson azért, hogy az üzenet visszakerülhessenek a bejövő postafiókba. Egyébként az üzenet a következő Mailbird indításkor kerül oda vissza.</value>
+Ne feledjük, hogy a Mailbird fusson azért, hogy az üzenet visszakerülhessenek a bejövő postaládába. Egyébként az üzenet a következő Mailbird indításkor kerül oda vissza.</value>
     <comment>We moved it to the snooze folder so it's out of your way. It will return to the inbox later, sorted at the top so you can find it. It will remain there until it's been read.
 
 Note that Mailbird must be running for the message to be moved back. If it's not, the message will be moved back the next time you start Mailbird.</comment>
@@ -3566,7 +3566,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Starts Mailbird with the unified account selected.</comment>
   </data>
   <data name="Notification_UnifiedAccountReleasedHeader" xml:space="preserve">
-    <value>Új lehetőség: egyesített Bejövő postafiók Plusz</value>
+    <value>Új lehetőség: egyesített Bejövő postaláda Plusz</value>
     <comment>New Feature: Unified Inbox Plus</comment>
   </data>
   <data name="Conversation_AutoLayout" xml:space="preserve">
@@ -5584,7 +5584,7 @@ Próbáljuk ki most az új Kapcsolatok alkalmazást!</value>
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Create your own video conversation room easily and share the link, up to 4 people can join for free.</value>
+    <value>Hozzunk létre könnyen saját videó beszélgetőszobát és osszuk meg a linkjét, legfeljebb 4 személy csatlakozhat díjmentesen.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
     <value>Fájlok tárolása a felhőben, 100 GB ingyenes szabad hely a biztonsági mentésnek.</value>
@@ -5620,7 +5620,7 @@ Próbáljuk ki most az új Kapcsolatok alkalmazást!</value>
     <value>Tweet bejegyzések olvasása és megosztása a világ minden tájáról.</value>
   </data>
   <data name="App_UnrollMe_Description" xml:space="preserve">
-    <value>A bejövő postafiók tisztogatása.</value>
+    <value>A bejövő postaláda tisztogatása.</value>
   </data>
   <data name="App_WeChat_Description" xml:space="preserve">
     <value>Több Közösség. Több móka. Ingyenes üzenetküldő és hívó alkalmazás.</value>
@@ -7440,77 +7440,77 @@ A Mailbird további használatához egy licenszet kell megvásárolni vagy meg k
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
   <data name="App_GoogleDrive_Description" xml:space="preserve">
-    <value>Access all your files in Google Drive.</value>
+    <value>Fájljaink elérése a Google Drive szolgáltatásban.</value>
     <comment>Description of Google Drive app</comment>
   </data>
   <data name="App_GoogleSheets_Description" xml:space="preserve">
-    <value>Quickly navigate to your spreadsheets from Mailbird.</value>
+    <value>Gyors navigálás a számolótáblákhoz a Mailbirdből.</value>
     <comment>Description of Google Sheets app</comment>
   </data>
   <data name="App_GoogleSlides_Description" xml:space="preserve">
-    <value>Quickly navigate to your presentations from Mailbird.</value>
+    <value>Gyors navigálás a prezentációkhoz a Mailbirdből.</value>
     <comment>Description of Google Slides app</comment>
   </data>
   <data name="Dialog_ReauthorizationRequired" xml:space="preserve">
-    <value>Authorization required</value>
+    <value>Hitelesítés szükséges.</value>
     <comment>Title of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Dialog_ReauthorizationRequiredExplanation" xml:space="preserve">
-    <value>Mailbird needs to reauthorize with your {0} account.
+    <value>A Mailbird ismételt hitelesítést igényel {0} fiókhoz.
 
-This request will open in your default browser and must be completed in order for Mailbird to continue accessing the account.</value>
+Ez a kérés megnyitja az lapértelmezett böngészőben és végre kell hajtani azért, hogy a Mailbird továbbra is elérhesse a fiókot.</value>
     <comment>Message of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredButton" xml:space="preserve">
-    <value>Authorize</value>
+    <value>Hitelesítés</value>
     <comment>Button to start authorization as shown on notification when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredHeader" xml:space="preserve">
-    <value>Authorization required for {0}</value>
+    <value>{0} hitelesítést igényel.</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredMessage" xml:space="preserve">
-    <value>Mailbird needs to authorize with your account in order to continue accessing it.
+    <value>A Mailbird fiók hitelesítést igényel, hogy továbbra is elérhesse azt.
 
-Until authorization has been performed the account will not synchronize with the server.</value>
+A hitelesítés elvégzéséig a fiók nem kerül szinkronizálásra a szerverrel.</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirect" xml:space="preserve">
-    <value>Mailbird was unable to authorize with the server due to the loopback address being redirected to HTTPS in the browser.
+    <value>A Mailbird nem tud hitelesítést elvégezni a szerverre, mert a visszacsatolási címet a böngészőben átirányították a HTTPS-re.
 
-Mailbird will now try again using another browser. If it still doesn't work, please disable the HTTPS redirect of the loopback address and try again.</value>
+A Mailbird most egy másik böngészővel próbálkozik. Ha ez továbbra sem működik, tiltsuk le a visszacsatolási cím HTTPS átirányítást és próbáljuk újra.</value>
     <comment>Message of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirectTitle" xml:space="preserve">
-    <value>HTTPS redirect detected</value>
+    <value>HTTPS átirányítás történt.</value>
     <comment>Title of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Disabled_AccountOffline" xml:space="preserve">
-    <value>This account has been disabled because Mailbird is offline.</value>
+    <value>Ez a fiók letiltásra került, mert a Mailbird nem kapcsolódik a világhálóhoz.</value>
     <comment>Tooltip when account is disabled due to using Mailbird Offline</comment>
   </data>
   <data name="Dialog_GoOffline" xml:space="preserve">
-    <value>Dismiss trial extension?</value>
+    <value>Elvetésre kerüljön a próba időszak kiterjesztése?</value>
     <comment>Header for messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Dialog_GoOfflineExplanation" xml:space="preserve">
-    <value>By not extending your trial Mailbird will restart and go offline. Do you wish to continue?</value>
+    <value>A próbaidőszak kiterjesztésének elvetésével a  Mailbird újra indul offline üzemmódban. Szeretnénk folytatni?</value>
     <comment>Explanationfor messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
-    <value>Exchange support not included in Mailbird Personal</value>
+    <value>Az Exchange támogatás nem tartozik a Mailbird Personal verzióhoz.</value>
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
-    <value>You have selected Mailbird Personal which does not include Exchange support. For Exchange support and other business focused features Mailbird Business is required.
+    <value>A Mailbird Personal programot választottuk, amely nem tartalmazza az Exchange támogatást. Az Exchange támogatáshoz és más, az üzleti életre fókuszáló szolgáltatásokhoz a Mailbird Business verzió szükséges.
 
-Be aware that already added Exchange accounts will be disabled in Mailbird following your activation of Personal.
+Vegyük figyelembe, hogy a már hozzáadott Exchange fiókok a Mailbird alkalmazásban le letiltásra kerülnek a Personal verzió aktiválása után.
 
-Are you sure you want to continue with the purchase of Mailbird Personal?</value>
+Biztosan folytatni szretnénk a Mailbird Personal verzió megvásárlását?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
-    <value>Guests can:</value>
+    <value>A vendégek lehetőségei:</value>
     <comment>Section for guest rights</comment>
   </data>
 </root>
