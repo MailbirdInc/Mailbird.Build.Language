@@ -3159,9 +3159,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Mailbird was unable to contact the license server.
+    <value>Non è stato possibile contattare il server delle licenze Mailbird.
 
-Please check your Internet connection and make sure any firewalls are configured to allow Mailbird to connect to the server and try again.</value>
+Controlla la tua connessione a Internet e assicurati che il firewall non blocchi le connessioni, poi riprova.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -3181,7 +3181,7 @@ Please check your Internet connection and make sure any firewalls are configured
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} days remaining of your trial. When the trial ends a license will be required to keep using Mailbird.</value>
+    <value>{0} giorni rimanenti nel periodo di prova. Quando la prova termina, sarà necessaria una licenza per continuare a usare Mailbird.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -5583,7 +5583,7 @@ Prova adesso la nuova app Contatti!</value>
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Create your own video conversation room easily and share the link, up to 4 people can join for free.</value>
+    <value>Crea gratis una stanza di conversazione video e invita facilmente fino a 4 persone condividendo un link.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
     <value>Salva i tuoi file nel cloud, 100 GB sono gratis.</value>
@@ -7057,7 +7057,7 @@ alla Posta in arrivo.</value>
     <comment>Field for calendar's color</comment>
   </data>
   <data name="App_ZeroBounce_Description" xml:space="preserve">
-    <value>The premier email validation system. Reach the inbox by weeding out risky emails from your list.</value>
+    <value>Il miglior sistema di validazione email. Invia messaggi scartando indirizzi email pericolosi dalla tua lista.</value>
     <comment>App description for ZeroBounce.</comment>
   </data>
   <data name="App_Calendar_SyncDetails" xml:space="preserve">
@@ -7438,77 +7438,77 @@ Se desideri continuare a usare Mailbird puoi acquistare una licenza oppure inser
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
   <data name="App_GoogleDrive_Description" xml:space="preserve">
-    <value>Access all your files in Google Drive.</value>
+    <value>Accedi ai tuoi file Google Drive.</value>
     <comment>Description of Google Drive app</comment>
   </data>
   <data name="App_GoogleSheets_Description" xml:space="preserve">
-    <value>Quickly navigate to your spreadsheets from Mailbird.</value>
+    <value>Consulta rapidamente i tuoi fogli di calcolo da Mailbird.</value>
     <comment>Description of Google Sheets app</comment>
   </data>
   <data name="App_GoogleSlides_Description" xml:space="preserve">
-    <value>Quickly navigate to your presentations from Mailbird.</value>
+    <value>Controlla rapidamente le tue presentazioni da Mailbird.</value>
     <comment>Description of Google Slides app</comment>
   </data>
   <data name="Dialog_ReauthorizationRequired" xml:space="preserve">
-    <value>Authorization required</value>
+    <value>Autorizzazione richiesta</value>
     <comment>Title of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Dialog_ReauthorizationRequiredExplanation" xml:space="preserve">
-    <value>Mailbird needs to reauthorize with your {0} account.
+    <value>Mailbird ha bisogno dell'autorizzazione per il tuo account {0}.
 
-This request will open in your default browser and must be completed in order for Mailbird to continue accessing the account.</value>
+La richiesta si aprirà nel tuo browser predefinito e deve essere completata per poter continuare ad accedere all'account in Mailbird.</value>
     <comment>Message of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredButton" xml:space="preserve">
-    <value>Authorize</value>
+    <value>Autorizza</value>
     <comment>Button to start authorization as shown on notification when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredHeader" xml:space="preserve">
-    <value>Authorization required for {0}</value>
+    <value>Autorizzazione richiesta per {0}</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredMessage" xml:space="preserve">
-    <value>Mailbird needs to authorize with your account in order to continue accessing it.
+    <value>Mailbird ha bisogno della tua autorizzazione per continuare ad accedere all'account.
 
-Until authorization has been performed the account will not synchronize with the server.</value>
+L'account non si sincronizzerà con il server fino a quando l'autorizzazione non sarà completata.</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirect" xml:space="preserve">
-    <value>Mailbird was unable to authorize with the server due to the loopback address being redirected to HTTPS in the browser.
+    <value>Non è stato possibile completare l'autorizzazione perché l'indirizzo di loopback è stato redirezionato a HTTPS nel browser.
 
-Mailbird will now try again using another browser. If it still doesn't work, please disable the HTTPS redirect of the loopback address and try again.</value>
+Mailbird riproverà ora con un altro browser. Se ancora non funziona, per favore disabilita il redirect HTTPS sull'indirizzo di loopback e riprova.</value>
     <comment>Message of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirectTitle" xml:space="preserve">
-    <value>HTTPS redirect detected</value>
+    <value>Redirect HTTPS individuato</value>
     <comment>Title of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Disabled_AccountOffline" xml:space="preserve">
-    <value>This account has been disabled because Mailbird is offline.</value>
+    <value>Questo account è stato disabilitato perché Mailbird è offline.</value>
     <comment>Tooltip when account is disabled due to using Mailbird Offline</comment>
   </data>
   <data name="Dialog_GoOffline" xml:space="preserve">
-    <value>Dismiss trial extension?</value>
+    <value>Annullare estensione prova?</value>
     <comment>Header for messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Dialog_GoOfflineExplanation" xml:space="preserve">
-    <value>By not extending your trial Mailbird will restart and go offline. Do you wish to continue?</value>
+    <value>Se non estenderai la prova di Mailbird l'applicazione si riavverà e andrà offline. Vuoi continuare?</value>
     <comment>Explanationfor messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
-    <value>Exchange support not included in Mailbird Personal</value>
+    <value>Il supporto a Exchange non è incluso in Mailbird Personal</value>
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
-    <value>You have selected Mailbird Personal which does not include Exchange support. For Exchange support and other business focused features Mailbird Business is required.
+    <value>Hai selezionato il piano Mailbird Personal che non include il supporto a Exchange. Per Exchange e altre funzionalità aziendali è richiesto Mailbird Business.
 
-Be aware that already added Exchange accounts will be disabled in Mailbird following your activation of Personal.
+Tieni presente che gli account Exchange già aggiunti saranno disabilitati in seguito all'attivazione di Mailbird Personal.
 
-Are you sure you want to continue with the purchase of Mailbird Personal?</value>
+Sei sicuro di voler continuare con l'acquisto di Mailbird Personal?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
-    <value>Guests can:</value>
+    <value>Gli ospiti possono:</value>
     <comment>Section for guest rights</comment>
   </data>
 </root>
