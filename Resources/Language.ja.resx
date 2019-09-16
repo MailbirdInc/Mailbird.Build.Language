@@ -7452,4 +7452,178 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <value>Guests can:</value>
     <comment>Section for guest rights</comment>
   </data>
+  <data name="Filters_Action_Categorize" xml:space="preserve">
+    <value>categorize as {0}</value>
+  </data>
+  <data name="Filters_Action_CopyToFolder" xml:space="preserve">
+    <value>copy to {0} folder</value>
+  </data>
+  <data name="Filters_Action_Delete" xml:space="preserve">
+    <value>delete</value>
+  </data>
+  <data name="Filters_Action_Forward" xml:space="preserve">
+    <value>forward to {0}</value>
+  </data>
+  <data name="Filters_Action_MarkAsImportant" xml:space="preserve">
+    <value>mark as important</value>
+  </data>
+  <data name="Filters_Action_MarkAsNotImportant" xml:space="preserve">
+    <value>never mark as important</value>
+  </data>
+  <data name="Filters_Action_MarkAsNotSpam" xml:space="preserve">
+    <value>never mark as spam</value>
+  </data>
+  <data name="Filters_Action_MarkAsRead" xml:space="preserve">
+    <value>mark as read</value>
+  </data>
+  <data name="Filters_Action_SkipInbox" xml:space="preserve">
+    <value>skip Inbox (archive)</value>
+  </data>
+  <data name="Filters_Action_Star" xml:space="preserve">
+    <value>mark as starred</value>
+  </data>
+  <data name="Filters_Condition_Excluding" xml:space="preserve">
+    <value>subject or body does not include {0}</value>
+  </data>
+  <data name="Filters_Condition_From" xml:space="preserve">
+    <value>from {0}</value>
+  </data>
+  <data name="Filters_Condition_HasAttachements" xml:space="preserve">
+    <value>with attachments</value>
+  </data>
+  <data name="Filters_Condition_Include" xml:space="preserve">
+    <value>subject or body contains {0}</value>
+  </data>
+  <data name="Filters_Condition_SizeLargerThan" xml:space="preserve">
+    <value>size larger than {0}</value>
+  </data>
+  <data name="Filters_Condition_SizeSmallerThan" xml:space="preserve">
+    <value>size smaller than {0}</value>
+  </data>
+  <data name="Filters_Condition_Subject" xml:space="preserve">
+    <value>subject contains {0}</value>
+  </data>
+  <data name="Filters_Condition_To" xml:space="preserve">
+    <value>to {0}</value>
+  </data>
+  <data name="Filter_Field_Action_CopyToFolder" xml:space="preserve">
+    <value>Copy to folder</value>
+    <comment>Filter action in the filter window</comment>
+  </data>
+  <data name="Filter_Field_Condition_From" xml:space="preserve">
+    <value>From</value>
+    <comment>Filter condition in the filter window</comment>
+  </data>
+  <data name="Filter_Field_Condition_Subject" xml:space="preserve">
+    <value>Subject</value>
+    <comment>Filter condition in the filter window</comment>
+  </data>
+  <data name="Filter_Field_Condition_To" xml:space="preserve">
+    <value>To</value>
+    <comment>Filter condition in the filter window</comment>
+  </data>
+  <data name="Filter_Field_MissingFolder" xml:space="preserve">
+    <value>missing folder</value>
+    <comment>Placeholder when folder is not found or deleted</comment>
+  </data>
+  <data name="Filter_Field_NoContacts" xml:space="preserve">
+    <value>no contacts</value>
+    <comment>Placeholder when there is no contacts</comment>
+  </data>
+  <data name="Filter_Field_NoFolder" xml:space="preserve">
+    <value>no folder</value>
+    <comment>Placeholder when there is no folder</comment>
+  </data>
+  <data name="Filter_Field_NoSubject" xml:space="preserve">
+    <value>no subject</value>
+    <comment>Placeholder when there is no subject</comment>
+  </data>
+  <data name="Filter_NewFolder" xml:space="preserve">
+    <value>Add new folder...</value>
+    <comment>Menu item to create new folder</comment>
+  </data>
+  <data name="Dialog_RemoveFilter" xml:space="preserve">
+    <value>Remove filter?</value>
+    <comment>Dialog header</comment>
+  </data>
+  <data name="Dialog_RemoveFilterExplanation" xml:space="preserve">
+    <value>Are you sure you want to remove this filter?</value>
+    <comment>Dialog explanation</comment>
+  </data>
+  <data name="Filter_EditFilter_Actions" xml:space="preserve">
+    <value>2. Actions</value>
+    <comment>Header for actions section in edit filter window</comment>
+  </data>
+  <data name="Filter_EditFilter_ActionsExplanation" xml:space="preserve">
+    <value>Determine actions for the filtered emails.</value>
+    <comment>Explanation for actions section in edit filter window</comment>
+  </data>
+  <data name="Filter_EditFilter_AddAction" xml:space="preserve">
+    <value>Add action</value>
+    <comment>Button content</comment>
+  </data>
+  <data name="Filter_EditFilter_AddCondition" xml:space="preserve">
+    <value>Add condition</value>
+    <comment>Button content</comment>
+  </data>
+  <data name="Filter_EditFilter_Conditions" xml:space="preserve">
+    <value>1. Conditions</value>
+    <comment>Header for conditions section in edit filter window</comment>
+  </data>
+  <data name="Filter_EditFilter_ConditionsExplanation" xml:space="preserve">
+    <value>Set conditions for the emails you want to filter.</value>
+    <comment>Explanation for conditions section in edit filter window</comment>
+  </data>
+  <data name="Filter_EditFilter_Review" xml:space="preserve">
+    <value>3. Review</value>
+    <comment>Header for review section in edit filter window</comment>
+  </data>
+  <data name="Filter_ValidationRule_Email" xml:space="preserve">
+    <value>Please add email or name</value>
+    <comment>Tooltip message when contact field is empty</comment>
+  </data>
+  <data name="Filter_ValidationRule_EmptyValue" xml:space="preserve">
+    <value>Value can't be empty</value>
+    <comment>Tooltip message when textbox is empty</comment>
+  </data>
+  <data name="Filter_ValidationRule_Folder" xml:space="preserve">
+    <value>Please select folder</value>
+    <comment>Tooltip message when there is no folder selected</comment>
+  </data>
+  <data name="Options_Filters" xml:space="preserve">
+    <value>Filters</value>
+    <comment>Filters tab in option window</comment>
+  </data>
+  <data name="Options_Filters_FiltersFor" xml:space="preserve">
+    <value>Filters for:</value>
+    <comment>Label for displaying filter</comment>
+  </data>
+  <data name="Filter_ContactPlaceholder" xml:space="preserve">
+    <value>Add one or more contacts</value>
+    <comment>Placeholder in from and to field in filter condition</comment>
+  </data>
+  <data name="Filter_EditFilter_Applied" xml:space="preserve">
+    <value>The filter will be applied to incoming messages in the [bold]{0}[/bold] account.</value>
+    <comment>Explanation in filter window</comment>
+  </data>
+  <data name="Notification_FiltersWithMissingFolderButton" xml:space="preserve">
+    <value>Edit filter</value>
+    <comment>Button in notification to edit filter</comment>
+  </data>
+  <data name="Notification_FiltersWithMissingFolderHeader" xml:space="preserve">
+    <value>Filter with deleted folder</value>
+    <comment>Header in notification when folder is missing in filter</comment>
+  </data>
+  <data name="Notification_FiltersWithMissingFolderMessage" xml:space="preserve">
+    <value>There is missing folder for filter with "Copy to folder" action. That action won't be executed. Please edit and fix it.</value>
+    <comment>Error message when on filter item</comment>
+  </data>
+  <data name="Options_Filters_FiltersNote" xml:space="preserve">
+    <value>The filters will be applied to incoming messages when Mailbird is running.</value>
+    <comment>Note in the bottom of filters list</comment>
+  </data>
+  <data name="Filter_ContactTooltip" xml:space="preserve">
+    <value>Type to add more items.</value>
+    <comment>Tooltip for contact textbox in edit filter window</comment>
+  </data>
 </root>
