@@ -3161,9 +3161,9 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Inactive License</comment>
   </data>
   <data name="License_NoConnection" xml:space="preserve">
-    <value>Mailbird was unable to contact the license server.
+    <value>Mailbird, lisans sunucusuyla bağlantı kuramadı.
 
-Please check your Internet connection and make sure any firewalls are configured to allow Mailbird to connect to the server and try again.</value>
+Lütfen İnternet bağlantınızı kontrol edin ve güvenlik duvarlarının Mailbird'ün sunucuya bağlanmasına izin verecek şekilde yapılandırıldığından emin olun ve yeniden deneyin.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -5582,7 +5582,7 @@ Yeni Kişileri şimdi deneyin!</value>
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Create your own video conversation room easily and share the link, up to 4 people can join for free.</value>
+    <value>Kolayca kendi video sohbet odanızı oluşturun ve bağlantıyı paylaşın, 4 kişiye kadar ücretsiz katılabilirsiniz.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
     <value>Dosyalarınızı bulutta depolayın, 100 GB ücretsiz bulut yedekleme.</value>
@@ -7453,9 +7453,9 @@ Mailbird'ü kullanmaya devam etmek istiyorsanız, aşağıdaki lisansları satı
     <comment>Title of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Dialog_ReauthorizationRequiredExplanation" xml:space="preserve">
-    <value>Mailbird needs to reauthorize with your {0} account.
+    <value>Mailbird'ün {0} hesabınızla yeniden yetkilendirilmesi gerekiyor.
 
-This request will open in your default browser and must be completed in order for Mailbird to continue accessing the account.</value>
+Bu istek varsayılan tarayıcınızda açılır ve Mailbird'ün hesaba erişmeye devam etmesi için tamamlanması gerekir.</value>
     <comment>Message of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredButton" xml:space="preserve">
@@ -7467,15 +7467,15 @@ This request will open in your default browser and must be completed in order fo
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredMessage" xml:space="preserve">
-    <value>Mailbird needs to authorize with your account in order to continue accessing it.
+    <value>Mailbird’e erişmeye devam etmek için hesabınızla yetkilendirmesi gerekiyor.
 
-Until authorization has been performed the account will not synchronize with the server.</value>
+Yetkilendirme yapılıncaya kadar hesap sunucu ile eşitlenmeyecektir.</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirect" xml:space="preserve">
-    <value>Mailbird was unable to authorize with the server due to the loopback address being redirected to HTTPS in the browser.
+    <value>Mailbird, tarayıcıdaki HTTPS'ye yönlendirilen geridöngü adresi nedeniyle sunucuya yetki veremedi.
 
-Mailbird will now try again using another browser. If it still doesn't work, please disable the HTTPS redirect of the loopback address and try again.</value>
+Mailbird şimdi başka bir tarayıcı kullanarak yeniden deneyecek. Hala işe yaramazsa, lütfen geridöngü adresinin HTTPS yönlendirmesini devre dışı bırakın ve yeniden deneyin.</value>
     <comment>Message of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirectTitle" xml:space="preserve">
@@ -7499,11 +7499,11 @@ Mailbird will now try again using another browser. If it still doesn't work, ple
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
-    <value>You have selected Mailbird Personal which does not include Exchange support. For Exchange support and other business focused features Mailbird Business is required.
+    <value>Exchange desteği içermeyen Mailbird Personal'ı seçtiniz. Exchange desteği ve diğer iş odaklı özellikler için Mailbird Business gereklidir.
 
-Be aware that already added Exchange accounts will be disabled in Mailbird following your activation of Personal.
+Personal etkinleştirmenizi takiben zaten eklenen Exchange hesaplarının Mailbird'de devre dışı bırakılacağını unutmayın.
 
-Are you sure you want to continue with the purchase of Mailbird Personal?</value>
+Mailbird Personal satın almaya devam etmek istediğinizden emin misiniz?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
@@ -7511,69 +7511,69 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Section for guest rights</comment>
   </data>
   <data name="Filters_Action_Categorize" xml:space="preserve">
-    <value>categorize as {0}</value>
+    <value>{0} olarak sınıflandır</value>
   </data>
   <data name="Filters_Action_CopyToFolder" xml:space="preserve">
-    <value>copy to {0} folder</value>
+    <value>{0} klasörüne kopyala</value>
   </data>
   <data name="Filters_Action_Delete" xml:space="preserve">
     <value>delete</value>
   </data>
   <data name="Filters_Action_Forward" xml:space="preserve">
-    <value>forward to {0}</value>
+    <value>{0} 'e yönlendir</value>
   </data>
   <data name="Filters_Action_MarkAsImportant" xml:space="preserve">
-    <value>mark as important</value>
+    <value>önemli olarak işaretle</value>
   </data>
   <data name="Filters_Action_MarkAsNotImportant" xml:space="preserve">
-    <value>never mark as important</value>
+    <value>asla önemli olarak işaretleme</value>
   </data>
   <data name="Filters_Action_MarkAsNotSpam" xml:space="preserve">
-    <value>never mark as spam</value>
+    <value>asla istenmeyen posta olarak işaretleme</value>
   </data>
   <data name="Filters_Action_MarkAsRead" xml:space="preserve">
-    <value>mark as read</value>
+    <value>okunmuş olarak işaretle</value>
   </data>
   <data name="Filters_Action_SkipInbox" xml:space="preserve">
-    <value>skip Inbox (archive)</value>
+    <value>gelen kutusunu atla (arşiv)</value>
   </data>
   <data name="Filters_Action_Star" xml:space="preserve">
-    <value>mark as starred</value>
+    <value>yıldızlı olarak işaretle</value>
   </data>
   <data name="Filters_Condition_Excluding" xml:space="preserve">
-    <value>subject or body does not include {0}</value>
+    <value>konu ya da gövde {0} içermesin</value>
   </data>
   <data name="Filters_Condition_From" xml:space="preserve">
-    <value>from {0}</value>
+    <value>{0} dan</value>
   </data>
   <data name="Filters_Condition_HasAttachements" xml:space="preserve">
-    <value>with attachments</value>
+    <value>eklerle beraber</value>
   </data>
   <data name="Filters_Condition_Include" xml:space="preserve">
-    <value>subject or body contains {0}</value>
+    <value>konu ya da gövde {0} içersin</value>
   </data>
   <data name="Filters_Condition_SizeLargerThan" xml:space="preserve">
-    <value>size larger than {0}</value>
+    <value>{0} dan daha büyük boyut</value>
   </data>
   <data name="Filters_Condition_SizeSmallerThan" xml:space="preserve">
-    <value>size smaller than {0}</value>
+    <value>{0} dan daha küçük boyut</value>
   </data>
   <data name="Filters_Condition_Subject" xml:space="preserve">
-    <value>subject contains {0}</value>
+    <value>{0} içeren konu</value>
   </data>
   <data name="Filters_Condition_To" xml:space="preserve">
     <value>to {0}</value>
   </data>
   <data name="Filter_Field_Action_CopyToFolder" xml:space="preserve">
-    <value>Copy to folder</value>
+    <value>Klasöre kopyala</value>
     <comment>Filter action in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_From" xml:space="preserve">
-    <value>From</value>
+    <value>Kimden</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_Subject" xml:space="preserve">
-    <value>Subject</value>
+    <value>Konu</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_To" xml:space="preserve">
@@ -7581,7 +7581,7 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_MissingFolder" xml:space="preserve">
-    <value>missing folder</value>
+    <value>kayıp klasör</value>
     <comment>Placeholder when folder is not found or deleted</comment>
   </data>
   <data name="Filter_Field_NoContacts" xml:space="preserve">
@@ -7589,23 +7589,23 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Placeholder when there is no contacts</comment>
   </data>
   <data name="Filter_Field_NoFolder" xml:space="preserve">
-    <value>no folder</value>
+    <value>klasör yok</value>
     <comment>Placeholder when there is no folder</comment>
   </data>
   <data name="Filter_Field_NoSubject" xml:space="preserve">
-    <value>no subject</value>
+    <value>konu yok</value>
     <comment>Placeholder when there is no subject</comment>
   </data>
   <data name="Filter_NewFolder" xml:space="preserve">
-    <value>Add new folder...</value>
+    <value>Yeni klasör ekle...</value>
     <comment>Menu item to create new folder</comment>
   </data>
   <data name="Dialog_RemoveFilter" xml:space="preserve">
-    <value>Remove filter?</value>
+    <value>Filtre kaldırılsın mı?</value>
     <comment>Dialog header</comment>
   </data>
   <data name="Dialog_RemoveFilterExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove this filter?</value>
+    <value>Bu filtreyi kaldırmak istediğinize emin misiniz?</value>
     <comment>Dialog explanation</comment>
   </data>
   <data name="Filter_EditFilter_Actions" xml:space="preserve">
@@ -7613,39 +7613,39 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Header for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ActionsExplanation" xml:space="preserve">
-    <value>Determine actions for the filtered emails.</value>
+    <value>Filtrelenen e-postalar için eylemleri belirleyin.</value>
     <comment>Explanation for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_AddAction" xml:space="preserve">
-    <value>Add action</value>
+    <value>Eylem ekle</value>
     <comment>Button content</comment>
   </data>
   <data name="Filter_EditFilter_AddCondition" xml:space="preserve">
-    <value>Add condition</value>
+    <value>Koşul ekle</value>
     <comment>Button content</comment>
   </data>
   <data name="Filter_EditFilter_Conditions" xml:space="preserve">
-    <value>1. Conditions</value>
+    <value>1. Koşullar</value>
     <comment>Header for conditions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ConditionsExplanation" xml:space="preserve">
-    <value>Set conditions for the emails you want to filter.</value>
+    <value>Filtrelemek istediğiniz e-postaların koşullarını ayarlayın.</value>
     <comment>Explanation for conditions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_Review" xml:space="preserve">
-    <value>3. Review</value>
+    <value>3. Gözden geçirme</value>
     <comment>Header for review section in edit filter window</comment>
   </data>
   <data name="Filter_ValidationRule_Email" xml:space="preserve">
-    <value>Please add email or name</value>
+    <value>Lütfen e-posta ya da ad ekleyin</value>
     <comment>Tooltip message when contact field is empty</comment>
   </data>
   <data name="Filter_ValidationRule_EmptyValue" xml:space="preserve">
-    <value>Value can't be empty</value>
+    <value>Değer boş olamaz</value>
     <comment>Tooltip message when textbox is empty</comment>
   </data>
   <data name="Filter_ValidationRule_Folder" xml:space="preserve">
-    <value>Please select folder</value>
+    <value>Lütfen klasör seçin</value>
     <comment>Tooltip message when there is no folder selected</comment>
   </data>
   <data name="Options_Filters" xml:space="preserve">
@@ -7657,31 +7657,31 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Label for displaying filter</comment>
   </data>
   <data name="Filter_ContactPlaceholder" xml:space="preserve">
-    <value>Add one or more contacts</value>
+    <value>Bir ya da daha fazla kişi ekleyin</value>
     <comment>Placeholder in from and to field in filter condition</comment>
   </data>
   <data name="Filter_EditFilter_Applied" xml:space="preserve">
-    <value>The filter will be applied to incoming messages in the [bold]{0}[/bold] account.</value>
+    <value>Filtre, [bold]{0}[/bold] hesabındaki gelen iletilere uygulanacaktır.</value>
     <comment>Explanation in filter window</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderButton" xml:space="preserve">
-    <value>Edit filter</value>
+    <value>Filtreyi düzenle</value>
     <comment>Button in notification to edit filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderHeader" xml:space="preserve">
-    <value>Filter with deleted folder</value>
+    <value>Silinen klasörle filtre uygula</value>
     <comment>Header in notification when folder is missing in filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderMessage" xml:space="preserve">
-    <value>There is missing folder for filter with "Copy to folder" action. That action won't be executed. Please edit and fix it.</value>
+    <value>"Klasöre kopyala" işlemi olan filtre için eksik klasör var. Bu işlem yürütülmeyecek. Lütfen düzenleyin ve düzeltin.</value>
     <comment>Error message when on filter item</comment>
   </data>
   <data name="Options_Filters_FiltersNote" xml:space="preserve">
-    <value>The filters will be applied to incoming messages when Mailbird is running.</value>
+    <value>Mailbird çalışırken filtreler gelen iletilere uygulanacaktır.</value>
     <comment>Note in the bottom of filters list</comment>
   </data>
   <data name="Filter_ContactTooltip" xml:space="preserve">
-    <value>Type to add more items.</value>
+    <value>Daha fazla öğe eklemek için yazın.</value>
     <comment>Tooltip for contact textbox in edit filter window</comment>
   </data>
 </root>
