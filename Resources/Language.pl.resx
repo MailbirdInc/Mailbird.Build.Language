@@ -5935,9 +5935,9 @@ Skontaktuj się z supportem, by uzyskać informacje na temat możliwości rozwi�
     <comment>Tooltip for button to open the folder list in left menu</comment>
   </data>
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
-    <value>Cenimy Twoją prywatność, ale chcielibyśmy pozostać w kontakcie.
+    <value>Cenimy Twoją prywatność, ale chcielibyśmy być z Tobą w kontakcie.
 
-Więc prosimy o Twoją zgodę na przysyłanie Ci okazjonalnych e-maili wyłącznie na temat Mailbirda, jak użyteczne wskazówki, specjalne promocje i szczegóły na temat nowych ekscytujących funkcji Mailbirda.</value>
+Dlatego prosimy o zgodę na przysyłanie Ci okazjonalnych e-maili dotyczących Mailbirda, jak użyteczne wskazówki, specjalne promocje i szczegóły na temat nowych ekscytujących funkcji Mailbirda.</value>
     <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
@@ -6051,7 +6051,7 @@ Jeśli problem nadal występuje, skontaktuj się z supportem {0}</value>
     <comment>Button to show more events in a day</comment>
   </data>
   <data name="App_Calendar_NewEvent" xml:space="preserve">
-    <value>+ New event</value>
+    <value>+ Nowe wydarzenie</value>
     <comment>Button to create new event</comment>
   </data>
   <data name="App_Calendar_Next" xml:space="preserve">
@@ -6129,7 +6129,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Label to edit time zone in calendar</comment>
   </data>
   <data name="App_Calendar_Minutes" xml:space="preserve">
-    <value>{0} minutes</value>
+    <value>{0} minut</value>
     <comment>Leave the {0}, will be formatted to e.g. 30 minutes</comment>
   </data>
   <data name="App_Calendar_WeekAt" xml:space="preserve">
@@ -6153,7 +6153,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Option to set first day of week</comment>
   </data>
   <data name="App_Calendar_Settings_ViewOptions" xml:space="preserve">
-    <value>View options</value>
+    <value>Zobacz opcje</value>
     <comment>Section in calendar settings window for views related settings</comment>
   </data>
   <data name="App_Calendar_EventCreatedBy" xml:space="preserve">
@@ -6193,7 +6193,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Erro message when field can't be empty</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Opis</value>
     <comment>Field label for calendar's description</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Header" xml:space="preserve">
@@ -6201,7 +6201,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Header when editing calendar's settings</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Nazwa</value>
     <comment>Field label for calendar's name</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_NewCalendar" xml:space="preserve">
@@ -6233,7 +6233,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Header to settings section related to account's calendars</comment>
   </data>
   <data name="App_Calendar_Settings_General" xml:space="preserve">
-    <value>General</value>
+    <value>Ogólne</value>
     <comment>Label to settings in general section</comment>
   </data>
   <data name="Dialog_RemoveCalendar" xml:space="preserve">
@@ -6357,7 +6357,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Guest right to modify event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Notification" xml:space="preserve">
-    <value>Notification</value>
+    <value>Powiadomienie</value>
     <comment>Popup notification for upcoming event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Optional" xml:space="preserve">
@@ -6405,7 +6405,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Label for time zone for start time for an event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Dzień</value>
     <comment>Time unit: day</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_DayPlural" xml:space="preserve">
@@ -6468,7 +6468,7 @@ e.g. "1 occurrence"</comment>
 e.g. "2 occurrences"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_On" xml:space="preserve">
-    <value>On</value>
+    <value>dnia</value>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
@@ -6523,11 +6523,11 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on the last weekday of the month. Example: Last Monday, Last Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_On" xml:space="preserve">
-    <value>on {0}</value>
+    <value>w {0}</value>
     <comment>An event repeats on a week day. Example: on Monday, on Friday, On October 8</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnDay" xml:space="preserve">
-    <value>on day {0}</value>
+    <value>dnia {0}</value>
     <comment>An event repeats on a month day. Example: on day 1, on day 2, on day 31</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnlyOnce" xml:space="preserve">
@@ -6535,7 +6535,7 @@ e.g. "2 occurrences"</comment>
     <comment>Calendar event repeats only 1 time.</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnThe" xml:space="preserve">
-    <value>on the {0}</value>
+    <value>w {0}</value>
     <comment>An event repeats on n day of the week. Example: on the first Monday, on the third Thursday, on the last Friday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Second" xml:space="preserve">
@@ -6555,7 +6555,7 @@ e.g. "2 occurrences"</comment>
     <comment>Custom recurrence</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryWeekday" xml:space="preserve">
-    <value>Każdy dzień powszedni od ({0} do {1})</value>
+    <value>Każdy dzień powszedni (od {0} do {1})</value>
   </data>
   <data name="App_Calendar_Recurrence_OnWeekdays" xml:space="preserve">
     <value>w dni powszednie</value>
@@ -6593,7 +6593,7 @@ e.g. "2 occurrences"</comment>
     <comment>Time unit: hours</comment>
   </data>
   <data name="App_Calendar_EditEvent_MinutePlural" xml:space="preserve">
-    <value>Minutes</value>
+    <value>minut</value>
     <comment>Time unit: minutes</comment>
   </data>
   <data name="App_Calendar_EditEvent_Before" xml:space="preserve">
@@ -6629,11 +6629,11 @@ e.g. "2 occurrences"</comment>
     <comment>Cancel button </comment>
   </data>
   <data name="App_Calendar_Notification_DontSend" xml:space="preserve">
-    <value>Don't send</value>
+    <value>Nie wysyłaj</value>
     <comment>Don't send button</comment>
   </data>
   <data name="App_Calendar_Notification_Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Wyślij</value>
     <comment>Send button</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellation" xml:space="preserve">
@@ -6689,15 +6689,15 @@ e.g. "2 occurrences"</comment>
     <comment>Use to concatenate hour and time. Eg: 5hours and 15 minutes</comment>
   </data>
   <data name="App_Calendar_Notification_Title" xml:space="preserve">
-    <value>Notification</value>
+    <value>Powiadomienie</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_TitlePlural" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Powiadomienia</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_NoNotifications" xml:space="preserve">
-    <value>No notifications</value>
+    <value>Brak powiadomień</value>
     <comment>Label when there are no notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllExplanation" xml:space="preserve">
@@ -6713,7 +6713,7 @@ e.g. "2 occurrences"</comment>
     <comment>Explanation for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllHeader" xml:space="preserve">
-    <value>Odłżyć wszystkie powiadomienia?</value>
+    <value>Odłożyć wszystkie powiadomienia?</value>
     <comment>Header for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Dismiss" xml:space="preserve">
@@ -6733,7 +6733,7 @@ e.g. "2 occurrences"</comment>
     <comment>Button to snooze all notifications</comment>
   </data>
   <data name="App_Calendar_Notifications" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Powiadomienia</value>
     <comment>Button to open notifications window</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddAllDayNotification" xml:space="preserve">
@@ -6745,7 +6745,7 @@ e.g. "2 occurrences"</comment>
     <comment>Section for event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_EventNotifications" xml:space="preserve">
-    <value>Event notifications</value>
+    <value>Powiadomienia o wydarzeniach</value>
     <comment>Section for all day event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_CantModifyMessage" xml:space="preserve">
@@ -6753,11 +6753,11 @@ e.g. "2 occurrences"</comment>
     <comment>Message where users editing event but they are not the organizer</comment>
   </data>
   <data name="App_Calendar_Settings_Export" xml:space="preserve">
-    <value>Export</value>
+    <value>Eksportowanie</value>
     <comment>Label of export event button in Calendar settings</comment>
   </data>
   <data name="App_Calendar_Settings_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importuj</value>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
@@ -6809,7 +6809,7 @@ e.g. "2 occurrences"</comment>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
-    <value>Export error</value>
+    <value>Błąd eksportu</value>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
@@ -6825,7 +6825,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
-    <value>No events</value>
+    <value>Brak wydarzeń</value>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
@@ -6837,7 +6837,7 @@ e.g. "2 occurrences"</comment>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
-    <value>Import error</value>
+    <value>Błąd importu</value>
     <comment>Header when there was error in import process</comment>
   </data>
   <data name="App_Calendar_Import_Finished" xml:space="preserve">
@@ -6857,7 +6857,7 @@ e.g. "2 occurrences"</comment>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
-    <value>Import &amp; export</value>
+    <value>Importowanie i eksportowanie</value>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
@@ -7563,7 +7563,7 @@ Jesteś pewien, że chcesz kontynuować zakup Mailbird  do użytku osobistego?</
     <value>temat zawiera {0}</value>
   </data>
   <data name="Filters_Condition_To" xml:space="preserve">
-    <value>to {0}</value>
+    <value>do {0}</value>
   </data>
   <data name="Filter_Field_Action_CopyToFolder" xml:space="preserve">
     <value>Kopiuj do foldera</value>
@@ -7578,7 +7578,7 @@ Jesteś pewien, że chcesz kontynuować zakup Mailbird  do użytku osobistego?</
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_To" xml:space="preserve">
-    <value>To</value>
+    <value>Do</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_MissingFolder" xml:space="preserve">
@@ -7586,7 +7586,7 @@ Jesteś pewien, że chcesz kontynuować zakup Mailbird  do użytku osobistego?</
     <comment>Placeholder when folder is not found or deleted</comment>
   </data>
   <data name="Filter_Field_NoContacts" xml:space="preserve">
-    <value>no contacts</value>
+    <value>brak kontaktów</value>
     <comment>Placeholder when there is no contacts</comment>
   </data>
   <data name="Filter_Field_NoFolder" xml:space="preserve">
@@ -7610,7 +7610,7 @@ Jesteś pewien, że chcesz kontynuować zakup Mailbird  do użytku osobistego?</
     <comment>Dialog explanation</comment>
   </data>
   <data name="Filter_EditFilter_Actions" xml:space="preserve">
-    <value>2. Actions</value>
+    <value>2. Działania</value>
     <comment>Header for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ActionsExplanation" xml:space="preserve">
@@ -7650,11 +7650,11 @@ Jesteś pewien, że chcesz kontynuować zakup Mailbird  do użytku osobistego?</
     <comment>Tooltip message when there is no folder selected</comment>
   </data>
   <data name="Options_Filters" xml:space="preserve">
-    <value>Filters</value>
+    <value>Filtry</value>
     <comment>Filters tab in option window</comment>
   </data>
   <data name="Options_Filters_FiltersFor" xml:space="preserve">
-    <value>Filters for:</value>
+    <value>Filtry dla:</value>
     <comment>Label for displaying filter</comment>
   </data>
   <data name="Filter_ContactPlaceholder" xml:space="preserve">
