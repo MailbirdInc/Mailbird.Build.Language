@@ -1419,7 +1419,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} Samtaler arkivert</value>
+    <value>{0} conversations archived</value>
     <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
@@ -1455,7 +1455,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
-    <value>{0} Samtaler satt i papirkurv</value>
+    <value>{0} conversations trashed</value>
     <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
@@ -3800,7 +3800,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>reload the draft</comment>
   </data>
   <data name="Import_NoAccounts" xml:space="preserve">
-    <value>Ingen kontoer</value>
+    <value>No accounts.</value>
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
@@ -7544,9 +7544,6 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
   <data name="Filters_Condition_From" xml:space="preserve">
     <value>from {0}</value>
   </data>
-  <data name="Filters_Condition_HasAttachements" xml:space="preserve">
-    <value>with attachments</value>
-  </data>
   <data name="Filters_Condition_Include" xml:space="preserve">
     <value>subject or body contains {0}</value>
   </data>
@@ -7571,7 +7568,7 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_Subject" xml:space="preserve">
-    <value>Subject</value>
+    <value>Subject contains</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_To" xml:space="preserve">
@@ -7611,7 +7608,7 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Header for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ActionsExplanation" xml:space="preserve">
-    <value>Determine actions for the filtered emails.</value>
+    <value>Set actions for the filtered emails.</value>
     <comment>Explanation for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_AddAction" xml:space="preserve">
@@ -7635,7 +7632,7 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Header for review section in edit filter window</comment>
   </data>
   <data name="Filter_ValidationRule_Email" xml:space="preserve">
-    <value>Please add email or name</value>
+    <value>Please add one or more contacts</value>
     <comment>Tooltip message when contact field is empty</comment>
   </data>
   <data name="Filter_ValidationRule_EmptyValue" xml:space="preserve">
@@ -7655,7 +7652,7 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Label for displaying filter</comment>
   </data>
   <data name="Filter_ContactPlaceholder" xml:space="preserve">
-    <value>Add one or more contacts</value>
+    <value>Enter names, email addresses or domains</value>
     <comment>Placeholder in from and to field in filter condition</comment>
   </data>
   <data name="Filter_EditFilter_Applied" xml:space="preserve">
@@ -7667,11 +7664,11 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Button in notification to edit filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderHeader" xml:space="preserve">
-    <value>Filter with deleted folder</value>
+    <value>Filter action error</value>
     <comment>Header in notification when folder is missing in filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderMessage" xml:space="preserve">
-    <value>There is missing folder for filter with "Copy to folder" action. That action won't be executed. Please edit and fix it.</value>
+    <value>A folder specified in a filter action no longer exists and the action will not be executed. Please update the filter.</value>
     <comment>Error message when on filter item</comment>
   </data>
   <data name="Options_Filters_FiltersNote" xml:space="preserve">
@@ -7679,7 +7676,73 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Note in the bottom of filters list</comment>
   </data>
   <data name="Filter_ContactTooltip" xml:space="preserve">
-    <value>Type to add more items.</value>
+    <value>Type to add more items</value>
     <comment>Tooltip for contact textbox in edit filter window</comment>
+  </data>
+  <data name="Filters_Condition_HasAttachments" xml:space="preserve">
+    <value>with attachments</value>
+  </data>
+  <data name="Invite_Message" xml:space="preserve">
+    <value>Hi 
+I started using Mailbird. You can literally manage as many different email and communication accounts as you want, in one app with Mailbird. Try Mailbird for free here: {0}. 
+
+I hope you like it.</value>
+    <comment>Message when recommending Mailbird via email</comment>
+  </data>
+  <data name="Invite_Subject" xml:space="preserve">
+    <value>Check out Mailbird!</value>
+    <comment>Subject for message when recommending Mailbird</comment>
+  </data>
+  <data name="Filter_Field_Action_MoveToFolder" xml:space="preserve">
+    <value>Move to folder</value>
+    <comment>Filter action in the filter window</comment>
+  </data>
+  <data name="Filters_Action_MoveToFolder" xml:space="preserve">
+    <value>move to {0} folder</value>
+  </data>
+  <data name="Filter_Field_Condition_HasAttachments" xml:space="preserve">
+    <value>Has attachments</value>
+    <comment>Filter condition in the filter window</comment>
+  </data>
+  <data name="Filters_Action_MarkAsSpam" xml:space="preserve">
+    <value>mark as spam</value>
+  </data>
+  <data name="ShareDiscount_Buy" xml:space="preserve">
+    <value>Buy Mailbird - {0}% OFF</value>
+    <comment>Button to purchase Mailbird license, 
+NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
+  </data>
+  <data name="ShareDiscount_Purchase" xml:space="preserve">
+    <value>Purchase Mailbird - {0}% OFF</value>
+    <comment>Button to purchase Mailbird license, 
+NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
+  </data>
+  <data name="Import_NoClients" xml:space="preserve">
+    <value>No supported clients detected.</value>
+    <comment>Message when there is no supported email clients on import step</comment>
+  </data>
+  <data name="Filter_GeneralPlaceholder" xml:space="preserve">
+    <value>Enter words to look for</value>
+    <comment>Placeholder in filter's general field</comment>
+  </data>
+  <data name="Filter_CreateMenuFrom" xml:space="preserve">
+    <value>From</value>
+    <comment>Menu when creating filter from message's sender</comment>
+  </data>
+  <data name="Filter_CreateMenuSubject" xml:space="preserve">
+    <value>With subject</value>
+    <comment>Menu when creating filter with subject, {0} will be replaced with the subject</comment>
+  </data>
+  <data name="Filter_CreateMenuTo" xml:space="preserve">
+    <value>To</value>
+    <comment>Menu when creating filter from messages's recipients</comment>
+  </data>
+  <data name="Filter_AllConditions" xml:space="preserve">
+    <value>Match all conditions</value>
+    <comment>Menu to create filter from all attributes, which are message's senders, recipients, and subject</comment>
+  </data>
+  <data name="Filter_CreateFilter" xml:space="preserve">
+    <value>Create filter...</value>
+    <comment>Menu to create filter from context menu</comment>
   </data>
 </root>
