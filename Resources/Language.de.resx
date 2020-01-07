@@ -1419,7 +1419,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} conversations archived</value>
+    <value>{0} Themen archiviert</value>
     <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
@@ -1455,7 +1455,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
-    <value>{0} conversations trashed</value>
+    <value>{0} Themen gelöscht</value>
     <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
@@ -3807,7 +3807,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>reload the draft</comment>
   </data>
   <data name="Import_NoAccounts" xml:space="preserve">
-    <value>No accounts.</value>
+    <value>Keine Konten.</value>
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
@@ -7577,7 +7577,7 @@ Möchten Sie den Kauf von Mailbird Personal wirklich fortsetzen?</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_Subject" xml:space="preserve">
-    <value>Subject contains</value>
+    <value>Betreff enthält</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_To" xml:space="preserve">
@@ -7641,7 +7641,7 @@ Möchten Sie den Kauf von Mailbird Personal wirklich fortsetzen?</value>
     <comment>Header for review section in edit filter window</comment>
   </data>
   <data name="Filter_ValidationRule_Email" xml:space="preserve">
-    <value>Please add one or more contacts</value>
+    <value>Bitte einen oder mehrere Kontakte hinzufügen</value>
     <comment>Tooltip message when contact field is empty</comment>
   </data>
   <data name="Filter_ValidationRule_EmptyValue" xml:space="preserve">
@@ -7661,7 +7661,7 @@ Möchten Sie den Kauf von Mailbird Personal wirklich fortsetzen?</value>
     <comment>Label for displaying filter</comment>
   </data>
   <data name="Filter_ContactPlaceholder" xml:space="preserve">
-    <value>Enter names, email addresses or domains</value>
+    <value>Namen, E-Mail-Adressen oder Domains eingeben</value>
     <comment>Placeholder in from and to field in filter condition</comment>
   </data>
   <data name="Filter_EditFilter_Applied" xml:space="preserve">
@@ -7677,7 +7677,7 @@ Möchten Sie den Kauf von Mailbird Personal wirklich fortsetzen?</value>
     <comment>Header in notification when folder is missing in filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderMessage" xml:space="preserve">
-    <value>A folder specified in a filter action no longer exists and the action will not be executed. Please update the filter.</value>
+    <value>Ein in einer Filteraktion angegebener Ordner existiert nicht mehr und die Aktion wird nicht ausgeführt. Bitte aktualisieren Sie den Filter.</value>
     <comment>Error message when on filter item</comment>
   </data>
   <data name="Options_Filters_FiltersNote" xml:space="preserve">
@@ -7685,61 +7685,61 @@ Möchten Sie den Kauf von Mailbird Personal wirklich fortsetzen?</value>
     <comment>Note in the bottom of filters list</comment>
   </data>
   <data name="Filter_ContactTooltip" xml:space="preserve">
-    <value>Type to add more items</value>
+    <value>Tippen, um weitere Elemente hinzuzufügen</value>
     <comment>Tooltip for contact textbox in edit filter window</comment>
   </data>
   <data name="Filters_Condition_HasAttachments" xml:space="preserve">
-    <value>with attachments</value>
+    <value>mit Anhängen</value>
   </data>
   <data name="Invite_Message" xml:space="preserve">
-    <value>Hi 
-I started using Mailbird. You can literally manage as many different email and communication accounts as you want, in one app with Mailbird. Try Mailbird for free here: {0}. 
+    <value>Hallo 
+Ich habe angefangen, Mailbird zu verwenden. Mit Mailbird kannst du buchstäblich so viele verschiedene E-Mail- und Kommunikationskonten in einer einzigen Anwendung verwalten, wie du möchtest. Hier kannst Du Mailbird kostenlos ausprobieren: {0}. 
 
-I hope you like it.</value>
+Ich hoffe, es gefällt Dir.</value>
     <comment>Message when recommending Mailbird via email</comment>
   </data>
   <data name="Invite_Subject" xml:space="preserve">
-    <value>Check out Mailbird!</value>
+    <value>Schau dir mal Mailbird an!</value>
     <comment>Subject for message when recommending Mailbird</comment>
   </data>
   <data name="Filter_Field_Action_MoveToFolder" xml:space="preserve">
-    <value>Move to folder</value>
+    <value>In Ordner verschieben</value>
     <comment>Filter action in the filter window</comment>
   </data>
   <data name="Filters_Action_MoveToFolder" xml:space="preserve">
-    <value>move to {0} folder</value>
+    <value>in Ordner {0} verschieben</value>
   </data>
   <data name="Filter_Field_Condition_HasAttachments" xml:space="preserve">
-    <value>Has attachments</value>
+    <value>Enthält Anhänge</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filters_Action_MarkAsSpam" xml:space="preserve">
-    <value>mark as spam</value>
+    <value>Als Spam kennzeichnen</value>
   </data>
   <data name="ShareDiscount_Buy" xml:space="preserve">
-    <value>Buy Mailbird - {0}% OFF</value>
+    <value>Mailbird kaufen - {0}% Rabatt</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
   <data name="ShareDiscount_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird - {0}% OFF</value>
+    <value>Mailbird kaufen - {0}% Rabatt</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
   <data name="Import_NoClients" xml:space="preserve">
-    <value>No supported clients detected.</value>
+    <value>Keine unterstützten Clients erkannt.</value>
     <comment>Message when there is no supported email clients on import step</comment>
   </data>
   <data name="Filter_GeneralPlaceholder" xml:space="preserve">
-    <value>Enter words to look for</value>
+    <value>Suchbegriffe eingeben</value>
     <comment>Placeholder in filter's general field</comment>
   </data>
   <data name="Filter_CreateMenuFrom" xml:space="preserve">
-    <value>From</value>
+    <value>Von</value>
     <comment>Menu when creating filter from message's sender</comment>
   </data>
   <data name="Filter_CreateMenuSubject" xml:space="preserve">
-    <value>With subject</value>
+    <value>Mit Betreff</value>
     <comment>Menu when creating filter with subject, {0} will be replaced with the subject</comment>
   </data>
   <data name="Filter_CreateMenuTo" xml:space="preserve">
@@ -7747,11 +7747,11 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Menu when creating filter from messages's recipients</comment>
   </data>
   <data name="Filter_AllConditions" xml:space="preserve">
-    <value>Match all conditions</value>
+    <value>Alle Bedingungen berücksichtigen</value>
     <comment>Menu to create filter from all attributes, which are message's senders, recipients, and subject</comment>
   </data>
   <data name="Filter_CreateFilter" xml:space="preserve">
-    <value>Create filter...</value>
+    <value>Filter erstellen …</value>
     <comment>Menu to create filter from context menu</comment>
   </data>
 </root>
