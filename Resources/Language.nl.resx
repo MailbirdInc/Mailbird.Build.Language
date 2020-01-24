@@ -4049,7 +4049,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>Het soort te gebruiken authenticatie. Google OAuth 2.0 werkt alleen met Google-accounts.</value>
+    <value>The type of authentication to use. OAuth 2.0 only works with Google and Yahoo accounts.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -4059,10 +4059,6 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
   <data name="Welcome_AuthenticationType_Basic" xml:space="preserve">
     <value>Gebruikersnaam en wachtwoord</value>
     <comment>Username and password</comment>
-  </data>
-  <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
-    <value>Google OAuth 2.0</value>
-    <comment>Google OAuth 2.0</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
     <value>Voer het wachtwoord in waarmee u zich hebt aangemeld {0}</value>
@@ -7748,5 +7744,37 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
   <data name="Filter_CreateFilter" xml:space="preserve">
     <value>Create filter...</value>
     <comment>Menu to create filter from context menu</comment>
+  </data>
+  <data name="Welcome_AuthenticationType_OAuth2" xml:space="preserve">
+    <value>OAuth 2.0</value>
+    <comment>OAuth 2.0</comment>
+  </data>
+  <data name="Options_SignatureNewConversation" xml:space="preserve">
+    <value>Add signatures to new conversations only</value>
+    <comment>Setting to only add signature to new conversation</comment>
+  </data>
+  <data name="App_ToDo_Description" xml:space="preserve">
+    <value>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</value>
+    <comment>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</comment>
+  </data>
+  <data name="Filter_EditFilter_SaveRun" xml:space="preserve">
+    <value>Save &amp; Run</value>
+    <comment>Button to save and run filter</comment>
+  </data>
+  <data name="Options_Filters_RunFilters" xml:space="preserve">
+    <value>Run selected filters</value>
+    <comment>Button to run selected filters</comment>
+  </data>
+  <data name="Filter_EditFilter_CreateFilter" xml:space="preserve">
+    <value>Create filter</value>
+    <comment>Windows title of create filter window</comment>
+  </data>
+  <data name="Notification_FilterExecutedMany" xml:space="preserve">
+    <value>The filter applied to {0} conversations</value>
+    <comment>Notification shown after runnning filter</comment>
+  </data>
+  <data name="Notification_FilterExecutedSingle" xml:space="preserve">
+    <value>The filter applied to one conversation</value>
+    <comment>Notification shown after runnning filter</comment>
   </data>
 </root>
