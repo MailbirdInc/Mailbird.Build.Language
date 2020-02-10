@@ -2534,7 +2534,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart required for the changes to take effect</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
-    <value>Setup your avatar at http://gravatar.com or in contacts app</value>
+    <value>http://gravatar.com ya da kişiler uygulaması üzerinden kullanıcı resminizi ayarlayın</value>
     <comment>Setup your avatar at http://gravatar.com</comment>
   </data>
   <data name="Editor_AttachmentPattern" xml:space="preserve">
@@ -4047,7 +4047,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. OAuth 2.0 only works with Google and Yahoo accounts.</value>
+    <value>Kullanılacak kimlik doğrulama türü. OAuth 2.0 yalnız Google ve Yahoo hesapları ile çalışır.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -7748,31 +7748,31 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>OAuth 2.0</comment>
   </data>
   <data name="Options_SignatureNewConversation" xml:space="preserve">
-    <value>Add signatures to new conversations only</value>
+    <value>İmzaları yalnız yeni görüşmelere ekke</value>
     <comment>Setting to only add signature to new conversation</comment>
   </data>
   <data name="App_ToDo_Description" xml:space="preserve">
-    <value>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</value>
+    <value>To Do işinizi oyuna çevirerek odaklanmanızı sağlar. Organize kalın ve işinizi günü gününe yönetin.</value>
     <comment>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</comment>
   </data>
   <data name="Filter_EditFilter_SaveRun" xml:space="preserve">
-    <value>Save &amp; Run</value>
+    <value>Kaydet &amp; Çalıştır</value>
     <comment>Button to save and run filter</comment>
   </data>
   <data name="Options_Filters_RunFilters" xml:space="preserve">
-    <value>Run selected filters</value>
+    <value>Seçilen filtreleri çalıştır</value>
     <comment>Button to run selected filters</comment>
   </data>
   <data name="Filter_EditFilter_CreateFilter" xml:space="preserve">
-    <value>Create filter</value>
+    <value>Filtre oluştur</value>
     <comment>Windows title of create filter window</comment>
   </data>
   <data name="Notification_FilterExecutedMany" xml:space="preserve">
-    <value>The filter applied to {0} conversations</value>
+    <value>Filtre {0} görüşmelerine uygulandı</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
-    <value>The filter applied to one conversation</value>
+    <value>Filtre bir görüşmeye uygulandı</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
@@ -7784,7 +7784,7 @@ Note that not all changes you make in one version of Mailbird will sync to the o
     <comment>Dialog asking whether to copy data from the release version of Mailbird when starting the alpha version for the first time.</comment>
   </data>
   <data name="Dialog_ExistingInstallationDetected" xml:space="preserve">
-    <value>Existing installation detected</value>
+    <value>Mevcut yükleme algılandı</value>
     <comment>Existing installation detected</comment>
   </data>
   <data name="Options_MailbirdAlpha" xml:space="preserve">
@@ -7804,25 +7804,25 @@ The Alpha version of Mailbird is installed separately, so you can still run the 
 Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</comment>
   </data>
   <data name="Options_SignUpForAlpha" xml:space="preserve">
-    <value>Sign up to be an Alpha tester</value>
+    <value>Alpha test kullanıcısı olmak için üye olun</value>
     <comment>Sign up to be an Alpha tester</comment>
   </data>
   <data name="Dialog_StartingMailbird" xml:space="preserve">
-    <value>Starting Mailbird</value>
+    <value>Mailbird başlatılıyor</value>
     <comment>Starting Mailbird</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingData" xml:space="preserve">
-    <value>Error starting Mailbird with existing data</value>
+    <value>Mevcut veri ile Mailbird başlatma hatası</value>
     <comment>Error starting Mailbird with existing data</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingDataExplanation" xml:space="preserve">
-    <value>An error occurred copying data from the normal version of Mailbird to this version.
+    <value>Mailbird'ün normal sürümünden bu sürüme veri kopyalanırken bir hata oluştu.
 
-Your normal version of Mailbird is unaffected but this version will start as a new installation.</value>
+Mailbird normal sürümü etkilenmedi fakat bu sürüm yeni bir yükleme olarak başlatılacak.</value>
     <comment>Dialog showing when an error starting Mailbird with existing data failed.</comment>
   </data>
   <data name="Dialog_CopyingNecessaryData" xml:space="preserve">
-    <value>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</value>
+    <value>Mailbird mevcut hesaplarınız ile başlatmak için gerekli veriyi kopyalıyor. Lütfen bekleyin...</value>
     <comment>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</comment>
   </data>
 </root>
