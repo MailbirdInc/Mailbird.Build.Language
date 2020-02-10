@@ -2480,7 +2480,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart required for the changes to take effect.</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
-    <value>Skaffa en avatar på http://gravatar.com</value>
+    <value>Setup your avatar at http://gravatar.com or in contacts app</value>
     <comment>Setup your avatar at http://gravatar.com</comment>
   </data>
   <data name="Editor_AttachmentPattern" xml:space="preserve">
@@ -7726,5 +7726,55 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
     <value>The filter applied to one conversation</value>
     <comment>Notification shown after runnning filter</comment>
+  </data>
+  <data name="Dialog_CopyDataDirectory" xml:space="preserve">
+    <value>This version of Mailbird uses a separate data directory for local data than the normal version of Mailbird.
+
+Would you like to start with the same settings, accounts, messages etc. as you have added to the normal version of Mailbird?
+
+Note that not all changes you make in one version of Mailbird will sync to the other.</value>
+    <comment>Dialog asking whether to copy data from the release version of Mailbird when starting the alpha version for the first time.</comment>
+  </data>
+  <data name="Dialog_ExistingInstallationDetected" xml:space="preserve">
+    <value>Existing installation detected</value>
+    <comment>Existing installation detected</comment>
+  </data>
+  <data name="Options_MailbirdAlpha" xml:space="preserve">
+    <value>Mailbird Alpha</value>
+    <comment>Mailbird Alpha</comment>
+  </data>
+  <data name="Options_MailbirdAlphaDescription" xml:space="preserve">
+    <value>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
+
+The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
+
+Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</value>
+    <comment>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
+
+The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
+
+Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</comment>
+  </data>
+  <data name="Options_SignUpForAlpha" xml:space="preserve">
+    <value>Sign up to be an Alpha tester</value>
+    <comment>Sign up to be an Alpha tester</comment>
+  </data>
+  <data name="Dialog_StartingMailbird" xml:space="preserve">
+    <value>Starting Mailbird</value>
+    <comment>Starting Mailbird</comment>
+  </data>
+  <data name="Dialog_ErrorCopyingExistingData" xml:space="preserve">
+    <value>Error starting Mailbird with existing data</value>
+    <comment>Error starting Mailbird with existing data</comment>
+  </data>
+  <data name="Dialog_ErrorCopyingExistingDataExplanation" xml:space="preserve">
+    <value>An error occurred copying data from the normal version of Mailbird to this version.
+
+Your normal version of Mailbird is unaffected but this version will start as a new installation.</value>
+    <comment>Dialog showing when an error starting Mailbird with existing data failed.</comment>
+  </data>
+  <data name="Dialog_CopyingNecessaryData" xml:space="preserve">
+    <value>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</value>
+    <comment>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</comment>
   </data>
 </root>
