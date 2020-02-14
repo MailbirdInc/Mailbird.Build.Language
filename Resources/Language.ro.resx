@@ -1419,7 +1419,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} conversations archived</value>
+    <value>{0} conversații arhivate</value>
     <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
@@ -1455,7 +1455,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
-    <value>{0} conversations trashed</value>
+    <value>{0} conversații aruncate la gunoi</value>
     <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
@@ -2534,7 +2534,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart required for the changes to take effect</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
-    <value>Setup your avatar at http://gravatar.com or in contacts app</value>
+    <value>Configurați-vă avatarul la http://gravatar.com sau în aplicația de contacte</value>
     <comment>Setup your avatar at http://gravatar.com</comment>
   </data>
   <data name="Editor_AttachmentPattern" xml:space="preserve">
@@ -3803,7 +3803,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>reload the draft</comment>
   </data>
   <data name="Import_NoAccounts" xml:space="preserve">
-    <value>No accounts.</value>
+    <value>Fără conturi.</value>
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
@@ -4049,7 +4049,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. OAuth 2.0 only works with Google and Yahoo accounts.</value>
+    <value>Tipul de autentificare utilizat. OAuth 2.0 funcționează numai cu conturile Google și Yahoo.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -5580,7 +5580,7 @@ Altă noutate, „corelarea” permițându-vă să conectați împreună contac
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Create your own video conversation room easily and share the link, up to 4 people can join for free.</value>
+    <value>Creați-vă propria cameră de conversații video și partajați linkul, până la 4 persoane se pot alătura gratuit.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
     <value>Stocați-vă fișierele în cloud, 100 GB gratuit pentru backup în cloud.</value>
@@ -7508,66 +7508,66 @@ Sigur doriți să continuați cu achiziționarea Mailbird Personal ?</value>
     <comment>Section for guest rights</comment>
   </data>
   <data name="Filters_Action_Categorize" xml:space="preserve">
-    <value>categorize as {0}</value>
+    <value>categorizează ca {0}</value>
   </data>
   <data name="Filters_Action_CopyToFolder" xml:space="preserve">
-    <value>copy to {0} folder</value>
+    <value>copiază în folderul {0}</value>
   </data>
   <data name="Filters_Action_Delete" xml:space="preserve">
     <value>delete</value>
   </data>
   <data name="Filters_Action_Forward" xml:space="preserve">
-    <value>forward to {0}</value>
+    <value>înaintează către {0}</value>
   </data>
   <data name="Filters_Action_MarkAsImportant" xml:space="preserve">
-    <value>mark as important</value>
+    <value>marchează ca important</value>
   </data>
   <data name="Filters_Action_MarkAsNotImportant" xml:space="preserve">
-    <value>never mark as important</value>
+    <value>nu marca niciodată ca important</value>
   </data>
   <data name="Filters_Action_MarkAsNotSpam" xml:space="preserve">
-    <value>never mark as spam</value>
+    <value>nu marca niciodată ca spam</value>
   </data>
   <data name="Filters_Action_MarkAsRead" xml:space="preserve">
-    <value>mark as read</value>
+    <value>marchează ca citit</value>
   </data>
   <data name="Filters_Action_SkipInbox" xml:space="preserve">
-    <value>skip Inbox (archive)</value>
+    <value>sari peste Inbox (arhivare)</value>
   </data>
   <data name="Filters_Action_Star" xml:space="preserve">
-    <value>mark as starred</value>
+    <value>marcare cu stea</value>
   </data>
   <data name="Filters_Condition_Excluding" xml:space="preserve">
-    <value>subject or body does not include {0}</value>
+    <value>subiectul sau corpul nu includ {0}</value>
   </data>
   <data name="Filters_Condition_From" xml:space="preserve">
-    <value>from {0}</value>
+    <value>de la {0}</value>
   </data>
   <data name="Filters_Condition_Include" xml:space="preserve">
-    <value>subject or body contains {0}</value>
+    <value>subiectul sau corpul conține {0}</value>
   </data>
   <data name="Filters_Condition_SizeLargerThan" xml:space="preserve">
-    <value>size larger than {0}</value>
+    <value>dimensiune mai mare decât {0}</value>
   </data>
   <data name="Filters_Condition_SizeSmallerThan" xml:space="preserve">
-    <value>size smaller than {0}</value>
+    <value>dimensiune mai mică decât {0}</value>
   </data>
   <data name="Filters_Condition_Subject" xml:space="preserve">
-    <value>subject contains {0}</value>
+    <value>subiectul conține {0}</value>
   </data>
   <data name="Filters_Condition_To" xml:space="preserve">
     <value>to {0}</value>
   </data>
   <data name="Filter_Field_Action_CopyToFolder" xml:space="preserve">
-    <value>Copy to folder</value>
+    <value>Copiere în folder</value>
     <comment>Filter action in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_From" xml:space="preserve">
-    <value>From</value>
+    <value>De la</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_Subject" xml:space="preserve">
-    <value>Subject contains</value>
+    <value>Subiectul conține</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_To" xml:space="preserve">
@@ -7575,7 +7575,7 @@ Sigur doriți să continuați cu achiziționarea Mailbird Personal ?</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_MissingFolder" xml:space="preserve">
-    <value>missing folder</value>
+    <value>folder lipsă</value>
     <comment>Placeholder when folder is not found or deleted</comment>
   </data>
   <data name="Filter_Field_NoContacts" xml:space="preserve">
@@ -7583,23 +7583,23 @@ Sigur doriți să continuați cu achiziționarea Mailbird Personal ?</value>
     <comment>Placeholder when there is no contacts</comment>
   </data>
   <data name="Filter_Field_NoFolder" xml:space="preserve">
-    <value>no folder</value>
+    <value>nici un folder</value>
     <comment>Placeholder when there is no folder</comment>
   </data>
   <data name="Filter_Field_NoSubject" xml:space="preserve">
-    <value>no subject</value>
+    <value>fără subiect</value>
     <comment>Placeholder when there is no subject</comment>
   </data>
   <data name="Filter_NewFolder" xml:space="preserve">
-    <value>Add new folder...</value>
+    <value>Adăugare folder nou ...</value>
     <comment>Menu item to create new folder</comment>
   </data>
   <data name="Dialog_RemoveFilter" xml:space="preserve">
-    <value>Remove filter?</value>
+    <value>Ștergere filtru?</value>
     <comment>Dialog header</comment>
   </data>
   <data name="Dialog_RemoveFilterExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove this filter?</value>
+    <value>Sigur doriți să eliminați acest filtru?</value>
     <comment>Dialog explanation</comment>
   </data>
   <data name="Filter_EditFilter_Actions" xml:space="preserve">
@@ -7607,39 +7607,39 @@ Sigur doriți să continuați cu achiziționarea Mailbird Personal ?</value>
     <comment>Header for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ActionsExplanation" xml:space="preserve">
-    <value>Set actions for the filtered emails.</value>
+    <value>Setați acțiuni pentru emailurile filtrate.</value>
     <comment>Explanation for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_AddAction" xml:space="preserve">
-    <value>Add action</value>
+    <value>Adăugare acțiune</value>
     <comment>Button content</comment>
   </data>
   <data name="Filter_EditFilter_AddCondition" xml:space="preserve">
-    <value>Add condition</value>
+    <value>Adăugare condiție</value>
     <comment>Button content</comment>
   </data>
   <data name="Filter_EditFilter_Conditions" xml:space="preserve">
-    <value>1. Conditions</value>
+    <value>1. Condiții</value>
     <comment>Header for conditions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ConditionsExplanation" xml:space="preserve">
-    <value>Set conditions for the emails you want to filter.</value>
+    <value>Setați condițiile pentru emailurile pe care doriți să le filtrați.</value>
     <comment>Explanation for conditions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_Review" xml:space="preserve">
-    <value>3. Review</value>
+    <value>3. Revizuire</value>
     <comment>Header for review section in edit filter window</comment>
   </data>
   <data name="Filter_ValidationRule_Email" xml:space="preserve">
-    <value>Please add one or more contacts</value>
+    <value>Vă rugăm să adăugați unul sau mai multe contacte</value>
     <comment>Tooltip message when contact field is empty</comment>
   </data>
   <data name="Filter_ValidationRule_EmptyValue" xml:space="preserve">
-    <value>Value can't be empty</value>
+    <value>Valoarea nu poate fi goală</value>
     <comment>Tooltip message when textbox is empty</comment>
   </data>
   <data name="Filter_ValidationRule_Folder" xml:space="preserve">
-    <value>Please select folder</value>
+    <value>Vă rugăm să selectați folderul</value>
     <comment>Tooltip message when there is no folder selected</comment>
   </data>
   <data name="Options_Filters" xml:space="preserve">
@@ -7651,15 +7651,15 @@ Sigur doriți să continuați cu achiziționarea Mailbird Personal ?</value>
     <comment>Label for displaying filter</comment>
   </data>
   <data name="Filter_ContactPlaceholder" xml:space="preserve">
-    <value>Enter names, email addresses or domains</value>
+    <value>Introduceți nume, adrese de email sau domenii</value>
     <comment>Placeholder in from and to field in filter condition</comment>
   </data>
   <data name="Filter_EditFilter_Applied" xml:space="preserve">
-    <value>The filter will be applied to incoming messages in the [bold]{0}[/bold] account.</value>
+    <value>Filtrul se va aplica mesajelor primite în contul [bold]{0}[/bold].</value>
     <comment>Explanation in filter window</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderButton" xml:space="preserve">
-    <value>Edit filter</value>
+    <value>Editare filtru</value>
     <comment>Button in notification to edit filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderHeader" xml:space="preserve">
@@ -7667,69 +7667,69 @@ Sigur doriți să continuați cu achiziționarea Mailbird Personal ?</value>
     <comment>Header in notification when folder is missing in filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderMessage" xml:space="preserve">
-    <value>A folder specified in a filter action no longer exists and the action will not be executed. Please update the filter.</value>
+    <value>Un folder specificat într-o acțiune de filtrare nu mai există și acțiunea nu va fi executată. Actualizați filtrul.</value>
     <comment>Error message when on filter item</comment>
   </data>
   <data name="Options_Filters_FiltersNote" xml:space="preserve">
-    <value>The filters will be applied to incoming messages when Mailbird is running.</value>
+    <value>Filtrele vor fi aplicate mesajelor primite atunci când Mailbird rulează.</value>
     <comment>Note in the bottom of filters list</comment>
   </data>
   <data name="Filter_ContactTooltip" xml:space="preserve">
-    <value>Type to add more items</value>
+    <value>Tastați pentru a adăuga mai multe elemente</value>
     <comment>Tooltip for contact textbox in edit filter window</comment>
   </data>
   <data name="Filters_Condition_HasAttachments" xml:space="preserve">
-    <value>with attachments</value>
+    <value>cu atașamente</value>
   </data>
   <data name="Invite_Message" xml:space="preserve">
-    <value>Hi 
-I started using Mailbird. You can literally manage as many different email and communication accounts as you want, in one app with Mailbird. Try Mailbird for free here: {0}. 
+    <value>Bună
+Am început să folosesc Mailbird. Puteți gestiona literalmente cât mai multe conturi de email și comunicare dorite, într-o singură aplicație, cu Mailbird. Încercați Mailbird gratuit aici: {0}.
 
-I hope you like it.</value>
+Sper că vă place.</value>
     <comment>Message when recommending Mailbird via email</comment>
   </data>
   <data name="Invite_Subject" xml:space="preserve">
-    <value>Check out Mailbird!</value>
+    <value>Descoperă Mailbird!</value>
     <comment>Subject for message when recommending Mailbird</comment>
   </data>
   <data name="Filter_Field_Action_MoveToFolder" xml:space="preserve">
-    <value>Move to folder</value>
+    <value>Mutare în folder</value>
     <comment>Filter action in the filter window</comment>
   </data>
   <data name="Filters_Action_MoveToFolder" xml:space="preserve">
-    <value>move to {0} folder</value>
+    <value>mută în folderul {0}</value>
   </data>
   <data name="Filter_Field_Condition_HasAttachments" xml:space="preserve">
-    <value>Has attachments</value>
+    <value>Există atașamente</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filters_Action_MarkAsSpam" xml:space="preserve">
-    <value>mark as spam</value>
+    <value>marchează ca spam</value>
   </data>
   <data name="ShareDiscount_Buy" xml:space="preserve">
-    <value>Buy Mailbird - {0}% OFF</value>
+    <value>Cumpărați Mailbird - {0}% REDUCERE</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
   <data name="ShareDiscount_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird - {0}% OFF</value>
+    <value>Cumpărați Mailbird - {0}% REDUCERE</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
   <data name="Import_NoClients" xml:space="preserve">
-    <value>No supported clients detected.</value>
+    <value>Nu a fost detectat niciun client acceptat.</value>
     <comment>Message when there is no supported email clients on import step</comment>
   </data>
   <data name="Filter_GeneralPlaceholder" xml:space="preserve">
-    <value>Enter words to look for</value>
+    <value>Introduceți cuvinte pentru a căuta</value>
     <comment>Placeholder in filter's general field</comment>
   </data>
   <data name="Filter_CreateMenuFrom" xml:space="preserve">
-    <value>From</value>
+    <value>De la</value>
     <comment>Menu when creating filter from message's sender</comment>
   </data>
   <data name="Filter_CreateMenuSubject" xml:space="preserve">
-    <value>With subject</value>
+    <value>Cu subiect</value>
     <comment>Menu when creating filter with subject, {0} will be replaced with the subject</comment>
   </data>
   <data name="Filter_CreateMenuTo" xml:space="preserve">
@@ -7737,11 +7737,11 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Menu when creating filter from messages's recipients</comment>
   </data>
   <data name="Filter_AllConditions" xml:space="preserve">
-    <value>Match all conditions</value>
+    <value>Se potrivesc tuturor condițiilor</value>
     <comment>Menu to create filter from all attributes, which are message's senders, recipients, and subject</comment>
   </data>
   <data name="Filter_CreateFilter" xml:space="preserve">
-    <value>Create filter...</value>
+    <value>Creare filtru...</value>
     <comment>Menu to create filter from context menu</comment>
   </data>
   <data name="Welcome_AuthenticationType_OAuth2" xml:space="preserve">
@@ -7749,43 +7749,43 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>OAuth 2.0</comment>
   </data>
   <data name="Options_SignatureNewConversation" xml:space="preserve">
-    <value>Add signatures to new conversations only</value>
+    <value>Adaugă semnături doar pentru noile conversații</value>
     <comment>Setting to only add signature to new conversation</comment>
   </data>
   <data name="App_ToDo_Description" xml:space="preserve">
-    <value>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</value>
+    <value>To Do vă oferă concentrare, de la muncă la joacă. Rămâneți organizat și gestionați-vă ziua în fiecare zi.</value>
     <comment>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</comment>
   </data>
   <data name="Filter_EditFilter_SaveRun" xml:space="preserve">
-    <value>Save &amp; Run</value>
+    <value>Salvează și execută</value>
     <comment>Button to save and run filter</comment>
   </data>
   <data name="Options_Filters_RunFilters" xml:space="preserve">
-    <value>Run selected filters</value>
+    <value>Execută filtrele selectate</value>
     <comment>Button to run selected filters</comment>
   </data>
   <data name="Filter_EditFilter_CreateFilter" xml:space="preserve">
-    <value>Create filter</value>
+    <value>Creare filtru</value>
     <comment>Windows title of create filter window</comment>
   </data>
   <data name="Notification_FilterExecutedMany" xml:space="preserve">
-    <value>The filter applied to {0} conversations</value>
+    <value>Filtru aplicat la {0} conversații</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
-    <value>The filter applied to one conversation</value>
+    <value>Filtru aplicat unei singure conversații</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
-    <value>This version of Mailbird uses a separate data directory for local data than the normal version of Mailbird.
+    <value>Această versiune de Mailbird utilizează un director de date separat pentru date locale decât versiunea normală de Mailbird.
 
-Would you like to start with the same settings, accounts, messages etc. as you have added to the normal version of Mailbird?
+Ați dori să începeți cu aceleași setări, conturi, mesaje, precum ați adăugat la versiunea normală a Mailbird?
 
-Note that not all changes you make in one version of Mailbird will sync to the other.</value>
+Rețineți că nu toate modificările pe care le faceți într-o versiune de Mailbird, se vor sincroniza în cealaltă.</value>
     <comment>Dialog asking whether to copy data from the release version of Mailbird when starting the alpha version for the first time.</comment>
   </data>
   <data name="Dialog_ExistingInstallationDetected" xml:space="preserve">
-    <value>Existing installation detected</value>
+    <value>Instalarea existentă a fost detectată</value>
     <comment>Existing installation detected</comment>
   </data>
   <data name="Options_MailbirdAlpha" xml:space="preserve">
@@ -7793,11 +7793,11 @@ Note that not all changes you make in one version of Mailbird will sync to the o
     <comment>Mailbird Alpha</comment>
   </data>
   <data name="Options_MailbirdAlphaDescription" xml:space="preserve">
-    <value>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
+    <value>Dacă doriți să ajutați să testați cele mai recente actualizări și funcții în Mailbird, influențând în același timp direcția în care o luăm, atunci înregistrați-vă pentru a fi un tester Alpha.
 
-The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
+Versiunea Mailbird Alpha este instalată separat, astfel încât să puteți rula versiunea normală atunci când doriți, dar Alpha primește actualizări mai rapide, inclusiv noi funcții - și veți avea acces la grupul nostru închis Facebook, unde efectuăm cercetări și solicităm feedback atunci când punem în aplicare idei noi.
 
-Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</value>
+Rețineți că, deoarece aceasta este versiunea „în dezvoltare” de Mailbird, pot să apară probleme puțin mai des, dar, de asemenea, putem să le remediem mai devreme - și puteți oricând să reveniți la versiunea normală, dacă aveți o problemă - până o vom rezolva.</value>
     <comment>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
 
 The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
@@ -7805,25 +7805,25 @@ The Alpha version of Mailbird is installed separately, so you can still run the 
 Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</comment>
   </data>
   <data name="Options_SignUpForAlpha" xml:space="preserve">
-    <value>Sign up to be an Alpha tester</value>
+    <value>Înscrieți-vă pentru a fi un tester Alpha</value>
     <comment>Sign up to be an Alpha tester</comment>
   </data>
   <data name="Dialog_StartingMailbird" xml:space="preserve">
-    <value>Starting Mailbird</value>
+    <value>Pornește Mailbird</value>
     <comment>Starting Mailbird</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingData" xml:space="preserve">
-    <value>Error starting Mailbird with existing data</value>
+    <value>Eroare la pornirea Mailbird cu datele existente</value>
     <comment>Error starting Mailbird with existing data</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingDataExplanation" xml:space="preserve">
-    <value>An error occurred copying data from the normal version of Mailbird to this version.
+    <value>A apărut o eroare la copierea datelor din versiunea normală Mailbird în această versiune.
 
-Your normal version of Mailbird is unaffected but this version will start as a new installation.</value>
+Versiunea dvs. normală de Mailbird nu este afectată, dar această versiune va începe ca o nouă instalare.</value>
     <comment>Dialog showing when an error starting Mailbird with existing data failed.</comment>
   </data>
   <data name="Dialog_CopyingNecessaryData" xml:space="preserve">
-    <value>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</value>
+    <value>Mailbird copiază datele necesare pentru a începe cu conturile dvs. existente. Vă rugăm să așteptați...</value>
     <comment>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</comment>
   </data>
 </root>
