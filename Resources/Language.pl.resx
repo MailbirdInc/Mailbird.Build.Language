@@ -1899,7 +1899,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Next message</comment>
   </data>
   <data name="Shortcut_NextMessageExplanation" xml:space="preserve">
-    <value>Przenosi kursor do następnej wiadomości. Możesz nacisnąć &lt;Enter&gt;  żeby ją rozszerzyć lub zwinąć. (Dotyczy tylko widoku Konwersacji)</value>
+    <value>Przenosi kursor do następnej wiadomości. Możesz nacisnąć &lt;Enter&gt; żeby ją rozszerzyć lub zwinąć. (Dotyczy tylko widoku Konwersacji)</value>
     <comment>Moves your cursor to the next message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_NotImportantExplanation" xml:space="preserve">
@@ -3183,7 +3183,7 @@ Sprawdź swoje połączenie internetowe i upewnij się, że wszystkie zapory sie
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>Pozostało {0} dni okresu próbnego. Po zakończeniu tego okresu będzie wymagana licencja, aby nadal korzystać z  Mailbirda.</value>
+    <value>Pozostało {0} dni okresu próbnego. Po zakończeniu tego okresu będzie wymagana licencja, aby nadal korzystać z Mailbirda.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -3688,7 +3688,9 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
     <value>Mailbird wykrył, że jeden lub więcej plików zostało uszkodzonych lub brakuje ich w katalogu instalacyjnym. Program będzie teraz próbował to naprawić.
 
-Jeśli to się nie powiedzie, należy odinstalować i zainstalować Mailbirda ponownie, aby rozwiązać problem. Wszystkie twoje ustawienia, e-maile itp. zostaną zachowane tak długo, jak nie usuniesz katalogu, w którym są przechowywane, gdy zostaniesz zapytany oto przez deinstalatora.</value>
+Jeśli to się nie powiedzie, należy odinstalować i zainstalować Mailbirda ponownie, aby rozwiązać problem. 
+
+Wszystkie twoje ustawienia, e-maile itp. zostaną zachowane tak długo, jak nie usuniesz katalogu, w którym są przechowywane, gdy zostaniesz zapytany oto przez deinstalator.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -5578,7 +5580,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Stwórz  łatwo swój własny pokój rozmów wideo i podziel się linkiem,  4 osoby mogą dołączyć za darmo.</value>
+    <value>Stwórz łatwo swój własny pokój rozmów wideo i podziel się linkiem, 4 osoby mogą dołączyć za darmo.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
     <value>Bezpłatnie przechowuj swoje pliki w chmurze o pojemności 100 GB!</value>
@@ -5605,8 +5607,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <value>Wiadomości prosto z Ameryki - artykuły technologiczne, naukowe, aktualna sytuacja polityczna i wiele więcej.</value>
   </data>
   <data name="App_Todoist_Description" xml:space="preserve">
-    <value>Todoist pozwoli Ci na wygodne zarządzanie zadaniami z dowolnego miejsca na świecie.
-W domu, w szkole, w pracy, online/offline, na wielu urządzeniach.</value>
+    <value>Todoist pozwoli Ci na wygodne zarządzanie zadaniami z dowolnego miejsca na świecie. W domu, w szkole, w pracy, online/offline. Aż na 13 platformach i urządzeniach.</value>
   </data>
   <data name="App_Trello_Description" xml:space="preserve">
     <value>Trello da Ci kontrolę nad wszystkimi Twoimi projektami, nie tylko w pracy, ale również w domu.</value>
@@ -5735,8 +5736,7 @@ W domu, w szkole, w pracy, online/offline, na wielu urządzeniach.</value>
     <comment>Thanks for using Mailbird.</comment>
   </data>
   <data name="App_GoogleKeep_Description" xml:space="preserve">
-    <value>Twórz, edytuj, udostępniaj i współpracuj przy notatkach, a także otrzymuj powiadomienia na każdym swoim urządzeniu, 
-wszędzie i w każdej chwili.</value>
+    <value>Twórz, edytuj, udostępniaj i współpracuj przy notatkach, a także otrzymuj powiadomienia na każdym swoim urządzeniu, wszędzie i w każdej chwili.</value>
     <comment>Description of the Google Keep App displayed in the app store.</comment>
   </data>
   <data name="SpellCheck_Off" xml:space="preserve">
@@ -7176,12 +7176,12 @@ Którą wersję chciałbyś wypróbować?</value>
     <comment>Button to ask extra trial days</comment>
   </data>
   <data name="License_NewLite_Explanation" xml:space="preserve">
-    <value>W naszym najnowszym newsletterze informowaliśmy, że Mailbird Lite nie będzie już dostępny dla nowych użytkowników, a zamiast tego będą oni mieli do wyboru nową wersję Mailbird do użytku osobistego lub Mailbird dla firm.
+    <value>W najnowszym newsletterze informowaliśmy, że Mailbird Lite nie będzie już dostępny dla nowych użytkowników, a zamiast tego będą oni mieli do wyboru nową wersję Mailbird do użytku osobistego lub Mailbird dla firm.
 
-Jednak jesteś już z nami od jakiegoś czasu i doceniamy to! Chcielibyśmy więc dać Ci dodatkową opcję zachowania licencji Mailbird Lite na zawsze - opcja ta nie będzie dostępna dla nowych użytkowników.
+Jednak jesteś już z nami tak długo i doceniamy to! Chcielibyśmy więc dać Ci dodatkową opcję zachowania licencji Mailbird Lite na zawsze - opcja ta nie będzie dostępna dla nowych użytkowników.
 Dzięki temu będziesz mógł kontynuować korzystanie z Mailbird Lite bez żadnych zmian.
 
-Mailbird Lite nie będzie już aktualizowany o nowe funkcje, podczas gdy my będziemy pracować nad nowymi produktami, więc aby nie przegapić wielu wspaniałych nadchodzących aktualizacji i ulepszeń Mailbird, takich jak wkrótce wydany natywny kalendarz, gorąco polecamy jednorazowe uaktualnienie, w znacznie obniżonej cenie, do jednej z nowych wersji:  Mailbird do użytku osobistego lub Mailbird dla firm.</value>
+Mailbird Lite nie będzie już aktualizowany o nowe funkcje, podczas gdy my będziemy pracować nad nowymi produktami, więc aby nie przegapić wielu wspaniałych nadchodzących aktualizacji i ulepszeń Mailbird, takich jak wkrótce wydany natywny kalendarz, gorąco polecamy jednorazowe uaktualnienie, w znacznie obniżonej cenie, do jednej z nowych wersji: Mailbird do użytku osobistego lub Mailbird dla firm.</value>
     <comment>Explanation of the new lite version</comment>
   </data>
   <data name="License_NewLite_Header" xml:space="preserve">
@@ -7239,7 +7239,7 @@ Czy to wszystko było nieporozumieniem i chcesz nadal używać Mailbirda? Nie ma
     <comment>Label for business features</comment>
   </data>
   <data name="License_WelcomeBusiness_Explanation" xml:space="preserve">
-    <value>Przez następne {0} dni będziesz miał nieograniczony dostęp do wszystkich funkcji  Mailbird dla firm.</value>
+    <value>Przez następne {0} dni będziesz miał nieograniczony dostęp do wszystkich funkcji Mailbird dla firm.</value>
     <comment>Explanation for business trial</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureAndMore" xml:space="preserve">
@@ -7473,7 +7473,7 @@ Do czasu autoryzacji konto nie będzie synchronizowane z serwerem.</value>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirect" xml:space="preserve">
     <value>Mailbird nie mógł autoryzować na serwerze z powodu przekierowania adresu zwrotnego do HTTPS w przeglądarce.
 
-Mailbird spróbuje teraz ponownie używając innej przeglądarki. Jeśli to się nie powiedzie, wyłącz przekierowanie adresu zwrotnego do HTTPS  i spróbuj ponownie.</value>
+Mailbird spróbuje teraz ponownie używając innej przeglądarki. Jeśli to się nie powiedzie, wyłącz przekierowanie adresu zwrotnego do HTTPS i spróbuj ponownie.</value>
     <comment>Message of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirectTitle" xml:space="preserve">
@@ -7501,7 +7501,7 @@ Mailbird spróbuje teraz ponownie używając innej przeglądarki. Jeśli to się
 
 Pamiętaj, że już dodane konta Exchange zostaną wyłączone po aktywacji Mailbird do użytku osobistego.
 
-Jesteś pewien, że chcesz kontynuować zakup Mailbird  do użytku osobistego?</value>
+Jesteś pewien, że chcesz kontynuować zakup Mailbird do użytku osobistego?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
@@ -7683,7 +7683,7 @@ Jesteś pewien, że chcesz kontynuować zakup Mailbird  do użytku osobistego?</
     <value>z załącznikami</value>
   </data>
   <data name="Invite_Message" xml:space="preserve">
-    <value>Cześć.
+    <value>Cześć!
 
 Od teraz korzystam z Mailbirda. Możesz dosłownie zarządzać dowolną liczbą kont e-mail i kont komunikacyjnych w jednej aplikacji. Wypróbuj Mailbird za darmo tutaj: {0}.
 
