@@ -306,7 +306,7 @@
     <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
-    <value>A  párbeszéd bezárása a küldés közben a jelentés megszakítását vonja maga után. Megszakításra kerüljön a jelentés?</value>
+    <value>A párbeszéd bezárása a küldés közben a jelentés megszakítását vonja maga után. Megszakításra kerüljön a jelentés?</value>
     <comment>Closing the dialog in the middle of sending process will also abort the report. Are you sure you want to abort the report?</comment>
   </data>
   <data name="Dialog_AlreadyAttached" xml:space="preserve">
@@ -3163,7 +3163,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <data name="License_NoConnection" xml:space="preserve">
     <value>A Mailbird nem tudott kapcsolódni a licensz szerverhez.
 
-Ellenőrizzük az internet kapcsolatot és győződjünk meg a tűzfal konfigurációja engedi-e a MaiBird számára  a kapcsolódást a szerverhez. Ezután próbáljuk újra.</value>
+Ellenőrizzük az internet kapcsolatot és győződjünk meg a tűzfal konfigurációja engedi-e a MailBird számára a kapcsolódást a szerverhez. Ezután próbáljuk újra.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -3642,7 +3642,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Konfigurálni kell a fiókban az OAuth 2.0 hitelesítés használatát a felhasználónév és jelszó helyett, egyébként a 'kevésbé biztonságos alkalmazás engedélyezése'  lehetőséget kell beállítani a Gmailben:
+    <value>Konfigurálni kell a fiókban az OAuth 2.0 hitelesítés használatát a felhasználónév és jelszó helyett, egyébként a 'kevésbé biztonságos alkalmazás engedélyezése' lehetőséget kell beállítani a Gmailben:
 {0}
 
 Ha a probléma továbbra is fennáll, kövessük ezt a hibaelhárítást:
@@ -3688,9 +3688,9 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
     <value>A Mailbird egy vagy több fájl sérülését vagy hiányát érzékelte a telepítési könyvtárban.
 
-A probléma megoldásához el kell távolítani, ezután pedig a legújabb verzióval újra kell telepíteni a Mailbird alkalmazást a https://www.getmailbird.com  webhelyről
+A probléma megoldásához el kell távolítani, ezután pedig a legújabb verzióval újra kell telepíteni a Mailbird alkalmazást a https://www.getmailbird.com webhelyről
 
-Minden beállítás, email stb megmarad a tároló mappa törléséig az erre vonatkozó kérdést illetően.</value>
+Minden beállítás, email stb. megmarad a tároló mappa törléséig az erre vonatkozó kérdést illetően.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -3766,7 +3766,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>An error occurred with your draft</comment>
   </data>
   <data name="Notification_LostDraftMessage" xml:space="preserve">
-    <value>Hiba történt a vázlatoknál,  de a legújabb mentett változat már visszaállításra került.
+    <value>Hiba történt a vázlatoknál, de a legújabb mentett változat már visszaállításra került.
 
 Ha gyakran látjuk ezt a hibaüzenetet, vegyük fel a kapcsolatot a Mailbird támogatással.</value>
     <comment>An error occurred with your draft and your latest saved version has been restored.
@@ -4485,7 +4485,7 @@ INGYENES egy életen át</value>
     <comment>{0} of {1} invites accepted!</comment>
   </data>
   <data name="InviteV2_ExplanationLifetime" xml:space="preserve">
-    <value>Már egy  igazi email rocksztár vagyunk a Mailbird Pro örökös használatával. Amikor a meghívás alapján az ismerősök telepítik a Mailbird alkalmazást, egy havi Mailbird kiemelt támogatást kapunk INGYEN, méghozzá sikeres telepítésenként!</value>
+    <value>Már egy igazi email rocksztár vagyunk a Mailbird Pro örökös használatával. Amikor a meghívás alapján az ismerősök telepítik a Mailbird alkalmazást, egy havi Mailbird kiemelt támogatást kapunk INGYEN, méghozzá sikeres telepítésenként!</value>
     <comment>Do you love Mailbird? Help us grow and improve by simply inviting your friends to Mailbird today.</comment>
   </data>
   <data name="InviteV2_InviteFriends" xml:space="preserve">
@@ -6162,7 +6162,7 @@ Ez letiltja a naptár szinkronizálást a Mailbird alkalmazásból.</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is more than 1</comment>
   </data>
   <data name="App_Calendar_GuestSingular" xml:space="preserve">
-    <value>{0}  vendég</value>
+    <value>{0} vendég</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is only 1</comment>
   </data>
   <data name="App_Calendar_ResponseMaybe" xml:space="preserve">
@@ -6602,7 +6602,7 @@ e.g. "2 occurrences"</comment>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
-    <value>Az érték nem lehet nagyobb, mint  {0} {1}</value>
+    <value>Az érték nem lehet nagyobb, mint {0} {1}</value>
     <comment>Value can't be greater than 2 weeks</comment>
   </data>
   <data name="App_Calendar_ShowWeekends" xml:space="preserve">
@@ -7058,8 +7058,7 @@ a bejövő postaláda mellett.</value>
     <comment>App description for ZeroBounce.</comment>
   </data>
   <data name="App_Calendar_SyncDetails" xml:space="preserve">
-    <value>Az integrációs korlátok miatt a következő naptár változtatások nem kerülnek szinkronizálásra a szerveren:
-:</value>
+    <value>Az integrációs korlátok miatt a következő naptár változtatások nem kerülnek szinkronizálásra a szerveren:</value>
     <comment>Warning about some properties those can't be synced</comment>
   </data>
   <data name="App_Calendar_SyncDetailsAllDayNotification" xml:space="preserve">
@@ -7119,7 +7118,7 @@ a bejövő postaláda mellett.</value>
     <comment>Button to dismiss offer</comment>
   </data>
   <data name="License_TrialReminder_Explanation" xml:space="preserve">
-    <value>Ez egy baráti emlékeztető a próbaidőszak lejárának közeledéséről. Ha úgy érezzük, elég idő volt az összes lehetőség kipróbálására, akkor megvásárolhatjuk a  Mailbird alkalmazást {0}% kedvezménnyel. Ez az ajánlat lejér a próbaidőszak végén.</value>
+    <value>Ez egy baráti emlékeztető a próbaidőszak lejáratának közeledéséről. Ha úgy érezzük, elég idő volt az összes lehetőség kipróbálására, akkor megvásárolhatjuk a Mailbird alkalmazást {0}% kedvezménnyel. Ez az ajánlat lejár a próbaidőszak végén.</value>
     <comment>Body copy for trial reminder window</comment>
   </data>
   <data name="License_TrialReminder_HeaderPlural" xml:space="preserve">
@@ -7149,7 +7148,7 @@ Melyik verziót szeretnénk kipróbálni?</value>
     <comment>Button to dismiss offer</comment>
   </data>
   <data name="License_EndTrial_Explanation" xml:space="preserve">
-    <value>A Mailbird egyesített fiók, beépített naptár, belső válasz és egyebek  tovább használatához meg kell vásárolni a Mailbird alkalmazást.</value>
+    <value>A Mailbird egyesített fiók, beépített naptár, belső válasz és egyebek tovább használatához meg kell vásárolni a Mailbird alkalmazást.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_EndTrial_Header" xml:space="preserve">
@@ -7180,9 +7179,9 @@ Melyik verziót szeretnénk kipróbálni?</value>
     <value>A legfrissebb hírlevél alapján a Mailbird Lite verzió a továbbiakban nem érhető el új felhasználók részére és helyette az új Mailbird Personal vagy a Mailbird Business verzió használható.
 
 A régi ügyfeleket a fejlesztők megbecsülik! Ezért lehetővé válik a Mailbird Lite licensz megtartása lejárat nélkül. Ez a lehetőség új felhasználók részére nem érhető el.
-Egy egyedi licenszel változás nélkül folytatható a Mailbird Lite verzió használata.
+Egy egyedi licensszel változás nélkül folytatható a Mailbird Lite verzió használata.
 
-A Mailbird Lite nem kerül frissítésre új elemekkel az új termékvonal létrehozásával, így azért, hogy ne vesszen el s sok közelgő Mailbird frissítés és továbbfejlesztés mint a beépített naptár, célszerű egy egyszeri frissítés jelentős árcsökkentéssel az egyik új verzióra, a  Mailbird Personal vagy a Mailbird Business verzióra.</value>
+A Mailbird Lite nem kerül frissítésre új elemekkel az új termékvonal létrehozásával, így azért, hogy ne vesszen el s sok közelgő Mailbird frissítés és továbbfejlesztés mint a beépített naptár, célszerű egy egyszeri frissítés jelentős árcsökkentéssel az egyik új verzióra, a Mailbird Personal vagy a Mailbird Business verzióra.</value>
     <comment>Explanation of the new lite version</comment>
   </data>
   <data name="License_NewLite_Header" xml:space="preserve">
@@ -7212,7 +7211,7 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <comment>Button to start trial</comment>
   </data>
   <data name="License_TrialExtension_Explanation" xml:space="preserve">
-    <value>Érthető, hogy a  Mailbird.összes lehetőségének kipróbálása időt vesz igénybe. Itt van egy lehetőség további {0} napig a Mailbird megismeréséhez.</value>
+    <value>Érthető, hogy a Mailbird.összes lehetőségének kipróbálása időt vesz igénybe. Itt van egy lehetőség további {0} napig a Mailbird megismeréséhez.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_SubHeader" xml:space="preserve">
@@ -7240,7 +7239,7 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <comment>Label for business features</comment>
   </data>
   <data name="License_WelcomeBusiness_Explanation" xml:space="preserve">
-    <value>A következő {0} napon át korlátlanul elérhető az összes  Mailbird Business lehetőség.</value>
+    <value>A következő {0} napon át korlátlanul elérhető az összes Mailbird Business lehetőség.</value>
     <comment>Explanation for business trial</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureAndMore" xml:space="preserve">
@@ -7280,11 +7279,11 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <comment>Header for messagebox</comment>
   </data>
   <data name="Dialog_TrialExtended_Explanation" xml:space="preserve">
-    <value>A Mailbird és összes lehetőségének további használata  további {0} napig.</value>
+    <value>A Mailbird és összes lehetőségének további használata további {0} napig.</value>
     <comment>Explanation for messagebox</comment>
   </data>
   <data name="License_EndTrialNoExtension_Explanation" xml:space="preserve">
-    <value>A kiterjesztett  Mailbird próbaidőszak véget ért. Választhatunk a Mailbird vagy a  Mailbird Business verzió között.Ajánlott a Mailbird Business verzió a legjobb megoldásért.</value>
+    <value>A kiterjesztett Mailbird próbaidőszak véget ért. Választhatunk a Mailbird vagy a Mailbird Business verzió között.Ajánlott a Mailbird Business verzió a legjobb megoldásért.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrialNoExtension_ExplanationBusiness" xml:space="preserve">
@@ -7294,7 +7293,7 @@ Választhatunk a Mailbird Personal vagy a Mailbird Business verzió között az 
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrial_ExplanationBusiness" xml:space="preserve">
-    <value>A Mailbird Business verzió használatának folytatásához Exchange támogatással, LinkedIn kereséssel, belső válasszal és sok egyébbel meg kell vásárolni a  Mailbird Business verziót.</value>
+    <value>A Mailbird Business verzió használatának folytatásához Exchange támogatással, LinkedIn kereséssel, belső válasszal és sok egyébbel meg kell vásárolni a Mailbird Business verziót.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
@@ -7490,7 +7489,7 @@ A Mailbird most egy másik böngészővel próbálkozik. Ha ez továbbra sem mű
     <comment>Header for messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Dialog_GoOfflineExplanation" xml:space="preserve">
-    <value>A próbaidőszak kiterjesztésének elvetésével a  Mailbird újra indul offline üzemmódban. Szeretnénk folytatni?</value>
+    <value>A próbaidőszak kiterjesztésének elvetésével a Mailbird újra indul offline üzemmódban. Szeretnénk folytatni?</value>
     <comment>Explanationfor messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
@@ -7825,103 +7824,103 @@ Your normal version of Mailbird is unaffected but this version will start as a n
     <comment>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</comment>
   </data>
   <data name="Filter_Field_Condition_HasAttachment" xml:space="preserve">
-    <value>Has attachment</value>
+    <value>Melléklettel rendelkezik</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="AdvancedSearch_LearnMore" xml:space="preserve">
-    <value>Combine search terms with [bold]AND[/bold] and [bold]OR[/bold] to create complex queries [link href={0}]learn more[/link].</value>
+    <value>Kereső kifejezések kombinálása [bold]AND[/bold] és [bold]OR[/bold] elemekkel összetett lekérdezésekhez. [link href={0}]Bővebben[/link].</value>
     <comment>Explanation text in advanced search popup</comment>
   </data>
   <data name="AdvancedSearch_AllMail" xml:space="preserve">
-    <value>All mail</value>
+    <value>Összes email</value>
     <comment>Option to search email in All mail</comment>
   </data>
   <data name="App_Calendar_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nincs</value>
     <comment>Button to leave date entry empty</comment>
   </data>
   <data name="AdvancedSearch_DateWithin" xml:space="preserve">
-    <value>Date within</value>
+    <value>Dátumon belül</value>
     <comment>Field in advanced search, to filter message that is received/sent around date</comment>
   </data>
   <data name="AdvancedSearch_DoesntHave" xml:space="preserve">
-    <value>Doesn't have</value>
+    <value>Nem tartalmazza</value>
     <comment>Field in advanced search, to filter message that doesnt have certain words</comment>
   </data>
   <data name="AdvancedSearch_GreaterThan" xml:space="preserve">
-    <value>Greater than</value>
+    <value>Nagyobb, mint</value>
     <comment>Option to search message with size greater than certain value</comment>
   </data>
   <data name="AdvancedSearch_HasWords" xml:space="preserve">
-    <value>Has words</value>
+    <value>Szavakat tartalmaz</value>
     <comment>Field in advanced search, to filter message that has some words</comment>
   </data>
   <data name="AdvancedSearch_LessThan" xml:space="preserve">
-    <value>Less than</value>
+    <value>Kisebb, mint</value>
     <comment>Option to search message with size less than certain value</comment>
   </data>
   <data name="AdvancedSearch_Search" xml:space="preserve">
-    <value>Search</value>
+    <value>Keresés</value>
     <comment>Button to search in advanced search</comment>
   </data>
   <data name="AdvancedSearch_SearchIn" xml:space="preserve">
-    <value>Search in</value>
+    <value>Keresés itt</value>
     <comment>Field in advanced search, to filter message that is in certain folder</comment>
   </data>
   <data name="AdvancedSearch_Size" xml:space="preserve">
-    <value>Size</value>
+    <value>Méret</value>
     <comment>Field in advanced search, to filter message with certain size</comment>
   </data>
   <data name="AdvancedSearch_Subject" xml:space="preserve">
-    <value>Subject</value>
+    <value>Tárgy</value>
     <comment>Field in advanced search, to filter message with certain subject</comment>
   </data>
   <data name="AdvancedSearch_Any" xml:space="preserve">
-    <value>Any</value>
+    <value>Bármelyik</value>
     <comment>Field in advanced search, to filter message that is either read or unread</comment>
   </data>
   <data name="AdvancedSearch_Read" xml:space="preserve">
-    <value>Read</value>
+    <value>Olvasott</value>
     <comment>Field in advanced search, to filter message that is read</comment>
   </data>
   <data name="AdvancedSearch_ReadStatus" xml:space="preserve">
-    <value>Read status</value>
+    <value>Olvasási állapot</value>
     <comment>Field in advanced search, to filter message that is read/unread</comment>
   </data>
   <data name="AdvancedSearch_Unread" xml:space="preserve">
-    <value>Unread</value>
+    <value>Olvasatlan</value>
     <comment>Field in advanced search, to filter message that is unread</comment>
   </data>
   <data name="AdvancedSearch_Field_Day" xml:space="preserve">
-    <value>day</value>
+    <value>nap</value>
     <comment>Duration field: day</comment>
   </data>
   <data name="AdvancedSearch_Field_DayPlural" xml:space="preserve">
-    <value>days</value>
+    <value>nap</value>
     <comment>Duration field: days (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Month" xml:space="preserve">
-    <value>month</value>
+    <value>hónap</value>
     <comment>Duration field: month</comment>
   </data>
   <data name="AdvancedSearch_Field_MonthPlural" xml:space="preserve">
-    <value>months</value>
+    <value>hónap</value>
     <comment>Duration field: months (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Week" xml:space="preserve">
-    <value>week</value>
+    <value>hét</value>
     <comment>Duration field: week</comment>
   </data>
   <data name="AdvancedSearch_Field_WeekPlural" xml:space="preserve">
-    <value>weeks</value>
+    <value>hét</value>
     <comment>Duration field: weeks (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Year" xml:space="preserve">
-    <value>year</value>
+    <value>év</value>
     <comment>Duration field: year</comment>
   </data>
   <data name="AdvancedSearch_Field_YearPlural" xml:space="preserve">
-    <value>years</value>
+    <value>év</value>
     <comment>Duration field: years (plural)</comment>
   </data>
 </root>
