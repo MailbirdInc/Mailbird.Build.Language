@@ -2108,6 +2108,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
     <value>Google non supporta l'autenticazione a due fattori quando si usa l'autenticazione con nome utente e password.
+
 Prova a configurare l'account in Mailbird in modo da usare l'autenticazione OAuth 2.0. </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
@@ -2356,6 +2357,7 @@ Path: {0}</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
     <value>Vuoi rimuovere anche la cartella dei dati di Mailbird, con tutte le impostazioni, i messaggi e i contatti?
+
 Se hai intenzione di reinstallare Mailbird, mantieni i dati in modo da evitare di riconfigurare di nuovo.</value>
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
@@ -3644,8 +3646,7 @@ You can disable the unified account from the options, or edit each of your accou
 {0}
 
 Se il problema persiste, dai un'occhiata a queste pagine per la risoluzione dei problemi:
-https://support.google.com/mail/accounts/answer/78754
-In inglese: https://mailbird.zendesk.com/entries/53544244</value>
+https://support.google.com/mail/accounts/answer/78754?hl=it</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
 
@@ -6047,7 +6048,7 @@ Se il problema persiste contatta il supporto: {0}</value>
     <comment>Button to show more events in a day</comment>
   </data>
   <data name="App_Calendar_NewEvent" xml:space="preserve">
-    <value>+ New event</value>
+    <value>+ Nuovo evento</value>
     <comment>Button to create new event</comment>
   </data>
   <data name="App_Calendar_Next" xml:space="preserve">
@@ -7017,7 +7018,7 @@ alla Posta in arrivo.</value>
     <comment>Messagebox explanationwhen can't delete event</comment>
   </data>
   <data name="App_Calendar_Menu_NewEvent" xml:space="preserve">
-    <value>New event</value>
+    <value>Nuovo evento</value>
     <comment>Menu to create event</comment>
   </data>
   <data name="App_Calendar_Menu_SetDefault" xml:space="preserve">
@@ -7765,11 +7766,11 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Windows title of create filter window</comment>
   </data>
   <data name="Notification_FilterExecutedMany" xml:space="preserve">
-    <value>The filter was applied to {0} conversations</value>
+    <value>Il filtro è stato applicato a {0} conversazioni</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
-    <value>The filter was applied to one conversation</value>
+    <value>Il filtro è stato applicato a una conversazione</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
@@ -7823,103 +7824,103 @@ La versione normale di Mailbird non è stata toccata, ma questa installazione si
     <comment>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</comment>
   </data>
   <data name="Filter_Field_Condition_HasAttachment" xml:space="preserve">
-    <value>Has attachment</value>
+    <value>Ha allegati</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="AdvancedSearch_LearnMore" xml:space="preserve">
-    <value>Combine search terms with [bold]AND[/bold] and [bold]OR[/bold] to create complex queries [link href={0}]learn more[/link].</value>
+    <value>Combina i termini di ricerca con [bold]AND[/bold] e [bold]OR[/bold] per creare ricerche complesse. [link href={0}]Scopri di più[/link].</value>
     <comment>Explanation text in advanced search popup</comment>
   </data>
   <data name="AdvancedSearch_AllMail" xml:space="preserve">
-    <value>All mail</value>
+    <value>Tutta la posta</value>
     <comment>Option to search email in All mail</comment>
   </data>
   <data name="App_Calendar_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nessuna</value>
     <comment>Button to leave date entry empty</comment>
   </data>
   <data name="AdvancedSearch_DateWithin" xml:space="preserve">
-    <value>Date within</value>
+    <value>Data entro</value>
     <comment>Field in advanced search, to filter message that is received/sent around date</comment>
   </data>
   <data name="AdvancedSearch_DoesntHave" xml:space="preserve">
-    <value>Doesn't have</value>
+    <value>Non contiene</value>
     <comment>Field in advanced search, to filter message that doesnt have certain words</comment>
   </data>
   <data name="AdvancedSearch_GreaterThan" xml:space="preserve">
-    <value>Greater than</value>
+    <value>Maggiore di</value>
     <comment>Option to search message with size greater than certain value</comment>
   </data>
   <data name="AdvancedSearch_HasWords" xml:space="preserve">
-    <value>Has words</value>
+    <value>Contiene le parole</value>
     <comment>Field in advanced search, to filter message that has some words</comment>
   </data>
   <data name="AdvancedSearch_LessThan" xml:space="preserve">
-    <value>Less than</value>
+    <value>Minore di</value>
     <comment>Option to search message with size less than certain value</comment>
   </data>
   <data name="AdvancedSearch_Search" xml:space="preserve">
-    <value>Search</value>
+    <value>Cerca</value>
     <comment>Button to search in advanced search</comment>
   </data>
   <data name="AdvancedSearch_SearchIn" xml:space="preserve">
-    <value>Search in</value>
+    <value>Cerca in</value>
     <comment>Field in advanced search, to filter message that is in certain folder</comment>
   </data>
   <data name="AdvancedSearch_Size" xml:space="preserve">
-    <value>Size</value>
+    <value>Dimensione</value>
     <comment>Field in advanced search, to filter message with certain size</comment>
   </data>
   <data name="AdvancedSearch_Subject" xml:space="preserve">
-    <value>Subject</value>
+    <value>Oggetto</value>
     <comment>Field in advanced search, to filter message with certain subject</comment>
   </data>
   <data name="AdvancedSearch_Any" xml:space="preserve">
-    <value>Any</value>
+    <value>Qualsiasi</value>
     <comment>Field in advanced search, to filter message that is either read or unread</comment>
   </data>
   <data name="AdvancedSearch_Read" xml:space="preserve">
-    <value>Read</value>
+    <value>Letto</value>
     <comment>Field in advanced search, to filter message that is read</comment>
   </data>
   <data name="AdvancedSearch_ReadStatus" xml:space="preserve">
-    <value>Read status</value>
+    <value>Stato di lettura</value>
     <comment>Field in advanced search, to filter message that is read/unread</comment>
   </data>
   <data name="AdvancedSearch_Unread" xml:space="preserve">
-    <value>Unread</value>
+    <value>Non letto</value>
     <comment>Field in advanced search, to filter message that is unread</comment>
   </data>
   <data name="AdvancedSearch_Field_Day" xml:space="preserve">
-    <value>day</value>
+    <value>giorno</value>
     <comment>Duration field: day</comment>
   </data>
   <data name="AdvancedSearch_Field_DayPlural" xml:space="preserve">
-    <value>days</value>
+    <value>giorni</value>
     <comment>Duration field: days (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Month" xml:space="preserve">
-    <value>month</value>
+    <value>mese</value>
     <comment>Duration field: month</comment>
   </data>
   <data name="AdvancedSearch_Field_MonthPlural" xml:space="preserve">
-    <value>months</value>
+    <value>mesi</value>
     <comment>Duration field: months (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Week" xml:space="preserve">
-    <value>week</value>
+    <value>settimana</value>
     <comment>Duration field: week</comment>
   </data>
   <data name="AdvancedSearch_Field_WeekPlural" xml:space="preserve">
-    <value>weeks</value>
+    <value>settimane</value>
     <comment>Duration field: weeks (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Year" xml:space="preserve">
-    <value>year</value>
+    <value>anno</value>
     <comment>Duration field: year</comment>
   </data>
   <data name="AdvancedSearch_Field_YearPlural" xml:space="preserve">
-    <value>years</value>
+    <value>anni</value>
     <comment>Duration field: years (plural)</comment>
   </data>
 </root>
