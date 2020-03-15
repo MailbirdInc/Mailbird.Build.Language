@@ -2108,6 +2108,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
     <value>O Google não suporta a verificação em 2 passos quando estiver em uso a autenticação por utilizador e palavra-passe.
+
 Em alternativa, considere configurar a conta no Mailbird para usar a autenticação OAuth 2.0. </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
@@ -2275,7 +2276,7 @@ Path: {0}</comment>
     <comment>Check spelling</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpellingAsYouType" xml:space="preserve">
-    <value>Verificar ortografia enquanto  escreve</value>
+    <value>Verificar ortografia enquanto escreve</value>
     <comment>Check spelling as you type</comment>
   </data>
   <data name="MailEditorFormattingBar_EditHtml" xml:space="preserve">
@@ -2423,7 +2424,7 @@ Please check the free disk space and make more available if running low.</commen
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
     <value>O Mailbird detectou que o certificado SSL no servidor: '{0}', é inválido.
 
-Por favor clique no botão "ler mais" abaixo para mais informações antes  de continuar.
+Por favor clique no botão "ler mais" abaixo para mais informações antes de continuar.
 
 Gostaria de ignorar o erro permanentemente para este servidor?</value>
     <comment>Mailbird has detected that the SSL certificate of the server: '{0}', is invalid.
@@ -2434,6 +2435,7 @@ Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
     <value>Excelente trabalho ao convidar os seus amigos para o Mailbird! Existem alguns emails para os quais já foi enviado o convite, portanto está na hora de convidar outras pessoas para desbloquear os prémios do seu Mailbird Pro.
+
 Já foram enviados convites para os emails: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
@@ -3161,7 +3163,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <data name="License_NoConnection" xml:space="preserve">
     <value>O Mailbird não conseguiu entrar em contacto com o servidor de licenças.
 
-Verifique a sua ligação à  Internet e verifique se alguma firewall está configurada para permitir que o Mailbird se ligue ao servidor e tente novamente.</value>
+Verifique a sua ligação à Internet e verifique se alguma firewall está configurada para permitir que o Mailbird se ligue ao servidor e tente novamente.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -3181,7 +3183,7 @@ Verifique a sua ligação à  Internet e verifique se alguma firewall está conf
     <comment>You are running Mailbird Lite.</comment>
   </data>
   <data name="License_ProTrial" xml:space="preserve">
-    <value>{0} dias restantes do seu período de avaliação. Quando o período de avaliação terminar, será necessário  uma licença para continuar a usar o Mailbird.</value>
+    <value>{0} dias restantes do seu período de avaliação. Quando o período de avaliação terminar, será necessário uma licença para continuar a usar o Mailbird.</value>
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
@@ -3642,6 +3644,7 @@ You can disable the unified account from the options, or edit each of your accou
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
     <value>Configure a sua conta para usar a autenticação OAuth 2.0 em vez do nome de utilizador e password ou certifique-se de que a opção "permitir aplicações menos seguras" esteja activada no Gmail:
 {0}
+
 Se o problema persistir, siga este procedimento para obter mais informações sobre a solução de problemas:
 Https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
@@ -3655,7 +3658,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Server authentication failed</comment>
   </data>
   <data name="Notification_FailedProxyAuthentication" xml:space="preserve">
-    <value>Falha na autenticação com o servidor proxy.  Verifique se as configurações de proxy foram introduzidas correctamente nas definições do Mailbird.</value>
+    <value>Falha na autenticação com o servidor proxy. Verifique se as configurações de proxy foram introduzidas correctamente nas definições do Mailbird.</value>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
@@ -3780,6 +3783,7 @@ If you are seeing this error frequently, please contact Mailbird support.</comme
   </data>
   <data name="LostDraft_Explanation" xml:space="preserve">
     <value>Ocorreu um erro ao tentar exibir o rascunho. Para continuar, por favor [btn_1]
+
 
 Se este erro ocorrer com frequência, por favor [btn_2]</value>
     <comment>Note:
@@ -4554,6 +4558,7 @@ Are you sure you want to close the window?</comment>
   </data>
   <data name="Notification_GenericAuthenticationError1" xml:space="preserve">
     <value>Isto é causado normalmente por credenciais inválidas ou {0} estão desactivadas no servidor para a sua conta.
+
 Saiba mais:
 https://support.getmailbird.com/hc/en-us/articles/220108287</value>
     <comment>This is typically caused by invalid credentials or [IMAP/POP3] being disabled on the server for your account.
@@ -5205,7 +5210,7 @@ Isso desactivará a sincronização de contactos e apagará os grupos e contacto
     <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>Para continuar a aproveitar ao máximo o Mailbird, com snooze, contas ilimitadas e muito mais,  precisará de comprar o Mailbird.</value>
+    <value>Para continuar a aproveitar ao máximo o Mailbird, com snooze, contas ilimitadas e muito mais, precisará de comprar o Mailbird.</value>
     <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
@@ -5432,6 +5437,7 @@ As sugestões removidas podem ser restauradas a partir das definições.</value>
     <value>Não só actualizamos a aplicação antiga de contactos com um design totalmente novo - também adicionamos suporte completo do Google e do Outlook, para que possa sincronizar os contactos com as suas contas existentes e ter os mesmos contactos, quer esteja a trabalhar no Mailbird ou noutro lugar.
 
 Novo significa também "vinculação", permitindo que associe contactos idênticos a diferentes contas - para fazer alterações uma só vez e expandir automaticamente para todas as contas.
+
 E referimos que pode facilmente copiar ou mover contactos entre contas?
 
 Experimente os novos contactos agora!</value>
@@ -7112,7 +7118,7 @@ sua Caixa de Entrada.</value>
     <comment>Button to dismiss offer</comment>
   </data>
   <data name="License_TrialReminder_Explanation" xml:space="preserve">
-    <value>Este é apenas um lembrete de que o seu período de avaliação expirará em breve. Se acha que teve tempo suficiente para testar todos os recursos,  pode agora comprar o Mailbird por {0}% de desconto. Esta oferta expirará com o teste.</value>
+    <value>Este é apenas um lembrete de que o seu período de avaliação expirará em breve. Se acha que teve tempo suficiente para testar todos os recursos, pode agora comprar o Mailbird por {0}% de desconto. Esta oferta expirará com o teste.</value>
     <comment>Body copy for trial reminder window</comment>
   </data>
   <data name="License_TrialReminder_HeaderPlural" xml:space="preserve">
@@ -7142,7 +7148,7 @@ Que versão gostaria de experimentar?</value>
     <comment>Button to dismiss offer</comment>
   </data>
   <data name="License_EndTrial_Explanation" xml:space="preserve">
-    <value>Para continuar a usar o Mailbird com conta Unificada, resposta em linha,  calendário Padrão, e muito mais, terá de comprar o Mailbird.</value>
+    <value>Para continuar a usar o Mailbird com conta Unificada, resposta em linha, calendário Padrão, e muito mais, terá de comprar o Mailbird.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_EndTrial_Header" xml:space="preserve">
@@ -7287,7 +7293,7 @@ Agora pode escolher entre o Mailbird Pessoal e o Mailbird Comercial, dependendo 
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrial_ExplanationBusiness" xml:space="preserve">
-    <value>Para continuar a usar o Mailbird Comercial com o suporte do Exchange, a pesquisa no LinkedIn, a resposta emlinha e muito mais,  precisará de comprar o Mailbird Comercial.</value>
+    <value>Para continuar a usar o Mailbird Comercial com o suporte do Exchange, a pesquisa no LinkedIn, a resposta em linha e muito mais, precisará de comprar o Mailbird Comercial.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
@@ -7377,7 +7383,7 @@ Se deseja continuar a usar o Mailbird, pode comprar uma licença abaixo ou inser
     <comment>Explanation when Mailbird has offline in welcome window</comment>
   </data>
   <data name="Welcome_Exchange" xml:space="preserve">
-    <value>As contas do Exchange só  estão disponíveis no Mailbird Comercial.</value>
+    <value>As contas do Exchange só estão disponíveis no Mailbird Comercial.</value>
     <comment>Warning text when trying to add exchange account while license is not business</comment>
   </data>
   <data name="Dialog_Downgrade" xml:space="preserve">
@@ -7385,7 +7391,7 @@ Se deseja continuar a usar o Mailbird, pode comprar uma licença abaixo ou inser
     <comment>Message box header when license is downgraded, Nb: You're leaving Mailbird Business</comment>
   </data>
   <data name="Dialog_Downgrade_Explanation" xml:space="preserve">
-    <value>{0} será activado após o reinício. Para obter o melhor do Mailbird,  pode mudar para o Mailbird Comercial no futuro.</value>
+    <value>{0} será activado após o reinício. Para obter o melhor do Mailbird, pode mudar para o Mailbird Comercial no futuro.</value>
     <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
   </data>
   <data name="License_MailbirdLite" xml:space="preserve">
@@ -7760,11 +7766,11 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Windows title of create filter window</comment>
   </data>
   <data name="Notification_FilterExecutedMany" xml:space="preserve">
-    <value>The filter was applied to {0} conversations</value>
+    <value>O filtro foi aplicado em {0} conversas</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
-    <value>The filter was applied to one conversation</value>
+    <value>O filtro foi aplicado a uma conversa</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
@@ -7818,103 +7824,103 @@ A sua versão normal do Mailbird não é afectada mas esta versão irá começar
     <comment>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</comment>
   </data>
   <data name="Filter_Field_Condition_HasAttachment" xml:space="preserve">
-    <value>Has attachment</value>
+    <value>Possui anexo</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="AdvancedSearch_LearnMore" xml:space="preserve">
-    <value>Combine search terms with [bold]AND[/bold] and [bold]OR[/bold] to create complex queries [link href={0}]learn more[/link].</value>
+    <value>Combine termos de busca com [bold]AND[/bold] and [bold]OR[/bold] para criar consultas complexas [link href={0}]saber mais[/link].</value>
     <comment>Explanation text in advanced search popup</comment>
   </data>
   <data name="AdvancedSearch_AllMail" xml:space="preserve">
-    <value>All mail</value>
+    <value>Todos os e-mails</value>
     <comment>Option to search email in All mail</comment>
   </data>
   <data name="App_Calendar_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nenhum</value>
     <comment>Button to leave date entry empty</comment>
   </data>
   <data name="AdvancedSearch_DateWithin" xml:space="preserve">
-    <value>Date within</value>
+    <value>Data dentro de</value>
     <comment>Field in advanced search, to filter message that is received/sent around date</comment>
   </data>
   <data name="AdvancedSearch_DoesntHave" xml:space="preserve">
-    <value>Doesn't have</value>
+    <value>Não possui</value>
     <comment>Field in advanced search, to filter message that doesnt have certain words</comment>
   </data>
   <data name="AdvancedSearch_GreaterThan" xml:space="preserve">
-    <value>Greater than</value>
+    <value>Maior do que</value>
     <comment>Option to search message with size greater than certain value</comment>
   </data>
   <data name="AdvancedSearch_HasWords" xml:space="preserve">
-    <value>Has words</value>
+    <value>Tem palavras</value>
     <comment>Field in advanced search, to filter message that has some words</comment>
   </data>
   <data name="AdvancedSearch_LessThan" xml:space="preserve">
-    <value>Less than</value>
+    <value>Menos do que</value>
     <comment>Option to search message with size less than certain value</comment>
   </data>
   <data name="AdvancedSearch_Search" xml:space="preserve">
-    <value>Search</value>
+    <value>Pesquisar</value>
     <comment>Button to search in advanced search</comment>
   </data>
   <data name="AdvancedSearch_SearchIn" xml:space="preserve">
-    <value>Search in</value>
+    <value>Pesquisar em</value>
     <comment>Field in advanced search, to filter message that is in certain folder</comment>
   </data>
   <data name="AdvancedSearch_Size" xml:space="preserve">
-    <value>Size</value>
+    <value>Tamanho</value>
     <comment>Field in advanced search, to filter message with certain size</comment>
   </data>
   <data name="AdvancedSearch_Subject" xml:space="preserve">
-    <value>Subject</value>
+    <value>Assunto</value>
     <comment>Field in advanced search, to filter message with certain subject</comment>
   </data>
   <data name="AdvancedSearch_Any" xml:space="preserve">
-    <value>Any</value>
+    <value>Qualquer</value>
     <comment>Field in advanced search, to filter message that is either read or unread</comment>
   </data>
   <data name="AdvancedSearch_Read" xml:space="preserve">
-    <value>Read</value>
+    <value>Ler</value>
     <comment>Field in advanced search, to filter message that is read</comment>
   </data>
   <data name="AdvancedSearch_ReadStatus" xml:space="preserve">
-    <value>Read status</value>
+    <value>Ler estado</value>
     <comment>Field in advanced search, to filter message that is read/unread</comment>
   </data>
   <data name="AdvancedSearch_Unread" xml:space="preserve">
-    <value>Unread</value>
+    <value>Não lido</value>
     <comment>Field in advanced search, to filter message that is unread</comment>
   </data>
   <data name="AdvancedSearch_Field_Day" xml:space="preserve">
-    <value>day</value>
+    <value>dia</value>
     <comment>Duration field: day</comment>
   </data>
   <data name="AdvancedSearch_Field_DayPlural" xml:space="preserve">
-    <value>days</value>
+    <value>dias</value>
     <comment>Duration field: days (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Month" xml:space="preserve">
-    <value>month</value>
+    <value>mês</value>
     <comment>Duration field: month</comment>
   </data>
   <data name="AdvancedSearch_Field_MonthPlural" xml:space="preserve">
-    <value>months</value>
+    <value>meses</value>
     <comment>Duration field: months (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Week" xml:space="preserve">
-    <value>week</value>
+    <value>semana</value>
     <comment>Duration field: week</comment>
   </data>
   <data name="AdvancedSearch_Field_WeekPlural" xml:space="preserve">
-    <value>weeks</value>
+    <value>semanas</value>
     <comment>Duration field: weeks (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Year" xml:space="preserve">
-    <value>year</value>
+    <value>ano</value>
     <comment>Duration field: year</comment>
   </data>
   <data name="AdvancedSearch_Field_YearPlural" xml:space="preserve">
-    <value>years</value>
+    <value>anos</value>
     <comment>Duration field: years (plural)</comment>
   </data>
 </root>
