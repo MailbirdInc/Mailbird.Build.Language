@@ -923,7 +923,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Trash</comment>
   </data>
   <data name="AppStore_Title" xml:space="preserve">
-    <value>Add-ons</value>
+    <value>Apps</value>
     <comment>Apps</comment>
   </data>
   <data name="Conversation_ShowSource" xml:space="preserve">
@@ -2304,7 +2304,7 @@ Path: {0}</comment>
     <comment>Increase size</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertHyperlink" xml:space="preserve">
-    <value>Add link</value>
+    <value>Insert link</value>
     <comment>Insert hyperlink</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
@@ -7824,7 +7824,7 @@ Your normal version of Mailbird is unaffected but this version will start as a n
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="AdvancedSearch_LearnMore" xml:space="preserve">
-    <value>Combine search terms with [bold]AND[/bold] and [bold]OR[/bold] to create complex queries [link href={0}]learn more[/link].</value>
+    <value>Learn more about advanced search queries [link href={0}]here[/link].</value>
     <comment>Explanation text in advanced search popup</comment>
   </data>
   <data name="AdvancedSearch_AllMail" xml:space="preserve">
@@ -7918,5 +7918,39 @@ Your normal version of Mailbird is unaffected but this version will start as a n
   <data name="AdvancedSearch_Field_YearPlural" xml:space="preserve">
     <value>years</value>
     <comment>Duration field: years (plural)</comment>
+  </data>
+  <data name="Unsubscribe_DialogDirect" xml:space="preserve">
+    <value>Do you want to stop receiving similar messages from {0}?</value>
+    <comment>Explanation on confirmation dialog when unsubscribing from newsletter</comment>
+  </data>
+  <data name="Unsubscribe_DialogHeader" xml:space="preserve">
+    <value>Unsubscribe?</value>
+    <comment>Header on confirmation dialog when unsubscribing</comment>
+  </data>
+  <data name="Unsubscribe_DialogRedirect" xml:space="preserve">
+    <value>Do you want to stop receiving similar messages from {0}?
+
+If so, you'll be taken to an unsubscribe page.</value>
+    <comment>Explanation on confirmation dialog when unsubscribing from newsletter</comment>
+  </data>
+  <data name="Unsubscribe_Unsubscribe" xml:space="preserve">
+    <value>Unsubscribe</value>
+    <comment>Button to unsubscribe from newsletter</comment>
+  </data>
+  <data name="Notification_UnsubscribedFromNewsletter" xml:space="preserve">
+    <value>Unsubscribed from mailing list</value>
+    <comment>Message shown when unsubscribing from newsletter via mailto method</comment>
+  </data>
+  <data name="Notification_CopiedConversation" xml:space="preserve">
+    <value>Copied to {0}</value>
+    <comment>Notification shown after copying conversation to other account</comment>
+  </data>
+  <data name="Notification_MovedConversation" xml:space="preserve">
+    <value>Moved to {0}</value>
+    <comment>Notification shown after moving conversation to other account</comment>
+  </data>
+  <data name="MailEditorFormattingBar_InsertEmoji" xml:space="preserve">
+    <value>Insert emoji</value>
+    <comment>Tooltip for formatting button to insert emoji</comment>
   </data>
 </root>
