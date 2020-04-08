@@ -294,7 +294,7 @@
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>to me</value>
+    <value>nekem</value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -627,7 +627,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
-    <value>Insert link</value>
+    <value>Link beszúrás</value>
     <comment>Insert Link</comment>
   </data>
   <data name="Identity_Account" xml:space="preserve">
@@ -2304,7 +2304,7 @@ Path: {0}</comment>
     <comment>Increase size</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertHyperlink" xml:space="preserve">
-    <value>Insert link</value>
+    <value>Link beszúrás</value>
     <comment>Insert hyperlink</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
@@ -2862,7 +2862,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>{0} will be replaced by the skype name, so the result will be "Call (Skype) skypename"</comment>
   </data>
   <data name="App_Contacts_SendEmail" xml:space="preserve">
-    <value>Email {0}</value>
+    <value>Email küldés: {0}</value>
     <comment>{0} will be replaced by the email address, so the result will be "Send email to test@gmail.com"</comment>
   </data>
   <data name="Dialog_DeleteGroup" xml:space="preserve">
@@ -3005,7 +3005,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>ICloud</comment>
   </data>
   <data name="AvatarIconIdea" xml:space="preserve">
-    <value>Idea</value>
+    <value>Ötlet</value>
     <comment>Idea</comment>
   </data>
   <data name="AvatarIconLike" xml:space="preserve">
@@ -3662,11 +3662,11 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
-    <value>Insert link</value>
+    <value>Link beszúrás</value>
     <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
-    <value>Opens insert link window while you are composing email or editing signature</value>
+    <value>A link beszúrása ablak megnyitása az email összeállítása vagy az aláírás szerkesztése közben.</value>
     <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
@@ -5938,7 +5938,7 @@ Ezért szeretnénk engedélyed kérni, hogy küldhessünk alkalmanként e-mailt 
     <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
-    <value>NO THANKS</value>
+    <value>NEM, KÖSZÖNÖM</value>
     <comment>Button to not give consent</comment>
   </data>
   <data name="Welcome_ConsentStepYes" xml:space="preserve">
@@ -5954,11 +5954,11 @@ Ezért szeretnénk engedélyed kérni, hogy küldhessünk alkalmanként e-mailt 
     <comment>Title text when search result is selected</comment>
   </data>
   <data name="SyncStatus_Error" xml:space="preserve">
-    <value>ERROR</value>
+    <value>HIBA</value>
     <comment>When there is sync error</comment>
   </data>
   <data name="SyncStatus_Offline" xml:space="preserve">
-    <value>OFFLINE</value>
+    <value>TÁVOL</value>
     <comment>When there is no internet connection</comment>
   </data>
   <data name="SyncStatus_Synced" xml:space="preserve">
@@ -6068,7 +6068,7 @@ Ha a hiba továbbra is ismétlődik, vegyük fel a kapcsolatot a támogatókkal:
     <comment>Button to go to today's date</comment>
   </data>
   <data name="App_Calendar_ViewDay" xml:space="preserve">
-    <value>Day</value>
+    <value>Nap</value>
     <comment>Menu to change view type to day</comment>
   </data>
   <data name="App_Calendar_ViewMonth" xml:space="preserve">
@@ -6318,7 +6318,7 @@ Ez letiltja a naptár szinkronizálást a Mailbird alkalmazásból.</value>
     <comment>Event visibility: default</comment>
   </data>
   <data name="App_Calendar_EditEvent_Details" xml:space="preserve">
-    <value>Details</value>
+    <value>Adatok</value>
     <comment>Details section in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_Email" xml:space="preserve">
@@ -6326,7 +6326,7 @@ Ez letiltja a naptár szinkronizálást a Mailbird alkalmazásból.</value>
     <comment>Email notification for upcoming event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Free" xml:space="preserve">
-    <value>Free</value>
+    <value>Esemény adatvédelem: szabad</value>
     <comment>Event privacy: free</comment>
   </data>
   <data name="App_Calendar_EditEvent_Guests" xml:space="preserve">
@@ -6346,7 +6346,7 @@ Ez letiltja a naptár szinkronizálást a Mailbird alkalmazásból.</value>
     <comment>Placeholder for location textbox</comment>
   </data>
   <data name="App_Calendar_EditEvent_Minute" xml:space="preserve">
-    <value>Minute</value>
+    <value>Perc</value>
     <comment>Time unit: minute</comment>
   </data>
   <data name="App_Calendar_EditEvent_Modify" xml:space="preserve">
@@ -6354,7 +6354,7 @@ Ez letiltja a naptár szinkronizálást a Mailbird alkalmazásból.</value>
     <comment>Guest right to modify event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Notification" xml:space="preserve">
-    <value>Notification</value>
+    <value>Értesítés</value>
     <comment>Popup notification for upcoming event</comment>
   </data>
   <data name="App_Calendar_EditEvent_Optional" xml:space="preserve">
@@ -6362,11 +6362,11 @@ Ez letiltja a naptár szinkronizálást a Mailbird alkalmazásból.</value>
     <comment>Label when attendee is optional participant</comment>
   </data>
   <data name="App_Calendar_EditEvent_Private" xml:space="preserve">
-    <value>Private</value>
+    <value>Személyes</value>
     <comment>Event visibility: private</comment>
   </data>
   <data name="App_Calendar_EditEvent_Public" xml:space="preserve">
-    <value>Public</value>
+    <value>Nyilvános</value>
     <comment>Event visibility: public</comment>
   </data>
   <data name="App_Calendar_EditEvent_SeeGuestList" xml:space="preserve">
@@ -6382,7 +6382,7 @@ Ez letiltja a naptár szinkronizálást a Mailbird alkalmazásból.</value>
     <comment>Placeholder for title in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_To" xml:space="preserve">
-    <value>to</value>
+    <value>-</value>
     <comment>Label text between start and end time</comment>
   </data>
   <data name="App_Calendar_TimeZone_DifferentStartEnd" xml:space="preserve">
@@ -6465,7 +6465,7 @@ e.g. "1 occurrence"</comment>
 e.g. "2 occurrences"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_On" xml:space="preserve">
-    <value>On</value>
+    <value>-</value>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
@@ -6513,18 +6513,18 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on the fourth weekday of the month. Example: Fourth Tuesday, Fourth Thursday</comment>
   </data>
   <data name="App_Calendar_Recurrence_In" xml:space="preserve">
-    <value>in {0}</value>
+    <value>:: {0}</value>
   </data>
   <data name="App_Calendar_Recurrence_Last" xml:space="preserve">
     <value>utolsó</value>
     <comment>An event repeats on the last weekday of the month. Example: Last Monday, Last Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_On" xml:space="preserve">
-    <value>on {0}</value>
+    <value>:: {0}</value>
     <comment>An event repeats on a week day. Example: on Monday, on Friday, On October 8</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnDay" xml:space="preserve">
-    <value>on day {0}</value>
+    <value>{0}. napon</value>
     <comment>An event repeats on a month day. Example: on day 1, on day 2, on day 31</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnlyOnce" xml:space="preserve">
@@ -6532,7 +6532,7 @@ e.g. "2 occurrences"</comment>
     <comment>Calendar event repeats only 1 time.</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnThe" xml:space="preserve">
-    <value>on the {0}</value>
+    <value>{0} napon</value>
     <comment>An event repeats on n day of the week. Example: on the first Monday, on the third Thursday, on the last Friday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Second" xml:space="preserve">
@@ -6566,7 +6566,7 @@ e.g. "2 occurrences"</comment>
     <comment>Button to confirm that user maybe can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_No" xml:space="preserve">
-    <value>No</value>
+    <value>Nem</value>
     <comment>Button to confirm that user can't attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Yes" xml:space="preserve">
@@ -6590,7 +6590,7 @@ e.g. "2 occurrences"</comment>
     <comment>Time unit: hours</comment>
   </data>
   <data name="App_Calendar_EditEvent_MinutePlural" xml:space="preserve">
-    <value>Minutes</value>
+    <value>Perc</value>
     <comment>Time unit: minutes</comment>
   </data>
   <data name="App_Calendar_EditEvent_Before" xml:space="preserve">
@@ -6598,7 +6598,7 @@ e.g. "2 occurrences"</comment>
     <comment>Label for reminder, ej: 30 hours before</comment>
   </data>
   <data name="App_Calendar_Reminder_AsEmail" xml:space="preserve">
-    <value>as email</value>
+    <value>emailben</value>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
@@ -6626,11 +6626,11 @@ e.g. "2 occurrences"</comment>
     <comment>Cancel button </comment>
   </data>
   <data name="App_Calendar_Notification_DontSend" xml:space="preserve">
-    <value>Don't send</value>
+    <value>Nincs küldés</value>
     <comment>Don't send button</comment>
   </data>
   <data name="App_Calendar_Notification_Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Küldés</value>
     <comment>Send button</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellation" xml:space="preserve">
@@ -6658,7 +6658,7 @@ e.g. "2 occurrences"</comment>
     <comment>Explanation for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Reminder_At" xml:space="preserve">
-    <value>at</value>
+    <value>-</value>
     <comment>E.g. Event is starting at 1:00 PM</comment>
   </data>
   <data name="App_Calendar_Reminder_WhenEventStarts" xml:space="preserve">
@@ -6686,15 +6686,15 @@ e.g. "2 occurrences"</comment>
     <comment>Use to concatenate hour and time. Eg: 5hours and 15 minutes</comment>
   </data>
   <data name="App_Calendar_Notification_Title" xml:space="preserve">
-    <value>Notification</value>
+    <value>Értesítés</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_TitlePlural" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Értesítések</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_NoNotifications" xml:space="preserve">
-    <value>No notifications</value>
+    <value>Nincs értesítés.</value>
     <comment>Label when there are no notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllExplanation" xml:space="preserve">
@@ -6730,7 +6730,7 @@ e.g. "2 occurrences"</comment>
     <comment>Button to snooze all notifications</comment>
   </data>
   <data name="App_Calendar_Notifications" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Értesítések</value>
     <comment>Button to open notifications window</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddAllDayNotification" xml:space="preserve">
@@ -6742,7 +6742,7 @@ e.g. "2 occurrences"</comment>
     <comment>Section for event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_EventNotifications" xml:space="preserve">
-    <value>Event notifications</value>
+    <value>Esemény értesítések</value>
     <comment>Section for all day event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_CantModifyMessage" xml:space="preserve">
@@ -6750,11 +6750,11 @@ e.g. "2 occurrences"</comment>
     <comment>Message where users editing event but they are not the organizer</comment>
   </data>
   <data name="App_Calendar_Settings_Export" xml:space="preserve">
-    <value>Export</value>
+    <value>Exportálás</value>
     <comment>Label of export event button in Calendar settings</comment>
   </data>
   <data name="App_Calendar_Settings_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importálás</value>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
@@ -6806,7 +6806,7 @@ e.g. "2 occurrences"</comment>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
-    <value>Export error</value>
+    <value>Exportálási hiba történt.</value>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
@@ -6822,7 +6822,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
-    <value>No events</value>
+    <value>Nincs esemény.</value>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
@@ -6834,7 +6834,7 @@ e.g. "2 occurrences"</comment>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
-    <value>Import error</value>
+    <value>Importálási hiba történt.</value>
     <comment>Header when there was error in import process</comment>
   </data>
   <data name="App_Calendar_Import_Finished" xml:space="preserve">
@@ -6854,7 +6854,7 @@ e.g. "2 occurrences"</comment>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
-    <value>Import &amp; export</value>
+    <value>Importálás és exportálás</value>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
@@ -6897,7 +6897,7 @@ e.g. "2 occurrences"</comment>
     <comment>Message when event was cancelled</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Leírás</value>
     <comment>Description field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Error" xml:space="preserve">
@@ -6937,7 +6937,7 @@ e.g. "2 occurrences"</comment>
     <comment>Date and time field</comment>
   </data>
   <data name="Dialog_Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Hiba</value>
     <comment>Header when there is error</comment>
   </data>
   <data name="Dialog_Success" xml:space="preserve">
@@ -6945,7 +6945,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when action is success</comment>
   </data>
   <data name="App_Calendar_ViewDayView" xml:space="preserve">
-    <value>Day view</value>
+    <value>Napi nézet</value>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_ViewScheduleView" xml:space="preserve">
@@ -7046,7 +7046,7 @@ a bejövő postaláda mellett.</value>
     <comment>Tooltip to share via LinkedIn</comment>
   </data>
   <data name="App_Calendar_Settings_Color" xml:space="preserve">
-    <value>Color</value>
+    <value>Szín</value>
     <comment>Field for calendar's color</comment>
   </data>
   <data name="App_ZeroBounce_Description" xml:space="preserve">
@@ -7223,7 +7223,7 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <comment>Header for welcome to trial window</comment>
   </data>
   <data name="License_MailbirdPersonal" xml:space="preserve">
-    <value>Personal</value>
+    <value>Személyes</value>
     <comment>Mailbird Personal, see resource with key License_Mailbird</comment>
   </data>
   <data name="License_MailbirdBusiness" xml:space="preserve">
@@ -7243,7 +7243,7 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <comment>Label for many more feature</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureExchangeSupport" xml:space="preserve">
-    <value>Exchange support</value>
+    <value>Exchange támogatás</value>
     <comment>Feature label for exchange support</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureInlineReply" xml:space="preserve">
@@ -7259,7 +7259,7 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <comment>Feature label for priority support</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureTagContact" xml:space="preserve">
-    <value>Tag contacts</value>
+    <value>Címke kapcsolatok</value>
     <comment>Feature label for auto tagging contacts</comment>
   </data>
   <data name="License_WelcomeBusiness_Header" xml:space="preserve">
@@ -7309,7 +7309,7 @@ Választhatunk a Mailbird Personal vagy a Mailbird Business verzió között az 
     <comment>Feature speed reading</comment>
   </data>
   <data name="License_WelcomeBasic_UnifiedAccount" xml:space="preserve">
-    <value>Unified account</value>
+    <value>Egyesített fiók</value>
     <comment>Feature unified account</comment>
   </data>
   <data name="Dialog_LiteLicenseRetrieved" xml:space="preserve">
@@ -7337,7 +7337,7 @@ Választhatunk a Mailbird Personal vagy a Mailbird Business verzió között az 
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_Business" xml:space="preserve">
-    <value>BUSINESS</value>
+    <value>ÜZLETI</value>
     <comment>Type of Mailbird license: Business</comment>
   </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
@@ -7954,27 +7954,27 @@ Igen esetén átkerülünk a leiratkozás oldalra.</value>
     <comment>Tooltip for formatting button to insert emoji</comment>
   </data>
   <data name="App_Calendar_ExpandAllDay" xml:space="preserve">
-    <value>Expand all-day</value>
+    <value>Egész nap kinyitása</value>
     <comment>Tooltip for button to expand all day event section</comment>
   </data>
   <data name="Dialog_Insert" xml:space="preserve">
-    <value>Insert</value>
+    <value>Beszúrás</value>
     <comment>Button to insert in dialog</comment>
   </data>
   <data name="ListUnsubscribe_DefaultBody" xml:space="preserve">
-    <value>This message was automatically generated by Mailbird</value>
+    <value>Ezt az üzenetet a Mailbird automatikusan generálta.</value>
     <comment>Default body text of unsubscribe email message</comment>
   </data>
   <data name="Shortcut_Left" xml:space="preserve">
-    <value>left</value>
+    <value>bal</value>
     <comment>Keyboard left arrow</comment>
   </data>
   <data name="Shortcut_Right" xml:space="preserve">
-    <value>right</value>
+    <value>jobb</value>
     <comment>Keyboard right arrow</comment>
   </data>
   <data name="App_Calendar_CollapseAllDay" xml:space="preserve">
-    <value>Collapse all-day</value>
+    <value>Egész nap bezárása</value>
     <comment>Tooltip for button to collapse all day event section</comment>
   </data>
 </root>
