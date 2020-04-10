@@ -2330,10 +2330,6 @@ Path: {0}</comment>
     <value>Underline</value>
     <comment>Underline</comment>
   </data>
-  <data name="UpgradeToPro_Personal" xml:space="preserve">
-    <value>PERSONAL</value>
-    <comment>Type of Mailbird license: personal</comment>
-  </data>
   <data name="UpgradeToPro_FirstName" xml:space="preserve">
     <value>First name</value>
     <comment>First name</comment>
@@ -7316,14 +7312,6 @@ Was that all a misunderstanding and you wish to continue using Mailbird? No prob
     <value>Welcome to the Mailbird trial</value>
     <comment>Header for welcome to trial window</comment>
   </data>
-  <data name="License_MailbirdPersonal" xml:space="preserve">
-    <value>Personal</value>
-    <comment>Mailbird Personal, see resource with key License_Mailbird</comment>
-  </data>
-  <data name="License_MailbirdBusiness" xml:space="preserve">
-    <value>Business</value>
-    <comment>Mailbird Business, see resource with key License_Mailbird</comment>
-  </data>
   <data name="License_WelcomeBasic_MailbirdBusinessFeatures" xml:space="preserve">
     <value>(Includes all Mailbird features plus Exchange support, LinkedIn lookup, priority support, etc)</value>
     <comment>Label for business features</comment>
@@ -7430,10 +7418,6 @@ You can now choose between Mailbird Personal or Mailbird Business depending on y
     <value>Mailbird is offline</value>
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
-  <data name="UpgradeToPro_Business" xml:space="preserve">
-    <value>BUSINESS</value>
-    <comment>Type of Mailbird license: Business</comment>
-  </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
     <value>Purchase Mailbird Business to use Exchange accounts.</value>
     <comment>Feature description</comment>
@@ -7483,10 +7467,6 @@ If you wish to continue using Mailbird you can purchase a license below or enter
   <data name="Dialog_Downgrade_Explanation" xml:space="preserve">
     <value>{0} will activate after restarting. To get the best out of Mailbird, you can always change to Mailbird Business in the future.</value>
     <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
-  </data>
-  <data name="License_MailbirdLite" xml:space="preserve">
-    <value>Lite</value>
-    <comment>Mailbird Lite, see resource with key License_Mailbird</comment>
   </data>
   <data name="License_OfflineWelcome_Header" xml:space="preserve">
     <value>License required</value>
@@ -7982,5 +7962,13 @@ If so, you'll be taken to an unsubscribe page.</value>
   <data name="App_Calendar_CollapseAllDay" xml:space="preserve">
     <value>Collapse all-day</value>
     <comment>Tooltip for button to collapse all day event section</comment>
+  </data>
+  <data name="Disabled_NotificationBusiness" xml:space="preserve">
+    <value>Purchase Mailbird Business to keep receiving and sending emails from this Exchange account.</value>
+    <comment>Notification when an Exchange account is disabled due to using Mailbird lite or Personal. Mailbird Business is a name, so don't translate that part.</comment>
+  </data>
+  <data name="AdvancedSearch_SearchFields" xml:space="preserve">
+    <value>Show search fields</value>
+    <comment>Tooltip to open advanced search fields</comment>
   </data>
 </root>
