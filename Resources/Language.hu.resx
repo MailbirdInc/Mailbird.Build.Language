@@ -7222,14 +7222,6 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <value>Üdvözlet a Mailbird próba verzióban</value>
     <comment>Header for welcome to trial window</comment>
   </data>
-  <data name="License_MailbirdPersonal" xml:space="preserve">
-    <value>Személyes</value>
-    <comment>Mailbird Personal, see resource with key License_Mailbird</comment>
-  </data>
-  <data name="License_MailbirdBusiness" xml:space="preserve">
-    <value>Üzleti</value>
-    <comment>Mailbird Business, see resource with key License_Mailbird</comment>
-  </data>
   <data name="License_WelcomeBasic_MailbirdBusinessFeatures" xml:space="preserve">
     <value>(Tartalmazza az összes Mailbird lehetőséget, ezen felül pedig Exchange támogatást, LinkedIn keresést, elsőbbség támogatást, stb.)</value>
     <comment>Label for business features</comment>
@@ -7336,10 +7328,6 @@ Választhatunk a Mailbird Personal vagy a Mailbird Business verzió között az 
     <value>A Mailbird üzemen kívüli állapotban van</value>
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
-  <data name="UpgradeToPro_Business" xml:space="preserve">
-    <value>ÜZLETI</value>
-    <comment>Type of Mailbird license: Business</comment>
-  </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
     <value>Vásároljuk meg a Mailbird Business verziót az Exchange fiókok használatához.</value>
     <comment>Feature description</comment>
@@ -7390,10 +7378,6 @@ A Mailbird további használatához egy licenszet kell megvásárolni vagy meg k
     <value>A {0} verzió bekapcsolásra kerül az újraindítás után. A Mailbird legjobb kihasználásához a jövőben át kell állni a Mailbird Business verzió használatára.</value>
     <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
   </data>
-  <data name="License_MailbirdLite" xml:space="preserve">
-    <value>Lite verzió</value>
-    <comment>Mailbird Lite, see resource with key License_Mailbird</comment>
-  </data>
   <data name="License_OfflineWelcome_Header" xml:space="preserve">
     <value>Licensz szükséges</value>
     <comment>Header when Mailbird has gone offline before adding any account</comment>
@@ -7413,10 +7397,6 @@ A Mailbird további használatához egy licenszet kell megvásárolni vagy meg k
   <data name="License_Offline" xml:space="preserve">
     <value>A Mailbird üzemen kívül vab. Licensz szükséges.</value>
     <comment>Label in about window when Mailbird is on offline mode</comment>
-  </data>
-  <data name="UpgradeToPro_Personal" xml:space="preserve">
-    <value>SZEMÉLYES</value>
-    <comment>Type of Mailbird license: personal</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
     <value>(éves fizetés)</value>
@@ -7976,5 +7956,13 @@ Igen esetén átkerülünk a leiratkozás oldalra.</value>
   <data name="App_Calendar_CollapseAllDay" xml:space="preserve">
     <value>Egész nap bezárása</value>
     <comment>Tooltip for button to collapse all day event section</comment>
+  </data>
+  <data name="Disabled_NotificationBusiness" xml:space="preserve">
+    <value>Purchase Mailbird Business to keep receiving and sending emails from this Exchange account.</value>
+    <comment>Notification when an Exchange account is disabled due to using Mailbird lite or Personal. Mailbird Business is a name, so don't translate that part.</comment>
+  </data>
+  <data name="AdvancedSearch_SearchFields" xml:space="preserve">
+    <value>Show search fields</value>
+    <comment>Tooltip to open advanced search fields</comment>
   </data>
 </root>

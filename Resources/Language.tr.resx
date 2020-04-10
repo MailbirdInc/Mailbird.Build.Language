@@ -7222,14 +7222,6 @@ Bu bir yanlış anlaşılma ve Mailbird'ü kullanmaya devam etmek mi istiyorsunu
     <value>Mailbird denemesine hoş geldiniz</value>
     <comment>Header for welcome to trial window</comment>
   </data>
-  <data name="License_MailbirdPersonal" xml:space="preserve">
-    <value>Personal</value>
-    <comment>Mailbird Personal, see resource with key License_Mailbird</comment>
-  </data>
-  <data name="License_MailbirdBusiness" xml:space="preserve">
-    <value>Business</value>
-    <comment>Mailbird Business, see resource with key License_Mailbird</comment>
-  </data>
   <data name="License_WelcomeBasic_MailbirdBusinessFeatures" xml:space="preserve">
     <value>(Tüm Mailbird özellikleri ve Exchange desteği, LinkedIn araması, öncelikli destek vb. içerir)</value>
     <comment>Label for business features</comment>
@@ -7336,10 +7328,6 @@ Artık gereksinimlerinize bağlı olarak Mailbird Personal veya Mailbird Busines
     <value>Mailbird çevrimdışı</value>
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
-  <data name="UpgradeToPro_Business" xml:space="preserve">
-    <value>BUSINESS</value>
-    <comment>Type of Mailbird license: Business</comment>
-  </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
     <value>Exchange hesaplarını kullanmak için Mailbird Business'ı satın alın.</value>
     <comment>Feature description</comment>
@@ -7390,10 +7378,6 @@ Mailbird'ü kullanmaya devam etmek istiyorsanız, aşağıdaki lisansları satı
     <value>Yeniden başlattıktan sonra {0} etkinleşecek. Mailbird'den en iyi şekilde yararlanmak için, gelecekte istediğiniz zaman Mailbird Business olarak değiştirebilirsiniz.</value>
     <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
   </data>
-  <data name="License_MailbirdLite" xml:space="preserve">
-    <value>Lite</value>
-    <comment>Mailbird Lite, see resource with key License_Mailbird</comment>
-  </data>
   <data name="License_OfflineWelcome_Header" xml:space="preserve">
     <value>Lisans gerekli</value>
     <comment>Header when Mailbird has gone offline before adding any account</comment>
@@ -7413,10 +7397,6 @@ Mailbird'ü kullanmaya devam etmek istiyorsanız, aşağıdaki lisansları satı
   <data name="License_Offline" xml:space="preserve">
     <value>Mailbird çevrimdışı. Lisans gerekli.</value>
     <comment>Label in about window when Mailbird is on offline mode</comment>
-  </data>
-  <data name="UpgradeToPro_Personal" xml:space="preserve">
-    <value>PERSONAL</value>
-    <comment>Type of Mailbird license: personal</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
     <value>(yıllık olarak ödenir)</value>
@@ -7976,5 +7956,13 @@ Mailbird normal sürümü etkilenmedi fakat bu sürüm yeni bir yükleme olarak 
   <data name="App_Calendar_CollapseAllDay" xml:space="preserve">
     <value>Collapse all-day</value>
     <comment>Tooltip for button to collapse all day event section</comment>
+  </data>
+  <data name="Disabled_NotificationBusiness" xml:space="preserve">
+    <value>Purchase Mailbird Business to keep receiving and sending emails from this Exchange account.</value>
+    <comment>Notification when an Exchange account is disabled due to using Mailbird lite or Personal. Mailbird Business is a name, so don't translate that part.</comment>
+  </data>
+  <data name="AdvancedSearch_SearchFields" xml:space="preserve">
+    <value>Show search fields</value>
+    <comment>Tooltip to open advanced search fields</comment>
   </data>
 </root>

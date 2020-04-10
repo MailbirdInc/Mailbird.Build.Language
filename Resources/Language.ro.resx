@@ -7221,14 +7221,6 @@ A fost o neînțelegere și doriți să continuați să utilizați Mailbird? Nic
     <value>Bine ați venit la versiunea de încercare Mailbird</value>
     <comment>Header for welcome to trial window</comment>
   </data>
-  <data name="License_MailbirdPersonal" xml:space="preserve">
-    <value>Personal</value>
-    <comment>Mailbird Personal, see resource with key License_Mailbird</comment>
-  </data>
-  <data name="License_MailbirdBusiness" xml:space="preserve">
-    <value>Business</value>
-    <comment>Mailbird Business, see resource with key License_Mailbird</comment>
-  </data>
   <data name="License_WelcomeBasic_MailbirdBusinessFeatures" xml:space="preserve">
     <value>(Include toate caracteristicile Mailbird plus suport pentru Exchange, căutare LinkedIn, suport prioritar etc.)</value>
     <comment>Label for business features</comment>
@@ -7335,10 +7327,6 @@ Puteți alege acum între Mailbird Personal sau Mailbird Business, în funcție 
     <value>Mailbird este în modul offline</value>
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
-  <data name="UpgradeToPro_Business" xml:space="preserve">
-    <value>BUSINESS</value>
-    <comment>Type of Mailbird license: Business</comment>
-  </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
     <value>Achiziționați Mailbird Business pentru a utiliza conturile Exchange.</value>
     <comment>Feature description</comment>
@@ -7389,10 +7377,6 @@ Dacă doriți să continuați să utilizați Mailbird, puteți achiziționa de m
     <value>{0} se va activa după repornire. Pentru a obține cele mai bune rezultate din Mailbird, puteți oricând să treceți la Mailbird Business în viitor.</value>
     <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
   </data>
-  <data name="License_MailbirdLite" xml:space="preserve">
-    <value>Lite</value>
-    <comment>Mailbird Lite, see resource with key License_Mailbird</comment>
-  </data>
   <data name="License_OfflineWelcome_Header" xml:space="preserve">
     <value>Licență necesară</value>
     <comment>Header when Mailbird has gone offline before adding any account</comment>
@@ -7412,10 +7396,6 @@ Dacă doriți să continuați să utilizați Mailbird, puteți achiziționa de m
   <data name="License_Offline" xml:space="preserve">
     <value>Mailbird este în modul offline. Licență necesară.</value>
     <comment>Label in about window when Mailbird is on offline mode</comment>
-  </data>
-  <data name="UpgradeToPro_Personal" xml:space="preserve">
-    <value>PERSONAL</value>
-    <comment>Type of Mailbird license: personal</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
     <value>(plată anuală)</value>
@@ -7975,5 +7955,13 @@ If so, you'll be taken to an unsubscribe page.</value>
   <data name="App_Calendar_CollapseAllDay" xml:space="preserve">
     <value>Collapse all-day</value>
     <comment>Tooltip for button to collapse all day event section</comment>
+  </data>
+  <data name="Disabled_NotificationBusiness" xml:space="preserve">
+    <value>Purchase Mailbird Business to keep receiving and sending emails from this Exchange account.</value>
+    <comment>Notification when an Exchange account is disabled due to using Mailbird lite or Personal. Mailbird Business is a name, so don't translate that part.</comment>
+  </data>
+  <data name="AdvancedSearch_SearchFields" xml:space="preserve">
+    <value>Show search fields</value>
+    <comment>Tooltip to open advanced search fields</comment>
   </data>
 </root>
