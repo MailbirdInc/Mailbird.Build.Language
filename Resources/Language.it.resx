@@ -7766,11 +7766,11 @@ Tieni presente che le modifiche che fai in una versione di Mailbird non saranno 
     <comment>Mailbird Alpha</comment>
   </data>
   <data name="Options_MailbirdAlphaDescription" xml:space="preserve">
-    <value>Se vuoi aiutare a testare gli ultimi aggiornamenti e funzioni di Mailbird, e allo stesso tempo influenzare la nostra direzione, iscriviti come Alpha tester.
+    <value>Se ti piacerebbe aiutare a testare gli ultimi aggiornamenti e funzioni di Mailbird, e allo stesso tempo influenzare la nostra direzione, iscriviti come Alpha tester.
 
-La versione Alpha di Mailbird è installata separatamente, così puoi continuare a usare la versione normale quando lo desideri, ma la versione Alpha riceve gli aggiornamento più velocemente, incluse nuove funzioni. Avrai anche accesso a un gruppo Facebook chiuso dove chiediamo feedback per l'implementazione di nuove idee.
+La versione Alpha di Mailbird verrà installata separatamente, così potrai continuare a usare la versione normale quando lo desideri. La versione Alpha riceverebbe però gli aggiornamenti e le nuove funzionalità più velocemente. Avrai anche accesso a un gruppo Facebook chiuso dove chiederemo feedback per l'implementazione di nuove idee.
 
-Tieni presente che la versione Alpha è la versione "in sviluppo" di Mailbird, perciò potrebbero capitare dei problemi più frequentemente. Allo stesso tempo però possiamo risolverli più rapidamente, e puoi sempre decidere di tornare alla versione normale finché non risolviamo il problema.</value>
+Tieni presente che la versione Alpha è la versione "in sviluppo" di Mailbird, perciò potrebbero capitare dei problemi più frequentemente. Allo stesso tempo però potremo risolverli più rapidamente, e potrai sempre decidere di tornare alla versione normale finché non risolviamo il problema.</value>
     <comment>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
 
 The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
@@ -7966,68 +7966,68 @@ Se confermi, sarai portato alla pagina per annullare l'iscrizione.</value>
     <comment>Tooltip to open advanced search fields</comment>
   </data>
   <data name="FolderIdentity_Scheduled" xml:space="preserve">
-    <value>Scheduled</value>
+    <value>Pianificate</value>
     <comment>The name of the folder containing emails scheduled to be sent later.</comment>
   </data>
   <data name="Scheduled_Indicator" xml:space="preserve">
-    <value>Scheduled message</value>
+    <value>Messaggio pianificato</value>
     <comment>Tooltip for scheduled message</comment>
   </data>
   <data name="Scheduled_MondayMorning" xml:space="preserve">
-    <value>Monday morning</value>
+    <value>Lunedì mattina</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_PassedTimeError" xml:space="preserve">
-    <value>Please set a future time</value>
+    <value>Seleziona un tempo nel futuro</value>
     <comment>Message when date time already passed</comment>
   </data>
   <data name="Scheduled_ScheduleLabel" xml:space="preserve">
-    <value>Message will be sent {0}</value>
+    <value>Il messaggio sarà inviato {0}</value>
     <comment>Message for scheduled message, {0} will be the time. So it's gonna be Message will be sent Today, 8:00 AM</comment>
   </data>
   <data name="Scheduled_TomorrowAfternoon" xml:space="preserve">
-    <value>Tomorrow afternoon</value>
+    <value>Domani pomeriggio</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_TomorrowMorning" xml:space="preserve">
-    <value>Tomorrow morning</value>
+    <value>Domani mattina</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_MoreInfo" xml:space="preserve">
-    <value>Message will be sent on the specified time only if Mailbird is running and the computer is online. 
-Otherwise, it will be sent as soon as Mailbird becomes online again.</value>
+    <value>Il messaggio sarà inviato all'orario specificato solo se Mailbird è in esecuzione e il computer è connesso.
+In caso contrario, sarà inviato non appena Mailbird diventerà operativo.</value>
     <comment>Explanation on scheduled feature</comment>
   </data>
   <data name="Scheduled_SendLaterAt" xml:space="preserve">
-    <value>Send later at</value>
+    <value>Invia più tardi</value>
     <comment>Header on send later control</comment>
   </data>
   <data name="Scheduled_SendLater" xml:space="preserve">
-    <value>Send later</value>
+    <value>Invia più tardi</value>
     <comment>Tooltip for the send later feature</comment>
   </data>
   <data name="Scheduled_ThisAfternoon" xml:space="preserve">
-    <value>This afternoon</value>
+    <value>Oggi pomeriggio</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_ThisMorning" xml:space="preserve">
-    <value>This morning</value>
+    <value>Questa mattina</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Notification_SendLaterIntroHeader" xml:space="preserve">
-    <value>Introducing Send Later</value>
+    <value>Vi presentiamo Invia più tardi</value>
     <comment>Header when first time doing Send Later feature</comment>
   </data>
   <data name="Notification_SendLaterIntroMessage" xml:space="preserve">
-    <value>You've just scheduled your first message to send later!
+    <value>Hai appena pianificato il tuo primo messaggio!
 
-Note that because we don't store your account credentials or emails on our servers for security reasons, Send Later requires that Mailbird is running on your machine at the scheduled time in order for it to send the message.
+Tieni presente che per questioni di sicurezza non memorizziamo le credenziali dei tuoi account o le tue email sui nostri server, per cui la funzione Invia più tardi richiede che Mailbird sia in esecuzione sul tuo computer all'orario stabilito per poter inviare il messaggio.
 
-If Mailbird is not running at the scheduled time the message will not be sent but will instead be sent the next time you start Mailbird.</value>
+Se Mailbird non è in esecuzione all'orario previsto, il messaggio non sarà inviato fino a quando non avvierai Mailbird.</value>
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
-    <value>All accounts</value>
+    <value>Tutti gli account</value>
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
 </root>
