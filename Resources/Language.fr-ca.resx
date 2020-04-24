@@ -7959,4 +7959,69 @@ If so, you'll be taken to an unsubscribe page.</value>
     <value>Show search fields</value>
     <comment>Tooltip to open advanced search fields</comment>
   </data>
+  <data name="FolderIdentity_Scheduled" xml:space="preserve">
+    <value>Scheduled</value>
+    <comment>The name of the folder containing emails scheduled to be sent later.</comment>
+  </data>
+  <data name="Scheduled_Indicator" xml:space="preserve">
+    <value>Scheduled message</value>
+    <comment>Tooltip for scheduled message</comment>
+  </data>
+  <data name="Scheduled_MondayMorning" xml:space="preserve">
+    <value>Monday morning</value>
+    <comment>Preset time for scheduling message</comment>
+  </data>
+  <data name="Scheduled_PassedTimeError" xml:space="preserve">
+    <value>Please set a future time</value>
+    <comment>Message when date time already passed</comment>
+  </data>
+  <data name="Scheduled_ScheduleLabel" xml:space="preserve">
+    <value>Message will be sent {0}</value>
+    <comment>Message for scheduled message, {0} will be the time. So it's gonna be Message will be sent Today, 8:00 AM</comment>
+  </data>
+  <data name="Scheduled_TomorrowAfternoon" xml:space="preserve">
+    <value>Tomorrow afternoon</value>
+    <comment>Preset time for scheduling message</comment>
+  </data>
+  <data name="Scheduled_TomorrowMorning" xml:space="preserve">
+    <value>Tomorrow morning</value>
+    <comment>Preset time for scheduling message</comment>
+  </data>
+  <data name="Scheduled_MoreInfo" xml:space="preserve">
+    <value>Message will be sent on the specified time only if Mailbird is running and the computer is online. 
+Otherwise, it will be sent as soon as Mailbird becomes online again.</value>
+    <comment>Explanation on scheduled feature</comment>
+  </data>
+  <data name="Scheduled_SendLaterAt" xml:space="preserve">
+    <value>Send later at</value>
+    <comment>Header on send later control</comment>
+  </data>
+  <data name="Scheduled_SendLater" xml:space="preserve">
+    <value>Send later</value>
+    <comment>Tooltip for the send later feature</comment>
+  </data>
+  <data name="Scheduled_ThisAfternoon" xml:space="preserve">
+    <value>This afternoon</value>
+    <comment>Preset time for scheduling message</comment>
+  </data>
+  <data name="Scheduled_ThisMorning" xml:space="preserve">
+    <value>This morning</value>
+    <comment>Preset time for scheduling message</comment>
+  </data>
+  <data name="Notification_SendLaterIntroHeader" xml:space="preserve">
+    <value>Introducing Send Later</value>
+    <comment>Header when first time doing Send Later feature</comment>
+  </data>
+  <data name="Notification_SendLaterIntroMessage" xml:space="preserve">
+    <value>You've just scheduled your first message to send later!
+
+Note that because we don't store your account credentials or emails on our servers for security reasons, Send Later requires that Mailbird is running on your machine at the scheduled time in order for it to send the message.
+
+If Mailbird is not running at the scheduled time the message will not be sent but will instead be sent the next time you start Mailbird.</value>
+    <comment>Message when first time doing Send Later feature</comment>
+  </data>
+  <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
+    <value>All accounts</value>
+    <comment>Shown on top of the list of accounts for filters</comment>
+  </data>
 </root>
