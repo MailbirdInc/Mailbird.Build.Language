@@ -330,7 +330,7 @@
     <comment>Cancel</comment>
   </data>
   <data name="Dialog_Stop" xml:space="preserve">
-    <value>Stop</value>
+    <value>Zastavit</value>
     <comment>Stop</comment>
   </data>
   <data name="Dialog_CantRemoveIdentity" xml:space="preserve">
@@ -3166,7 +3166,7 @@ Here are a couple of links to help produce vCard files from various services:</c
   <data name="License_NoConnection" xml:space="preserve">
     <value>Mailbird se nemohl připojit k licenčnímu serveru.
 
-Prosím, nejdříve zkontrolujte Vaše internetové připojení a ujistěte se, že máte správně nastaven firewall, který umožňuje nástroji Mailbird připojení se k danému serveru.  Potom vyzkoušejte znovu.</value>
+Prosím, nejdříve zkontrolujte Vaše internetové připojení a ujistěte se, že máte správně nastaven firewall, který umožňuje nástroji Mailbird připojení se k danému serveru. Potom vyzkoušejte znovu.</value>
     <comment>Could not connect to license server. Please check your internet connection to continue. Please deactivate or configure your firewall, antivirus or proxy connection to whitelist Mailbird.</comment>
   </data>
   <data name="License_LicenseKey" xml:space="preserve">
@@ -5680,7 +5680,7 @@ Zkuste nové Kontakty již teď!</value>
     <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>Tahle identita je zakázána.  Pro využívání neomezeně účtů si zakupte Mailbird.</value>
+    <value>Tahle identita je zakázána. Pro využívání neomezeně účtů si zakupte Mailbird.</value>
     <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
@@ -6382,371 +6382,371 @@ Tato volba zruší synchronizaci kalendáře z nástroje Mailbird.</value>
     <comment>Placeholder for title in edit event window</comment>
   </data>
   <data name="App_Calendar_EditEvent_To" xml:space="preserve">
-    <value>to</value>
+    <value>do</value>
     <comment>Label text between start and end time</comment>
   </data>
   <data name="App_Calendar_TimeZone_DifferentStartEnd" xml:space="preserve">
-    <value>Use separate start and end time zones</value>
+    <value>Použít odlišná časová pásma pro začátek a konec</value>
     <comment>Label for checkbox to use different time zone for start and end time of an event</comment>
   </data>
   <data name="App_Calendar_TimeZone_End" xml:space="preserve">
-    <value>Event end time zone</value>
+    <value>Časové pásmo konce události</value>
     <comment>Label for time zone for end time for an event</comment>
   </data>
   <data name="App_Calendar_TimeZone_Remove" xml:space="preserve">
-    <value>Remove time zone</value>
+    <value>Odstranit časové pásmo</value>
     <comment>Button to remove time zone</comment>
   </data>
   <data name="App_Calendar_TimeZone_Start" xml:space="preserve">
-    <value>Event start time zone</value>
+    <value>Časové pásmo začátku události</value>
     <comment>Label for time zone for start time for an event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Den</value>
     <comment>Time unit: day</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_DayPlural" xml:space="preserve">
-    <value>Days</value>
+    <value>Dny</value>
     <comment>Time unit: days</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Měsíc</value>
     <comment>Time unit: month</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_MonthPlural" xml:space="preserve">
-    <value>Months</value>
+    <value>Měsíce</value>
     <comment>Time unit: months</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatEvery" xml:space="preserve">
-    <value>Repeat every</value>
+    <value>Opakovat každé</value>
     <comment>Labels in recurrence field
 E.g. "Repeat every 2 days"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Title" xml:space="preserve">
-    <value>Custom recurrence</value>
+    <value>Vlastní opakování</value>
     <comment>Title window for creating custom recurrence event</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Week" xml:space="preserve">
-    <value>Week</value>
+    <value>Týden</value>
     <comment>Time unit: week</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_WeekPlural" xml:space="preserve">
-    <value>Weeks</value>
+    <value>Týdny</value>
     <comment>Time unit: weeks</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Rok</value>
     <comment>Time unit: year</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_YearPlural" xml:space="preserve">
-    <value>Years</value>
+    <value>Roky</value>
     <comment>Time unit: years</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_After" xml:space="preserve">
-    <value>After</value>
+    <value>Po</value>
     <comment>Content for radio button, the full sentence is e.g. "ends after 1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Ends" xml:space="preserve">
-    <value>Ends</value>
+    <value>Končí</value>
     <comment>Label to edit when an event ends</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Never" xml:space="preserve">
-    <value>Never</value>
+    <value>Nikdy</value>
     <comment>Label for radio button</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Occurrence" xml:space="preserve">
-    <value>occurrence</value>
+    <value>výskyt</value>
     <comment>Label for field in custom occurrence window
 e.g. "1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_OccurrencePlural" xml:space="preserve">
-    <value>occurrences</value>
+    <value>výskytech</value>
     <comment>Label for field in custom occurrence window
 e.g. "2 occurrences"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_On" xml:space="preserve">
-    <value>On</value>
+    <value></value>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
-    <value>Repeat on</value>
+    <value>Opakovat</value>
     <comment>Label to edit on what days event will repeat</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidNumber" xml:space="preserve">
-    <value>Please enter valid number</value>
+    <value>Prosím vložte platné číslo</value>
     <comment>Error message when entring not valid number</comment>
   </data>
   <data name="App_Calendar_Frequency_Daily" xml:space="preserve">
-    <value>Daily</value>
+    <value>Denně</value>
     <comment>An event repeats every day</comment>
   </data>
   <data name="App_Calendar_Frequency_Monthly" xml:space="preserve">
-    <value>Monthly</value>
+    <value>Měsíčně</value>
     <comment>An events repeats every month</comment>
   </data>
   <data name="App_Calendar_Frequency_Weekly" xml:space="preserve">
-    <value>Weekly</value>
+    <value>Týdně</value>
     <comment>An events repetas every week</comment>
   </data>
   <data name="App_Calendar_Frequency_Yearly" xml:space="preserve">
-    <value>Annually</value>
+    <value>Ročně</value>
     <comment>An events repetas every year</comment>
   </data>
   <data name="App_Calendar_Recurrence_AfterNRepetitions" xml:space="preserve">
-    <value>{0} times</value>
+    <value>{0} krát</value>
     <comment>An event repeats N times. Example: 3 times</comment>
   </data>
   <data name="App_Calendar_Recurrence_DoesNotRepeat" xml:space="preserve">
-    <value>Doesn't repeat</value>
+    <value>Neopakuje se</value>
     <comment>An event  of a calendar does not repeat, it's only 1 day</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryPeriod" xml:space="preserve">
-    <value>Every {0} {1}</value>
+    <value>Každé {0} {1}</value>
     <comment>An event repeats every "period". Example: Every 2 years, Every 5 months</comment>
   </data>
   <data name="App_Calendar_Recurrence_First" xml:space="preserve">
-    <value>first</value>
+    <value>první</value>
     <comment>An event repeats on the first weekday of the month. Example: First Monday, First Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Fourth" xml:space="preserve">
-    <value>fourth</value>
+    <value>čtvrté</value>
     <comment>An event repeats on the fourth weekday of the month. Example: Fourth Tuesday, Fourth Thursday</comment>
   </data>
   <data name="App_Calendar_Recurrence_In" xml:space="preserve">
-    <value>in {0}</value>
+    <value>v {0}</value>
   </data>
   <data name="App_Calendar_Recurrence_Last" xml:space="preserve">
-    <value>last</value>
+    <value>poslední</value>
     <comment>An event repeats on the last weekday of the month. Example: Last Monday, Last Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_On" xml:space="preserve">
-    <value>on {0}</value>
+    <value>v {0}</value>
     <comment>An event repeats on a week day. Example: on Monday, on Friday, On October 8</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnDay" xml:space="preserve">
-    <value>on day {0}</value>
+    <value>dne {0}</value>
     <comment>An event repeats on a month day. Example: on day 1, on day 2, on day 31</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnlyOnce" xml:space="preserve">
-    <value>Once</value>
+    <value>Jednou</value>
     <comment>Calendar event repeats only 1 time.</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnThe" xml:space="preserve">
-    <value>on the {0}</value>
+    <value>{0}</value>
     <comment>An event repeats on n day of the week. Example: on the first Monday, on the third Thursday, on the last Friday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Second" xml:space="preserve">
-    <value>second</value>
+    <value>druhé</value>
     <comment>An event repeats on the second weekday of the month. Example: Second Monday, Second Tuesday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Third" xml:space="preserve">
-    <value>third</value>
+    <value>třetí</value>
     <comment>An event repeats on the third weekday of the month. Example: Third Friday, Third Sunday</comment>
   </data>
   <data name="App_Calendar_Recurrence_UntilDate" xml:space="preserve">
-    <value>until {0}</value>
+    <value>až do {0}</value>
     <comment>An event repeats until a date. Example: until 31 august 2009</comment>
   </data>
   <data name="App_Calendar_Recurrence_Custom" xml:space="preserve">
-    <value>Custom...</value>
+    <value>Vlastní...</value>
     <comment>Custom recurrence</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryWeekday" xml:space="preserve">
-    <value>Every weekday ({0} to {1})</value>
+    <value>Každý pracovní den ({0} to {1})</value>
   </data>
   <data name="App_Calendar_Recurrence_OnWeekdays" xml:space="preserve">
-    <value>on weekdays</value>
+    <value>ve všední dny</value>
   </data>
   <data name="App_Calendar_EditEvent_Organizer" xml:space="preserve">
-    <value>Organizer</value>
+    <value>Organizátor</value>
     <comment>Label when attendee is the organizer</comment>
   </data>
   <data name="App_Calendar_Details_Maybe" xml:space="preserve">
-    <value>Maybe</value>
+    <value>Možná</value>
     <comment>Button to confirm that user maybe can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_No" xml:space="preserve">
-    <value>No</value>
+    <value>Ne</value>
     <comment>Button to confirm that user can't attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Ano</value>
     <comment>Button to confirm that user can attend an event</comment>
   </data>
   <data name="App_Calendar_Details_Going" xml:space="preserve">
-    <value>Going?</value>
+    <value>Zúčastníte se?</value>
     <comment>Label to ask user about his response to an event</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddNotification" xml:space="preserve">
-    <value>Add notification</value>
+    <value>Přidat upozornění</value>
     <comment>Button to add notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_BeforeAt" xml:space="preserve">
-    <value>before at</value>
+    <value>před</value>
     <comment>Label for notification, will be used like: 10 days before, at 9:00 AM</comment>
   </data>
   <data name="App_Calendar_EditEvent_HourPlural" xml:space="preserve">
-    <value>Hours</value>
+    <value>Hodiny</value>
     <comment>Time unit: hours</comment>
   </data>
   <data name="App_Calendar_EditEvent_MinutePlural" xml:space="preserve">
-    <value>Minutes</value>
+    <value>MInuty</value>
     <comment>Time unit: minutes</comment>
   </data>
   <data name="App_Calendar_EditEvent_Before" xml:space="preserve">
-    <value>before</value>
+    <value>před</value>
     <comment>Label for reminder, ej: 30 hours before</comment>
   </data>
   <data name="App_Calendar_Reminder_AsEmail" xml:space="preserve">
-    <value>as email</value>
+    <value>mailem</value>
     <comment>A reminder will be sent as email. Eg: 1 week before at 09:00, as email</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidRange" xml:space="preserve">
-    <value>Value cannot be greater than {0} {1}</value>
+    <value>hodnota nesmí být vyšší než {0} {1}</value>
     <comment>Value can't be greater than 2 weeks</comment>
   </data>
   <data name="App_Calendar_ShowWeekends" xml:space="preserve">
-    <value>Show weekends</value>
+    <value>Zobrazit víkendy</value>
     <comment>Menu to show or hide weekends from calendar</comment>
   </data>
   <data name="App_Calendar_ShowDeclinedEvents" xml:space="preserve">
-    <value>Show declined events</value>
+    <value>Zobrazit odmítnuté události</value>
     <comment>Menu to show or hide declined events</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidEndTime" xml:space="preserve">
-    <value>End time must be greater than the start time</value>
+    <value>Čas konce musí být později než čas začátku</value>
     <comment>Error message when end time is less than start time</comment>
   </data>
   <data name="App_Calendar_Settings_FadeOutEvents" xml:space="preserve">
-    <value>Fade out past events</value>
+    <value>Zesvětlit uplynulé události</value>
     <comment>Option to reduce brightness of past events</comment>
   </data>
   <data name="App_Calendar_Notification_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Zrušit</value>
     <comment>Cancel button </comment>
   </data>
   <data name="App_Calendar_Notification_DontSend" xml:space="preserve">
-    <value>Don't send</value>
+    <value>Neodesílat</value>
     <comment>Don't send button</comment>
   </data>
   <data name="App_Calendar_Notification_Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Odeslat</value>
     <comment>Send button</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellation" xml:space="preserve">
-    <value>Send cancellations?</value>
+    <value>Odeslat zrušení?</value>
     <comment>Header for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendCancellationExplanation" xml:space="preserve">
-    <value>Would you like to send cancellations to guests?</value>
+    <value>Chcete odeslat zrušení hostům?</value>
     <comment>Explanation for dialog window when user is asked whether to send cancellation or not when deleting event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitation" xml:space="preserve">
-    <value>Send invitations?</value>
+    <value>Poslat pozvánky?</value>
     <comment>Header for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendInvitationExplanation" xml:space="preserve">
-    <value>Would you like to send invitations to the guests?</value>
+    <value>Chcete poslat pozvánky hostům?</value>
     <comment>Explanation for dialog window when user is asked whether to send invitation or not when creating event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdate" xml:space="preserve">
-    <value>Send updates?</value>
+    <value>Poslat úpravy?</value>
     <comment>Header for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdateExplanation" xml:space="preserve">
-    <value>Would you like to send updates to existing guests?</value>
+    <value>Chcete poslat úpravy aktuálním hostům?</value>
     <comment>Explanation for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Reminder_At" xml:space="preserve">
-    <value>at</value>
+    <value>v</value>
     <comment>E.g. Event is starting at 1:00 PM</comment>
   </data>
   <data name="App_Calendar_Reminder_WhenEventStarts" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Když událost začne</value>
     <comment>Indicates that a reminder for a calendar event will be triggered right when the event starts.</comment>
   </data>
   <data name="App_Calendar_Reminder_Starting" xml:space="preserve">
-    <value>{0} is starting {1}</value>
+    <value>{0} začíná {1}</value>
     <comment>E.g. Event name is starting at 1:00PM</comment>
   </data>
   <data name="App_Calendar_Reminder_AlreadyStarted" xml:space="preserve">
-    <value>Already started</value>
+    <value>Již začala</value>
     <comment>Display that an event has already started at the moment the user got the notification</comment>
   </data>
   <data name="App_Calendar_Reminder_DueIn" xml:space="preserve">
-    <value>Due in {0}</value>
+    <value>Za {0}</value>
     <comment>An event is due in X time. Eg: Due in 5 minutes, Due in 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminder_Overdue" xml:space="preserve">
-    <value>Overdue {0}</value>
+    <value>Zpoždění {0}</value>
     <comment>An event is overdue X time. Eg:Overdue 5 minutes, Overdue 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminders_And" xml:space="preserve">
-    <value>and</value>
+    <value>a</value>
     <comment>Use to concatenate hour and time. Eg: 5hours and 15 minutes</comment>
   </data>
   <data name="App_Calendar_Notification_Title" xml:space="preserve">
-    <value>Notification</value>
+    <value>Upozornění</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_TitlePlural" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Upozornění</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_NoNotifications" xml:space="preserve">
-    <value>No notifications</value>
+    <value>Žádná upozornění</value>
     <comment>Label when there are no notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to dismiss all notifications?</value>
+    <value>Opravdu chcete zrušit všechna upozornění?</value>
     <comment>Explanation for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllHeader" xml:space="preserve">
-    <value>Dismiss all notifications?</value>
+    <value>Zrušit všechna upozornění?</value>
     <comment>Header for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to snooze all notifications?</value>
+    <value>Opravdu chcete ztlumit všechna upozornění?</value>
     <comment>Explanation for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllHeader" xml:space="preserve">
-    <value>Snooze all notifications?</value>
+    <value>Ztlumit všechna upozornění?</value>
     <comment>Header for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Zahodit</value>
     <comment>Button dismiss notification</comment>
   </data>
   <data name="App_Calendar_Notification_DismissAll" xml:space="preserve">
-    <value>Dismiss all</value>
+    <value>Zahodit vše</value>
     <comment>Button to dimiss all notifications</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze" xml:space="preserve">
-    <value>Snooze</value>
+    <value>Ztlumit</value>
     <comment>Button to snooze notification</comment>
   </data>
   <data name="App_Calendar_Notification_SnoozeAll" xml:space="preserve">
-    <value>Snooze all</value>
+    <value>Ztlumit vše</value>
     <comment>Button to snooze all notifications</comment>
   </data>
   <data name="App_Calendar_Notifications" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Upozornění</value>
     <comment>Button to open notifications window</comment>
   </data>
   <data name="App_Calendar_EditEvent_AddAllDayNotification" xml:space="preserve">
-    <value>Add all day notification</value>
+    <value>Přidat celodenní upozornění</value>
     <comment>Button to add all day notification</comment>
   </data>
   <data name="App_Calendar_EditEvent_AllDayEventNotifications" xml:space="preserve">
-    <value>All day event notifications</value>
+    <value>Upozornění na celodenní události</value>
     <comment>Section for event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_EventNotifications" xml:space="preserve">
-    <value>Event notifications</value>
+    <value>Upozornění události</value>
     <comment>Section for all day event notifications</comment>
   </data>
   <data name="App_Calendar_EditEvent_CantModifyMessage" xml:space="preserve">
-    <value>Changes will only be reflected in this calendar</value>
+    <value>Změny se projeví pouze v tomto kalendáři</value>
     <comment>Message where users editing event but they are not the organizer</comment>
   </data>
   <data name="App_Calendar_Settings_Export" xml:space="preserve">
@@ -6758,99 +6758,99 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>The export process has finished. Some errors occured while exporting some events. Please contact support.</value>
+    <value>Proces exportu skončil. V průběhu nastaly chyby s exportem některých událostí. Kontaktujte prosím podporu.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
-    <value>The export process has finished. All events have been exported to the selected file.</value>
+    <value>Proces exportu skončil. Všechny události byly exportovány do zvoleného souboru.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
+    <value>Zvolený soubor nemohl být otevřen. Prosím, ujistěte se, že soubor není otevřen v jiné aplikaci a že Váš uživatel Windows má dostatečná práva k jeho otevření. Poté to zkuste znovu.</value>
     <comment>Error message displayed when the selected file where to export events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Export_NoEventsExplanation" xml:space="preserve">
-    <value>The selected calendar does not contain any events to export. Please select another calendar and try again.</value>
+    <value>Zvolený kalendář neobsahuje žádné události k exportu. Prosím zvolte jiný kalendář a zkuste to znovu.</value>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>The import process has finished. Some errors occured while importing some events. Please contact support.</value>
+    <value>Proces importu skončil. V průběhu nastaly chyby s importem některých událostí. Kontaktujte prosím podporu.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
-    <value>The import process has finished. All events have been imported to the selected calendar.</value>
+    <value>Proces importu skončil. Všechny události byly importovány do zvoleného kalendáře.</value>
     <comment>Message stating that all events have been imported from the selected file.</comment>
   </data>
   <data name="App_Calendar_Import_ErrorFile" xml:space="preserve">
-    <value>The selected file cannot be opened. Please make sure it's not open in another application and that your Windows user has access rights to it and try again.</value>
+    <value>Zvolený soubor nemohl být otevřen. Prosím, ujistěte se, že soubor není otevřen v jiné aplikaci a že Váš uživatel Windows má dostatečná práva k jeho otevření. Poté to zkuste znovu.</value>
     <comment>Error message displayed when the selected file to import events cannot be open.</comment>
   </data>
   <data name="App_Calendar_Import_NoEventsExplanation" xml:space="preserve">
-    <value>The selected file does not contain any event information. Please select another file and try again.</value>
+    <value>Zvolený soubor neobsahuje žádné informace o událostech. Prosím zvolte jiný soubor a zkuste to znovu.</value>
     <comment>Error message when there's no events to import in the selected file.</comment>
   </data>
   <data name="App_Calendar_Export_GlobalError" xml:space="preserve">
-    <value>The export process cannot be completed. Please contact support.</value>
+    <value>Proces exportu nemohl být dokončen. Prosím, kontaktujte podporu.</value>
     <comment>Error displayed when there was a global error in the export process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Import_GlobalError" xml:space="preserve">
-    <value>The import process cannot be completed. Please contact support.</value>
+    <value>Proces importu nemohl být dokončen. Prosím kontaktujte podporu.</value>
     <comment>Error displayed when there was a global error in the import process and cannot be completed.</comment>
   </data>
   <data name="App_Calendar_Export_Canceled" xml:space="preserve">
-    <value>Export was cancelled</value>
+    <value>Export byl zrušen</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
-    <value>Export process was cancelled. A file might have been created.</value>
+    <value>Export byl zrušen. Soubor ale mohl být vytvořen.</value>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
-    <value>Export error</value>
+    <value>Chyba exportu</value>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
-    <value>Export finished</value>
+    <value>Export dokončen</value>
     <comment>Header when export has finished</comment>
   </data>
   <data name="App_Calendar_Export_Loading" xml:space="preserve">
-    <value>Exporting calendar...</value>
+    <value>Kalendář se exportuje...</value>
     <comment>Header when exporting calendar</comment>
   </data>
   <data name="App_Calendar_ImportExport_FileError" xml:space="preserve">
-    <value>Error accessing file</value>
+    <value>Chyba v přístupu k souboru</value>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
-    <value>No events</value>
+    <value>Žádné události</value>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Import was cancelled</value>
+    <value>Import byl zrušen</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
-    <value>The import process was cancelled. Some events might have been added to the target calendar.</value>
+    <value>Import byl zrušen. Některé události ale již mohly být přidány do zvoleného kalendáře.</value>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
-    <value>Import error</value>
+    <value>Chyba importu</value>
     <comment>Header when there was error in import process</comment>
   </data>
   <data name="App_Calendar_Import_Finished" xml:space="preserve">
-    <value>Import finished</value>
+    <value>Import dokončen</value>
     <comment>Header when import has finished</comment>
   </data>
   <data name="App_Calendar_Import_Loading" xml:space="preserve">
-    <value>Importing calendar...</value>
+    <value>Kalendář se importuje...</value>
     <comment>Header when importing calendar</comment>
   </data>
   <data name="App_Calendar_Settings_ExportExplanation" xml:space="preserve">
-    <value>Please select one or more calendars to export.</value>
+    <value>Prosím zvolte jeden nebo více kalendářů k exportu.</value>
     <comment>Instruction for export feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExplanation" xml:space="preserve">
-    <value>Add imported calendar to</value>
+    <value>Vložit importovaný kalendář do</value>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
@@ -6858,34 +6858,34 @@ e.g. "2 occurrences"</comment>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
-    <value>Calendar is syncing. Please wait for the sync to complete before importing or exporting, to avoid any errors or inaccurate results.</value>
+    <value>Kalendář se synchronizuje. K zabránění možných chyb či nepřesností prosím počkejte na dokončení synchronizace před importováním nebo exportováním.</value>
     <comment>Warning text when importing or exporting when calendar is syncing</comment>
   </data>
   <data name="App_Calendar_Invitation_Accepted" xml:space="preserve">
-    <value>Accepted</value>
+    <value>Přijato</value>
   </data>
   <data name="App_Calendar_Invitation_Declined" xml:space="preserve">
-    <value>Declined</value>
+    <value>Zamítnuto</value>
   </data>
   <data name="App_Calendar_Invitation_NeedsAction" xml:space="preserve">
-    <value>No response</value>
+    <value>Bez odpovědi</value>
   </data>
   <data name="App_Calendar_Invitation_Tentative" xml:space="preserve">
-    <value>Maybe</value>
+    <value>Možná</value>
   </data>
   <data name="App_Calendar_Invitation_Unknown" xml:space="preserve">
-    <value>Unknown response</value>
+    <value>Neznámá odpověď</value>
   </data>
   <data name="App_Calendar_Recurring_Delete" xml:space="preserve">
-    <value>Delete recurring event?</value>
+    <value>Smazat opakující se událost?</value>
     <comment>Title of the window displayed when trying to delete a instance of a calendar event</comment>
   </data>
   <data name="App_Calendar_Recurring_Reply" xml:space="preserve">
-    <value>Reply to recurring event?</value>
+    <value>Odpovědět na opakující se událost?</value>
     <comment>Title of the window displayed when replying to a instance of a calendar event</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Attendees" xml:space="preserve">
-    <value>Attendees</value>
+    <value>Účastníci</value>
     <comment>Attendees field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Calendar" xml:space="preserve">
@@ -6893,160 +6893,160 @@ e.g. "2 occurrences"</comment>
     <comment>Calendar field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Cancelled" xml:space="preserve">
-    <value>This event has been cancelled.</value>
+    <value>Událost byla zrušena.</value>
     <comment>Message when event was cancelled</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Popis</value>
     <comment>Description field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Error" xml:space="preserve">
-    <value>An error occured while processing the invitation. If the issue persists please [link href={0}]contact support[/link]</value>
+    <value>Nastala chyba během přijmutí pozvánky [link href={0}]kontaktujte podporu[/link]</value>
     <comment>Message when there is error when opening ics file, please leave the tag [link]</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventAdded" xml:space="preserve">
-    <value>Event was added to your primary calendar.</value>
+    <value>Událost byla přidána do Vašeho hlavního kalendáře.</value>
     <comment>Message when event is added to a calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventNotAdded" xml:space="preserve">
-    <value>Event was not added due to error. If issue remains please contact support.</value>
+    <value>Událost nebyla přidána, neboť nastala chyba. Pokud potíže přetrvají, prosím kontaktujte podporu.</value>
     <comment>Message when there is error when adding event to calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Location" xml:space="preserve">
-    <value>Location</value>
+    <value>Místo</value>
     <comment>Location field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NonExisting" xml:space="preserve">
-    <value>This event is a reply to a non existing request.</value>
+    <value>Událost je odpovědí na neexistující pozvánku.</value>
     <comment>Message when the file is a reply to already deleted event</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NotEnabled" xml:space="preserve">
-    <value>Enable the Calendar app and connect {0} to manage this invitation</value>
+    <value>Povolte apku kalendáře a připojte {0} ke správě této pozvánky</value>
     <comment>Message when calendar app is not activated or account is not connected</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_NotInitialized" xml:space="preserve">
-    <value>Calendar is not initialized. Please wait.</value>
+    <value>Kalendář ještě nenastartoval. Prosím počkejte.</value>
     <comment>Message when calendar is initializing</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Organizer" xml:space="preserve">
-    <value>Organizer</value>
+    <value>Organizátor</value>
     <comment>Organizer field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Time" xml:space="preserve">
-    <value>Time</value>
+    <value>Čas</value>
     <comment>Date and time field</comment>
   </data>
   <data name="Dialog_Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Chyba</value>
     <comment>Header when there is error</comment>
   </data>
   <data name="Dialog_Success" xml:space="preserve">
-    <value>Success</value>
+    <value>Úspěch</value>
     <comment>Header when action is success</comment>
   </data>
   <data name="App_Calendar_ViewDayView" xml:space="preserve">
-    <value>Day view</value>
+    <value>Zobrazení dne</value>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_ViewScheduleView" xml:space="preserve">
-    <value>Schedule view</value>
+    <value>Zobrazení plánu</value>
     <comment>Type of calendar view</comment>
   </data>
   <data name="App_Calendar_Intro_1" xml:space="preserve">
-    <value>All your calendars together in one place.</value>
+    <value>Všechny Vaše kalendáře na jednom místě.</value>
     <comment>Caption for tutorial 1</comment>
   </data>
   <data name="App_Calendar_Intro_2" xml:space="preserve">
-    <value>Sync calendars from Google, Exchange, and 
+    <value>Synchronizace kalendářů od Google, Exchange, a 
 Outlook.</value>
     <comment>Caption for tutorial 2</comment>
   </data>
   <data name="App_Calendar_Intro_3" xml:space="preserve">
-    <value>Enable the sidebar and view your calendar next to
-your Inbox.</value>
+    <value>Povolení postranního panelu a zobrazení vedle
+Doručené pošty.</value>
     <comment>Caption for tutorial 3</comment>
   </data>
   <data name="App_Calendar_Intro_4" xml:space="preserve">
-    <value>Connect your account now to sync with Mailbird.</value>
+    <value>Připojení účtu k synchronizaci s Mailbird.</value>
     <comment>Caption for tutorial 4</comment>
   </data>
   <data name="App_Calendar_Intro_Welcome" xml:space="preserve">
-    <value>Meet the Calendar</value>
+    <value>Seznámení se s kalendářem</value>
     <comment>Tutorial title</comment>
   </data>
   <data name="App_Calendar_Settings_MatchWindowsTimezone" xml:space="preserve">
-    <value>Match Windows time zone</value>
+    <value>Shodné časové pásmo s Windows</value>
     <comment>Label of checkbox that indicates that the Calendar App will use the same timezone as the one set in Windows</comment>
   </data>
   <data name="App_Calendar_AllDay" xml:space="preserve">
-    <value>All day</value>
+    <value>Celý den</value>
   </data>
   <data name="App_Calendar_Notification_Snooze_DaySingular" xml:space="preserve">
-    <value>{0} day before</value>
+    <value>{0} den před</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_HourSingular" xml:space="preserve">
-    <value>{0} hour before</value>
+    <value>{0} hodina před</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_MinutePlural" xml:space="preserve">
-    <value>{0} minutes before</value>
+    <value>{0} minut před</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_MinuteSingular" xml:space="preserve">
-    <value>{0} minute before</value>
+    <value>{0} minuta před</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Notification_Snooze_Start" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Při začátku události</value>
     <comment>Snooze duration</comment>
   </data>
   <data name="App_Calendar_Settings_DefaultCalendar" xml:space="preserve">
-    <value>Default calendar</value>
+    <value>Výchozí kalendář</value>
     <comment>Field to set default calendar</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDelete" xml:space="preserve">
-    <value>Cannot delete event</value>
+    <value>Nelze smazat událost</value>
     <comment>Messagebox title when can't delete event</comment>
   </data>
   <data name="App_Calendar_Dialog_CantDeleteExplanation" xml:space="preserve">
-    <value>You cannot delete an event that's currently being edited.</value>
+    <value>Nelze smazat událost, která je zrovna upravována.</value>
     <comment>Messagebox explanationwhen can't delete event</comment>
   </data>
   <data name="App_Calendar_Menu_NewEvent" xml:space="preserve">
-    <value>New event</value>
+    <value>Nová událost</value>
     <comment>Menu to create event</comment>
   </data>
   <data name="App_Calendar_Menu_SetDefault" xml:space="preserve">
-    <value>Set as default calendar</value>
+    <value>Nastavit jako výchozí kalendář</value>
     <comment>Menu to set calendar as default</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_AddToCalendar" xml:space="preserve">
-    <value>Add to calendar</value>
+    <value>Přidat do kalendáře</value>
     <comment>Button to add event to calendar</comment>
   </data>
   <data name="WebBrowser_RemoveFromBookmarks" xml:space="preserve">
-    <value>Remove from bookmarks</value>
+    <value>Odstranit ze záložek</value>
     <comment>Tooltip to remove from bookmarks</comment>
   </data>
   <data name="App_Calendar_Tutorial_CalendarAccount" xml:space="preserve">
-    <value>Connect your email accounts and sync calendars.</value>
+    <value>Připojení emailového účtu a synchronizace kalendářů.</value>
     <comment>Tutorial text to guide user to connect account in calendar apps</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEvent" xml:space="preserve">
-    <value>Cannot add event</value>
+    <value>Nelze přidat událost</value>
     <comment>Header when user tries to add event but there is no connected account</comment>
   </data>
   <data name="App_Calendar_Dialog_CantAddEventExplanation" xml:space="preserve">
-    <value>You haven't connected any accounts with the calendar. Please connect an account from the calendar settings and try again.</value>
+    <value>Nepřidali jste žádný účet obsahující kalendář. Prosím, připojte účet z nastavení kalendáře a zkuste to znovu.</value>
     <comment>Explanation when user tries to add event but there is no connected account</comment>
   </data>
   <data name="RateRecommend_LinkedIn" xml:space="preserve">
-    <value>Share via LinkedIn</value>
+    <value>Sdílet přes LinkedIn</value>
     <comment>Tooltip to share via LinkedIn</comment>
   </data>
   <data name="App_Calendar_Settings_Color" xml:space="preserve">
-    <value>Color</value>
+    <value>Barva</value>
     <comment>Field for calendar's color</comment>
   </data>
   <data name="App_ZeroBounce_Description" xml:space="preserve">
@@ -7411,15 +7411,15 @@ If you wish to continue using Mailbird you can purchase a license below or enter
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
   <data name="App_GoogleDrive_Description" xml:space="preserve">
-    <value>Access all your files in Google Drive.</value>
+    <value>Přistupujte ke všem Vašim souborům na Google Drive.</value>
     <comment>Description of Google Drive app</comment>
   </data>
   <data name="App_GoogleSheets_Description" xml:space="preserve">
-    <value>Quickly navigate to your spreadsheets from Mailbird.</value>
+    <value>Procházejte tabulky rychle přímo z Mailbird.</value>
     <comment>Description of Google Sheets app</comment>
   </data>
   <data name="App_GoogleSlides_Description" xml:space="preserve">
-    <value>Quickly navigate to your presentations from Mailbird.</value>
+    <value>Procházejte prezentace rychle přímo z Mailbird.</value>
     <comment>Description of Google Slides app</comment>
   </data>
   <data name="Dialog_ReauthorizationRequired" xml:space="preserve">
@@ -7485,55 +7485,55 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Section for guest rights</comment>
   </data>
   <data name="Filters_Action_Categorize" xml:space="preserve">
-    <value>categorize as {0}</value>
+    <value>zatřídit jako {0}</value>
   </data>
   <data name="Filters_Action_CopyToFolder" xml:space="preserve">
-    <value>copy to {0} folder</value>
+    <value>zkopírovat do {0} složky</value>
   </data>
   <data name="Filters_Action_Delete" xml:space="preserve">
-    <value>delete</value>
+    <value>smazat</value>
   </data>
   <data name="Filters_Action_Forward" xml:space="preserve">
-    <value>forward to {0}</value>
+    <value>přeposlat {0}</value>
   </data>
   <data name="Filters_Action_MarkAsImportant" xml:space="preserve">
-    <value>mark as important</value>
+    <value>označit jako důležité</value>
   </data>
   <data name="Filters_Action_MarkAsNotImportant" xml:space="preserve">
-    <value>never mark as important</value>
+    <value>nikdy neoznačovat jako důležité</value>
   </data>
   <data name="Filters_Action_MarkAsNotSpam" xml:space="preserve">
-    <value>never mark as spam</value>
+    <value>nikdy neoznačovat jako spam</value>
   </data>
   <data name="Filters_Action_MarkAsRead" xml:space="preserve">
-    <value>mark as read</value>
+    <value>označit jako přečtené</value>
   </data>
   <data name="Filters_Action_SkipInbox" xml:space="preserve">
-    <value>skip Inbox (archive)</value>
+    <value>vynechat Doručenou poštu (archiv)</value>
   </data>
   <data name="Filters_Action_Star" xml:space="preserve">
-    <value>mark as starred</value>
+    <value>označit hvězdičkou</value>
   </data>
   <data name="Filters_Condition_Excluding" xml:space="preserve">
-    <value>subject or body does not include {0}</value>
+    <value>předmět nebo obsah nezahrnuje {0}</value>
   </data>
   <data name="Filters_Condition_From" xml:space="preserve">
-    <value>from {0}</value>
+    <value>od {0}</value>
   </data>
   <data name="Filters_Condition_Include" xml:space="preserve">
-    <value>subject or body contains {0}</value>
+    <value>předmět nebo tělo obsahuje {0}</value>
   </data>
   <data name="Filters_Condition_SizeLargerThan" xml:space="preserve">
-    <value>size larger than {0}</value>
+    <value>velikost větší než {0}</value>
   </data>
   <data name="Filters_Condition_SizeSmallerThan" xml:space="preserve">
-    <value>size smaller than {0}</value>
+    <value>velikost menší než {0}</value>
   </data>
   <data name="Filters_Condition_Subject" xml:space="preserve">
-    <value>subject contains {0}</value>
+    <value>předmět obsahuje {0}</value>
   </data>
   <data name="Filters_Condition_To" xml:space="preserve">
-    <value>to {0}</value>
+    <value>komu {0}</value>
   </data>
   <data name="Filter_Field_Action_CopyToFolder" xml:space="preserve">
     <value>Copy to folder</value>
@@ -7656,7 +7656,7 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Tooltip for contact textbox in edit filter window</comment>
   </data>
   <data name="Filters_Condition_HasAttachments" xml:space="preserve">
-    <value>with attachments</value>
+    <value>s přílohami</value>
   </data>
   <data name="Invite_Message" xml:space="preserve">
     <value>Hi 
@@ -7966,68 +7966,68 @@ Pokud ano, budete přesměrováni na na stránku s odhlášením odběru.</value
     <comment>Tooltip to open advanced search fields</comment>
   </data>
   <data name="FolderIdentity_Scheduled" xml:space="preserve">
-    <value>Scheduled</value>
+    <value>Na později</value>
     <comment>The name of the folder containing emails scheduled to be sent later.</comment>
   </data>
   <data name="Scheduled_Indicator" xml:space="preserve">
-    <value>Scheduled message</value>
+    <value>Naplánovaná zpráva</value>
     <comment>Tooltip for scheduled message</comment>
   </data>
   <data name="Scheduled_MondayMorning" xml:space="preserve">
-    <value>Monday morning</value>
+    <value>Pondělí ráno</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_PassedTimeError" xml:space="preserve">
-    <value>Please set a future time</value>
+    <value>Nastavte čas na budoucí, prosím</value>
     <comment>Message when date time already passed</comment>
   </data>
   <data name="Scheduled_ScheduleLabel" xml:space="preserve">
-    <value>Message will be sent {0}</value>
+    <value>Zpráva bude odeslána {0}</value>
     <comment>Message for scheduled message, {0} will be the time. So it's gonna be Message will be sent Today, 8:00 AM</comment>
   </data>
   <data name="Scheduled_TomorrowAfternoon" xml:space="preserve">
-    <value>Tomorrow afternoon</value>
+    <value>Zítra odpoledne</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_TomorrowMorning" xml:space="preserve">
-    <value>Tomorrow morning</value>
+    <value>Zítra ráno</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_MoreInfo" xml:space="preserve">
-    <value>Message will be sent on the specified time only if Mailbird is running and the computer is online. 
-Otherwise, it will be sent as soon as Mailbird becomes online again.</value>
+    <value>Zpráva bude odeslána v nastavený čas pouze pokud bude Mailbird spuštěn a počítač bude online.
+Jinak bude odeslána hned, jakmile bude Mailbird znovu online.</value>
     <comment>Explanation on scheduled feature</comment>
   </data>
   <data name="Scheduled_SendLaterAt" xml:space="preserve">
-    <value>Send later at</value>
+    <value>Pozdní odeslání v</value>
     <comment>Header on send later control</comment>
   </data>
   <data name="Scheduled_SendLater" xml:space="preserve">
-    <value>Send later</value>
+    <value>Pozdní odeslání</value>
     <comment>Tooltip for the send later feature</comment>
   </data>
   <data name="Scheduled_ThisAfternoon" xml:space="preserve">
-    <value>This afternoon</value>
+    <value>Dnes odpoledne</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_ThisMorning" xml:space="preserve">
-    <value>This morning</value>
+    <value>Dnes ráno</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Notification_SendLaterIntroHeader" xml:space="preserve">
-    <value>Introducing Send Later</value>
+    <value>Úvod do Pozdního odeslání</value>
     <comment>Header when first time doing Send Later feature</comment>
   </data>
   <data name="Notification_SendLaterIntroMessage" xml:space="preserve">
-    <value>You've just scheduled your first message to send later!
+    <value>Právě jste nastavili první zprávu s pozdním odesláním!
 
-Note that because we don't store your account credentials or emails on our servers for security reasons, Send Later requires that Mailbird is running on your machine at the scheduled time in order for it to send the message.
+Je nutné zmínit, že vzhledem k tomu, že Mailbird z bezpečnostních důvodů neukládá žádné Vaše přihlašovací údaje ani emaily na svých serverech, je k funkci Pozdního odeslání potřeba, aby byl Mailbird na Vašem stroji v nastavený čas spuštěn.
 
-If Mailbird is not running at the scheduled time the message will not be sent but will instead be sent the next time you start Mailbird.</value>
+Pokud Mailbird v nastavený čas nebude spuštěn, zpráva odeslána nebude. Odešle se však hned jak bude příště Mailbird spuštěn.</value>
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
-    <value>All accounts</value>
+    <value>Všechny účty</value>
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
 </root>
