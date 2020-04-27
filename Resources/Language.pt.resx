@@ -7966,68 +7966,68 @@ Em caso afirmativo, será direccionado para uma página de cancelamento da subsc
     <comment>Tooltip to open advanced search fields</comment>
   </data>
   <data name="FolderIdentity_Scheduled" xml:space="preserve">
-    <value>Scheduled</value>
+    <value>Agendado</value>
     <comment>The name of the folder containing emails scheduled to be sent later.</comment>
   </data>
   <data name="Scheduled_Indicator" xml:space="preserve">
-    <value>Scheduled message</value>
+    <value>Mensagem agendada</value>
     <comment>Tooltip for scheduled message</comment>
   </data>
   <data name="Scheduled_MondayMorning" xml:space="preserve">
-    <value>Monday morning</value>
+    <value>Segunda-feira de manhã</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_PassedTimeError" xml:space="preserve">
-    <value>Please set a future time</value>
+    <value>Por favor, defina um horário futuro</value>
     <comment>Message when date time already passed</comment>
   </data>
   <data name="Scheduled_ScheduleLabel" xml:space="preserve">
-    <value>Message will be sent {0}</value>
+    <value>A mensagem será enviada {0}</value>
     <comment>Message for scheduled message, {0} will be the time. So it's gonna be Message will be sent Today, 8:00 AM</comment>
   </data>
   <data name="Scheduled_TomorrowAfternoon" xml:space="preserve">
-    <value>Tomorrow afternoon</value>
+    <value>Amanhã à tarde</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_TomorrowMorning" xml:space="preserve">
-    <value>Tomorrow morning</value>
+    <value>Amanhã de manhã</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_MoreInfo" xml:space="preserve">
-    <value>Message will be sent on the specified time only if Mailbird is running and the computer is online. 
-Otherwise, it will be sent as soon as Mailbird becomes online again.</value>
+    <value>A mensagem só será enviada na hora especificada se o Mailbird estiver a funcionar e o computador estiver online. 
+Caso contrário, será enviada assim que o Mailbird voltar a estar online.</value>
     <comment>Explanation on scheduled feature</comment>
   </data>
   <data name="Scheduled_SendLaterAt" xml:space="preserve">
-    <value>Send later at</value>
+    <value>Enviar mais tarde em</value>
     <comment>Header on send later control</comment>
   </data>
   <data name="Scheduled_SendLater" xml:space="preserve">
-    <value>Send later</value>
+    <value>Enviar mais tarde</value>
     <comment>Tooltip for the send later feature</comment>
   </data>
   <data name="Scheduled_ThisAfternoon" xml:space="preserve">
-    <value>This afternoon</value>
+    <value>Esta tarde</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_ThisMorning" xml:space="preserve">
-    <value>This morning</value>
+    <value>Esta manhã</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Notification_SendLaterIntroHeader" xml:space="preserve">
-    <value>Introducing Send Later</value>
+    <value>A apresentar Enviar Mais Tarde</value>
     <comment>Header when first time doing Send Later feature</comment>
   </data>
   <data name="Notification_SendLaterIntroMessage" xml:space="preserve">
-    <value>You've just scheduled your first message to send later!
+    <value>Acabou de marcar a sua primeira mensagem para enviar mais tarde!
 
-Note that because we don't store your account credentials or emails on our servers for security reasons, Send Later requires that Mailbird is running on your machine at the scheduled time in order for it to send the message.
+Note que como não guardamos as credenciais da sua conta ou e-mails nos nossos servidores por razões de segurança, o Enviar Mais Tarde requer que o Mailbird esteja a funcionar no seu dispositivo na hora marcada para que possa enviar a mensagem.
 
-If Mailbird is not running at the scheduled time the message will not be sent but will instead be sent the next time you start Mailbird.</value>
+Se o Mailbird não estiver a funcionar à hora marcada, a mensagem não será enviada, mas sim na próxima vez que iniciar o Mailbird.</value>
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
-    <value>All accounts</value>
+    <value>Todas as contas</value>
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
 </root>
