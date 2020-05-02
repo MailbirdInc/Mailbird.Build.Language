@@ -2430,7 +2430,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Failed to invite these people because they are already invited or using Mailbird: {0}</value>
+    <value>Meghiúsult az emberek meghívása, mert már meghívásra kerültek vagy használják a Maillbird szoftvert: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
@@ -2460,11 +2460,11 @@ Message: {0}</comment>
     <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird. Don’t stop there! 
+    <value>Nagyszerű munka az ismerősök meghívása a  Mailbird használatához. Ne álljunk meg itt!
 
-You need 4 friends to install Mailbird in order to unlock your FREE Mailbird Business Pay Once reward (a $400 value). 
+4 ismerősre van szükség a Mailbird telepítéséhez és az INGYENES Mailbird Business Pay nevű egyszeri jutalom kinyitásához (400 dolláros értékben).
 
-When your friends install Mailbird, they simply need to input the referral code in order for them to get 1 full month of Mailbird Business for FREE.</value>
+Amikor az ismerősök telepítik a Mailbird programot, egyszerűen meg kell adniuk a hivatkozó kódot annak érdekében, hogy INGYEN használhassák a Mailbird Business verziót egy hónapon keresztül.</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_UnableInvitePeople" xml:space="preserve">
@@ -3805,7 +3805,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Invite friends - Get Mailbird Business Pay Once FREE</value>
+    <value>Ismerősök meghívása - A Mailbird Business Pay Once verzió használata INGYEN</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -4151,7 +4151,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Check this box to invite all your contacts in one go! Easy. Note that any private or custom email domains are not included, to avoid invites to professional or business contacts.</value>
+    <value>Jelöljük be ezt a dobozt az összes kapcsolat egyidejű meghívásához. Könnyen megy. Vegyük figyelembe, hogy a személyes vagy az egyedi email domainek nem kerülnek be, a szakmai vagy üzleti kapcsolatok meghívásának kizárásához.</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Timeline_ExpireDays" xml:space="preserve">
@@ -4434,14 +4434,14 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Invite your friends from your primary email account, this is the default email account in your Mailbird. Invite as many friends as you want! Please note there is a limit of 1 reward per email address for both referrer and referee. When {0} or more of your friends install Mailbird from your invite:
-You get [bold]Mailbird Business Pay Once (a $400 value) for FREE[/bold] 
-Your friends who install Mailbird, will get [bold]1 full month[/bold] of Mailbird Business for [bold]FREE[/bold]</value>
+    <value>[bold]Hívjuk meg az ismerősöket az elsődleges email fiókból, ez az alapértelmezett email fiók a Mailbirdben. Hívjunk meg annyi ismerőst, amennyit csak szeretnénk. Email címenként 1 jutalom lehetséges mind a hivatkozó mind a hivatkozott részére.  Amikor {0} vagy több ismerős telepíti a Mailbird szoftvert a meghívó alapján, akkor:
+INGYEN kapunk [bold] Mailbird Business Pay Once verziót (400 dolláros értékben) [/bold]
+Azok az ismerősök, akik telepítik a Mailbird programot, [bold] 1 teljes hónapot kapnak [/bold] a Mailbird Business verziójából [bold] INGYEN [/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Business
-Pay Once FREE</value>
+    <value>Mailbird Business
+Pay Once verzió INGYEN</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="InviteV2_Accepted" xml:space="preserve">
@@ -8007,15 +8007,15 @@ Egyébként akkor kerül elküldésre, amikor a Mailbird ismét kapcsolódik a z
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Notification_SendLaterIntroHeader" xml:space="preserve">
-    <value>Introducing 'Send Later'</value>
+    <value>'Küldés később' bevezetése</value>
     <comment>Header when first time doing Send Later feature</comment>
   </data>
   <data name="Notification_SendLaterIntroMessage" xml:space="preserve">
-    <value>You've just scheduled your first message to send later!
+    <value>Éppen most lett beállítva az első üzenet későbbi küldésre.
 
-[bold]Important:[/bold] Because we don't store your account credentials or emails on our servers for security reasons, 'Send Later' requires that Mailbird is running on your machine at the scheduled time, in order for it to send the message.
+[bold] Fontos: [/bold] Mivel biztonsági okokból nem tároljuk a fiókok hitelesítő adatait vagy sz emaileket a kiszolgálókon, a 'Küldés később' megköveteli, hogy a Mailbird az ütemezett időben futtasson a számítógépen asz üzenet elküldéséhez.
 
-If Mailbird is not running at the scheduled time the message will not send, but will instead be sent the next time you start Mailbird.</value>
+Ha a Mailbird nem fut az ütemezett időpontban, akkor az üzenet nem kerül elküldésre, hanem csak a Maillbird következő indításakor.</value>
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
@@ -8023,66 +8023,66 @@ If Mailbird is not running at the scheduled time the message will not send, but 
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
   <data name="Invite_FailedSendInvitation" xml:space="preserve">
-    <value>Failed to send invitation</value>
+    <value>A meghívó küldése meghiúsult.</value>
     <comment>Failed to send invitation</comment>
   </data>
   <data name="Filter_DisabledAction" xml:space="preserve">
-    <value>This action is not available to filters for '{0}'.</value>
+    <value>Ez a művelet nem érhető el a szűrőknél: '{0}'.</value>
     <comment>Message when action in filter is not enabled.
 {0} will be replaced with value from Filters_UnifiedAccountsItem</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorHeader" xml:space="preserve">
-    <value>An error occurred while executing filter</value>
+    <value>Hiba történt s szűrő futtatásakor.</value>
     <comment>Header when there is error when executing filter</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorMessage" xml:space="preserve">
-    <value>Unexpected error occurred while executing filter on {0}. Please open the filter and try again.
+    <value>Váratlan hiba történt a szűrő futtatásakor: {0}. Újra meg kell nyitni a szűrőt és újra kell próbálkozni.
 
-If the issue persists, please contact support.</value>
+Ha a hiba állandó marad, vegyük fel a kapcsolatot a támogatással.</value>
     <comment>Message when there is error when executing filter</comment>
   </data>
   <data name="Notification_OpenFilter" xml:space="preserve">
-    <value>Open filter</value>
+    <value>Szűrő megnyitása</value>
     <comment>Button in notification to open filter</comment>
   </data>
   <data name="App_Attachments_AdditionalOptions" xml:space="preserve">
-    <value>Additional options</value>
+    <value>Kiegészítő opciók</value>
     <comment>Header of a dropdown menu showing additional filtering options like including spam/trash attachments in the search</comment>
   </data>
   <data name="App_Attachments_IncludeInlineAttachments" xml:space="preserve">
-    <value>Include inline attachments</value>
+    <value>Belső mellékletek bevonása</value>
     <comment>Filter option to include inline / visual attachments in the search results</comment>
   </data>
   <data name="App_Attachments_IncludeSpamAttachments" xml:space="preserve">
-    <value>Include spam attachments</value>
+    <value>Spam mellékletek bevonása</value>
     <comment>Filter option to include attachments from emails marked as spam in the search results</comment>
   </data>
   <data name="App_Attachments_IncludeTrashedAttachments" xml:space="preserve">
-    <value>Include trashed attachments</value>
+    <value>Lomtárban levő mellékletek bevonása</value>
     <comment>Filter option to include attachments from deleted emails in the search results</comment>
   </data>
   <data name="App_Attachments_OpenConversation" xml:space="preserve">
-    <value>Open conversation</value>
+    <value>Beszélgetés megnyitása</value>
     <comment>Menu option allowing the user to open the email conversation containing the selected attachment from the search results</comment>
   </data>
   <data name="App_Attachments_OpenConversationPlural" xml:space="preserve">
-    <value>Open conversations</value>
+    <value>Beszélgetések megnyitása</value>
     <comment>Menu option allowing the user to open multiple emails conversations containing the selected attachments from the search results</comment>
   </data>
   <data name="App_Attachments_OpenAttachment" xml:space="preserve">
-    <value>Open attachment</value>
+    <value>Melléklet megnyitása</value>
     <comment>Menu option to open a single attachment</comment>
   </data>
   <data name="App_Attachments_OpenAttachmentPlural" xml:space="preserve">
-    <value>Open attachments</value>
+    <value>Mellékletek megnyitása</value>
     <comment>Menu option to open multiple selected attachments</comment>
   </data>
   <data name="App_Attachments_SaveAttachmentAs" xml:space="preserve">
-    <value>Save attachment as...</value>
+    <value>Melléklet mentése mint...</value>
     <comment>Menu option to save a single attachment</comment>
   </data>
   <data name="App_Attachments_SaveAttachmentAsPlural" xml:space="preserve">
-    <value>Save attachments as...</value>
+    <value>Mellékletek mentése mint...</value>
     <comment>Menu option to save multiple selected attachments</comment>
   </data>
 </root>
