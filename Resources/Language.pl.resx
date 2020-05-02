@@ -2430,7 +2430,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Failed to invite these people because they are already invited or using Mailbird: {0}</value>
+    <value>Nie udało się zaprosić tych osób, ponieważ zostali już zaproszeni lub korzystają z Mailbirda: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
@@ -2460,11 +2460,11 @@ Message: {0}</comment>
     <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird. Don’t stop there! 
+    <value>Wykonałeś świetną robotę zapraszając znajomych do Mailbird. Nie zatrzymuj się na tym!
 
-You need 4 friends to install Mailbird in order to unlock your FREE Mailbird Business Pay Once reward (a $400 value). 
+Potrzebujesz 4 znajomych instalujących Mailbird, aby odblokować ZA DARMO dożywotnią wersję Mailbird Business (o wartości 400 dolarów).
 
-When your friends install Mailbird, they simply need to input the referral code in order for them to get 1 full month of Mailbird Business for FREE.</value>
+Kiedy Twoi znajomi zainstalują Mailbird, muszą tylko wprowadzić kod polecający, aby otrzymać 1 pełny miesiąc Mailbird Business za darmo.</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_UnableInvitePeople" xml:space="preserve">
@@ -3805,7 +3805,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Invite friends - Get Mailbird Business Pay Once FREE</value>
+    <value>Zaproś znajomych - Zdobądź dożywotnią wersję Mailbird Business ZA DARMO</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -4151,7 +4151,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Check this box to invite all your contacts in one go! Easy. Note that any private or custom email domains are not included, to avoid invites to professional or business contacts.</value>
+    <value>Zaznacz to pole, aby zaprosić wszystkie swoje kontakty za jednym zamachem! Spokojnie. Żadne prywatne lub niestandardowe domeny e-mail nie zostaną dołączone, aby uniknąć zaproszeń kontaktów zawodowych lub biznesowych.</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Timeline_ExpireDays" xml:space="preserve">
@@ -4434,14 +4434,14 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Invite your friends from your primary email account, this is the default email account in your Mailbird. Invite as many friends as you want! Please note there is a limit of 1 reward per email address for both referrer and referee. When {0} or more of your friends install Mailbird from your invite:
-You get [bold]Mailbird Business Pay Once (a $400 value) for FREE[/bold] 
-Your friends who install Mailbird, will get [bold]1 full month[/bold] of Mailbird Business for [bold]FREE[/bold]</value>
+    <value>Zaproś znajomych z głównego konta e-mail, jest to domyślne konto e-mail w Mailbird. Zaproś tylu, ilu chcesz! Pamiętaj, że istnieje limit 1 nagrody na jeden adres e-mail dla zapraszającego i zapraszanych. Kiedy {0} lub więcej Twoich znajomych zainstaluje Mailbird z Twojego zaproszenia:
+Dostajesz [bold] dożywotnią wersję Mailbird Business (o wartości 400$) ZA DARMO[/bold]
+Twoi znajomi, którzy zainstalują Mailbird, otrzymają [bold] 1 pełny miesiąc [/bold] Mailbird Business [bold] ZA DARMO [/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Business
-Pay Once FREE</value>
+    <value>Zdobądź Mailbird Business
+dożywotnio ZA DARMO</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="InviteV2_Accepted" xml:space="preserve">
@@ -8008,15 +8008,15 @@ W przeciwnym razie zostanie wysłana, gdy tylko Mailbird ponownie przejdzie w tr
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Notification_SendLaterIntroHeader" xml:space="preserve">
-    <value>Introducing 'Send Later'</value>
+    <value>Przedstawiamy Opóźnione wysyłanie</value>
     <comment>Header when first time doing Send Later feature</comment>
   </data>
   <data name="Notification_SendLaterIntroMessage" xml:space="preserve">
-    <value>You've just scheduled your first message to send later!
+    <value>Właśnie zaplanowałeś swoją pierwszą wiadomość do wysłania później!
 
-[bold]Important:[/bold] Because we don't store your account credentials or emails on our servers for security reasons, 'Send Later' requires that Mailbird is running on your machine at the scheduled time, in order for it to send the message.
+[bold]Ważne:[/bold] Ponieważ ze względów bezpieczeństwa nie przechowujemy danych dostępowych do Twojego konto ani wiadomości e-mail na naszych serwerach, funkcja Opóźnionego Wysyłania wymaga, aby Mailbird działał na twoim komputerze w zaplanowanym czasie, aby można było wysłać wiadomość.
 
-If Mailbird is not running at the scheduled time the message will not send, but will instead be sent the next time you start Mailbird.</value>
+Jeżeli Mailbird nie będzie działał w zaplanowanym czasie, wiadomość zostanie wysłana dopiero przy następnym uruchomieniu Mailbird.</value>
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
@@ -8024,66 +8024,66 @@ If Mailbird is not running at the scheduled time the message will not send, but 
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
   <data name="Invite_FailedSendInvitation" xml:space="preserve">
-    <value>Failed to send invitation</value>
+    <value>Nie udało się wysłać zaproszenia</value>
     <comment>Failed to send invitation</comment>
   </data>
   <data name="Filter_DisabledAction" xml:space="preserve">
-    <value>This action is not available to filters for '{0}'.</value>
+    <value>Ta akcja nie jest dostępna dla filtrów "{0}".</value>
     <comment>Message when action in filter is not enabled.
 {0} will be replaced with value from Filters_UnifiedAccountsItem</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorHeader" xml:space="preserve">
-    <value>An error occurred while executing filter</value>
+    <value>Podczas wykonywania filtra wystąpił błąd</value>
     <comment>Header when there is error when executing filter</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorMessage" xml:space="preserve">
-    <value>Unexpected error occurred while executing filter on {0}. Please open the filter and try again.
+    <value>Podczas wykonywania filtra {0} wystąpił nieoczekiwany błąd. Proszę otworzyć filtr i spróbować ponownie.
 
-If the issue persists, please contact support.</value>
+Jeśli problem nie zostanie rozwiązany, prosimy o kontakt z pomocą techniczną.</value>
     <comment>Message when there is error when executing filter</comment>
   </data>
   <data name="Notification_OpenFilter" xml:space="preserve">
-    <value>Open filter</value>
+    <value>Otwórz filtr</value>
     <comment>Button in notification to open filter</comment>
   </data>
   <data name="App_Attachments_AdditionalOptions" xml:space="preserve">
-    <value>Additional options</value>
+    <value>Dodatkowe opcje</value>
     <comment>Header of a dropdown menu showing additional filtering options like including spam/trash attachments in the search</comment>
   </data>
   <data name="App_Attachments_IncludeInlineAttachments" xml:space="preserve">
-    <value>Include inline attachments</value>
+    <value>Dołącz wewnętrzne załączniki</value>
     <comment>Filter option to include inline / visual attachments in the search results</comment>
   </data>
   <data name="App_Attachments_IncludeSpamAttachments" xml:space="preserve">
-    <value>Include spam attachments</value>
+    <value>Dołącz załączniki w spamie</value>
     <comment>Filter option to include attachments from emails marked as spam in the search results</comment>
   </data>
   <data name="App_Attachments_IncludeTrashedAttachments" xml:space="preserve">
-    <value>Include trashed attachments</value>
+    <value>Dołącz załączniki z kosza</value>
     <comment>Filter option to include attachments from deleted emails in the search results</comment>
   </data>
   <data name="App_Attachments_OpenConversation" xml:space="preserve">
-    <value>Open conversation</value>
+    <value>Otwórz konwersację</value>
     <comment>Menu option allowing the user to open the email conversation containing the selected attachment from the search results</comment>
   </data>
   <data name="App_Attachments_OpenConversationPlural" xml:space="preserve">
-    <value>Open conversations</value>
+    <value>Otwórz konwersacje</value>
     <comment>Menu option allowing the user to open multiple emails conversations containing the selected attachments from the search results</comment>
   </data>
   <data name="App_Attachments_OpenAttachment" xml:space="preserve">
-    <value>Open attachment</value>
+    <value>Otwórz załącznik</value>
     <comment>Menu option to open a single attachment</comment>
   </data>
   <data name="App_Attachments_OpenAttachmentPlural" xml:space="preserve">
-    <value>Open attachments</value>
+    <value>Otwórz załaczniki</value>
     <comment>Menu option to open multiple selected attachments</comment>
   </data>
   <data name="App_Attachments_SaveAttachmentAs" xml:space="preserve">
-    <value>Save attachment as...</value>
+    <value>Zapisz załącznik jako ...</value>
     <comment>Menu option to save a single attachment</comment>
   </data>
   <data name="App_Attachments_SaveAttachmentAsPlural" xml:space="preserve">
-    <value>Save attachments as...</value>
+    <value>Zapisz załączniki jako ...</value>
     <comment>Menu option to save multiple selected attachments</comment>
   </data>
 </root>
