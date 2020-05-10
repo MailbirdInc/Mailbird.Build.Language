@@ -7957,131 +7957,131 @@ Dacă e așa, veți fi direcționat către o pagină de dezabonare.</value>
     <comment>Tooltip to open advanced search fields</comment>
   </data>
   <data name="FolderIdentity_Scheduled" xml:space="preserve">
-    <value>Scheduled</value>
+    <value>Programate</value>
     <comment>The name of the folder containing emails scheduled to be sent later.</comment>
   </data>
   <data name="Scheduled_Indicator" xml:space="preserve">
-    <value>Scheduled message</value>
+    <value>Mesaj programat</value>
     <comment>Tooltip for scheduled message</comment>
   </data>
   <data name="Scheduled_MondayMorning" xml:space="preserve">
-    <value>Monday morning</value>
+    <value>Luni dimineață</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_PassedTimeError" xml:space="preserve">
-    <value>Please set a future time</value>
+    <value>Vă rugăm să setați o dată viitoare</value>
     <comment>Message when date time already passed</comment>
   </data>
   <data name="Scheduled_ScheduleLabel" xml:space="preserve">
-    <value>Message will be sent {0}</value>
+    <value>Mesajul va fi trimis {0}</value>
     <comment>Message for scheduled message, {0} will be the time. So it's gonna be Message will be sent Today, 8:00 AM</comment>
   </data>
   <data name="Scheduled_TomorrowAfternoon" xml:space="preserve">
-    <value>Tomorrow afternoon</value>
+    <value>Mâine după-amiază</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_TomorrowMorning" xml:space="preserve">
-    <value>Tomorrow morning</value>
+    <value>Mâine dimineață</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_MoreInfo" xml:space="preserve">
-    <value>Message will be sent on the specified time only if Mailbird is running and the computer is online. 
-Otherwise, it will be sent as soon as Mailbird becomes online again.</value>
+    <value>Mesajul va fi trimis la ora specificată doar dacă Mailbird rulează și computerul este online.
+În caz contrar, acesta va fi trimis imediat ce Mailbird devine din nou online.</value>
     <comment>Explanation on scheduled feature</comment>
   </data>
   <data name="Scheduled_SendLaterAt" xml:space="preserve">
-    <value>Send later at</value>
+    <value>Trimite mai târziu la</value>
     <comment>Header on send later control</comment>
   </data>
   <data name="Scheduled_SendLater" xml:space="preserve">
-    <value>Send later</value>
+    <value>Trimite mai târziu</value>
     <comment>Tooltip for the send later feature</comment>
   </data>
   <data name="Scheduled_ThisAfternoon" xml:space="preserve">
-    <value>This afternoon</value>
+    <value>În această după-amiază</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_ThisMorning" xml:space="preserve">
-    <value>This morning</value>
+    <value>În această dimineață</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Notification_SendLaterIntroHeader" xml:space="preserve">
-    <value>Introducing 'Send Later'</value>
+    <value>Prezentare „Trimite mai târziu”</value>
     <comment>Header when first time doing Send Later feature</comment>
   </data>
   <data name="Notification_SendLaterIntroMessage" xml:space="preserve">
-    <value>You've just scheduled your first message to send later!
+    <value>Tocmai ați programat primul dvs. mesaj pentru a fi trimis mai târziu!
 
-[bold]Important:[/bold] Because we don't store your account credentials or emails on our servers for security reasons, 'Send Later' requires that Mailbird is running on your machine at the scheduled time, in order for it to send the message.
+[bold]Important:[/bold] Deoarece nu stocăm datele de autentificare ale contului sau emailurile pe serverele noastre din motive de securitate, „Trimite mai târziu” necesită ca Mailbird să funcționeze pe computerul dvs. la ora programată, pentru ca acesta să poată trimite mesajul.
 
-If Mailbird is not running at the scheduled time the message will not send, but will instead be sent the next time you start Mailbird.</value>
+Dacă Mailbird nu rulează la ora programată, mesajul nu va fi trimis, ci va fi trimis în schimb, la următoarea pornire a Mailbird.</value>
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
-    <value>All accounts</value>
+    <value>Toate conturile</value>
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
   <data name="Invite_FailedSendInvitation" xml:space="preserve">
-    <value>Failed to send invitation</value>
+    <value>Eroare la trimiterea invitației</value>
     <comment>Failed to send invitation</comment>
   </data>
   <data name="Filter_DisabledAction" xml:space="preserve">
-    <value>This action is not available to filters for '{0}'.</value>
+    <value>Această acțiune nu este disponibilă filtrelor pentru '{0}'.</value>
     <comment>Message when action in filter is not enabled.
 {0} will be replaced with value from Filters_UnifiedAccountsItem</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorHeader" xml:space="preserve">
-    <value>An error occurred while executing filter</value>
+    <value>A apărut o eroare la executarea filtrului</value>
     <comment>Header when there is error when executing filter</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorMessage" xml:space="preserve">
-    <value>Unexpected error occurred while executing filter on {0}. Please open the filter and try again.
+    <value>A apărut o eroare neașteptată la executarea filtrului pe {0}. Vă rugăm să deschideți filtrul și să încercați din nou.
 
-If the issue persists, please contact support.</value>
+Dacă problema persistă, contactați pagina de suport.</value>
     <comment>Message when there is error when executing filter</comment>
   </data>
   <data name="Notification_OpenFilter" xml:space="preserve">
-    <value>Open filter</value>
+    <value>Deschide filtrul</value>
     <comment>Button in notification to open filter</comment>
   </data>
   <data name="App_Attachments_AdditionalOptions" xml:space="preserve">
-    <value>Additional options</value>
+    <value>Opțiuni suplimentare</value>
     <comment>Header of a dropdown menu showing additional filtering options like including spam/trash attachments in the search</comment>
   </data>
   <data name="App_Attachments_IncludeInlineAttachments" xml:space="preserve">
-    <value>Include inline attachments</value>
+    <value>Includere atașamente în linie</value>
     <comment>Filter option to include inline / visual attachments in the search results</comment>
   </data>
   <data name="App_Attachments_IncludeSpamAttachments" xml:space="preserve">
-    <value>Include spam attachments</value>
+    <value>Includere fișiere atașate la spam</value>
     <comment>Filter option to include attachments from emails marked as spam in the search results</comment>
   </data>
   <data name="App_Attachments_IncludeTrashedAttachments" xml:space="preserve">
-    <value>Include trashed attachments</value>
+    <value>Includere atașamente de la gunoi</value>
     <comment>Filter option to include attachments from deleted emails in the search results</comment>
   </data>
   <data name="App_Attachments_OpenConversation" xml:space="preserve">
-    <value>Open conversation</value>
+    <value>Deschide conversație</value>
     <comment>Menu option allowing the user to open the email conversation containing the selected attachment from the search results</comment>
   </data>
   <data name="App_Attachments_OpenConversationPlural" xml:space="preserve">
-    <value>Open conversations</value>
+    <value>Deschide conversații</value>
     <comment>Menu option allowing the user to open multiple emails conversations containing the selected attachments from the search results</comment>
   </data>
   <data name="App_Attachments_OpenAttachment" xml:space="preserve">
-    <value>Open attachment</value>
+    <value>Deschide atașament</value>
     <comment>Menu option to open a single attachment</comment>
   </data>
   <data name="App_Attachments_OpenAttachmentPlural" xml:space="preserve">
-    <value>Open attachments</value>
+    <value>Deschide atașamente</value>
     <comment>Menu option to open multiple selected attachments</comment>
   </data>
   <data name="App_Attachments_SaveAttachmentAs" xml:space="preserve">
-    <value>Save attachment as...</value>
+    <value>Salvare atașament ca...</value>
     <comment>Menu option to save a single attachment</comment>
   </data>
   <data name="App_Attachments_SaveAttachmentAsPlural" xml:space="preserve">
-    <value>Save attachments as...</value>
+    <value>Salvare atașamente ca...</value>
     <comment>Menu option to save multiple selected attachments</comment>
   </data>
 </root>
