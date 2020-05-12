@@ -4365,10 +4365,6 @@ the final result will be: Search Google for "query"</comment>
     <value>A tanács megjelenítése a böngészőben</value>
     <comment>View tip in browser</comment>
   </data>
-  <data name="Menu_Trial2" xml:space="preserve">
-    <value>Pro próbahasználat bekapcsolása</value>
-    <comment>Activate pro trial</comment>
-  </data>
   <data name="Trial_EndTitle2" xml:space="preserve">
     <value>A Pro próbahasználat lejárt</value>
     <comment>Your Pro Trial Has Ended</comment>
@@ -4595,31 +4591,31 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
-    <value>Kupon hozzáadása</value>
+    <value>Add referral code</value>
     <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Kuponkód megadása...</value>
+    <value>Referral code...</value>
     <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Meg kell adni a kuponkódot vagy kihagyni ezt a lépést.</value>
+    <value>Enter the referral code below or skip this step.</value>
     <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Van egy kapott kuponkód?</value>
+    <value>Have a referral code?</value>
     <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>Ez a kuponkód már használatban volt.</value>
+    <value>You've already used this referral code.</value>
     <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>A kuponkód nem érvényes.</value>
+    <value>Referral code is not valid.</value>
     <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>A kuponkódot csak új felhasználók vehetik igénybe.</value>
+    <value>Referral code can only be used by new users.</value>
     <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
@@ -8084,5 +8080,9 @@ Ha a hiba állandó marad, vegyük fel a kapcsolatot a támogatással.</value>
   <data name="App_Attachments_SaveAttachmentAsPlural" xml:space="preserve">
     <value>Mellékletek mentése mint...</value>
     <comment>Menu option to save multiple selected attachments</comment>
+  </data>
+  <data name="Menu_ReferralCode" xml:space="preserve">
+    <value>Input referral code</value>
+    <comment>Input referral code</comment>
   </data>
 </root>

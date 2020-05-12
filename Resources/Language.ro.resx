@@ -4365,10 +4365,6 @@ the final result will be: Search Google for "query"</comment>
     <value>Vizualizează sfatul în browser</value>
     <comment>View tip in browser</comment>
   </data>
-  <data name="Menu_Trial2" xml:space="preserve">
-    <value>Activează versiunea Pro pentru testare</value>
-    <comment>Activate pro trial</comment>
-  </data>
   <data name="Trial_EndTitle2" xml:space="preserve">
     <value>Perioada de testare a versiunii Pro s-a încheiat</value>
     <comment>Your Pro Trial Has Ended</comment>
@@ -4595,31 +4591,31 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
-    <value>Ad[ugare cod promoțional</value>
+    <value>Add referral code</value>
     <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Cod promoțional...</value>
+    <value>Referral code...</value>
     <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Introduceți dedesubt codul promoțional sau săriți peste acest pas.</value>
+    <value>Enter the referral code below or skip this step.</value>
     <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Dețineți un cod promoțional recomandat?</value>
+    <value>Have a referral code?</value>
     <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>Ați utilizat deja acest cod promoțional.</value>
+    <value>You've already used this referral code.</value>
     <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>Codul promoțional nu este valid.</value>
+    <value>Referral code is not valid.</value>
     <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Codul promoțional poate fi utilizat numai de către utilizatori noi.</value>
+    <value>Referral code can only be used by new users.</value>
     <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
@@ -8083,5 +8079,9 @@ Dacă problema persistă, contactați pagina de suport.</value>
   <data name="App_Attachments_SaveAttachmentAsPlural" xml:space="preserve">
     <value>Salvare atașamente ca...</value>
     <comment>Menu option to save multiple selected attachments</comment>
+  </data>
+  <data name="Menu_ReferralCode" xml:space="preserve">
+    <value>Input referral code</value>
+    <comment>Input referral code</comment>
   </data>
 </root>

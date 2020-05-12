@@ -4366,10 +4366,6 @@ the final result will be: Search Google for "query"</comment>
     <value>Ver dica no navegador</value>
     <comment>View tip in browser</comment>
   </data>
-  <data name="Menu_Trial2" xml:space="preserve">
-    <value>Ativar período de avaliação PRO</value>
-    <comment>Activate pro trial</comment>
-  </data>
   <data name="Trial_EndTitle2" xml:space="preserve">
     <value>Seu período de avaliação da versão PRO acabou</value>
     <comment>Your Pro Trial Has Ended</comment>
@@ -4596,31 +4592,31 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
-    <value>Adicionar cupom</value>
+    <value>Add referral code</value>
     <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Código do cupom...</value>
+    <value>Referral code...</value>
     <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Digite o código do cupom abaixo ou pule esta etapa.</value>
+    <value>Enter the referral code below or skip this step.</value>
     <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Tem um cupom de referência?</value>
+    <value>Have a referral code?</value>
     <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>Você já usou esse cupom.</value>
+    <value>You've already used this referral code.</value>
     <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>Cupom inválido.</value>
+    <value>Referral code is not valid.</value>
     <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Cupom só pode ser usado por novos usuários.</value>
+    <value>Referral code can only be used by new users.</value>
     <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
@@ -8085,5 +8081,9 @@ If the issue persists, please contact support.</value>
   <data name="App_Attachments_SaveAttachmentAsPlural" xml:space="preserve">
     <value>Save attachments as...</value>
     <comment>Menu option to save multiple selected attachments</comment>
+  </data>
+  <data name="Menu_ReferralCode" xml:space="preserve">
+    <value>Input referral code</value>
+    <comment>Input referral code</comment>
   </data>
 </root>
