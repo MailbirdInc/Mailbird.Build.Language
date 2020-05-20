@@ -2433,7 +2433,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Failed to invite these people because they are already invited or using Mailbird: {0}</value>
+    <value>Nepodařilo se pozvat tyto lidi, protože jsou již pozváni nebo používají Mailbird: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
@@ -2463,11 +2463,11 @@ Message: {0}</comment>
     <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird. Don’t stop there! 
+    <value>Výborné, že jste pozvali přátele na Mailbird. Tím to nemusí skončit!
 
-You need 4 friends to install Mailbird in order to unlock your FREE Mailbird Business Pay Once reward (a $400 value). 
+Potřebujete 4 přátele, kteří si nainstalují Mailbird, abyste mohli odemknout Vaši odměnu Mailbird Business "zaplať pouze jednou" (v hodnotě 400 $).
 
-When your friends install Mailbird, they simply need to input the referral code in order for them to get 1 full month of Mailbird Business for FREE.</value>
+Když se Vaši přátelé nainstalují Mailbird, stačí jim jednoduše zadat doporučující kód, a mohou získat 1 měsíc Mailbird Business ZDARMA.</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_UnableInvitePeople" xml:space="preserve">
@@ -3808,7 +3808,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Invite friends - Get Mailbird Business Pay Once FREE</value>
+    <value>Pozvěte přátele - Získejte Mailbird Business "zaplať pouze jednou" ZDARMA</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -4151,7 +4151,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Check this box to invite all your contacts in one go! Easy. Note that any private or custom email domains are not included, to avoid invites to professional or business contacts.</value>
+    <value>Zaškrtnutím tohoto políčka pozvete všechny své kontakty najednou! Snadné. Upozorňujeme, že žádné soukromé nebo vlastní e-mailové domény nejsou zahrnuty, aby nedošlo k pozvání profesních nebo obchodních kontaktů.</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Timeline_ExpireDays" xml:space="preserve">
@@ -4430,14 +4430,14 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Invite your friends from your primary email account, this is the default email account in your Mailbird. Invite as many friends as you want! Please note there is a limit of 1 reward per email address for both referrer and referee. When {0} or more of your friends install Mailbird from your invite:
-You get [bold]Mailbird Business Pay Once (a $400 value) for FREE[/bold] 
-Your friends who install Mailbird, will get [bold]1 full month[/bold] of Mailbird Business for [bold]FREE[/bold]</value>
+    <value>Pozvěte přátele ze svého primárního e-mailového účtu, jedná se o výchozí e-mailový účet ve Vašem Mailbird. Pozvěte co nejvíce přátel! Vezměte prosím na vědomí, že na 1 e-mailovou adresu je omezena 1 odměna jak pro doporučujícího tak pro doporučeného. Když {0} nebo více vašich přátel nainstaluje Mailbird pomocí Vaší pozvánky:
+Získáte [bold]Mailbird Business "zaplať pouze jednou" (v hodnotě 400 $) ZDARMA[/bold]
+Vaši přátelé, kteří nainstalují Mailbird, získají [bold]1 měsíc[/bold] Mailbird Business [bold]ZDARMA[/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Business
-Pay Once FREE</value>
+    <value>Získejte Mailbird Business
+"Zaplaťte pouze jednou" ZDARMA</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="InviteV2_Accepted" xml:space="preserve">
@@ -4591,31 +4591,31 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
-    <value>Add referral code</value>
+    <value>Přidejte kód doporučení</value>
     <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Referral code...</value>
+    <value>Kód doporučení...</value>
     <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Enter the referral code below or skip this step.</value>
+    <value>Níže zadejte kód doporučení nebo tento krok přeskočte.</value>
     <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Have a referral code?</value>
+    <value>Máte kód doporučení?</value>
     <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>You've already used this referral code.</value>
+    <value>Tento kód doporučení jste již použili.</value>
     <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>Referral code is not valid.</value>
+    <value>Kód doporučení není platný.</value>
     <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Referral code can only be used by new users.</value>
+    <value>Kód doporučení mohou používat pouze noví uživatelé.</value>
     <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
@@ -6453,7 +6453,7 @@ e.g. "1 occurrence"</comment>
 e.g. "2 occurrences"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_On" xml:space="preserve">
-    <value>On</value>
+    <value></value>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
@@ -7363,19 +7363,19 @@ Pokud chcete nadále používat Mailbird, můžete si níže zakoupit licenci ne
     <comment>Message box header when license is downgraded, Nb: You're leaving Mailbird Business</comment>
   </data>
   <data name="Dialog_Downgrade_Explanation" xml:space="preserve">
-    <value>{0} will activate after restarting. To get the best out of Mailbird, you can always change to Mailbird Business in the future.</value>
+    <value>{0} se aktivuje po restartování. Chcete-li z Mailbirdu vytěžit maximum, můžete ji v budoucnu kdykoli změnit na Mailbird Business.</value>
     <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
   </data>
   <data name="License_OfflineWelcome_Header" xml:space="preserve">
-    <value>License required</value>
+    <value>Je vyžadována licence</value>
     <comment>Header when Mailbird has gone offline before adding any account</comment>
   </data>
   <data name="License_OfflineWelcome_SubHeader" xml:space="preserve">
-    <value>Mailbird is now offline</value>
+    <value>Mailbird je offline</value>
     <comment>SubHeader when Mailbird has gone offline before adding any account</comment>
   </data>
   <data name="License_Trial" xml:space="preserve">
-    <value>{0} trial</value>
+    <value>{0} zkušební období</value>
     <comment>{0} will be replaced with license name, e.g. Mailbird Business</comment>
   </data>
   <data name="License_Mailbird" xml:space="preserve">
@@ -7383,19 +7383,19 @@ Pokud chcete nadále používat Mailbird, můžete si níže zakoupit licenci ne
     <comment>Label for license, e.g. Mailbird Business</comment>
   </data>
   <data name="License_Offline" xml:space="preserve">
-    <value>Mailbird is offline. License required.</value>
+    <value>Mailbird je offline. Je vyžadována licence.</value>
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
-    <value>(paid annually)</value>
+    <value>(platí se ročně)</value>
     <comment>Text to explain the payment is annually.</comment>
   </data>
   <data name="UpgradeToPro_PayOnce" xml:space="preserve">
-    <value>(pay once)</value>
+    <value>(zaplatit jednou)</value>
     <comment>Text to explain the payment is one time.</comment>
   </data>
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
-    <value>Choose a version and payment plan below that's right for you.</value>
+    <value>Níže vyberte verzi a platební plán, který je pro vás ten pravý.</value>
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
   <data name="App_GoogleDrive_Description" xml:space="preserve">
@@ -7421,43 +7421,43 @@ Tento požadavek se otevře ve výchozím prohlížeči a musí být dokončen, 
     <comment>Message of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredButton" xml:space="preserve">
-    <value>Authorize</value>
+    <value>Povolit</value>
     <comment>Button to start authorization as shown on notification when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredHeader" xml:space="preserve">
-    <value>Authorization required for {0}</value>
+    <value>Vyžaduje se oprávnění pro {0}</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredMessage" xml:space="preserve">
-    <value>Mailbird needs to authorize with your account in order to continue accessing it.
+    <value>Mailbird se musí autorizovat s Vaším účtem, aby k němu mohl nadále přistupovat.
 
-Until authorization has been performed the account will not synchronize with the server.</value>
+Dokud nebude provedena autorizace, účet nebude synchronizován se serverem.</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirect" xml:space="preserve">
-    <value>Mailbird was unable to authorize with the server due to the loopback address being redirected to HTTPS in the browser.
+    <value>Mailbird se nemohl autorizovat se serverem z důvodu zpětné smyčky při přesměrování adresy na HTTPS v prohlížeči.
 
-Mailbird will now try again using another browser. If it still doesn't work, please disable the HTTPS redirect of the loopback address and try again.</value>
+Mailbird se nyní pokusí udělat to samé s využitím jiného prohlížeče. Pokud to stále nefunguje, zakažte zpětnou smyčku při přesměrovávání adresy na HTTPS a akci opakujte.</value>
     <comment>Message of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirectTitle" xml:space="preserve">
-    <value>HTTPS redirect detected</value>
+    <value>Bylo zjištěno přesměrování HTTPS</value>
     <comment>Title of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Disabled_AccountOffline" xml:space="preserve">
-    <value>This account has been disabled because Mailbird is offline.</value>
+    <value>Tento účet byl zakázán, protože Mailbird je offline.</value>
     <comment>Tooltip when account is disabled due to using Mailbird Offline</comment>
   </data>
   <data name="Dialog_GoOffline" xml:space="preserve">
-    <value>Dismiss trial extension?</value>
+    <value>Zrušit prodloužení zkušební doby?</value>
     <comment>Header for messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Dialog_GoOfflineExplanation" xml:space="preserve">
-    <value>By not extending your trial Mailbird will restart and go offline. Do you wish to continue?</value>
+    <value>Po neprodloužení zkušební verze se Mailbird restartuje a přejde do režimu offline. Přejete si pokračovat?</value>
     <comment>Explanationfor messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
-    <value>Exchange support not included in Mailbird Personal</value>
+    <value>Podpora Exchange není součástí Mailbird Personal</value>
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
@@ -8032,57 +8032,57 @@ If Mailbird is not running at the scheduled time the message will not send, but 
     <comment>Header when there is error when executing filter</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorMessage" xml:space="preserve">
-    <value>Unexpected error occurred while executing filter on {0}. Please open the filter and try again.
+    <value>Při provádění filtru na {0} došlo k neočekávané chybě. Otevřete filtr a akci opakujte.
 
-If the issue persists, please contact support.</value>
+Pokud problém přetrvává, kontaktujte podporu.</value>
     <comment>Message when there is error when executing filter</comment>
   </data>
   <data name="Notification_OpenFilter" xml:space="preserve">
-    <value>Open filter</value>
+    <value>Otevřít filtr</value>
     <comment>Button in notification to open filter</comment>
   </data>
   <data name="App_Attachments_AdditionalOptions" xml:space="preserve">
-    <value>Additional options</value>
+    <value>Další možnosti</value>
     <comment>Header of a dropdown menu showing additional filtering options like including spam/trash attachments in the search</comment>
   </data>
   <data name="App_Attachments_IncludeInlineAttachments" xml:space="preserve">
-    <value>Include inline attachments</value>
+    <value>Zahrnout vložené přílohy</value>
     <comment>Filter option to include inline / visual attachments in the search results</comment>
   </data>
   <data name="App_Attachments_IncludeSpamAttachments" xml:space="preserve">
-    <value>Include spam attachments</value>
+    <value>Zahrnout přílohy nevyžádané pošty</value>
     <comment>Filter option to include attachments from emails marked as spam in the search results</comment>
   </data>
   <data name="App_Attachments_IncludeTrashedAttachments" xml:space="preserve">
-    <value>Include trashed attachments</value>
+    <value>Zahrnout vyhozené přílohy</value>
     <comment>Filter option to include attachments from deleted emails in the search results</comment>
   </data>
   <data name="App_Attachments_OpenConversation" xml:space="preserve">
-    <value>Open conversation</value>
+    <value>Otevřít konverzaci</value>
     <comment>Menu option allowing the user to open the email conversation containing the selected attachment from the search results</comment>
   </data>
   <data name="App_Attachments_OpenConversationPlural" xml:space="preserve">
-    <value>Open conversations</value>
+    <value>Otevřít konverzaci</value>
     <comment>Menu option allowing the user to open multiple emails conversations containing the selected attachments from the search results</comment>
   </data>
   <data name="App_Attachments_OpenAttachment" xml:space="preserve">
-    <value>Open attachment</value>
+    <value>Otevřít přílohu</value>
     <comment>Menu option to open a single attachment</comment>
   </data>
   <data name="App_Attachments_OpenAttachmentPlural" xml:space="preserve">
-    <value>Open attachments</value>
+    <value>Otevřít přílohy</value>
     <comment>Menu option to open multiple selected attachments</comment>
   </data>
   <data name="App_Attachments_SaveAttachmentAs" xml:space="preserve">
-    <value>Save attachment as...</value>
+    <value>Uložit přílohu jako ...</value>
     <comment>Menu option to save a single attachment</comment>
   </data>
   <data name="App_Attachments_SaveAttachmentAsPlural" xml:space="preserve">
-    <value>Save attachments as...</value>
+    <value>Uložit přílohy jako...</value>
     <comment>Menu option to save multiple selected attachments</comment>
   </data>
   <data name="Menu_ReferralCode" xml:space="preserve">
-    <value>Input referral code</value>
+    <value>Zadat kód doporučení</value>
     <comment>Input referral code</comment>
   </data>
 </root>
