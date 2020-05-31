@@ -6453,7 +6453,7 @@ e.g. "1 occurrence"</comment>
 e.g. "2 occurrences"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_On" xml:space="preserve">
-    <value />
+    <value>On</value>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
@@ -7461,11 +7461,11 @@ Mailbird se nyní pokusí udělat to samé s využitím jiného prohlížeče. P
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
-    <value>You have selected Mailbird Personal which does not include Exchange support. For Exchange support and other business focused features Mailbird Business is required.
+    <value>Vybrali jste Mailbird Personal (Osobní), který nezahrnuje podporu Exchange. Pro podporu Exchange a další funkce zaměřené na podnikání je vyžadován Mailbird Business.
 
-Be aware that already added Exchange accounts will be disabled in Mailbird following your activation of Personal.
+Uvědomte si, že již přidané účty Exchange budou v Mailbirdu po aktivaci Osobní verze deaktivovány.
 
-Are you sure you want to continue with the purchase of Mailbird Personal?</value>
+Opravdu chcete pokračovat v nákupu aplikace Mailbird Personal?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
@@ -7524,161 +7524,161 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <value>komu {0}</value>
   </data>
   <data name="Filter_Field_Action_CopyToFolder" xml:space="preserve">
-    <value>Copy to folder</value>
+    <value>Kopírovat do složky</value>
     <comment>Filter action in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_From" xml:space="preserve">
-    <value>From</value>
+    <value>Od</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_Subject" xml:space="preserve">
-    <value>Subject contains</value>
+    <value>Předmět obsahuje</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_Condition_To" xml:space="preserve">
-    <value>To</value>
+    <value>Komu</value>
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="Filter_Field_MissingFolder" xml:space="preserve">
-    <value>missing folder</value>
+    <value>chybějící složka</value>
     <comment>Placeholder when folder is not found or deleted</comment>
   </data>
   <data name="Filter_Field_NoContacts" xml:space="preserve">
-    <value>no contacts</value>
+    <value>žádné kontakty</value>
     <comment>Placeholder when there is no contacts</comment>
   </data>
   <data name="Filter_Field_NoFolder" xml:space="preserve">
-    <value>no folder</value>
+    <value>žádná složka</value>
     <comment>Placeholder when there is no folder</comment>
   </data>
   <data name="Filter_Field_NoSubject" xml:space="preserve">
-    <value>no subject</value>
+    <value>žádný předmět</value>
     <comment>Placeholder when there is no subject</comment>
   </data>
   <data name="Filter_NewFolder" xml:space="preserve">
-    <value>Add new folder...</value>
+    <value>Přidat novou složku ..</value>
     <comment>Menu item to create new folder</comment>
   </data>
   <data name="Dialog_RemoveFilter" xml:space="preserve">
-    <value>Remove filter?</value>
+    <value>Odstranit filtr?</value>
     <comment>Dialog header</comment>
   </data>
   <data name="Dialog_RemoveFilterExplanation" xml:space="preserve">
-    <value>Are you sure you want to remove this filter?</value>
+    <value>Opravdu chcete tento filtr odstranit?</value>
     <comment>Dialog explanation</comment>
   </data>
   <data name="Filter_EditFilter_Actions" xml:space="preserve">
-    <value>2. Actions</value>
+    <value>2. Akce</value>
     <comment>Header for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ActionsExplanation" xml:space="preserve">
-    <value>Set actions for the filtered emails.</value>
+    <value>Nastavte akce pro filtrované e-maily.</value>
     <comment>Explanation for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_AddAction" xml:space="preserve">
-    <value>Add action</value>
+    <value>Přidat akci</value>
     <comment>Button content</comment>
   </data>
   <data name="Filter_EditFilter_AddCondition" xml:space="preserve">
-    <value>Add condition</value>
+    <value>Přidat podmínku</value>
     <comment>Button content</comment>
   </data>
   <data name="Filter_EditFilter_Conditions" xml:space="preserve">
-    <value>1. Conditions</value>
+    <value>1. Podmínky</value>
     <comment>Header for conditions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ConditionsExplanation" xml:space="preserve">
-    <value>Set conditions for the emails you want to filter.</value>
+    <value>Nastavte podmínky pro e-maily, které chcete filtrovat.</value>
     <comment>Explanation for conditions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_Review" xml:space="preserve">
-    <value>3. Review</value>
+    <value>3. Přehled</value>
     <comment>Header for review section in edit filter window</comment>
   </data>
   <data name="Filter_ValidationRule_Email" xml:space="preserve">
-    <value>Please add one or more contacts</value>
+    <value>Přidejte prosím jeden nebo více kontaktů</value>
     <comment>Tooltip message when contact field is empty</comment>
   </data>
   <data name="Filter_ValidationRule_EmptyValue" xml:space="preserve">
-    <value>Value can't be empty</value>
+    <value>Hodnota nemůže být prázdná</value>
     <comment>Tooltip message when textbox is empty</comment>
   </data>
   <data name="Filter_ValidationRule_Folder" xml:space="preserve">
-    <value>Please select folder</value>
+    <value>Prosím, vyberte složku</value>
     <comment>Tooltip message when there is no folder selected</comment>
   </data>
   <data name="Options_Filters" xml:space="preserve">
-    <value>Filters</value>
+    <value>Filtry</value>
     <comment>Filters tab in option window</comment>
   </data>
   <data name="Options_Filters_FiltersFor" xml:space="preserve">
-    <value>Filters for:</value>
+    <value>Filtry pro:</value>
     <comment>Label for displaying filter</comment>
   </data>
   <data name="Filter_ContactPlaceholder" xml:space="preserve">
-    <value>Enter names, email addresses or domains</value>
+    <value>Zadejte jména, e-mailové adresy nebo domény</value>
     <comment>Placeholder in from and to field in filter condition</comment>
   </data>
   <data name="Filter_EditFilter_Applied" xml:space="preserve">
-    <value>The filter will be applied to incoming messages in the [bold]{0}[/bold] account.</value>
+    <value>Filtr bude použit na příchozí zprávy v účtu [bold]{0}[/bold].</value>
     <comment>Explanation in filter window</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderButton" xml:space="preserve">
-    <value>Edit filter</value>
+    <value>Upravit filtr</value>
     <comment>Button in notification to edit filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderHeader" xml:space="preserve">
-    <value>Filter action error</value>
+    <value>Chyba akce filtru</value>
     <comment>Header in notification when folder is missing in filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderMessage" xml:space="preserve">
-    <value>A folder specified in a filter action no longer exists and the action will not be executed. Please update the filter.</value>
+    <value>Složka zadaná v akci filtru již neexistuje a akce nebude provedena. Aktualizujte prosím filtr.</value>
     <comment>Error message when on filter item</comment>
   </data>
   <data name="Options_Filters_FiltersNote" xml:space="preserve">
-    <value>The filters will be applied to incoming messages when Mailbird is running.</value>
+    <value>Filtry budou použity na příchozí zprávy, když je Mailbird spuštěn.</value>
     <comment>Note in the bottom of filters list</comment>
   </data>
   <data name="Filter_ContactTooltip" xml:space="preserve">
-    <value>Type to add more items</value>
+    <value>Zadejte další položky</value>
     <comment>Tooltip for contact textbox in edit filter window</comment>
   </data>
   <data name="Filters_Condition_HasAttachments" xml:space="preserve">
     <value>s přílohami</value>
   </data>
   <data name="Invite_Message" xml:space="preserve">
-    <value>Hi 
-I started using Mailbird. You can literally manage as many different email and communication accounts as you want, in one app with Mailbird. Try Mailbird for free here: {0}. 
+    <value>Ahoj,
+začal jsem používat Mailbird. V jedné aplikaci Mailbird můžete spravovat libovolný počet různých e-mailových a komunikačních účtů. Vyzkoušejte Mailbird zdarma zde: {0}.
 
-I hope you like it.</value>
+Doufám, že se ti to bude líbit.</value>
     <comment>Message when recommending Mailbird via email</comment>
   </data>
   <data name="Invite_Subject" xml:space="preserve">
-    <value>Check out Mailbird!</value>
+    <value>Podívejte se na Mailbird!</value>
     <comment>Subject for message when recommending Mailbird</comment>
   </data>
   <data name="Filter_Field_Action_MoveToFolder" xml:space="preserve">
-    <value>Move to folder</value>
+    <value>Přesunout do složky</value>
     <comment>Filter action in the filter window</comment>
   </data>
   <data name="Filters_Action_MoveToFolder" xml:space="preserve">
-    <value>move to {0} folder</value>
+    <value>přesunout do {0} složky</value>
   </data>
   <data name="Filters_Action_MarkAsSpam" xml:space="preserve">
-    <value>mark as spam</value>
+    <value>označit jako spam</value>
   </data>
   <data name="ShareDiscount_Buy" xml:space="preserve">
-    <value>Buy Mailbird - {0}% OFF</value>
+    <value>Mailbird - {0}% SLEVA</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
   <data name="ShareDiscount_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird - {0}% OFF</value>
+    <value>Koupit Mailbird - {0}% SLEVA</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
   <data name="Import_NoClients" xml:space="preserve">
-    <value>No supported clients detected.</value>
+    <value>Nebyli nalezeni žádní podporovaní klienti.</value>
     <comment>Message when there is no supported email clients on import step</comment>
   </data>
   <data name="Filter_GeneralPlaceholder" xml:space="preserve">
@@ -8086,31 +8086,31 @@ Pokud problém přetrvává, kontaktujte podporu.</value>
     <comment>Input referral code</comment>
   </data>
   <data name="InviteV2_CopyLink" xml:space="preserve">
-    <value>Copy link</value>
+    <value>Kopírovat odkaz</value>
     <comment>Copy link</comment>
   </data>
   <data name="Dialog_TrashAndDiscardExplanation" xml:space="preserve">
-    <value>Drafts in the conversation will be discarded when trashing.
+    <value>Koncepty v konverzaci budou při mazání zahozeny.
 
-Are you sure you want to trash the conversation?</value>
+Opravdu chcete konverzaci smazat?</value>
     <comment>Message when moving conversation to trash folder but there is draft</comment>
   </data>
   <data name="Conversation_NoSubjectExplanation" xml:space="preserve">
-    <value>This conversation has empty subject</value>
+    <value>Tato konverzace má prázdný předmět</value>
     <comment>Tooltip when there conversation doesnt have subject</comment>
   </data>
   <data name="Dialog_TrashAndDiscardDraft" xml:space="preserve">
-    <value>Drafts will be discarded</value>
+    <value>Koncepty budou zahozeny</value>
     <comment>Message box when trashing and there is draft</comment>
   </data>
   <data name="Dialog_DiscardScheduledDraftExplanation" xml:space="preserve">
-    <value>Are you sure you want to cancel and discard your scheduled message?</value>
+    <value>Opravdu chcete zrušit a zahodit naplánovanou zprávu?</value>
     <comment>Message when discarding scheduled draft</comment>
   </data>
   <data name="Dialog_TrashAndDiscardScheduledExplanation" xml:space="preserve">
-    <value>Scheduled messages in the conversation will be cancelled and discarded when trashing.
+    <value>Naplánované zprávy v konverzaci budou při smazání zrušeny a zahozeny.
 
-Are you sure you want to trash the conversation?</value>
+Opravdu chcete konverzaci smazat?</value>
     <comment>Message when moving conversation to trash folder but there is draft</comment>
   </data>
 </root>
