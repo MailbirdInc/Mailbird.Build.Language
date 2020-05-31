@@ -294,7 +294,7 @@
     <comment>To: </comment>
   </data>
   <data name="Conversation_ToMe" xml:space="preserve">
-    <value>to me</value>
+    <value>naar mij</value>
     <comment>to me</comment>
   </data>
   <data name="Conversation_To2" xml:space="preserve">
@@ -399,7 +399,7 @@ Url: {1}</comment>
   </data>
   <data name="Dialog_FacebookConnectExplanation" xml:space="preserve">
     <value>We moeten ons opnieuw authenticeren bij Facebook.
-Wilt  u opnieuw verbinden met uwFacebook?</value>
+Wilt u opnieuw verbinden met uw Facebook?</value>
     <comment>We need to re-authenticate with Facebook.
 Do you want to reconnect your Facebook?</comment>
   </data>
@@ -579,7 +579,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Close</comment>
   </data>
   <data name="Dialog_Help" xml:space="preserve">
-    <value>Help</value>
+    <value>Hulp</value>
     <comment>Help</comment>
   </data>
   <data name="Account_Create" xml:space="preserve">
@@ -627,7 +627,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
-    <value>Insert link</value>
+    <value>Link invoegen</value>
     <comment>Insert Link</comment>
   </data>
   <data name="Identity_Account" xml:space="preserve">
@@ -643,7 +643,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Use a different reply-to address</comment>
   </data>
   <data name="Identity_DifferentSignature" xml:space="preserve">
-    <value>Een andere handtekening gebruiken dan voor {0}</value>
+    <value>Gebruik dan een andere handtekening voor {0}</value>
     <comment>"{0}" will be replaced by an email address, so the result will be "Use a different signature than for test@gmail.com"</comment>
   </data>
   <data name="Identity_Edit" xml:space="preserve">
@@ -1179,7 +1179,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Large</comment>
   </data>
   <data name="LinkEditor_Medium" xml:space="preserve">
-    <value>Medium</value>
+    <value>Gemiddeld</value>
     <comment>Medium</comment>
   </data>
   <data name="LinkEditor_OriginalSize" xml:space="preserve">
@@ -1415,7 +1415,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} conversations archived</value>
+    <value>{0} gearchiveerde gesprekken</value>
     <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
@@ -1439,7 +1439,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Draft discarded</comment>
   </data>
   <data name="Notification_MailbirdWaiting" xml:space="preserve">
-    <value>Uw  Mailbird wacht hier op je.</value>
+    <value>Uw Mailbird wacht hier op je.</value>
     <comment>Your Mailbird is right here waiting for you.</comment>
   </data>
   <data name="Notification_Press" xml:space="preserve">
@@ -1451,7 +1451,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
-    <value>{0} conversations trashed</value>
+    <value>{0} verloren gesprekken</value>
     <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
@@ -1927,7 +1927,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous message</comment>
   </data>
   <data name="Shortcut_PreviousMessageExplanation" xml:space="preserve">
-    <value>Verplaatst  uw cursor naar het vorige bericht. U kunt &lt;Enter&gt; drukken om een bericht uit te vouwen/samen te vouwen. (Alleen van toepassing in 'Gespreksweergave')</value>
+    <value>Verplaatst  uw cursor naar het vorige bericht. U kunt op &lt;Enter&gt; drukken om een bericht uit te vouwen. (Alleen van toepassing in 'Gespreksweergave.')</value>
     <comment>Moves your cursor to the previous message. You can hit &lt;Enter&gt; to expand or collapse a message. (Only applicable in 'Conversation View.')</comment>
   </data>
   <data name="Shortcut_Print" xml:space="preserve">
@@ -2105,9 +2105,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
     <value>Google ondersteunt geen 2 staps authenticatie wanneer gebruik wordt gemaakt van gebruikersnaam en wachtwoord.
 
-Configureer het account in mailbird om OAuth 2.0 verificatie te gebruiken.
-
-https://support.google.com/accounts/answer/185833 </value>
+Configureer het account in mailbird om OAuth 2.0 verificatie te gebruiken. </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
@@ -2302,7 +2300,7 @@ Path: {0}</comment>
     <comment>Increase size</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertHyperlink" xml:space="preserve">
-    <value>Insert link</value>
+    <value>link toevoegen</value>
     <comment>Insert hyperlink</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertPicture" xml:space="preserve">
@@ -2432,7 +2430,7 @@ Please click "read more" button below for further information before continuing.
 Would you like to ignore the error permanently for this server?</comment>
   </data>
   <data name="Invite_SentAlreadyInvitedExplanation" xml:space="preserve">
-    <value>Failed to invite these people because they are already invited or using Mailbird: {0}</value>
+    <value>Kan deze mensen niet uitnodigen omdat ze al zijn uitgenodigd of Mailbird gebruiken: {0}</value>
     <comment>Great work inviting your friends to Mailbird! There are a few emails that have already been invited, so it's time to invite others to unlock your Mailbird Pro rewards.
 
 Emails already invited: {0}</comment>
@@ -2462,11 +2460,11 @@ Message: {0}</comment>
     <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Great work inviting your friends to Mailbird. Don’t stop there! 
+    <value>Geweldig werk om je vrienden uit te nodigen voor Mailbird. Laat je daar niet stoppen! 
 
-You need 4 friends to install Mailbird in order to unlock your FREE Mailbird Business Pay Once reward (a $400 value). 
+Je hebt 4 vrienden nodig om Mailbird te installeren om uw GRATIS Mailbird Business Pay Once-beloning te ontgrendelen (ter waarden van $400). 
 
-When your friends install Mailbird, they simply need to input the referral code in order for them to get 1 full month of Mailbird Business for FREE.</value>
+Wanneer je vrienden Mailbird installeren, hoeven ze alleen maar de verwijzingscode in te voeren om 1 maand GRATIS Mailbird Business te krijgen.</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_UnableInvitePeople" xml:space="preserve">
@@ -2534,7 +2532,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart required for the changes to take effect</comment>
   </data>
   <data name="Welcome_GravatarTooltip" xml:space="preserve">
-    <value>Setup your avatar at http://gravatar.com or in contacts app</value>
+    <value>Stel je avatar in op http://gravatar.com or in contacts app</value>
     <comment>Setup your avatar at http://gravatar.com</comment>
   </data>
   <data name="Editor_AttachmentPattern" xml:space="preserve">
@@ -2766,7 +2764,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Group messages into conversations</comment>
   </data>
   <data name="Dialog_RestartRequiredMessage" xml:space="preserve">
-    <value>Mailbird moet opnieuw worden opgestart om de wijzigingen door te voeren. Wilt  u nu herstarten?</value>
+    <value>Mailbird moet opnieuw worden opgestart om de wijzigingen door te voeren. Wilt u nu herstarten?</value>
     <comment>Mailbird needs to be restarted for the changes to take effect. Would you like to restart now?</comment>
   </data>
   <data name="Dialog_RestartRequiredTitle" xml:space="preserve">
@@ -2778,7 +2776,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Submit request</comment>
   </data>
   <data name="WebBrowser_Home" xml:space="preserve">
-    <value>Home</value>
+    <value>Startpagina</value>
     <comment>Home</comment>
   </data>
   <data name="Conversation_More" xml:space="preserve">
@@ -3263,6 +3261,7 @@ https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
     <value>U moet een e-mailaccount toevoegen om Mailbird te gebruiken. 
+
 Weet u zeker dat u wilt annuleren?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
@@ -3399,7 +3398,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Get Snooze and many other features to boost your productivity.</comment>
   </data>
   <data name="Welcome_MoreAccounts_Header" xml:space="preserve">
-    <value>Wilt  u meer e-mailaccounts toevoegen?</value>
+    <value>Wilt u meer e-mailaccounts toevoegen?</value>
     <comment>Want to add more email accounts?</comment>
   </data>
   <data name="License_RestartToConvertLiteExplanation" xml:space="preserve">
@@ -3641,10 +3640,10 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Enter Twitter pin:</comment>
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
-    <value>Configureer a.u.b. uw account om gebruik te maken van OAuth 2.0 authenticatie i.p.v.  de gebruikersnaam en wachtwoord, of zorg er voor dat 'laat minder veilige apps toe' is ingeschakeld in Gmail.
+    <value>Configureer a.u.b. uw account om gebruik te maken van OAuth 2.0 authenticatie i.p.v. de gebruikersnaam en wachtwoord, of zorg er voor dat 'laat minder veilige apps toe' is ingeschakeld in Gmail.
 {0}
 
-Als dit probleem zich voor blijft doen, ga dan naar onderstaande link voor verdere hulp:
+Als dit probleem zich blijft voordoen, ga dan naar onderstaande link voor verdere hulp:
 https://support.google.com/mail/accounts/answer/78754</value>
     <comment>Please ensure that 'allow less secure apps' is enabled in Gmail:
 https://mailbird.zendesk.com/entries/53544244
@@ -3661,11 +3660,11 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Authentication with the proxy server failed. Please ensure that the proxy settings have been input correctly in the Mailbird options.</comment>
   </data>
   <data name="Shortcut_InsertLink" xml:space="preserve">
-    <value>Insert link</value>
+    <value>Link invoegen</value>
     <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
-    <value>Opens insert link window while you are composing email or editing signature</value>
+    <value>Opent het venster voor het invoegen van links terwijl u e-mail opstelt of handtekening bewerkt</value>
     <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
@@ -3802,11 +3801,11 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>reload the draft</comment>
   </data>
   <data name="Import_NoAccounts" xml:space="preserve">
-    <value>No accounts.</value>
+    <value>Geen accounts.</value>
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Invite friends - Get Mailbird Business Pay Once FREE</value>
+    <value>Nodig vrienden uit - Krijg Mailbird Business eenmalig GRATIS betaald</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -3822,7 +3821,8 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
-    <value>Importeren van [bold]{0}[/bold]. Vul hieronder ontbrekende gegevens in
+    <value>Importeren van [bold]{0}[/bold]. 
+Vul hieronder ontbrekende gegevens in
 Account {1} van {2}.</value>
     <comment>Leave the number within {}, it will be like this:
 Importing johndoe@gmail.com. Please input your password and any other missing details below.
@@ -7714,15 +7714,15 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Setting to only add signature to new conversation</comment>
   </data>
   <data name="App_ToDo_Description" xml:space="preserve">
-    <value>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</value>
+    <value>To Do geeft je focus, van werk tot ontspanning. Blijf georganiseerd en beheer uw dagelijkse taken.</value>
     <comment>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</comment>
   </data>
   <data name="Filter_EditFilter_SaveRun" xml:space="preserve">
-    <value>Save &amp; Run</value>
+    <value>Opslaan &amp; uitvoeren</value>
     <comment>Button to save and run filter</comment>
   </data>
   <data name="Options_Filters_RunFilters" xml:space="preserve">
-    <value>Run selected filters</value>
+    <value>Voer geselecteerde filters uit</value>
     <comment>Button to run selected filters</comment>
   </data>
   <data name="Filter_EditFilter_CreateFilter" xml:space="preserve">
@@ -7730,11 +7730,11 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Windows title of create filter window</comment>
   </data>
   <data name="Notification_FilterExecutedMany" xml:space="preserve">
-    <value>The filter was applied to {0} conversations</value>
+    <value>Het filter is toegepast op {0} gesprekken</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
-    <value>The filter was applied to one conversation</value>
+    <value>Het filter is toegepast op één gesprek</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
@@ -7746,7 +7746,7 @@ Note that not all changes you make in one version of Mailbird will sync to the o
     <comment>Dialog asking whether to copy data from the release version of Mailbird when starting the alpha version for the first time.</comment>
   </data>
   <data name="Dialog_ExistingInstallationDetected" xml:space="preserve">
-    <value>Existing installation detected</value>
+    <value>Bestaande installatie gedetecteerd</value>
     <comment>Existing installation detected</comment>
   </data>
   <data name="Options_MailbirdAlpha" xml:space="preserve">
@@ -7766,25 +7766,25 @@ The Alpha version of Mailbird is installed separately, so you can still run the 
 Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</comment>
   </data>
   <data name="Options_SignUpForAlpha" xml:space="preserve">
-    <value>Sign up to be an Alpha tester</value>
+    <value>Meld u aan als Alfa tester</value>
     <comment>Sign up to be an Alpha tester</comment>
   </data>
   <data name="Dialog_StartingMailbird" xml:space="preserve">
-    <value>Starting Mailbird</value>
+    <value>Mailbird starten</value>
     <comment>Starting Mailbird</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingData" xml:space="preserve">
-    <value>Error starting Mailbird with existing data</value>
+    <value>Fout bij het starten van Mailbird met bestaande gegevens</value>
     <comment>Error starting Mailbird with existing data</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingDataExplanation" xml:space="preserve">
-    <value>An error occurred copying data from the normal version of Mailbird to this version.
+    <value>Er is een fout opgetreden bij het kopiëren van gegevens van de normale versie van Mailbird naar deze versie.
 
-Your normal version of Mailbird is unaffected but this version will start as a new installation.</value>
+Uw normale versie van Mailbird wordt niet beïnvloed, maar deze versie begint als een nieuwe installatie.</value>
     <comment>Dialog showing when an error starting Mailbird with existing data failed.</comment>
   </data>
   <data name="Dialog_CopyingNecessaryData" xml:space="preserve">
-    <value>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</value>
+    <value>Mailbird kopieert de gegevens die nodig zijn om te beginnen met uw bestaande accounts. Even geduld...</value>
     <comment>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</comment>
   </data>
   <data name="Filter_Field_Condition_HasAttachment" xml:space="preserve">
