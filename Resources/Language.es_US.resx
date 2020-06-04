@@ -133,10 +133,6 @@
     <value>Guardar como...</value>
     <comment>Save as...</comment>
   </data>
-  <data name="Attachment_SaveAll" xml:space="preserve">
-    <value>Guardar todo como...</value>
-    <comment>Save all as...</comment>
-  </data>
   <data name="Awesomium_Copy" xml:space="preserve">
     <value>Copiar</value>
     <comment>Copy</comment>
@@ -1355,7 +1351,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Save</comment>
   </data>
   <data name="Message_SaveAttachment" xml:space="preserve">
-    <value>Guardar adjunto(s)</value>
+    <value>Save attachment</value>
     <comment>Save attachment(s)</comment>
   </data>
   <data name="Message_Send" xml:space="preserve">
@@ -2771,7 +2767,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart required</comment>
   </data>
   <data name="Support_SubmitTicket" xml:space="preserve">
-    <value>Submit request</value>
+    <value>Submit a request</value>
     <comment>Submit request</comment>
   </data>
   <data name="WebBrowser_Home" xml:space="preserve">
@@ -4430,14 +4426,18 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Invite your friends from your primary email account, this is the default email account in your Mailbird. Invite as many friends as you want! Please note there is a limit of 1 reward per email address for both referrer and referee. When {0} or more of your friends install Mailbird from your invite:
-You get [bold]Mailbird Business Pay Once (a $400 value) for FREE[/bold] 
-Your friends who install Mailbird, will get [bold]1 full month[/bold] of Mailbird Business for [bold]FREE[/bold]</value>
+    <value>Invite your friends from your primary email account, this is the default email account in your Mailbird. Invite as many friends as you want! 
+
+Please note there is a limit of 1 reward per email address for both referrer and referee. When {0} or more of your friends install Mailbird from your invite:
+
+1. You get [bold]Mailbird Business Pay Once (a $399 value) for FREE[/bold] 
+
+2. Your friends who install Mailbird, will get [bold]1 full month[/bold] of Mailbird Business for [bold]FREE[/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Business
-Pay Once FREE</value>
+    <value>Get Mailbird Business 
+Pay Once (a $399 value) for FREE</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="InviteV2_Accepted" xml:space="preserve">
@@ -8112,5 +8112,131 @@ Are you sure you want to trash the conversation?</value>
 
 Are you sure you want to trash the conversation?</value>
     <comment>Message when moving conversation to trash folder but there is draft</comment>
+  </data>
+  <data name="Message_UnsubscribedNotification" xml:space="preserve">
+    <value>You unsubscribed from [bold]{0}[/bold]</value>
+    <comment>Message after user unsubscribed from email</comment>
+  </data>
+  <data name="EmailTracking_Disable" xml:space="preserve">
+    <value>Disable Email Tracking</value>
+    <comment>Tooltip to disable email tracking</comment>
+  </data>
+  <data name="EmailTracking_Enable" xml:space="preserve">
+    <value>Enable Email Tracking</value>
+    <comment>Tooltip to enable email tracking</comment>
+  </data>
+  <data name="Options_EmailTracking" xml:space="preserve">
+    <value>Enable Email Tracking by default</value>
+    <comment>Option to turn on Email Tracking by default</comment>
+  </data>
+  <data name="Conversation_HasAttachments" xml:space="preserve">
+    <value>Has attachments</value>
+    <comment>Tooltip for attachment indicator in conversation</comment>
+  </data>
+  <data name="EmailTracking_TooltipPending" xml:space="preserve">
+    <value>{0} pending</value>
+    <comment>Header to show counter of how many people who haven't opened the email</comment>
+  </data>
+  <data name="EmailTracking_TooltipOpen" xml:space="preserve">
+    <value>{0} open</value>
+    <comment>Tooltip for showing how many people have opened the message</comment>
+  </data>
+  <data name="EmailTracking_TooltipOpenPlural" xml:space="preserve">
+    <value>{0} opens</value>
+    <comment>Tooltip for showing how many people have opened the message</comment>
+  </data>
+  <data name="Options_EmailTrackingHeader" xml:space="preserve">
+    <value>Email Tracking</value>
+    <comment>Section in settings window for Email Tracking</comment>
+  </data>
+  <data name="Options_BusinessFeatureExplanation" xml:space="preserve">
+    <value>This setting requires a Mailbird Business license.</value>
+    <comment>Explanation when feature is only available on Mailbird Business</comment>
+  </data>
+  <data name="UpgradeToPro_TitleBusiness" xml:space="preserve">
+    <value>Purchase Mailbird Business now!</value>
+    <comment>Title in upgrade to pro window</comment>
+  </data>
+  <data name="Upgrade_EmailTracking" xml:space="preserve">
+    <value>Purchase Mailbird Business to use unlimited Email Tracking.</value>
+    <comment>Feature description</comment>
+  </data>
+  <data name="Attachment_SaveAttachment" xml:space="preserve">
+    <value>Save attachment as...</value>
+    <comment>Menu item to save all attchments</comment>
+  </data>
+  <data name="Attachment_SaveAttachmentPlural" xml:space="preserve">
+    <value>Save all attachments as...</value>
+    <comment>Menu item to save all attchments</comment>
+  </data>
+  <data name="Message_SaveAttachmentPlural" xml:space="preserve">
+    <value>Save attachments</value>
+    <comment>Tooltip to save attachments</comment>
+  </data>
+  <data name="EmailTracking_TooltipError" xml:space="preserve">
+    <value>{0} error</value>
+    <comment>Tooltip for showing how many error</comment>
+  </data>
+  <data name="EmailTracking_TooltipErrorPlural" xml:space="preserve">
+    <value>{0} errors</value>
+    <comment>Tooltip for showing how many error</comment>
+  </data>
+  <data name="EmailTracking_StatusError" xml:space="preserve">
+    <value>Error</value>
+    <comment>Label for when there is error on email tracking</comment>
+  </data>
+  <data name="EmailTracking_ErrorExplanation" xml:space="preserve">
+    <value>{0} recipient did not receive the message due to error.
+You can try re-sending it to them, or ignore the error to remove them as recipient and mark the message as sent.</value>
+    <comment>Message when there is error on sending email with tracking</comment>
+  </data>
+  <data name="EmailTracking_ErrorExplanationPlural" xml:space="preserve">
+    <value>{0} recipients did not receive the message due to error.
+You can try re-sending it to them, or ignore the errors to remove them as recipients and mark the message as sent.</value>
+    <comment>Message when there is error on sending email with tracking</comment>
+  </data>
+  <data name="EmailTracking_Ignore" xml:space="preserve">
+    <value>Ignore</value>
+    <comment>Button to ignore error on email tracking</comment>
+  </data>
+  <data name="EmailTracking_StatusPending" xml:space="preserve">
+    <value>Pending</value>
+    <comment>Label for when email is not opened</comment>
+  </data>
+  <data name="EmailTracking_Recipient" xml:space="preserve">
+    <value>Recipient</value>
+    <comment>Header for recipients in the email tracking list</comment>
+  </data>
+  <data name="EmailTracking_Resend" xml:space="preserve">
+    <value>Re-send</value>
+    <comment>Button to re-send message with error </comment>
+  </data>
+  <data name="EmailTracking_Undelivered" xml:space="preserve">
+    <value>Undelivered ({0})</value>
+    <comment>Label for undelivered recipients</comment>
+  </data>
+  <data name="EmailTracking_Opened" xml:space="preserve">
+    <value>Opened</value>
+    <comment>Header for recipients list for opened at column</comment>
+  </data>
+  <data name="EmailTracking_RecipientPlural" xml:space="preserve">
+    <value>Recipients</value>
+    <comment>Header for recipients in the email tracking list</comment>
+  </data>
+  <data name="EmailTracking_TooltipSent" xml:space="preserve">
+    <value>{0} sent</value>
+    <comment>Header to show counter of how many tracking sent</comment>
+  </data>
+  <data name="EmailTracking_LimitedTrackingExplanation" xml:space="preserve">
+    <value>Email tracking is not fully supported by the sending server.</value>
+    <comment>Explanation when email tracking is not fully supported</comment>
+  </data>
+  <data name="EmailTracking_UnknownRecipient" xml:space="preserve">
+    <value>Unknown</value>
+    <comment>Label when the recipient is unknown in limited email tracking</comment>
+  </data>
+  <data name="EmailTracking_NoOpens" xml:space="preserve">
+    <value>No one has opened the email.</value>
+    <comment>Message when no one has opened email in the email tracking list</comment>
   </data>
 </root>
