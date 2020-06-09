@@ -1351,7 +1351,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Save</comment>
   </data>
   <data name="Message_SaveAttachment" xml:space="preserve">
-    <value>Save attachment</value>
+    <value>Uložit přílohu</value>
     <comment>Save attachment(s)</comment>
   </data>
   <data name="Message_Send" xml:space="preserve">
@@ -2771,7 +2771,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart required</comment>
   </data>
   <data name="Support_SubmitTicket" xml:space="preserve">
-    <value>Submit a request</value>
+    <value>Odeslat žádost</value>
     <comment>Submit request</comment>
   </data>
   <data name="WebBrowser_Home" xml:space="preserve">
@@ -7898,7 +7898,7 @@ Your normal version of Mailbird is unaffected but this version will start as a n
   <data name="Unsubscribe_DialogRedirect" xml:space="preserve">
     <value>Chcete přestat dostávat podobné zprávy od {0}?
 
-Pokud ano, budete přesměrováni na na stránku s odhlášením odběru.</value>
+Pokud ano, budete přesměrováni na stránku s odhlášením odběru.</value>
     <comment>Explanation on confirmation dialog when unsubscribing from newsletter</comment>
   </data>
   <data name="Unsubscribe_Unsubscribe" xml:space="preserve">
@@ -8114,80 +8114,80 @@ Opravdu chcete konverzaci smazat?</value>
     <comment>Message when moving conversation to trash folder but there is draft</comment>
   </data>
   <data name="Message_UnsubscribedNotification" xml:space="preserve">
-    <value>You unsubscribed from [bold]{0}[/bold]</value>
+    <value>Odhlásili jste se od [bold]{0}[/bold]</value>
     <comment>Message after user unsubscribed from email</comment>
   </data>
   <data name="EmailTracking_Disable" xml:space="preserve">
-    <value>Disable Email Tracking</value>
+    <value>Zakázat sledování e-mailů</value>
     <comment>Tooltip to disable email tracking</comment>
   </data>
   <data name="EmailTracking_Enable" xml:space="preserve">
-    <value>Enable Email Tracking</value>
+    <value>Povolit sledování e-mailů</value>
     <comment>Tooltip to enable email tracking</comment>
   </data>
   <data name="Options_EmailTracking" xml:space="preserve">
-    <value>Enable Email Tracking by default</value>
+    <value>Povolit sledování e-mailů ve výchozím nastavení</value>
     <comment>Option to turn on Email Tracking by default</comment>
   </data>
   <data name="Conversation_HasAttachments" xml:space="preserve">
-    <value>Has attachments</value>
+    <value>Obsahuje přílohy</value>
     <comment>Tooltip for attachment indicator in conversation</comment>
   </data>
   <data name="EmailTracking_TooltipPending" xml:space="preserve">
-    <value>{0} pending</value>
+    <value>{0} čekající</value>
     <comment>Header to show counter of how many people who haven't opened the email</comment>
   </data>
   <data name="EmailTracking_TooltipOpen" xml:space="preserve">
-    <value>{0} open</value>
+    <value>{0} otevřeno</value>
     <comment>Tooltip for showing how many people have opened the message</comment>
   </data>
   <data name="EmailTracking_TooltipOpenPlural" xml:space="preserve">
-    <value>{0} opens</value>
+    <value>{0} otevřeno</value>
     <comment>Tooltip for showing how many people have opened the message</comment>
   </data>
   <data name="Options_EmailTrackingHeader" xml:space="preserve">
-    <value>Email Tracking</value>
+    <value>Sledování e-mailů</value>
     <comment>Section in settings window for Email Tracking</comment>
   </data>
   <data name="Options_BusinessFeatureExplanation" xml:space="preserve">
-    <value>This setting requires a Mailbird Business license.</value>
+    <value>Toto nastavení vyžaduje licenci Mailbird Business.</value>
     <comment>Explanation when feature is only available on Mailbird Business</comment>
   </data>
   <data name="UpgradeToPro_TitleBusiness" xml:space="preserve">
-    <value>Purchase Mailbird Business now!</value>
+    <value>Kupte si Mailbird Business hned teď!</value>
     <comment>Title in upgrade to pro window</comment>
   </data>
   <data name="Upgrade_EmailTracking" xml:space="preserve">
-    <value>Purchase Mailbird Business to use unlimited Email Tracking.</value>
+    <value>Kup Mailbird Business pro použití neomezeného sledování e-mailů.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Attachment_SaveAttachment" xml:space="preserve">
-    <value>Save attachment as...</value>
+    <value>Uložit přílohu jako ..</value>
     <comment>Menu item to save all attchments</comment>
   </data>
   <data name="Attachment_SaveAttachmentPlural" xml:space="preserve">
-    <value>Save all attachments as...</value>
+    <value>Uložit všechny přílohy jako ..</value>
     <comment>Menu item to save all attchments</comment>
   </data>
   <data name="Message_SaveAttachmentPlural" xml:space="preserve">
-    <value>Save attachments</value>
+    <value>Uložit přílohy</value>
     <comment>Tooltip to save attachments</comment>
   </data>
   <data name="EmailTracking_TooltipError" xml:space="preserve">
-    <value>{0} error</value>
+    <value>{0} chyba</value>
     <comment>Tooltip for showing how many error</comment>
   </data>
   <data name="EmailTracking_TooltipErrorPlural" xml:space="preserve">
-    <value>{0} errors</value>
+    <value>{0} chyb</value>
     <comment>Tooltip for showing how many error</comment>
   </data>
   <data name="EmailTracking_StatusError" xml:space="preserve">
-    <value>Error</value>
+    <value>Chyba</value>
     <comment>Label for when there is error on email tracking</comment>
   </data>
   <data name="EmailTracking_ErrorExplanation" xml:space="preserve">
-    <value>{0} recipient did not receive the message due to error.
-You can try re-sending it to them, or ignore the error to remove them as recipient and mark the message as sent.</value>
+    <value>{0} příjemce neobdržel zprávu z důvodu chyby.
+Můžete ji zkusit znovu odeslat, nebo chybu ignorovat pro odstranění ho jako příjemce a označit zprávu jako odeslanou.</value>
     <comment>Message when there is error on sending email with tracking</comment>
   </data>
   <data name="EmailTracking_ErrorExplanationPlural" xml:space="preserve">
