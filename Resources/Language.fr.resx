@@ -5791,7 +5791,7 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
   <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose version and payment plan:</value>
+    <value>Choose your Mailbird plan:</value>
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
   <data name="NewMessage_NewMessageSingular" xml:space="preserve">
@@ -8020,7 +8020,7 @@ If Mailbird is not running at the scheduled time the message will not send, but 
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
-    <value>All accounts</value>
+    <value>Unified accounts</value>
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
   <data name="Invite_FailedSendInvitation" xml:space="preserve">
@@ -8192,7 +8192,7 @@ Are you sure you want to trash the conversation?</value>
   </data>
   <data name="EmailTracking_ErrorExplanation" xml:space="preserve">
     <value>{0} recipient did not receive the message due to error.
-You can try re-sending it to them, or ignore the error to remove them as recipient and mark the message as sent.</value>
+You can try re-sending it to them, or ignore the errors to remove them as recipients and mark the message as sent.</value>
     <comment>Message when there is error on sending email with tracking</comment>
   </data>
   <data name="EmailTracking_ErrorExplanationPlural" xml:space="preserve">
@@ -8243,5 +8243,35 @@ You can try re-sending it to them, or ignore the errors to remove them as recipi
   <data name="EmailTracking_NoOpens" xml:space="preserve">
     <value>No one has opened the email.</value>
     <comment>Message when no one has opened email in the email tracking list</comment>
+  </data>
+  <data name="App_Referral_Description" xml:space="preserve">
+    <value>Invite your friends and get Mailbird Business Pay Once (a $399 value) for FREE</value>
+    <comment>Description of referral app shown in apps store section</comment>
+  </data>
+  <data name="App_Referral_Title" xml:space="preserve">
+    <value>Invite friends</value>
+    <comment>Title of referral app shown in apps store section</comment>
+  </data>
+  <data name="Notification_EmailTrackingIntroHeader" xml:space="preserve">
+    <value>Introducing 'Email Tracking'</value>
+    <comment>Header when first time sending email with Email Tracking</comment>
+  </data>
+  <data name="Notification_EmailTrackingIntroMessage" xml:space="preserve">
+    <value>You've just sent your first tracked message!
+
+Mailbird will now be able to show when your email is opened by the recipients. You can check the open status of the email, both in the message or the conversation. Select the Sent folder now to see the status of the message.
+
+[bold]Important:[/bold] Some recipients may block email tracking, therefore their status will remain "pending".</value>
+    <comment>Message when first time sending email with Email Tracking</comment>
+  </data>
+  <data name="Tips_New" xml:space="preserve">
+    <value>New</value>
+    <comment>New badge for tips</comment>
+  </data>
+  <data name="Dialog_OAuth2AuthorizationError_PortInUse" xml:space="preserve">
+    <value>Mailbird was unable to authorize with the server due to port {0} on your machine being inaccessible.
+
+Please ensure nothing is using or blocking port {0} and try again.</value>
+    <comment>Message shown when failing to authorize using OAuth2 due to the port used being inaccessible.</comment>
   </data>
 </root>
