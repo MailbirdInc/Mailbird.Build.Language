@@ -2458,7 +2458,7 @@ Message: {0}</comment>
   <data name="Invite_SentExplanation" xml:space="preserve">
     <value>Ottimo lavoro con gli inviti ai tuoi amici. Ma non fermarti qui!
 
-Ti serve che 4 amici installino Mailbird per sbloccare GRATIS per sempre Mailbird Business (valore di quasi 400 €).
+Ti serve che 4 amici installino Mailbird per sbloccare GRATIS per sempre Mailbird Business (valore di 400 $).
 
 Quando i tuoi amici installano Mailbird, devono semplicemente inserire il codice di invito per ottenere un mese di Mailbird Business GRATIS.</value>
     <comment>Thanks for inviting!</comment>
@@ -4430,7 +4430,7 @@ Please select another image to use as a background.</comment>
 
 Tieni a mente che c'è un limite di una ricompensa per ciascun indirizzo email, sia per chi invita che per chi viene invitato. Quando {0} o più amici installano Mailbird tramite un tuo invito:
 
-1. Tu ottieni [bold]Mailbird Business GRATIS per sempre (valore di $399)[/bold] 
+1. Tu ottieni [bold]Mailbird Business GRATIS per sempre (valore di 399 $)[/bold] 
 
 2. I tuoi amici che installano Mailbird otterranno [bold]1 mese[/bold] di Mailbird Business [bold]GRATIS[/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
@@ -5786,7 +5786,7 @@ Riavvia subito per applicare i miglioramenti, ci vorrà un secondo.</value>
     <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
   <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose your Mailbird plan:</value>
+    <value>Scegli il tuo piano Mailbird:</value>
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
   <data name="NewMessage_NewMessageSingular" xml:space="preserve">
@@ -8015,7 +8015,7 @@ Se Mailbird non è in esecuzione all'orario previsto, il messaggio non sarà inv
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
-    <value>Unified accounts</value>
+    <value>Tutti gli account</value>
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
   <data name="Invite_FailedSendInvitation" xml:space="preserve">
@@ -8186,8 +8186,8 @@ Sei sicuro di voler spostare la conversazione nel cestino?</value>
     <comment>Label for when there is error on email tracking</comment>
   </data>
   <data name="EmailTracking_ErrorExplanation" xml:space="preserve">
-    <value>{0} recipient did not receive the message due to error.
-You can try re-sending it to them, or ignore the errors to remove them as recipients and mark the message as sent.</value>
+    <value>{0} destinatario non ha ricevuto il messaggio per via di un errore.
+Puoi provare a inviarlo di nuovo oppure ignorare l'errore, rimuovendo il destinatario e segnando il messaggio come inviato.</value>
     <comment>Message when there is error on sending email with tracking</comment>
   </data>
   <data name="EmailTracking_ErrorExplanationPlural" xml:space="preserve">
@@ -8240,33 +8240,33 @@ Puoi provare a inviarlo di nuovo oppure ignorare l'errore, rimuovendo i destinat
     <comment>Message when no one has opened email in the email tracking list</comment>
   </data>
   <data name="App_Referral_Description" xml:space="preserve">
-    <value>Invite your friends and get Mailbird Business Pay Once (a $399 value) for FREE</value>
+    <value>Invita i tuoi amici e ottieni Mailbird Business GRATIS per sempre (valore di 399 $)</value>
     <comment>Description of referral app shown in apps store section</comment>
   </data>
   <data name="App_Referral_Title" xml:space="preserve">
-    <value>Invite friends</value>
+    <value>Invita gli amici</value>
     <comment>Title of referral app shown in apps store section</comment>
   </data>
   <data name="Notification_EmailTrackingIntroHeader" xml:space="preserve">
-    <value>Introducing 'Email Tracking'</value>
+    <value>Ora disponibile: 'Tracciamento email'</value>
     <comment>Header when first time sending email with Email Tracking</comment>
   </data>
   <data name="Notification_EmailTrackingIntroMessage" xml:space="preserve">
-    <value>You've just sent your first tracked message!
+    <value>Hai appena inviato il tuo primo messaggio tracciabile!
 
-Mailbird will now be able to show when your email is opened by the recipients. You can check the open status of the email, both in the message or the conversation. Select the Sent folder now to see the status of the message.
+Ora Mailbird potrà indicarti quando l'email è stata aperta dai destinatari. Puoi controllare lo stato di apertura dell'email nel messaggio oppure nella conversazione. Seleziona la cartella Posta inviata ora per vedere lo stato del messaggio.
 
-[bold]Important:[/bold] Some recipients may block email tracking, therefore their status will remain "pending".</value>
+[bold]Importante:[/bold] Alcuni destinatari potrebbero bloccare il tracciamento delle email, per cui lo stato potrebbe restare "In attesa".</value>
     <comment>Message when first time sending email with Email Tracking</comment>
   </data>
   <data name="Tips_New" xml:space="preserve">
-    <value>New</value>
+    <value>Novità</value>
     <comment>New badge for tips</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_PortInUse" xml:space="preserve">
-    <value>Mailbird was unable to authorize with the server due to port {0} on your machine being inaccessible.
+    <value>Mailbird non è riuscita a completare l'autorizzazione con il server perché la porta di rete {0} del tuo computer è inaccessibile.
 
-Please ensure nothing is using or blocking port {0} and try again.</value>
+Assicurati che la porta {0} non sia in uso o bloccata e riprova.</value>
     <comment>Message shown when failing to authorize using OAuth2 due to the port used being inaccessible.</comment>
   </data>
 </root>
