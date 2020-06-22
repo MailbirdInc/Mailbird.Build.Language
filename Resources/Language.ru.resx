@@ -7387,7 +7387,7 @@ If you wish to continue using Mailbird you can purchase a license below or enter
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
-    <value>(paid annually)</value>
+    <value>(pay annually)</value>
     <comment>Text to explain the payment is annually.</comment>
   </data>
   <data name="UpgradeToPro_PayOnce" xml:space="preserve">
@@ -8272,5 +8272,34 @@ Please ensure nothing is using or blocking port {0} and try again.</value>
   <data name="Options_RetrievingLicense" xml:space="preserve">
     <value>Retrieving license status</value>
     <comment>Message when app is retrieving license status from server</comment>
+  </data>
+  <data name="Upgrade_SprintUpgrade" xml:space="preserve">
+    <value>Get Advanced Search, Unsubscribe Button, Send Later, Email Tracking and many more.</value>
+    <comment>Message when lite users try accessing pro features</comment>
+  </data>
+  <data name="Announcement_LiteSprintUpgrade" xml:space="preserve">
+    <value>IMPORTANT</value>
+    <comment>Title for announcement window for lite user</comment>
+  </data>
+  <data name="Announcement_LiteSprintUpgradeDismiss" xml:space="preserve">
+    <value>Dismiss offer and close window</value>
+    <comment>Button to close the announcement window</comment>
+  </data>
+  <data name="Announcement_LiteSprintUpgradeExplanation" xml:space="preserve">
+    <value>As of today you will no longer be able to access the following features for free:  [bold]Advanced Search[/bold], [bold]Unsubscribe button[/bold], [bold]Send Later[/bold], and [bold]Email Tracking[/bold].
+
+You have the following options to continue:
+1. Get Mailbird Business Pay Once for free using our Referral Program
+2. Upgrade to Mailbird Personal or Mailbird Business and get 50% off
+3. Use Mailbird Lite as it was before the 12-week sprint.</value>
+    <comment>Body for announcement window for lite user</comment>
+  </data>
+  <data name="Announcement_LiteSprintUpgradePurchase" xml:space="preserve">
+    <value>Get 50% off Mailbird now</value>
+    <comment>Button to purchase Mailbird</comment>
+  </data>
+  <data name="Announcement_LiteSprintUpgradeSubHeader" xml:space="preserve">
+    <value>Your unlimited access to all Mailbird features has come to an end</value>
+    <comment>Subheader for announcement window for lite user</comment>
   </data>
 </root>
