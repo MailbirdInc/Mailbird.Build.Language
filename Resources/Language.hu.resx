@@ -2186,11 +2186,11 @@ We will never post anything to Facebook.</comment>
     <comment>Server type:</comment>
   </data>
   <data name="Welcome_SettingsFoundTitle" xml:space="preserve">
-    <value>Beállításokat találtunk</value>
+    <value>Észlelt beállítások</value>
     <comment>Settings found</comment>
   </data>
   <data name="Welcome_SettingsNotFoundSubTitle" xml:space="preserve">
-    <value>Nem találtunk beállításokat a fiókban. Meg kell adni a szükséges információkat az alábbiakban.</value>
+    <value>Nem sikerült beállításokat találni a fiókhoz. Meg kell adni a szükséges információkat az alábbiakban.</value>
     <comment>We were unable to find settings for your account. Please input the required information below.</comment>
   </data>
   <data name="Welcome_SettingsNotFoundTitle" xml:space="preserve">
@@ -2336,7 +2336,7 @@ Path: {0}</comment>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
-    <value>Az fiókhoz tartozó kimenő beállításokat tartalmazó azonosítás</value>
+    <value>Az fiókhoz tartozó kimenő beállításokat tartalmazó azonosítás.</value>
     <comment>The identity containing the outgoing settings for this account</comment>
   </data>
   <data name="Contact_LinkedInLookup" xml:space="preserve">
@@ -2456,7 +2456,7 @@ Message: {0}</comment>
     <comment>Invitations sent</comment>
   </data>
   <data name="Invite_SentExplanation" xml:space="preserve">
-    <value>Nagyszerű munka az ismerősök meghívása a  Mailbird használatához. Ne álljunk meg itt!
+    <value>Nagyszerű munka az ismerősök meghívása a Mailbird használatához. Ne álljunk meg itt!
 
 4 ismerősre van szükség a Mailbird telepítéséhez és az INGYENES Mailbird Business Pay nevű egyszeri jutalom kinyitásához (400 dolláros értékben).
 
@@ -3458,7 +3458,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Share performance and usage data</comment>
   </data>
   <data name="Options_SoftwareRenderingExplanation" xml:space="preserve">
-    <value>Vegyük ki a jelölést, ha ha olyan furcsa megjelenítést tapasztalunk mint a pixelek pixelizálása vagy színváltása, és ezt a grafikus kártya illesztőprogramok frissítése nem javítja ki.</value>
+    <value>Vegyük ki a jelölést, ha olyan furcsa megjelenítést tapasztalunk mint a betűk pixelesedése vagy színváltása, és ezt a grafikus kártya illesztőprogramok frissítése nem javítja ki.</value>
     <comment>Check this if you experience strange display issues such as letters being pixelated or changing color, and updating your graphic card drivers does not fix it.
 
 Note that enabling this will in most cases result in worse interface performance and higher CPU usage. In rare cases however, with low-end graphic cards, it may improve performance.</comment>
@@ -4350,7 +4350,7 @@ the final result will be: Search Google for "query"</comment>
     <comment>Background</comment>
   </data>
   <data name="Upgrade_CustomCover" xml:space="preserve">
-    <value>Frissítés most az egyedi egyedi borítók engedélyezéséhez.</value>
+    <value>Frissítés most az egyedi borítók engedélyezéséhez.</value>
     <comment>Upgrade now to enable custom covers.</comment>
   </data>
   <data name="Tips_Failed" xml:space="preserve">
@@ -7987,7 +7987,7 @@ Egyébként akkor kerül elküldésre, amikor a Mailbird ismét kapcsolódik a z
     <comment>Explanation on scheduled feature</comment>
   </data>
   <data name="Scheduled_SendLaterAt" xml:space="preserve">
-    <value>Küldés később:</value>
+    <value>Küldés később</value>
     <comment>Header on send later control</comment>
   </data>
   <data name="Scheduled_SendLater" xml:space="preserve">
@@ -8015,7 +8015,7 @@ Ha a Mailbird nem fut az ütemezett időpontban, akkor az üzenet nem kerül elk
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
-    <value>Unified accounts</value>
+    <value>Egyesített fiókok</value>
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
   <data name="Invite_FailedSendInvitation" xml:space="preserve">
