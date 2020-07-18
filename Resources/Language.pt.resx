@@ -4043,7 +4043,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>O tipo de autenticação a utilizar. O OAuth 2.0 só funciona com contas Google e Yahoo.</value>
+    <value>The type of authentication to use. OAuth 2.0 only works with Google, Yahoo and Microsoft 365 accounts.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -4310,7 +4310,7 @@ the final result will be: Search Google for "query"</comment>
     <comment>Print...</comment>
   </data>
   <data name="WebControl_OpenLink" xml:space="preserve">
-    <value>Abrir ligação</value>
+    <value>Open link in browser</value>
     <comment>Open link</comment>
   </data>
   <data name="WelcomeMessage_Afternoon" xml:space="preserve">
@@ -8301,5 +8301,29 @@ Tem as seguintes opções para continuar:
   <data name="Announcement_LiteSprintUpgradeSubHeader" xml:space="preserve">
     <value>O seu acesso ilimitado a todas as funcionalidades do Mailbird chegou ao fim</value>
     <comment>Subheader for announcement window for lite user</comment>
+  </data>
+  <data name="Options_TextFormattingExplanation" xml:space="preserve">
+    <value>Change this value when you experience blurriness when scaling.</value>
+    <comment>Explanation for text formatting mode preference</comment>
+  </data>
+  <data name="Options_TextFormattingMode" xml:space="preserve">
+    <value>Text formatting mode</value>
+    <comment>Section in settings for text formatting mode</comment>
+  </data>
+  <data name="TextFormattingPreference_Auto" xml:space="preserve">
+    <value>Auto</value>
+    <comment>Settings for text formatting preference</comment>
+  </data>
+  <data name="TextFormattingPreference_Display" xml:space="preserve">
+    <value>Display</value>
+    <comment>Settings for text formatting preference</comment>
+  </data>
+  <data name="TextFormattingPreference_Ideal" xml:space="preserve">
+    <value>Ideal</value>
+    <comment>Settings for text formatting preference</comment>
+  </data>
+  <data name="MailEditorFormattingBar_RecentlyUsed" xml:space="preserve">
+    <value>Recently used</value>
+    <comment>Header for list of recently used spellcheck language</comment>
   </data>
 </root>
