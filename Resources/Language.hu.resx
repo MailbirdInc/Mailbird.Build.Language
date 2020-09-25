@@ -1351,7 +1351,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Save</comment>
   </data>
   <data name="Message_SaveAttachment" xml:space="preserve">
-    <value>Save attachment</value>
+    <value>Melléklet mentése</value>
     <comment>Save attachment(s)</comment>
   </data>
   <data name="Message_Send" xml:space="preserve">
@@ -2768,7 +2768,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart required</comment>
   </data>
   <data name="Support_SubmitTicket" xml:space="preserve">
-    <value>Submit a request</value>
+    <value>Kérés beküldése</value>
     <comment>Submit request</comment>
   </data>
   <data name="WebBrowser_Home" xml:space="preserve">
@@ -4043,7 +4043,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. OAuth 2.0 only works with Google, Microsoft 365 and Yahoo accounts.</value>
+    <value>A használandó hitelesítő típus. Az OAuth 2.0 csak a Google, a Microsoft 365 és a Yahoo fiókoknál működik.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -4310,7 +4310,7 @@ the final result will be: Search Google for "query"</comment>
     <comment>Print...</comment>
   </data>
   <data name="WebControl_OpenLink" xml:space="preserve">
-    <value>Open link in browser</value>
+    <value>Hivatkozás megnyitása böngészőben</value>
     <comment>Open link</comment>
   </data>
   <data name="WelcomeMessage_Afternoon" xml:space="preserve">
@@ -4426,18 +4426,18 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Invite your friends from your primary email account, this is the default email account in your Mailbird. Invite as many friends as you want! 
+    <value>Ismerősök meghívása az elsődleges email fiókból, ez az alapértelmezett email fiók Mailbird alkalmazásban. Bármennyi ismerős meghívható.
 
-Please note there is a limit of 1 reward per email address for both referrer and referee. When {0} or more of your friends install Mailbird from your invite:
+Felhívjuk figyelmet, hogy e-mail címenként 1 jutalom a korlát a hivatkozó és a hivatkozott számára egyaránt. Amikor {0} vagy több ismerős telepíti a Mailbird programot a meghívóból:
 
-1. You get [bold]Mailbird Business Pay Once (a $399 value) for FREE[/bold] 
+1. [bold]Mailbird Business egyszer fizetős csomagot kapunk ($399 vértékben) DÍJMENTESEN[/bold] 
 
-2. Your friends who install Mailbird, will get [bold]1 full month[/bold] of Mailbird Business for [bold]FREE[/bold]</value>
+2. A Mailbird alkalmazást telepítő ismerősök [bold]1 teljes havi[/bold] Mailbird Business csomagot kapnak [bold]DÍJMENTESEN[/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Business 
-Pay Once (a $399 value) for FREE</value>
+    <value>Mailbird Business 
+egyszer fizetős csomag beszerzése ($399 értékben) DÍJMENTESEN</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="InviteV2_Accepted" xml:space="preserve">
@@ -4591,31 +4591,31 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
-    <value>Add referral code</value>
+    <value>Hivatkozó kód hozzáadása</value>
     <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Referral code...</value>
+    <value>Hivatkozó kód...</value>
     <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Enter the referral code below or skip this step.</value>
+    <value>A hivatkozó kód megadása lentebb vagy a lépés kihagyása.</value>
     <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Have a referral code?</value>
+    <value>Van hivatkozó kód?</value>
     <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>You've already used this referral code.</value>
+    <value>A hivatkozó kód már használatban van.</value>
     <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>Referral code is not valid.</value>
+    <value>A hivatkozó kód érvénytelen.</value>
     <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Referral code can only be used by new users.</value>
+    <value>A hivatkozó kód csak új felhasználóknál használható.</value>
     <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
@@ -5786,7 +5786,7 @@ Indítsuk újra most a legújabb fejlesztések és javítások eléréséhez - c
     <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
   <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose your Mailbird plan:</value>
+    <value>Mailbird csomag választás:</value>
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
   <data name="NewMessage_NewMessageSingular" xml:space="preserve">
@@ -7387,7 +7387,7 @@ A Mailbird további használatához egy licenszet kell megvásárolni vagy meg k
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
-    <value>(pay annually)</value>
+    <value>(éves fizetés)</value>
     <comment>Text to explain the payment is annually.</comment>
   </data>
   <data name="UpgradeToPro_PayOnce" xml:space="preserve">
@@ -7726,11 +7726,11 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Windows title of create filter window</comment>
   </data>
   <data name="Notification_FilterExecutedMany" xml:space="preserve">
-    <value>A szűrő {0} beszélgetésnél kerül alkalmazásra.</value>
+    <value>A szűrő {0} beszélgetésnél került alkalmazásra.</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
-    <value>A szűrő egy beszélgetésnél kerül alkalmazásra.</value>
+    <value>A szűrő egy beszélgetésnél került alkalmazásra.</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
@@ -8182,8 +8182,8 @@ Biztosan a lomtárba kerüljön a beszélgetés?</value>
     <comment>Label for when there is error on email tracking</comment>
   </data>
   <data name="EmailTracking_ErrorExplanation" xml:space="preserve">
-    <value>{0} recipient did not receive the message due to error.
-You can try re-sending it to them, or ignore the errors to remove them as recipients and mark the message as sent.</value>
+    <value>{0} címzett nem kapta meg az üzenetet hiba folytán.
+Megpróbálható az ismételt elküldés vagy a hibák figyelmen kívül hagyása címzettként és az üzenet elküldöttnek megjelölése.</value>
     <comment>Message when there is error on sending email with tracking</comment>
   </data>
   <data name="EmailTracking_ErrorExplanationPlural" xml:space="preserve">
@@ -8236,7 +8236,7 @@ Megpróbálhatjuk ismét elküldeni ezt vagy a hibát figyelmen kívül hagyva e
     <comment>Message when no one has opened email in the email tracking list</comment>
   </data>
   <data name="App_Referral_Description" xml:space="preserve">
-    <value>Ismerősök meghívása és a Mailbird Business verzió egyszeri beszerzése (399 dollár értékben) INGEYENESEN.</value>
+    <value>Ismerősök meghívása és a Mailbird Business egyszeri fizetős verzió beszerzése (399 dollár értékben) DÍJMENTESEN.</value>
     <comment>Description of referral app shown in apps store section</comment>
   </data>
   <data name="App_Referral_Title" xml:space="preserve">
@@ -8363,51 +8363,51 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
     <comment>Shown in edit server settings window under authentication field</comment>
   </data>
   <data name="Welcome_OAuth2OutlookNotSupported" xml:space="preserve">
-    <value>OAuth 2.0 is not supported for personal Outlook accounts. Please switch to username and password.</value>
+    <value>Az OAuth 2.0 nem támogatott a személyes Outlook fiókoknál. Kapcsoljunk át a felhasználó névre és jelszóra.</value>
     <comment>Error shown when trying to use OAuth2 with personal Outlook account</comment>
   </data>
   <data name="Announcement_HigherTierDiscount" xml:space="preserve">
-    <value>Get 50% - 90% OFF</value>
+    <value>50% - 90% kedvezmény beszerzése</value>
     <comment>Banner discount</comment>
   </data>
   <data name="Announcement_HigherTierFeatureAppIntegrations" xml:space="preserve">
-    <value>App Integrations</value>
+    <value>Alkalmazás integrációk</value>
     <comment>Feature name: app integrations</comment>
   </data>
   <data name="Announcement_HigherTierFeatureEmailTracking" xml:space="preserve">
-    <value>Email Tracking</value>
+    <value>Email nyomkövetés</value>
     <comment>Feature name: email tracking</comment>
   </data>
   <data name="Announcement_HigherTierHeader" xml:space="preserve">
-    <value>Your Mailbird loyalty is being rewarded!</value>
+    <value>A Mailbird hűség díjazásra kerül!</value>
     <comment>Header in promotion</comment>
   </data>
   <data name="Announcement_HigherTierLastChance" xml:space="preserve">
-    <value>LAST CHANCE</value>
+    <value>UTOLSÓ LEHETŐSÉG</value>
     <comment>Header in reminder</comment>
   </data>
   <data name="Announcement_HigherTierNoThanks" xml:space="preserve">
-    <value>No thanks</value>
+    <value>Nem, köszönöm.</value>
     <comment>Button to close</comment>
   </data>
   <data name="Announcement_HigherTierPayonce" xml:space="preserve">
-    <value>Don't want Mailbird Business? Upgrade to the Personal Pay Once license instead.</value>
+    <value>Nem szeretnénk Mailbird Business csomagot? Térjünk át a a Személyes egyszeri fizetés licenszre helyette.</value>
     <comment>Text footer explanation</comment>
   </data>
   <data name="Announcement_HigherTierRemindMe" xml:space="preserve">
-    <value>Remind me later!</value>
+    <value>Emlékeztetés később!</value>
     <comment>Button label to remind later</comment>
   </data>
   <data name="Announcement_HigherTierSubHeader" xml:space="preserve">
-    <value>The longer you have used Mailbird, the higher your individual discount.</value>
+    <value>Minél hosszabb ideig használjuk a Mailbird alkalmazást, annál nagyobb az egyedi kedvezmény.</value>
     <comment>Subheader in promotion</comment>
   </data>
   <data name="Announcement_HigherTierUpgrade" xml:space="preserve">
-    <value>Upgrade to [bold]Mailbird Business[/bold] and get unlimited access to all your favorite [bold]Mailbird features[/bold] like</value>
+    <value>Áttérés a [bold]Mailbird Business[/bold] csomagra ls korlátlan hozzáférés az összes olyan kedvenc [bold]Mailbird funkcióra[/bold] mint</value>
     <comment>Description in the banner</comment>
   </data>
   <data name="Announcement_HigherTierUpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
+    <value>Áttérés most</value>
     <comment>Button label to upgrade</comment>
   </data>
 </root>
