@@ -1411,7 +1411,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Conversation already archived</comment>
   </data>
   <data name="Notification_ArchiveMany" xml:space="preserve">
-    <value>{0} beszélgetés archiválásra került.</value>
+    <value>{0} beszélgetés archiválásra került</value>
     <comment>{0} Conversations archived</comment>
   </data>
   <data name="Notification_ArchiveSingle" xml:space="preserve">
@@ -1447,7 +1447,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
-    <value>{0} beszélgetés lomtárba került.</value>
+    <value>{0} beszélgetés lomtárba került</value>
     <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
@@ -2336,7 +2336,7 @@ Path: {0}</comment>
     <comment>The preselected sender identity when composing a new message with this account selected</comment>
   </data>
   <data name="Welcome_outgoingSettingsIdentity" xml:space="preserve">
-    <value>Az fiókhoz tartozó kimenő beállításokat tartalmazó azonosítás.</value>
+    <value>Az fiókhoz tartozó kimenő beállításokat tartalmazó azonosítás</value>
     <comment>The identity containing the outgoing settings for this account</comment>
   </data>
   <data name="Contact_LinkedInLookup" xml:space="preserve">
@@ -3660,7 +3660,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Insert link</comment>
   </data>
   <data name="Shortcut_InsertLinkExplanation" xml:space="preserve">
-    <value>A link beszúrása ablak megnyitása az email összeállítása vagy az aláírás szerkesztése közben.</value>
+    <value>A link beszúrása ablak megnyitása az email összeállítása vagy az aláírás szerkesztése közben</value>
     <comment>Opens insert link window while you are composing email or editing signature</comment>
   </data>
   <data name="InboxZero_PostFacebook" xml:space="preserve">
@@ -4382,7 +4382,7 @@ Válasszunk másik képet a háttérhez.</value>
 Please select another image to use as a background.</comment>
   </data>
   <data name="Notification_FailedToRemoveBackground" xml:space="preserve">
-    <value>Failed to remove background image</value>
+    <value>A háttérkép eltávolítása meghiúsult</value>
     <comment>Failed to set remove background image</comment>
   </data>
   <data name="Options_RemoveBackground" xml:space="preserve">
@@ -6682,7 +6682,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_NoNotifications" xml:space="preserve">
-    <value>Nincs értesítés.</value>
+    <value>Nincs értesítés</value>
     <comment>Label when there are no notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllExplanation" xml:space="preserve">
@@ -6794,7 +6794,7 @@ e.g. "2 occurrences"</comment>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
-    <value>Exportálási hiba történt.</value>
+    <value>Exportálási hiba történt</value>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
@@ -6810,7 +6810,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
-    <value>Nincs esemény.</value>
+    <value>Nincs esemény</value>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
@@ -6822,7 +6822,7 @@ e.g. "2 occurrences"</comment>
     <comment>Explanation message when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_Error" xml:space="preserve">
-    <value>Importálási hiba történt.</value>
+    <value>Importálási hiba történt</value>
     <comment>Header when there was error in import process</comment>
   </data>
   <data name="App_Calendar_Import_Finished" xml:space="preserve">
@@ -7596,11 +7596,11 @@ Biztosan folytatni szretnénk a Mailbird Personal verzió megvásárlását?</va
     <comment>Header for review section in edit filter window</comment>
   </data>
   <data name="Filter_ValidationRule_Email" xml:space="preserve">
-    <value>Egy vagy több kapcsolatot hozzá kell adni.</value>
+    <value>Egy vagy több kapcsolatot hozzá kell adni</value>
     <comment>Tooltip message when contact field is empty</comment>
   </data>
   <data name="Filter_ValidationRule_EmptyValue" xml:space="preserve">
-    <value>Az érték nem lehet üres.</value>
+    <value>Az érték nem lehet üres</value>
     <comment>Tooltip message when textbox is empty</comment>
   </data>
   <data name="Filter_ValidationRule_Folder" xml:space="preserve">
@@ -7628,7 +7628,7 @@ Biztosan folytatni szretnénk a Mailbird Personal verzió megvásárlását?</va
     <comment>Button in notification to edit filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderHeader" xml:space="preserve">
-    <value>Szűrő műveleti hiba történt.</value>
+    <value>Szűrő műveleti hiba történt</value>
     <comment>Header in notification when folder is missing in filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderMessage" xml:space="preserve">
@@ -7726,11 +7726,11 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Windows title of create filter window</comment>
   </data>
   <data name="Notification_FilterExecutedMany" xml:space="preserve">
-    <value>A szűrő {0} beszélgetésnél került alkalmazásra.</value>
+    <value>A szűrő {0} beszélgetésnél került alkalmazásra</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
-    <value>A szűrő egy beszélgetésnél került alkalmazásra.</value>
+    <value>A szűrő egy beszélgetésnél került alkalmazásra</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
@@ -7742,7 +7742,7 @@ Nem mindegyik változtatás kerül szinkronizálásra a különféle Mailbird ve
     <comment>Dialog asking whether to copy data from the release version of Mailbird when starting the alpha version for the first time.</comment>
   </data>
   <data name="Dialog_ExistingInstallationDetected" xml:space="preserve">
-    <value>Létező telepítés került érzékelésre.</value>
+    <value>Létező telepítés került érzékelésre</value>
     <comment>Existing installation detected</comment>
   </data>
   <data name="Options_MailbirdAlpha" xml:space="preserve">
@@ -7766,11 +7766,11 @@ Note that since this is the "in development" version of Mailbird, issues may occ
     <comment>Sign up to be an Alpha tester</comment>
   </data>
   <data name="Dialog_StartingMailbird" xml:space="preserve">
-    <value>A Mailbird elindítása folyamatban van.</value>
+    <value>A Mailbird elindítása folyamatban van</value>
     <comment>Starting Mailbird</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingData" xml:space="preserve">
-    <value>Hiba történt a Mailbird létező adatokkal történő indításakor.</value>
+    <value>Hiba történt a Mailbird létező adatokkal történő indításakor</value>
     <comment>Error starting Mailbird with existing data</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingDataExplanation" xml:space="preserve">
@@ -7902,15 +7902,15 @@ Igen esetén átkerülünk a leiratkozás oldalra.</value>
     <comment>Button to unsubscribe from newsletter</comment>
   </data>
   <data name="Notification_UnsubscribedFromNewsletter" xml:space="preserve">
-    <value>A levelezőlistáról a leiratkozás megtörtént.</value>
+    <value>A levelezőlistáról a leiratkozás megtörtént</value>
     <comment>Message shown when unsubscribing from newsletter via mailto method</comment>
   </data>
   <data name="Notification_CopiedConversation" xml:space="preserve">
-    <value>A másolás megtörtént {0} fiókba.</value>
+    <value>A másolás megtörtént {0} fiókba</value>
     <comment>Notification shown after copying conversation to other account</comment>
   </data>
   <data name="Notification_MovedConversation" xml:space="preserve">
-    <value>Az áthelyezés megtörtént {0} fiókba.</value>
+    <value>Az áthelyezés megtörtént {0} fiókba</value>
     <comment>Notification shown after moving conversation to other account</comment>
   </data>
   <data name="MailEditorFormattingBar_InsertEmoji" xml:space="preserve">
@@ -7926,7 +7926,7 @@ Igen esetén átkerülünk a leiratkozás oldalra.</value>
     <comment>Button to insert in dialog</comment>
   </data>
   <data name="ListUnsubscribe_DefaultBody" xml:space="preserve">
-    <value>Ezt az üzenetet a Mailbird automatikusan generálta.</value>
+    <value>Ezt az üzenetet a Mailbird automatikusan generálta</value>
     <comment>Default body text of unsubscribe email message</comment>
   </data>
   <data name="Shortcut_Left" xml:space="preserve">
@@ -7962,7 +7962,7 @@ Igen esetén átkerülünk a leiratkozás oldalra.</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_PassedTimeError" xml:space="preserve">
-    <value>Jövőbeni időpontot kell beállítani.</value>
+    <value>Jövőbeni időpontot kell beállítani</value>
     <comment>Message when date time already passed</comment>
   </data>
   <data name="Scheduled_ScheduleLabel" xml:space="preserve">
@@ -8015,7 +8015,7 @@ Ha a Mailbird nem fut az ütemezett időpontban, akkor az üzenet nem kerül elk
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
   <data name="Invite_FailedSendInvitation" xml:space="preserve">
-    <value>A meghívó küldése meghiúsult.</value>
+    <value>A meghívó küldése meghiúsult</value>
     <comment>Failed to send invitation</comment>
   </data>
   <data name="Filter_DisabledAction" xml:space="preserve">
@@ -8024,7 +8024,7 @@ Ha a Mailbird nem fut az ütemezett időpontban, akkor az üzenet nem kerül elk
 {0} will be replaced with value from Filters_UnifiedAccountsItem</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorHeader" xml:space="preserve">
-    <value>Hiba történt s szűrő futtatásakor.</value>
+    <value>Hiba történt s szűrő futtatásakor</value>
     <comment>Header when there is error when executing filter</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorMessage" xml:space="preserve">
@@ -8092,11 +8092,11 @@ Biztosan lomtárba kerüljenek a beszélgetések?</value>
     <comment>Message when moving conversation to trash folder but there is draft</comment>
   </data>
   <data name="Conversation_NoSubjectExplanation" xml:space="preserve">
-    <value>Ennek a beszélgetésnek nincs tárgya.</value>
+    <value>Ennek a beszélgetésnek nincs tárgya</value>
     <comment>Tooltip when there conversation doesnt have subject</comment>
   </data>
   <data name="Dialog_TrashAndDiscardDraft" xml:space="preserve">
-    <value>A vázlatok elvetésre kerülnek.</value>
+    <value>A vázlatok elvetésre kerülnek</value>
     <comment>Message box when trashing and there is draft</comment>
   </data>
   <data name="Dialog_DiscardScheduledDraftExplanation" xml:space="preserve">
@@ -8236,7 +8236,7 @@ Megpróbálhatjuk ismét elküldeni ezt vagy a hibát figyelmen kívül hagyva e
     <comment>Message when no one has opened email in the email tracking list</comment>
   </data>
   <data name="App_Referral_Description" xml:space="preserve">
-    <value>Ismerősök meghívása és a Mailbird Business egyszeri fizetős verzió beszerzése (399 dollár értékben) DÍJMENTESEN.</value>
+    <value>Ismerősök meghívása és a Mailbird Business egyszeri fizetős verzió beszerzése (399 dollár értékben) DÍJMENTESEN</value>
     <comment>Description of referral app shown in apps store section</comment>
   </data>
   <data name="App_Referral_Title" xml:space="preserve">
@@ -8295,7 +8295,7 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
     <comment>Button to purchase Mailbird</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradeSubHeader" xml:space="preserve">
-    <value>Az összes Mailbird funkció korlátlan elérése véget ért.</value>
+    <value>Az összes Mailbird funkció korlátlan elérése véget ért</value>
     <comment>Subheader for announcement window for lite user</comment>
   </data>
   <data name="Options_TextFormattingExplanation" xml:space="preserve">
@@ -8411,31 +8411,31 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
     <comment>Button label to upgrade</comment>
   </data>
   <data name="Welcome_CustomAvatar" xml:space="preserve">
-    <value>Add a picture...</value>
+    <value>Kép hozzáadása...</value>
     <comment>Button to add picture from PC</comment>
   </data>
   <data name="Notification_FailedToRemoveAvatar" xml:space="preserve">
-    <value>Failed to remove image</value>
+    <value>A kép eltávolítása meghiúsult</value>
     <comment>Message when failed to remove image</comment>
   </data>
   <data name="Options_ShowAccountsPaneSeparately" xml:space="preserve">
-    <value>Show folders separately in expanded navigation pane</value>
+    <value>A mappák elkülönített megjelenítése a bőbített navigációs panelen</value>
     <comment>Option to show accounts pane separately</comment>
   </data>
   <data name="Options_ShowAccountsPaneSeparatelyExplanation" xml:space="preserve">
-    <value>This option is only available when there is more than 1 account</value>
+    <value>Ez az opció csak akkor érhető el, ha több, mint egy fiók van</value>
     <comment>Explanation when the option is not available</comment>
   </data>
   <data name="EmailTracking_NotificationNoItem" xml:space="preserve">
-    <value>There is no opened tracking.</value>
+    <value>Nincs megnyitott nyomkövetés.</value>
     <comment>Message when there is no opened tracking</comment>
   </data>
   <data name="EmailTracking_NotificationOpened" xml:space="preserve">
-    <value>opened</value>
+    <value>megnyitott</value>
     <comment>Part of the text in email tracking notification item. The full text will be "John opened subject"</comment>
   </data>
   <data name="EmailTracking_NotificationLimitedTrackingExplanation" xml:space="preserve">
-    <value>We can't track who opened the email due to email tracking is not fully supported by the sending server.</value>
+    <value>Nem követkhető, hogy ki nyitotta meg az malt, mert az email követést nem támogatja a küldő szerver.</value>
     <comment>Explanation when email tracking is not fully supported in the notification</comment>
   </data>
 </root>
