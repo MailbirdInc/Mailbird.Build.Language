@@ -4386,7 +4386,7 @@ Bitte ein anderes Hintergrundbild verwenden.</value>
 Please select another image to use as a background.</comment>
   </data>
   <data name="Notification_FailedToRemoveBackground" xml:space="preserve">
-    <value>Entfernen des Hintergrundbildes fehlgeschlagen</value>
+    <value>Failed to remove background image</value>
     <comment>Failed to set remove background image</comment>
   </data>
   <data name="Options_RemoveBackground" xml:space="preserve">
@@ -8413,5 +8413,33 @@ Sie haben nun folgende Optionen, um fortzufahren:
   <data name="Announcement_HigherTierUpgradeNow" xml:space="preserve">
     <value>Jetzt upgraden</value>
     <comment>Button label to upgrade</comment>
+  </data>
+  <data name="Welcome_CustomAvatar" xml:space="preserve">
+    <value>Add a picture...</value>
+    <comment>Button to add picture from PC</comment>
+  </data>
+  <data name="Notification_FailedToRemoveAvatar" xml:space="preserve">
+    <value>Failed to remove image</value>
+    <comment>Message when failed to remove image</comment>
+  </data>
+  <data name="Options_ShowAccountsPaneSeparately" xml:space="preserve">
+    <value>Show folders separately in expanded navigation pane</value>
+    <comment>Option to show accounts pane separately</comment>
+  </data>
+  <data name="Options_ShowAccountsPaneSeparatelyExplanation" xml:space="preserve">
+    <value>This option is only available when there is more than 1 account</value>
+    <comment>Explanation when the option is not available</comment>
+  </data>
+  <data name="EmailTracking_NotificationNoItem" xml:space="preserve">
+    <value>There is no opened tracking.</value>
+    <comment>Message when there is no opened tracking</comment>
+  </data>
+  <data name="EmailTracking_NotificationOpened" xml:space="preserve">
+    <value>opened</value>
+    <comment>Part of the text in email tracking notification item. The full text will be "John opened subject"</comment>
+  </data>
+  <data name="EmailTracking_NotificationLimitedTrackingExplanation" xml:space="preserve">
+    <value>We can't track who opened the email due to email tracking is not fully supported by the sending server.</value>
+    <comment>Explanation when email tracking is not fully supported in the notification</comment>
   </data>
 </root>
