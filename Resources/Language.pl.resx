@@ -4406,7 +4406,7 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Kup teraz Mailbirda!</value>
+    <value>Get Mailbird license now!</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
@@ -7317,11 +7317,11 @@ Masz teraz wybór między Mailbird Personal a Mailbird Business w zależności o
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
-    <value>Zakup Mailbird Business, aby korzystać z kont Exchange.</value>
+    <value>Get Mailbird Business to use Exchange accounts.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_LinkedInLookup" xml:space="preserve">
-    <value>Zakup Mailbird Business, aby korzystać z funkcji znajdowania na LinkedIn.</value>
+    <value>Get Mailbird Business to use LinkedIn lookup feature.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Disabled_IdentityExchange" xml:space="preserve">
@@ -7341,11 +7341,11 @@ Masz teraz wybór między Mailbird Personal a Mailbird Business w zależności o
     <comment>Error message on the explanation</comment>
   </data>
   <data name="Upgrade_Apps" xml:space="preserve">
-    <value>Zakup Mailbirda, aby korzystać z tej aplikacji.</value>
+    <value>Get Mailbird license to use this app.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_AppsBusiness" xml:space="preserve">
-    <value>Zakup Mailbird Business, aby korzystać ze Slacka, FormSwift, Feedly i wielu innych aplikacji.</value>
+    <value>Get Mailbird Business to use Slack, FormSwift, Feedly and many other apps.</value>
     <comment>Feature description</comment>
   </data>
   <data name="License_OfflineWelcome_Explanation" xml:space="preserve">
@@ -8151,11 +8151,11 @@ Czy na pewno chcesz przenieść konwersację do kosza?</value>
     <comment>Explanation when feature is only available on Mailbird Business</comment>
   </data>
   <data name="UpgradeToPro_TitleBusiness" xml:space="preserve">
-    <value>Kup Mailbird Business już teraz!</value>
+    <value>Get Mailbird Business now!</value>
     <comment>Title in upgrade to pro window</comment>
   </data>
   <data name="Upgrade_EmailTracking" xml:space="preserve">
-    <value>Kup Mailbird Business, aby korzystać ze śledzenia wiadomości bez ograniczeń.</value>
+    <value>Get Mailbird Business to use unlimited Email Tracking.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Attachment_SaveAttachment" xml:space="preserve">
@@ -8438,5 +8438,29 @@ Dostępne są następujące opcje
   <data name="EmailTracking_NotificationLimitedTrackingExplanation" xml:space="preserve">
     <value>Nie możemy stwierdzić, kto otworzył wiadomość, ponieważ śledzenie poczty nie jest w pełni obsługiwane przez serwer wysyłający.</value>
     <comment>Explanation when email tracking is not fully supported in the notification</comment>
+  </data>
+  <data name="EmailTracking_NotificationUnknownRecipient" xml:space="preserve">
+    <value>Someone</value>
+    <comment>Label when the recipient is unknown in limited email tracking</comment>
+  </data>
+  <data name="Menu_DebugWindow" xml:space="preserve">
+    <value>Open debug window</value>
+    <comment>Menu item to open debug window</comment>
+  </data>
+  <data name="UpgradeToPro_BusinessIncludes" xml:space="preserve">
+    <value>Mailbird Business includes:</value>
+    <comment>Label before list of Mailbird Business features</comment>
+  </data>
+  <data name="UpgradeToPro_YourDetails" xml:space="preserve">
+    <value>Your details:</value>
+    <comment>Label before user details form</comment>
+  </data>
+  <data name="FolderControl_OriginAccount" xml:space="preserve">
+    <value>Origin account</value>
+    <comment>Label to indicate the account that received the email initially</comment>
+  </data>
+  <data name="EmailTracking_Notification" xml:space="preserve">
+    <value>Email tracking notifications</value>
+    <comment>Tooltip for notification button</comment>
   </data>
 </root>
