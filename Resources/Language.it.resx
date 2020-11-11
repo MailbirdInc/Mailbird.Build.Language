@@ -2264,7 +2264,7 @@ Path: {0}</comment>
     <comment>Bullet</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpelling" xml:space="preserve">
-    <value>Controllo ortografico</value>
+    <value>Spell checking &amp; RTL support</value>
     <comment>Check spelling</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpellingAsYouType" xml:space="preserve">
@@ -3027,7 +3027,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Phone</comment>
   </data>
   <data name="AvatarIconPinkMonkey" xml:space="preserve">
-    <value>Scimmia rosa</value>
+    <value>Piggy</value>
     <comment>Pink Monkey</comment>
   </data>
   <data name="AvatarIconPrivate" xml:space="preserve">
@@ -7387,11 +7387,11 @@ Se desideri continuare a usare Mailbird puoi acquistare una licenza oppure inser
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
-    <value>(pagamento annuale)</value>
+    <value>(billed annually)</value>
     <comment>Text to explain the payment is annually.</comment>
   </data>
   <data name="UpgradeToPro_PayOnce" xml:space="preserve">
-    <value>(pagamento singolo)</value>
+    <value>(billed once)</value>
     <comment>Text to explain the payment is one time.</comment>
   </data>
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
@@ -8114,11 +8114,11 @@ Sei sicuro di voler spostare la conversazione nel cestino?</value>
     <comment>Message after user unsubscribed from email</comment>
   </data>
   <data name="EmailTracking_Disable" xml:space="preserve">
-    <value>Disabilita tracciamento email</value>
+    <value>Disable email tracking</value>
     <comment>Tooltip to disable email tracking</comment>
   </data>
   <data name="EmailTracking_Enable" xml:space="preserve">
-    <value>Abilita tracciamento email</value>
+    <value>Enable email tracking</value>
     <comment>Tooltip to enable email tracking</comment>
   </data>
   <data name="Options_EmailTracking" xml:space="preserve">
@@ -8374,10 +8374,6 @@ Per proseguire, scegli una delle seguenti opzioni:
     <value>Integrazioni con le app</value>
     <comment>Feature name: app integrations</comment>
   </data>
-  <data name="Announcement_HigherTierFeatureEmailTracking" xml:space="preserve">
-    <value>Tracciamento Email</value>
-    <comment>Feature name: email tracking</comment>
-  </data>
   <data name="Announcement_HigherTierHeader" xml:space="preserve">
     <value>La tua lealtà a Mailbird è stata premiata!</value>
     <comment>Header in promotion</comment>
@@ -8461,5 +8457,43 @@ Per proseguire, scegli una delle seguenti opzioni:
   <data name="EmailTracking_Notification" xml:space="preserve">
     <value>Notifiche tracciamento email</value>
     <comment>Tooltip for notification button</comment>
+  </data>
+  <data name="Notification_SendErrorMessage_EmailTracking" xml:space="preserve">
+    <value>Mailbird was unable to send the message because the Email Tracking service was unavailable.
+
+Please try again later or disable Email Tracking to send your message.</value>
+    <comment>Error message shown when a message fails to send due to the Email Tracking service being unavailable.</comment>
+  </data>
+  <data name="Features_EmailTracking" xml:space="preserve">
+    <value>Email tracking</value>
+    <comment>Feature name in add-ons list</comment>
+  </data>
+  <data name="Options_AddOns" xml:space="preserve">
+    <value>Your add-ons:</value>
+    <comment>Label for showing add-ons</comment>
+  </data>
+  <data name="Options_ManageSubscription" xml:space="preserve">
+    <value>manage subscription</value>
+    <comment>Button to manage subscription</comment>
+  </data>
+  <data name="Options_ValidUntil" xml:space="preserve">
+    <value>valid until {0}</value>
+    <comment>Label to show expiration date, {0} will be replaced with the date</comment>
+  </data>
+  <data name="MailEditorFormattingBar_EnableRTLSupport" xml:space="preserve">
+    <value>Enable RTL support</value>
+    <comment>Option to enable RTL (Right To Left) support when composing email</comment>
+  </data>
+  <data name="Dialog_AttachLog" xml:space="preserve">
+    <value>Include log file?</value>
+    <comment>Header for message box when attaching log file</comment>
+  </data>
+  <data name="Dialog_AttachLogExplanation" xml:space="preserve">
+    <value>In order for us to diagnose any issues you might be experiencing it would be helpful for us to see your Mailbird log file.
+
+This does not contain any passwords or full messages, but may contain your email address or other small pieces of information.
+
+May we attach your log file to this email?</value>
+    <comment>Explanation for message box when attaching log file</comment>
   </data>
 </root>
