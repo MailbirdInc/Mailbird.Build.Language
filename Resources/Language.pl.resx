@@ -2264,7 +2264,7 @@ Path: {0}</comment>
     <comment>Bullet</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpelling" xml:space="preserve">
-    <value>Spell checking &amp; RTL support</value>
+    <value>Sprawdzanie pisowni &amp; wsparcie RTL</value>
     <comment>Check spelling</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpellingAsYouType" xml:space="preserve">
@@ -7387,11 +7387,11 @@ Jeśli chcesz kontynuować korzystanie z Mailbirda, możesz zakupić licencję p
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
-    <value>(billed annually)</value>
+    <value>(płatne raz w roku)</value>
     <comment>Text to explain the payment is annually.</comment>
   </data>
   <data name="UpgradeToPro_PayOnce" xml:space="preserve">
-    <value>(billed once)</value>
+    <value>(płatne raz)</value>
     <comment>Text to explain the payment is one time.</comment>
   </data>
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
@@ -8115,11 +8115,11 @@ Czy na pewno chcesz przenieść konwersację do kosza?</value>
     <comment>Message after user unsubscribed from email</comment>
   </data>
   <data name="EmailTracking_Disable" xml:space="preserve">
-    <value>Disable email tracking</value>
+    <value>Wyłącz śledzenie wiadomości</value>
     <comment>Tooltip to disable email tracking</comment>
   </data>
   <data name="EmailTracking_Enable" xml:space="preserve">
-    <value>Enable email tracking</value>
+    <value>Włącz śledzenie wiadomości</value>
     <comment>Tooltip to enable email tracking</comment>
   </data>
   <data name="Options_EmailTracking" xml:space="preserve">
@@ -8460,41 +8460,41 @@ Dostępne są następujące opcje
     <comment>Tooltip for notification button</comment>
   </data>
   <data name="Notification_SendErrorMessage_EmailTracking" xml:space="preserve">
-    <value>Mailbird was unable to send the message because the Email Tracking service was unavailable.
+    <value>Mailbird nie mógł wysłać wiadomości, ponieważ usługa śledzenia wiadomości była niedostępna.
 
-Please try again later or disable Email Tracking to send your message.</value>
+Spróbuj ponownie później lub wyłącz śledzenie wiadomości, aby wysłać wiadomość.</value>
     <comment>Error message shown when a message fails to send due to the Email Tracking service being unavailable.</comment>
   </data>
   <data name="Features_EmailTracking" xml:space="preserve">
-    <value>Email tracking</value>
+    <value>Śledzenie wiadomości</value>
     <comment>Feature name in add-ons list</comment>
   </data>
   <data name="Options_AddOns" xml:space="preserve">
-    <value>Your add-ons:</value>
+    <value>Twoje dodatki:</value>
     <comment>Label for showing add-ons</comment>
   </data>
   <data name="Options_ManageSubscription" xml:space="preserve">
-    <value>manage subscription</value>
+    <value>zarządzanie subskrypcją</value>
     <comment>Button to manage subscription</comment>
   </data>
   <data name="Options_ValidUntil" xml:space="preserve">
-    <value>valid until {0}</value>
+    <value>ważna do {0}</value>
     <comment>Label to show expiration date, {0} will be replaced with the date</comment>
   </data>
   <data name="MailEditorFormattingBar_EnableRTLSupport" xml:space="preserve">
-    <value>Enable RTL support</value>
+    <value>Włącz wsparcie RTL</value>
     <comment>Option to enable RTL (Right To Left) support when composing email</comment>
   </data>
   <data name="Dialog_AttachLog" xml:space="preserve">
-    <value>Include log file?</value>
+    <value>Dołączyć plik dziennika?</value>
     <comment>Header for message box when attaching log file</comment>
   </data>
   <data name="Dialog_AttachLogExplanation" xml:space="preserve">
-    <value>In order for us to diagnose any issues you might be experiencing it would be helpful for us to see your Mailbird log file.
+    <value>Abyśmy mogli zdiagnozować wszelkie problemy, których możesz doświadczyć, przydałby się nam plik dziennika Mailbird.
 
-This does not contain any passwords or full messages, but may contain your email address or other small pieces of information.
+Nie zawiera on żadnych haseł ani całych wiadomości, ale może zawierać Twój adres e-mail i inne drobne informacje.
 
-May we attach your log file to this email?</value>
+Czy możemy dołączyć Twój plik dziennika do tego e-maila?</value>
     <comment>Explanation for message box when attaching log file</comment>
   </data>
 </root>
