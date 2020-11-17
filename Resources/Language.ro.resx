@@ -8488,11 +8488,83 @@ Vă rugăm să încercați din nou mai târziu sau să dezactivați Urmărirea E
     <comment>Header for message box when attaching log file</comment>
   </data>
   <data name="Dialog_AttachLogExplanation" xml:space="preserve">
-    <value>Pentru a putea diagnostica orice probleme pe care le-ați putea întâmpina, ar fi util să vă vedem fișierul jurnal Mailbird.
+    <value>In order for us to diagnose any issues you might be experiencing, it would be helpful for us to see your Mailbird log file.
 
-Aceasta nu conține parole sau mesaje complete, dar poate conține adresa dvs. de email sau alte informații mici.
+This does not contain any passwords or full messages, but may contain your email address or other small pieces of information.
 
-Vă putem atașa fișierul jurnal la acest email?</value>
+May we attach your log file to this email?</value>
     <comment>Explanation for message box when attaching log file</comment>
+  </data>
+  <data name="AvatarIconExchange" xml:space="preserve">
+    <value>Exchange</value>
+    <comment>Tooltip label for Exchange icon</comment>
+  </data>
+  <data name="AvatarIconMailbird" xml:space="preserve">
+    <value>Mailbird</value>
+    <comment>Tooltip label for Mailbird icon</comment>
+  </data>
+  <data name="Announcement_BFDisclaimer" xml:space="preserve">
+    <value>*The discount code is valid until December 5, 2020. By activating the discount generator, you agree to Mailbird sending you the discount code via email. For annually billed products, the discount only applies to the first year.</value>
+    <comment>Disclaimer for blackfriday promo</comment>
+  </data>
+  <data name="Announcement_BFExplanationTrial" xml:space="preserve">
+    <value>Activate the discount generator and get up to [highlight]95% off[/highlight] Mailbird Personal or Mailbird Business *</value>
+    <comment>Explanation for blackfriday promo</comment>
+  </data>
+  <data name="Announcement_BFGenerate" xml:space="preserve">
+    <value>Generate Discount</value>
+    <comment>Button to generate discount</comment>
+  </data>
+  <data name="Announcement_BFHeader" xml:space="preserve">
+    <value>BLACK FRIDAY</value>
+    <comment>Header for blackfriday promo</comment>
+  </data>
+  <data name="Announcement_BFOff" xml:space="preserve">
+    <value>OFF</value>
+    <comment>Label discount as in 95% "OFF"</comment>
+  </data>
+  <data name="Announcement_BFSubHeader" xml:space="preserve">
+    <value>GET UP TO 95% OFF</value>
+    <comment>Sub header for blackfriday promo</comment>
+  </data>
+  <data name="Announcement_BFReminder" xml:space="preserve">
+    <value>Your Snoozed Reminder</value>
+    <comment>Label for popup reminder</comment>
+  </data>
+  <data name="Announcement_BFHigherDiscount" xml:space="preserve">
+    <value>Get a Bigger Discount</value>
+    <comment>Button to get higher discount</comment>
+  </data>
+  <data name="Announcement_BFOr" xml:space="preserve">
+    <value>OR</value>
+    <comment>Label or to show different options</comment>
+  </data>
+  <data name="Announcement_BFTryAgain" xml:space="preserve">
+    <value>Try Again</value>
+    <comment>Button to try again</comment>
+  </data>
+  <data name="Announcement_BFRedeem" xml:space="preserve">
+    <value>Redeem Discount</value>
+    <comment>Button to redeem discount</comment>
+  </data>
+  <data name="Announcement_BFRemindLater" xml:space="preserve">
+    <value>Remind Me Later</value>
+    <comment>Button to dismiss and get reminded later</comment>
+  </data>
+  <data name="Announcement_CMHeader" xml:space="preserve">
+    <value>CYBER MONDAY</value>
+    <comment>Header for cyber monday promo</comment>
+  </data>
+  <data name="Announcement_BFExplanationBusinessYearly" xml:space="preserve">
+    <value>Activate the discount generator to upgrade to Mailbird Business Pay Once with up to [highlight]95% off[/highlight] *</value>
+    <comment>Explanation for blackfriday promo</comment>
+  </data>
+  <data name="Announcement_BFExplanationPersonalPayOnce" xml:space="preserve">
+    <value>Activate the discount generator and upgrade to Mailbird Business with up to [highlight]95% off[/highlight] *</value>
+    <comment>Explanation for blackfriday promo</comment>
+  </data>
+  <data name="Announcement_BFExplanationPersonalYearly" xml:space="preserve">
+    <value>Activate the discount generator and upgrade to Mailbird Personal Pay Once or Mailbird Business with up to [highlight]95% off[/highlight] *</value>
+    <comment>Explanation for blackfriday promo</comment>
   </data>
 </root>
