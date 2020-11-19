@@ -442,7 +442,7 @@ Do you want to reconnect your Facebook?</comment>
   <data name="Dialog_RemoveAccountExplanation" xml:space="preserve">
     <value>Opravdu chcete odstranit účet a všechny propojené identity?
 
-Toto může chvíli trvat a vyžaduje restart Mailbirdu.</value>
+Toto může chvíli trvat a vyžaduje restart Mailbird.</value>
     <comment>Are you sure you want to remove the account and all connected identities?
 
 This will restart Mailbird and may take a few minutes.</comment>
@@ -2267,7 +2267,7 @@ Path: {0}</comment>
     <comment>Bullet</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpelling" xml:space="preserve">
-    <value>Spell checking &amp; RTL support</value>
+    <value>Kontrola pravopisu a podpora RTL</value>
     <comment>Check spelling</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpellingAsYouType" xml:space="preserve">
@@ -4043,7 +4043,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. OAuth 2.0 only works with Google, Microsoft 365 and Yahoo accounts.</value>
+    <value>Typ ověřování, který se má použít. OAuth 2.0 funguje pouze s účty Google, Microsoft 365 a Yahoo.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -4310,7 +4310,7 @@ the final result will be: Search Google for "query"</comment>
     <comment>Print...</comment>
   </data>
   <data name="WebControl_OpenLink" xml:space="preserve">
-    <value>Open link in browser</value>
+    <value>Otevřít odkaz v prohlížeči</value>
     <comment>Open link</comment>
   </data>
   <data name="WelcomeMessage_Afternoon" xml:space="preserve">
@@ -4382,7 +4382,7 @@ Vyberte prosím jiný obrázek, který chcete použít jako pozadí.</value>
 Please select another image to use as a background.</comment>
   </data>
   <data name="Notification_FailedToRemoveBackground" xml:space="preserve">
-    <value>Failed to remove background image</value>
+    <value>Odebrání obrázku pozadí se nezdařilo</value>
     <comment>Failed to set remove background image</comment>
   </data>
   <data name="Options_RemoveBackground" xml:space="preserve">
@@ -4406,7 +4406,7 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Get Mailbird license now!</value>
+    <value>Získejte licenci Mailbird hned teď!</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
@@ -4426,18 +4426,18 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Invite your friends from your primary email account, this is the default email account in your Mailbird. Invite as many friends as you want! 
+    <value>Pozvěte přátele ze svého primárního e-mailového účtu, jedná se o výchozí e-mailový účet ve Vašem Mailbird. Pozvěte co nejvíce přátel! 
 
-Please note there is a limit of 1 reward per email address for both referrer and referee. When {0} or more of your friends install Mailbird from your invite:
+Vezměte prosím na vědomí, že na 1 e-mailovou adresu je omezena 1 odměna jak pro doporučujícího tak pro doporučeného. Když {0} nebo více vašich přátel nainstaluje Mailbird pomocí Vaší pozvánky:
 
-1. You get [bold]Mailbird Business Pay Once (a $399 value) for FREE[/bold] 
+1. Získáte [bold]Mailbird Business "Doživotní licence" (v hodnotě $399) ZDARMA[/bold]
 
-2. Your friends who install Mailbird, will get [bold]1 full month[/bold] of Mailbird Business for [bold]FREE[/bold]</value>
+2. Vaši přátelé, kteří nainstalují Mailbird, získají [bold]1 měsíc[/bold] Mailbird Business [bold]ZDARMA[/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Get Mailbird Business 
-Pay Once (a $399 value) for FREE</value>
+    <value>Získejte Mailbird Business 
+"Doživotní licence" (v hodnotě $399) ZDARMA</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="InviteV2_Accepted" xml:space="preserve">
@@ -5786,7 +5786,7 @@ Restartujte teď, abyste získali nejnovější vylepšení a opravy - bude to t
     <comment>Header when performing action is not allowed due to disabled identity</comment>
   </data>
   <data name="UpgradeToPro_ChoosePricing" xml:space="preserve">
-    <value>Choose your Mailbird plan:</value>
+    <value>Vyberte si svůj plán Mailbird:</value>
     <comment>Label in upgrade to pro window to ask user to choose the pricing plan</comment>
   </data>
   <data name="NewMessage_NewMessageSingular" xml:space="preserve">
@@ -7255,7 +7255,7 @@ Jedná se o nedorozumění a chcete pokračovat v používání Mailbird? Žádn
     <comment>Header for messagebox</comment>
   </data>
   <data name="Dialog_TrialExtended_Explanation" xml:space="preserve">
-    <value>Pokračujte v používání Mailbirdu a všech jeho funkcí dalších {0} dní.</value>
+    <value>Pokračujte v používání Mailbird a všech jeho funkcí dalších {0} dní.</value>
     <comment>Explanation for messagebox</comment>
   </data>
   <data name="License_EndTrialNoExtension_Explanation" xml:space="preserve">
@@ -7363,7 +7363,7 @@ Pokud chcete nadále používat Mailbird, můžete si níže zakoupit licenci ne
     <comment>Message box header when license is downgraded, Nb: You're leaving Mailbird Business</comment>
   </data>
   <data name="Dialog_Downgrade_Explanation" xml:space="preserve">
-    <value>{0} se aktivuje po restartování. Chcete-li z Mailbirdu vytěžit maximum, můžete ji v budoucnu kdykoli změnit na Mailbird Business.</value>
+    <value>{0} se aktivuje po restartování. Chcete-li z Mailbird vytěžit maximum, můžete ji v budoucnu kdykoli změnit na Mailbird Business.</value>
     <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
   </data>
   <data name="License_OfflineWelcome_Header" xml:space="preserve">
@@ -7387,11 +7387,11 @@ Pokud chcete nadále používat Mailbird, můžete si níže zakoupit licenci ne
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
-    <value>(billed annually)</value>
+    <value>(účtováno ročně)</value>
     <comment>Text to explain the payment is annually.</comment>
   </data>
   <data name="UpgradeToPro_PayOnce" xml:space="preserve">
-    <value>(billed once)</value>
+    <value>(účtováno jednou)</value>
     <comment>Text to explain the payment is one time.</comment>
   </data>
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
@@ -7463,7 +7463,7 @@ Mailbird se nyní pokusí udělat to samé s využitím jiného prohlížeče. P
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
     <value>Vybrali jste Mailbird Personal (Osobní), který nezahrnuje podporu Exchange. Pro podporu Exchange a další funkce zaměřené na podnikání je vyžadován Mailbird Business.
 
-Uvědomte si, že již přidané účty Exchange budou v Mailbirdu po aktivaci Osobní verze deaktivovány.
+Uvědomte si, že již přidané účty Exchange budou v Mailbird po aktivaci Osobní verze deaktivovány.
 
 Opravdu chcete pokračovat v nákupu aplikace Mailbird Personal?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
@@ -7682,67 +7682,67 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Message when there is no supported email clients on import step</comment>
   </data>
   <data name="Filter_GeneralPlaceholder" xml:space="preserve">
-    <value>Enter words to look for</value>
+    <value>Zadejte hledaná slova</value>
     <comment>Placeholder in filter's general field</comment>
   </data>
   <data name="Filter_CreateMenuFrom" xml:space="preserve">
-    <value>From</value>
+    <value>Od</value>
     <comment>Menu when creating filter from message's sender</comment>
   </data>
   <data name="Filter_CreateMenuSubject" xml:space="preserve">
-    <value>With subject</value>
+    <value>S předmětem</value>
     <comment>Menu when creating filter with subject, {0} will be replaced with the subject</comment>
   </data>
   <data name="Filter_CreateMenuTo" xml:space="preserve">
-    <value>To</value>
+    <value>Komu</value>
     <comment>Menu when creating filter from messages's recipients</comment>
   </data>
   <data name="Filter_AllConditions" xml:space="preserve">
-    <value>Match all conditions</value>
+    <value>Splňuje všechny podmínky</value>
     <comment>Menu to create filter from all attributes, which are message's senders, recipients, and subject</comment>
   </data>
   <data name="Filter_CreateFilter" xml:space="preserve">
-    <value>Create filter...</value>
+    <value>Vytvořit filtr ..</value>
     <comment>Menu to create filter from context menu</comment>
   </data>
   <data name="Options_SignatureNewConversation" xml:space="preserve">
-    <value>Add signatures to new conversations only</value>
+    <value>Přidejte podpisy pouze do nových konverzací</value>
     <comment>Setting to only add signature to new conversation</comment>
   </data>
   <data name="App_ToDo_Description" xml:space="preserve">
-    <value>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</value>
+    <value>Aplikace To Do umožňuje soustředit se jak v práci, tak ve volném čase. Buďte organizovaní a spravujte svůj každodenní život.</value>
     <comment>To Do gives you focus, from work to play. Stay organized and manage your day-to-day.</comment>
   </data>
   <data name="Filter_EditFilter_SaveRun" xml:space="preserve">
-    <value>Save &amp; Run</value>
+    <value>Uložit a Spustit</value>
     <comment>Button to save and run filter</comment>
   </data>
   <data name="Options_Filters_RunFilters" xml:space="preserve">
-    <value>Run selected filters</value>
+    <value>Spustit vybrané filtry</value>
     <comment>Button to run selected filters</comment>
   </data>
   <data name="Filter_EditFilter_CreateFilter" xml:space="preserve">
-    <value>Create filter</value>
+    <value>Vytvořit filtr</value>
     <comment>Windows title of create filter window</comment>
   </data>
   <data name="Notification_FilterExecutedMany" xml:space="preserve">
-    <value>The filter was applied to {0} conversations</value>
+    <value>Filtr byl použit pro {0} konverzací</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
-    <value>The filter was applied to one conversation</value>
+    <value>Filtr byl použit pro jednu konverzaci</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
-    <value>This version of Mailbird uses a separate data directory for local data than the normal version of Mailbird.
+    <value>Tato verze Mailbirdu používá pro místní data samostatný datový adresář než normální verze Mailbird.
 
-Would you like to start with the same settings, accounts, messages etc. as you have added to the normal version of Mailbird?
+Chcete začít se stejnými nastaveními, účty, zprávami atd., Jaké jste přidali do běžné verze Mailbird?
 
-Note that not all changes you make in one version of Mailbird will sync to the other.</value>
+Ne všechny změny provedené v jedné verzi Mailbird se budou synchronizovat s druhou.</value>
     <comment>Dialog asking whether to copy data from the release version of Mailbird when starting the alpha version for the first time.</comment>
   </data>
   <data name="Dialog_ExistingInstallationDetected" xml:space="preserve">
-    <value>Existing installation detected</value>
+    <value>Byla zjištěna existující instalace.</value>
     <comment>Existing installation detected</comment>
   </data>
   <data name="Options_MailbirdAlpha" xml:space="preserve">
@@ -7750,11 +7750,11 @@ Note that not all changes you make in one version of Mailbird will sync to the o
     <comment>Mailbird Alpha</comment>
   </data>
   <data name="Options_MailbirdAlphaDescription" xml:space="preserve">
-    <value>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
+    <value>Pokud byste chtěli pomoci testovat nejnovější aktualizace a funkce v Mailbird, a zároveň ovlivnit směr, kterým se ubíráme, pak se zaregistrujte jako Alfa tester.
 
-The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
+Alfa verze Mailbird je nainstalována samostatně, takže můžete stále spustit normální verzi, když chcete. Alpha získává aktualizace rychleji, včetně nových funkcí - získáte přístup k naší uzavřené skupině Facebook, kde provádíme výzkum a žádáme o zpětnou vazbu při implementaci nových nápadů.
 
-Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</value>
+Všimněte si, že vzhledem k tomu, že se jedná o verzi Mailbird "ve vývoji", problémy se mohou vyskytnout trochu častěji, ale jsme také schopni je opravit dříve - a vždy můžete přepnout zpět na normální verzi, pokud narazíte na problém - dokud ho nevyřešíme.</value>
     <comment>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
 
 The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
@@ -7762,11 +7762,11 @@ The Alpha version of Mailbird is installed separately, so you can still run the 
 Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</comment>
   </data>
   <data name="Options_SignUpForAlpha" xml:space="preserve">
-    <value>Sign up to be an Alpha tester</value>
+    <value>Zaregistrujte se jako Alfa tester</value>
     <comment>Sign up to be an Alpha tester</comment>
   </data>
   <data name="Dialog_StartingMailbird" xml:space="preserve">
-    <value>Starting Mailbird</value>
+    <value>Spouštění Mailbird</value>
     <comment>Starting Mailbird</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingData" xml:space="preserve">
@@ -8260,25 +8260,25 @@ Mailbird nyní bude moci zobrazit, když příjemci otevřou váš e-mail. Můž
     <comment>New badge for tips</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_PortInUse" xml:space="preserve">
-    <value>Mailbird was unable to authorize with the server due to port {0} on your machine being inaccessible.
+    <value>Mailbird se nepodařilo autorizovat se serverem z důvodu nepřístupnosti portu {0} na vašem počítači.
 
-Please ensure nothing is using or blocking port {0} and try again.</value>
+Ujistěte se, že nic nepoužívá nebo neblokuje port {0}, a zkuste to znovu.</value>
     <comment>Message shown when failing to authorize using OAuth2 due to the port used being inaccessible.</comment>
   </data>
   <data name="Options_RetrievingLicense" xml:space="preserve">
-    <value>Retrieving license status</value>
+    <value>Načítání stavu licence</value>
     <comment>Message when app is retrieving license status from server</comment>
   </data>
   <data name="Upgrade_SprintUpgrade" xml:space="preserve">
-    <value>Get Advanced Search, Unsubscribe Button, Send Later, Email Tracking and many more.</value>
+    <value>Získejte Rozšířené vyhledávání, Tlačítko pro odhlášení, Odeslat později, Sledování e-mailů a mnoho dalšího.</value>
     <comment>Message when lite users try accessing pro features</comment>
   </data>
   <data name="Announcement_LiteSprintUpgrade" xml:space="preserve">
-    <value>IMPORTANT</value>
+    <value>DŮLEŽITÉ</value>
     <comment>Title for announcement window for lite user</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradeDismiss" xml:space="preserve">
-    <value>Dismiss offer and close window</value>
+    <value>Odmítnout nabídku a zavřít okno</value>
     <comment>Button to close the announcement window</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradeExplanation" xml:space="preserve">
