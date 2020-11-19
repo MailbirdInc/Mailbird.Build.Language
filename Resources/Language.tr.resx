@@ -2264,7 +2264,7 @@ Path: {0}</comment>
     <comment>Bullet</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpelling" xml:space="preserve">
-    <value>Spell checking &amp; RTL support</value>
+    <value>Yazım denetimi ve RTL desteği</value>
     <comment>Check spelling</comment>
   </data>
   <data name="MailEditorFormattingBar_CheckSpellingAsYouType" xml:space="preserve">
@@ -3027,7 +3027,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Phone</comment>
   </data>
   <data name="AvatarIconPinkMonkey" xml:space="preserve">
-    <value>Piggy</value>
+    <value>Domuzcuk</value>
     <comment>Pink Monkey</comment>
   </data>
   <data name="AvatarIconPrivate" xml:space="preserve">
@@ -7387,11 +7387,11 @@ Mailbird'ü kullanmaya devam etmek istiyorsanız, aşağıdaki lisansları satı
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
-    <value>(billed annually)</value>
+    <value>(yıllık olarak faturalandırılır)</value>
     <comment>Text to explain the payment is annually.</comment>
   </data>
   <data name="UpgradeToPro_PayOnce" xml:space="preserve">
-    <value>(billed once)</value>
+    <value>(bir kez faturalandırılır)</value>
     <comment>Text to explain the payment is one time.</comment>
   </data>
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
@@ -8114,11 +8114,11 @@ Görüşmeyi çöp kutusuna taşımak istediğinizden emin misiniz?</value>
     <comment>Message after user unsubscribed from email</comment>
   </data>
   <data name="EmailTracking_Disable" xml:space="preserve">
-    <value>Disable email tracking</value>
+    <value>E-posta izlemeyi devre dışı bırakır</value>
     <comment>Tooltip to disable email tracking</comment>
   </data>
   <data name="EmailTracking_Enable" xml:space="preserve">
-    <value>Enable email tracking</value>
+    <value>E-posta izlemeyi etkinleştirir</value>
     <comment>Tooltip to enable email tracking</comment>
   </data>
   <data name="Options_EmailTracking" xml:space="preserve">
@@ -8459,41 +8459,41 @@ Devam etmek için aşağıdaki seçenekleriniz var:
     <comment>Tooltip for notification button</comment>
   </data>
   <data name="Notification_SendErrorMessage_EmailTracking" xml:space="preserve">
-    <value>Mailbird was unable to send the message because the Email Tracking service was unavailable.
+    <value>Mailbird, E-posta İzleme hizmeti kullanılamadığı için iletiyi gönderemedi.
 
-Please try again later or disable Email Tracking to send your message.</value>
+İletinizi göndermek için lütfen daha sonra yeniden deneyin ya da E-posta İzlemesini devre dışı bırakın.</value>
     <comment>Error message shown when a message fails to send due to the Email Tracking service being unavailable.</comment>
   </data>
   <data name="Features_EmailTracking" xml:space="preserve">
-    <value>Email tracking</value>
+    <value>E-posta izleme</value>
     <comment>Feature name in add-ons list</comment>
   </data>
   <data name="Options_AddOns" xml:space="preserve">
-    <value>Your add-ons:</value>
+    <value>Eklentileriniz:</value>
     <comment>Label for showing add-ons</comment>
   </data>
   <data name="Options_ManageSubscription" xml:space="preserve">
-    <value>manage subscription</value>
+    <value>aboneliği yönet</value>
     <comment>Button to manage subscription</comment>
   </data>
   <data name="Options_ValidUntil" xml:space="preserve">
-    <value>valid until {0}</value>
+    <value>{0} tarihine kadar geçerli</value>
     <comment>Label to show expiration date, {0} will be replaced with the date</comment>
   </data>
   <data name="MailEditorFormattingBar_EnableRTLSupport" xml:space="preserve">
-    <value>Enable RTL support</value>
+    <value>RTL(Sağdan sola) desteğini etkinleştir</value>
     <comment>Option to enable RTL (Right To Left) support when composing email</comment>
   </data>
   <data name="Dialog_AttachLog" xml:space="preserve">
-    <value>Include log file?</value>
+    <value>Günlük dosyası dahil edilsin mi?</value>
     <comment>Header for message box when attaching log file</comment>
   </data>
   <data name="Dialog_AttachLogExplanation" xml:space="preserve">
-    <value>In order for us to diagnose any issues you might be experiencing, it would be helpful for us to see your Mailbird log file.
+    <value>Karşılaşabileceğiniz herhangi bir sorunu teşhis edebilmemiz için Mailbird günlük dosyanızı görmemiz faydalı olacaktır.
 
-This does not contain any passwords or full messages, but may contain your email address or other small pieces of information.
+Bu, herhangi bir şifre ya da tam mesaj içermez, ancak e-posta adresinizi ya da diğer küçük bilgileri içerebilir.
 
-May we attach your log file to this email?</value>
+Günlük dosyanızı bu e-postaya ekleyebilir miyiz?</value>
     <comment>Explanation for message box when attaching log file</comment>
   </data>
   <data name="AvatarIconExchange" xml:space="preserve">
@@ -8505,67 +8505,67 @@ May we attach your log file to this email?</value>
     <comment>Tooltip label for Mailbird icon</comment>
   </data>
   <data name="Announcement_BFDisclaimer" xml:space="preserve">
-    <value>*The discount code is valid until December 5, 2020. By activating the discount generator, you agree to Mailbird sending you the discount code via email. For annually billed products, the discount only applies to the first year.</value>
+    <value>*İndirim kodu 5 Aralık 2020 tarihine kadar geçerlidir. İndirim oluşturucuyu etkinleştirerek Mailbird'ün size indirim kodunu e-posta yoluyla göndermesini kabul etmiş olursunuz. Yıllık olarak faturalandırılan ürünler için, indirim yalnızca ilk yıl için geçerlidir.</value>
     <comment>Disclaimer for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationTrial" xml:space="preserve">
-    <value>Activate the discount generator and get [highlight]up to 95% off[/highlight] Mailbird Personal or Mailbird Business *</value>
+    <value>İndirim oluşturucuyu etkinleştirin ve [highlight]% 95'e varan indirimle[/highlight] Mailbird Personal ya da Mailbird Business * edinin</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFGenerate" xml:space="preserve">
-    <value>Generate Discount</value>
+    <value>İndirim Oluştur</value>
     <comment>Button to generate discount</comment>
   </data>
   <data name="Announcement_BFHeader" xml:space="preserve">
-    <value>BLACK FRIDAY</value>
+    <value>CUMA İNDİRİMİ</value>
     <comment>Header for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFOff" xml:space="preserve">
-    <value>OFF</value>
+    <value>İNDİRİM</value>
     <comment>Label discount as in 95% "OFF"</comment>
   </data>
   <data name="Announcement_BFSubHeader" xml:space="preserve">
-    <value>GET UP TO 95% OFF</value>
+    <value>%95'e VARAN İNDİRİM AL</value>
     <comment>Sub header for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFReminder" xml:space="preserve">
-    <value>Your Snoozed Reminder</value>
+    <value>Erteleme Hatırlatıcınız</value>
     <comment>Label for popup reminder</comment>
   </data>
   <data name="Announcement_BFHigherDiscount" xml:space="preserve">
-    <value>Get a Bigger Discount</value>
+    <value>Daha Büyük İndirim Alın</value>
     <comment>Button to get higher discount</comment>
   </data>
   <data name="Announcement_BFOr" xml:space="preserve">
-    <value>OR</value>
+    <value>YA DA</value>
     <comment>Label or to show different options</comment>
   </data>
   <data name="Announcement_BFTryAgain" xml:space="preserve">
-    <value>Try Again</value>
+    <value>Yeniden Deneyin</value>
     <comment>Button to try again</comment>
   </data>
   <data name="Announcement_BFRedeem" xml:space="preserve">
-    <value>Redeem Discount</value>
+    <value>İndirimi Kullan</value>
     <comment>Button to redeem discount</comment>
   </data>
   <data name="Announcement_BFRemindLater" xml:space="preserve">
-    <value>Remind Me Later</value>
+    <value>Bana daha sonra hatırlat</value>
     <comment>Button to dismiss and get reminded later</comment>
   </data>
   <data name="Announcement_CMHeader" xml:space="preserve">
-    <value>CYBER MONDAY</value>
+    <value>SİBER PAZARTESİ</value>
     <comment>Header for cyber monday promo</comment>
   </data>
   <data name="Announcement_BFExplanationBusinessYearly" xml:space="preserve">
-    <value>Activate the discount generator to upgrade to Mailbird Business Pay Once with [highlight]up to 95% off[/highlight] *</value>
+    <value>Mailbird Business Tek Ödeme'ye yükseltmek için indirim oluşturucuyu etkinleştirin ve [highlight]% 95'e varan indirim alın[/highlight] *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalPayOnce" xml:space="preserve">
-    <value>Activate the discount generator and upgrade to Mailbird Business with [highlight]up to 95% off[/highlight] *</value>
+    <value>İndirim oluşturucuyu etkinleştirin ve [highlight]% 95'e varan indirim[/highlight] ile Mailbird Business'a yükseltin *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalYearly" xml:space="preserve">
-    <value>Activate the discount generator and upgrade to Mailbird Personal Pay Once or Mailbird Business with [highlight]up to 95% off[/highlight] *</value>
+    <value>İndirim oluşturucuyu etkinleştirin ve [highlight]% 95'e varan indirim[/highlight] * ile Mailbird Personal Tek Ödeme'ye ya da Mailbird Business'a yükseltin *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
 </root>
