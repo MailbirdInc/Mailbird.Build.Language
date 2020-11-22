@@ -138,7 +138,7 @@
     <comment>Copy</comment>
   </data>
   <data name="Awesomium_CopyEmail" xml:space="preserve">
-    <value>Kopírovat e-mailovou adresu</value>
+    <value>Kopírovat emailovou adresu</value>
     <comment>Copy email address</comment>
   </data>
   <data name="Awesomium_CopyImage" xml:space="preserve">
@@ -178,11 +178,11 @@
     <comment>Select all</comment>
   </data>
   <data name="Contact_Copy" xml:space="preserve">
-    <value>Kopírovat e-mail</value>
+    <value>Kopírovat email</value>
     <comment>Copy email</comment>
   </data>
   <data name="Contact_CopyMailName" xml:space="preserve">
-    <value>Zkopírujte jméno a e-mail</value>
+    <value>Zkopírujte jméno a email</value>
     <comment>Copy name and email</comment>
   </data>
   <data name="Contact_NewMail" xml:space="preserve">
@@ -350,7 +350,7 @@
     <comment>Could not save file</comment>
   </data>
   <data name="Dialog_CantSaveExplanation" xml:space="preserve">
-    <value>Soubor '{0}' nemůže být uložen. Soubor je již používán.</value>
+    <value>Soubor "{0}" nemůže být uložen. Soubor je již používán.</value>
     <comment>The file '{0}' could not be saved. File already in use.</comment>
   </data>
   <data name="Dialog_DownloadFail" xml:space="preserve">
@@ -378,7 +378,7 @@ Url: {1}</comment>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>Identita se stejnou e-mail adresou již existuje.</value>
+    <value>Identita se stejnou email adresou již existuje.</value>
     <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
@@ -404,7 +404,7 @@ Do you want to reconnect your Facebook?</comment>
     <comment>File not found</comment>
   </data>
   <data name="Dialog_FileNotFoundExplanation" xml:space="preserve">
-    <value>Nemohu najít '{0}'. Prosíme zkontrolujte umístění souboru.</value>
+    <value>Nemohu najít "{0}". Prosíme zkontrolujte umístění souboru.</value>
     <comment>Can't find '{0}'. Please check whether file is in the correct location or not.</comment>
   </data>
   <data name="Dialog_Loading" xml:space="preserve">
@@ -452,7 +452,7 @@ This will restart Mailbird and may take a few minutes.</comment>
     <comment>Remove identity?</comment>
   </data>
   <data name="Dialog_RemoveIdentityExplanation" xml:space="preserve">
-    <value>Opravdu chcete odstranit identitu pro '{0}'?
+    <value>Opravdu chcete odstranit identitu pro "{0}"?
 Tato akce je nevratná.</value>
     <comment>Are you sure you want to remove the identity for '{0}'?
 This action is irreversible.</comment>
@@ -533,7 +533,7 @@ https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>Warning</comment>
   </data>
   <data name="Dialog_WhoToEmail" xml:space="preserve">
-    <value>Komu chcete poslat e-mail?</value>
+    <value>Komu chcete poslat email?</value>
     <comment>Who'd you like to email?</comment>
   </data>
   <data name="Dialog_WhoToEmailExplanation" xml:space="preserve">
@@ -546,7 +546,7 @@ https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
     <value>Napsali jste "{0}", a mysleli jsme, že budete chtít připojit soubor.
-Pokud chcete odeslat e-mail bez příloh, pouze stiskněte "Ok" níže.</value>
+Pokud chcete odeslat email bez příloh, pouze stiskněte "Ok" níže.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -587,7 +587,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit account</comment>
   </data>
   <data name="Account_Email" xml:space="preserve">
-    <value>E-mail:</value>
+    <value>Email:</value>
     <comment>Email:</comment>
   </data>
   <data name="Account_Name" xml:space="preserve">
@@ -747,7 +747,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
-    <value>Chcete použít Mailbird jako výchozí e-mailový prohlížeč?</value>
+    <value>Chcete použít Mailbird jako výchozí emailový prohlížeč?</value>
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
@@ -811,7 +811,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
-    <value>Prosím zadejte vaši e-mailovou adresu</value>
+    <value>Prosím zadejte vaši emailovou adresu</value>
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
@@ -843,11 +843,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter a username</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
-    <value>E-mailová adresa je neplatná</value>
+    <value>Emailová adresa je neplatná</value>
     <comment>Email is invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail2" xml:space="preserve">
-    <value>E-mailová adresa se zdá být neplatná</value>
+    <value>Emailová adresa se zdá být neplatná</value>
     <comment>Email appears invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
@@ -867,7 +867,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>URL</comment>
   </data>
   <data name="Dialog_Email" xml:space="preserve">
-    <value>E-mail</value>
+    <value>Email</value>
     <comment>Email</comment>
   </data>
   <data name="Dialog_NameLabel" xml:space="preserve">
@@ -991,7 +991,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</comment>
   </data>
   <data name="App_Contacts_Description" xml:space="preserve">
-    <value>Snadno upravovat, spravovat a zasílat e-maily Vašim kontaktům a skupině kontaktů.</value>
+    <value>Snadno upravovat, spravovat a zasílat emaily Vašim kontaktům a skupině kontaktů.</value>
     <comment>Easily edit, manage and email your contacts and contact groups.</comment>
   </data>
   <data name="App_Contacts_FailedFacebook" xml:space="preserve">
@@ -1035,7 +1035,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
   <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Pomozte Mailbird být nejlepší e-mailovou aplikací na světě.</value>
+    <value>Pomozte Mailbird být nejlepší emailovou aplikací na světě.</value>
     <comment>Help make Mailbird the best email app in the world.</comment>
   </data>
   <data name="App_Feedback_Title" xml:space="preserve">
@@ -1091,7 +1091,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>There's the proof. You rock!</comment>
   </data>
   <data name="InboxZero_RockStar" xml:space="preserve">
-    <value>Jsi e-mailová hvězda!</value>
+    <value>Jsi emailová hvězda!</value>
     <comment>You're an email rockstar!!</comment>
   </data>
   <data name="License_CorrectComputerDate" xml:space="preserve">
@@ -1155,7 +1155,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>C:\users\picture\image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink2" xml:space="preserve">
-    <value>e-mail@example.com</value>
+    <value>email@example.com</value>
     <comment>email@example.com</comment>
   </data>
   <data name="LinkEditor_ExampleLink3" xml:space="preserve">
@@ -1199,7 +1199,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit</comment>
   </data>
   <data name="Link_Email" xml:space="preserve">
-    <value>Odeslat e-mail pro:</value>
+    <value>Odeslat email pro:</value>
     <comment>Send email to:</comment>
   </data>
   <data name="Link_Go" xml:space="preserve">
@@ -1311,7 +1311,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Fwd:</comment>
   </data>
   <data name="Message_InMaking" xml:space="preserve">
-    <value>Tento e-mail právě píšete.</value>
+    <value>Tento email právě píšete.</value>
     <comment>Email in the making.</comment>
   </data>
   <data name="Message_Loading" xml:space="preserve">
@@ -1319,7 +1319,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Loading</comment>
   </data>
   <data name="Message_On" xml:space="preserve">
-    <value>On</value>
+    <value>Dne</value>
     <comment>On</comment>
   </data>
   <data name="Message_OpenLink" xml:space="preserve">
@@ -1363,7 +1363,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send &amp; Archive</comment>
   </data>
   <data name="Message_SendEmailTo" xml:space="preserve">
-    <value>Odeslat e-mail pro {0}</value>
+    <value>Odeslat email pro {0}</value>
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
@@ -1443,7 +1443,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Press {0} to write a new email anytime.</comment>
   </data>
   <data name="Notification_ReturnToEmail" xml:space="preserve">
-    <value>Klikněte zde kdykoliv pro návrat k vašemu e-mailu.</value>
+    <value>Klikněte zde kdykoliv pro návrat k vašemu emailu.</value>
     <comment>Click here anytime to return to your email.</comment>
   </data>
   <data name="Notification_TrashMany" xml:space="preserve">
@@ -1499,7 +1499,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Check for updates now</comment>
   </data>
   <data name="Options_DefaultApplication" xml:space="preserve">
-    <value>Výchozí e-mailová aplikace</value>
+    <value>Výchozí emailová aplikace</value>
     <comment>Default email application</comment>
   </data>
   <data name="Options_DefaultIdentity" xml:space="preserve">
@@ -1507,7 +1507,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>(Default)</comment>
   </data>
   <data name="Options_DefaultNotification" xml:space="preserve">
-    <value>Oznámit pokud Mailbird není výchozí e-mailový klient</value>
+    <value>Oznámit pokud Mailbird není výchozí emailový klient</value>
     <comment>Tell me if Mailbird is not the default email client</comment>
   </data>
   <data name="Options_DownloadOnDemand" xml:space="preserve">
@@ -1559,7 +1559,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
-    <value>Mailbird je výchozí e-mailový klient</value>
+    <value>Mailbird je výchozí emailový klient</value>
     <comment>Mailbird is the default email client</comment>
   </data>
   <data name="Options_FoldersFor" xml:space="preserve">
@@ -1579,7 +1579,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show message previews in conversation view</comment>
   </data>
   <data name="Options_NotDefault" xml:space="preserve">
-    <value>Mailbird není výchozí e-mailový klient</value>
+    <value>Mailbird není výchozí emailový klient</value>
     <comment>Mailbird is not the default email client</comment>
   </data>
   <data name="Options_Notifications" xml:space="preserve">
@@ -1595,7 +1595,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Quick compose shortcut</comment>
   </data>
   <data name="Options_QuickComposeExplanation" xml:space="preserve">
-    <value>Nastavením tohoto zástupce, budete moci vytvořit e-mail, i když je Mailbird minimalizován.</value>
+    <value>Nastavením tohoto zástupce, budete moci vytvořit email, i když je Mailbird minimalizován.</value>
     <comment>By setting this shortcut, you'll be able to compose email even if Mailbird is minimized.</comment>
   </data>
   <data name="Options_QuickComposeExplanation1" xml:space="preserve">
@@ -1863,7 +1863,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show more actions.</comment>
   </data>
   <data name="Shortcut_MoreActionExplanation" xml:space="preserve">
-    <value>Zobrazí 'Další akce' rozbalovací nabídku.</value>
+    <value>Zobrazí "Další akce" rozbalovací nabídku.</value>
     <comment>Displays the 'More Actions' drop-down menu.</comment>
   </data>
   <data name="Shortcut_MoveNewer" xml:space="preserve">
@@ -2011,15 +2011,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Puts your cursor in the search box.</comment>
   </data>
   <data name="Shortcut_SearchExplanation1" xml:space="preserve">
-    <value>Začněte nové hledání e-mailu.</value>
+    <value>Začněte nové hledání emailu.</value>
     <comment>Start new email search.</comment>
   </data>
   <data name="Shortcut_Send" xml:space="preserve">
-    <value>Odeslat e-mail</value>
+    <value>Odeslat email</value>
     <comment>Send Email</comment>
   </data>
   <data name="Shortcut_SendExplanation" xml:space="preserve">
-    <value>Odešle aktuální složení e-mailu v zobrazení.</value>
+    <value>Odešle aktuální složení emailu v zobrazení.</value>
     <comment>Sends the current composed email in view.</comment>
   </data>
   <data name="Shortcut_ShowMailbird" xml:space="preserve">
@@ -2217,15 +2217,15 @@ We will never post anything to Facebook.</comment>
     <comment>Add account</comment>
   </data>
   <data name="Welcome_WelcomeExplanation" xml:space="preserve">
-    <value>Zadejte podrobnosti o e-mailovém účtu, který chcete přidat do Mailbird.</value>
+    <value>Zadejte podrobnosti o emailovém účtu, který chcete přidat do Mailbird.</value>
     <comment>Enter the details of an email account you would like to add to Mailbird.</comment>
   </data>
   <data name="Report_OptionalEmail" xml:space="preserve">
-    <value>Váš e-mail: (volitelné - abychom vás mohli kontaktovat)</value>
+    <value>Váš email: (volitelné - abychom vás mohli kontaktovat)</value>
     <comment>Your email: (optional - so we can contact you)</comment>
   </data>
   <data name="Report_OptionalEmail2" xml:space="preserve">
-    <value>Váš e-mail: (volitelné)</value>
+    <value>Váš email: (volitelné)</value>
     <comment>Your email: (optional)</comment>
   </data>
   <data name="Report_UseMailEditor" xml:space="preserve">
@@ -2417,7 +2417,7 @@ Please check the free disk space and make more available if running low.</commen
     <comment>Server certificate error</comment>
   </data>
   <data name="Dialog_ServerCertificateErrorExplanation" xml:space="preserve">
-    <value>Mailbird zjistil, že certifikát SSL serveru: '{0}' je neplatný.
+    <value>Mailbird zjistil, že certifikát SSL serveru: "{0}" je neplatný.
 
 Pro pokračování klikněte na tlačítko "přečíst více".
 
@@ -2435,7 +2435,7 @@ Would you like to ignore the error permanently for this server?</comment>
 Emails already invited: {0}</comment>
   </data>
   <data name="Invite_EmailSuggestions" xml:space="preserve">
-    <value>Zadejte e-mail nebo jméno svých přátel</value>
+    <value>Zadejte email nebo jméno svých přátel</value>
     <comment>Type email or name of your friends</comment>
   </data>
   <data name="Invite_FailedConnectionMessage" xml:space="preserve">
@@ -2461,7 +2461,7 @@ Message: {0}</comment>
   <data name="Invite_SentExplanation" xml:space="preserve">
     <value>Výborné, že jste pozvali přátele na Mailbird. Tím to nemusí skončit!
 
-Potřebujete 4 přátele, kteří si nainstalují Mailbird, abyste mohli odemknout Vaši odměnu Mailbird Business "zaplať pouze jednou" (v hodnotě 400 $).
+Potřebujete 4 přátele, kteří si nainstalují Mailbird, abyste mohli odemknout Vaši odměnu Mailbird Business Doživotní licence (v hodnotě 400 $).
 
 Když se Vaši přátelé nainstalují Mailbird, stačí jim jednoduše zadat doporučující kód, a mohou získat 1 měsíc Mailbird Business ZDARMA.</value>
     <comment>Thanks for inviting!</comment>
@@ -2507,7 +2507,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Cannot create account</comment>
   </data>
   <data name="Welcome_UnableCreateAccountExplanation" xml:space="preserve">
-    <value>Účet se stejnou e-mailovou adresou již existuje.</value>
+    <value>Účet se stejnou emailovou adresou již existuje.</value>
     <comment>An account with the same email address already exists.</comment>
   </data>
   <data name="Upgrade_NoAds" xml:space="preserve">
@@ -2659,7 +2659,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Restart</comment>
   </data>
   <data name="Upgrade_SpeedRead" xml:space="preserve">
-    <value>Čtěte e-mail rychleji s rychlým čtením.</value>
+    <value>Čtěte email rychleji s rychlým čtením.</value>
     <comment>Read email more quickly with the speed reader</comment>
   </data>
   <data name="Options_Minutes" xml:space="preserve">
@@ -2699,7 +2699,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Update interval:</comment>
   </data>
   <data name="Welcome_Pop3UpdateIntervalInfo" xml:space="preserve">
-    <value>Jak často bude Mailbird kontrolovat nové zprávy. Minimální hodnotu definuje poskytovatel e-mailu, protože častá kontrola zpráv může vést k dočasnému zablokování přístupu k účtu POP3.</value>
+    <value>Jak často bude Mailbird kontrolovat nové zprávy. Minimální hodnotu definuje poskytovatel emailu, protože častá kontrola zpráv může vést k dočasnému zablokování přístupu k účtu POP3.</value>
     <comment>How often Mailbird will check for new messages. The minimum value is defined by the email provider, as checking for messages more often could lead to the account being blocked from POP3 access temporarily.</comment>
   </data>
   <data name="Conversation_MarkAllAsRead" xml:space="preserve">
@@ -2707,7 +2707,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark all as read</comment>
   </data>
   <data name="Notification_FolderSyncErrorHeader" xml:space="preserve">
-    <value>Chyba synchronizace '{0}' změn ve složkách</value>
+    <value>Chyba synchronizace "{0}" změn ve složkách</value>
     <comment>Error synchronizing '{0}' folder changes</comment>
   </data>
   <data name="Dialog_RemoveFolder" xml:space="preserve">
@@ -2715,7 +2715,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Remove folder?</comment>
   </data>
   <data name="Dialog_RemoveFolderExplanation" xml:space="preserve">
-    <value>Opravdu chcete odebrat „{0}“?</value>
+    <value>Opravdu chcete odebrat "{0}"?</value>
     <comment>{0} will be replaced by folder name, so it will be: Are you sure you want to remove "Travel"?</comment>
   </data>
   <data name="EditFolderWindow_DuplicateName" xml:space="preserve">
@@ -2735,7 +2735,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Do you really want to send this message without a subject?</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorMessage" xml:space="preserve">
-    <value>Toto je obvykle způsobeno kontrolou zpráv dalšího e-mailového klienta ve stejnou dobu, nebo kontrola zprávy je příliš často.</value>
+    <value>Toto je obvykle způsobeno kontrolou zpráv dalšího emailového klienta ve stejnou dobu, nebo kontrola zprávy je příliš často.</value>
     <comment>This is typically caused by another email client checking for messages at the same time, or checking for messages too often.</comment>
   </data>
   <data name="Dialog_Pop3RefreshErrorTitle" xml:space="preserve">
@@ -2827,7 +2827,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Title</comment>
   </data>
   <data name="App_Contacts_FieldAddEmail" xml:space="preserve">
-    <value>přidat e-mail</value>
+    <value>přidat email</value>
     <comment>Add email</comment>
   </data>
   <data name="App_Contacts_FieldAddPhone" xml:space="preserve">
@@ -2859,7 +2859,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>{0} will be replaced by the skype name, so the result will be "Call (Skype) skypename"</comment>
   </data>
   <data name="App_Contacts_SendEmail" xml:space="preserve">
-    <value>E-mail {0}</value>
+    <value>Email {0}</value>
     <comment>{0} will be replaced by the email address, so the result will be "Send email to test@gmail.com"</comment>
   </data>
   <data name="Dialog_DeleteGroup" xml:space="preserve">
@@ -2879,7 +2879,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Mark as read and go to next conversation</comment>
   </data>
   <data name="Shortcut_ReadExplanationStay" xml:space="preserve">
-    <value>Označí vaši zprávu jako 'přečtenou'</value>
+    <value>Označí vaši zprávu jako "přečtenou"</value>
     <comment>Marks your message as 'read'</comment>
   </data>
   <data name="Conversation_NoSubject" xml:space="preserve">
@@ -2887,7 +2887,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>(no subject)</comment>
   </data>
   <data name="Awesomium_SendEmail" xml:space="preserve">
-    <value>Odeslat e-mail ..</value>
+    <value>Odeslat email ..</value>
   </data>
   <data name="App_Contacts_All" xml:space="preserve">
     <value>Všechny kontakty</value>
@@ -2922,7 +2922,7 @@ Please check the identity setup and try again.</comment>
     <comment>Browse</comment>
   </data>
   <data name="App_Contacts_Import_Description" xml:space="preserve">
-    <value>vCard (.vcf) je standardní formát souborů pro elektronické vizitky. Mailbird může importovat kontakty z vCard souborů vytvořených z jiných e-mailových služeb, jako je Gmail, Yahoo, Outlook atd.
+    <value>vCard (.vcf) je standardní formát souborů pro elektronické vizitky. Mailbird může importovat kontakty z vCard souborů vytvořených z jiných emailových služeb, jako je Gmail, Yahoo, Outlook atd.
 
 Zde je několik odkazů, které pomáhají vytvářet soubory vCard z různých služeb:</value>
     <comment>vCard (.vcf) is a file format standard for electronic business cards. Mailbird can import contacts from vCard files created from other email services like Gmail, Yahoo, Outlook, etc.
@@ -2930,7 +2930,7 @@ Zde je několik odkazů, které pomáhají vytvářet soubory vCard z různých 
 Here are a couple of links to help produce vCard files from various services:</comment>
   </data>
   <data name="App_Contacts_Import_DescriptionBrowse" xml:space="preserve">
-    <value>Klikněte na tlačítko 'Procházet' a vyberte soubor(y), které chcete importovat.</value>
+    <value>Klikněte na tlačítko "Procházet" a vyberte soubor(y), které chcete importovat.</value>
     <comment>Click on 'Browse' below to select the file(s) to import from.</comment>
   </data>
   <data name="App_Contacts_Import_Gmail" xml:space="preserve">
@@ -2982,7 +2982,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Cube</comment>
   </data>
   <data name="AvatarIconEmail" xml:space="preserve">
-    <value>E-mail</value>
+    <value>Email</value>
     <comment>Email</comment>
   </data>
   <data name="AvatarIconFastMail" xml:space="preserve">
@@ -3110,7 +3110,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>No duplicates found</comment>
   </data>
   <data name="App_OldContacts_Description" xml:space="preserve">
-    <value>Umožňuje vyhledávat osoby, prohlížet kontaktní informace a odesílat jim e-maily přímo dvojitým kliknutím.</value>
+    <value>Umožňuje vyhledávat osoby, prohlížet kontaktní informace a odesílat jim emaily přímo dvojitým kliknutím.</value>
     <comment>Allows you to search for people, view contact information and email them directly by double-clicking.</comment>
   </data>
   <data name="App_OldContacts_Title" xml:space="preserve">
@@ -3244,7 +3244,7 @@ Prosím, nejdříve zkontrolujte Vaše internetové připojení a ujistěte se, 
     <comment>Error sending message</comment>
   </data>
   <data name="Notification_SendErrorMessage" xml:space="preserve">
-    <value>Mailbird nedokázal odeslat zprávu. Prosím, zkontrolujte nastavení odesílacího serveru pro svou identitu v poli 'Od'.
+    <value>Mailbird nedokázal odeslat zprávu. Prosím, zkontrolujte nastavení odesílacího serveru pro svou identitu v poli "Od".
 
 Přečtěte si více:
 https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
@@ -3259,7 +3259,7 @@ https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>Mailbird tips</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Je nutné přidat e-mailový účet chcete-li začít používat Mailbird. 
+    <value>Je nutné přidat emailový účet chcete-li začít používat Mailbird. 
 
 Opravdu chcete prováděnou akci zrušit?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
@@ -3397,7 +3397,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Get Snooze and many other features to boost your productivity.</comment>
   </data>
   <data name="Welcome_MoreAccounts_Header" xml:space="preserve">
-    <value>Chcete přidat další e-mailové účty?</value>
+    <value>Chcete přidat další emailové účty?</value>
     <comment>Want to add more email accounts?</comment>
   </data>
   <data name="License_RestartToConvertLiteExplanation" xml:space="preserve">
@@ -3429,7 +3429,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Apps</comment>
   </data>
   <data name="Options_Email" xml:space="preserve">
-    <value>E-mail</value>
+    <value>Email</value>
     <comment>Email</comment>
   </data>
   <data name="JumpList_ExitMailbird" xml:space="preserve">
@@ -3627,11 +3627,11 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Selected file cannot be attached</comment>
   </data>
   <data name="Notification_AttachmentCannotBeNoAccess" xml:space="preserve">
-    <value>Soubor '{0}' nelze přidat jako přílohu, protože nemáte oprávnění k přístupu. Zkontrolujte prosím uživatelská práva a zkuste to znovu.</value>
+    <value>Soubor "{0}" nelze přidat jako přílohu, protože nemáte oprávnění k přístupu. Zkontrolujte prosím uživatelská práva a zkuste to znovu.</value>
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>Nejlepší e-mailový klient a komunikační nástroj pro Windows vytvořený pomocí @mailbird</value>
+    <value>Nejlepší emailový klient a komunikační nástroj pro Windows vytvořený pomocí @mailbird</value>
     <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
@@ -3687,7 +3687,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
 
 Chcete-li problém odstranit, odinstalujte a znovu nainstalujte Mailbird stažením nejnovější verze https://www.getmailbird.com
 
-Všechna nastavení, e-mail, atd. budou uchovány, dokud neodstraníte úložiště při dotazu během odinstalace.</value>
+Všechna nastavení, email, atd. budou uchovány, dokud neodstraníte úložiště při dotazu během odinstalace.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -3697,7 +3697,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>Get Mailbird Pro - 33% off</comment>
   </data>
   <data name="Notification_AttachmentCantBeAddedLocked" xml:space="preserve">
-    <value>Soubor '{0}' nelze přidat jako přílohu. Zkontrolujte prosím, že soubor není použit v jiném programu a zkuste to znovu.</value>
+    <value>Soubor "{0}" nelze přidat jako přílohu. Zkontrolujte prosím, že soubor není použit v jiném programu a zkuste to znovu.</value>
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="App_DefaultFatalError" xml:space="preserve">
@@ -3713,7 +3713,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Loading...</comment>
   </data>
   <data name="RateRecommend_TwitterMessage" xml:space="preserve">
-    <value>Získejte závislost na #InboxZero (nulová doručená pošta) pomocí @mailbird. Miluji tento krásný e-mailový klient pro #Windows http://getmailbird.com/</value>
+    <value>Získejte závislost na #InboxZero (nulová doručená pošta) pomocí @mailbird. Miluji tento krásný emailový klient pro #Windows http://getmailbird.com/</value>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
@@ -3804,7 +3804,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Pozvěte přátele - Získejte Mailbird Business "zaplať pouze jednou" ZDARMA</value>
+    <value>Pozvěte přátele - Získejte Mailbird Business Doživotní licence ZDARMA</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -3816,7 +3816,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
-    <value>Nebo importovat z jiného e-mailového klienta.</value>
+    <value>Nebo importovat z jiného emailového klienta.</value>
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
@@ -3830,7 +3830,7 @@ Account 1 of 4.</comment>
   </data>
   <data name="Welcome_ImportSubTitle" xml:space="preserve">
     <value>Vyberte účty, které chcete importovat do Mailbird.
-Chcete-li zabránit chybám, zavřete prosím e-mailového klienta, ze kterého budete importovat.</value>
+Chcete-li zabránit chybám, zavřete prosím emailového klienta, ze kterého budete importovat.</value>
     <comment>Select the accounts you want to import to Mailbird.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -3909,7 +3909,7 @@ Canceling will not remove already imported data.</comment>
   </data>
   <data name="Welcome_ImportToExistingSubTitle" xml:space="preserve">
     <value>Vyberte účet nebo PST soubor, ze kterého chcete importovat.
-Chcete-li zabránit chybám, zavřete prosím e-mailového klienta, ze kterého budete importovat.</value>
+Chcete-li zabránit chybám, zavřete prosím emailového klienta, ze kterého budete importovat.</value>
     <comment>Select the account or PST file to import from.
 To prevent errors, please close the email client you'll import from before continuing.</comment>
   </data>
@@ -4079,7 +4079,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
-    <value>Chyba ověřování Mailbird pro přístup k e-mailovému účtu.
+    <value>Chyba ověřování Mailbird pro přístup k emailovému účtu.
 
 Zkuste to prosím znovu nebo přepněte na ověřování pomocí uživatelského jména a hesla.</value>
     <comment>An error occured authorizing Mailbird to access the email account.
@@ -4111,7 +4111,7 @@ Please try again and log in with the correct account before granting access.</co
     <comment>Incorrect account</comment>
   </data>
   <data name="Notification_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Zkontrolujte nastavení účtu a ověřte, jestli jsou správné a že Mailbird je oprávněn k přístupu k vašemu e-mailovému účtu.</value>
+    <value>Zkontrolujte nastavení účtu a ověřte, jestli jsou správné a že Mailbird je oprávněn k přístupu k vašemu emailovému účtu.</value>
     <comment>Please check the account settings to verify that the settings are correct and that Mailbird is authorized to access your account.</comment>
   </data>
   <data name="Welcome_MailboxChangeError" xml:space="preserve">
@@ -4147,7 +4147,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Invite my contacts</comment>
   </data>
   <data name="Invite_SendToAllContactsExplanation" xml:space="preserve">
-    <value>Zaškrtnutím tohoto políčka pozvete všechny své kontakty najednou! Snadné. Upozorňujeme, že žádné soukromé nebo vlastní e-mailové domény nejsou zahrnuty, aby nedošlo k pozvání profesních nebo obchodních kontaktů.</value>
+    <value>Zaškrtnutím tohoto políčka pozvete všechny své kontakty najednou! Snadné. Upozorňujeme, že žádné soukromé nebo vlastní emailové domény nejsou zahrnuty, aby nedošlo k pozvání profesních nebo obchodních kontaktů.</value>
     <comment>Earn unlimited Mailbird Pro for free. Your contacts will get an invite to get Mailbird.</comment>
   </data>
   <data name="Timeline_ExpireDays" xml:space="preserve">
@@ -4298,7 +4298,7 @@ the final result will be: Search Google for "query"</comment>
     <comment>Speed read</comment>
   </data>
   <data name="Shortcut_SpeedReadExplanation" xml:space="preserve">
-    <value>Přečtěte si vybraný e-mail rychleji v režimu rychlého čtení</value>
+    <value>Přečtěte si vybraný email rychleji v režimu rychlého čtení</value>
     <comment>Read the selected email more quickly in speed read mode</comment>
   </data>
   <data name="SpeedRead_Finish" xml:space="preserve">
@@ -4426,18 +4426,18 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Pozvěte přátele ze svého primárního e-mailového účtu, jedná se o výchozí e-mailový účet ve Vašem Mailbird. Pozvěte co nejvíce přátel! 
+    <value>Pozvěte přátele ze svého primárního emailového účtu, jedná se o výchozí e-mailový účet ve Vašem Mailbird. Pozvěte co nejvíce přátel! 
 
 Vezměte prosím na vědomí, že na 1 e-mailovou adresu je omezena 1 odměna jak pro doporučujícího tak pro doporučeného. Když {0} nebo více vašich přátel nainstaluje Mailbird pomocí Vaší pozvánky:
 
-1. Získáte [bold]Mailbird Business "Doživotní licence" (v hodnotě $399) ZDARMA[/bold]
+1. Získáte [bold]Mailbird Business Doživotní licence (v hodnotě $399) ZDARMA[/bold]
 
 2. Vaši přátelé, kteří nainstalují Mailbird, získají [bold]1 měsíc[/bold] Mailbird Business [bold]ZDARMA[/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
     <value>Získejte Mailbird Business 
-"Doživotní licence" (v hodnotě $399) ZDARMA</value>
+Doživotní licence (v hodnotě $399) ZDARMA</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
   <data name="InviteV2_Accepted" xml:space="preserve">
@@ -4533,7 +4533,7 @@ Are you sure you want to close the window?</comment>
     <comment>Invite again</comment>
   </data>
   <data name="InstallationForm_SetAsDefault" xml:space="preserve">
-    <value>Nastavte Mailbird jako výchozí e-mailový klient</value>
+    <value>Nastavte Mailbird jako výchozí emailový klient</value>
     <comment>Set Mailbird as the default email client</comment>
   </data>
   <data name="Menu_Settings" xml:space="preserve">
@@ -4908,7 +4908,7 @@ Chcete-li přidat kontakt, klikněte na tlačítko "Přidat kontakt".</value>
     <comment>+ Connect other account</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
-    <value>Je nám líto, ale tento e-mailový účet nemá podporu pro synchronizaci kontaktů.</value>
+    <value>Je nám líto, ale tento emailový účet nemá podporu pro synchronizaci kontaktů.</value>
     <comment>Sorry, but this email account doesn't have support for contacts sync.</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_Unsupported" xml:space="preserve">
@@ -4944,7 +4944,7 @@ Chcete-li přidat kontakt, klikněte na tlačítko "Přidat kontakt".</value>
     <comment>Look up on LinkedIn</comment>
   </data>
   <data name="App_Contacts_ContextMenuNewEmail" xml:space="preserve">
-    <value>Napsat e-mail</value>
+    <value>Napsat email</value>
     <comment>Compose email</comment>
   </data>
   <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
@@ -5170,7 +5170,7 @@ Tím se zakáže synchronizace kontaktů a odstraní se skupiny a kontakty účt
     <comment>Menu to force contact manager to sync to server</comment>
   </data>
   <data name="App_Contacts_MenuEmailGroup" xml:space="preserve">
-    <value>Poslat e-mail skupině</value>
+    <value>Poslat email skupině</value>
     <comment>Menu to send email to selected group</comment>
   </data>
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
@@ -5220,7 +5220,7 @@ with Mailbird Pro?</comment>
     <comment>Yes, Let's do it!</comment>
   </data>
   <data name="Trial_SendInviteConfirmationDescription" xml:space="preserve">
-    <value>Posílejte pozvánky všem svých kontaktům, které mají e-mailovou adresu @gmail.com, @yahoo.com a někteří hlavní poskytovatelé e-mailů.</value>
+    <value>Posílejte pozvánky všem svých kontaktům, které mají emailovou adresu @gmail.com, @yahoo.com a někteří hlavní poskytovatelé e-mailů.</value>
     <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
   </data>
   <data name="Trial_SendInviteDescription" xml:space="preserve">
@@ -5244,7 +5244,7 @@ with Mailbird Pro?</comment>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Email" xml:space="preserve">
-    <value>E-mail</value>
+    <value>Email</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_InstantMessenger" xml:space="preserve">
@@ -5396,7 +5396,7 @@ with Mailbird Pro?</comment>
     <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Odstraněním návrhu se nebude při psaní zprávy zobrazovat v seznamu - například pokud e-mailová adresa již neexistuje nebo je nesprávná.
+    <value>Odstraněním návrhu se nebude při psaní zprávy zobrazovat v seznamu - například pokud emailová adresa již neexistuje nebo je nesprávná.
 
 Odstraněné návrhy lze obnovit z nastavení.</value>
     <comment>Dialog box message</comment>
@@ -5448,7 +5448,7 @@ Zkuste nové Kontakty již teď!</value>
     <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
-    <value>Sdílet přes e-mail</value>
+    <value>Sdílet přes email</value>
     <comment>Tooltip to share via email</comment>
   </data>
   <data name="RateRecommend_Facebook" xml:space="preserve">
@@ -5616,7 +5616,7 @@ Zkuste nové Kontakty již teď!</value>
     <value>Jednoduché. Osobní. Zprávy v reálném čase. Přetáhněte přílohy přímo do aplikace WhatsApp z Mailbird.</value>
   </data>
   <data name="Tutorial_ContactsAccount" xml:space="preserve">
-    <value>Připojte své e-mailové účty a synchronizujte kontakty.</value>
+    <value>Připojte své emailové účty a synchronizujte kontakty.</value>
     <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
   <data name="App_Contacts_BrowseContacts_Search" xml:space="preserve">
@@ -5798,7 +5798,7 @@ Restartujte teď, abyste získali nejnovější vylepšení a opravy - bude to t
     <comment>Dialog box title when user is about to empty a folder</comment>
   </data>
   <data name="Dialog_EmptyFolderExplanation" xml:space="preserve">
-    <value>Opravdu chcete odstranit všechny e-maily v této složce?</value>
+    <value>Opravdu chcete odstranit všechny emaily v této složce?</value>
     <comment>Dialog box explanation when user is about to empty a folder</comment>
   </data>
   <data name="Account_Exchange_Domain" xml:space="preserve">
@@ -5830,7 +5830,7 @@ Restartujte teď, abyste získali nejnovější vylepšení a opravy - bude to t
     <comment>Error message that appears when connecting to an Exchange account that is locked.</comment>
   </data>
   <data name="Connection_Error_ExchangeAutodiscoverCannotBeLocated" xml:space="preserve">
-    <value>Služba Exchange autodiscover nelze najít. Ujistěte se, že je váš e-mail a heslo správné, a zkuste to znovu, nebo kontaktujte administrátora serveru a ujistěte se, že je služba autodiscover povolena.</value>
+    <value>Služba Exchange autodiscover nelze najít. Ujistěte se, že je váš email a heslo správné, a zkuste to znovu, nebo kontaktujte administrátora serveru a ujistěte se, že je služba autodiscover povolena.</value>
     <comment>Error message that appears when trying to connect to an Exchange server but the autodiscover service cannot be located.</comment>
   </data>
   <data name="Welcome_Settings_ExchangeAccount" xml:space="preserve">
@@ -5876,7 +5876,7 @@ Obraťte se na podporu, kde naleznete informace o řešení tohoto problému.</v
     <comment>Header for other options to scale the UI</comment>
   </data>
   <data name="Options_ScaleOthersExplanation" xml:space="preserve">
-    <value>Následující úrovně měřítka budou aplikovány na úroveň měřítka aplikací a mohou být použity k vyladění úrovně e-mailových zpráv a aplikací, které je podporují.</value>
+    <value>Následující úrovně měřítka budou aplikovány na úroveň měřítka aplikací a mohou být použity k vyladění úrovně emailových zpráv a aplikací, které je podporují.</value>
     <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
@@ -5922,7 +5922,7 @@ Obraťte se na podporu, kde naleznete informace o řešení tohoto problému.</v
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
     <value>Oceňujeme vaše soukromí a rádi bychom zůstali v kontaktu.
 
-Proto bychom rádi požádali o svolení, abychom vám zaslali příležitostné e-maily s čistě Mailbird souvisejícími užitečnými tipy, speciálními propagačními akcemi a detaily o nových vzrušujících funkcích Mailbird.</value>
+Proto bychom rádi požádali o svolení, abychom vám zaslali příležitostné emaily s čistě Mailbird souvisejícími užitečnými tipy, speciálními propagačními akcemi a detaily o nových vzrušujících funkcích Mailbird.</value>
     <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
@@ -6453,7 +6453,7 @@ e.g. "1 occurrence"</comment>
 e.g. "2 occurrences"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_On" xml:space="preserve">
-    <value>On</value>
+    <value>dne</value>
     <comment>Content for radio button, the full sentence is e.g. "ends on 15 July 2018"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_RepeatOn" xml:space="preserve">
@@ -6520,7 +6520,7 @@ e.g. "2 occurrences"</comment>
     <comment>Calendar event repeats only 1 time.</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnThe" xml:space="preserve">
-    <value>{0}</value>
+    <value>v {0}</value>
     <comment>An event repeats on n day of the week. Example: on the first Monday, on the third Thursday, on the last Friday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Second" xml:space="preserve">
@@ -7038,7 +7038,7 @@ Doručené pošty.</value>
     <comment>Field for calendar's color</comment>
   </data>
   <data name="App_ZeroBounce_Description" xml:space="preserve">
-    <value>Přední systém pro ověřování e-mailů. Vylepšete doručenou poštu tak, že odstraníte podezřelé emaily ze svého seznamu.</value>
+    <value>Přední systém pro ověřování emailů. Vylepšete doručenou poštu tak, že odstraníte podezřelé emaily ze svého seznamu.</value>
     <comment>App description for ZeroBounce.</comment>
   </data>
   <data name="App_Calendar_SyncDetails" xml:space="preserve">
@@ -7572,7 +7572,7 @@ Opravdu chcete pokračovat v nákupu aplikace Mailbird Personal?</value>
     <comment>Header for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ActionsExplanation" xml:space="preserve">
-    <value>Nastavte akce pro filtrované e-maily.</value>
+    <value>Nastavte akce pro filtrované emaily.</value>
     <comment>Explanation for actions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_AddAction" xml:space="preserve">
@@ -7588,7 +7588,7 @@ Opravdu chcete pokračovat v nákupu aplikace Mailbird Personal?</value>
     <comment>Header for conditions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_ConditionsExplanation" xml:space="preserve">
-    <value>Nastavte podmínky pro e-maily, které chcete filtrovat.</value>
+    <value>Nastavte podmínky pro emaily, které chcete filtrovat.</value>
     <comment>Explanation for conditions section in edit filter window</comment>
   </data>
   <data name="Filter_EditFilter_Review" xml:space="preserve">
@@ -7616,7 +7616,7 @@ Opravdu chcete pokračovat v nákupu aplikace Mailbird Personal?</value>
     <comment>Label for displaying filter</comment>
   </data>
   <data name="Filter_ContactPlaceholder" xml:space="preserve">
-    <value>Zadejte jména, e-mailové adresy nebo domény</value>
+    <value>Zadejte jména, emailové adresy nebo domény</value>
     <comment>Placeholder in from and to field in filter condition</comment>
   </data>
   <data name="Filter_EditFilter_Applied" xml:space="preserve">
@@ -7648,7 +7648,7 @@ Opravdu chcete pokračovat v nákupu aplikace Mailbird Personal?</value>
   </data>
   <data name="Invite_Message" xml:space="preserve">
     <value>Ahoj,
-začal jsem používat Mailbird. V jedné aplikaci Mailbird můžete spravovat libovolný počet různých e-mailových a komunikačních účtů. Vyzkoušejte Mailbird zdarma zde: {0}.
+začal jsem používat Mailbird. V jedné aplikaci Mailbird můžete spravovat libovolný počet různých emailových a komunikačních účtů. Vyzkoušejte Mailbird zdarma zde: {0}.
 
 Doufám, že se ti to bude líbit.</value>
     <comment>Message when recommending Mailbird via email</comment>
@@ -7734,7 +7734,7 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
-    <value>Tato verze Mailbirdu používá pro místní data samostatný datový adresář než normální verze Mailbird.
+    <value>Tato verze Mailbird používá pro místní data samostatný datový adresář než normální verze Mailbird.
 
 Chcete začít se stejnými nastaveními, účty, zprávami atd., Jaké jste přidali do běžné verze Mailbird?
 
@@ -7742,7 +7742,7 @@ Ne všechny změny provedené v jedné verzi Mailbird se budou synchronizovat s 
     <comment>Dialog asking whether to copy data from the release version of Mailbird when starting the alpha version for the first time.</comment>
   </data>
   <data name="Dialog_ExistingInstallationDetected" xml:space="preserve">
-    <value>Byla zjištěna existující instalace.</value>
+    <value>Byla zjištěna existující instalace</value>
     <comment>Existing installation detected</comment>
   </data>
   <data name="Options_MailbirdAlpha" xml:space="preserve">
@@ -7770,17 +7770,17 @@ Note that since this is the "in development" version of Mailbird, issues may occ
     <comment>Starting Mailbird</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingData" xml:space="preserve">
-    <value>Error starting Mailbird with existing data</value>
+    <value>Chyba při spuštění Mailbird s existujícími daty</value>
     <comment>Error starting Mailbird with existing data</comment>
   </data>
   <data name="Dialog_ErrorCopyingExistingDataExplanation" xml:space="preserve">
-    <value>An error occurred copying data from the normal version of Mailbird to this version.
+    <value>Při kopírování dat z normální verze Mailbird do této verze došlo k chybě.
 
-Your normal version of Mailbird is unaffected but this version will start as a new installation.</value>
+Vaše normální verze Mailbird není ovlivněna, ale tato verze bude spuštěna jako nová instalace.</value>
     <comment>Dialog showing when an error starting Mailbird with existing data failed.</comment>
   </data>
   <data name="Dialog_CopyingNecessaryData" xml:space="preserve">
-    <value>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</value>
+    <value>Mailbird kopíruje data nezbytná pro spuštění s vašimi stávajícími účty. Prosím, čekejte ..</value>
     <comment>Mailbird is copying the data necessary to start with your existing accounts. Please wait...</comment>
   </data>
   <data name="Filter_Field_Condition_HasAttachment" xml:space="preserve">
@@ -7788,7 +7788,7 @@ Your normal version of Mailbird is unaffected but this version will start as a n
     <comment>Filter condition in the filter window</comment>
   </data>
   <data name="AdvancedSearch_LearnMore" xml:space="preserve">
-    <value>Learn more about advanced search queries [link href={0}]here[/link].</value>
+    <value>Další informace o dotazech pro pokročilé vyhledávání [link href={0}]here[/link].</value>
     <comment>Explanation text in advanced search popup</comment>
   </data>
   <data name="AdvancedSearch_AllMail" xml:space="preserve">
@@ -7999,19 +7999,19 @@ Jinak bude odeslána hned, jakmile bude Mailbird znovu online.</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Notification_SendLaterIntroHeader" xml:space="preserve">
-    <value>Introducing 'Send Later'</value>
+    <value>Představujeme "Odeslat později"</value>
     <comment>Header when first time doing Send Later feature</comment>
   </data>
   <data name="Notification_SendLaterIntroMessage" xml:space="preserve">
-    <value>You've just scheduled your first message to send later!
+    <value>Právě jste naplánovali odeslání první zprávy později!
 
-[bold]Important:[/bold] Because we don't store your account credentials or emails on our servers for security reasons, 'Send Later' requires that Mailbird is running on your machine at the scheduled time, in order for it to send the message.
+[bold]Důležité:[/bold] Protože z bezpečnostních důvodů neukládáme přihlašovací údaje k vašemu účtu nebo emaily na našich serverech, vyžaduje funkce "Odeslat později", aby Mailbird běžel na vašem počítači v naplánovaný čas, pro odeslání zprávy.
 
-If Mailbird is not running at the scheduled time the message will not send, but will instead be sent the next time you start Mailbird.</value>
+Pokud Mailbird není spuštěn v naplánovaný čas, zpráva nebude odeslána, ale místo toho bude odeslána při příštím spuštění Mailbird.</value>
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
-    <value>Unified accounts</value>
+    <value>Sjednocené účty</value>
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
   <data name="Invite_FailedSendInvitation" xml:space="preserve">
@@ -8019,7 +8019,7 @@ If Mailbird is not running at the scheduled time the message will not send, but 
     <comment>Failed to send invitation</comment>
   </data>
   <data name="Filter_DisabledAction" xml:space="preserve">
-    <value>Tato akce není dostupná pro filtry '{0}'.</value>
+    <value>Tato akce není dostupná pro filtry "{0}".</value>
     <comment>Message when action in filter is not enabled.
 {0} will be replaced with value from Filters_UnifiedAccountsItem</comment>
   </data>
@@ -8114,15 +8114,15 @@ Opravdu chcete konverzaci smazat?</value>
     <comment>Message after user unsubscribed from email</comment>
   </data>
   <data name="EmailTracking_Disable" xml:space="preserve">
-    <value>Disable email tracking</value>
+    <value>Zakázat sledování emailů</value>
     <comment>Tooltip to disable email tracking</comment>
   </data>
   <data name="EmailTracking_Enable" xml:space="preserve">
-    <value>Enable email tracking</value>
+    <value>Povolit sledování emailů</value>
     <comment>Tooltip to enable email tracking</comment>
   </data>
   <data name="Options_EmailTracking" xml:space="preserve">
-    <value>Povolit sledování e-mailů ve výchozím nastavení</value>
+    <value>Povolit sledování emailů ve výchozím nastavení</value>
     <comment>Option to turn on Email Tracking by default</comment>
   </data>
   <data name="Conversation_HasAttachments" xml:space="preserve">
@@ -8142,7 +8142,7 @@ Opravdu chcete konverzaci smazat?</value>
     <comment>Tooltip for showing how many people have opened the message</comment>
   </data>
   <data name="Options_EmailTrackingHeader" xml:space="preserve">
-    <value>Sledování e-mailů</value>
+    <value>Sledování emailů</value>
     <comment>Section in settings window for Email Tracking</comment>
   </data>
   <data name="Options_BusinessFeatureExplanation" xml:space="preserve">
@@ -8154,7 +8154,7 @@ Opravdu chcete konverzaci smazat?</value>
     <comment>Title in upgrade to pro window</comment>
   </data>
   <data name="Upgrade_EmailTracking" xml:space="preserve">
-    <value>Získejte Mailbird Business a používejte neomezeně sledování e-mailů.</value>
+    <value>Získejte Mailbird Business a používejte neomezeně sledování emailů.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Attachment_SaveAttachment" xml:space="preserve">
@@ -8182,8 +8182,8 @@ Opravdu chcete konverzaci smazat?</value>
     <comment>Label for when there is error on email tracking</comment>
   </data>
   <data name="EmailTracking_ErrorExplanation" xml:space="preserve">
-    <value>{0} recipient did not receive the message due to error.
-You can try re-sending it to them, or ignore the errors to remove them as recipients and mark the message as sent.</value>
+    <value>{0} příjemce neobdržel zprávu kvůli chybě.
+Můžete ji zkusit znovu odeslat, nebo chybu ignorovat pro odstranění ho jako příjemce a označit zprávu jako odeslanou.</value>
     <comment>Message when there is error on sending email with tracking</comment>
   </data>
   <data name="EmailTracking_ErrorExplanationPlural" xml:space="preserve">
@@ -8224,7 +8224,7 @@ Můžete zkusit znovu odeslat nebo ignorovat chybu, abyste je odstranili ze sezn
     <comment>Header to show counter of how many tracking sent</comment>
   </data>
   <data name="EmailTracking_LimitedTrackingExplanation" xml:space="preserve">
-    <value>Odesílající server plně nepodporuje sledování e-mailů.</value>
+    <value>Odesílající server plně nepodporuje sledování emailů.</value>
     <comment>Explanation when email tracking is not fully supported</comment>
   </data>
   <data name="EmailTracking_UnknownRecipient" xml:space="preserve">
@@ -8232,11 +8232,11 @@ Můžete zkusit znovu odeslat nebo ignorovat chybu, abyste je odstranili ze sezn
     <comment>Label when the recipient is unknown in limited email tracking</comment>
   </data>
   <data name="EmailTracking_NoOpens" xml:space="preserve">
-    <value>E-mail nikdo neotevřel.</value>
+    <value>Email nikdo neotevřel.</value>
     <comment>Message when no one has opened email in the email tracking list</comment>
   </data>
   <data name="App_Referral_Description" xml:space="preserve">
-    <value>Pozvěte své přátele a získejte Mailbird Business Pay Once (v hodnotě $399) zdarma</value>
+    <value>Pozvěte své přátele a získejte Mailbird Business Doživotní licence (v hodnotě $399) zdarma</value>
     <comment>Description of referral app shown in apps store section</comment>
   </data>
   <data name="App_Referral_Title" xml:space="preserve">
@@ -8244,13 +8244,13 @@ Můžete zkusit znovu odeslat nebo ignorovat chybu, abyste je odstranili ze sezn
     <comment>Title of referral app shown in apps store section</comment>
   </data>
   <data name="Notification_EmailTrackingIntroHeader" xml:space="preserve">
-    <value>Představujeme 'Sledování e-mailu'</value>
+    <value>Představujeme "Sledování emailu"</value>
     <comment>Header when first time sending email with Email Tracking</comment>
   </data>
   <data name="Notification_EmailTrackingIntroMessage" xml:space="preserve">
     <value>Právě jste odeslali svou první sledovanou zprávu!
 
-Mailbird nyní bude moci zobrazit, když příjemci otevřou váš e-mail. Můžete zkontrolovat stav otevření e-mailu, a to jak ve zprávě, tak v konverzaci. Chcete-li zobrazit stav zprávy, vyberte složku Odeslané.
+Mailbird nyní bude moci zobrazit, když příjemci otevřou váš email. Můžete zkontrolovat stav otevření e-mailu, a to jak ve zprávě, tak v konverzaci. Chcete-li zobrazit stav zprávy, vyberte složku Odeslané.
 
 [bold]Důležité:[/bold] Někteří příjemci mohou sledování e-mailů blokovat, proto jejich stav zůstane "nevyřízený".</value>
     <comment>Message when first time sending email with Email Tracking</comment>
@@ -8270,7 +8270,7 @@ Ujistěte se, že nic nepoužívá nebo neblokuje port {0}, a zkuste to znovu.</
     <comment>Message when app is retrieving license status from server</comment>
   </data>
   <data name="Upgrade_SprintUpgrade" xml:space="preserve">
-    <value>Získejte Rozšířené vyhledávání, Tlačítko pro odhlášení, Odeslat později, Sledování e-mailů a mnoho dalšího.</value>
+    <value>Získejte Rozšířené vyhledávání, Tlačítko pro odhlášení, Odeslat později, Sledování emailů a mnoho dalšího.</value>
     <comment>Message when lite users try accessing pro features</comment>
   </data>
   <data name="Announcement_LiteSprintUpgrade" xml:space="preserve">
@@ -8282,64 +8282,64 @@ Ujistěte se, že nic nepoužívá nebo neblokuje port {0}, a zkuste to znovu.</
     <comment>Button to close the announcement window</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradeExplanation" xml:space="preserve">
-    <value>As of today you will no longer be able to access the following features for free:  [bold]Advanced Search[/bold], [bold]Unsubscribe button[/bold], [bold]Send Later[/bold], and [bold]Email Tracking[/bold].
+    <value>Od dnešního dne již nebudete mít přístup k následujícím funkcím zdarma:  [bold]Pokročilé vyhledávání[/bold], [bold]Tlačítko pro odhlášení[/bold], [bold]Odeslat později[/bold], and [bold]Sledování emailů[/bold].
 
-You have the following options to continue:
-1. Get Mailbird Business Pay Once for free using our Referral Program
-2. Upgrade to Mailbird Personal or Mailbird Business and get 50% off
-3. Use Mailbird Lite as it was before the 12-week sprint.</value>
+Máte následující možnosti, jak pokračovat:
+1. Získejte Mailbird Business Doživotní licence zdarma pomocí našeho programu doporučení
+2. Upgradujte na Mailbird Personal (osobní) nebo Mailbird Business a získejte slevu 50%
+3. Používejte Mailbird Lite, jaký byl před 12týdenní aktualizací.</value>
     <comment>Body for announcement window for lite user</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradePurchase" xml:space="preserve">
-    <value>Get 50% off Mailbird now</value>
+    <value>Získejte 50% slevu na Mailbird hned teď</value>
     <comment>Button to purchase Mailbird</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradeSubHeader" xml:space="preserve">
-    <value>Your unlimited access to all Mailbird features has come to an end</value>
+    <value>Váš neomezený přístup ke všem funkcím Mailbird skončil</value>
     <comment>Subheader for announcement window for lite user</comment>
   </data>
   <data name="Options_TextFormattingExplanation" xml:space="preserve">
-    <value>Change this value when you experience blurriness when scaling.</value>
+    <value>Tuto hodnotu změňte, když při změně měřítka dojde k rozmazání.</value>
     <comment>Explanation for text formatting mode preference</comment>
   </data>
   <data name="Options_TextFormattingMode" xml:space="preserve">
-    <value>Text formatting mode</value>
+    <value>Režim formátování textu</value>
     <comment>Section in settings for text formatting mode</comment>
   </data>
   <data name="TextFormattingPreference_Auto" xml:space="preserve">
-    <value>Auto</value>
+    <value>Automaticky</value>
     <comment>Settings for text formatting preference</comment>
   </data>
   <data name="TextFormattingPreference_Display" xml:space="preserve">
-    <value>Display</value>
+    <value>Zobrazit</value>
     <comment>Settings for text formatting preference</comment>
   </data>
   <data name="TextFormattingPreference_Ideal" xml:space="preserve">
-    <value>Ideal</value>
+    <value>Optimální</value>
     <comment>Settings for text formatting preference</comment>
   </data>
   <data name="MailEditorFormattingBar_RecentlyUsed" xml:space="preserve">
-    <value>Recently used</value>
+    <value>Nedávno použitý</value>
     <comment>Header for list of recently used spellcheck language</comment>
   </data>
   <data name="App_Calendar_Conference_AccessCode" xml:space="preserve">
-    <value>Access code</value>
+    <value>Přístupový kód</value>
     <comment>Access code used to join a conference.</comment>
   </data>
   <data name="App_Calendar_Conference_MeetingCode" xml:space="preserve">
-    <value>Meeting code</value>
+    <value>Kód schůzky</value>
     <comment>Meeting code used to join a conference.</comment>
   </data>
   <data name="App_Calendar_Conference_MoreWaysToJoin" xml:space="preserve">
-    <value>More ways to join</value>
+    <value>Více způsobů, jak se připojit</value>
     <comment>Display text for a link to a page containing additional ways of joining a given conference.</comment>
   </data>
   <data name="App_Calendar_Conference_Passcode" xml:space="preserve">
-    <value>Passcode</value>
+    <value>Přístupový kód</value>
     <comment>Passcode used to join a conference.</comment>
   </data>
   <data name="App_Calendar_Conference_Password" xml:space="preserve">
-    <value>Password</value>
+    <value>Heslo</value>
     <comment>Password used to join a conference.</comment>
   </data>
   <data name="App_Calendar_Conference_PIN" xml:space="preserve">
@@ -8363,7 +8363,7 @@ You have the following options to continue:
     <comment>Shown in edit server settings window under authentication field</comment>
   </data>
   <data name="Welcome_OAuth2OutlookNotSupported" xml:space="preserve">
-    <value>OAuth 2.0 is not supported for personal Outlook accounts. Please switch to username and password.</value>
+    <value>OAuth 2.0 není podporován pro osobní účty Outlook. Přepněte prosím na uživatelské jméno a heslo.</value>
     <comment>Error shown when trying to use OAuth2 with personal Outlook account</comment>
   </data>
   <data name="Announcement_HigherTierDiscount" xml:space="preserve">
@@ -8387,7 +8387,7 @@ You have the following options to continue:
     <comment>Button to close</comment>
   </data>
   <data name="Announcement_HigherTierPayonce" xml:space="preserve">
-    <value>Nechcete Mailbird ve verzi Business? Pak přejděte na verzi Personal s licencí Pay Once, tedy jednorázová platba.</value>
+    <value>Nechcete Mailbird ve verzi Business? Pak přejděte na verzi Personal (osobní) s Doživotní licencí, jednorázová platba.</value>
     <comment>Text footer explanation</comment>
   </data>
   <data name="Announcement_HigherTierRemindMe" xml:space="preserve">
@@ -8407,11 +8407,11 @@ You have the following options to continue:
     <comment>Button label to upgrade</comment>
   </data>
   <data name="Welcome_CustomAvatar" xml:space="preserve">
-    <value>Add a picture...</value>
+    <value>Přidat obrázek ..</value>
     <comment>Button to add picture from PC</comment>
   </data>
   <data name="Notification_FailedToRemoveAvatar" xml:space="preserve">
-    <value>Failed to remove image</value>
+    <value>Odebrání obrázku se nezdařilo</value>
     <comment>Message when failed to remove image</comment>
   </data>
   <data name="Options_ShowAccountsPaneSeparately" xml:space="preserve">
@@ -8431,15 +8431,15 @@ You have the following options to continue:
     <comment>Part of the text in email tracking notification item. The full text will be "John opened subject"</comment>
   </data>
   <data name="EmailTracking_NotificationLimitedTrackingExplanation" xml:space="preserve">
-    <value>We can't track who opened the email due to email tracking is not fully supported by the sending server.</value>
+    <value>Nemůžeme sledovat, kdo zprávu otevřel, protože odesílající server plně nepodporuje sledování pošty.</value>
     <comment>Explanation when email tracking is not fully supported in the notification</comment>
   </data>
   <data name="EmailTracking_NotificationUnknownRecipient" xml:space="preserve">
-    <value>Someone</value>
+    <value>Někdo</value>
     <comment>Label when the recipient is unknown in limited email tracking</comment>
   </data>
   <data name="Menu_DebugWindow" xml:space="preserve">
-    <value>Open debug window</value>
+    <value>Otevřete okno ladění</value>
     <comment>Menu item to open debug window</comment>
   </data>
   <data name="UpgradeToPro_BusinessIncludes" xml:space="preserve">
@@ -8451,49 +8451,49 @@ You have the following options to continue:
     <comment>Label before user details form</comment>
   </data>
   <data name="FolderControl_OriginAccount" xml:space="preserve">
-    <value>Origin account</value>
+    <value>Původní účet</value>
     <comment>Label to indicate the account that received the email initially</comment>
   </data>
   <data name="EmailTracking_Notification" xml:space="preserve">
-    <value>Email tracking notifications</value>
+    <value>Oznámení o sledování emailů</value>
     <comment>Tooltip for notification button</comment>
   </data>
   <data name="Notification_SendErrorMessage_EmailTracking" xml:space="preserve">
-    <value>Mailbird was unable to send the message because the Email Tracking service was unavailable.
+    <value>Mailbird nemohl odeslat zprávu, protože služba sledování emailu byla nedostupná.
 
-Please try again later or disable Email Tracking to send your message.</value>
+Zkuste to znovu později nebo deaktivujte sledování emailů a odešlete svou zprávu.</value>
     <comment>Error message shown when a message fails to send due to the Email Tracking service being unavailable.</comment>
   </data>
   <data name="Features_EmailTracking" xml:space="preserve">
-    <value>Email tracking</value>
+    <value>Sledování emailů</value>
     <comment>Feature name in add-ons list</comment>
   </data>
   <data name="Options_AddOns" xml:space="preserve">
-    <value>Your add-ons:</value>
+    <value>Vaše doplňky:</value>
     <comment>Label for showing add-ons</comment>
   </data>
   <data name="Options_ManageSubscription" xml:space="preserve">
-    <value>manage subscription</value>
+    <value>správa předplatného</value>
     <comment>Button to manage subscription</comment>
   </data>
   <data name="Options_ValidUntil" xml:space="preserve">
-    <value>valid until {0}</value>
+    <value>platnost do {0}</value>
     <comment>Label to show expiration date, {0} will be replaced with the date</comment>
   </data>
   <data name="MailEditorFormattingBar_EnableRTLSupport" xml:space="preserve">
-    <value>Enable RTL support</value>
+    <value>Povolit podporu RTL</value>
     <comment>Option to enable RTL (Right To Left) support when composing email</comment>
   </data>
   <data name="Dialog_AttachLog" xml:space="preserve">
-    <value>Include log file?</value>
+    <value>Zahrnout soubor protokolu?</value>
     <comment>Header for message box when attaching log file</comment>
   </data>
   <data name="Dialog_AttachLogExplanation" xml:space="preserve">
-    <value>In order for us to diagnose any issues you might be experiencing, it would be helpful for us to see your Mailbird log file.
+    <value>Abychom mohli diagnostikovat jakékoli problémy, se kterými se můžete setkat, pomohlo by nám vidět váš soubor protokolu Mailbird.
 
-This does not contain any passwords or full messages, but may contain your email address or other small pieces of information.
+Neobsahuje žádná hesla ani úplné zprávy, ale může obsahovat vaši emailovou adresu nebo jiné drobné informace.
 
-May we attach your log file to this email?</value>
+Můžeme k tomuto emailu připojit váš soubor protokolu?</value>
     <comment>Explanation for message box when attaching log file</comment>
   </data>
   <data name="AvatarIconExchange" xml:space="preserve">
@@ -8505,67 +8505,67 @@ May we attach your log file to this email?</value>
     <comment>Tooltip label for Mailbird icon</comment>
   </data>
   <data name="Announcement_BFDisclaimer" xml:space="preserve">
-    <value>*The discount code is valid until December 5, 2020. By activating the discount generator, you agree to Mailbird sending you the discount code via email. For annually billed products, the discount only applies to the first year.</value>
+    <value>*Slevový kód je platný do 5. prosince 2020. Aktivací generátoru slev souhlasíte s tím, aby vám Mailbird zaslal slevový kód emailem. Pro ročně fakturované produkty se sleva vztahuje pouze na první rok.</value>
     <comment>Disclaimer for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationTrial" xml:space="preserve">
-    <value>Activate the discount generator and get [highlight]up to 95% off[/highlight] Mailbird Personal or Mailbird Business *</value>
+    <value>Aktivujte generátor slev a získejte [highlight]až 95% slevu[/highlight] Mailbird Personal (osobní) or Mailbird Business *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFGenerate" xml:space="preserve">
-    <value>Generate Discount</value>
+    <value>Generovat sleva</value>
     <comment>Button to generate discount</comment>
   </data>
   <data name="Announcement_BFHeader" xml:space="preserve">
-    <value>BLACK FRIDAY</value>
+    <value>BLACK FRIDAY (černý pátek)</value>
     <comment>Header for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFOff" xml:space="preserve">
-    <value>OFF</value>
+    <value>SLEVA</value>
     <comment>Label discount as in 95% "OFF"</comment>
   </data>
   <data name="Announcement_BFSubHeader" xml:space="preserve">
-    <value>GET UP TO 95% OFF</value>
+    <value>ZÍSKEJTE AŽ 95% SLEVU</value>
     <comment>Sub header for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFReminder" xml:space="preserve">
-    <value>Your Snoozed Reminder</value>
+    <value>Vaše připomenutí Odložených zpráv</value>
     <comment>Label for popup reminder</comment>
   </data>
   <data name="Announcement_BFHigherDiscount" xml:space="preserve">
-    <value>Get a Bigger Discount</value>
+    <value>Získejte větší slevu</value>
     <comment>Button to get higher discount</comment>
   </data>
   <data name="Announcement_BFOr" xml:space="preserve">
-    <value>OR</value>
+    <value>NEBO</value>
     <comment>Label or to show different options</comment>
   </data>
   <data name="Announcement_BFTryAgain" xml:space="preserve">
-    <value>Try Again</value>
+    <value>Zkus to znovu</value>
     <comment>Button to try again</comment>
   </data>
   <data name="Announcement_BFRedeem" xml:space="preserve">
-    <value>Redeem Discount</value>
+    <value>Uplatnit slevu</value>
     <comment>Button to redeem discount</comment>
   </data>
   <data name="Announcement_BFRemindLater" xml:space="preserve">
-    <value>Remind Me Later</value>
+    <value>Připomenout později</value>
     <comment>Button to dismiss and get reminded later</comment>
   </data>
   <data name="Announcement_CMHeader" xml:space="preserve">
-    <value>CYBER MONDAY</value>
+    <value>CYBER MONDAY (kybernetické pondělí)</value>
     <comment>Header for cyber monday promo</comment>
   </data>
   <data name="Announcement_BFExplanationBusinessYearly" xml:space="preserve">
-    <value>Activate the discount generator to upgrade to Mailbird Business Pay Once with [highlight]up to 95% off[/highlight] *</value>
+    <value>Aktivujte generátor slev a upgradujte na Mailbird Business Doživotní licence s [highlight]až 95% slevou[/highlight] *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalPayOnce" xml:space="preserve">
-    <value>Activate the discount generator and upgrade to Mailbird Business with [highlight]up to 95% off[/highlight] *</value>
+    <value>Aktivujte generátor slev a upgradujte na Mailbird Business s [highlight]až 95% slevou[/highlight] *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalYearly" xml:space="preserve">
-    <value>Activate the discount generator and upgrade to Mailbird Personal Pay Once or Mailbird Business with [highlight]up to 95% off[/highlight] *</value>
+    <value>Aktivujte generátor slev a upgradujte na Mailbird Personal (osobní) Doživotní licence nebo Mailbird Business s [highlight]až 95% slevou[/highlight] *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
 </root>
