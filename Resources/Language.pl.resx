@@ -3274,11 +3274,11 @@ Na pewno chcesz anulować?</value>
     <comment>Profile photos</comment>
   </data>
   <data name="Welcome_GuideCompletedDescription" xml:space="preserve">
-    <value>Możesz już zacząć korzystać z Mailbirda, podczas gdy my będziemy synchronizować Twoje wiadomości w tle.</value>
+    <value>You can now add more email accounts or just start using Mailbird while we sync your messages in the background.</value>
     <comment>You can now start using Mailbird while we sync your messages in the background.</comment>
   </data>
   <data name="Welcome_GuideCompletedTitle" xml:space="preserve">
-    <value>Konfiguracja zakończona</value>
+    <value>You’re all set!</value>
     <comment>Setup completed</comment>
   </data>
   <data name="Welcome_AddMoreAccounts" xml:space="preserve">
@@ -3813,7 +3813,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
-    <value>Lub zaimportuj z innego klienta pocztowego.</value>
+    <value>Import account from another email client.</value>
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
@@ -5607,7 +5607,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <value>Uporządkuj swoją skrzynkę odbiorczą.</value>
   </data>
   <data name="App_WeChat_Description" xml:space="preserve">
-    <value>Popularny w Chinach, darmowy komunikator z wieloma funkcjami społecznościowymi.</value>
+    <value>More social. More fun. Free messaging and calling app.</value>
   </data>
   <data name="App_Weibo_Description" xml:space="preserve">
     <value>Mikroblogowanie i media społecznościowe prosto z Chin (częściowo przetłumaczone na angielski).</value>
@@ -5644,7 +5644,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
   <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Bierz udział w spotkaniach będąc w trasie, korzystaj z wirtualnych szkoleń i prowadź zdalnie rozmowy. A to nie wszystko...</value>
+    <value>Hold meetings on the go, virtual training classes, remote interviews, and more.</value>
     <comment>Hangouts app description displayed in the App storefront.</comment>
   </data>
   <data name="DripSurvey_MoreInfo" xml:space="preserve">
@@ -5920,17 +5920,15 @@ Skontaktuj się z supportem, by uzyskać informacje na temat możliwości rozwi�
     <comment>Tooltip for button to open the folder list in left menu</comment>
   </data>
   <data name="Welcome_ConsentStepExplanation" xml:space="preserve">
-    <value>Cenimy Twoją prywatność, ale chcielibyśmy być z Tobą w kontakcie.
-
-Dlatego prosimy o zgodę na przysyłanie Ci okazjonalnych e-maili dotyczących Mailbirda, jak użyteczne wskazówki, specjalne promocje i szczegóły na temat nowych ekscytujących funkcji Mailbirda.</value>
+    <value>We value your privacy and we’d like to ask your permission to send you the occasional email with tips, promotions and new exciting Mailbird features.</value>
     <comment>Explanation text when Mailbird asks for user's consent in welcome window</comment>
   </data>
   <data name="Welcome_ConsentStepNo" xml:space="preserve">
-    <value>NIE, DZIĘKUJĘ</value>
+    <value>No thanks</value>
     <comment>Button to not give consent</comment>
   </data>
   <data name="Welcome_ConsentStepYes" xml:space="preserve">
-    <value>TAK, POZOSTAŃMY W KONTAKCIE</value>
+    <value>Yes, let’s stay in touch</value>
     <comment>Button to give consent</comment>
   </data>
   <data name="Options_Scaling" xml:space="preserve">
@@ -8568,5 +8566,37 @@ Czy możemy dołączyć Twój plik dziennika do tego e-maila?</value>
   <data name="Announcement_BFExplanationPersonalYearly" xml:space="preserve">
     <value>Aktywuj generator rabatów i uaktualnij do Dożywotniej Licencji Mailbird Personal lub Mailbird Business [highlight]z 95% zniżki[/highlight] *</value>
     <comment>Explanation for blackfriday promo</comment>
+  </data>
+  <data name="Welcome_Coupon_DescriptionOption" xml:space="preserve">
+    <value>Enter the referral code below to claim your reward.</value>
+    <comment>Explanation for referral code input window</comment>
+  </data>
+  <data name="Welcome_FeatureET" xml:space="preserve">
+    <value>Wondering if your emails were opened?</value>
+    <comment>Title for feature highlight</comment>
+  </data>
+  <data name="Welcome_FeatureETExplanation" xml:space="preserve">
+    <value>The Email Tracking feature lets you know who opened your email and when, without compromising your privacy. [highlight][link href={0}]See how it works.[/link][/highlight]</value>
+    <comment>Explanation for feature highlight, leave text inside []</comment>
+  </data>
+  <data name="Welcome_StartUsing" xml:space="preserve">
+    <value>Start using Mailbird</value>
+    <comment>Button to start using Mailbird and close setup</comment>
+  </data>
+  <data name="Welcome_FeatureFilter" xml:space="preserve">
+    <value>Keep your Inbox uncluttered</value>
+    <comment>Title for feature highlight</comment>
+  </data>
+  <data name="Welcome_FeatureFilterExplanation" xml:space="preserve">
+    <value>The Filters feature lets you automatically organize your incoming emails and move them to the right folder. [highlight][link href={0}]See how it works.[/link][/highlight]</value>
+    <comment>Explanation for feature highlight, leave text inside []</comment>
+  </data>
+  <data name="Welcome_FeatureUnsubscribe" xml:space="preserve">
+    <value>No more unwanted newsletters</value>
+    <comment>Title for feature highlight</comment>
+  </data>
+  <data name="Welcome_FeatureUnsubscribeExplanation" xml:space="preserve">
+    <value>The Unsubscribe button lets you easily get rid of unwanted newsletters with one simple click. [highlight][link href={0}]See how it works.[/link][/highlight]</value>
+    <comment>Explanation for feature highlight, leave text inside []</comment>
   </data>
 </root>
