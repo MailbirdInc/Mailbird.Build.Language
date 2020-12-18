@@ -3813,7 +3813,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Please select at least 1 account to import.</comment>
   </data>
   <data name="Welcome_ImportFromClients" xml:space="preserve">
-    <value>Import account from another email client.</value>
+    <value>Import account from another email client</value>
     <comment>Or import from another email client.</comment>
   </data>
   <data name="Welcome_ImportSettingsSubTitle" xml:space="preserve">
@@ -8596,5 +8596,37 @@ May we attach your log file to this email?</value>
   <data name="Welcome_FeatureUnsubscribeExplanation" xml:space="preserve">
     <value>Butonul Dezabonare vă permite să scăpați cu ușurință de buletinele informative nedorite cu un singur clic. [highlight][link href={0}]Vedeți cum funcționează.[/link][/highlight]</value>
     <comment>Explanation for feature highlight, leave text inside []</comment>
+  </data>
+  <data name="EmailTracking_ToastNotificationSubTitle" xml:space="preserve">
+    <value>opened {0}
+at {1}</value>
+    <comment>Subtitle for toast notification, {0} will be replaced by subject, {1} by the time. So it'll be:
+John Doe
+opened Subject
+at 3:00PM</comment>
+  </data>
+  <data name="EmailTracking_ToastNotificationSubTitleMultiplePlural" xml:space="preserve">
+    <value>opened your emails</value>
+    <comment>Subtitle for toast notification when there is more than 1 conversation</comment>
+  </data>
+  <data name="EmailTracking_ToastNotificationTitleMultiple" xml:space="preserve">
+    <value>{0} recipients</value>
+    <comment>Title for toast notification, {0} will be replaced by the recipient count.
+So it'll be:
+5 recipients</comment>
+  </data>
+  <data name="Options_TrayNotificationET" xml:space="preserve">
+    <value>Show tray notification when a message with Email Tracking is opened</value>
+    <comment>Option to show popup notification</comment>
+  </data>
+  <data name="EmailTracking_ToastNotificationSubTitleMultiple" xml:space="preserve">
+    <value>opened {0}</value>
+    <comment>Subtitle for toast notification when there is 1 conversation, {0} will be replaced by the subject. So it'll be:
+3 people
+opened Subject</comment>
+  </data>
+  <data name="EmailTracking_ToastNotificationUnknownRecipient" xml:space="preserve">
+    <value>Unknown recipient</value>
+    <comment>Label when the recipient is unknown in limited email tracking</comment>
   </data>
 </root>
