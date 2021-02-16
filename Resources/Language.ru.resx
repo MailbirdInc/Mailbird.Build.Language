@@ -6078,7 +6078,7 @@ If the issue persists contact support at {0}</value>
     <comment>Explanation when account is not supported for calendar sync</comment>
   </data>
   <data name="App_Calendar_Settings_SubHeader" xml:space="preserve">
-    <value>Выберите учетные записи ниже, чтобы подключиться и синхронизировать их календарь с Mailbird, или нажмите кнопку, чтобы подключиться к другой учетной записи.</value>
+    <value>Выберите учетные записи ниже, чтобы подключиться и синхронизировать их календари с Mailbird, или нажмите кнопку, чтобы подключиться к другой учетной записи.</value>
     <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Calendar_Settings_Title" xml:space="preserve">
@@ -7948,87 +7948,86 @@ Note that since this is the "in development" version of Mailbird, issues may occ
     <comment>Tooltip to open advanced search fields</comment>
   </data>
   <data name="FolderIdentity_Scheduled" xml:space="preserve">
-    <value>Scheduled</value>
+    <value>Запланированные</value>
     <comment>The name of the folder containing emails scheduled to be sent later.</comment>
   </data>
   <data name="Scheduled_Indicator" xml:space="preserve">
-    <value>Scheduled message</value>
+    <value>Запланированное сообщение</value>
     <comment>Tooltip for scheduled message</comment>
   </data>
   <data name="Scheduled_MondayMorning" xml:space="preserve">
-    <value>Monday morning</value>
+    <value>Понедельник утро</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_PassedTimeError" xml:space="preserve">
-    <value>Please set a future time</value>
+    <value>Укажите время в будущем</value>
     <comment>Message when date time already passed</comment>
   </data>
   <data name="Scheduled_ScheduleLabel" xml:space="preserve">
-    <value>Message will be sent {0}</value>
+    <value>Сообщение будет отправлено {0}</value>
     <comment>Message for scheduled message, {0} will be the time. So it's gonna be Message will be sent Today, 8:00 AM</comment>
   </data>
   <data name="Scheduled_TomorrowAfternoon" xml:space="preserve">
-    <value>Tomorrow afternoon</value>
+    <value>Завтра после обеда</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_TomorrowMorning" xml:space="preserve">
-    <value>Tomorrow morning</value>
+    <value>Завтра утром</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_MoreInfo" xml:space="preserve">
-    <value>Message will be sent on the specified time only if Mailbird is running and the computer is online. 
-Otherwise, it will be sent as soon as Mailbird becomes online again.</value>
+    <value>Сообщение будет отправлено в указанное время только если Mailbird открыт и компьютер находится онлайн.
+В другом случае, сообщение будет отправлено сразу как только Mailbird подключится к сети обратно.</value>
     <comment>Explanation on scheduled feature</comment>
   </data>
   <data name="Scheduled_SendLaterAt" xml:space="preserve">
-    <value>Send later at</value>
+    <value>Отправить позже в</value>
     <comment>Header on send later control</comment>
   </data>
   <data name="Scheduled_SendLater" xml:space="preserve">
-    <value>Send later</value>
+    <value>отправить позже</value>
     <comment>Tooltip for the send later feature</comment>
   </data>
   <data name="Scheduled_ThisAfternoon" xml:space="preserve">
-    <value>This afternoon</value>
+    <value>Сегодня после обеда</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_ThisMorning" xml:space="preserve">
-    <value>This morning</value>
+    <value>Сегодня утром</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Notification_SendLaterIntroHeader" xml:space="preserve">
-    <value>Introducing 'Send Later'</value>
+    <value>Функция "Отправить позже"</value>
     <comment>Header when first time doing Send Later feature</comment>
   </data>
   <data name="Notification_SendLaterIntroMessage" xml:space="preserve">
-    <value>You've just scheduled your first message to send later!
+    <value>Вы только что запланировали свое первое отложенное сообщение.
 
-[bold]Important:[/bold] Because we don't store your account credentials or emails on our servers for security reasons, 'Send Later' requires that Mailbird is running on your machine at the scheduled time, in order for it to send the message.
-
-If Mailbird is not running at the scheduled time the message will not send, but will instead be sent the next time you start Mailbird.</value>
+[bold]Важно:[/bold]  Так как мы не храним ваш пароль и другие данные на наших серверах из соображения безопасности, функция "Отправить позже" требует Mailbird быть открытым на вашем компьютере в установленное время для того, чтобы сообщение отправилось.
+Если Mailbird закрыт в установленное время, сообщение будет отправлено как только вы опять запустите Mailbird.</value>
     <comment>Message when first time doing Send Later feature</comment>
   </data>
   <data name="Filters_UnifiedAccountsItem" xml:space="preserve">
-    <value>Unified accounts</value>
+    <value>Объединенные аккаунты</value>
     <comment>Shown on top of the list of accounts for filters</comment>
   </data>
   <data name="Invite_FailedSendInvitation" xml:space="preserve">
-    <value>Failed to send invitation</value>
+    <value>Ошибка отправки приглашения</value>
     <comment>Failed to send invitation</comment>
   </data>
   <data name="Filter_DisabledAction" xml:space="preserve">
-    <value>This action is not available to filters for '{0}'.</value>
+    <value>Это действие невозможно для фильтров '{0}'.</value>
     <comment>Message when action in filter is not enabled.
 {0} will be replaced with value from Filters_UnifiedAccountsItem</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorHeader" xml:space="preserve">
-    <value>An error occurred while executing filter</value>
+    <value>Ошибка применения фильтра</value>
     <comment>Header when there is error when executing filter</comment>
   </data>
   <data name="Notification_GlobalFiltersErrorMessage" xml:space="preserve">
-    <value>Unexpected error occurred while executing filter on {0}. Please open the filter and try again.
+    <value>Ошибка применения фильтра {0}.  Пожалуйста, откройте фильтр и попробуйте еще раз.
 
-If the issue persists, please contact support.</value>
+Если это не помогает, свяжитесь с поддержкой</value>
     <comment>Message when there is error when executing filter</comment>
   </data>
   <data name="Notification_OpenFilter" xml:space="preserve">
