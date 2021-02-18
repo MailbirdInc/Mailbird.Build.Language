@@ -751,7 +751,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
-    <value>Substituir Ficheiros Existentes?</value>
+    <value>Overwrite existing files?</value>
     <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
@@ -3805,7 +3805,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
-    <value>Nenhuma conta seleccionada</value>
+    <value>No account selected</value>
     <comment>No Account Selected</comment>
   </data>
   <data name="Dialog_NoAccountExplanation" xml:space="preserve">
@@ -8728,5 +8728,25 @@ Muito obrigado!</value>
   <data name="Announcement_ExternalReviewRate" xml:space="preserve">
     <value>Avalie-nos agora</value>
     <comment>Button to rate on review website</comment>
+  </data>
+  <data name="AdvancedSearch_CreateFilter" xml:space="preserve">
+    <value>Create filter</value>
+    <comment>Button to create filter</comment>
+  </data>
+  <data name="AdvancedSearch_CreateFilterExplanation" xml:space="preserve">
+    <value>Create filter easily from these fields:
+- From
+- To
+- Subject
+- Has attachment</value>
+    <comment>Explanation to the supported fields when creating filter </comment>
+  </data>
+  <data name="Filter_EditFilter_AppliedUnified" xml:space="preserve">
+    <value>The filter will be applied to incoming messages in the [bold]Unified accounts[/bold].</value>
+    <comment>Explanation in filter window when the current filter is for unified accounts</comment>
+  </data>
+  <data name="AppStore_BrowseApps" xml:space="preserve">
+    <value>Browse apps</value>
+    <comment>Title for the apps store</comment>
   </data>
 </root>
