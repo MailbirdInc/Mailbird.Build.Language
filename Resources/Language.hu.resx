@@ -563,7 +563,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Insert picture</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>A bejövő postaláda üres.</value>
+    <value>A bejövő postaláda üres</value>
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
@@ -751,7 +751,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
-    <value>Overwrite existing files?</value>
+    <value>A létező fájlok felülírásra kerüljenek?</value>
     <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
@@ -3805,7 +3805,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
-    <value>No account selected</value>
+    <value>Nem lett fiók kiválasztva</value>
     <comment>No Account Selected</comment>
   </data>
   <data name="Dialog_NoAccountExplanation" xml:space="preserve">
@@ -7409,7 +7409,7 @@ A Mailbird további használatához egy licenszet kell megvásárolni vagy meg k
     <comment>Description of Google Slides app</comment>
   </data>
   <data name="Dialog_ReauthorizationRequired" xml:space="preserve">
-    <value>Hitelesítés szükséges.</value>
+    <value>Hitelesítés szükséges</value>
     <comment>Title of dialog shown when Mailbird needs to re-authorize an account using OAuth2.</comment>
   </data>
   <data name="Dialog_ReauthorizationRequiredExplanation" xml:space="preserve">
@@ -7423,7 +7423,7 @@ Ez a kérés megnyitja az lapértelmezett böngészőben és végre kell hajtani
     <comment>Button to start authorization as shown on notification when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredHeader" xml:space="preserve">
-    <value>{0} hitelesítést igényel.</value>
+    <value>{0} hitelesítést igényel</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredMessage" xml:space="preserve">
@@ -7439,7 +7439,7 @@ A Mailbird most egy másik böngészővel próbálkozik. Ha ez továbbra sem mű
     <comment>Message of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_HttpsRedirectTitle" xml:space="preserve">
-    <value>HTTPS átirányítás történt.</value>
+    <value>HTTPS átirányítás történt</value>
     <comment>Title of dialog shown if OAuth2 authorization fails due to a HTTPS redirect</comment>
   </data>
   <data name="Disabled_AccountOffline" xml:space="preserve">
@@ -7455,7 +7455,7 @@ A Mailbird most egy másik böngészővel próbálkozik. Ha ez továbbra sem mű
     <comment>Explanationfor messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
-    <value>Az Exchange támogatás nem tartozik a Mailbird Personal verzióhoz.</value>
+    <value>Az Exchange támogatás nem tartozik a Mailbird Personal verzióhoz</value>
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
@@ -8730,23 +8730,23 @@ Köszönjük!</value>
     <comment>Button to rate on review website</comment>
   </data>
   <data name="AdvancedSearch_CreateFilter" xml:space="preserve">
-    <value>Create filter</value>
+    <value>Szűrő létrehozása</value>
     <comment>Button to create filter</comment>
   </data>
   <data name="AdvancedSearch_CreateFilterExplanation" xml:space="preserve">
-    <value>Create filter easily from these fields:
-- From
-- To
-- Subject
-- Has attachment</value>
+    <value>Szűrő könnyen létrehozható ezekből a mezőkből:
+- Feladó
+- Címzett
+- Tárgy
+- Van melléklet</value>
     <comment>Explanation to the supported fields when creating filter </comment>
   </data>
   <data name="Filter_EditFilter_AppliedUnified" xml:space="preserve">
-    <value>The filter will be applied to incoming messages in the [bold]Unified accounts[/bold].</value>
+    <value>A szűrő a [bold]Egyesített fiókok[/bold] beérkezett üzeneteiben kerül alkalmazásra.</value>
     <comment>Explanation in filter window when the current filter is for unified accounts</comment>
   </data>
   <data name="AppStore_BrowseApps" xml:space="preserve">
-    <value>Browse apps</value>
+    <value>Alkalmazások tallózása</value>
     <comment>Title for the apps store</comment>
   </data>
 </root>
