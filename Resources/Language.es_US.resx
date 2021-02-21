@@ -378,7 +378,7 @@ Url: {1}</comment>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>Ya existe una identidad con la misma dirección de correo electrónico.</value>
+    <value>Una identidad con la misma dirección de correo electrónico ya existe.</value>
     <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
@@ -498,7 +498,7 @@ Message:</comment>
     <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>Usted no puede adjuntar archivos mayores a 25 mb.</value>
+    <value>No puede adjuntar anexos mayores de 25 mb cada uno.</value>
     <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
@@ -971,7 +971,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Minimum size:</comment>
   </data>
   <data name="App_Attachments_ThumbSizeLabel" xml:space="preserve">
-    <value>Tamaño de Miniatura</value>
+    <value>Tamaño de Miniatura:</value>
     <comment>Thumbnail size:</comment>
   </data>
   <data name="App_Attachments_Title" xml:space="preserve">
@@ -1255,7 +1255,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Obtener ayuda</value>
+    <value>Obtener soporte de Mailbird</value>
     <comment>Mailbird support</comment>
   </data>
   <data name="Message_AddAttachments" xml:space="preserve">
@@ -1311,7 +1311,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Fwd:</comment>
   </data>
   <data name="Message_InMaking" xml:space="preserve">
-    <value>Email en creación</value>
+    <value>Email en creación.</value>
     <comment>Email in the making.</comment>
   </data>
   <data name="Message_Loading" xml:space="preserve">
@@ -1367,7 +1367,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Send an email to {0}</comment>
   </data>
   <data name="Message_Sent" xml:space="preserve">
-    <value>Enviar a las:</value>
+    <value>Enviado a las</value>
     <comment>Sent at</comment>
   </data>
   <data name="Message_ShowOlderMessages" xml:space="preserve">
@@ -2351,8 +2351,8 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>¿Desea eliminar la carpeta de almacenamiento de Mailbird, incluyendo la configuración y la base de datos de mensajes locales?
-
+    <value>¿Desea eliminar el directorio de almacenamiento de Mailbird, incluyendo la configuración y la base de datos de mensajes locales?
+ 
 Si tiene la intención de reinstalar Mailbird, seleccione no para evitar configurar todo de nuevo.</value>
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
@@ -3260,8 +3260,9 @@ https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>Mailbird tips</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Debe agregar una cuenta de correo electrónico para comenzar a usar Mailbird.
-¿Esta seguro que quiere cancelar?</value>
+    <value>Debes agregar una cuenta de correo electrónico para comenzar a usar Mailbird.
+ 
+¿Estas seguro que quieres cancelar?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
@@ -8144,7 +8145,7 @@ Estas seguro que quieres descartar la conversación?</value>
     <comment>Section in settings window for Email Tracking</comment>
   </data>
   <data name="Options_BusinessFeatureExplanation" xml:space="preserve">
-    <value>Esta configuración requiere una licencia de Mailbird Business</value>
+    <value>Esta configuración requiere una licencia de Mailbird Business.</value>
     <comment>Explanation when feature is only available on Mailbird Business</comment>
   </data>
   <data name="UpgradeToPro_TitleBusiness" xml:space="preserve">
@@ -8222,7 +8223,7 @@ Puedes intentar reenviarlo o ignorar los errores para eliminarlos como destinata
     <comment>Header to show counter of how many tracking sent</comment>
   </data>
   <data name="EmailTracking_LimitedTrackingExplanation" xml:space="preserve">
-    <value>Seguimiento de correo electrónico no esta completamente soportado por el servidor de envío</value>
+    <value>Seguimiento de correo electrónico no esta completamente soportado por el servidor de envío.</value>
     <comment>Explanation when email tracking is not fully supported</comment>
   </data>
   <data name="EmailTracking_UnknownRecipient" xml:space="preserve">
@@ -8234,45 +8235,45 @@ Puedes intentar reenviarlo o ignorar los errores para eliminarlos como destinata
     <comment>Message when no one has opened email in the email tracking list</comment>
   </data>
   <data name="App_Referral_Description" xml:space="preserve">
-    <value>Invite your friends and get Mailbird Business Pay Once (a $399 value) for FREE</value>
+    <value>Invita a tus amigos y consigue Mailbird Business Paga Única (un valor de $399) GRATIS</value>
     <comment>Description of referral app shown in apps store section</comment>
   </data>
   <data name="App_Referral_Title" xml:space="preserve">
-    <value>Invite friends</value>
+    <value>Invitar amigos</value>
     <comment>Title of referral app shown in apps store section</comment>
   </data>
   <data name="Notification_EmailTrackingIntroHeader" xml:space="preserve">
-    <value>Introducing 'Email Tracking'</value>
+    <value>Introduciendo 'Seguimiento de Correo Electrónico'</value>
     <comment>Header when first time sending email with Email Tracking</comment>
   </data>
   <data name="Notification_EmailTrackingIntroMessage" xml:space="preserve">
-    <value>You've just sent your first tracked message!
-
-Mailbird will now be able to show when your email is opened by the recipients. You can check the open status of the email, both in the message or the conversation. Select the Sent folder now to see the status of the message.
-
-[bold]Important:[/bold] Some recipients may block email tracking, therefore their status will remain "pending".</value>
+    <value>¡Acabas de enviar tu primer mensaje con seguimiento! 
+ 
+Mailbird ahora podrá mostrar cuando los destinatarios abran tu correo. Puedes comprobar el estado abierto del correo tanto en el mensaje o en la conversación. 
+ 
+[bold]Importante:[/bold] Algunos destinatarios pueden bloquear el seguimiento del correo electrónico por lo tanto el estado permanecerá "pendiente".</value>
     <comment>Message when first time sending email with Email Tracking</comment>
   </data>
   <data name="Tips_New" xml:space="preserve">
-    <value>New</value>
+    <value>Nuevo</value>
     <comment>New badge for tips</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_PortInUse" xml:space="preserve">
-    <value>Mailbird was unable to authorize with the server due to port {0} on your machine being inaccessible.
-
-Please ensure nothing is using or blocking port {0} and try again.</value>
+    <value>Mailbird no pudo autorizar con el servidor debido a que el puerto {0} en tu maquina era inaccesible. 
+ 
+Asegúrese de que nada esté usando o bloqueando el puerto {0} y vuelva a intentarlo.</value>
     <comment>Message shown when failing to authorize using OAuth2 due to the port used being inaccessible.</comment>
   </data>
   <data name="Options_RetrievingLicense" xml:space="preserve">
-    <value>Retrieving license status</value>
+    <value>Recuperando el estado de la licencia</value>
     <comment>Message when app is retrieving license status from server</comment>
   </data>
   <data name="Upgrade_SprintUpgrade" xml:space="preserve">
-    <value>Get Advanced Search, Unsubscribe Button, Send Later, Email Tracking and many more.</value>
+    <value>Consigue Búsqueda Avanzada, Botón de Darse De Baja, Enviar Más Tarde, Seguimiento de Correo Electrónico y muchos más.</value>
     <comment>Message when lite users try accessing pro features</comment>
   </data>
   <data name="Announcement_LiteSprintUpgrade" xml:space="preserve">
-    <value>IMPORTANT</value>
+    <value>IMPORTANTE</value>
     <comment>Title for announcement window for lite user</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradeDismiss" xml:space="preserve">
@@ -8301,7 +8302,7 @@ Tienes las siguientes opciones para continuar:
     <comment>Explanation for text formatting mode preference</comment>
   </data>
   <data name="Options_TextFormattingMode" xml:space="preserve">
-    <value>Text formatting mode</value>
+    <value>Modo de formato de texto</value>
     <comment>Section in settings for text formatting mode</comment>
   </data>
   <data name="TextFormattingPreference_Auto" xml:space="preserve">
@@ -8309,7 +8310,7 @@ Tienes las siguientes opciones para continuar:
     <comment>Settings for text formatting preference</comment>
   </data>
   <data name="TextFormattingPreference_Display" xml:space="preserve">
-    <value>Display</value>
+    <value>Monitor</value>
     <comment>Settings for text formatting preference</comment>
   </data>
   <data name="TextFormattingPreference_Ideal" xml:space="preserve">
@@ -8317,27 +8318,27 @@ Tienes las siguientes opciones para continuar:
     <comment>Settings for text formatting preference</comment>
   </data>
   <data name="MailEditorFormattingBar_RecentlyUsed" xml:space="preserve">
-    <value>Recently used</value>
+    <value>Recientemente usado</value>
     <comment>Header for list of recently used spellcheck language</comment>
   </data>
   <data name="App_Calendar_Conference_AccessCode" xml:space="preserve">
-    <value>Access code</value>
+    <value>Código de acceso</value>
     <comment>Access code used to join a conference.</comment>
   </data>
   <data name="App_Calendar_Conference_MeetingCode" xml:space="preserve">
-    <value>Meeting code</value>
+    <value>Código de reunión</value>
     <comment>Meeting code used to join a conference.</comment>
   </data>
   <data name="App_Calendar_Conference_MoreWaysToJoin" xml:space="preserve">
-    <value>More ways to join</value>
+    <value>Más formas de unirse</value>
     <comment>Display text for a link to a page containing additional ways of joining a given conference.</comment>
   </data>
   <data name="App_Calendar_Conference_Passcode" xml:space="preserve">
-    <value>Passcode</value>
+    <value>Contraseña</value>
     <comment>Passcode used to join a conference.</comment>
   </data>
   <data name="App_Calendar_Conference_Password" xml:space="preserve">
-    <value>Password</value>
+    <value>Contraseña</value>
     <comment>Password used to join a conference.</comment>
   </data>
   <data name="App_Calendar_Conference_PIN" xml:space="preserve">
@@ -8361,141 +8362,141 @@ Tienes las siguientes opciones para continuar:
     <comment>Shown in edit server settings window under authentication field</comment>
   </data>
   <data name="Welcome_OAuth2OutlookNotSupported" xml:space="preserve">
-    <value>OAuth 2.0 is not supported for personal Outlook accounts. Please switch to username and password.</value>
+    <value>OAuth 2.0 no es compatible con cuentas personales de Outlook. Por favor cambia el nombre de usuario y la contraseña.</value>
     <comment>Error shown when trying to use OAuth2 with personal Outlook account</comment>
   </data>
   <data name="Announcement_HigherTierDiscount" xml:space="preserve">
-    <value>Get 50% - 90% OFF</value>
+    <value>Consigue 50% - 90% DE DESCUENTO</value>
     <comment>Banner discount</comment>
   </data>
   <data name="Announcement_HigherTierFeatureAppIntegrations" xml:space="preserve">
-    <value>App Integrations</value>
+    <value>Integraciones de App</value>
     <comment>Feature name: app integrations</comment>
   </data>
   <data name="Announcement_HigherTierHeader" xml:space="preserve">
-    <value>Your Mailbird loyalty is being rewarded!</value>
+    <value>¡Tu fidelidad Mailbird esta siendo recompensado!</value>
     <comment>Header in promotion</comment>
   </data>
   <data name="Announcement_HigherTierLastChance" xml:space="preserve">
-    <value>LAST CHANCE</value>
+    <value>ÚLTIMA OPORTUNIDAD</value>
     <comment>Header in reminder</comment>
   </data>
   <data name="Announcement_HigherTierNoThanks" xml:space="preserve">
-    <value>No thanks</value>
+    <value>No gracias</value>
     <comment>Button to close</comment>
   </data>
   <data name="Announcement_HigherTierPayonce" xml:space="preserve">
-    <value>Don't want Mailbird Business? Upgrade to the Personal Pay Once license instead.</value>
+    <value>¿No quieres Mailbird Business? Actualiza a la licencia Personal Paga Única en su lugar.</value>
     <comment>Text footer explanation</comment>
   </data>
   <data name="Announcement_HigherTierRemindMe" xml:space="preserve">
-    <value>Remind me later!</value>
+    <value>¡Recuérdame más tarde!</value>
     <comment>Button label to remind later</comment>
   </data>
   <data name="Announcement_HigherTierSubHeader" xml:space="preserve">
-    <value>The longer you have used Mailbird, the higher your individual discount.</value>
+    <value>Cuanto más tiempo haya utilizado Mailbird, más alto su descuento individual.</value>
     <comment>Subheader in promotion</comment>
   </data>
   <data name="Announcement_HigherTierUpgrade" xml:space="preserve">
-    <value>Upgrade to [bold]Mailbird Business[/bold] and get unlimited access to all your favorite [bold]Mailbird features[/bold] like</value>
+    <value>Actualiza a [bold]Mailbird Business[/bold] y consigue acceso ilimitado a todos tus favoritos [bold]Mailbird herramientas[/bold] como</value>
     <comment>Description in the banner</comment>
   </data>
   <data name="Announcement_HigherTierUpgradeNow" xml:space="preserve">
-    <value>Upgrade now</value>
+    <value>Actualiza ahora</value>
     <comment>Button label to upgrade</comment>
   </data>
   <data name="Welcome_CustomAvatar" xml:space="preserve">
-    <value>Add a picture...</value>
+    <value>Agregar una imagen...</value>
     <comment>Button to add picture from PC</comment>
   </data>
   <data name="Notification_FailedToRemoveAvatar" xml:space="preserve">
-    <value>Failed to remove image</value>
+    <value>No se pudo eliminar la imagen</value>
     <comment>Message when failed to remove image</comment>
   </data>
   <data name="Options_ShowAccountsPaneSeparately" xml:space="preserve">
-    <value>Show folders separately in expanded navigation pane</value>
+    <value>Mostrar carpetas por separado en el panel de navegación expandido</value>
     <comment>Option to show accounts pane separately</comment>
   </data>
   <data name="Options_ShowAccountsPaneSeparatelyExplanation" xml:space="preserve">
-    <value>This option is only available when there is more than 1 account</value>
+    <value>Esta opción solo esta disponible cuando hay más de 1 cuenta</value>
     <comment>Explanation when the option is not available</comment>
   </data>
   <data name="EmailTracking_NotificationNoItem" xml:space="preserve">
-    <value>There is no opened tracking.</value>
+    <value>No hay seguimiento abierto.</value>
     <comment>Message when there is no opened tracking</comment>
   </data>
   <data name="EmailTracking_NotificationOpened" xml:space="preserve">
-    <value>opened</value>
+    <value>abrió</value>
     <comment>Part of the text in email tracking notification item. The full text will be "John opened subject"</comment>
   </data>
   <data name="EmailTracking_NotificationLimitedTrackingExplanation" xml:space="preserve">
-    <value>We can't track who opened the email due to email tracking is not fully supported by the sending server.</value>
+    <value>No podemos seguir quien abrió el correo debido a que el seguimiento de correo electrónico no esta completamente soportado por el servidor de envío.</value>
     <comment>Explanation when email tracking is not fully supported in the notification</comment>
   </data>
   <data name="EmailTracking_NotificationUnknownRecipient" xml:space="preserve">
-    <value>Someone</value>
+    <value>Alguien</value>
     <comment>Label when the recipient is unknown in limited email tracking</comment>
   </data>
   <data name="Menu_DebugWindow" xml:space="preserve">
-    <value>Open debug window</value>
+    <value>Abrir pantalla de depurar</value>
     <comment>Menu item to open debug window</comment>
   </data>
   <data name="UpgradeToPro_BusinessIncludes" xml:space="preserve">
-    <value>Mailbird Business includes:</value>
+    <value>Mailbird Business incluye:</value>
     <comment>Label before list of Mailbird Business features</comment>
   </data>
   <data name="UpgradeToPro_YourDetails" xml:space="preserve">
-    <value>Your details:</value>
+    <value>Tus datos:</value>
     <comment>Label before user details form</comment>
   </data>
   <data name="FolderControl_OriginAccount" xml:space="preserve">
-    <value>Origin account</value>
+    <value>Cuenta de origen</value>
     <comment>Label to indicate the account that received the email initially</comment>
   </data>
   <data name="EmailTracking_Notification" xml:space="preserve">
-    <value>Email tracking notifications</value>
+    <value>Notificaciones de seguimiento de correo electrónico</value>
     <comment>Tooltip for notification button</comment>
   </data>
   <data name="Notification_SendErrorMessage_EmailTracking" xml:space="preserve">
-    <value>Mailbird was unable to send the message because the Email Tracking service was unavailable.
+    <value>Mailbird no pudo enviar el mensaje porque el servicio de Seguimiento de Correo Electrónico no estaba disponible. 
 
-Please try again later or disable Email Tracking to send your message.</value>
+Por favor vuelva a intentarlo más tarde y desactiva el Seguimiento de Correo Electrónico para enviar tu mensaje.</value>
     <comment>Error message shown when a message fails to send due to the Email Tracking service being unavailable.</comment>
   </data>
   <data name="Features_EmailTracking" xml:space="preserve">
-    <value>Email tracking</value>
+    <value>Seguimiento de correo electrónico</value>
     <comment>Feature name in add-ons list</comment>
   </data>
   <data name="Options_AddOns" xml:space="preserve">
-    <value>Your add-ons:</value>
+    <value>Tus accesorios:</value>
     <comment>Label for showing add-ons</comment>
   </data>
   <data name="Options_ManageSubscription" xml:space="preserve">
-    <value>manage subscription</value>
+    <value>administrar suscripción</value>
     <comment>Button to manage subscription</comment>
   </data>
   <data name="Options_ValidUntil" xml:space="preserve">
-    <value>valid until {0}</value>
+    <value>valido hasta {0}</value>
     <comment>Label to show expiration date, {0} will be replaced with the date</comment>
   </data>
   <data name="MailEditorFormattingBar_EnableRTLSupport" xml:space="preserve">
-    <value>Enable RTL support</value>
+    <value>Habilitar soporte con RTL</value>
     <comment>Option to enable RTL (Right To Left) support when composing email</comment>
   </data>
   <data name="Dialog_AttachLog" xml:space="preserve">
-    <value>Include log file?</value>
+    <value>Incluir archivo de registro?</value>
     <comment>Header for message box when attaching log file</comment>
   </data>
   <data name="Dialog_AttachLogExplanation" xml:space="preserve">
-    <value>In order for us to diagnose any issues you might be experiencing, it would be helpful for us to see your Mailbird log file.
-
-This does not contain any passwords or full messages, but may contain your email address or other small pieces of information.
-
-May we attach your log file to this email?</value>
+    <value>Para que podamos diagnosticar cualquier problema que pueda estar teniendo, sería útil ver su archivo de registro de Mailbird. 
+ 
+Esto no contiene contraseñas ni mensajes completos pero puede contener su dirección de correo electrónico o otras informaciones pequeñas. 
+ 
+¿Podemos adjuntar su archivo de registro a este correo electrónico?</value>
     <comment>Explanation for message box when attaching log file</comment>
   </data>
   <data name="AvatarIconExchange" xml:space="preserve">
-    <value>Exchange</value>
+    <value>Intercambiar</value>
     <comment>Tooltip label for Exchange icon</comment>
   </data>
   <data name="AvatarIconMailbird" xml:space="preserve">
@@ -8503,15 +8504,15 @@ May we attach your log file to this email?</value>
     <comment>Tooltip label for Mailbird icon</comment>
   </data>
   <data name="Announcement_BFDisclaimer" xml:space="preserve">
-    <value>*The discount code is valid until December 5, 2020. By activating the discount generator, you agree to Mailbird sending you the discount code via email. For annually billed products, the discount only applies to the first year.</value>
+    <value>*El código de descuento es válido hasta el 5 de diciembre de 2020. Al activar el generador de descuentos, aceptas que Mailbird le envíe el código de descuento por correo electrónico. Para los productos facturados anualmente, el descuento solo se aplica al primer año.</value>
     <comment>Disclaimer for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationTrial" xml:space="preserve">
-    <value>Activate the discount generator and get [highlight]up to 95% off[/highlight] Mailbird Personal or Mailbird Business *</value>
+    <value>Activar el generador de descuentos y consigue [highlight]hasta el 95% de descuento[/highlight] Mailbird Personal o Mailbird Business *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFGenerate" xml:space="preserve">
-    <value>Generate Discount</value>
+    <value>Generar Descuento</value>
     <comment>Button to generate discount</comment>
   </data>
   <data name="Announcement_BFHeader" xml:space="preserve">
@@ -8519,234 +8520,234 @@ May we attach your log file to this email?</value>
     <comment>Header for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFOff" xml:space="preserve">
-    <value>OFF</value>
+    <value>DE</value>
     <comment>Label discount as in 95% "OFF"</comment>
   </data>
   <data name="Announcement_BFSubHeader" xml:space="preserve">
-    <value>GET UP TO 95% OFF</value>
+    <value>CONSIGUE HASTA EL 95% DE DESCUENTO</value>
     <comment>Sub header for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFReminder" xml:space="preserve">
-    <value>Your Snoozed Reminder</value>
+    <value>Tu Aviso Pospuesto</value>
     <comment>Label for popup reminder</comment>
   </data>
   <data name="Announcement_BFHigherDiscount" xml:space="preserve">
-    <value>Get a Bigger Discount</value>
+    <value>Consigue un Descuento Mayor</value>
     <comment>Button to get higher discount</comment>
   </data>
   <data name="Announcement_BFOr" xml:space="preserve">
-    <value>OR</value>
+    <value>O</value>
     <comment>Label or to show different options</comment>
   </data>
   <data name="Announcement_BFTryAgain" xml:space="preserve">
-    <value>Try Again</value>
+    <value>INTENTAR OTRA VEZ</value>
     <comment>Button to try again</comment>
   </data>
   <data name="Announcement_BFRedeem" xml:space="preserve">
-    <value>Redeem Discount</value>
+    <value>Canjear Descuento</value>
     <comment>Button to redeem discount</comment>
   </data>
   <data name="Announcement_BFRemindLater" xml:space="preserve">
-    <value>Remind Me Later</value>
+    <value>Recuérdame Más Tarde</value>
     <comment>Button to dismiss and get reminded later</comment>
   </data>
   <data name="Announcement_CMHeader" xml:space="preserve">
-    <value>CYBER MONDAY</value>
+    <value>CYBER LUNES</value>
     <comment>Header for cyber monday promo</comment>
   </data>
   <data name="Announcement_BFExplanationBusinessYearly" xml:space="preserve">
-    <value>Activate the discount generator to upgrade to Mailbird Business Pay Once with [highlight]up to 95% off[/highlight] *</value>
+    <value>Activar el generador de descuento para actualizar a Mailbird Business Paga Única con [highlight]hasta un 95% de descuento[/highlight] *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalPayOnce" xml:space="preserve">
-    <value>Activate the discount generator and upgrade to Mailbird Business with [highlight]up to 95% off[/highlight] *</value>
+    <value>Activar el generador de descuento para actualizar a Mailbird Business Paga Única con [highlight]hasta un 95% de descuento[/highlight] *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalYearly" xml:space="preserve">
-    <value>Activate the discount generator and upgrade to Mailbird Personal Pay Once or Mailbird Business with [highlight]up to 95% off[/highlight] *</value>
+    <value>Activar el generador de descuento para actualizar a Mailbird Business Paga Única o Mailbird Business con [highlight]hasta un 95% de descuento[/highlight] *</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Welcome_Coupon_DescriptionOption" xml:space="preserve">
-    <value>Enter the referral code below to claim your reward.</value>
+    <value>Introducir el código de referente abajo para reclamar tu recompensa.</value>
     <comment>Explanation for referral code input window</comment>
   </data>
   <data name="Welcome_FeatureET" xml:space="preserve">
-    <value>Wondering if your emails were opened?</value>
+    <value>¿Se pregunta si se abrieron sus correos electrónicos?</value>
     <comment>Title for feature highlight</comment>
   </data>
   <data name="Welcome_FeatureETExplanation" xml:space="preserve">
-    <value>The Email Tracking feature lets you know who opened your email and when, without compromising your privacy. [highlight][link href={0}]See how it works.[/link][/highlight]</value>
+    <value>La función de seguimiento de correo electrónico le permite saber quien abrió su correo y cuándo sin comprometer su privacidad. [highlight][link href={0}]Ver cómo funciona.[/link][/highlight]</value>
     <comment>Explanation for feature highlight, leave text inside []</comment>
   </data>
   <data name="Welcome_StartUsing" xml:space="preserve">
-    <value>Start using Mailbird</value>
+    <value>Empezar usando Mailbird</value>
     <comment>Button to start using Mailbird and close setup</comment>
   </data>
   <data name="Welcome_FeatureFilter" xml:space="preserve">
-    <value>Keep your Inbox uncluttered</value>
+    <value>Mantenga su bandeja de entrada ordenada</value>
     <comment>Title for feature highlight</comment>
   </data>
   <data name="Welcome_FeatureFilterExplanation" xml:space="preserve">
-    <value>The Filters feature lets you automatically organize your incoming emails and move them to the right folder. [highlight][link href={0}]See how it works.[/link][/highlight]</value>
+    <value>La función de Filtros le permite organizar automáticamente sus correos electrónicos entrantes y moverlos a la carpeta correcta.[highlight][link href={0}]Ver cómo funciona.[/link][/highlight]</value>
     <comment>Explanation for feature highlight, leave text inside []</comment>
   </data>
   <data name="Welcome_FeatureUnsubscribe" xml:space="preserve">
-    <value>No more unwanted newsletters</value>
+    <value>No más boletines no deseados</value>
     <comment>Title for feature highlight</comment>
   </data>
   <data name="Welcome_FeatureUnsubscribeExplanation" xml:space="preserve">
-    <value>The Unsubscribe button lets you easily get rid of unwanted newsletters with one simple click. [highlight][link href={0}]See how it works.[/link][/highlight]</value>
+    <value>El botón de darse de baja le permite deshacerse fácilmente de los boletines no deseados con un simple clic. [highlight][link href={0}]Ver cómo funciona.[/link][/highlight]</value>
     <comment>Explanation for feature highlight, leave text inside []</comment>
   </data>
   <data name="EmailTracking_ToastNotificationSubTitle" xml:space="preserve">
-    <value>opened {0}
-at {1}</value>
+    <value>abrió {0}
+a {1}</value>
     <comment>Subtitle for toast notification, {0} will be replaced by subject, {1} by the time. So it'll be:
 John Doe
 opened Subject
 at 3:00PM</comment>
   </data>
   <data name="EmailTracking_ToastNotificationSubTitleMultiplePlural" xml:space="preserve">
-    <value>opened your emails</value>
+    <value>abrió sus correos</value>
     <comment>Subtitle for toast notification when there is more than 1 conversation</comment>
   </data>
   <data name="EmailTracking_ToastNotificationTitleMultiple" xml:space="preserve">
-    <value>{0} recipients</value>
+    <value>{0} destinatarios</value>
     <comment>Title for toast notification, {0} will be replaced by the recipient count.
 So it'll be:
 5 recipients</comment>
   </data>
   <data name="Options_TrayNotificationET" xml:space="preserve">
-    <value>Show tray notification when a message with Email Tracking is opened</value>
+    <value>Mostrar notificación en la bandeja cuando se abre un mensaje con Seguimiento de Correo Electrónico</value>
     <comment>Option to show popup notification</comment>
   </data>
   <data name="EmailTracking_ToastNotificationSubTitleMultiple" xml:space="preserve">
-    <value>opened {0}</value>
+    <value>abrió {0}</value>
     <comment>Subtitle for toast notification when there is 1 conversation, {0} will be replaced by the subject. So it'll be:
 3 people
 opened Subject</comment>
   </data>
   <data name="EmailTracking_ToastNotificationUnknownRecipient" xml:space="preserve">
-    <value>Unknown recipient</value>
+    <value>Destinatario desconocido</value>
     <comment>Label when the recipient is unknown in limited email tracking</comment>
   </data>
   <data name="Options_ShowAddAccountOnLeftMenu" xml:space="preserve">
-    <value>Show add account button on left menu</value>
+    <value>Mostrar botón de agregar cuenta en el menú izquierdo</value>
     <comment>Setting to show add account button</comment>
   </data>
   <data name="Options_ShowAddAccountOnLeftMenuExplanation" xml:space="preserve">
-    <value>This option is only available when there are less than 3 accounts</value>
+    <value>Esta opción solo esta disponible cuando hay menos de 3 cuentas</value>
     <comment>Tooltip explanation for settings to show add button on left menu</comment>
   </data>
   <data name="App_EmailMeter_Description" xml:space="preserve">
-    <value>Get detailed email statistics on your productivity, workload and response times.</value>
+    <value>Consigue estadísticas detalladas por correo electrónico sobre su productividad, carga de trabajo y tiempos de respuesta.</value>
     <comment>EmailMeter app description displayed in the App storefront.</comment>
   </data>
   <data name="App_Telegram_Description" xml:space="preserve">
-    <value>Protect your privacy and send end-to-end encrypted messages, photos, videos and files of any type to your contacts.</value>
+    <value>Proteja su privacidad y envía mensajes, fotos, videos y anexos cifrados de principio a fin a sus contactos.</value>
     <comment>Telegram app description</comment>
   </data>
   <data name="App_Messenger_Description" xml:space="preserve">
-    <value>Share instant messaging, photos, videos and audio recordings with your friends on Facebook.</value>
+    <value>Comparta mensajería instantánea, fotos, videos y grabaciones de audio con tus amigos en Facebook.</value>
     <comment>Messenger app description</comment>
   </data>
   <data name="App_MicrosoftTeams_Description" xml:space="preserve">
-    <value>Integrate the people, content and tools your team needs to collaborate, chat, meet and call.</value>
+    <value>Integra las personas, el contenido y las herramientas que su equipo necesita para colaborar, conversar, reunirse y llamar.</value>
     <comment>Microsoft teams app description</comment>
   </data>
   <data name="App_GoogleChat_Description" xml:space="preserve">
-    <value>Leverage Google Chat for direct messaging, group chat, threaded conversations, chat bots and search functionality.</value>
+    <value>Aprovecha Google Chat para mensajería directa, chat de grupo, conversaciones enlazadas, chatbots y funcionalidad de búsqueda.</value>
     <comment>Google chat app description</comment>
   </data>
   <data name="App_Skype_Description" xml:space="preserve">
-    <value>Create video calls with friends and family with one click!</value>
+    <value>¡Crea videollamadas con amigos y familia con un solo clic!</value>
     <comment>Skype app description</comment>
   </data>
   <data name="App_Instagram_Description" xml:space="preserve">
-    <value>Access Instagram right from Mailbird to share photos and messages with your friends and family.</value>
+    <value>Acceder a Instagram directamente desde Mailbird para compartir fotos y mensajes con sus amigos y familia.</value>
     <comment>Instagram app description</comment>
   </data>
   <data name="App_Discord_Description" xml:space="preserve">
-    <value>Create a virtual home for your professional communities and personal friends to chat over text, voice and video.</value>
+    <value>Crea un hogar virtual para sus comunidades profesionales y amigos personales para conversar por texto, voz y video.</value>
     <comment>Discord app description</comment>
   </data>
   <data name="App_Workplace_Description" xml:space="preserve">
-    <value>Easily connect your employees with video communication and collaboration tools.</value>
+    <value>Conecta fácilmente a sus empleados con comunicación por video y herramientas de colaboración.</value>
     <comment>Workplace from Facebook app description</comment>
   </data>
   <data name="Apps_Category_Calendar" xml:space="preserve">
-    <value>Calendar &amp; Scheduling</value>
+    <value>Calendario &amp; Programación</value>
     <comment>App category: Calendar and Scheduling</comment>
   </data>
   <data name="Apps_Category_Documents" xml:space="preserve">
-    <value>Notes &amp; Documents</value>
+    <value>Notas &amp; Documentos</value>
     <comment>App category: Notes and Documents</comment>
   </data>
   <data name="Apps_Category_EmailManagement" xml:space="preserve">
-    <value>Email Management</value>
+    <value>Gestión de Correo Electrónico</value>
     <comment>App category: Email Management</comment>
   </data>
   <data name="Apps_Category_FileStorage" xml:space="preserve">
-    <value>File Storage &amp; Management</value>
+    <value>Depósito de Archivos &amp; Gestión</value>
     <comment>App category: File Storage and Management</comment>
   </data>
   <data name="Apps_Category_MessagingSocialMedia" xml:space="preserve">
-    <value>Messaging &amp; Social Media</value>
+    <value>Mensajería &amp; Redes Sociales</value>
     <comment>App category: Messaging and Social Media</comment>
   </data>
   <data name="Apps_Category_Other" xml:space="preserve">
-    <value>Other</value>
+    <value>Otros</value>
     <comment>App category: Other</comment>
   </data>
   <data name="Apps_Category_TaskManagement" xml:space="preserve">
-    <value>Task Management</value>
+    <value>Administración de Tareas</value>
     <comment>App category: Task Management</comment>
   </data>
   <data name="Apps_Category_VideoMeeting" xml:space="preserve">
-    <value>Video Meetings</value>
+    <value>Reuniones de Video</value>
     <comment>App category: Video Meeting</comment>
   </data>
   <data name="Apps_Category_All" xml:space="preserve">
-    <value>All apps</value>
+    <value>Todas las apps</value>
     <comment>App category: All apps</comment>
   </data>
   <data name="AppStore_SearchCategory" xml:space="preserve">
-    <value>In "{0}"</value>
+    <value>En "{0}"</value>
     <comment>Placeholder in search textbox. {0} will be replaced with e.g. "Calendar"</comment>
   </data>
   <data name="Announcement_ExternalReviewDescription" xml:space="preserve">
-    <value>Thank you so much for your vote!  To help even more people discover Mailbird, we would highly appreciate you taking a few seconds to rate Mailbird on {0}.
-
-Thank you so much!</value>
+    <value>Muchas gracias por su voto!  Para ayudar a más personas descubrir Mailbird le agradeceríamos que tomara unos segundos para evaluar Mailbird en {0}. 
+ 
+Muchas gracias!</value>
     <comment>Description for announcement popup.
 {0} will be replaced by the website name.</comment>
   </data>
   <data name="Announcement_ExternalReviewHeader" xml:space="preserve">
-    <value>Please help us spread the Mailbird Love!</value>
+    <value>¡Por favor ayúdanos a difundir el Mailbird Love!</value>
     <comment>Title for announcement popup</comment>
   </data>
   <data name="Announcement_ExternalReviewRate" xml:space="preserve">
-    <value>Rate us now</value>
+    <value>Evalúanos ahora</value>
     <comment>Button to rate on review website</comment>
   </data>
   <data name="AdvancedSearch_CreateFilter" xml:space="preserve">
-    <value>Create filter</value>
+    <value>Crear filtro</value>
     <comment>Button to create filter</comment>
   </data>
   <data name="AdvancedSearch_CreateFilterExplanation" xml:space="preserve">
-    <value>Create filter easily from these fields:
-- From
-- To
-- Subject
-- Has attachment</value>
+    <value>Crear filtro fácilmente desde estos campos: 
+- De 
+- Para 
+- Tema 
+- Tiene anexo</value>
     <comment>Explanation to the supported fields when creating filter </comment>
   </data>
   <data name="Filter_EditFilter_AppliedUnified" xml:space="preserve">
-    <value>The filter will be applied to incoming messages in the [bold]Unified accounts[/bold].</value>
+    <value>El filtro sera aplicado a los mensajes entrantes en el [bold]Cuentas unificadas[/bold].</value>
     <comment>Explanation in filter window when the current filter is for unified accounts</comment>
   </data>
   <data name="AppStore_BrowseApps" xml:space="preserve">
-    <value>Browse apps</value>
+    <value>Navegar apps</value>
     <comment>Title for the apps store</comment>
   </data>
 </root>
