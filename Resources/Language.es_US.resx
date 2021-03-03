@@ -378,7 +378,7 @@ Url: {1}</comment>
     <comment>Cannot create identity</comment>
   </data>
   <data name="Dialog_CannnotCreateIdentityExplanation" xml:space="preserve">
-    <value>Una identidad con la misma dirección de correo ya existe.</value>
+    <value>Una identidad con la misma dirección de correo electrónico ya existe</value>
     <comment>An identity with the same email address already exists.</comment>
   </data>
   <data name="Dialog_EmailSending" xml:space="preserve">
@@ -498,7 +498,7 @@ Message:</comment>
     <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
-    <value>No puedes añadir archivos mayores de 25 mb cada uno.</value>
+    <value>No puede adjuntar archivos mayores a 25 mb</value>
     <comment>You can't add file larger than 25 mb each.</comment>
   </data>
   <data name="Dialog_SmtpFail" xml:space="preserve">
@@ -1255,7 +1255,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
-    <value>Contactar soporte</value>
+    <value>Ayuda de Mailbird</value>
     <comment>Mailbird support</comment>
   </data>
   <data name="Message_AddAttachments" xml:space="preserve">
@@ -2351,9 +2351,9 @@ Path: {0}</comment>
     <comment>Delete Mailbird Storage?</comment>
   </data>
   <data name="Dialog_UninstallExplanation" xml:space="preserve">
-    <value>¿Quieres eliminar el directorio de datos locales de Mailbird incluyendo los ajustes, mensajes y contactos?
- 
-Si tienes intención de reinstalar Mailbird, guarda los datos para evitar empezar de nuevo.</value>
+    <value>¿Desea eliminar el directorio de almacenamiento de Mailbird, incluyendo la configuración y la base de datos de mensajes locales?
+
+Si tiene la intención de reinstalar Mailbird, seleccione no para evitar configurar todo de nuevo.</value>
     <comment>Would you like to also remove the Mailbird storage directory, including the preferences and message database?</comment>
   </data>
   <data name="Folder_Add" xml:space="preserve">
@@ -3260,9 +3260,7 @@ https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>Mailbird tips</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Tienes que añadir una cuenta de correo para comenzar a usar Mailbird.
- 
-¿Estas seguro que quieres cancelar?</value>
+    <value>Debe agregar una cuenta de correo electrónico para comenzar a usar Mailbird. ¿Está seguro que quiere cancelar?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
   </data>
   <data name="Welcome_CancelTitle" xml:space="preserve">
