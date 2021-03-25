@@ -563,7 +563,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Insert picture</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
-    <value>Kotak Masuk Nol</value>
+    <value>Inbox Zero</value>
     <comment>Inbox Zero</comment>
   </data>
   <data name="InboxZero_Awesome" xml:space="preserve">
@@ -2516,7 +2516,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Get Quick Preview and many other features to boost your productivity.</comment>
   </data>
   <data name="Upgrade_UnlimitedAccount" xml:space="preserve">
-    <value>Tambahkan akun surel tanpa ada batasan dan dapatkan berbagai fitur menarik lainnya guna meningkatkan keproduktifan Anda.</value>
+    <value>Tambah akun tanpa batas dan dapatkan banyak fitur lainnya guna meningkatkan produktivitas Anda.</value>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
@@ -3256,7 +3256,7 @@ https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>Mailbird tips</comment>
   </data>
   <data name="Welcome_CancelDescription" xml:space="preserve">
-    <value>Anda harus menambahkan sebuah akun surel untuk mulai menggunakan mailbird. 
+    <value>Anda harus menambah sebuah akun surel untuk mulai menggunakan mailbird. 
 
 Apakah Anda yakin ingin membatalkan?</value>
     <comment>You must add an email account to start using Mailbird. Are you sure you want to cancel?</comment>
@@ -3676,15 +3676,15 @@ https://support.google.com/mail/accounts/answer/78754</comment>
     <comment>Tweet it</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFiles" xml:space="preserve">
-    <value>Masalah instalasi terdeteksi</value>
+    <value>Masalah penginstalan terdeteksi</value>
     <comment>Installation issue detected</comment>
   </data>
   <data name="Dialog_MissingOrCorruptFilesExplanation" xml:space="preserve">
-    <value>Mailbird telah mendeteksi satu atau lebih file rusak atau hilang dari direktori instalasi.
+    <value>Mailbird telah mendeteksi satu file atau lebih yang rusak atau hilang dari direktori penginstalan.
 
-Untuk memperbaiki masalah ini, silakan hapus instalasi dan instal ulang Mailbird dengan menggunakan versi terbaru dari https://www.getmailbird.com
+Untuk memperbaiki masalah ini, silakan hapus instalan dan instal ulang Mailbird dengan menggunakan versi terbaru dari https://www.getmailbird.com
 
-Semua pengaturan, surel, dll. akan tetap disimpan selama Anda tidak menghapus direktori penyimpanan saat penghapusan instalasi.</value>
+Semua pengaturan, surel, dll. akan tetap disimpan selama Anda tidak menghapus direktori penyimpanan saat penghapusan instalan.</value>
     <comment>Mailbird has detected that one or more files are corrupt or missing from the installation directory, and will now attempt a repair.
 
 If it fails, please uninstall and reinstall Mailbird to fix the problem. All your settings, email etc. will be kept as long as you don't delete the storage directory when asked by the uninstaller.</comment>
@@ -3934,7 +3934,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>{0} is not a valid pst file</comment>
   </data>
   <data name="Import_Error_Messages" xml:space="preserve">
-    <value>Satu atau lebih pesan tidak bisa diimpor</value>
+    <value>Satu pesan atau lebih tidak bisa diimpor</value>
     <comment>One or more messages could not be imported</comment>
   </data>
   <data name="Import_Finished" xml:space="preserve">
@@ -3950,7 +3950,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Account Data does not exist. Cannot import</comment>
   </data>
   <data name="Dialog_ClientRunning_Message" xml:space="preserve">
-    <value>Satu atau lebih klien yang dipilih masih berjalan. Silakan tutup klien dan coba lagi</value>
+    <value>Satu klien atau lebih yang dipilih masih berjalan. Silakan tutup klien dan coba lagi</value>
     <comment>One or more selected clients are still running. Please close them and try again</comment>
   </data>
   <data name="Dialog_ClientRunning_Title" xml:space="preserve">
@@ -6441,12 +6441,12 @@ E.g. "Repeat every 2 days"</comment>
     <comment>Label for radio button</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_Occurrence" xml:space="preserve">
-    <value>kejadian</value>
+    <value>peristiwa</value>
     <comment>Label for field in custom occurrence window
 e.g. "1 occurrence"</comment>
   </data>
   <data name="App_Calendar_CustomRecurrence_OccurrencePlural" xml:space="preserve">
-    <value>kejadian</value>
+    <value>peristiwa</value>
     <comment>Label for field in custom occurrence window
 e.g. "2 occurrences"</comment>
   </data>
@@ -6483,7 +6483,7 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats N times. Example: 3 times</comment>
   </data>
   <data name="App_Calendar_Recurrence_DoesNotRepeat" xml:space="preserve">
-    <value>Tidak mengulangi</value>
+    <value>Tidak berulang</value>
     <comment>An event  of a calendar does not repeat, it's only 1 day</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryPeriod" xml:space="preserve">
@@ -6510,7 +6510,7 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on a week day. Example: on Monday, on Friday, On October 8</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnDay" xml:space="preserve">
-    <value>pada hari {0}</value>
+    <value>pada hari ke {0}</value>
     <comment>An event repeats on a month day. Example: on day 1, on day 2, on day 31</comment>
   </data>
   <data name="App_Calendar_Recurrence_OnlyOnce" xml:space="preserve">
@@ -6788,11 +6788,11 @@ e.g. "2 occurrences"</comment>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Export_CanceledExplanation" xml:space="preserve">
-    <value>Proses ekspor dibatalkan. Sebuah file mungkin telah dibuat.</value>
+    <value>Proses ekspor telah dibatalkan. Sebuah file mungkin telah dibuat.</value>
     <comment>Explanation message when export was canceled</comment>
   </data>
   <data name="App_Calendar_Export_Error" xml:space="preserve">
-    <value>Kesalahan ekspor</value>
+    <value>Galat ekspor</value>
     <comment>Header when there was error in export process</comment>
   </data>
   <data name="App_Calendar_Export_Finished" xml:space="preserve">
@@ -6804,7 +6804,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when exporting calendar</comment>
   </data>
   <data name="App_Calendar_ImportExport_FileError" xml:space="preserve">
-    <value>Kesalahan saat mengakses file</value>
+    <value>Galat saat mengakses file</value>
     <comment>Header when there was error while accessing file</comment>
   </data>
   <data name="App_Calendar_ImportExport_NoEvents" xml:space="preserve">
@@ -6812,7 +6812,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Impor dibatalkan</value>
+    <value>Impor telah dibatalkan</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
@@ -6832,7 +6832,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when importing calendar</comment>
   </data>
   <data name="App_Calendar_Settings_ExportExplanation" xml:space="preserve">
-    <value>Silakan pilih satu atau lebih kalender untuk diekspor.</value>
+    <value>Silakan pilih satu kalender atau lebih untuk diekspor.</value>
     <comment>Instruction for export feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExplanation" xml:space="preserve">
@@ -7004,7 +7004,7 @@ kotak masuk.</value>
     <comment>Menu to create event</comment>
   </data>
   <data name="App_Calendar_Menu_SetDefault" xml:space="preserve">
-    <value>Tetapkan sebagai kalender default</value>
+    <value>Atur sebagai kalender default</value>
     <comment>Menu to set calendar as default</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_AddToCalendar" xml:space="preserve">
@@ -7036,7 +7036,7 @@ kotak masuk.</value>
     <comment>Field for calendar's color</comment>
   </data>
   <data name="App_ZeroBounce_Description" xml:space="preserve">
-    <value>Sistem validasi surel unggulan. Menjangkau kotak masuk dengan menyingkirkan surel berisiko dari daftar Anda.</value>
+    <value>Sistem validasi surel unggulan. Capai kotak masuk dengan menyingkirkan surel berisiko dari daftar Anda.</value>
     <comment>App description for ZeroBounce.</comment>
   </data>
   <data name="App_Calendar_SyncDetails" xml:space="preserve">
@@ -7130,7 +7130,7 @@ Versi apa yang ingin Anda coba?</value>
     <comment>Button to dismiss offer</comment>
   </data>
   <data name="License_EndTrial_Explanation" xml:space="preserve">
-    <value>Untuk terus menggunakan Mailbird dengan akun Terpadu, kalender Native, balas Sebaris dan banyak lagi, Anda harus membeli Mailbird.</value>
+    <value>Beli Mailbird untuk terus menggunakan Mailbird dengan akun Terpadu, kalender Native, balas Sebaris dan banyak lagi.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_EndTrial_Header" xml:space="preserve">
@@ -7158,9 +7158,9 @@ Versi apa yang ingin Anda coba?</value>
     <comment>Button to ask extra trial days</comment>
   </data>
   <data name="License_NewLite_Explanation" xml:space="preserve">
-    <value>Melalui buletin terbaru, kami telah menegaskan bahwa Mailbird Lite tidak akan lagi tersedia untuk pengguna baru, namun pengguna baru bisa memilih versi Mailbird Personal atau Mailbird Business yang keren.
+    <value>Di dalam buletin terbaru, kami telah menegaskan bahwa Mailbird Lite tidak akan lagi tersedia untuk pengguna baru, namun pengguna baru bisa memilih versi Mailbird Personal atau Mailbird Business yang keren.
 
-Tapi jika Anda sudah menjadi pengguna yang setia, kami menghargai Anda! Jadi, kami ingin memberikan opsi tambahan untuk menggunakan lisensi Mailbird Lite Anda selamanya - opsi ini tidak akan tersedia untuk pengguna baru.
+Tetapi jika Anda sudah menjadi pengguna yang setia, kami menghargai Anda! Jadi, kami ingin memberikan opsi tambahan untuk menggunakan lisensi Mailbird Lite Anda selamanya - opsi ini tidak akan tersedia untuk pengguna baru.
 Sebuah lisensi unik kemudian akan diberikan sehingga Anda bisa terus menggunakan Mailbird Lite tanpa perubahan apa pun.
 
 Mailbird Lite tidak akan lagi dimutakhirkan dengan fitur-fitur baru karena kami bergeser ke barisan produk baru, agar Anda tidak ketinggalan banyak perkembangan dan pemutakhiran canggih untuk Mailbird, seperti kalender native yang akan segera dirilis, kami sangat menyarankan meningkatkan Mailbird, dengan harga yang jauh lebih murah, ke salah satu versi baru, Mailbird Personal atau Mailbird Business.</value>
@@ -7197,7 +7197,7 @@ Apakah Anda melakukan kesalahan dan ingin terus menggunakan Mailbird? Tidak masa
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_SubHeader" xml:space="preserve">
-    <value>Apakah Anda membutuhkan waktu lebih untuk menentukan?</value>
+    <value>Butuh waktu untuk menentukan?</value>
     <comment>Trial extension sub header</comment>
   </data>
   <data name="License_TrialReminder_NoDiscountExplanation" xml:space="preserve">
@@ -7217,7 +7217,7 @@ Apakah Anda melakukan kesalahan dan ingin terus menggunakan Mailbird? Tidak masa
     <comment>Explanation for business trial</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureAndMore" xml:space="preserve">
-    <value>Dan lebih banyak lagi...</value>
+    <value>Dan banyak lagi...</value>
     <comment>Label for many more feature</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureExchangeSupport" xml:space="preserve">
@@ -7245,7 +7245,7 @@ Apakah Anda melakukan kesalahan dan ingin terus menggunakan Mailbird? Tidak masa
     <comment>Header for welcome to mailbird business trial window</comment>
   </data>
   <data name="License_Welcome_Question" xml:space="preserve">
-    <value>Jika Anda memilih pertanyaan apa pun silakan [link href={0}]hubungi dukungan[/link] dan kami akan membantu Anda secepat mungkin.</value>
+    <value>Jika Anda memiliki pertanyaan apa pun, silakan [link href={0}]hubungi dukungan[/link] dan kami akan membantu Anda secepat mungkin.</value>
     <comment>Copy for welcome to trial</comment>
   </data>
   <data name="Dialog_TrialExtended" xml:space="preserve">
@@ -7253,7 +7253,7 @@ Apakah Anda melakukan kesalahan dan ingin terus menggunakan Mailbird? Tidak masa
     <comment>Header for messagebox</comment>
   </data>
   <data name="Dialog_TrialExtended_Explanation" xml:space="preserve">
-    <value>Terus menggunakan Mailbird dan semua fiturnya selama {0} hari lagi.</value>
+    <value>Terus gunakan Mailbird dan semua fiturnya selama {0} hari lagi.</value>
     <comment>Explanation for messagebox</comment>
   </data>
   <data name="License_EndTrialNoExtension_Explanation" xml:space="preserve">
@@ -7267,7 +7267,7 @@ Anda sekarang bisa memilih antara Mailbird Personal atau Mailbird Business sesua
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrial_ExplanationBusiness" xml:space="preserve">
-    <value>Untuk terus menggunakan Mailbird Business dengan dukungan Exchange, pencarian LinkedIn, balas Sebaris dan banyak lagi, Anda harus membeli Mailbird Business.</value>
+    <value>Beli Mailbird Business untuk terus menggunakan Mailbird Business dengan dukungan Exchange, pencarian LinkedIn, balas Sebaris dan banyak lagi.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
@@ -7287,7 +7287,7 @@ Anda sekarang bisa memilih antara Mailbird Personal atau Mailbird Business sesua
     <comment>Feature speed reading</comment>
   </data>
   <data name="License_WelcomeBasic_UnifiedAccount" xml:space="preserve">
-    <value>Akun gabungan</value>
+    <value>Akun terpadu</value>
     <comment>Feature unified account</comment>
   </data>
   <data name="Dialog_LiteLicenseRetrieved" xml:space="preserve">
@@ -7311,7 +7311,7 @@ Anda sekarang bisa memilih antara Mailbird Personal atau Mailbird Business sesua
     <comment>Nb {0} will be replaced by number</comment>
   </data>
   <data name="Notification_OfflineMode" xml:space="preserve">
-    <value>Mailbird saat ini luring</value>
+    <value>Mailbird sedang luring</value>
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
@@ -7339,7 +7339,7 @@ Anda sekarang bisa memilih antara Mailbird Personal atau Mailbird Business sesua
     <comment>Error message on the explanation</comment>
   </data>
   <data name="Upgrade_Apps" xml:space="preserve">
-    <value>Dapatkan lisensi Mailbird license untuk menggunakan aplikasi ini.</value>
+    <value>Dapatkan lisensi Mailbird untuk menggunakan aplikasi ini.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_AppsBusiness" xml:space="preserve">
@@ -7369,7 +7369,7 @@ Jika Anda ingin terus menggunakan Mailbird, silakan beli lisensi di bawah ini at
     <comment>Header when Mailbird has gone offline before adding any account</comment>
   </data>
   <data name="License_OfflineWelcome_SubHeader" xml:space="preserve">
-    <value>Mailbird sekarang luring</value>
+    <value>Mailbird sedang luring</value>
     <comment>SubHeader when Mailbird has gone offline before adding any account</comment>
   </data>
   <data name="License_Trial" xml:space="preserve">
@@ -7381,7 +7381,7 @@ Jika Anda ingin terus menggunakan Mailbird, silakan beli lisensi di bawah ini at
     <comment>Label for license, e.g. Mailbird Business</comment>
   </data>
   <data name="License_Offline" xml:space="preserve">
-    <value>Mailbird sekarang luring. Lisensi dibutuhkan.</value>
+    <value>Mailbird sedang luring. Lisensi dibutuhkan.</value>
     <comment>Label in about window when Mailbird is on offline mode</comment>
   </data>
   <data name="UpgradeToPro_PaidAnnually" xml:space="preserve">
@@ -7427,7 +7427,7 @@ Permintaan ini akan dibuka di peramban default Anda dan harus diselesaikan agar 
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
   </data>
   <data name="Notification_AuthorizationRequiredMessage" xml:space="preserve">
-    <value>Mailbird membutuhkan otorisasi dengan akun Anda untuk mendapatkan akses.
+    <value>Mailbird perlu mengotorisasi dengan akun Anda untuk mendapatkan akses.
 
 Jika otorisasi belum dilakukan maka akun tidak akan disinkronkan dengan server.</value>
     <comment>Notification shown when Mailbird needs to authorize with an account.</comment>
@@ -7455,7 +7455,7 @@ Mailbird akan mecoba lagi dengan peramban lainnya. Jika masih gagal, silakan non
     <comment>Explanationfor messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
-    <value>Dukungan Exchange tidak tersedia dalam Mailbird Personal</value>
+    <value>Dukungan Exchange tidak tersedia untuk Mailbird Personal</value>
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
@@ -7546,7 +7546,7 @@ Apakah Anda yakin ingin membeli Mailbird Personal?</value>
     <comment>Placeholder when there is no contacts</comment>
   </data>
   <data name="Filter_Field_NoFolder" xml:space="preserve">
-    <value>tak ada folder</value>
+    <value>tidak ada folder</value>
     <comment>Placeholder when there is no folder</comment>
   </data>
   <data name="Filter_Field_NoSubject" xml:space="preserve">
@@ -7594,7 +7594,7 @@ Apakah Anda yakin ingin membeli Mailbird Personal?</value>
     <comment>Header for review section in edit filter window</comment>
   </data>
   <data name="Filter_ValidationRule_Email" xml:space="preserve">
-    <value>Silakan tambah satu atau lebih kontak</value>
+    <value>Silakan tambah satu kontak atau lebih</value>
     <comment>Tooltip message when contact field is empty</comment>
   </data>
   <data name="Filter_ValidationRule_EmptyValue" xml:space="preserve">
@@ -7630,7 +7630,7 @@ Apakah Anda yakin ingin membeli Mailbird Personal?</value>
     <comment>Header in notification when folder is missing in filter</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderMessage" xml:space="preserve">
-    <value>Folder yang ditentukan dalam tindakan filter tidak lagi ditemukan dan tindakan tidak akan dieksekusi. Silakan perbarui filter.</value>
+    <value>Folder yang ditentukan di dalam tindakan filter tidak lagi ditemukan dan tindakan tidak akan dieksekusi. Silakan perbarui filter.</value>
     <comment>Error message when on filter item</comment>
   </data>
   <data name="Options_Filters_FiltersNote" xml:space="preserve">
@@ -7646,7 +7646,7 @@ Apakah Anda yakin ingin membeli Mailbird Personal?</value>
   </data>
   <data name="Invite_Message" xml:space="preserve">
     <value>Hai
-Saya mulai menggunakan Mailbird. Anda bisa mengelola banyak akun surel dan komunikasi berbeda di dalam satu aplikasi dengan Mailbird jika Anda mau. Coba Mailbird secara gratis di sini: {0}.
+Saya mulai menggunakan Mailbird. Anda bisa mengelola banyak akun surel dan komunikasi yang berbeda di dalam satu aplikasi dengan Mailbird jika Anda mau. Coba Mailbird secara gratis di sini: {0}.
 
 Saya harap Anda menyukainya.</value>
     <comment>Message when recommending Mailbird via email</comment>
@@ -7704,7 +7704,7 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Menu to create filter from context menu</comment>
   </data>
   <data name="Options_SignatureNewConversation" xml:space="preserve">
-    <value>Hanya tambah tanda tangan ke percakapan baru</value>
+    <value>Tambah tanda tangan ke percakapan baru saja</value>
     <comment>Setting to only add signature to new conversation</comment>
   </data>
   <data name="App_ToDo_Description" xml:space="preserve">
@@ -7724,11 +7724,11 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Windows title of create filter window</comment>
   </data>
   <data name="Notification_FilterExecutedMany" xml:space="preserve">
-    <value>Filter telah digunakan untuk percakapan {0}</value>
+    <value>Filter telah digunakan ke percakapan {0}</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Notification_FilterExecutedSingle" xml:space="preserve">
-    <value>Filter telah digunakan untuk satu percakapan</value>
+    <value>Filter telah digunakan ke satu percakapan</value>
     <comment>Notification shown after runnning filter</comment>
   </data>
   <data name="Dialog_CopyDataDirectory" xml:space="preserve">
@@ -7740,7 +7740,7 @@ Ingat bahwa tidak semua perubahan yang Anda buat di satu versi Mailbird akan dis
     <comment>Dialog asking whether to copy data from the release version of Mailbird when starting the alpha version for the first time.</comment>
   </data>
   <data name="Dialog_ExistingInstallationDetected" xml:space="preserve">
-    <value>Instalasi lama telah terdeteksi</value>
+    <value>penginstalan lama telah terdeteksi</value>
     <comment>Existing installation detected</comment>
   </data>
   <data name="Options_MailbirdAlpha" xml:space="preserve">
@@ -7748,7 +7748,7 @@ Ingat bahwa tidak semua perubahan yang Anda buat di satu versi Mailbird akan dis
     <comment>Mailbird Alpha</comment>
   </data>
   <data name="Options_MailbirdAlphaDescription" xml:space="preserve">
-    <value>Jika Anda ingin membantu dalam menguji pemutakhiran dan fitur-fitur terbaru Mailbird, dan ingin mempengaruhi keputusan kami, silakan daftar sebagai penguji Alpha.
+    <value>Jika Anda ingin membantu menguji pemutakhiran dan fitur-fitur terbaru Mailbird, dan ingin mempengaruhi keputusan kami, silakan daftar sebagai penguji Alpha.
 
 Versi Alpha dari Mailbird akan diinstal secara terpisah, jadi Anda masih bisa menggunakan versi biasa dari Mailbird, tapi versi Alpha mendapatkan pemutakhiran lebih cepat, termasuk fitur-fitur baru - dan Anda akan mendapat akses ke grup Facebook tertutup kami di mana kami melakukan penelitian dan mendapatkan umpan balik ketika ide-ide baru diluncurkan.
 
@@ -7774,7 +7774,7 @@ Note that since this is the "in development" version of Mailbird, issues may occ
   <data name="Dialog_ErrorCopyingExistingDataExplanation" xml:space="preserve">
     <value>Sebuah kesalahan terjadi saat menyalin data dari Mailbird versi biasa ke versi saat ini.
 
-Mailbird versi biasa Anda tidak terdampak, tapi versi saat ini akan dimulai sebagai instalasi baru.</value>
+Mailbird versi biasa Anda tidak terdampak, tapi versi saat ini akan dimulai sebagai penginstalan baru.</value>
     <comment>Dialog showing when an error starting Mailbird with existing data failed.</comment>
   </data>
   <data name="Dialog_CopyingNecessaryData" xml:space="preserve">
@@ -7976,8 +7976,8 @@ Jika iya, Anda akan diarahkan ke halaman pemberhentian langganan.</value>
     <comment>Preset time for scheduling message</comment>
   </data>
   <data name="Scheduled_MoreInfo" xml:space="preserve">
-    <value>Pesan akan dikirim pada waktu yang ditentukan hanya jika Mailbird berjalan dan komputer online.
-Jika tidak, pesan akan dikirim sesaat setelah Mailbird online kembali.</value>
+    <value>Pesan akan dikirim pada waktu yang ditentukan hanya jika Mailbird berjalan dan komputer sedang daring.
+Jika tidak, pesan akan dikirim sesaat setelah Mailbird sedang daring kembali.</value>
     <comment>Explanation on scheduled feature</comment>
   </data>
   <data name="Scheduled_SendLaterAt" xml:space="preserve">
@@ -8124,7 +8124,7 @@ Apakah Anda yakin ingin menghapus percakapan?</value>
     <comment>Option to turn on Email Tracking by default</comment>
   </data>
   <data name="Conversation_HasAttachments" xml:space="preserve">
-    <value>Memiliki beberapa lampiran</value>
+    <value>Memiliki lampiran</value>
     <comment>Tooltip for attachment indicator in conversation</comment>
   </data>
   <data name="EmailTracking_TooltipPending" xml:space="preserve">
@@ -8206,11 +8206,11 @@ Anda bisa coba mengirim ulang pesan ke mereka, atau hiraukan galat untuk menghap
     <comment>Button to re-send message with error </comment>
   </data>
   <data name="EmailTracking_Undelivered" xml:space="preserve">
-    <value>Tak terkirim ({0})</value>
+    <value>Tak dikirim ({0})</value>
     <comment>Label for undelivered recipients</comment>
   </data>
   <data name="EmailTracking_Opened" xml:space="preserve">
-    <value>Terbuka</value>
+    <value>Dibuka</value>
     <comment>Header for recipients list for opened at column</comment>
   </data>
   <data name="EmailTracking_RecipientPlural" xml:space="preserve">
@@ -8246,7 +8246,7 @@ Anda bisa coba mengirim ulang pesan ke mereka, atau hiraukan galat untuk menghap
     <comment>Header when first time sending email with Email Tracking</comment>
   </data>
   <data name="Notification_EmailTrackingIntroMessage" xml:space="preserve">
-    <value>Anda baru saja mengirim pesan terlacak pertama Anda!
+    <value>Anda baru saja mengirim pesan dilacak pertama Anda!
 
 Sekarang Mailbird bisa menunjukkan kapan surel Anda dibuka oleh penerima. Anda bisa periksa status buka surel, baik di dalam pesan atau percakapan. Pilih folder Dikirim sekarang untuk melihat status pesan.
 
@@ -8258,9 +8258,9 @@ Sekarang Mailbird bisa menunjukkan kapan surel Anda dibuka oleh penerima. Anda b
     <comment>New badge for tips</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError_PortInUse" xml:space="preserve">
-    <value>Prose otorisasi Mailbird dengan server gagal karena port {o} di mesin Anda tidak bisa diakses.
+    <value>Mailbir tidak bisa mengotorisasi dengan server karena porta {0} di mesin Anda tidak bisa diakses.
 
-Pastikan tidak yang menggunakan atau memblokir port {0} dan coba lagi.</value>
+Pastikan tidak ada yang menggunakan atau memblokir porta {0} dan coba lagi.</value>
     <comment>Message shown when failing to authorize using OAuth2 due to the port used being inaccessible.</comment>
   </data>
   <data name="Options_RetrievingLicense" xml:space="preserve">
@@ -8282,10 +8282,10 @@ Pastikan tidak yang menggunakan atau memblokir port {0} dan coba lagi.</value>
   <data name="Announcement_LiteSprintUpgradeExplanation" xml:space="preserve">
     <value>Mulai dari hari ini Anda tidak bisa lagi mengakses fitur-fitur berikut ini secara gratis:  [bold]Pencarian Lanjutan[/bold], [bold]Tombol Berhenti Berlangganan[/bold], [bold]Kirim Nanti[/bold], dan [bold]Pelacakan Surel[/bold].
 
-Anda memiliki pilihan-pilihan berikut untuk lanjut:
+Anda memiliki pilihan-pilihan berikut untuk melanjutkan:
 1. Dapatkan Mailbird Business Pay Once secara gratis menggunakan Program Referal kami
 2. Mutakhirkan ke Mailbird Personal atau Mailbird Business dan dapatkan potongan 50%
-3. Gunakan Mailbird Lite seperti sebelum sprin 12 minggu.</value>
+3. Gunakan Mailbird Lite seperti biasa sebelum sprin 12 minggu.</value>
     <comment>Body for announcement window for lite user</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradePurchase" xml:space="preserve">
@@ -8373,7 +8373,7 @@ Anda memiliki pilihan-pilihan berikut untuk lanjut:
     <comment>Feature name: app integrations</comment>
   </data>
   <data name="Announcement_HigherTierHeader" xml:space="preserve">
-    <value>Penghargaan atas loyalitas penggunaan Mailbird Anda!</value>
+    <value>Penghargaan atas kesetiaan Anda dengan Mailbird!</value>
     <comment>Header in promotion</comment>
   </data>
   <data name="Announcement_HigherTierLastChance" xml:space="preserve">
@@ -8385,7 +8385,7 @@ Anda memiliki pilihan-pilihan berikut untuk lanjut:
     <comment>Button to close</comment>
   </data>
   <data name="Announcement_HigherTierPayonce" xml:space="preserve">
-    <value>Tertarik Mailbird Business? Upgrade ke lisensi Personal Pay Once.</value>
+    <value>Tidak tertarik dengan Mailbird Business? Tingkatkan ke lisensi Personal Pay Once saja.</value>
     <comment>Text footer explanation</comment>
   </data>
   <data name="Announcement_HigherTierRemindMe" xml:space="preserve">
@@ -8393,15 +8393,15 @@ Anda memiliki pilihan-pilihan berikut untuk lanjut:
     <comment>Button label to remind later</comment>
   </data>
   <data name="Announcement_HigherTierSubHeader" xml:space="preserve">
-    <value>Semakin lama penggunaan Mailbird, semakin besar diskon individu yang bisa Anda dapatkan.</value>
+    <value>Semakin lama Anda menggunakan Mailbird, semakin besar diskon individual Anda.</value>
     <comment>Subheader in promotion</comment>
   </data>
   <data name="Announcement_HigherTierUpgrade" xml:space="preserve">
-    <value>Upgrade ke [bold]Mailbird Business[/bold] dan dapatkan akses tanpa batas ke semua [bold]fitur Mailbird[/bold] favorit seperti</value>
+    <value>Tingkatkan ke [bold]Mailbird Business[/bold] dan dapatkan akses tanpa batas ke semua [bold]fitur Mailbird[/bold] favorit seperti</value>
     <comment>Description in the banner</comment>
   </data>
   <data name="Announcement_HigherTierUpgradeNow" xml:space="preserve">
-    <value>Upgrade sekarang</value>
+    <value>Tingkatkan sekarang</value>
     <comment>Button label to upgrade</comment>
   </data>
   <data name="Welcome_CustomAvatar" xml:space="preserve">
@@ -8413,7 +8413,7 @@ Anda memiliki pilihan-pilihan berikut untuk lanjut:
     <comment>Message when failed to remove image</comment>
   </data>
   <data name="Options_ShowAccountsPaneSeparately" xml:space="preserve">
-    <value>Tampilkan folder secara terpisah pada panel navigasi yang diperluas</value>
+    <value>Tunjukkan folder secara terpisah di dalam panel navigasi yang diperluas</value>
     <comment>Option to show accounts pane separately</comment>
   </data>
   <data name="Options_ShowAccountsPaneSeparatelyExplanation" xml:space="preserve">
@@ -8421,11 +8421,11 @@ Anda memiliki pilihan-pilihan berikut untuk lanjut:
     <comment>Explanation when the option is not available</comment>
   </data>
   <data name="EmailTracking_NotificationNoItem" xml:space="preserve">
-    <value>Tidak ada pelacakan surel terbuka.</value>
+    <value>Tidak ada pelacakan yang dibuka.</value>
     <comment>Message when there is no opened tracking</comment>
   </data>
   <data name="EmailTracking_NotificationOpened" xml:space="preserve">
-    <value>terbuka</value>
+    <value>dibuka</value>
     <comment>Part of the text in email tracking notification item. The full text will be "John opened subject"</comment>
   </data>
   <data name="EmailTracking_NotificationLimitedTrackingExplanation" xml:space="preserve">
@@ -8503,7 +8503,7 @@ Izinkan kami melampirkan berkas log Anda ke surel ini?</value>
     <comment>Tooltip label for Mailbird icon</comment>
   </data>
   <data name="Announcement_BFDisclaimer" xml:space="preserve">
-    <value>*Kode diskon valid hingga 5 Desember, 2020. Dengan mengaktifkan generator diskon, Anda setuju atas Mailbird mengirimkan Anda kode diskon via surel. Untuk produk yang ditagih setiap tahun, diskon hanya berlaku untuk tahun pertama.</value>
+    <value>*Kode diskon valid hingga 5 Desember, 2020. Dengan mengaktifkan generator diskon, Anda menyetujui Mailbird untuk mengirimkan Anda kode diskon via surel. Untuk produk yang ditagih setiap tahun, diskon hanya berlaku pada tahun pertama.</value>
     <comment>Disclaimer for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationTrial" xml:space="preserve">
@@ -8651,7 +8651,7 @@ opened Subject</comment>
     <comment>Messenger app description</comment>
   </data>
   <data name="App_MicrosoftTeams_Description" xml:space="preserve">
-    <value>Integrasikan orang, konten dan alat yang dibutuhkan tim Anda untuk berkolaborasi, mengobrol, bertemu dan menelepon.</value>
+    <value>Integrasikan orang, konten dan alat yang dibutuhkan tim Anda untuk berkolaborasi, berbincang, dan bertemu.</value>
     <comment>Microsoft teams app description</comment>
   </data>
   <data name="App_GoogleChat_Description" xml:space="preserve">
@@ -8715,7 +8715,7 @@ opened Subject</comment>
     <comment>Placeholder in search textbox. {0} will be replaced with e.g. "Calendar"</comment>
   </data>
   <data name="Announcement_ExternalReviewDescription" xml:space="preserve">
-    <value>Terima kasih banyak atas suara Anda! Untuk membantu lebih banyak orang dalam menemukan Mailbird, kami sangat menyarankan untuk memberi penilaian Anda kepada Mailbird di {0}.
+    <value>Terima kasih banyak atas dukungan Anda! Untuk membantu lebih banyak orang dalam menemukan Mailbird, kami sangat menghargai waktu Anda untuk memberi penilaian kepada Mailbird di {0}.
 
 Terima kasih banyak!</value>
     <comment>Description for announcement popup.
