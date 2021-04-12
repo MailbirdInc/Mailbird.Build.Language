@@ -2956,7 +2956,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Locked</comment>
   </data>
   <data name="AvatarIconMailCom" xml:space="preserve">
-    <value>MailCom</value>
+    <value>Mail.com</value>
     <comment>MailCom</comment>
   </data>
   <data name="AvatarIconOneMail" xml:space="preserve">
@@ -8172,7 +8172,7 @@ You can try re-sending it to them, or ignore the errors to remove them as recipi
     <comment>Header to show counter of how many tracking sent</comment>
   </data>
   <data name="EmailTracking_LimitedTrackingExplanation" xml:space="preserve">
-    <value>Email tracking is not fully supported by the sending server.</value>
+    <value>Tracking individual recipients is not supported. [link href={0}]Learn more[/link]</value>
     <comment>Explanation when email tracking is not fully supported</comment>
   </data>
   <data name="EmailTracking_UnknownRecipient" xml:space="preserve">
@@ -8707,5 +8707,25 @@ Thank you so much!</value>
     <value>Powered by{0}</value>
     <comment>Default signature in Mailbird
 {0} will be replaced by "Mailbird"</comment>
+  </data>
+  <data name="Welcome_HelpFillSettings" xml:space="preserve">
+    <value>How do I fill this?</value>
+    <comment>Button label to get help on how to fill the settings</comment>
+  </data>
+  <data name="Welcome_EmailTracking" xml:space="preserve">
+    <value>Bring on Email Tracking</value>
+    <comment>Header in email tracking onboarding step</comment>
+  </data>
+  <data name="Welcome_EmailTrackingExplanation" xml:space="preserve">
+    <value>Email Tracking lets you know who read your emails and when.</value>
+    <comment>Explanation about email tracking feature</comment>
+  </data>
+  <data name="Welcome_EnableEmailTracking" xml:space="preserve">
+    <value>Enable Email Tracking for sent emails</value>
+    <comment>Option to enable email tracking feature</comment>
+  </data>
+  <data name="Welcome_EnableEmailTrackingNotification" xml:space="preserve">
+    <value>Get notified when your emails  are opened</value>
+    <comment>Option to enable email tracking notification</comment>
   </data>
 </root>
