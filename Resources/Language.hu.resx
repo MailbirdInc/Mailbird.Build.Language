@@ -2995,7 +2995,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Gmail</comment>
   </data>
   <data name="AvatarIconICloud" xml:space="preserve">
-    <value>iCloud</value>
+    <value>iCloud szolgáltatás</value>
     <comment>ICloud</comment>
   </data>
   <data name="AvatarIconIdea" xml:space="preserve">
@@ -3055,11 +3055,11 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>Yahoo!</comment>
   </data>
   <data name="SecurityProtocol_SSL" xml:space="preserve">
-    <value>SSL/TLS</value>
+    <value>SSL/TLS szolgáltatás</value>
     <comment>SSL/TLS</comment>
   </data>
   <data name="SecurityProtocol_TLS" xml:space="preserve">
-    <value>STARTTLS</value>
+    <value>STARTTLS szolgáltatás</value>
     <comment>STARTTLS</comment>
   </data>
   <data name="SecurityProtocol_Unencrypted" xml:space="preserve">
@@ -3722,7 +3722,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Pin Mailbird to start menu</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Ikon létrehozása az asztalon</value>
+    <value>Parancsikon létrehozása az asztalon</value>
     <comment>Create shortcut on desktop</comment>
   </data>
   <data name="InstallationForm_InstallationCompleted" xml:space="preserve">
@@ -5248,7 +5248,7 @@ with Mailbird Pro?</comment>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_InstantMessenger" xml:space="preserve">
-    <value>IM</value>
+    <value>IM szolgáltatás</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Phone" xml:space="preserve">
@@ -8152,7 +8152,7 @@ Biztosan a lomtárba kerüljön a beszélgetés?</value>
     <comment>Title in upgrade to pro window</comment>
   </data>
   <data name="Upgrade_EmailTracking" xml:space="preserve">
-    <value>A Mailbird Business beszerzése korlátlan email nyomonkövetéshez.</value>
+    <value>A Mailbird Business beszerzése korlátlan email követéshez.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Attachment_SaveAttachment" xml:space="preserve">
@@ -8222,7 +8222,7 @@ Megpróbálhatjuk ismét elküldeni ezt vagy a hibát figyelmen kívül hagyva e
     <comment>Header to show counter of how many tracking sent</comment>
   </data>
   <data name="EmailTracking_LimitedTrackingExplanation" xml:space="preserve">
-    <value>Tracking individual recipients is not supported. [link href={0}]Learn more[/link]</value>
+    <value>Az egyedi címzettek követése nem támogatott. [link href={0}]További információ[/link]</value>
     <comment>Explanation when email tracking is not fully supported</comment>
   </data>
   <data name="EmailTracking_UnknownRecipient" xml:space="preserve">
@@ -8242,15 +8242,15 @@ Megpróbálhatjuk ismét elküldeni ezt vagy a hibát figyelmen kívül hagyva e
     <comment>Title of referral app shown in apps store section</comment>
   </data>
   <data name="Notification_EmailTrackingIntroHeader" xml:space="preserve">
-    <value>Bevezetés az 'Email nyomkövetésbe'</value>
+    <value>'Email követés' bemutatása</value>
     <comment>Header when first time sending email with Email Tracking</comment>
   </data>
   <data name="Notification_EmailTrackingIntroMessage" xml:space="preserve">
-    <value>Éppen most került elküldésre az első nyomonkövetett üzenet.
+    <value>Éppen most került elküldésre az első követett üzenet.
 
-A Mailbird megjelenítheto, hogy az emailt mikor nyitják meg a címzettek. Ellenőrizni lehet az email megnyitási állapotpt az üzenetben és a beszélgetésben. Válasszuk az Elküldött mappát most az üzenet állapotának megtekintéséhez.
+A Mailbird megjelenítheti, hogy az emailt mikor nyitják meg a címzettek. Ellenőrizni lehet az email megnyitási állapotot az üzenetben és a beszélgetésben. Válasszuk az Elküldött mappát most az üzenet állapotának megtekintéséhez.
 
-[bold]Fontos:[/bold] Egyes címzettek blokkolhatják az email nyomonkövetést, így az állapot "függőben" típusú marad.</value>
+[bold]Fontos:[/bold] Egyes címzettek blokkolhatják az email követést, így az állapot "függőben" típusú marad.</value>
     <comment>Message when first time sending email with Email Tracking</comment>
   </data>
   <data name="Tips_New" xml:space="preserve">
@@ -8268,7 +8268,7 @@ Ellenőrizzük, hogy semmi sem használja vagy blokkolja {0} portot és próbál
     <comment>Message when app is retrieving license status from server</comment>
   </data>
   <data name="Upgrade_SprintUpgrade" xml:space="preserve">
-    <value>Bővített keresés, Leiratkozás gomb, Küldés később, Email nyomkövetés ls sok egyéb.</value>
+    <value>Bővített keresés, Leiratkozás gomb, Küldés később, Email követés és sok egyéb.</value>
     <comment>Message when lite users try accessing pro features</comment>
   </data>
   <data name="Announcement_LiteSprintUpgrade" xml:space="preserve">
@@ -8283,7 +8283,7 @@ Ellenőrizzük, hogy semmi sem használja vagy blokkolja {0} portot és próbál
     <value>A mai naptól a következő szolgáltatások már nem ingyenesek: [bold]Bővített keresés[/bold], [bold]Leiratkozás gomb[/bold], [bold]Küldés később[/bold] és [bold] Email nyomkövetés [/bold].
 
 A folytatáshoz a következő lehetőségek állnak rendelkezésre:
-1. SzerezzÜk be a Mailbird Business Pay Once verziót a Referral program segítségével
+1. Szerezzük be a Mailbird Business Pay Once verziót a Referral program segítségével
 2. Frissítsünk a Mailbird Personal vagy a Mailbird Business verzióra és 50% kedvezményt kapunk
 3. Használjuk a Mailbird Lite verziót, ahogy az a 12 hetes gyorsfejlesztés előtt volt.</value>
     <comment>Body for announcement window for lite user</comment>
@@ -8345,7 +8345,7 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
     <comment>PIN used to join a conference.</comment>
   </data>
   <data name="AvatarIconYandex" xml:space="preserve">
-    <value>Yandex</value>
+    <value>Yandex szolgáltatás</value>
     <comment>Provider name: Yandex</comment>
   </data>
   <data name="Welcome_AuthenticationType_GoogleOAuth2" xml:space="preserve">
@@ -8421,7 +8421,7 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
     <comment>Explanation when the option is not available</comment>
   </data>
   <data name="EmailTracking_NotificationNoItem" xml:space="preserve">
-    <value>Nincs megnyitott nyomonkövetés.</value>
+    <value>Nincs megnyitott követés.</value>
     <comment>Message when there is no opened tracking</comment>
   </data>
   <data name="EmailTracking_NotificationOpened" xml:space="preserve">
@@ -8429,7 +8429,7 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
     <comment>Part of the text in email tracking notification item. The full text will be "John opened subject"</comment>
   </data>
   <data name="EmailTracking_NotificationLimitedTrackingExplanation" xml:space="preserve">
-    <value>Nem követhető, hogy ki nyitotta meg az emalt, mert az email követést nem támogatja a küldő szerver.</value>
+    <value>Nem követhető, hogy ki nyitotta meg az emailt, mert az email követést nem támogatja a küldő szerver.</value>
     <comment>Explanation when email tracking is not fully supported in the notification</comment>
   </data>
   <data name="EmailTracking_NotificationUnknownRecipient" xml:space="preserve">
@@ -8495,7 +8495,7 @@ Csatolhatjuk a naplófájlt ehhez az emailhez?</value>
     <comment>Explanation for message box when attaching log file</comment>
   </data>
   <data name="AvatarIconExchange" xml:space="preserve">
-    <value>Exchange</value>
+    <value>Exchange szolgáltatás</value>
     <comment>Tooltip label for Exchange icon</comment>
   </data>
   <data name="AvatarIconMailbird" xml:space="preserve">
@@ -8617,7 +8617,7 @@ So it'll be:
 5 recipients</comment>
   </data>
   <data name="Options_TrayNotificationET" xml:space="preserve">
-    <value>A tlca értesítés megjelenítése, ha az email követéssel ellátott üzenet megnyílik</value>
+    <value>A tálca értesítés megjelenítése, ha az email követéssel ellátott üzenet megnyílik</value>
     <comment>Option to show popup notification</comment>
   </data>
   <data name="EmailTracking_ToastNotificationSubTitleMultiple" xml:space="preserve">
@@ -8759,23 +8759,23 @@ Köszönjük!</value>
 {0} will be replaced by "Mailbird"</comment>
   </data>
   <data name="Welcome_HelpFillSettings" xml:space="preserve">
-    <value>How do I fill this?</value>
+    <value>Hogyan legyen kitöltve?</value>
     <comment>Button label to get help on how to fill the settings</comment>
   </data>
   <data name="Welcome_EmailTracking" xml:space="preserve">
-    <value>Bring on Email Tracking</value>
+    <value>Email követés beüzemelése</value>
     <comment>Header in email tracking onboarding step</comment>
   </data>
   <data name="Welcome_EmailTrackingExplanation" xml:space="preserve">
-    <value>Email Tracking lets you know who read your emails and when.</value>
+    <value>Az Email követés segítségével megtudhatjuk, hogy ki és mikor olvassa el az emaileket.</value>
     <comment>Explanation about email tracking feature</comment>
   </data>
   <data name="Welcome_EnableEmailTracking" xml:space="preserve">
-    <value>Enable Email Tracking for sent emails</value>
+    <value>Az Email követés engedélyezése email küldéseknél</value>
     <comment>Option to enable email tracking feature</comment>
   </data>
   <data name="Welcome_EnableEmailTrackingNotification" xml:space="preserve">
-    <value>Get notified when your emails  are opened</value>
+    <value>Értesítés fogadása az emailek megnyitásakor</value>
     <comment>Option to enable email tracking notification</comment>
   </data>
 </root>
