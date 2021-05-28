@@ -3642,7 +3642,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird</value>
+    <value>Your BEST email, communication &amp; productivity suite made for Windows via Mailbird</value>
     <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
@@ -3724,7 +3724,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Loading...</comment>
   </data>
   <data name="RateRecommend_TwitterMessage" xml:space="preserve">
-    <value>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</value>
+    <value>Getting addicted to #InboxZero with Mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</value>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
@@ -4405,7 +4405,7 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Get Mailbird license now!</value>
+    <value>Get your Mailbird license now!</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
@@ -4586,7 +4586,7 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>Get 1 month of @mailbird Pro for free, download here: {0}</value>
+    <value>Get 1 month of Mailbird Pro for free, download here: {0}</value>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
@@ -7392,7 +7392,7 @@ If you wish to continue using Mailbird you can purchase a license below or enter
     <comment>Text to explain the payment is one time.</comment>
   </data>
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
-    <value>Choose a version and payment plan below that's right for you.</value>
+    <value>Choose your preferred Mailbird product and payment plan below.</value>
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
   <data name="App_GoogleDrive_Description" xml:space="preserve">
@@ -8784,5 +8784,47 @@ Thank you so much!</value>
   <data name="AdvancedSearch_MailSpamTrash" xml:space="preserve">
     <value>Mail &amp; Spam &amp; Trash</value>
     <comment>Item to search in Mail, Spam, and Trash folders</comment>
+  </data>
+  <data name="UpgradeToPro_PaidBiYearly" xml:space="preserve">
+    <value>(billed every 2 years)</value>
+    <comment>Text to explain the payment is every 2 years.</comment>
+  </data>
+  <data name="Limit_Body" xml:space="preserve">
+    <value>Your Mailbird license is already registered on another device.
+
+If you would like to use Mailbird on this device instead, please confirm below to change the registration.</value>
+    <comment>Body when device usage is more than limit and limit is 1</comment>
+  </data>
+  <data name="Limit_BodyPlural" xml:space="preserve">
+    <value>If you would like to use Mailbird on this device, please confirm below to change the registration from your least recently used device to this.</value>
+    <comment>Body when device usage is more than limit</comment>
+  </data>
+  <data name="Limit_Footer" xml:space="preserve">
+    <value>Would you like to use Mailbird on more devices?</value>
+    <comment>Footer text on the device limit window</comment>
+  </data>
+  <data name="Limit_Header" xml:space="preserve">
+    <value>You have reached your [bold]{0}-device[/bold] license limit</value>
+    <comment>Header on device limit window</comment>
+  </data>
+  <data name="Limit_Purchase" xml:space="preserve">
+    <value>Get another license [bold]{0}% OFF[/bold]</value>
+    <comment>Button to purchase license</comment>
+  </data>
+  <data name="Limit_Register" xml:space="preserve">
+    <value>Register this device</value>
+    <comment>Button to register device</comment>
+  </data>
+  <data name="Limit_Warning" xml:space="preserve">
+    <value>I understand I will not be able to continue using Mailbird on the other device.</value>
+    <comment>Warning text on device limit window</comment>
+  </data>
+  <data name="License_DeviceLimitHint" xml:space="preserve">
+    <value>This license key has reached its device limit.
+
+Please enter another license key, or continue with the activation to change the registration to this device.</value>
+    <comment>This license key has reached its device limit.
+
+Please enter another license key, or continue with the activation to change the registration to this device.</comment>
   </data>
 </root>
