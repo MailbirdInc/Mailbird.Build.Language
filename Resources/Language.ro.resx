@@ -4043,7 +4043,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>Tipul de autentificare de utilizat. OAuth 2.0 funcționează numai cu conturile Google, Microsoft 365 și Yahoo.</value>
+    <value>The type of authentication to use. OAuth 2.0 only works with Google, Microsoft 365, Yahoo and AOL accounts.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -8786,10 +8786,6 @@ Mulțumim mult!</value>
     <value>Mail &amp; Spam &amp; Coș de gunoi</value>
     <comment>Item to search in Mail, Spam, and Trash folders</comment>
   </data>
-  <data name="UpgradeToPro_PaidBiYearly" xml:space="preserve">
-    <value>(facturat la fiecare 2 ani)</value>
-    <comment>Text to explain the payment is every 2 years.</comment>
-  </data>
   <data name="Limit_Body" xml:space="preserve">
     <value>Licența dvs. Mailbird este deja înregistrată pe un alt dispozitiv.
 
@@ -8827,5 +8823,13 @@ Vă rugăm să introduceți o altă cheie de licență sau să continuați activ
     <comment>This license key has reached its device limit.
 
 Please enter another license key, or continue with the activation to change the registration to this device.</comment>
+  </data>
+  <data name="UpgradeToPro_Paid2YearPlan" xml:space="preserve">
+    <value>(billed every 2 years)</value>
+    <comment>Text to explain the payment is every 2 years.</comment>
+  </data>
+  <data name="Welcome_AuthenticationType_AOLOAuth2" xml:space="preserve">
+    <value>AOL OAuth 2.0</value>
+    <comment>Shown in edit server settings window under authentication field</comment>
   </data>
 </root>
