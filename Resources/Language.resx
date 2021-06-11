@@ -4087,7 +4087,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. OAuth 2.0 only works with Google, Microsoft 365 and Yahoo accounts.</value>
+    <value>The type of authentication to use. OAuth 2.0 only works with Google, Microsoft 365, Yahoo and AOL accounts.</value>
     <comment>Label that is shown below authentication type in edit account settings window.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -8800,7 +8800,7 @@ Thank you so much!</value>
     <value>Mail &amp; Spam &amp; Trash</value>
     <comment>Item to search in Mail, Spam, and Trash folders</comment>
   </data>
-  <data name="UpgradeToPro_PaidBiYearly" xml:space="preserve">
+  <data name="UpgradeToPro_Paid2YearPlan" xml:space="preserve">
     <value>(billed every 2 years)</value>
     <comment>Text to explain the payment is every 2 years.</comment>
   </data>
@@ -8841,5 +8841,9 @@ Please enter another license key, or continue with the activation to change the 
     <comment>This license key has reached its device limit.
 
 Please enter another license key, or continue with the activation to change the registration to this device.</comment>
+  </data>
+  <data name="Welcome_AuthenticationType_AOLOAuth2" xml:space="preserve">
+    <value>AOL OAuth 2.0</value>
+    <comment>Shown in edit server settings window under authentication field</comment>
   </data>
 </root>
