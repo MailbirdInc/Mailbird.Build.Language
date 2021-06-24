@@ -587,7 +587,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit account</comment>
   </data>
   <data name="Account_Email" xml:space="preserve">
-    <value>Email:</value>
+    <value>email:</value>
     <comment>Email:</comment>
   </data>
   <data name="Account_Name" xml:space="preserve">
@@ -671,7 +671,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Password:</comment>
   </data>
   <data name="Identity_SmtpPort" xml:space="preserve">
-    <value>Port:</value>
+    <value>port:</value>
     <comment>Port:</comment>
   </data>
   <data name="Identity_SmtpServer" xml:space="preserve">
@@ -863,11 +863,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter your name</comment>
   </data>
   <data name="Dialog_URL" xml:space="preserve">
-    <value>URL</value>
+    <value>url</value>
     <comment>URL</comment>
   </data>
   <data name="Dialog_Email" xml:space="preserve">
-    <value>Email</value>
+    <value>email</value>
     <comment>Email</comment>
   </data>
   <data name="Dialog_NameLabel" xml:space="preserve">
@@ -1147,19 +1147,19 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your Pro license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
-    <value>http://example.com/image.jpg</value>
+    <value>http://priklad.cz/obrazek.jpg</value>
     <comment>http://example.com/image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink1" xml:space="preserve">
-    <value>C:\users\picture\image.jpg</value>
+    <value>C:\users\Obrázky\image.jpg</value>
     <comment>C:\users\picture\image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink2" xml:space="preserve">
-    <value>email@example.com</value>
+    <value>email@priklad.cz</value>
     <comment>email@example.com</comment>
   </data>
   <data name="LinkEditor_ExampleLink3" xml:space="preserve">
-    <value>http://example.com</value>
+    <value>http://priklad.cz</value>
     <comment>http://example.com</comment>
   </data>
   <data name="LinkEditor_FromComputer" xml:space="preserve">
@@ -3631,7 +3631,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>Your BEST email, communication &amp; productivity suite made for Windows via Mailbird</value>
+    <value>Váš nejlepší emailový, komunikační a produktivní balík pro Windows prostřednictvím Mailbirdu</value>
     <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
@@ -3713,7 +3713,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Loading...</comment>
   </data>
   <data name="RateRecommend_TwitterMessage" xml:space="preserve">
-    <value>Getting addicted to #InboxZero with Mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</value>
+    <value>Získejte závislost na #InboxZero (nulová doručená pošta) pomocí Mailbird. Miluji tento krásný emailový klient pro #Windows http://getmailbird.com/</value>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
@@ -4043,7 +4043,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>This account cannot be imported because it's already added to Mailbird</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. OAuth 2.0 only works with Google, Microsoft 365, Yahoo and AOL accounts.</value>
+    <value>Typ ověření, které se má použít. OAuth 2.0 funguje pouze s účty Google, Microsoft 365, Yahoo and AOL.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -4406,7 +4406,7 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Get your Mailbird license now!</value>
+    <value>Získejte licenci Mailbird hned teď!</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
@@ -4587,7 +4587,7 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>Get 1 month of Mailbird Pro for free, download here: {0}</value>
+    <value>Získejte 1 měsíc aplikace Mailbird Pro zdarma, stahujte zde: {0}</value>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
@@ -6840,7 +6840,7 @@ e.g. "2 occurrences"</comment>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
-    <value>Import &amp; export</value>
+    <value>Import &amp; Export</value>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
@@ -7393,7 +7393,7 @@ Pokud chcete nadále používat Mailbird, můžete si níže zakoupit licenci ne
     <comment>Text to explain the payment is one time.</comment>
   </data>
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
-    <value>Choose your preferred Mailbird product and payment plan below.</value>
+    <value>Níže si vyberte preferovaný produkt Mailbird a platební plán.</value>
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
   <data name="App_GoogleDrive_Description" xml:space="preserve">
@@ -8222,7 +8222,7 @@ Můžete zkusit znovu odeslat nebo ignorovat chybu, abyste je odstranili ze sezn
     <comment>Header to show counter of how many tracking sent</comment>
   </data>
   <data name="EmailTracking_LimitedTrackingExplanation" xml:space="preserve">
-    <value>Tracking individual recipients is not supported. [link href={0}]Learn more[/link]</value>
+    <value>Sledování jednotlivých příjemců není podporováno. [link href={0}]Více informací[/link]</value>
     <comment>Explanation when email tracking is not fully supported</comment>
   </data>
   <data name="EmailTracking_UnknownRecipient" xml:space="preserve">
@@ -8759,73 +8759,73 @@ Mockrát děkuju!</value>
 {0} will be replaced by "Mailbird"</comment>
   </data>
   <data name="Welcome_HelpFillSettings" xml:space="preserve">
-    <value>How do I fill this?</value>
+    <value>Jak to mám vyplnit?</value>
     <comment>Button label to get help on how to fill the settings</comment>
   </data>
   <data name="Welcome_EmailTracking" xml:space="preserve">
-    <value>Bring on Email Tracking</value>
+    <value>Zavedení sledování emailů</value>
     <comment>Header in email tracking onboarding step</comment>
   </data>
   <data name="Welcome_EmailTrackingExplanation" xml:space="preserve">
-    <value>Email Tracking lets you know who read your emails and when.</value>
+    <value>Sledování emailů vám umožní zjistit, kdo a kdy četl vaše emaily.</value>
     <comment>Explanation about email tracking feature</comment>
   </data>
   <data name="Welcome_EnableEmailTracking" xml:space="preserve">
-    <value>Enable Email Tracking for sent emails</value>
+    <value>Povolení sledování emailů pro odeslané emaily</value>
     <comment>Option to enable email tracking feature</comment>
   </data>
   <data name="Welcome_EnableEmailTrackingNotification" xml:space="preserve">
-    <value>Get notified when your emails  are opened</value>
+    <value>Dostávejte upozornění na otevření emailů</value>
     <comment>Option to enable email tracking notification</comment>
   </data>
   <data name="Search_Clear" xml:space="preserve">
-    <value>Clear search</value>
+    <value>Vymazat hledání</value>
     <comment>Label to clear search query</comment>
   </data>
   <data name="AdvancedSearch_MailSpamTrash" xml:space="preserve">
-    <value>Mail &amp; Spam &amp; Trash</value>
+    <value>Pošta &amp; Spam &amp; Koš</value>
     <comment>Item to search in Mail, Spam, and Trash folders</comment>
   </data>
   <data name="Limit_Body" xml:space="preserve">
-    <value>Your Mailbird license is already registered on another device.
+    <value>Vaše licence Mailbird je již zaregistrována na jiném zařízení.
 
-If you would like to use Mailbird on this device instead, please confirm below to change the registration.</value>
+Pokud chcete Mailbird používat na tomto zařízení, potvrďte níže změnu registrace.</value>
     <comment>Body when device usage is more than limit and limit is 1</comment>
   </data>
   <data name="Limit_BodyPlural" xml:space="preserve">
-    <value>If you would like to use Mailbird on this device, please confirm below to change the registration from your least recently used device to this.</value>
+    <value>Pokud chcete používat Mailbird na tomto zařízení, potvrďte níže změnu registrace z vašeho nejméně používaného zařízení na toto.</value>
     <comment>Body when device usage is more than limit</comment>
   </data>
   <data name="Limit_Footer" xml:space="preserve">
-    <value>Would you like to use Mailbird on more devices?</value>
+    <value>Chcete používat Mailbird na více zařízeních?</value>
     <comment>Footer text on the device limit window</comment>
   </data>
   <data name="Limit_Header" xml:space="preserve">
-    <value>You have reached your [bold]{0}-device[/bold] license limit</value>
+    <value>Dosáhli jste licenčního limitu [bold]{0} - zařízení[/bold]</value>
     <comment>Header on device limit window</comment>
   </data>
   <data name="Limit_Purchase" xml:space="preserve">
-    <value>Get another license [bold]{0}% OFF[/bold]</value>
+    <value>Získat další licenci [bold]{0}% SLEVA[/bold]</value>
     <comment>Button to purchase license</comment>
   </data>
   <data name="Limit_Register" xml:space="preserve">
-    <value>Register this device</value>
+    <value>Registrace tohoto zařízení</value>
     <comment>Button to register device</comment>
   </data>
   <data name="Limit_Warning" xml:space="preserve">
-    <value>I understand I will not be able to continue using Mailbird on the other device.</value>
+    <value>Chápu, že na jiném zařízení nebudu moci Mailbird dále používat.</value>
     <comment>Warning text on device limit window</comment>
   </data>
   <data name="License_DeviceLimitHint" xml:space="preserve">
-    <value>This license key has reached its device limit.
+    <value>Tento licenční klíč dosáhl limitu zařízení.
 
-Please enter another license key, or continue with the activation to change the registration to this device.</value>
+Zadejte prosím jiný licenční klíč nebo pokračujte v aktivaci a změňte registraci na toto zařízení.</value>
     <comment>This license key has reached its device limit.
 
 Please enter another license key, or continue with the activation to change the registration to this device.</comment>
   </data>
   <data name="UpgradeToPro_Paid2YearPlan" xml:space="preserve">
-    <value>(billed every 2 years)</value>
+    <value>(účtováno každé 2 roky)</value>
     <comment>Text to explain the payment is every 2 years.</comment>
   </data>
   <data name="Welcome_AuthenticationType_AOLOAuth2" xml:space="preserve">
