@@ -8280,12 +8280,11 @@ Vær vennlig å sørge for at ingenting bruker eller blokkerer port {0} og prøv
     <comment>Button to close the announcement window</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradeExplanation" xml:space="preserve">
-    <value>Fra og med i dag vil du ikke lenger ha tilgang til følgende funksjoner gratis:  [bold]Avansert søk[/bold], [bold]Avmeldingsknapp[/bold], [bold]Send senere[/bold] og [bold]Sporing av e-post[/bold].
+    <value>As of today you will no longer be able to access the following features for free:  [bold]Advanced Search[/bold], [bold]Unsubscribe button[/bold], [bold]Send Later[/bold], and [bold]Email Tracking[/bold].
 
-Du har følgende muligheter for å fortsette:
-1. Skaff Mailbird Business Pay Once gratis ved å bruke vårt referanseprogram
-2. Oppgrader til Mailbird Personal eller Mailbird Business og få 50 % avslag
-3. Bruk Mailbird Lite som det var før 12-ukers sprinten.</value>
+You have the following options to continue:
+1. Upgrade to Mailbird Personal or Mailbird Business and get 50% off
+2. Use Mailbird Lite as it was before the 12-week sprint.</value>
     <comment>Body for announcement window for lite user</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradePurchase" xml:space="preserve">
@@ -8762,22 +8761,6 @@ Hjertelig takk!</value>
     <value>How do I fill this?</value>
     <comment>Button label to get help on how to fill the settings</comment>
   </data>
-  <data name="Welcome_EmailTracking" xml:space="preserve">
-    <value>Bring on Email Tracking</value>
-    <comment>Header in email tracking onboarding step</comment>
-  </data>
-  <data name="Welcome_EmailTrackingExplanation" xml:space="preserve">
-    <value>Email Tracking lets you know who read your emails and when.</value>
-    <comment>Explanation about email tracking feature</comment>
-  </data>
-  <data name="Welcome_EnableEmailTracking" xml:space="preserve">
-    <value>Enable Email Tracking for sent emails</value>
-    <comment>Option to enable email tracking feature</comment>
-  </data>
-  <data name="Welcome_EnableEmailTrackingNotification" xml:space="preserve">
-    <value>Get notified when your emails  are opened</value>
-    <comment>Option to enable email tracking notification</comment>
-  </data>
   <data name="Search_Clear" xml:space="preserve">
     <value>Clear search</value>
     <comment>Label to clear search query</comment>
@@ -8831,5 +8814,46 @@ Please enter another license key, or continue with the activation to change the 
   <data name="Welcome_AuthenticationType_AOLOAuth2" xml:space="preserve">
     <value>AOL OAuth 2.0</value>
     <comment>Shown in edit server settings window under authentication field</comment>
+  </data>
+  <data name="ETAddOn_Benefit1" xml:space="preserve">
+    <value>Email Tracking for all your emails</value>
+    <comment>Email tracking feature benefit: ability to have unlimited number of email tracking</comment>
+  </data>
+  <data name="ETAddOn_Benefit2" xml:space="preserve">
+    <value>Email Tracking opens notifications</value>
+    <comment>Email tracking feature benefit: get notifications when an email is opened</comment>
+  </data>
+  <data name="ETAddOn_Benefit3" xml:space="preserve">
+    <value>Email Tracking Notification Center</value>
+    <comment>Email tracking feature benefit: see list of opened email in notification center</comment>
+  </data>
+  <data name="ETAddOn_Header" xml:space="preserve">
+    <value>You have reached your monthly Email Tracking limit</value>
+    <comment>Header for popup to offer Email Tracking add on upgrade</comment>
+  </data>
+  <data name="ETAddOn_Pricing" xml:space="preserve">
+    <value>For only $20/year</value>
+    <comment>Email tracking add on pricing</comment>
+  </data>
+  <data name="ETAddOn_Purchase" xml:space="preserve">
+    <value>Get unlimited Email Tracking access</value>
+    <comment>Label for purchase button</comment>
+  </data>
+  <data name="ETAddOn_SubHeader" xml:space="preserve">
+    <value>Would you like to continue using Email Tracking?
+You can now get access to the unlimited Email Tracking feature, including:</value>
+    <comment>Subheader for popup to offer Email Tracking add on upgrade</comment>
+  </data>
+  <data name="App_Contacts_SystemGroup_Blocked" xml:space="preserve">
+    <value>Blocked</value>
+    <comment>Name of blocked contacts system group.</comment>
+  </data>
+  <data name="App_Contacts_SystemGroup_Chat" xml:space="preserve">
+    <value>Chat buddies</value>
+    <comment>Name of chat buddies system group.</comment>
+  </data>
+  <data name="Contacts_CantAddContact" xml:space="preserve">
+    <value>Contacts can be removed, but not added to this group, due to limitations by the contact provider.</value>
+    <comment>Explanation when certain groups cant add new member due to some limitations</comment>
   </data>
 </root>
