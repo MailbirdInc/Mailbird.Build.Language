@@ -130,7 +130,7 @@
     <comment>Remove</comment>
   </data>
   <data name="Attachment_Save" xml:space="preserve">
-    <value>Farklı Kaydet</value>
+    <value>Farklı Kaydet...</value>
     <comment>Save as...</comment>
   </data>
   <data name="Awesomium_Copy" xml:space="preserve">
@@ -170,7 +170,7 @@
     <comment>Paste as plain text</comment>
   </data>
   <data name="Awesomium_SaveImage" xml:space="preserve">
-    <value>Resmi farklı kaydet</value>
+    <value>Resmi farklı kaydet...</value>
     <comment>Save image as...</comment>
   </data>
   <data name="Awesomium_SelectAll" xml:space="preserve">
@@ -1083,11 +1083,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Now that's how it's done!</comment>
   </data>
   <data name="InboxZero_Flying" xml:space="preserve">
-    <value>Ooo! Uçuyorsun.</value>
+    <value>Ooo Uçuyorsun!</value>
     <comment>Wow. You're flying!</comment>
   </data>
   <data name="InboxZero_Rock" xml:space="preserve">
-    <value>Harikasın! İşte kanıtı.</value>
+    <value>Harikasın İşte kanıtı!</value>
     <comment>There's the proof. You rock!</comment>
   </data>
   <data name="InboxZero_RockStar" xml:space="preserve">
@@ -2556,7 +2556,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Default font:</comment>
   </data>
   <data name="Options_DefaultFontPreview" xml:space="preserve">
-    <value>Bu sizin metin ön izlemeniz</value>
+    <value>Bu sizin metin ön izlemeniz.</value>
     <comment>This is your text preview.</comment>
   </data>
   <data name="Dialog_Save" xml:space="preserve">
@@ -3446,7 +3446,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Loading is taking longer than usual. Please check your internet connection.</comment>
   </data>
   <data name="MailEditor_WebrootPasteError" xml:space="preserve">
-    <value>Webroot SecureAnywhere tarafından engellendi. Mailbird'ü korumak ya da izin vermek için lütfen Webroot Kimlik Koruması'nı ayarlayın.</value>
+    <value>Webroot SecureAnywhere tarafından engellendi. Mailbird'ü korumak ya da izin vermek için lütfen Webroot Kimlik Koruması'nı ayarlayın</value>
     <comment>Blocked by Webroot SecureAnywhere. Please set Webroot Identity Protection to protect or allow Mailbird</comment>
   </data>
   <data name="Options_ImproveMailbird" xml:space="preserve">
@@ -3718,11 +3718,11 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Mailbird'ü başlat menüsüne sabitleyin</value>
+    <value>Mailbird'ü Başlat Menüsüne sabitle</value>
     <comment>Pin Mailbird to start menu</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Masaüstü kısayolu oluştur</value>
+    <value>Masaüstüne kısayol oluştur</value>
     <comment>Create shortcut on desktop</comment>
   </data>
   <data name="InstallationForm_InstallationCompleted" xml:space="preserve">
@@ -8280,11 +8280,11 @@ Lütfen {0} bağlantı noktasını hiçbir şeyin kullanmadığından ya da enge
     <comment>Button to close the announcement window</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradeExplanation" xml:space="preserve">
-    <value>As of today you will no longer be able to access the following features for free:  [bold]Advanced Search[/bold], [bold]Unsubscribe button[/bold], [bold]Send Later[/bold], and [bold]Email Tracking[/bold].
+    <value>Bugünden itibaren şu özelliklere ücretsiz olarak erişemeyeceksiniz: [bold]Gelişmiş Arama[/bold], [bold]Aboneliği iptal et düğmesi[/bold], [bold]Daha Sonra Gönder[/bold] ve [bold]E-posta İzleme[/bold].
 
-You have the following options to continue:
-1. Upgrade to Mailbird Personal or Mailbird Business and get 50% off
-2. Use Mailbird Lite as it was before the 12-week sprint.</value>
+Devam etmek için aşağıdaki seçeneklere sahipsiniz:
+1. Mailbird Personal veya Mailbird Business'a yükseltin ve %50 indirim kazanın
+2. Mailbird Lite'ı 12 haftalık sprint'ten önceki gibi kullanın.</value>
     <comment>Body for announcement window for lite user</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradePurchase" xml:space="preserve">
@@ -8816,44 +8816,44 @@ Please enter another license key, or continue with the activation to change the 
     <comment>Shown in edit server settings window under authentication field</comment>
   </data>
   <data name="ETAddOn_Benefit1" xml:space="preserve">
-    <value>Email Tracking for all your emails</value>
+    <value>Tüm e-postalarınız için E-posta Takibi</value>
     <comment>Email tracking feature benefit: ability to have unlimited number of email tracking</comment>
   </data>
   <data name="ETAddOn_Benefit2" xml:space="preserve">
-    <value>Email Tracking opens notifications</value>
+    <value>E-posta İzleme bildirimleri açar</value>
     <comment>Email tracking feature benefit: get notifications when an email is opened</comment>
   </data>
   <data name="ETAddOn_Benefit3" xml:space="preserve">
-    <value>Email Tracking Notification Center</value>
+    <value>E-posta İzleme Bildirim Merkezi</value>
     <comment>Email tracking feature benefit: see list of opened email in notification center</comment>
   </data>
   <data name="ETAddOn_Header" xml:space="preserve">
-    <value>You have reached your monthly Email Tracking limit</value>
+    <value>Aylık E-posta İzleme sınırınıza ulaştınız</value>
     <comment>Header for popup to offer Email Tracking add on upgrade</comment>
   </data>
   <data name="ETAddOn_Pricing" xml:space="preserve">
-    <value>For only $20/year</value>
+    <value>Sadece $20/yıl</value>
     <comment>Email tracking add on pricing</comment>
   </data>
   <data name="ETAddOn_Purchase" xml:space="preserve">
-    <value>Get unlimited Email Tracking access</value>
+    <value>Sınırsız E-posta İzleme erişimi elde edin</value>
     <comment>Label for purchase button</comment>
   </data>
   <data name="ETAddOn_SubHeader" xml:space="preserve">
-    <value>Would you like to continue using Email Tracking?
-You can now get access to the unlimited Email Tracking feature, including:</value>
+    <value>E-posta İzleme'yi kullanmaya devam etmek ister misiniz?
+Artık aşağıdakiler dahil olmak üzere sınırsız E-posta İzleme özelliğine erişebilirsiniz:</value>
     <comment>Subheader for popup to offer Email Tracking add on upgrade</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Blocked" xml:space="preserve">
-    <value>Blocked</value>
+    <value>Engellendi</value>
     <comment>Name of blocked contacts system group.</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Chat" xml:space="preserve">
-    <value>Chat buddies</value>
+    <value>Sohbet arkadaşları</value>
     <comment>Name of chat buddies system group.</comment>
   </data>
   <data name="Contacts_CantAddContact" xml:space="preserve">
-    <value>Contacts can be removed, but not added to this group, due to limitations by the contact provider.</value>
+    <value>Kişiler kaldırılabilir, ancak kişi sağlayıcısının sınırlamaları nedeniyle bu gruba eklenemez.</value>
     <comment>Explanation when certain groups cant add new member due to some limitations</comment>
   </data>
 </root>
