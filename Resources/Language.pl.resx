@@ -462,9 +462,9 @@ This action is irreversible.</comment>
     <comment>Could not send</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
-    <value>We're sorry, but your report could not be sent. 
-We would appreciate it, if you could contact support at {0} instead.
-Message:</value>
+    <value>Przykro nam, ale Twoje zgłoszenie nie mogło zostać wysłane.
+Będziemy wdzięczni, jeśli zamiast tego skontaktujesz się z pomocą techniczną pod adresem {0}.
+Wiadomość:</value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
@@ -811,11 +811,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Never download</comment>
   </data>
   <data name="AccountValidationRule_EmptyEmail" xml:space="preserve">
-    <value>Wprowadź swój adres e-mail</value>
+    <value>Podaj swój adres e-mail</value>
     <comment>Please enter an email address</comment>
   </data>
   <data name="AccountValidationRule_DisplayLink" xml:space="preserve">
-    <value>Wpisz tekst do wyświetlenia</value>
+    <value>Podaj tekst do wyświetlenia</value>
     <comment>Please enter a link address</comment>
   </data>
   <data name="AccountValidationRule_EmptyInvitation" xml:space="preserve">
@@ -823,23 +823,23 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>You cannot send an empty invitation</comment>
   </data>
   <data name="AccountValidationRule_EmptyPassword" xml:space="preserve">
-    <value>Wpisz hasło</value>
+    <value>Podaj hasło</value>
     <comment>Please enter a password</comment>
   </data>
   <data name="AccountValidationRule_EmptyPortNumber" xml:space="preserve">
-    <value>Wpisz numer portu</value>
+    <value>Podaj numer portu</value>
     <comment>Please enter a port number</comment>
   </data>
   <data name="AccountValidationRule_EmptyServerName" xml:space="preserve">
-    <value>Wpisz nazwę serwera</value>
+    <value>Podaj nazwę serwera</value>
     <comment>Please enter the server name</comment>
   </data>
   <data name="AccountValidationRule_EmptySubject" xml:space="preserve">
-    <value>Wpisz temat</value>
+    <value>Podaj temat</value>
     <comment>Please enter subject</comment>
   </data>
   <data name="AccountValidationRule_EmptyUsername" xml:space="preserve">
-    <value>Wpisz nazwę użytkownika</value>
+    <value>Podaj nazwę użytkownika</value>
     <comment>Please enter a username</comment>
   </data>
   <data name="AccountValidationRule_InvalidEmail" xml:space="preserve">
@@ -851,15 +851,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Email appears invalid</comment>
   </data>
   <data name="AccountValidationRule_InvalidLicenseKey" xml:space="preserve">
-    <value>Wpisz prawidłowy klucz licencyjny</value>
+    <value>Podaj prawidłowy klucz licencyjny</value>
     <comment>Please enter a valid license key</comment>
   </data>
   <data name="AccountValidationRule_InvalidURL" xml:space="preserve">
-    <value>Wpisz prawidłowy adres URL</value>
+    <value>Podaj prawidłowy adres URL</value>
     <comment>Please enter a valid url</comment>
   </data>
   <data name="AccountValidationRule_SenderName" xml:space="preserve">
-    <value>Wpisz swoje nazwisko</value>
+    <value>Podaj swoje nazwisko</value>
     <comment>Please enter your name</comment>
   </data>
   <data name="Dialog_URL" xml:space="preserve">
@@ -987,7 +987,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="App_Meetings_Description" xml:space="preserve">
-    <value>Skonfiguruj konferencje audio i wideo bezpośrednio w Mailbirdzie, dzięki aplikacji Veeting Rooms.</value>
+    <value>Skonfiguruj konferencje audio i wideo bezpośrednio w Mailbird, dzięki aplikacji Veeting Rooms.</value>
     <comment>Setup video and audio meetings directly from Mailbird, using Veeting Rooms.</comment>
   </data>
   <data name="App_Contacts_Description" xml:space="preserve">
@@ -1027,7 +1027,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Evernote_Description" xml:space="preserve">
-    <value>Twórz, wyświetlaj i edytuj swoje notatki prosto w Mailbirdzie! Zwiększ swoją produktywność w prosty sposób.</value>
+    <value>Twórz, wyświetlaj i edytuj swoje notatki prosto w Mailbird! Zwiększ swoją produktywność w prosty sposób.</value>
     <comment>Create, view, edit notes directly from Mailbird! Simple and productive.</comment>
   </data>
   <data name="App_Facebook_Description" xml:space="preserve">
@@ -1055,7 +1055,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>A place to get help from our Mailbird staff.</comment>
   </data>
   <data name="App_Support_Title" xml:space="preserve">
-    <value>Pomoc Mailbirda</value>
+    <value>Pomoc techniczna Mailbird</value>
     <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
@@ -1099,7 +1099,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>This license key is deactivated by the admin. Please [link href={0}]contact support[/link] to activate it.</value>
+    <value>Ten klucz licencyjny został zdezaktywowany przez administratora. Prosimy [link href={0}]skontaktować się z pomocą techniczną[/link], aby go aktywować.</value>
     <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
@@ -1107,7 +1107,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Expired License</comment>
   </data>
   <data name="License_ExpiredExplanation" xml:space="preserve">
-    <value>Twój klucz licencyjny wygasł. Wprowadź inny klucz lub odnów bieżący, aby kontynuować.</value>
+    <value>Twój klucz licencyjny wygasł. Podaj inny klucz lub odnów bieżący, aby kontynuować.</value>
     <comment>Your license key has expired. Please enter another license key or renew the current license key to continue.</comment>
   </data>
   <data name="License_IncorrectDate" xml:space="preserve">
@@ -1127,7 +1127,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Invalid license key</comment>
   </data>
   <data name="License_InvalidExplanation" xml:space="preserve">
-    <value>Wpisz nowy klucz licencyjny i kliknij kontynuuj, aby zaktualizować licencję.</value>
+    <value>Podaj nowy klucz licencyjny i kliknij kontynuuj, aby zaktualizować licencję.</value>
     <comment>Please enter the new license key and press continue to update the license.</comment>
   </data>
   <data name="License_License" xml:space="preserve">
@@ -1135,7 +1135,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>License</comment>
   </data>
   <data name="License_LicenseExplanation" xml:space="preserve">
-    <value>Wprowadź klucz licencyjny, aby kontynuować.</value>
+    <value>Podaj klucz licencyjny, aby kontynuować.</value>
     <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
@@ -1523,7 +1523,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Go social. See profile pictures and contact information of your friends.</comment>
   </data>
   <data name="Options_FacebookExplanation1" xml:space="preserve">
-    <value>Twoje konto Facebooka zostało podłączone. Zdjęcia i kontakty w Mailbirdzie są teraz aktualizowane automatycznie.</value>
+    <value>Twoje konto Facebooka zostało podłączone. Zdjęcia i kontakty w Mailbird są teraz aktualizowane automatycznie.</value>
     <comment>Your Facebook account is now linked. Photos and contacts are automatically updated in Mailbird.</comment>
   </data>
   <data name="Options_General" xml:space="preserve">
@@ -2136,7 +2136,7 @@ https://support.google.com/accounts/answer/185833</comment>
     <comment>Encryption:</comment>
   </data>
   <data name="Welcome_Facebook" xml:space="preserve">
-    <value>Zobacz zdjęcia profilowe znajomych i rodziny w Mailbirdzie.
+    <value>Zobacz zdjęcia profilowe znajomych i rodziny w Mailbird.
 Nigdy nie będziemy publikować czegokolwiek na Facebooku.</value>
     <comment>See profile photos of your friends and family in Mailbird. 
 We will never post anything to Facebook.</comment>
@@ -2214,7 +2214,7 @@ We will never post anything to Facebook.</comment>
     <comment>Add account</comment>
   </data>
   <data name="Welcome_WelcomeExplanation" xml:space="preserve">
-    <value>Wprowadź szczegóły konta e-mail, które chcesz dodać do Mailbirda.</value>
+    <value>Podaj szczegóły konta e-mail, które chcesz dodać do Mailbirda.</value>
     <comment>Enter the details of an email account you would like to add to Mailbird.</comment>
   </data>
   <data name="Report_OptionalEmail" xml:space="preserve">
@@ -2340,7 +2340,7 @@ Path: {0}</comment>
     <comment>The identity containing the outgoing settings for this account</comment>
   </data>
   <data name="Contact_LinkedInLookup" xml:space="preserve">
-    <value>Znajdź w LinkedIn</value>
+    <value>Znajdź na LinkedIn</value>
     <comment>Look up on LinkedIn</comment>
   </data>
   <data name="Dialog_Uninstall" xml:space="preserve">
@@ -2386,15 +2386,15 @@ Jeśli planujesz zainstalować Mailbirda ponownie, zachowaj dane, aby nie musie�
     <comment>Please select an encryption</comment>
   </data>
   <data name="AccountValidationRule_EmptyFirstName" xml:space="preserve">
-    <value>Wpisz swoje imię</value>
+    <value>Podaj swoje imię</value>
     <comment>Please enter your first name</comment>
   </data>
   <data name="AccountValidationRule_EmptyLastName" xml:space="preserve">
-    <value>Wpisz swoje nazwisko</value>
+    <value>Podaj swoje nazwisko</value>
     <comment>Please enter your last name</comment>
   </data>
   <data name="AccountValidationRule_EmptyProxyUsername" xml:space="preserve">
-    <value>Proszę wprowadzić nazwę użytkownika serwera proxy</value>
+    <value>Podaj nazwę użytkownika serwera proxy</value>
     <comment>Please enter your proxy username</comment>
   </data>
   <data name="Dialog_DiskWriteError" xml:space="preserve">
@@ -2516,7 +2516,7 @@ Please exit out of this window to check the credentials and try again.</comment>
     <comment>Get Quick Preview and many other features to boost your productivity.</comment>
   </data>
   <data name="Upgrade_UnlimitedAccount" xml:space="preserve">
-    <value>Dodaj nielimitowaną ilość kont i zyskaj wiele innych funkcji zwiększających Twoją produktywność.</value>
+    <value>Dodaj nielimitowaną liczbę kont i zyskaj wiele innych funkcji zwiększających Twoją produktywność.</value>
     <comment>Add unlimited accounts and get many other features to boost your productivity.</comment>
   </data>
   <data name="Options_RestartAfterLanguageChanged" xml:space="preserve">
@@ -3181,7 +3181,7 @@ Sprawdź swoje połączenie internetowe i upewnij się, że wszystkie zapory sie
     <comment>{0} days remaining of your Pro trial. After the trial ends, Mailbird Pro will convert to Mailbird Lite.</comment>
   </data>
   <data name="Trial_EndText" xml:space="preserve">
-    <value>Twoje konto powróci teraz na wersję Lite (darmową), co ograniczy ilość dostępnych funkcji. Możesz kontynuować korzystanie ze wszystkich opcji, jeśli zdecydujesz się kupić Mailbird Pro i wprowadzisz klucz licencyjny poniżej.</value>
+    <value>Twoje konto powróci teraz na wersję Lite (darmową), co ograniczy liczbę dostępnych funkcji. Możesz kontynuować korzystanie ze wszystkich opcji, jeśli zdecydujesz się kupić Mailbird Pro i podasz klucz licencyjny poniżej.</value>
     <comment>Your account will now be converted back to Lite (free) version which will restrict you from using all Pro features. You can still use all the features if you decide to buy Mailbird Pro and enter the license key below.</comment>
   </data>
   <data name="Trial_Feature1" xml:space="preserve">
@@ -3600,7 +3600,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>Not supported</comment>
   </data>
   <data name="Welcome_NeedSupportButton" xml:space="preserve">
-    <value>Skontaktuj się ze wsparciem technicznym</value>
+    <value>Skontaktuj się z pomocą techniczną</value>
     <comment>Contact support</comment>
   </data>
   <data name="Welcome_NeedSupportQuestion" xml:space="preserve">
@@ -3700,7 +3700,7 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
   <data name="App_DefaultFatalError" xml:space="preserve">
     <value>Wystąpił błąd w aplikacji. Proszę ponownie uruchomić Mailbirda i spróbować ponownie.
 
-Jeśli błąd będzie występował nadal, proszę skontaktować się działem pomocy.</value>
+Jeśli błąd będzie występował nadal, proszę skontaktować się z pomocą techniczną.</value>
     <comment>An error occured in the app. Please restart Mailbird and try again.
 
 If you continue to experience this error, please contact support.</comment>
@@ -3762,7 +3762,7 @@ https://support.google.com/mail/accounts/answer/78754</comment>
   <data name="Notification_LostDraftMessage" xml:space="preserve">
     <value>Wystąpił błąd z tą wersję roboczą i przywrócona została najnowsza zapisana wersja.
 
-Jeśli często widzisz ten błąd, skontaktuj się z działem pomocy Mailbird..</value>
+Jeśli często widzisz ten błąd, skontaktuj się z pomocą techniczną programu Mailbird.</value>
     <comment>An error occurred with your draft and your latest saved version has been restored.
 
 If you are seeing this error frequently, please contact Mailbird support.</comment>
@@ -3772,7 +3772,7 @@ If you are seeing this error frequently, please contact Mailbird support.</comme
     <comment>Go to draft</comment>
   </data>
   <data name="LostDraft_ContactSupport" xml:space="preserve">
-    <value>skontaktuj się ze wsparciem technicznym Mailbird</value>
+    <value>skontaktuj się z pomocą techniczną programu Mailbird</value>
     <comment>contact Mailbird support</comment>
   </data>
   <data name="LostDraft_Explanation" xml:space="preserve">
@@ -3926,7 +3926,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>{0} is running. Please close it an try again</comment>
   </data>
   <data name="Import_Error_General" xml:space="preserve">
-    <value>Wystąpił błąd podczas importowania. Skontaktuj się z pomocy techniczną</value>
+    <value>Wystąpił błąd podczas importowania. Skontaktuj się z pomocą techniczną</value>
     <comment>There was an error while importing. Please contact Support</comment>
   </data>
   <data name="Import_Error_Invalid_Pst" xml:space="preserve">
@@ -4055,7 +4055,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Username and password</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic" xml:space="preserve">
-    <value>Wpisz hasło używane do logowania na {0}</value>
+    <value>Podaj hasło logowania do {0}</value>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
@@ -4069,7 +4069,7 @@ Please try again or switch to username and password authentication.</comment>
   <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
     <value>Wystąpił nieznany błąd podczas autoryzacji.
 
-Proszę spróbować ponownie, a jeśli problem nadal będzie występował skontaktować się z pomocą techniczną.</value>
+Proszę spróbować ponownie, a jeśli problem nadal będzie występował skontaktuj się z pomocą techniczną.</value>
     <comment>An unknown error occured during authorization.
 
 Please try again, or contact support if the issue persists.</comment>
@@ -4225,7 +4225,7 @@ Please remove some and try again.</comment>
     <comment>Go Pro and Boost Your Productivity</comment>
   </data>
   <data name="Ads_GoProExplanation" xml:space="preserve">
-    <value>Zdobądź licencję Mailbird Pro z wieloma świetnymi funkcjami, które zwiększą twoją produktywność, włącznie z odkładaniem e-maili na później, szybkim podglądem załączników, nielimitowaną ilością kont i wiele więcej.</value>
+    <value>Zdobądź licencję Mailbird Pro z wieloma świetnymi funkcjami, które zwiększą twoją produktywność, włącznie z odkładaniem e-maili na później, szybkim podglądem załączników, nielimitowaną liczbą kont i wiele więcej.</value>
     <comment>Get Mailbird Pro with more great features to boost your productivity, including Snooze, Quick Preview, Unlimited Accounts and much more.</comment>
   </data>
   <data name="Ads_Invite" xml:space="preserve">
@@ -4426,7 +4426,7 @@ Please select another image to use as a background.</comment>
     <comment>Keep local data</comment>
   </data>
   <data name="InviteV2_LimitExplanation" xml:space="preserve">
-    <value>Zaproś znajomych z głównego konta e-mail, to domyślne konto w Twoim Mailbirdzie. Mażesz zaprosić tak wielu znajomych, jak chcesz! 
+    <value>Zaproś znajomych z głównego konta e-mail, to domyślne konto w Twoim programie Mailbird. Mażesz zaprosić tak wielu znajomych, jak chcesz! 
 
 Zwróć uwagę, że istnieje limit 1 nagrody na adres e-mail zarówno dla zapraszającego, jak i osoby zapraszanej Gdy {0} lub więcej znajomych zainstaluje Mailbird z Twojego zaproszenia:
 
@@ -4599,7 +4599,7 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Wprowadź poniżej kod polecający albo pomiń ten krok.</value>
+    <value>Podaj poniżej kod polecający albo pomiń ten krok.</value>
     <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
@@ -4772,7 +4772,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Create</comment>
   </data>
   <data name="App_Contacts_EditGroup_EnterName" xml:space="preserve">
-    <value>Wprowadź nazwę grupy</value>
+    <value>Podaj nazwę grupy</value>
     <comment>Enter group name</comment>
   </data>
   <data name="App_Contacts_LinkContact" xml:space="preserve">
@@ -4796,7 +4796,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>Contacts</comment>
   </data>
   <data name="App_Contacts_LinkContact_EnterName" xml:space="preserve">
-    <value>Wprowadź nazwę</value>
+    <value>Podaj nazwę</value>
     <comment>Enter a name</comment>
   </data>
   <data name="App_Contacts_Cancel" xml:space="preserve">
@@ -4976,7 +4976,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>All your contacts together in one place.</comment>
   </data>
   <data name="App_Contacts_Intro_2" xml:space="preserve">
-    <value>Możesz teraz zsynchronizować swoje kontakty Google, Outlook i Exchange w Mailbirdzie.</value>
+    <value>Możesz teraz zsynchronizować swoje kontakty Google, Outlook i Exchange w Mailbird.</value>
     <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
@@ -4984,7 +4984,7 @@ Aby dodać kontakt, kliknij przycisk "Dodaj kontakt".</value>
     <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
-    <value>Podłącz swoje konta teraz, aby zsynchronizować je z Mailbirdem.</value>
+    <value>Podłącz swoje konta teraz, aby zsynchronizować je z Mailbird.</value>
     <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
   </data>
   <data name="App_Contacts_Intro_Welcome" xml:space="preserve">
@@ -5198,7 +5198,7 @@ Spowoduje to wyłączenie synchronizacji kontaktów oraz usunięcie zapisanych n
     <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>Aby nadal korzystać z Mailbirda, z odkładaniem e-maili, nieograniczoną ilością kontami i więcej, będziesz musiał zakupić Mailbirda.</value>
+    <value>Aby nadal korzystać z Mailbirda, z odkładaniem e-maili, nieograniczoną liczbą kontami i więcej, będziesz musiał zakupić Mailbirda.</value>
     <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
@@ -5607,7 +5607,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <value>Uporządkuj swoją skrzynkę odbiorczą.</value>
   </data>
   <data name="App_WeChat_Description" xml:space="preserve">
-    <value>Bardziej społecznosciowo. Bardziej zabawnie. Darmowy komunikator z funkcją połączeń.</value>
+    <value>Bardziej społecznościowo. Bardziej zabawnie. Darmowy komunikator z funkcją połączeń.</value>
   </data>
   <data name="App_Weibo_Description" xml:space="preserve">
     <value>Mikroblogowanie i media społecznościowe prosto z Chin (częściowo przetłumaczone na angielski).</value>
@@ -5644,7 +5644,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
   <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Organizuj spotkania będąc w podróży, wirtualne szkolenia, zdalne wywiady i wiele innych.</value>
+    <value>Organizuj spotkania będąc w podróży, wirtualne szkolenia, zdalne wywiady i nie tylko.</value>
     <comment>Hangouts app description displayed in the App storefront.</comment>
   </data>
   <data name="DripSurvey_MoreInfo" xml:space="preserve">
@@ -5668,7 +5668,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Header of notification shown if disabling accounts due the trial having expired.</comment>
   </data>
   <data name="Disabled_IdentityLite" xml:space="preserve">
-    <value>Ta tożsamość jest nieaktywna. Kup Mailbird, aby cieszyć się nieograniczoną ilością kont.</value>
+    <value>Ta tożsamość jest nieaktywna. Kup Mailbird, aby cieszyć się nieograniczoną liczbą kont.</value>
     <comment>Tooltip when identity is disabled due to using Mailbird Lite</comment>
   </data>
   <data name="Disabled_IdentityServerLogging" xml:space="preserve">
@@ -5704,7 +5704,7 @@ Wypróbuj nowe Kontakty już teraz!</value>
     <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>For any assistance, please [link href={0}]contact support[/link].</value>
+    <value>Aby uzyskać pomoc, prosimy o [link href={0}]kontakt z pomocą techniczną[/link].</value>
     <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
@@ -5822,7 +5822,7 @@ Zrestartuj teraz, aby uzyskać najnowsze udoskonalenia i poprawki - to potrwa ty
     <comment>Label of the option Exchange authentication in the Authentication Type combo box in the Account Setup Window</comment>
   </data>
   <data name="Connection_Error_UnsupportedExchangeVersion" xml:space="preserve">
-    <value>Wersja serwera Exchange, do którego chcesz się połączyć nie jest już wspierana. Mailbird obsługuje Exchange Server 2010 i nowsze. Skontaktuj się z supportem, by uzyskać więcej informacji.</value>
+    <value>Wersja serwera Exchange, do którego chcesz się połączyć nie jest już wspierana. Mailbird obsługuje Exchange Server 2010 i nowsze. Skontaktuj się z pomocą techniczną, by uzyskać więcej informacji.</value>
     <comment>Error that appears on connection screen when trying to connect to a not supported Exchange Server.</comment>
   </data>
   <data name="Connection_Error_ExchangeAccountLocked" xml:space="preserve">
@@ -5840,9 +5840,9 @@ Zrestartuj teraz, aby uzyskać najnowsze udoskonalenia i poprawki - to potrwa ty
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
     <value>Wystąpił błąd podczas dodawania załącznika.
 
-Najczęściej spowodowane jest to programem antywirusowym, który nie współpracuje z Mailbirdem. Spróbuj tymczasowo dezaktywować program antywirusowy i ponów próbę.
+Najczęściej spowodowane jest to programem antywirusowym, który nie współpracuje z Mailbird. Spróbuj tymczasowo dezaktywować program antywirusowy i ponów próbę.
 
-Jeśli błąd będzie występował nadal, skontaktuj się z supportem.</value>
+Jeśli błąd będzie występował nadal, skontaktuj się z pomocą techniczną.</value>
     <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
@@ -5852,7 +5852,7 @@ Jeśli błąd będzie występował nadal, skontaktuj się z supportem.</value>
   <data name="Dialog_DatabaseMismatchExplanation" xml:space="preserve">
     <value>Wersja bazy danych nie jest zgodna z tą wersją Mailbirda.
 
-Skontaktuj się z supportem, by uzyskać informacje na temat możliwości rozwiązania tego problemu.</value>
+Skontaktuj się z pomocą techniczną, by uzyskać informacje na temat możliwości rozwiązania tego problemu.</value>
     <comment>Body of message shown when the database version doesn't match the requested version.</comment>
   </data>
   <data name="Account_Exchange_Url_Tooltip" xml:space="preserve">
@@ -5998,11 +5998,11 @@ Skontaktuj się z supportem, by uzyskać informacje na temat możliwości rozwi�
   <data name="Dialog_MailDllLicenseErrorExplanation" xml:space="preserve">
     <value>Wystąpił błąd podczas uruchamiania programu Mailbird. Uruchom ponownie komputer i spróbuj ponownie.
 
-Jeśli problem nadal występuje, skontaktuj się z supportem {0}</value>
+Jeśli problem nadal występuje, skontaktuj się z pomocą techniczną pod adresem {0}</value>
     <comment>Message shown when Mailbird fails to start due to a Mail.dll license issue.</comment>
   </data>
   <data name="App_GoogleCalendar_Description" xml:space="preserve">
-    <value>Masz spotkanie? Dodaj, śledź i potwierdź je w Mailbirdzie. Świetna aplikacja dla użytkowników Gmaila.</value>
+    <value>Masz spotkanie? Dodaj, śledź i potwierdź je w Mailbird. Świetna aplikacja dla użytkowników Gmaila.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="WebBrowser_AddToBookmarks" xml:space="preserve">
@@ -6459,7 +6459,7 @@ e.g. "2 occurrences"</comment>
     <comment>Label to edit on what days event will repeat</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidNumber" xml:space="preserve">
-    <value>Wprowadź prawidłowy numer</value>
+    <value>Podaj prawidłowy numer</value>
     <comment>Error message when entring not valid number</comment>
   </data>
   <data name="App_Calendar_Frequency_Daily" xml:space="preserve">
@@ -6744,7 +6744,7 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>Proces eksportu został zakończony. Podczas eksportowania niektórych wydarzeń wystąpiły pewne błędy. Prosimy o kontakt z działem pomocy technicznej.</value>
+    <value>Proces eksportu został zakończony. Podczas eksportowania niektórych wydarzeń wystąpiły pewne błędy. Prosimy o kontakt z pomocą techniczną.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
@@ -6760,7 +6760,7 @@ e.g. "2 occurrences"</comment>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>Proces importu został zakończony. Podczas importowania niektórych wydarzeń wystąpiły błędy. Prosimy o kontakt z działem pomocy technicznej.</value>
+    <value>Proces importu został zakończony. Podczas importowania niektórych wydarzeń wystąpiły błędy. Prosimy o kontakt z pomocą techniczną.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
@@ -6887,7 +6887,7 @@ e.g. "2 occurrences"</comment>
     <comment>Description field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Error" xml:space="preserve">
-    <value>Podczas przetwarzania zaproszenia wystąpił błąd. Jeśli problem będzie się utrzymywał, proszę [link href={0}]skontaktować się z działem obsługi klienta[/link]</value>
+    <value>Podczas przetwarzania zaproszenia wystąpił błąd. Jeśli problem będzie się utrzymywał, proszę [link href={0}]skontaktować się z pomocą techniczną[/link]</value>
     <comment>Message when there is error when opening ics file, please leave the tag [link]</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventAdded" xml:space="preserve">
@@ -6895,7 +6895,7 @@ e.g. "2 occurrences"</comment>
     <comment>Message when event is added to a calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventNotAdded" xml:space="preserve">
-    <value>Wydarzenie nie zostało dodane z powodu błędu. Jeśli problem będzie się utrzymywał, prosimy o kontakt z działem pomocy technicznej.</value>
+    <value>Wydarzenie nie zostało dodane z powodu błędu. Jeśli problem będzie się utrzymywał, prosimy o kontakt z pomocą techniczną.</value>
     <comment>Message when there is error when adding event to calendar</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Location" xml:space="preserve">
@@ -7092,7 +7092,7 @@ Skrzynki odbiorczej.</value>
     <comment>Tooltip shown for info button visible when the account connections slider is disabled.</comment>
   </data>
   <data name="License_EnterLicense" xml:space="preserve">
-    <value>Wprowadź klucz licencyjny</value>
+    <value>Podaj klucz licencyjny</value>
     <comment>Button to enter license key</comment>
   </data>
   <data name="License_NotNow" xml:space="preserve">
@@ -7175,9 +7175,9 @@ Mailbird Lite nie będzie już aktualizowany o nowe funkcje, podczas gdy my będ
     <comment>Sub header for the new lite version</comment>
   </data>
   <data name="License_Offline_Explanation" xml:space="preserve">
-    <value>Wszystkie istniejące wiadomości e-mail będą nadal dostępne, ale nie będziesz w stanie wysłać lub otrzymać nowych.
+    <value>Wszystkie istniejące wiadomości e-mail będą nadal dostępne, ale nie będziesz w stanie wysyłać lub otrzymywać nowych.
 
-Czy to wszystko było nieporozumieniem i chcesz nadal używać Mailbirda? Nie ma problemu, możesz kupić Mailbird w dowolnym momencie lub wprowadzić istniejący klucz licencyjny poniżej.</value>
+Czy to nieporozumienie i chcesz nadal używać Mailbird? Nie ma problemu, możesz kupić Mailbird w dowolnym momencie lub podać istniejący klucz licencyjny poniżej.</value>
     <comment>Explanation when Mailbird has offline</comment>
   </data>
   <data name="License_Offline_Header" xml:space="preserve">
@@ -7193,7 +7193,7 @@ Czy to wszystko było nieporozumieniem i chcesz nadal używać Mailbirda? Nie ma
     <comment>Button to start trial</comment>
   </data>
   <data name="License_TrialExtension_Explanation" xml:space="preserve">
-    <value>Rozumiemy, że możesz potrzebować więcej czasu, aby przetestować wszystkie funkcje Mailbirda. Oto dodatkowe {0} dni na zakochanie się w Mailbirdzie.</value>
+    <value>Rozumiemy, że możesz potrzebować więcej czasu, aby przetestować wszystkie funkcje programu Mailbird. Oto dodatkowe {0} dni na zakochanie się w Mailbird.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_SubHeader" xml:space="preserve">
@@ -7217,7 +7217,7 @@ Czy to wszystko było nieporozumieniem i chcesz nadal używać Mailbirda? Nie ma
     <comment>Explanation for business trial</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureAndMore" xml:space="preserve">
-    <value>I więcej....</value>
+    <value>I nie tylko...</value>
     <comment>Label for many more feature</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureExchangeSupport" xml:space="preserve">
@@ -7233,7 +7233,7 @@ Czy to wszystko było nieporozumieniem i chcesz nadal używać Mailbirda? Nie ma
     <comment>Feature label for linkedIn lookup</comment>
   </data>
   <data name="License_WelcomeBusiness_FeaturePrioritySupport" xml:space="preserve">
-    <value>Wsparcie priorytetowe</value>
+    <value>Priorytetowa pomoc techniczna</value>
     <comment>Feature label for priority support</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureTagContact" xml:space="preserve">
@@ -7245,7 +7245,7 @@ Czy to wszystko było nieporozumieniem i chcesz nadal używać Mailbirda? Nie ma
     <comment>Header for welcome to mailbird business trial window</comment>
   </data>
   <data name="License_Welcome_Question" xml:space="preserve">
-    <value>Jeśli masz jakieś pytania, proszę [link href={0}]skontaktować się z działem pomocy technicznej[/link], a my skontaktujemy się z Tobą jak najszybciej.</value>
+    <value>Jeśli masz jakieś pytania, proszę [link href={0}]skontaktować się z pomocą techniczną[/link], a my skontaktujemy się z Tobą jak najszybciej.</value>
     <comment>Copy for welcome to trial</comment>
   </data>
   <data name="Dialog_TrialExtended" xml:space="preserve">
@@ -7271,7 +7271,7 @@ Masz teraz wybór między Mailbird Personal a Mailbird Business w zależności o
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
-    <value>Rozumiemy, że możesz potrzebować więcej czasu, aby przetestować wszystkie funkcje Mailbird Business. Oto dodatkowe {0} dni na zakochanie się w Mailbirdzie.</value>
+    <value>Rozumiemy, że możesz potrzebować więcej czasu, aby przetestować wszystkie funkcje Mailbird Business. Oto dodatkowe {0} dni na zakochanie się w Mailbird.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_Header" xml:space="preserve">
@@ -7319,7 +7319,7 @@ Masz teraz wybór między Mailbird Personal a Mailbird Business w zależności o
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_LinkedInLookup" xml:space="preserve">
-    <value>Skorzystaj z możliwości Mailbird, aby mieć dostęp do wyszukiwarki LinkedIn.</value>
+    <value>Skorzystaj z możliwości Mailbird, aby mieć znajdowania na LinkedIn.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Disabled_IdentityExchange" xml:space="preserve">
@@ -7335,7 +7335,7 @@ Masz teraz wybór między Mailbird Personal a Mailbird Business w zależności o
     <comment>Could not get Lite license</comment>
   </data>
   <data name="Dialog_LiteLicenseError_Explanation" xml:space="preserve">
-    <value>To nie zadziałało. Proszę [link href={0}]skontaktować się z działem pomocy technicznej[/link], aby uzyskać licencję Lite.</value>
+    <value>To nie zadziałało. Proszę [link href={0}]skontaktować się z pomocą techniczną[/link], aby uzyskać licencję Lite.</value>
     <comment>Error message on the explanation</comment>
   </data>
   <data name="Upgrade_Apps" xml:space="preserve">
@@ -7349,7 +7349,7 @@ Masz teraz wybór między Mailbird Personal a Mailbird Business w zależności o
   <data name="License_OfflineWelcome_Explanation" xml:space="preserve">
     <value>Nie można dodać nowego konta bez ważnej licencji.
 
-Jeśli chcesz kontynuować korzystanie z Mailbirda, możesz zakupić licencję poniżej lub wprowadzić istniejący klucz licencyjny.</value>
+Jeśli chcesz kontynuować korzystanie z Mailbird, możesz zakupić licencję poniżej lub podać istniejący klucz licencyjny.</value>
     <comment>Explanation when Mailbird has offline in welcome window</comment>
   </data>
   <data name="Welcome_Exchange" xml:space="preserve">
@@ -7614,7 +7614,7 @@ Jesteś pewien, że chcesz kontynuować zakup Mailbird Personal?</value>
     <comment>Label for displaying filter</comment>
   </data>
   <data name="Filter_ContactPlaceholder" xml:space="preserve">
-    <value>Wprowadź nazwiska, adresy e-mail lub domeny</value>
+    <value>Podaj nazwiska, adresy e-mail lub domeny</value>
     <comment>Placeholder in from and to field in filter condition</comment>
   </data>
   <data name="Filter_EditFilter_Applied" xml:space="preserve">
@@ -7680,7 +7680,7 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Message when there is no supported email clients on import step</comment>
   </data>
   <data name="Filter_GeneralPlaceholder" xml:space="preserve">
-    <value>Wprowadź słowa, których szukasz</value>
+    <value>Podaj słowa, których szukasz</value>
     <comment>Placeholder in filter's general field</comment>
   </data>
   <data name="Filter_CreateMenuFrom" xml:space="preserve">
@@ -7748,16 +7748,16 @@ Pamiętaj, że nie wszystkie zmiany dokonane w jednej wersji programu Mailbird b
     <comment>Mailbird Alpha</comment>
   </data>
   <data name="Options_MailbirdAlphaDescription" xml:space="preserve">
-    <value>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
+    <value>Jeśli chcesz pomóc w testowaniu najnowszych aktualizacji i funkcji Mailbirda, a jednocześnie mieć wpływ na kierunek, w którym zmierzamy, to zapisz się na testera Alpha.
 
-The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features and you can join our dedicated user community called The Mailbird Influencers on Facebook. 
+Wersja Alpha programu Mailbird jest instalowana oddzielnie, więc nadal będziesz mógł uruchamiać normalną wersję, jednak wersja Alpha dostanie aktualizacje szybciej, w tym nowe funkcje i możesz dołączyć do naszej dedykowanej społeczności użytkowników o nazwie The Mailbird Influencers na Facebooku.
 
-- Connect with like-minded individuals 
-- Access exclusive Mailbird gifts, deals, and offers 
-- Find inspiration, gain tips, insights, and productivity hacks
-- Help us understand you better to shape your Mailbird
+- Połącz się z podobnie myślącymi osobami
+- Uzyskaj dostęp do ekskluzywnych upominków, zniżek i ofert Mailbird.
+- Znajduj inspiracje, zdobywaj wskazówki, wymieniaj się spostrzeżeniami i poradami dotyczącymi produktywności.
+- Pomóż nam lepiej Cię zrozumieć, abyśmy mogli kształtować Mailbird pod Ciebie.
 
-Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</value>
+Miej na uwadze, że ponieważ jest to wersja Mailbird "w fazie rozwoju", problemy mogą występować nieco częściej, ale jesteśmy też w stanie naprawić je szybciej - i zawsze możesz przełączyć się z powrotem na normalną wersję w razie problemu - dopóki go nie naprawimy.</value>
     <comment>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
 
 The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
@@ -8571,7 +8571,7 @@ Czy możemy dołączyć Twój plik dziennika do tego e-maila?</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Welcome_Coupon_DescriptionOption" xml:space="preserve">
-    <value>Wprowadź poniżej kod polecający, aby odebrać swoją nagrodę.</value>
+    <value>Podaj poniżej kod polecający, aby odebrać swoją nagrodę.</value>
     <comment>Explanation for referral code input window</comment>
   </data>
   <data name="Welcome_FeatureET" xml:space="preserve">
@@ -8807,7 +8807,7 @@ Jeśli chcesz używać programu Mailbird na tym urządzeniu, potwierdź poniżej
   <data name="License_DeviceLimitHint" xml:space="preserve">
     <value>Ten klucz licencyjny osiągnął limit urządzeń.
 
-Proszę wprowadzić inny klucz licencyjny lub kontynuować aktywację, aby przerejestrować go na to urządzenie.</value>
+Podaj inny klucz licencyjny lub kontynuuj aktywację, aby przerejestrować go na to urządzenie.</value>
     <comment>This license key has reached its device limit.
 
 Please enter another license key, or continue with the activation to change the registration to this device.</comment>
@@ -8862,236 +8862,236 @@ Teraz możesz uzyskać dostęp do funkcji nieograniczonego śledzenia wiadomośc
     <comment>Explanation when certain groups cant add new member due to some limitations</comment>
   </data>
   <data name="Upgrade_AdvancedSearchFeatureName" xml:space="preserve">
-    <value>Advanced Search</value>
+    <value>Zaawansowane wyszukiwanie</value>
   </data>
   <data name="Upgrade_EmailTrackingFeatureName" xml:space="preserve">
-    <value>Email Tracking</value>
+    <value>Śledzenie wiadomości</value>
     <comment>Name of the feature displayed on upgrade window for lite users when trying to access Email Tracking feature</comment>
   </data>
   <data name="Upgrade_LinkedinLookupFeatureName" xml:space="preserve">
-    <value>LinkedIn Lookup</value>
+    <value>Znajdowanie na LinkedIn</value>
   </data>
   <data name="Upgrade_SendLaterFeatureName" xml:space="preserve">
-    <value>Send Later</value>
+    <value>Opóźnione wysyłanie</value>
   </data>
   <data name="Upgrade_UnsubscribeButtonFeatureName" xml:space="preserve">
-    <value>Unsubscribe Button</value>
+    <value>Przycisk anulowania subskrypcji</value>
   </data>
   <data name="Upgrade_AppsButton" xml:space="preserve">
-    <value>Get {0} and more</value>
+    <value>Uzyskaj {0} i nie tylko</value>
     <comment>Button content of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsDescription" xml:space="preserve">
-    <value>Want to build your personal productivity dashboard?
-Gain acces to this, and other apps with a Mailbird license.</value>
+    <value>Chcesz zbudować swój osobisty kącik produktywności?
+Uzyskaj dostęp do tej i innych aplikacji dzięki licencji Mailbird.</value>
     <comment>Desciptions of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>Musisz dokonać uaktualnienia, aby uzyskać dostęp do {0}</value>
     <comment>Title of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_BenefitAdvancedSearch" xml:space="preserve">
-    <value>Advanced Search to find what you need fast</value>
+    <value>Zaawansowane wyszukiwanie, aby szybko znaleźć to, czego potrzebujesz</value>
     <comment>Benefit of advanced search presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitApps" xml:space="preserve">
-    <value>35+ app integrations to help your productivity and communication</value>
+    <value>35+ zintegrowanych aplikacji, aby wspomóc swoją produktywność i komunikację</value>
     <comment>Benefit of apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitBusinessApps" xml:space="preserve">
-    <value>Business apps like Asana, Slack, Trello, and more</value>
+    <value>Aplikacje biznesowe, takie jak Asana, Slack, Trello i nie tylko</value>
     <comment>Benefit of business apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTracking" xml:space="preserve">
-    <value>Email Tracking for all your emails</value>
+    <value>Śledzenie wiadomości dla wszystkich e-maili</value>
     <comment>Benefit of email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotificationCenter" xml:space="preserve">
-    <value>Email Tracking Notification Center</value>
+    <value>Centrum powiadomień o otwartych e-mailach</value>
     <comment>Benefit of email tracking notification center presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotifications" xml:space="preserve">
-    <value>Email Tracking opens notifications</value>
+    <value>Otrzymuj powiadomienia o otwarciu e-maila</value>
     <comment>Benefit of email tracking open notifications presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitPrioritySupport" xml:space="preserve">
-    <value>Priority Support whenever you have an issue or question</value>
+    <value>Priorytetowa pomoc techniczna w każdej sytuacji, gdy tylko masz problem lub pytanie</value>
     <comment>Benefit of priority support presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSentLater" xml:space="preserve">
-    <value>Send Later so emails send themselves</value>
+    <value>Opóźnione wysyłanie, aby e-maile wysyłały się same</value>
     <comment>Benefit of send later presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSignatures" xml:space="preserve">
-    <value>Multiple signatures and identities</value>
+    <value>Wiele podpisów i tożsamości</value>
     <comment>Benefit of signatures presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnifiedInbox" xml:space="preserve">
-    <value>A Unified Inbox to streamline your inbox management</value>
+    <value>Zunifikowana skrzynka odbiorcza usprawniająca zarządzanie pocztą</value>
     <comment>Benefit of unified account presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedAccounts" xml:space="preserve">
-    <value>Unlimited accounts so you never miss an email</value>
+    <value>Nielimitowane konta, aby nigdy nie przegapić żadnej wiadomości e-mail</value>
     <comment>Benefit of unlimited accounts presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedEmailTracking" xml:space="preserve">
-    <value>Unlimited Email Tracking for all your emails</value>
+    <value>Nielimitowane śledzenie wiadomości dla wszystkich Twoich e-maili</value>
     <comment>Benefit of unlimited email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnsubscribeButton" xml:space="preserve">
-    <value>Unsubscribe Button to stop getting unwanted newsletters</value>
+    <value>Przycisk anulowania subskrypcji, aby nie otrzymywać niechcianych newsletterów</value>
     <comment>Benefit of unsubscribe button presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BusinessAppsButton" xml:space="preserve">
-    <value>Get access to business apps and more</value>
+    <value>Uzyskaj dostęp do aplikacji biznesowych i nie tylko</value>
     <comment>Button content of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Usprawnij swój cykl pracy z Mailbird Business. Uaktualnij, aby uzyskać dostęp do:</value>
     <comment>Description of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business to enable {0}</value>
+    <value>Potrzebujesz Mailbird Business, aby włączyć {0}</value>
     <comment>Title of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>Uzyskaj dostęp do {0} i nie tylko</value>
     <comment>Button content of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Usprawnij swój cykl pracy z Mailbird Business. Uaktualnij, aby uzyskać dostęp do:</value>
     <comment>Description of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericTitle" xml:space="preserve">
-    <value>Get access to {0} and much more</value>
+    <value>Uzyskaj dostęp do {0} i znacznie więcej</value>
     <comment>Title of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingButton" xml:space="preserve">
-    <value>Get unlimited Email Tracking and more</value>
+    <value>Uzyskaj nielimitowane śledzenie wiadomości i nie tylko</value>
     <comment>Button content of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingDescription" xml:space="preserve">
-    <value>Would you like to continue using Email Tracking? Upgrade to Mailbird
-Business to get access to unlimited Email Tracking features, including:</value>
+    <value>Czy chcesz nadal korzystać z funkcji śledzenia wiadomości? Uaktualnij do Mailbird
+Business, aby uzyskać nielimitowany dostęp do śledzenia wiadomości, a w tym:</value>
     <comment>Description of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingTitle" xml:space="preserve">
-    <value>You've reached your 
-monthly Email Tracking limit</value>
+    <value>Osiągnąłeś swój 
+miesięczny limit śledzenia wiadomości</value>
     <comment>Title of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_ExchangeButton" xml:space="preserve">
-    <value>Get access to MS Exchange and more</value>
+    <value>Uzyskaj dostęp do MS Exchange i nie tylko</value>
     <comment>Button content of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeDescription" xml:space="preserve">
-    <value>Are you looking to use an Exchange account? Upgrade to
-Mailbird Business and you can. You'll also get access to:</value>
+    <value>Czy chcesz korzystać z konta Exchange? Uaktualnij do
+Mailbird Business. Otrzymasz również dostęp do:</value>
     <comment>Description of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business
-to use an Exchange account</value>
+    <value>Potrzebujesz Mailbird Business
+do korzystania z konta Exchange</value>
     <comment>Title of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_GenericButton" xml:space="preserve">
-    <value>Simplify your email management</value>
+    <value>Uprość zarządzanie pocztą e-mail</value>
     <comment>Button content of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericDescription" xml:space="preserve">
-    <value>Want to cut inbox clutter and make managing your accounts a breeze?
-Purchase a Mailbird licence to get access to:</value>
+    <value>Chcesz zmniejszyć bałagan w skrzynce odbiorczej i ułatwić sobie zarządzanie kontami?
+Kup licencję Mailbird, aby uzyskać dostęp do:</value>
     <comment>Description of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericTitle" xml:space="preserve">
-    <value>Stay on top of your emails</value>
+    <value>Bądź na bieżąco z wiadomościami e-mail</value>
     <comment>Title of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_OfflineDescription" xml:space="preserve">
-    <value>Are you looking for an app that makes managing all your accounts a breeze? Purchase a Mailbird licence and get access to:</value>
+    <value>Szukasz aplikacji, która sprawi, że zarządzanie wszystkimi Twoimi kontami stanie się proste? Kup licencję Mailbird i uzyskaj dostęp do:</value>
     <comment>Desciptions of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_OfflineTitle" xml:space="preserve">
-    <value>Your Mailbird account
-has gone offline</value>
+    <value>Twoje konto Mailbird
+przeszło w tryb offline</value>
     <comment>Title of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewButton" xml:space="preserve">
-    <value>Get access to Quick Preview and more</value>
+    <value>Uzyskaj dostęp do Szybkiego podglądu wiadomości i nie tylko</value>
     <comment>Button content of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewDescription" xml:space="preserve">
-    <value>Find what you need faster with Quick Preview. Get access to it and other
-useful features like:</value>
+    <value>Szybciej znajduj potrzebne informacje dzięki Szybkiemu podglądowi wiadomości. Uzyskaj dostęp do tej i innych
+przydatnych funkcji, takich jak:</value>
     <comment>Descriptionof upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewTitle" xml:space="preserve">
-    <value>The Quick Preview feature
-is not available</value>
+    <value>Funkcja szybkiego podglądu wiadomości
+jest niedostępna</value>
     <comment>Title of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_SprintButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>Uzyskaj dostęp do {0} i nie tylko</value>
     <comment>Button content of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintDescription" xml:space="preserve">
-    <value>Do you need to block out distractions? Get access to features that
-help you focus like:</value>
+    <value>Potrzebujesz zablokować rozpraszające rzeczy? Uzyskaj dostęp do funkcji, 
+które pomogą Ci się skupić, takich jak:</value>
     <comment>Desciptions of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>Musisz dokonać uaktualnienia, aby uzyskać dostęp do {0}</value>
     <comment>Title of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_ThisApp" xml:space="preserve">
-    <value>this app</value>
+    <value>tej aplikacji</value>
     <comment>Placeholder text for generic app</comment>
   </data>
   <data name="Upgrade_ThisFeature" xml:space="preserve">
-    <value>this feature</value>
+    <value>tej funkcji</value>
     <comment>Placeholder text for generic feature</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsButton" xml:space="preserve">
-    <value>Get access to Unlimited Accounts and more</value>
+    <value>Uzyskaj dostęp do nielimitowanych kont i nie tylko</value>
     <comment>Button content of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsDescription" xml:space="preserve">
-    <value>Add Unlimited Accounts and manage everything from one place:</value>
+    <value>Dodaj nielimitowaną liczbę kont i zarządzaj wszystkim z jednego miejsca:</value>
     <comment>Desciptions of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsTitle" xml:space="preserve">
-    <value>You will need to upgrade
-to add Unlimited Accounts</value>
+    <value>Musisz dokonać uaktualnienia,
+aby dodać nielimitowaną liczbę kont</value>
     <comment>Title of upgrade window unlimited accounts trigger</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanationPOP3" xml:space="preserve">
-    <value>If you remove a POP3 account, you could lose all your emails unless you have backed them up. 
+    <value>Jeśli usuniesz konto POP3, możesz stracić wszystkie wiadomości e-mail, chyba że wykonałeś ich kopię zapasową.
 
-POP3 accounts download all emails from a server to a single computer (i.e your computer), either keeping them on the server or deleting them as they're downloaded, depending on the account settings.
+Konta POP3 pobierają wszystkie wiadomości e-mail z serwera na pojedynczy komputer (np. Twój komputer), zachowując je na serwerze lub usuwając w miarę ich pobierania, w zależności od ustawień konta.
 
-To find out more about how to backup your emails, please see [link href={0}]this article[/link], or [link href={1}]contact support[/link].
+Aby dowiedzieć się więcej na temat tworzenia kopii zapasowych wiadomości e-mail, zobacz [link href={0}]ten artykuł[/link], lub [link href={1}]skontaktuj się z pomocą techniczną[/link].
 
-Are you sure you want to remove this account?</value>
+Czy na pewno chcesz usunąć to konto?</value>
     <comment>Text of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Dialog_RemoveAccountPOP3" xml:space="preserve">
-    <value>Remove POP3 account?</value>
+    <value>Usunąć konto POP3?</value>
     <comment>Title of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Upgrade_BilledAnnually" xml:space="preserve">
-    <value>billed annually</value>
+    <value>rozliczane rocznie</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_OnlyFor" xml:space="preserve">
-    <value>Only for</value>
+    <value>Tylko dla</value>
     <comment>Text that appears before the price on upgrade popup for personal users triggers</comment>
   </data>
   <data name="Upgrade_PerMonth" xml:space="preserve">
-    <value>per month</value>
+    <value>miesięcznie</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_StartingFrom" xml:space="preserve">
-    <value>Starting from</value>
+    <value>Zaczynając od</value>
     <comment>Text that appears before the price on upgrade popup for trial/offline users triggers</comment>
   </data>
 </root>
