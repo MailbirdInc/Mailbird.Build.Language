@@ -379,9 +379,9 @@ This action is irreversible.</comment>
     <comment>Could not send</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
-    <value>申し訳ありませんが、レポートを送信できませんでした。
-代わりに {0} に直接メールを送っていただければ幸いです。
-メッセージ：</value>
+    <value>We're sorry, but your report could not be sent. 
+We would appreciate it, if you could contact support at {0} instead.
+Message:</value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
@@ -1118,7 +1118,7 @@ Path: {0}</comment>
     <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>このライセンスキーは管理者によって非アクティブ化されています。アクティブ化するには support@getmailbird.com までご連絡ください。</value>
+    <value>This license key is deactivated by the admin. Please [link href={0}]contact support[/link] to activate it.</value>
     <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
@@ -5672,7 +5672,7 @@ with Mailbird Pro?</comment>
     <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>何かお手伝いが必要であれば、support@getmailbird.comまでお問い合わせください。</value>
+    <value>For any assistance, please [link href={0}]contact support[/link].</value>
     <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
@@ -8808,5 +8808,238 @@ You can now get access to the unlimited Email Tracking feature, including:</valu
   <data name="Contacts_CantAddContact" xml:space="preserve">
     <value>Contacts can be removed, but not added to this group, due to limitations by the contact provider.</value>
     <comment>Explanation when certain groups cant add new member due to some limitations</comment>
+  </data>
+  <data name="Upgrade_AdvancedSearchFeatureName" xml:space="preserve">
+    <value>Advanced Search</value>
+  </data>
+  <data name="Upgrade_EmailTrackingFeatureName" xml:space="preserve">
+    <value>Email Tracking</value>
+    <comment>Name of the feature displayed on upgrade window for lite users when trying to access Email Tracking feature</comment>
+  </data>
+  <data name="Upgrade_LinkedinLookupFeatureName" xml:space="preserve">
+    <value>LinkedIn Lookup</value>
+  </data>
+  <data name="Upgrade_SendLaterFeatureName" xml:space="preserve">
+    <value>Send Later</value>
+  </data>
+  <data name="Upgrade_UnsubscribeButtonFeatureName" xml:space="preserve">
+    <value>Unsubscribe Button</value>
+  </data>
+  <data name="Upgrade_AppsButton" xml:space="preserve">
+    <value>Get {0} and more</value>
+    <comment>Button content of upgrade window for apps trigger</comment>
+  </data>
+  <data name="Upgrade_AppsDescription" xml:space="preserve">
+    <value>Want to build your personal productivity dashboard?
+Gain acces to this, and other apps with a Mailbird license.</value>
+    <comment>Desciptions of upgrade window for apps trigger</comment>
+  </data>
+  <data name="Upgrade_AppsTitle" xml:space="preserve">
+    <value>You'll need to upgrade to access {0}</value>
+    <comment>Title of upgrade window for apps trigger</comment>
+  </data>
+  <data name="Upgrade_BenefitAdvancedSearch" xml:space="preserve">
+    <value>Advanced Search to find what you need fast</value>
+    <comment>Benefit of advanced search presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitApps" xml:space="preserve">
+    <value>35+ app integrations to help your productivity and communication</value>
+    <comment>Benefit of apps presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitBusinessApps" xml:space="preserve">
+    <value>Business apps like Asana, Slack, Trello, and more</value>
+    <comment>Benefit of business apps presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitEmailTracking" xml:space="preserve">
+    <value>Email Tracking for all your emails</value>
+    <comment>Benefit of email tracking presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitEmailTrackingNotificationCenter" xml:space="preserve">
+    <value>Email Tracking Notification Center</value>
+    <comment>Benefit of email tracking notification center presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitEmailTrackingNotifications" xml:space="preserve">
+    <value>Email Tracking opens notifications</value>
+    <comment>Benefit of email tracking open notifications presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitPrioritySupport" xml:space="preserve">
+    <value>Priority Support whenever you have an issue or question</value>
+    <comment>Benefit of priority support presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitSentLater" xml:space="preserve">
+    <value>Send Later so emails send themselves</value>
+    <comment>Benefit of send later presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitSignatures" xml:space="preserve">
+    <value>Multiple signatures and identities</value>
+    <comment>Benefit of signatures presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitUnifiedInbox" xml:space="preserve">
+    <value>A Unified Inbox to streamline your inbox management</value>
+    <comment>Benefit of unified account presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitUnlimitedAccounts" xml:space="preserve">
+    <value>Unlimited accounts so you never miss an email</value>
+    <comment>Benefit of unlimited accounts presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitUnlimitedEmailTracking" xml:space="preserve">
+    <value>Unlimited Email Tracking for all your emails</value>
+    <comment>Benefit of unlimited email tracking presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BenefitUnsubscribeButton" xml:space="preserve">
+    <value>Unsubscribe Button to stop getting unwanted newsletters</value>
+    <comment>Benefit of unsubscribe button presented on upgrade window</comment>
+  </data>
+  <data name="Upgrade_BusinessAppsButton" xml:space="preserve">
+    <value>Get access to business apps and more</value>
+    <comment>Button content of upgrade window for business apps trigger</comment>
+  </data>
+  <data name="Upgrade_BusinessAppsDescription" xml:space="preserve">
+    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <comment>Description of upgrade window for business apps trigger</comment>
+  </data>
+  <data name="Upgrade_BusinessAppsTitle" xml:space="preserve">
+    <value>You'll need Mailbird Business to enable {0}</value>
+    <comment>Title of upgrade window for business apps trigger</comment>
+  </data>
+  <data name="Upgrade_BusinessGenericButton" xml:space="preserve">
+    <value>Get access to {0} and more</value>
+    <comment>Button content of upgrade window for generic business trigger</comment>
+  </data>
+  <data name="Upgrade_BusinessGenericDescription" xml:space="preserve">
+    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <comment>Description of upgrade window for generic business trigger</comment>
+  </data>
+  <data name="Upgrade_BusinessGenericTitle" xml:space="preserve">
+    <value>Get access to {0} and much more</value>
+    <comment>Title of upgrade window for generic business trigger</comment>
+  </data>
+  <data name="Upgrade_EmailTrackingButton" xml:space="preserve">
+    <value>Get unlimited Email Tracking and more</value>
+    <comment>Button content of upgrade window for email tracking trigger</comment>
+  </data>
+  <data name="Upgrade_EmailTrackingDescription" xml:space="preserve">
+    <value>Would you like to continue using Email Tracking? Upgrade to Mailbird
+Business to get access to unlimited Email Tracking features, including:</value>
+    <comment>Description of upgrade window for email tracking trigger</comment>
+  </data>
+  <data name="Upgrade_EmailTrackingTitle" xml:space="preserve">
+    <value>You've reached your 
+monthly Email Tracking limit</value>
+    <comment>Title of upgrade window for email tracking trigger</comment>
+  </data>
+  <data name="Upgrade_ExchangeButton" xml:space="preserve">
+    <value>Get access to MS Exchange and more</value>
+    <comment>Button content of upgrade window for exchange trigger</comment>
+  </data>
+  <data name="Upgrade_ExchangeDescription" xml:space="preserve">
+    <value>Are you looking to use an Exchange account? Upgrade to
+Mailbird Business and you can. You'll also get access to:</value>
+    <comment>Description of upgrade window for exchange trigger</comment>
+  </data>
+  <data name="Upgrade_ExchangeTitle" xml:space="preserve">
+    <value>You'll need Mailbird Business
+to use an Exchange account</value>
+    <comment>Title of upgrade window for exchange trigger</comment>
+  </data>
+  <data name="Upgrade_GenericButton" xml:space="preserve">
+    <value>Simplify your email management</value>
+    <comment>Button content of upgrade window for generic trigger</comment>
+  </data>
+  <data name="Upgrade_GenericDescription" xml:space="preserve">
+    <value>Want to cut inbox clutter and make managing your accounts a breeze?
+Purchase a Mailbird licence to get access to:</value>
+    <comment>Description of upgrade window for generic trigger</comment>
+  </data>
+  <data name="Upgrade_GenericTitle" xml:space="preserve">
+    <value>Stay on top of your emails</value>
+    <comment>Title of upgrade window for generic trigger</comment>
+  </data>
+  <data name="Upgrade_OfflineDescription" xml:space="preserve">
+    <value>Are you looking for an app that makes managing all your accounts a breeze? Purchase a Mailbird licence and get access to:</value>
+    <comment>Desciptions of upgrade window for offline trigger</comment>
+  </data>
+  <data name="Upgrade_OfflineTitle" xml:space="preserve">
+    <value>Your Mailbird account
+has gone offline</value>
+    <comment>Title of upgrade window for offline trigger</comment>
+  </data>
+  <data name="Upgrade_QuickPreviewButton" xml:space="preserve">
+    <value>Get access to Quick Preview and more</value>
+    <comment>Button content of upgrade window for quick preview trigger</comment>
+  </data>
+  <data name="Upgrade_QuickPreviewDescription" xml:space="preserve">
+    <value>Find what you need faster with Quick Preview. Get access to it and other
+useful features like:</value>
+    <comment>Descriptionof upgrade window for quick preview trigger</comment>
+  </data>
+  <data name="Upgrade_QuickPreviewTitle" xml:space="preserve">
+    <value>The Quick Preview feature
+is not available</value>
+    <comment>Title of upgrade window for quick preview trigger</comment>
+  </data>
+  <data name="Upgrade_SprintButton" xml:space="preserve">
+    <value>Get access to {0} and more</value>
+    <comment>Button content of upgrade window for sprint trigger</comment>
+  </data>
+  <data name="Upgrade_SprintDescription" xml:space="preserve">
+    <value>Do you need to block out distractions? Get access to features that
+help you focus like:</value>
+    <comment>Desciptions of upgrade window for sprint trigger</comment>
+  </data>
+  <data name="Upgrade_SprintTitle" xml:space="preserve">
+    <value>You'll need to upgrade to access {0}</value>
+    <comment>Title of upgrade window for sprint trigger</comment>
+  </data>
+  <data name="Upgrade_ThisApp" xml:space="preserve">
+    <value>this app</value>
+    <comment>Placeholder text for generic app</comment>
+  </data>
+  <data name="Upgrade_ThisFeature" xml:space="preserve">
+    <value>this feature</value>
+    <comment>Placeholder text for generic feature</comment>
+  </data>
+  <data name="Upgrade_UnlimitedAccountsButton" xml:space="preserve">
+    <value>Get access to Unlimited Accounts and more</value>
+    <comment>Button content of upgrade window for unlimited accounts trigger</comment>
+  </data>
+  <data name="Upgrade_UnlimitedAccountsDescription" xml:space="preserve">
+    <value>Add Unlimited Accounts and manage everything from one place:</value>
+    <comment>Desciptions of upgrade window for unlimited accounts trigger</comment>
+  </data>
+  <data name="Upgrade_UnlimitedAccountsTitle" xml:space="preserve">
+    <value>You will need to upgrade
+to add Unlimited Accounts</value>
+    <comment>Title of upgrade window unlimited accounts trigger</comment>
+  </data>
+  <data name="Dialog_RemoveAccountExplanationPOP3" xml:space="preserve">
+    <value>If you remove a POP3 account, you could lose all your emails unless you have backed them up. 
+
+POP3 accounts download all emails from a server to a single computer (i.e your computer), either keeping them on the server or deleting them as they're downloaded, depending on the account settings.
+
+To find out more about how to backup your emails, please see [link href={0}]this article[/link], or [link href={1}]contact support[/link].
+
+Are you sure you want to remove this account?</value>
+    <comment>Text of warning shown when trying to remove POP3 account</comment>
+  </data>
+  <data name="Dialog_RemoveAccountPOP3" xml:space="preserve">
+    <value>Remove POP3 account?</value>
+    <comment>Title of warning shown when trying to remove POP3 account</comment>
+  </data>
+  <data name="Upgrade_BilledAnnually" xml:space="preserve">
+    <value>billed annually</value>
+    <comment>Text that appears after the price on upgrade popup</comment>
+  </data>
+  <data name="Upgrade_OnlyFor" xml:space="preserve">
+    <value>Only for</value>
+    <comment>Text that appears before the price on upgrade popup for personal users triggers</comment>
+  </data>
+  <data name="Upgrade_PerMonth" xml:space="preserve">
+    <value>per month</value>
+    <comment>Text that appears after the price on upgrade popup</comment>
+  </data>
+  <data name="Upgrade_StartingFrom" xml:space="preserve">
+    <value>Starting from</value>
+    <comment>Text that appears before the price on upgrade popup for trial/offline users triggers</comment>
   </data>
 </root>
