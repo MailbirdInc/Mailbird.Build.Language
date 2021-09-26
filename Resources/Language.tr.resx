@@ -462,9 +462,9 @@ This action is irreversible.</comment>
     <comment>Could not send</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
-    <value>We're sorry, but your report could not be sent. 
-We would appreciate it, if you could contact support at {0} instead.
-Message:</value>
+    <value>Üzgünüz, ancak raporunuz gönderilemedi.
+Bunun yerine {0} adresinden destek ekibiyle iletişime geçebilirseniz memnun oluruz.
+İleti:</value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
@@ -1099,7 +1099,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>This license key is deactivated by the admin. Please [link href={0}]contact support[/link] to activate it.</value>
+    <value>Bu lisans anahtarı yönetici tarafından devre dışı bırakıldı. Etkinleştirmek için lütfen [link href={0}]desteğe başvurun[/link].</value>
     <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
@@ -5704,7 +5704,7 @@ Yeni Kişileri şimdi deneyin!</value>
     <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>For any assistance, please [link href={0}]contact support[/link].</value>
+    <value>Herhangi bir yardım için lütfen [link href={0}]desteğe başvurun[/link].</value>
     <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
@@ -8862,236 +8862,236 @@ Artık aşağıdakiler dahil olmak üzere sınırsız E-posta İzleme özelliği
     <comment>Explanation when certain groups cant add new member due to some limitations</comment>
   </data>
   <data name="Upgrade_AdvancedSearchFeatureName" xml:space="preserve">
-    <value>Advanced Search</value>
+    <value>Gelişmiş Arama</value>
   </data>
   <data name="Upgrade_EmailTrackingFeatureName" xml:space="preserve">
-    <value>Email Tracking</value>
+    <value>E-posta İzleme</value>
     <comment>Name of the feature displayed on upgrade window for lite users when trying to access Email Tracking feature</comment>
   </data>
   <data name="Upgrade_LinkedinLookupFeatureName" xml:space="preserve">
-    <value>LinkedIn Lookup</value>
+    <value>LinkedIn Arama</value>
   </data>
   <data name="Upgrade_SendLaterFeatureName" xml:space="preserve">
-    <value>Send Later</value>
+    <value>Sonra gönder</value>
   </data>
   <data name="Upgrade_UnsubscribeButtonFeatureName" xml:space="preserve">
-    <value>Unsubscribe Button</value>
+    <value>Abonelikten Çık Düğmesi</value>
   </data>
   <data name="Upgrade_AppsButton" xml:space="preserve">
-    <value>Get {0} and more</value>
+    <value>{0} ve daha fazlasını al</value>
     <comment>Button content of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsDescription" xml:space="preserve">
-    <value>Want to build your personal productivity dashboard?
-Gain acces to this, and other apps with a Mailbird license.</value>
+    <value>Kişisel üretkenlik gösterge tablonuzu oluşturmak ister misiniz?
+Mailbird lisansı ile bu ve diğer uygulamalara erişim sağlayın.</value>
     <comment>Desciptions of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>{0} erişimi için lisansınızı yükseltmeniz gerekir</value>
     <comment>Title of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_BenefitAdvancedSearch" xml:space="preserve">
-    <value>Advanced Search to find what you need fast</value>
+    <value>İhtiyacınız olanı hızlı bir şekilde bulmak için Gelişmiş Arama</value>
     <comment>Benefit of advanced search presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitApps" xml:space="preserve">
-    <value>35+ app integrations to help your productivity and communication</value>
+    <value>Üretkenliğinize ve iletişiminize yardımcı olacak 35'ten fazla uygulama ile bütünleşme</value>
     <comment>Benefit of apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitBusinessApps" xml:space="preserve">
-    <value>Business apps like Asana, Slack, Trello, and more</value>
+    <value>Asana, Slack, Trello ve daha fazlası gibi iş uygulamaları</value>
     <comment>Benefit of business apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTracking" xml:space="preserve">
-    <value>Email Tracking for all your emails</value>
+    <value>Tüm e-postalarınız için E-posta İzleme</value>
     <comment>Benefit of email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotificationCenter" xml:space="preserve">
-    <value>Email Tracking Notification Center</value>
+    <value>E-posta İzleme Bildirim Merkezi</value>
     <comment>Benefit of email tracking notification center presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotifications" xml:space="preserve">
-    <value>Email Tracking opens notifications</value>
+    <value>E-posta İzleme bildirimleri açar</value>
     <comment>Benefit of email tracking open notifications presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitPrioritySupport" xml:space="preserve">
-    <value>Priority Support whenever you have an issue or question</value>
+    <value>Bir sorununuz ya da sorunuz olduğunda Öncelikli Destek</value>
     <comment>Benefit of priority support presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSentLater" xml:space="preserve">
-    <value>Send Later so emails send themselves</value>
+    <value>E-postaların kendilerini göndermesi için Daha Sonra Gönder</value>
     <comment>Benefit of send later presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSignatures" xml:space="preserve">
-    <value>Multiple signatures and identities</value>
+    <value>Çoklu imzalar ve kimlikler</value>
     <comment>Benefit of signatures presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnifiedInbox" xml:space="preserve">
-    <value>A Unified Inbox to streamline your inbox management</value>
+    <value>Gelen kutusu yönetiminizi kolaylaştırmak için Birleşik Gelen Kutusu</value>
     <comment>Benefit of unified account presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedAccounts" xml:space="preserve">
-    <value>Unlimited accounts so you never miss an email</value>
+    <value>Hiçbir e-postayı kaçırmamanız için sınırsız hesap</value>
     <comment>Benefit of unlimited accounts presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedEmailTracking" xml:space="preserve">
-    <value>Unlimited Email Tracking for all your emails</value>
+    <value>Tüm e-postalarınız için Sınırsız E-posta Takibi</value>
     <comment>Benefit of unlimited email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnsubscribeButton" xml:space="preserve">
-    <value>Unsubscribe Button to stop getting unwanted newsletters</value>
+    <value>İstenmeyen haber bültenlerini almayı durdurmak için Abonelikten Çık Düğmesi</value>
     <comment>Benefit of unsubscribe button presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BusinessAppsButton" xml:space="preserve">
-    <value>Get access to business apps and more</value>
+    <value>İş uygulamalarına ve daha fazlasına erişin</value>
     <comment>Button content of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Mailbird Business ile iş akışınızı kolaylaştırın. Şunlara erişmek için yükseltin:</value>
     <comment>Description of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business to enable {0}</value>
+    <value>{0} özelliğini etkinleştirmek için Mailbird Business gerekir</value>
     <comment>Title of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>{0} ve daha fazlasına erişim sağlayın</value>
     <comment>Button content of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Mailbird Business ile iş akışınızı kolaylaştırın. Şunlara erişmek için yükseltin:</value>
     <comment>Description of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericTitle" xml:space="preserve">
-    <value>Get access to {0} and much more</value>
+    <value>{0} ve çok daha fazlasına erişim sağlayın</value>
     <comment>Title of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingButton" xml:space="preserve">
-    <value>Get unlimited Email Tracking and more</value>
+    <value>Sınırsız E-posta İzleme ve daha fazlasını elde edin</value>
     <comment>Button content of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingDescription" xml:space="preserve">
-    <value>Would you like to continue using Email Tracking? Upgrade to Mailbird
-Business to get access to unlimited Email Tracking features, including:</value>
+    <value>E-posta İzleme'yi kullanmaya devam etmek ister misiniz? Aşağıdakiler dahil
+sınırsız E-posta İzleme özelliklerine erişmek için Mailbird Business'a yükseltin:</value>
     <comment>Description of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingTitle" xml:space="preserve">
-    <value>You've reached your 
-monthly Email Tracking limit</value>
+    <value>Aylık E-posta İzleme
+sınırına ulaştınız</value>
     <comment>Title of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_ExchangeButton" xml:space="preserve">
-    <value>Get access to MS Exchange and more</value>
+    <value>MS Exchange'e ve daha fazlasına erişin</value>
     <comment>Button content of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeDescription" xml:space="preserve">
-    <value>Are you looking to use an Exchange account? Upgrade to
-Mailbird Business and you can. You'll also get access to:</value>
+    <value>Bir Exchange hesabı mı kullanmak istiyorsunuz? Mailbird Business
+'a yükselterek yapabilirsiniz. Ayrıca şunlara da erişeceksiniz:</value>
     <comment>Description of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business
-to use an Exchange account</value>
+    <value>Exchange hesabı kullanmak için
+Mailbird Business'a ihtiyacınız olacak</value>
     <comment>Title of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_GenericButton" xml:space="preserve">
-    <value>Simplify your email management</value>
+    <value>E-posta yönetiminizi basitleştirin</value>
     <comment>Button content of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericDescription" xml:space="preserve">
-    <value>Want to cut inbox clutter and make managing your accounts a breeze?
-Purchase a Mailbird licence to get access to:</value>
+    <value>Gelen kutusu karmaşasını azaltmak ve hesaplarınızı yönetmeyi çok kolay hale getirmek mi istiyorsunuz?
+Aşağıdakilere erişmek için bir Mailbird lisansı satın alın:</value>
     <comment>Description of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericTitle" xml:space="preserve">
-    <value>Stay on top of your emails</value>
+    <value>E-postalarınızdan haberdar olun</value>
     <comment>Title of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_OfflineDescription" xml:space="preserve">
-    <value>Are you looking for an app that makes managing all your accounts a breeze? Purchase a Mailbird licence and get access to:</value>
+    <value>Tüm hesaplarınızı yönetmeyi çok kolaylaştıran bir uygulama mı arıyorsunuz? Bir Mailbird lisansı satın alın ve şunlara erişin:</value>
     <comment>Desciptions of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_OfflineTitle" xml:space="preserve">
-    <value>Your Mailbird account
-has gone offline</value>
+    <value>Mailbird hesabınız
+çevrimdışı oldu</value>
     <comment>Title of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewButton" xml:space="preserve">
-    <value>Get access to Quick Preview and more</value>
+    <value>Hızlı Önizlemeye ve daha fazlasına erişin</value>
     <comment>Button content of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewDescription" xml:space="preserve">
-    <value>Find what you need faster with Quick Preview. Get access to it and other
-useful features like:</value>
+    <value>Hızlı Önizleme ile ihtiyacınız olanı daha hızlı bulun. Ona ve diğerlerine erişin
+şunlar gibi kullanışlı özellikler:</value>
     <comment>Descriptionof upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewTitle" xml:space="preserve">
-    <value>The Quick Preview feature
-is not available</value>
+    <value>Hızlı Önizleme özelliği
+erişilebilir değil</value>
     <comment>Title of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_SprintButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>{0} ve daha fazlasına erişim sağlayın</value>
     <comment>Button content of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintDescription" xml:space="preserve">
-    <value>Do you need to block out distractions? Get access to features that
-help you focus like:</value>
+    <value>Dikkat dağıtıcı şeyleri engellemeniz mi gerekiyor? Şunlar gibi odaklanmanıza
+yardımcı olacak özelliklere erişin:</value>
     <comment>Desciptions of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>{0} erişimi için lisansınızı yükseltmeniz gerekir</value>
     <comment>Title of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_ThisApp" xml:space="preserve">
-    <value>this app</value>
+    <value>bu uygulama</value>
     <comment>Placeholder text for generic app</comment>
   </data>
   <data name="Upgrade_ThisFeature" xml:space="preserve">
-    <value>this feature</value>
+    <value>bu özellik</value>
     <comment>Placeholder text for generic feature</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsButton" xml:space="preserve">
-    <value>Get access to Unlimited Accounts and more</value>
+    <value>Sınırsız Hesaplara ve daha fazlasına erişin</value>
     <comment>Button content of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsDescription" xml:space="preserve">
-    <value>Add Unlimited Accounts and manage everything from one place:</value>
+    <value>Sınırsız Hesap ekleyin ve her şeyi tek bir yerden yönetin:</value>
     <comment>Desciptions of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsTitle" xml:space="preserve">
-    <value>You will need to upgrade
-to add Unlimited Accounts</value>
+    <value>Sınırsız Hesap eklemek için
+yükseltmeniz gerekecek</value>
     <comment>Title of upgrade window unlimited accounts trigger</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanationPOP3" xml:space="preserve">
-    <value>If you remove a POP3 account, you could lose all your emails unless you have backed them up. 
+    <value>Bir POP3 hesabını kaldırırsanız, yedeklemediğiniz sürece tüm e-postalarınızı kaybedebilirsiniz.
 
-POP3 accounts download all emails from a server to a single computer (i.e your computer), either keeping them on the server or deleting them as they're downloaded, depending on the account settings.
+POP3 hesapları, tüm e-postaları bir sunucudan tek bir bilgisayara (yani bilgisayarınıza) indirir, hesap ayarlarına bağlı olarak ya sunucuda tutar ya da indirildikçe siler.
 
-To find out more about how to backup your emails, please see [link href={0}]this article[/link], or [link href={1}]contact support[/link].
+E-postalarınızı nasıl yedekleyeceğiniz hakkında daha fazla bilgi edinmek için lütfen [link href={0}]bu makaleye[/link] bakın veya [link href={1}]desteğe başvurun[/link].
 
-Are you sure you want to remove this account?</value>
+Bu hesabı kaldırmak istediğinizden emin misiniz?</value>
     <comment>Text of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Dialog_RemoveAccountPOP3" xml:space="preserve">
-    <value>Remove POP3 account?</value>
+    <value>POP3 hesabı kaldırılsın mı?</value>
     <comment>Title of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Upgrade_BilledAnnually" xml:space="preserve">
-    <value>billed annually</value>
+    <value>yıllık faturalandırılır</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_OnlyFor" xml:space="preserve">
-    <value>Only for</value>
+    <value>Sadece</value>
     <comment>Text that appears before the price on upgrade popup for personal users triggers</comment>
   </data>
   <data name="Upgrade_PerMonth" xml:space="preserve">
-    <value>per month</value>
+    <value>aylık</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_StartingFrom" xml:space="preserve">
-    <value>Starting from</value>
+    <value>Bundan başlayarak</value>
     <comment>Text that appears before the price on upgrade popup for trial/offline users triggers</comment>
   </data>
 </root>
