@@ -6225,7 +6225,9 @@ with Mailbird Pro?</comment>
     <comment>Header when user is removing a calendar</comment>
   </data>
   <data name="Dialog_RemoveCalendarExplanation" xml:space="preserve">
-    <value>Είστε σίγουρος/η πως θέλετε να καταργήσετε το "{0}";</value>
+    <value>Removing a calendar will delete it for everyone who uses it. This will also delete any events inside.
+
+Are you sure you want to remove "{0}"?</value>
     <comment>Explanation when user is removing calendar</comment>
   </data>
   <data name="App_Calendar_ValidationSelectTimeZone" xml:space="preserve">
@@ -9099,5 +9101,13 @@ Are you sure you want to remove this account?</value>
   <data name="App_Grammarly_Description" xml:space="preserve">
     <value>Compose bold, clear, mistake-free emails with Grammarly directly from Mailbird.</value>
     <comment>App description for Grammarly that will appear in app store.</comment>
+  </data>
+  <data name="Options_CancelSubscription" xml:space="preserve">
+    <value>Cancel your subscription</value>
+    <comment>Text for cancel subscription button in Options window</comment>
+  </data>
+  <data name="Welcome_SettingsFoundSubTitle_Basic_ICloud" xml:space="preserve">
+    <value>Using an iCloud account with a third-party application requires you {0}create an app-specific password{1}. Enter an app-specific password for {2}</value>
+    <comment>Message shown when adding an iCloud account, asking for an app-specific password. {0} and {1} will make the text in between a link to a page to create a password, and {2} will be replaced by the user's email address.</comment>
   </data>
 </root>
