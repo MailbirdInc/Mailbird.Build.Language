@@ -462,9 +462,9 @@ This action is irreversible.</comment>
     <comment>Could not send</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
-    <value>We're sorry, but your report could not be sent. 
-We would appreciate it, if you could contact support at {0} instead.
-Message:</value>
+    <value>Lo sentimos pero no fue posible enviar su reporte. 
+Le agradeceríamos si pudiera ponerse directamente en contacto con el soporte: {0} 
+Mensaje:</value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
@@ -494,7 +494,7 @@ Message:</comment>
     <comment>You checked the box to send a screenshot along with the report, to help us identify the cause of the issue. Please confirm.</comment>
   </data>
   <data name="Dialog_SizeLimit" xml:space="preserve">
-    <value>Límite de tamaño excedido.</value>
+    <value>Límite de tamaño excedido</value>
     <comment>Size limit exceeded</comment>
   </data>
   <data name="Dialog_SizeLimitExplanation" xml:space="preserve">
@@ -506,9 +506,9 @@ Message:</comment>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>An error occured trying to verify the connection settings. Please check that everything has been input correctly.
+    <value>Un error ocurrió al tratar de verificar la configuración de conexión. Por favor asegúrese de que todo ha sido introducido de manera correcta.
 
-Read more:
+Lea más al respecto en:
 https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
@@ -559,7 +559,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit Html</comment>
   </data>
   <data name="Editor_Picture" xml:space="preserve">
-    <value>Insert image</value>
+    <value>Insertar imagen</value>
     <comment>Insert image</comment>
   </data>
   <data name="InboxZero" xml:space="preserve">
@@ -575,7 +575,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Close</comment>
   </data>
   <data name="Dialog_Help" xml:space="preserve">
-    <value>Help</value>
+    <value>Ayuda</value>
     <comment>Help</comment>
   </data>
   <data name="Account_Create" xml:space="preserve">
@@ -587,7 +587,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit account</comment>
   </data>
   <data name="Account_Email" xml:space="preserve">
-    <value>Email:</value>
+    <value>Correo electrónico:</value>
     <comment>Email:</comment>
   </data>
   <data name="Account_Name" xml:space="preserve">
@@ -595,7 +595,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your name:</comment>
   </data>
   <data name="Account_Password" xml:space="preserve">
-    <value>Password:</value>
+    <value>Contraseña:</value>
     <comment>Password:</comment>
   </data>
   <data name="Account_WrongPassword" xml:space="preserve">
@@ -623,11 +623,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Are you sure you want to discard your draft?</comment>
   </data>
   <data name="Editor_InsertLink" xml:space="preserve">
-    <value>Insert link</value>
+    <value>Inserte el enlace</value>
     <comment>Insert link</comment>
   </data>
   <data name="Identity_Account" xml:space="preserve">
-    <value>Account:</value>
+    <value>Cuenta:</value>
     <comment>Account:</comment>
   </data>
   <data name="Identity_Add" xml:space="preserve">
@@ -651,7 +651,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Reply-to:</comment>
   </data>
   <data name="Identity_SendFromAccount" xml:space="preserve">
-    <value>Account</value>
+    <value>Cuenta</value>
     <comment>Account</comment>
   </data>
   <data name="Identity_SendFromSmtp" xml:space="preserve">
@@ -667,11 +667,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Signature:</comment>
   </data>
   <data name="Identity_SmtpPassword" xml:space="preserve">
-    <value>Password:</value>
+    <value>Contraseña:</value>
     <comment>Password:</comment>
   </data>
   <data name="Identity_SmtpPort" xml:space="preserve">
-    <value>Port:</value>
+    <value>Puerto:</value>
     <comment>Port:</comment>
   </data>
   <data name="Identity_SmtpServer" xml:space="preserve">
@@ -715,11 +715,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Previous</comment>
   </data>
   <data name="About_Copyright" xml:space="preserve">
-    <value>Copyright {0} Mailbird™. All Rights Reserved.</value>
+    <value>Copyright {0} Mailbird™. Todos los derechos reservados.</value>
     <comment>Copyright {current year} Mailbird. All Rights Reserved.</comment>
   </data>
   <data name="About_Version" xml:space="preserve">
-    <value>Version</value>
+    <value>Versión</value>
     <comment>Version</comment>
   </data>
   <data name="Conversation_Bcc" xml:space="preserve">
@@ -743,7 +743,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Always perform this check when starting Mailbird</comment>
   </data>
   <data name="Default_SetAs" xml:space="preserve">
-    <value>Set as default?</value>
+    <value>¿Establecer como predeterminado?</value>
     <comment>Set as default?</comment>
   </data>
   <data name="Default_SetAsExplanation" xml:space="preserve">
@@ -751,7 +751,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Do you want to use Mailbird as your default email client?</comment>
   </data>
   <data name="Dialog_Overwrite" xml:space="preserve">
-    <value>Overwrite existing files?</value>
+    <value>¿Desea sobrescribir los archivos existentes?</value>
     <comment>Overwrite Existing Files?</comment>
   </data>
   <data name="Dialog_OverwriteExplanation" xml:space="preserve">
@@ -867,11 +867,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>URL</comment>
   </data>
   <data name="Dialog_Email" xml:space="preserve">
-    <value>Email</value>
+    <value>Correo Electrónico</value>
     <comment>Email</comment>
   </data>
   <data name="Dialog_NameLabel" xml:space="preserve">
-    <value>Name:</value>
+    <value>Nombre:</value>
     <comment>Name:</comment>
   </data>
   <data name="EditFolderWindow_NestFolderUnderLabel" xml:space="preserve">
@@ -923,7 +923,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Apps</comment>
   </data>
   <data name="Conversation_ShowSource" xml:space="preserve">
-    <value>Message source</value>
+    <value>Origen del mensaje</value>
     <comment>Message source</comment>
   </data>
   <data name="Dialog_ReadMore" xml:space="preserve">
@@ -939,11 +939,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Find and install new apps.</comment>
   </data>
   <data name="AppStore_Off" xml:space="preserve">
-    <value>OFF</value>
+    <value>Apagado</value>
     <comment>OFF</comment>
   </data>
   <data name="AppStore_On" xml:space="preserve">
-    <value>ON</value>
+    <value>Encendido</value>
     <comment>ON</comment>
   </data>
   <data name="AppStore_SearchLabel" xml:space="preserve">
@@ -975,7 +975,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Thumbnail size:</comment>
   </data>
   <data name="App_Attachments_Title" xml:space="preserve">
-    <value>Adjuntos:</value>
+    <value>Archivos adjuntos</value>
     <comment>Attachments</comment>
   </data>
   <data name="App_Attachments_Tooltip" xml:space="preserve">
@@ -1019,11 +1019,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Search people...</comment>
   </data>
   <data name="App_Contacts_Title" xml:space="preserve">
-    <value>Contacts</value>
+    <value>Contactos</value>
     <comment>Contacts</comment>
   </data>
   <data name="App_Dropbox_Description" xml:space="preserve">
-    <value>Accede, comparte y organiza todos esos archivos sin nunca tener que abandonar el nido de Mailbird</value>
+    <value>Accede, comparte y organiza todos los archivos sin tener que abandonar el nido de Mailbird.</value>
     <comment>Access, share, and organize all those files without ever leaving the Mailbird nest.</comment>
   </data>
   <data name="App_Evernote_Description" xml:space="preserve">
@@ -1055,7 +1055,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>A place to get help from our Mailbird staff.</comment>
   </data>
   <data name="App_Support_Title" xml:space="preserve">
-    <value>Mailbird Support</value>
+    <value>Soporte de Mailbird</value>
     <comment>Support</comment>
   </data>
   <data name="Awesomium_PasteAttachment" xml:space="preserve">
@@ -1099,7 +1099,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>This license key is deactivated by the admin. Please [link href={0}]contact support[/link] to activate it.</value>
+    <value>Esta llave de licencia fue desactivada por el administrador. Por favor [link href={0}]contacte al soporte[/link] para activarla.</value>
     <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
@@ -1119,11 +1119,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your license information is listed below.</comment>
   </data>
   <data name="License_Invalid" xml:space="preserve">
-    <value>Licencia No Válida.</value>
+    <value>Licencia No Válida</value>
     <comment>Invalid License</comment>
   </data>
   <data name="License_InvalidHint" xml:space="preserve">
-    <value>Llave de Licencia No Válida.</value>
+    <value>Llave de Licencia No Válida</value>
     <comment>Invalid license key</comment>
   </data>
   <data name="License_InvalidExplanation" xml:space="preserve">
@@ -1139,7 +1139,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Please enter your license key to continue.</comment>
   </data>
   <data name="License_ValidForever" xml:space="preserve">
-    <value>Your license is valid.</value>
+    <value>Su licencia es valida.</value>
     <comment>Your license is valid forever.</comment>
   </data>
   <data name="License_ValidUntil" xml:space="preserve">
@@ -1147,7 +1147,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Your license is valid until {0}. If you haven't cancelled your subscription, it will renew automatically.</comment>
   </data>
   <data name="LinkEditor_ExampleLink" xml:space="preserve">
-    <value>http://example.com/image.jpg</value>
+    <value>http://ejemplo.com/imagen.jpg</value>
     <comment>http://example.com/image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink1" xml:space="preserve">
@@ -1155,11 +1155,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>C:\users\picture\image.jpg</comment>
   </data>
   <data name="LinkEditor_ExampleLink2" xml:space="preserve">
-    <value>email@example.com</value>
+    <value>email@ejemplo.com</value>
     <comment>email@example.com</comment>
   </data>
   <data name="LinkEditor_ExampleLink3" xml:space="preserve">
-    <value>http://example.com</value>
+    <value>http://ejemplo.com</value>
     <comment>http://example.com</comment>
   </data>
   <data name="LinkEditor_FromComputer" xml:space="preserve">
@@ -1199,11 +1199,11 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Edit</comment>
   </data>
   <data name="Link_Email" xml:space="preserve">
-    <value>Send email to:</value>
+    <value>Enviar correo a:</value>
     <comment>Send email to:</comment>
   </data>
   <data name="Link_Go" xml:space="preserve">
-    <value>Go to link:</value>
+    <value>Ir al enlace:</value>
     <comment>Go to link:</comment>
   </data>
   <data name="Link_Remove" xml:space="preserve">
@@ -1271,7 +1271,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Cancel</comment>
   </data>
   <data name="Message_Date" xml:space="preserve">
-    <value>Date</value>
+    <value>Fecha</value>
     <comment>Date</comment>
   </data>
   <data name="Message_Detail" xml:space="preserve">
@@ -6003,7 +6003,7 @@ If the issue persists contact support at {0}</value>
     <comment>Message shown when Mailbird fails to start due to a Mail.dll license issue.</comment>
   </data>
   <data name="App_GoogleCalendar_Description" xml:space="preserve">
-    <value>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</value>
+    <value>¿Tiene una cita? Agréguela, revísela, confírmela en Mailbird. Una app perfecta para los usuarios de Gmail.</value>
     <comment>Got a date? Add it, track it, confirm it in Mailbird. Great app for Gmail users.</comment>
   </data>
   <data name="WebBrowser_AddToBookmarks" xml:space="preserve">
@@ -8098,7 +8098,7 @@ Si el problema persiste, póngase en contacto con el soporte.</value>
     <comment>Message when moving conversation to trash folder but there is draft</comment>
   </data>
   <data name="Conversation_NoSubjectExplanation" xml:space="preserve">
-    <value>Esta conversación no tiene asunto.</value>
+    <value>Esta conversación carece de asunto</value>
     <comment>Tooltip when there conversation doesnt have subject</comment>
   </data>
   <data name="Dialog_TrashAndDiscardDraft" xml:space="preserve">
