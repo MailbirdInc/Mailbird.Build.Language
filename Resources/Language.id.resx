@@ -7668,12 +7668,12 @@ Saya harap Anda menyukainya.</value>
     <value>tandai sebagai spam</value>
   </data>
   <data name="ShareDiscount_Buy" xml:space="preserve">
-    <value>Beli Mailbird - DISKON {0}%</value>
+    <value>Buy Mailbird - up to {0}% OFF</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
   <data name="ShareDiscount_Purchase" xml:space="preserve">
-    <value>Beli Mailbird - DISKON {0}%</value>
+    <value>Purchase Mailbird - up to {0}% OFF</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
@@ -9108,5 +9108,11 @@ Are you sure you want to remove this account?</value>
   <data name="Welcome_SettingsFoundSubTitle_Basic_ICloud" xml:space="preserve">
     <value>Using an iCloud account with a third-party application requires you {0}create an app-specific password{1}. Enter an app-specific password for {2}</value>
     <comment>Message shown when adding an iCloud account, asking for an app-specific password. {0} and {1} will make the text in between a link to a page to create a password, and {2} will be replaced by the user's email address.</comment>
+  </data>
+  <data name="Welcome_SettingsFoundSubTitle_Basic_Zoho" xml:space="preserve">
+    <value>Enter the password used to log in to {0}
+
+If two-factor authentication is enabled for your Zoho account then {1}an app-specific password{2} is required instead of your normal password.</value>
+    <comment>Message shown when adding a Zoho account, saying an app-specific password may be required. {1} and {2} will make the text in between a link to a page to create a password, and {0} will be replaced by the user's email address.</comment>
   </data>
 </root>
