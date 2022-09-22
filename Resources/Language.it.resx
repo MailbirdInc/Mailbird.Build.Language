@@ -9114,4 +9114,12 @@ Sei sicuro di voler rimuovere questo account?</value>
 Se l'autenticazione a due fattori è abilitata sul tuo account Zoho, allora {1}è richiesta una password specifica per l'app{2} invece della password normale.</value>
     <comment>Message shown when adding a Zoho account, saying an app-specific password may be required. {1} and {2} will make the text in between a link to a page to create a password, and {0} will be replaced by the user's email address.</comment>
   </data>
+  <data name="Dialog_GrammarlyConnectedAccountsError_Description" xml:space="preserve">
+    <value>Please make sure there is only one compose window opened while connecting Grammarly acount.</value>
+    <comment>Message shown when there are more then one compose window opened while connecting Grammarly account</comment>
+  </data>
+  <data name="Dialog_GrammarlyConnectedAccountsError_Title" xml:space="preserve">
+    <value>Too many compose windows opened</value>
+    <comment>Message shown when there are more then one compose window opened while connecting Grammarly account</comment>
+  </data>
 </root>
