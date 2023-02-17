@@ -462,9 +462,9 @@ This action is irreversible.</comment>
     <comment>Could not send</comment>
   </data>
   <data name="Dialog_ReportCantSendExplanation" xml:space="preserve">
-    <value>We're sorry, but your report could not be sent. 
-We would appreciate it, if you could contact support at {0} instead.
-Message:</value>
+    <value>К сожалению, ваше сообщение об ошибке не может быть отправлено.
+Было бы отлично, если бы вы связались с нашей техподдержкой.
+Сообщение:</value>
     <comment>We're sorry, but your report could not be sent. 
 We would appreciate it, if you could email it directly to {0} instead.
 Message:</comment>
@@ -1099,7 +1099,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>We detected incorrect date on your PC. Please correct your computer date time setting and press OK/Continue to proceed.</comment>
   </data>
   <data name="License_DeactivatedExplanation" xml:space="preserve">
-    <value>This license key is deactivated by the admin. Please [link href={0}]contact support[/link] to activate it.</value>
+    <value>Лицензионный ключ деактивирован админом. Пожалуйста [link href={0}]свяжитесь с поддержкой [/link] чтобы активировать его.</value>
     <comment>This license key is deactivated by the admin. Please contact support@getmailbird.com to activate it.</comment>
   </data>
   <data name="License_Expired" xml:space="preserve">
@@ -3628,7 +3628,7 @@ You can disable the unified account from the options, or edit each of your accou
     <comment>It is not possible to add the file '{0}' as attachment because you are not authorized to access it, please check your user rights and try again.</comment>
   </data>
   <data name="InboxZero_StatusUpdate" xml:space="preserve">
-    <value>Your BEST email, communication &amp; productivity suite made for Windows via Mailbird</value>
+    <value>Ваше ЛУЧШЕЕ решение для почты, связи и продуктивности для Windows от Mailbird</value>
     <comment>Your BEST email, communication &amp; productivity suite made for Windows via @mailbird (NOTE: this shouldn't exceed 140 chars)</comment>
   </data>
   <data name="Twitter_Pin" xml:space="preserve">
@@ -3710,7 +3710,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Loading...</comment>
   </data>
   <data name="RateRecommend_TwitterMessage" xml:space="preserve">
-    <value>Getting addicted to #InboxZero with Mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</value>
+    <value>Привыкайте к  #InboxZero с Mailbird. Мне очень нравится этот email клиент для #Windows http://getmailbird.com/</value>
     <comment>Getting addicted to #InboxZero with @mailbird. I love this beautiful email client for #Windows http://getmailbird.com/</comment>
   </data>
   <data name="Options_AddRecipientToContacts" xml:space="preserve">
@@ -4406,7 +4406,7 @@ Please select another image to use as a background.</comment>
     <comment>POPULAR</comment>
   </data>
   <data name="UpgradeToPro_Title" xml:space="preserve">
-    <value>Get your Mailbird license now!</value>
+    <value>Приобретите свою лицензию Mailbird!</value>
     <comment>Upgrade now to Mailbird PRO</comment>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
@@ -4587,7 +4587,7 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>Get 1 month of Mailbird Pro for free, download here: {0}</value>
+    <value>Получите 1 Месяц Mailbird бесплатно, скачать здесь: {0}</value>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
@@ -5704,7 +5704,7 @@ with Mailbird Pro?</comment>
     <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationContactUs" xml:space="preserve">
-    <value>For any assistance, please [link href={0}]contact support[/link].</value>
+    <value>Для поддержки [link href={0}]напишите нам[/link].</value>
     <comment>Footer in upgrade notification window</comment>
   </data>
   <data name="UpgradeNotification_Content" xml:space="preserve">
@@ -6224,9 +6224,9 @@ with Mailbird Pro?</comment>
     <comment>Header when user is removing a calendar</comment>
   </data>
   <data name="Dialog_RemoveCalendarExplanation" xml:space="preserve">
-    <value>Removing a calendar will delete it for everyone who uses it. This will also delete any events inside.
+    <value>Если вы удаляете календарь, он также удалится для всех кто его использует. Все события будут также удалены.
 
-Are you sure you want to remove "{0}"?</value>
+Вы уверены что хотите удалить "{0}"?</value>
     <comment>Explanation when user is removing calendar</comment>
   </data>
   <data name="App_Calendar_ValidationSelectTimeZone" xml:space="preserve">
@@ -7395,7 +7395,7 @@ NB {0} will be replaced with the amount of discount</comment>
     <comment>Text to explain the payment is one time.</comment>
   </data>
   <data name="Upgrade_ChooseVersionAndPlan" xml:space="preserve">
-    <value>Choose your preferred Mailbird product and payment plan below.</value>
+    <value>Выберите план Mailbird который подходит вам.</value>
     <comment>Generic type message on the buy Mailbird window to explain how to proceed.</comment>
   </data>
   <data name="App_GoogleDrive_Description" xml:space="preserve">
@@ -7668,12 +7668,12 @@ NB {0} will be replaced with the amount of discount</comment>
     <value>пометить как спам</value>
   </data>
   <data name="ShareDiscount_Buy" xml:space="preserve">
-    <value>Buy Mailbird - up to {0}% OFF</value>
+    <value>Купить Mailbird - до {0}% OFF</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
   <data name="ShareDiscount_Purchase" xml:space="preserve">
-    <value>Purchase Mailbird - up to {0}% OFF</value>
+    <value>Приобретите Mailbird - до {0}% OFF</value>
     <comment>Button to purchase Mailbird license, 
 NB {0} will be replaced with the amount of discount. Please also keep it short, no longer than the source text</comment>
   </data>
@@ -7750,16 +7750,16 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Mailbird Alpha</comment>
   </data>
   <data name="Options_MailbirdAlphaDescription" xml:space="preserve">
-    <value>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
+    <value>Если вы хотите попробовать самые последние обновления Mailbird и поучаствовать в его создании как инфлюенсер, то мы приглашаем вас стать Alpha тестером.
 
-The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features and you can join our dedicated user community called The Mailbird Influencers on Facebook. 
+Версия Mailbird Alpha устанавливается отдельно, так что вы сможете использовать обычную версию когда хотите, но Alpha получает обновления и новые функции быстрее. Вы также можете вступить в наше сообщество инфлюенсеров Mailbird на Фейсбуке.
 
-- Connect with like-minded individuals 
-- Access exclusive Mailbird gifts, deals, and offers 
-- Find inspiration, gain tips, insights, and productivity hacks
-- Help us understand you better to shape your Mailbird
+- Свяжитесь с единомышленниками
+- Получите доступ к акциям и предложениям
+- Найдите вдохновение, соберите подсказки и лайфхаки продуктивности
+- Помогите нам сделать Mailbird самым лучшим для вас.
 
-Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</value>
+Примите к сведению, что это это версия Mailbird "в разработке" поэтому могут возникнуть небольшие проблемы, но в этом случае мы можем устранить их намного быстрее. И вы всегда можете переключиться обратно на обычную версию, до тех пор как проблема будет устранена.</value>
     <comment>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
 
 The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
@@ -8159,7 +8159,7 @@ Note that since this is the "in development" version of Mailbird, issues may occ
     <comment>Title in upgrade to pro window</comment>
   </data>
   <data name="Upgrade_EmailTracking" xml:space="preserve">
-    <value>You'll need to upgrade to use unlimited Email Tracking.</value>
+    <value>Вам нужен апгрейд вашей лицензии чтобы использовать безлимитные оповещения о доставке.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Attachment_SaveAttachment" xml:space="preserve">
@@ -8229,7 +8229,7 @@ Note that since this is the "in development" version of Mailbird, issues may occ
     <comment>Header to show counter of how many tracking sent</comment>
   </data>
   <data name="EmailTracking_LimitedTrackingExplanation" xml:space="preserve">
-    <value>Tracking individual recipients is not supported. [link href={0}]Learn more[/link]</value>
+    <value>Отслеживание отдельных получателей не поддерживается. [link href={0}]Узнать больше[/link]</value>
     <comment>Explanation when email tracking is not fully supported</comment>
   </data>
   <data name="EmailTracking_UnknownRecipient" xml:space="preserve">
@@ -8287,11 +8287,11 @@ Note that since this is the "in development" version of Mailbird, issues may occ
     <comment>Button to close the announcement window</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradeExplanation" xml:space="preserve">
-    <value>As of today you will no longer be able to access the following features for free:  [bold]Advanced Search[/bold], [bold]Unsubscribe button[/bold], [bold]Send Later[/bold], and [bold]Email Tracking[/bold].
+    <value>С сегодняшнего дня у вас больше не будет бесплатного доступа к следующим функциям  [bold]Расширенный поиск[/bold], [bold]Кнопка отписки[/bold], [bold]Отложенная отправка[/bold], and [bold]Уведомления о доставке[/bold].
 
-You have the following options to continue:
-1. Upgrade to Mailbird Personal or Mailbird Business and get 50% off
-2. Use Mailbird Lite as it was before the 12-week sprint.</value>
+У вас есть следущие опции:
+1. Апгрейд до Mailbird Personal или Business 50% cкидка
+2. Использовать Mailbird Lite.</value>
     <comment>Body for announcement window for lite user</comment>
   </data>
   <data name="Announcement_LiteSprintUpgradePurchase" xml:space="preserve">
@@ -8513,7 +8513,7 @@ You have the following options to continue:
     <comment>Disclaimer for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationTrial" xml:space="preserve">
-    <value>Spin for up to 99% off Mailbird Home or Business Pay Once.</value>
+    <value>Покрутите чтобы получить скидку до 99%.</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFGenerate" xml:space="preserve">
@@ -8765,57 +8765,57 @@ opened Subject</comment>
 {0} will be replaced by "Mailbird"</comment>
   </data>
   <data name="Welcome_HelpFillSettings" xml:space="preserve">
-    <value>How do I fill this?</value>
+    <value>Как я могу это заполнить?</value>
     <comment>Button label to get help on how to fill the settings</comment>
   </data>
   <data name="Search_Clear" xml:space="preserve">
-    <value>Clear search</value>
+    <value>Очистить поиск</value>
     <comment>Label to clear search query</comment>
   </data>
   <data name="AdvancedSearch_MailSpamTrash" xml:space="preserve">
-    <value>Mail &amp; Spam &amp; Trash</value>
+    <value>Почта &amp;  Спам &amp; Корзина</value>
     <comment>Item to search in Mail, Spam, and Trash folders</comment>
   </data>
   <data name="Limit_Body" xml:space="preserve">
-    <value>Your Mailbird license is already registered on another device.
+    <value>Ваш лицензионный ключ Mailbird уже зарегистрирован на другом устройстве.
 
-If you would like to use Mailbird on this device instead, please confirm below to change the registration.</value>
+Если вы хотите использовать Mailbird на этом устройстве, подтвердите изменения далее.</value>
     <comment>Body when device usage is more than limit and limit is 1</comment>
   </data>
   <data name="Limit_BodyPlural" xml:space="preserve">
-    <value>If you would like to use Mailbird on this device, please confirm below to change the registration from your least recently used device to this.</value>
+    <value>Если вы хотите использовать Mailbird на этом устройстве, подвердите смену регистрации с предыдущего устройства на это.</value>
     <comment>Body when device usage is more than limit</comment>
   </data>
   <data name="Limit_Footer" xml:space="preserve">
-    <value>Would you like to use Mailbird on more devices?</value>
+    <value>Вы хотите использовать Mailbird на большем количестве устройств?</value>
     <comment>Footer text on the device limit window</comment>
   </data>
   <data name="Limit_Header" xml:space="preserve">
-    <value>You have reached your [bold]{0}-device[/bold] license limit</value>
+    <value>Вы достигли [bold]{0}-устройств [/bold] лимит лицензионного ключа</value>
     <comment>Header on device limit window</comment>
   </data>
   <data name="Limit_Purchase" xml:space="preserve">
-    <value>Get another license [bold]{0}% OFF[/bold]</value>
+    <value>Приобрести еще одну лицензию [bold]{0}% OFF[/bold]</value>
     <comment>Button to purchase license</comment>
   </data>
   <data name="Limit_Register" xml:space="preserve">
-    <value>Register this device</value>
+    <value>Зарегистрировать это устройство</value>
     <comment>Button to register device</comment>
   </data>
   <data name="Limit_Warning" xml:space="preserve">
-    <value>I understand I will not be able to continue using Mailbird on the other device.</value>
+    <value>Я понимаю, что я не смогу продолжить использовать Mailbird на этом устройстве</value>
     <comment>Warning text on device limit window</comment>
   </data>
   <data name="License_DeviceLimitHint" xml:space="preserve">
-    <value>This license key has reached its device limit.
+    <value>Вы достигли лимит количества устройств для вашего лицензионного ключа.
 
-Please enter another license key, or continue with the activation to change the registration to this device.</value>
+Введите другой лицензионный ключ  или продолжите активацию со сменой регистрации устройства</value>
     <comment>This license key has reached its device limit.
 
 Please enter another license key, or continue with the activation to change the registration to this device.</comment>
   </data>
   <data name="UpgradeToPro_Paid2YearPlan" xml:space="preserve">
-    <value>(billed every 2 years)</value>
+    <value>(оплата каждые 2 года)</value>
     <comment>Text to explain the payment is every 2 years.</comment>
   </data>
   <data name="Welcome_AuthenticationType_AOLOAuth2" xml:space="preserve">
@@ -8823,153 +8823,153 @@ Please enter another license key, or continue with the activation to change the 
     <comment>Shown in edit server settings window under authentication field</comment>
   </data>
   <data name="ETAddOn_Benefit1" xml:space="preserve">
-    <value>Email Tracking for all your emails</value>
+    <value>Отслеживание доставки для всех ваших писем</value>
     <comment>Email tracking feature benefit: ability to have unlimited number of email tracking</comment>
   </data>
   <data name="ETAddOn_Benefit2" xml:space="preserve">
-    <value>Email Tracking opens notifications</value>
+    <value>Оповещения о доставке</value>
     <comment>Email tracking feature benefit: get notifications when an email is opened</comment>
   </data>
   <data name="ETAddOn_Benefit3" xml:space="preserve">
-    <value>Email Tracking Notification Center</value>
+    <value>Центр оповещений о доставке писем</value>
     <comment>Email tracking feature benefit: see list of opened email in notification center</comment>
   </data>
   <data name="ETAddOn_Header" xml:space="preserve">
-    <value>You have reached your monthly Email Tracking limit</value>
+    <value>Вы достигли свой месячный лимит оповещений о доставке</value>
     <comment>Header for popup to offer Email Tracking add on upgrade</comment>
   </data>
   <data name="ETAddOn_Pricing" xml:space="preserve">
-    <value>For only $20/year</value>
+    <value>Всего $20/год</value>
     <comment>Email tracking add on pricing</comment>
   </data>
   <data name="ETAddOn_Purchase" xml:space="preserve">
-    <value>Get unlimited Email Tracking access</value>
+    <value>Получите безлимитный доступ к оповещениям о доставке</value>
     <comment>Label for purchase button</comment>
   </data>
   <data name="ETAddOn_SubHeader" xml:space="preserve">
-    <value>Would you like to continue using Email Tracking?
-You can now get access to the unlimited Email Tracking feature, including:</value>
+    <value>Вы хотите продолжить пользоваться  оповещениями о доставке?
+Сейчас вы можете получить безлимитный доступ к этой функции, включая:</value>
     <comment>Subheader for popup to offer Email Tracking add on upgrade</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Blocked" xml:space="preserve">
-    <value>Blocked</value>
+    <value>Заблокировано</value>
     <comment>Name of blocked contacts system group.</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Chat" xml:space="preserve">
-    <value>Chat buddies</value>
+    <value>Друзья</value>
     <comment>Name of chat buddies system group.</comment>
   </data>
   <data name="Contacts_CantAddContact" xml:space="preserve">
-    <value>Contacts can be removed, but not added to this group, due to limitations by the contact provider.</value>
+    <value>Контакты могут быть удалены, но не добавлены в эту группу из-за системных ограничений</value>
     <comment>Explanation when certain groups cant add new member due to some limitations</comment>
   </data>
   <data name="Upgrade_AdvancedSearchFeatureName" xml:space="preserve">
-    <value>Advanced Search</value>
+    <value>Расширенный поиск</value>
   </data>
   <data name="Upgrade_EmailTrackingFeatureName" xml:space="preserve">
-    <value>Email Tracking</value>
+    <value>Оповещения о доставке</value>
     <comment>Name of the feature displayed on upgrade window for lite users when trying to access Email Tracking feature</comment>
   </data>
   <data name="Upgrade_LinkedinLookupFeatureName" xml:space="preserve">
-    <value>LinkedIn Lookup</value>
+    <value>Поиск в LinkedIn</value>
   </data>
   <data name="Upgrade_SendLaterFeatureName" xml:space="preserve">
-    <value>Send Later</value>
+    <value>Отложенная отправка</value>
   </data>
   <data name="Upgrade_UnsubscribeButtonFeatureName" xml:space="preserve">
-    <value>Unsubscribe Button</value>
+    <value>Кнопка отписки</value>
   </data>
   <data name="Upgrade_AppsButton" xml:space="preserve">
-    <value>Get {0} and more</value>
+    <value>Получите {0} и больше</value>
     <comment>Button content of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsDescription" xml:space="preserve">
-    <value>Want to build your personal productivity dashboard?
-Gain acces to this, and other apps with a Mailbird license.</value>
+    <value>Хотите получить доступ к персональной панели продуктивности?
+Получите доступ к этой и многим другим приложениям с Mailbird</value>
     <comment>Desciptions of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>Вам нужна лицензия уровнем выше, чтобы получить доступ к {0}</value>
     <comment>Title of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_BenefitAdvancedSearch" xml:space="preserve">
-    <value>Advanced Search to find what you need fast</value>
+    <value>Расширенный поиск, чтобы быстро находить то, что вам нужно</value>
     <comment>Benefit of advanced search presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitApps" xml:space="preserve">
-    <value>35+ app integrations to help your productivity and communication</value>
+    <value>35+ интегрированных приложений для вашей продуктивности и коммуникации</value>
     <comment>Benefit of apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitBusinessApps" xml:space="preserve">
-    <value>Business apps like Asana, Slack, Trello, and more</value>
+    <value>Бизнес приложения такие как Asana, Slack, Trello, и другие</value>
     <comment>Benefit of business apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTracking" xml:space="preserve">
-    <value>Email Tracking for all your emails</value>
+    <value>Оповещения о доставке для всех ваших писем</value>
     <comment>Benefit of email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotificationCenter" xml:space="preserve">
-    <value>Email Tracking Notification Center</value>
+    <value>Центр оповещений о доставке</value>
     <comment>Benefit of email tracking notification center presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotifications" xml:space="preserve">
-    <value>Email Tracking opens notifications</value>
+    <value>Оповещения о доставке и открытых письмах</value>
     <comment>Benefit of email tracking open notifications presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitPrioritySupport" xml:space="preserve">
-    <value>Priority Support whenever you have an issue or question</value>
+    <value>Приоритетная поддержка если у вас есть вопросы</value>
     <comment>Benefit of priority support presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSentLater" xml:space="preserve">
-    <value>Send Later so emails send themselves</value>
+    <value>Отложенная отправка, письма отправят сами себя</value>
     <comment>Benefit of send later presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSignatures" xml:space="preserve">
-    <value>Multiple signatures and identities</value>
+    <value>Множественные подписи и профили</value>
     <comment>Benefit of signatures presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnifiedInbox" xml:space="preserve">
-    <value>A Unified Inbox to streamline your inbox management</value>
+    <value>Единый аккаунт чтобы упростить вашу работу с почтой</value>
     <comment>Benefit of unified account presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedAccounts" xml:space="preserve">
-    <value>Unlimited accounts so you never miss an email</value>
+    <value>Безлимитные аккаунты, вы никогда не  будете пропускать письма</value>
     <comment>Benefit of unlimited accounts presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedEmailTracking" xml:space="preserve">
-    <value>Unlimited Email Tracking for all your emails</value>
+    <value>Безлимитные оповещения о доставке для всех ваших писем</value>
     <comment>Benefit of unlimited email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnsubscribeButton" xml:space="preserve">
-    <value>Unsubscribe Button to stop getting unwanted newsletters</value>
+    <value>Кнопка отписки чтобы удалить нежелательные рассылки</value>
     <comment>Benefit of unsubscribe button presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BusinessAppsButton" xml:space="preserve">
-    <value>Get access to business apps and more</value>
+    <value>Получите доступ к бизнес-приложениям и многому другому</value>
     <comment>Button content of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Упростите вашу работу с Mailbird Business.  Повысите уровень вашего аккаунты чтобы получить доступ к:</value>
     <comment>Description of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business to enable {0}</value>
+    <value>Вам нужна подписка на Mailbird Business чтобы активировать {0}</value>
     <comment>Title of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>Получите доступ к {0} и другим функциям</value>
     <comment>Button content of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Упростите работу с Mailbird Business. Повысьте уровень своего аккаунта чтобы получить доступ к:</value>
     <comment>Description of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericTitle" xml:space="preserve">
-    <value>Get access to {0} and much more</value>
+    <value>Получите доступ к {0} and другим функциям</value>
     <comment>Title of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingButton" xml:space="preserve">
-    <value>Get unlimited Email Tracking and more</value>
+    <value>Получите безлимитные оповещения о доставке и многое другое</value>
     <comment>Button content of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingDescription" xml:space="preserve">
@@ -8977,156 +8977,153 @@ Gain acces to this, and other apps with a Mailbird license.</value>
     <comment>Description of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingTitle" xml:space="preserve">
-    <value>You've reached your 
-monthly Email Tracking limit</value>
+    <value>Вы достигли лимит оповещений о доставке на месяц</value>
     <comment>Title of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_ExchangeButton" xml:space="preserve">
-    <value>Get access to MS Exchange and more</value>
+    <value>Получите доступ к MS Exchange и другим функциям</value>
     <comment>Button content of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeDescription" xml:space="preserve">
-    <value>Are you looking to use an Exchange account? Upgrade to
-Mailbird Business and you can. You'll also get access to:</value>
+    <value>Вы хотите использовать аккаунт Exchange? Сделайте апгрейд до Mailbird Business чтобы это сделать.
+Вы также получите доступ к:</value>
     <comment>Description of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business
-to use an Exchange account</value>
+    <value>Вам нужна лицензия Mailbird Business чтобы использовать Exchange аккаунт</value>
     <comment>Title of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_GenericButton" xml:space="preserve">
-    <value>Simplify your email management</value>
+    <value>Упростите вашу работу с почтой</value>
     <comment>Button content of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericDescription" xml:space="preserve">
-    <value>Want to cut inbox clutter and make managing your accounts a breeze?
-Purchase a Mailbird licence to get access to:</value>
+    <value>Хотите расчистить завал во входящих письмах и упростить работу с аккаунтами?
+Приобретите лицензию Mailbird и получите доступ к:</value>
     <comment>Description of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericTitle" xml:space="preserve">
-    <value>Stay on top of your emails</value>
+    <value>Будьте на вершине своих email</value>
     <comment>Title of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_OfflineDescription" xml:space="preserve">
-    <value>Are you looking for an app that makes managing all your accounts a breeze? Purchase a Mailbird licence and get access to:</value>
+    <value>Вы ищете программу, которая делает работу с почтой супер легкой? Приобретите лицензию Mailbird и получите доступ к:</value>
     <comment>Desciptions of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_OfflineTitle" xml:space="preserve">
-    <value>Your Mailbird account
-has gone offline</value>
+    <value>Ваш аккаунт Mailbird теперь offline</value>
     <comment>Title of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewButton" xml:space="preserve">
-    <value>Get access to Quick Preview and more</value>
+    <value>Получите доступ к Quick Preview и многому другому</value>
     <comment>Button content of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewDescription" xml:space="preserve">
-    <value>Find what you need faster with Quick Preview. Get access to it and other
-useful features like:</value>
+    <value>Находите все что вам нужно быстрее с функцией Quick Preview. Получите доступ к ней и к другим
+полезным функциям таким как:</value>
     <comment>Descriptionof upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewTitle" xml:space="preserve">
-    <value>The Quick Preview feature
-is not available</value>
+    <value>Функция Quick Preview
+не доступна</value>
     <comment>Title of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_SprintButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>Получите доступ к {0} и больше</value>
     <comment>Button content of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintDescription" xml:space="preserve">
-    <value>Do you need to block out distractions? Get access to features that
-help you focus like:</value>
+    <value>Вы хотели бы не отвлекаться от главного? Получите доступ к функциям которые
+помогают вам сфокусироваться, как:</value>
     <comment>Desciptions of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>Вы должны сделать апгрейд лицензии чтобы получить доступ к {0}</value>
     <comment>Title of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_ThisApp" xml:space="preserve">
-    <value>this app</value>
+    <value>это приложение</value>
     <comment>Placeholder text for generic app</comment>
   </data>
   <data name="Upgrade_ThisFeature" xml:space="preserve">
-    <value>this feature</value>
+    <value>эта функция</value>
     <comment>Placeholder text for generic feature</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsButton" xml:space="preserve">
-    <value>Get access to Unlimited Accounts and more</value>
+    <value>Получите доступ к Безлимитным Аккаунтам и многому другому</value>
     <comment>Button content of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsDescription" xml:space="preserve">
-    <value>Add Unlimited Accounts and manage everything from one place:</value>
+    <value>Добавляйте Безлимитные Аккаунты и управляйте всем из одной панели</value>
     <comment>Desciptions of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsTitle" xml:space="preserve">
-    <value>You will need to upgrade
-to add Unlimited Accounts</value>
+    <value>Вам нужно сделать апгрейд лицензии 
+чтобы добавлять безлимитные аккаунты</value>
     <comment>Title of upgrade window unlimited accounts trigger</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanationPOP3" xml:space="preserve">
-    <value>If you remove a POP3 account, you could lose all your emails unless you have backed them up. 
+    <value>Если вы удалите POP3 аккаунт, вы можете потерять все свои письма, если не сделаете бэкап.
 
-POP3 accounts download all emails from a server to a single computer (i.e your computer), either keeping them on the server or deleting them as they're downloaded, depending on the account settings.
+Аккаунты POP3 скачивают почту с сервера на ваш компьютер. Они могут оставлять копии писем на сервере, или удалять их с сервера, в зависимости от настроек.
 
-To find out more about how to backup your emails, please see [link href={0}]this article[/link], or [link href={1}]contact support[/link].
+Чтобы узнать как сделать бэкап вашей почты, прочитайте [link href={0}]эту статью[/link], или  [link href={1}]свяжитесь с поддержкой[/link].
 
-Are you sure you want to remove this account?</value>
+Вы уверены, что хотите удалить этот аккаунт?</value>
     <comment>Text of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Dialog_RemoveAccountPOP3" xml:space="preserve">
-    <value>Remove POP3 account?</value>
+    <value>Удалить POP3 аккаунт?</value>
     <comment>Title of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Upgrade_BilledAnnually" xml:space="preserve">
-    <value>billed annually</value>
+    <value>оплата каждый год</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_OnlyFor" xml:space="preserve">
-    <value>Only for</value>
+    <value>Только для</value>
     <comment>Text that appears before the price on upgrade popup for personal users triggers</comment>
   </data>
   <data name="Upgrade_PerMonth" xml:space="preserve">
-    <value>per month</value>
+    <value>в месяц</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_StartingFrom" xml:space="preserve">
-    <value>Starting from</value>
+    <value>Начиная от</value>
     <comment>Text that appears before the price on upgrade popup for trial/offline users triggers</comment>
   </data>
   <data name="App_Grammarly_Description" xml:space="preserve">
-    <value>Compose bold, clear, mistake-free emails with Grammarly directly from Mailbird.</value>
+    <value>Пишите четкие и грамотные письма с Grammarly прямо из Mailbird</value>
     <comment>App description for Grammarly that will appear in app store.</comment>
   </data>
   <data name="Options_CancelSubscription" xml:space="preserve">
-    <value>Cancel your subscription</value>
+    <value>Отменить вашу подписку</value>
     <comment>Text for cancel subscription button in Options window</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_ICloud" xml:space="preserve">
-    <value>Using an iCloud account with a third-party application requires you {0}create an app-specific password{1}. Enter an app-specific password for {2}</value>
+    <value>Для того чтобы использовать iCloud аккаунт со сторонними приложениями, вам надо {0} создать пароль для приложений {1}. Введите пароль для приложений {2}</value>
     <comment>Message shown when adding an iCloud account, asking for an app-specific password. {0} and {1} will make the text in between a link to a page to create a password, and {2} will be replaced by the user's email address.</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_Zoho" xml:space="preserve">
-    <value>Enter the password used to log in to {0}
+    <value>Введите пароль который вы использовали для логина {0}
 
-If two-factor authentication is enabled for your Zoho account then {1}an app-specific password{2} is required instead of your normal password.</value>
+Если двухэтапная авторизация включена для вашего Zoho аккаунта, тогда  {1}пароль для приложений{2} требуется вместо вашего обычного пароля.</value>
     <comment>Message shown when adding a Zoho account, saying an app-specific password may be required. {1} and {2} will make the text in between a link to a page to create a password, and {0} will be replaced by the user's email address.</comment>
   </data>
   <data name="Dialog_GrammarlyConnectedAccountsError_Description" xml:space="preserve">
-    <value>Please make sure there is only one compose window opened while connecting Grammarly acount.</value>
+    <value>Пожалуйста убедитесь в том что у вас открыто только одно окно написания письма, когда вы подключаете Grammarly</value>
     <comment>Message shown when there are more then one compose window opened while connecting Grammarly account</comment>
   </data>
   <data name="Dialog_GrammarlyConnectedAccountsError_Title" xml:space="preserve">
-    <value>Too many compose windows opened</value>
+    <value>Открыто слишком много окон новых писем</value>
     <comment>Message shown when there are more then one compose window opened while connecting Grammarly account</comment>
   </data>
   <data name="Announcement_BFCloseWindow" xml:space="preserve">
-    <value>Close Window</value>
+    <value>Закрыть окно</value>
     <comment>Button to close announcement window</comment>
   </data>
   <data name="Announcement_CMDisclaimer" xml:space="preserve">
-    <value>* The discount code is valid until 30 November 2022. By activating the discount generator you agree for Mailbird to send you the discount code via email.</value>
+    <value>* Купон на скидку действителее до 30 ноября 2022. Активируя генератор скидок, вы согласны с тем что вы получите ваш купон на скидку по email*</value>
     <comment>Disclaimer for cyber monday promo</comment>
   </data>
 </root>
