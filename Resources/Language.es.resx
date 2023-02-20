@@ -6132,27 +6132,27 @@ Esto deshabilitará la sincronización del calendario de Mailbird.</value>
     <comment>Option to show or hide week numbers</comment>
   </data>
   <data name="App_Calendar_Settings_StartWeekOn" xml:space="preserve">
-    <value>Start week on</value>
+    <value>Empieza la semana en</value>
     <comment>Option to set first day of week</comment>
   </data>
   <data name="App_Calendar_Settings_ViewOptions" xml:space="preserve">
-    <value>View options</value>
+    <value>Ver opciones</value>
     <comment>Section in calendar settings window for views related settings</comment>
   </data>
   <data name="App_Calendar_EventCreatedBy" xml:space="preserve">
-    <value>Created by: {0}</value>
+    <value>Creado por: {0}</value>
     <comment>Label to show the creator of an event, {0} will be replaced by the name</comment>
   </data>
   <data name="App_Calendar_GuestPlural" xml:space="preserve">
-    <value>{0} guests</value>
+    <value>{0} invitados</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is more than 1</comment>
   </data>
   <data name="App_Calendar_GuestSingular" xml:space="preserve">
-    <value>{0} guest</value>
+    <value>{0} invitado</value>
     <comment>Label to show number of guest on an event, it is used when the number of guest is only 1</comment>
   </data>
   <data name="App_Calendar_ResponseMaybe" xml:space="preserve">
-    <value>{0} maybe</value>
+    <value>{0} tal vez</value>
     <comment>Number of maybe response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseNo" xml:space="preserve">
@@ -6160,59 +6160,59 @@ Esto deshabilitará la sincronización del calendario de Mailbird.</value>
     <comment>Number of no response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseUnknown" xml:space="preserve">
-    <value>{0} unknown</value>
+    <value>{0} desconocido</value>
     <comment>Number of unknown response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseWaiting" xml:space="preserve">
-    <value>{0} awaiting</value>
+    <value>{0} esperando</value>
     <comment>Number of waiting for response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ResponseYes" xml:space="preserve">
-    <value>{0} yes</value>
+    <value>{0} sí</value>
     <comment>Number of yes response from event's attendants</comment>
   </data>
   <data name="App_Calendar_ValidationEmpty" xml:space="preserve">
-    <value>Field cannot be empty</value>
+    <value>El campo no puede estar vacío</value>
     <comment>Erro message when field can't be empty</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Descripción</value>
     <comment>Field label for calendar's description</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Header" xml:space="preserve">
-    <value>Calendar settings</value>
+    <value>Configuración del calendario</value>
     <comment>Header when editing calendar's settings</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Nombre</value>
     <comment>Field label for calendar's name</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_NewCalendar" xml:space="preserve">
-    <value>New calendar</value>
+    <value>Nuevo calendario</value>
     <comment>Header when creating new calendar</comment>
   </data>
   <data name="App_Calendar_CalendarSettings_SavingCalendar" xml:space="preserve">
-    <value>Saving calendar</value>
+    <value>Guardar calendario</value>
     <comment>Message when saving calendar</comment>
   </data>
   <data name="App_Calendar_NoCalendars" xml:space="preserve">
-    <value>No calendars</value>
+    <value>Sin calendarios</value>
     <comment>Label when there is no calendars in an account</comment>
   </data>
   <data name="App_Calendar_Settings_Accounts" xml:space="preserve">
-    <value>Accounts</value>
+    <value>Cuentas</value>
     <comment>Label to settings in accounts section</comment>
   </data>
   <data name="App_Calendar_Settings_Calendars" xml:space="preserve">
-    <value>Calendars</value>
+    <value>Calendarios</value>
     <comment>Label to settings in calendars section</comment>
   </data>
   <data name="App_Calendar_Settings_ChooseAccount" xml:space="preserve">
-    <value>Choose account</value>
+    <value>Elegir cuenta</value>
     <comment>Label to choose account to edit</comment>
   </data>
   <data name="App_Calendar_Settings_EditCalendars" xml:space="preserve">
-    <value>Edit calendars</value>
+    <value>Editar calendarios</value>
     <comment>Header to settings section related to account's calendars</comment>
   </data>
   <data name="App_Calendar_Settings_General" xml:space="preserve">
@@ -6220,21 +6220,21 @@ Esto deshabilitará la sincronización del calendario de Mailbird.</value>
     <comment>Label to settings in general section</comment>
   </data>
   <data name="Dialog_RemoveCalendar" xml:space="preserve">
-    <value>Remove calendar?</value>
+    <value>¿Quitar calendario?</value>
     <comment>Header when user is removing a calendar</comment>
   </data>
   <data name="Dialog_RemoveCalendarExplanation" xml:space="preserve">
-    <value>Removing a calendar will delete it for everyone who uses it. This will also delete any events inside.
+    <value>Eliminar un calendario lo eliminará para todos los que lo usen. Esto también eliminará cualquier evento dentro.
 
-Are you sure you want to remove "{0}"?</value>
+¿Está seguro de que desea eliminar '{0}'?</value>
     <comment>Explanation when user is removing calendar</comment>
   </data>
   <data name="App_Calendar_ValidationSelectTimeZone" xml:space="preserve">
-    <value>Please select a time zone</value>
+    <value>Seleccione una zona horaria</value>
     <comment>Error message when user doesn't select any timezone on a calendar</comment>
   </data>
   <data name="App_Calendar_AddCalendar" xml:space="preserve">
-    <value>Add calendar</value>
+    <value>Agregar calendario</value>
     <comment>Tooltip for button to add calendar</comment>
   </data>
   <data name="App_Calendar_Details_Delete" xml:space="preserve">
@@ -6642,59 +6642,59 @@ e.g. "2 occurrences"</comment>
     <comment>Header for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Notification_SendUpdateExplanation" xml:space="preserve">
-    <value>Would you like to send updates to existing guests?</value>
+    <value>¿Le gustaría enviar actualizaciones a los invitados existentes?</value>
     <comment>Explanation for dialog window when user is asked whether to send updates or not when editing event</comment>
   </data>
   <data name="App_Calendar_Reminder_At" xml:space="preserve">
-    <value>at</value>
+    <value>a las</value>
     <comment>E.g. Event is starting at 1:00 PM</comment>
   </data>
   <data name="App_Calendar_Reminder_WhenEventStarts" xml:space="preserve">
-    <value>When the event starts</value>
+    <value>Cuando comienza el evento</value>
     <comment>Indicates that a reminder for a calendar event will be triggered right when the event starts.</comment>
   </data>
   <data name="App_Calendar_Reminder_Starting" xml:space="preserve">
-    <value>{0} is starting {1}</value>
+    <value>{0} está comenzando {1}</value>
     <comment>E.g. Event name is starting at 1:00PM</comment>
   </data>
   <data name="App_Calendar_Reminder_AlreadyStarted" xml:space="preserve">
-    <value>Already started</value>
+    <value>Ya iniciado</value>
     <comment>Display that an event has already started at the moment the user got the notification</comment>
   </data>
   <data name="App_Calendar_Reminder_DueIn" xml:space="preserve">
-    <value>Due in {0}</value>
+    <value>Vencimiento en {0}</value>
     <comment>An event is due in X time. Eg: Due in 5 minutes, Due in 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminder_Overdue" xml:space="preserve">
-    <value>Overdue {0}</value>
+    <value>Vencido {0}</value>
     <comment>An event is overdue X time. Eg:Overdue 5 minutes, Overdue 2 hours and 30 minutes</comment>
   </data>
   <data name="App_Calendar_Reminders_And" xml:space="preserve">
-    <value>and</value>
+    <value>y</value>
     <comment>Use to concatenate hour and time. Eg: 5hours and 15 minutes</comment>
   </data>
   <data name="App_Calendar_Notification_Title" xml:space="preserve">
-    <value>Notification</value>
+    <value>Notificación</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_TitlePlural" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Notificaciones</value>
     <comment>Header for notifications window</comment>
   </data>
   <data name="App_Calendar_Notification_NoNotifications" xml:space="preserve">
-    <value>No notifications</value>
+    <value>Sin Notificaciones</value>
     <comment>Label when there are no notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to dismiss all notifications?</value>
+    <value>¿Está seguro de que desea descartar todas las notificaciones?</value>
     <comment>Explanation for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_DismissAllHeader" xml:space="preserve">
-    <value>Dismiss all notifications?</value>
+    <value>¿Quieres descartar todas las notificaciones?</value>
     <comment>Header for messagebox when dismissing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllExplanation" xml:space="preserve">
-    <value>Are you sure you want to snooze all notifications?</value>
+    <value>¿Seguro que quieres posponer todas las notificaciones?</value>
     <comment>Explanation for messagebox when snoozing all notifications</comment>
   </data>
   <data name="App_Calendar_Dialog_SnoozeAllHeader" xml:space="preserve">
