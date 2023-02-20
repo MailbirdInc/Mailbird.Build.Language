@@ -2100,9 +2100,8 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   </data>
   <data name="Notification_Gmail_Requires2StepAuthentication" xml:space="preserve">
     <value>Google no soporta la verificacion de dos pasos cuando usa el usuario y la clave para la autenticación.
-Considere configurar la cuenta en Mailbird para que use OAuth 2.0 como autenticación.
 
-https://support.google.com/accounts/answer/185833 </value>
+Considere configurar la cuenta en Mailbird para que use OAuth 2.0 como autenticación. </value>
     <comment>Mailbird does not support 2-step verification.
 Consider using an application specific password instead.
 
@@ -3116,7 +3115,7 @@ Here are a couple of links to help produce vCard files from various services:</c
     <comment>People</comment>
   </data>
   <data name="App_Contacts_FieldAddNickname" xml:space="preserve">
-    <value>nickname</value>
+    <value>apodo</value>
     <comment>Add nickname</comment>
   </data>
   <data name="App_Contacts_FieldNotes" xml:space="preserve">
@@ -3638,6 +3637,7 @@ You can disable the unified account from the options, or edit each of your accou
   </data>
   <data name="Notification_Gmail_LikelyLessSecureAppsIssue" xml:space="preserve">
     <value>Por favor, configure su cuenta para que use autenticación OAuth 2.0 en vez de nombre de usuario y contraseña, o asegúrese de que "Permitir aplicaciones menos seguras" esté habilitado en Gmail
+{0}
 
 Si el problema persiste, por favor entre aqui para una mayor solución de problemas: 
 https://support.google.com/mail/accounts/answer/78754</value>
@@ -3718,11 +3718,11 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Add new recipients to contacts app</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Pin Mailbird para iniciar menú</value>
+    <value>Anclar Mailbird al menú de inicio</value>
     <comment>Pin Mailbird to start menu</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Crear acceso directo en escritorio</value>
+    <value>Crear un acceso directo en el escritorio</value>
     <comment>Create shortcut on desktop</comment>
   </data>
   <data name="InstallationForm_InstallationCompleted" xml:space="preserve">
@@ -3730,7 +3730,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Installation complete</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Pin Mailbird para barra de tareas</value>
+    <value>Anclar Mailbird a la barra de tareas</value>
     <comment>Pin Mailbird to taskbar</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
@@ -3797,7 +3797,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>reload the draft</comment>
   </data>
   <data name="Import_NoAccounts" xml:space="preserve">
-    <value>No hay cuentas</value>
+    <value>Sin cuentas</value>
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
@@ -4587,35 +4587,35 @@ Would you like to group this message into a new conversation?</comment>
     <comment>Tweet</comment>
   </data>
   <data name="ShareReferralLink_Twiter" xml:space="preserve">
-    <value>Get 1 month of Mailbird Pro for free, download here: {0}</value>
+    <value>Obtenga 1 mes de Mailbird Pro gratis, descárguelo aquí: {0}</value>
     <comment>Get 1 month of @mailbird Pro for free, download here: {0}</comment>
   </data>
   <data name="Welcome_Coupon_Add" xml:space="preserve">
-    <value>Add referral code</value>
+    <value>Agregar código de referencia</value>
     <comment>Add coupon</comment>
   </data>
   <data name="Welcome_Coupon_CouponCode" xml:space="preserve">
-    <value>Referral code...</value>
+    <value>Código de referencia...</value>
     <comment>Coupon code...</comment>
   </data>
   <data name="Welcome_Coupon_Description" xml:space="preserve">
-    <value>Enter the referral code below or skip this step.</value>
+    <value>Ingrese el código de referencia a continuación u omita este paso.</value>
     <comment>Enter the coupon code below or skip this step.</comment>
   </data>
   <data name="Welcome_Coupon_Title" xml:space="preserve">
-    <value>Have a referral code?</value>
+    <value>¿Tienes un código de referencia?</value>
     <comment>Have a referral coupon code?</comment>
   </data>
   <data name="Welcome_Coupon_AlreadyUsed" xml:space="preserve">
-    <value>You've already used this referral code.</value>
+    <value>Ya ha utilizado este código de referencia.</value>
     <comment>You've already used this coupon code.</comment>
   </data>
   <data name="Welcome_Coupon_NotValid" xml:space="preserve">
-    <value>Referral code is not valid.</value>
+    <value>El código de referencia no es válido.</value>
     <comment>Coupon is not valid.</comment>
   </data>
   <data name="Welcome_Coupon_OldUser" xml:space="preserve">
-    <value>Referral code can only be used by new users.</value>
+    <value>El código de referencia solo puede ser utilizado por nuevos usuarios.</value>
     <comment>Coupon code can only be used by new users.</comment>
   </data>
   <data name="Welcome_Coupon_OwnCode" xml:space="preserve">
@@ -4627,17 +4627,17 @@ Would you like to group this message into a new conversation?</comment>
     <comment>You can't use this code because it was generated from the same PC.</comment>
   </data>
   <data name="DripSurvey_ChooseAnswer" xml:space="preserve">
-    <value>Choose your answer</value>
+    <value>Elige tu respuesta</value>
     <comment>Choose your answer
 NB: Watermark text when user hasn't choosen answer ye</comment>
   </data>
   <data name="DripSurvey_Header" xml:space="preserve">
-    <value>Help us improve</value>
+    <value>Ayúdanos a mejorar</value>
     <comment>Help us improve
 NB: Header for survey dialog within app</comment>
   </data>
   <data name="DripSurvey_Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Enviar</value>
     <comment>Skip
 NB: Text for button to send the survey</comment>
   </data>
@@ -4820,427 +4820,427 @@ Para agregar un contacto, haga clic en el botón "Agregar contacto".</value>
     <comment>add address</comment>
   </data>
   <data name="App_Contacts_FieldAddBirthday" xml:space="preserve">
-    <value>add birthday</value>
+    <value>añadir cumpleaños</value>
     <comment>add birthday</comment>
   </data>
   <data name="App_Contacts_FieldAddCompany" xml:space="preserve">
-    <value>add company</value>
+    <value>añadir empresa</value>
     <comment>add company</comment>
   </data>
   <data name="App_Contacts_FieldAddCustomField" xml:space="preserve">
-    <value>add custom field</value>
+    <value>añadir campo personalizado</value>
     <comment>add custom field</comment>
   </data>
   <data name="App_Contacts_FieldAddDate" xml:space="preserve">
-    <value>add date</value>
+    <value>añadir fecha</value>
     <comment>add date</comment>
   </data>
   <data name="App_Contacts_FieldAddInstantMessenger" xml:space="preserve">
-    <value>add instant messenger</value>
+    <value>añadir mensajería instantánea</value>
     <comment>add instant messenger</comment>
   </data>
   <data name="App_Contacts_FieldAddJobTitle" xml:space="preserve">
-    <value>add job title</value>
+    <value>añadir título de trabajo</value>
     <comment>add job title</comment>
   </data>
   <data name="App_Contacts_FieldAddNotes" xml:space="preserve">
-    <value>add notes</value>
+    <value>añadir notas</value>
     <comment>add notes</comment>
   </data>
   <data name="App_Contacts_FieldAddRelation" xml:space="preserve">
-    <value>add relation</value>
+    <value>añadir relación</value>
     <comment>add relation</comment>
   </data>
   <data name="App_Contacts_FieldAddWebsite" xml:space="preserve">
-    <value>add website</value>
+    <value>añadir sitio web</value>
     <comment>add website</comment>
   </data>
   <data name="App_Contacts_SingularFieldExplanation" xml:space="preserve">
-    <value>This will be displayed when viewing the contact</value>
+    <value>Esto se mostrará al ver el contacto.</value>
     <comment>This will be displayed when viewing the contact</comment>
   </data>
   <data name="App_Contacts_FieldCity" xml:space="preserve">
-    <value>City</value>
+    <value>Ciudad</value>
     <comment>City</comment>
   </data>
   <data name="App_Contacts_FieldCountry" xml:space="preserve">
-    <value>Country</value>
+    <value>País</value>
     <comment>Country</comment>
   </data>
   <data name="App_Contacts_FieldRegion" xml:space="preserve">
-    <value>Region</value>
+    <value>Región</value>
     <comment>Region</comment>
   </data>
   <data name="App_Contacts_FieldStreet" xml:space="preserve">
-    <value>Street</value>
+    <value>Calle</value>
     <comment>Street</comment>
   </data>
   <data name="App_Contacts_FieldZipCode" xml:space="preserve">
-    <value>ZIP code</value>
+    <value>Código postal</value>
     <comment>ZIP code</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_SubHeader" xml:space="preserve">
-    <value>Select accounts below to connect and sync their contacts with Mailbird, or click the button to connect to another account.</value>
+    <value>Seleccione las cuentas a continuación para conectarse y sincronizar sus contactos con Mailbird, o haga clic en el botón para conectarse a otra cuenta.</value>
     <comment>Explanation in accounts window</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_Title" xml:space="preserve">
-    <value>Accounts</value>
+    <value>Cuentas</value>
     <comment>Title for "Accounts" window</comment>
   </data>
   <data name="App_Contacts_MenuAccounts" xml:space="preserve">
-    <value>Accounts</value>
+    <value>Cuentas</value>
     <comment>Accounts</comment>
   </data>
   <data name="App_Contacts_MenuDisplayFirstLast" xml:space="preserve">
-    <value>Display by First, Last</value>
+    <value>Mostrar por Primero, Último</value>
     <comment>Display by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuDisplayLastFirst" xml:space="preserve">
-    <value>Display by Last, First</value>
+    <value>Mostrar por Último, Primero</value>
     <comment>Display by Last, First</comment>
   </data>
   <data name="App_Contacts_MenuExport" xml:space="preserve">
-    <value>Export contacts to vCard</value>
+    <value>Exportar contactos a vCard</value>
     <comment>Export group contacts to vCards</comment>
   </data>
   <data name="App_Contacts_ConnectedAccounts_ConnectAccount" xml:space="preserve">
-    <value>+ Connect other account</value>
+    <value>+ Conectar otra cuenta</value>
     <comment>+ Connect other account</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_UnsupportedExplanation" xml:space="preserve">
-    <value>Sorry, but this email account doesn't have support for contacts sync.</value>
+    <value>Lo sentimos, pero esta cuenta de correo electrónico no es compatible con la sincronización de contactos.</value>
     <comment>Sorry, but this email account doesn't have support for contacts sync.</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_Unsupported" xml:space="preserve">
-    <value>(Unsupported)</value>
+    <value>(No disponible)</value>
     <comment>(Unsupported)</comment>
   </data>
   <data name="App_Contacts_AvatarAdd" xml:space="preserve">
-    <value>Add photo</value>
+    <value>Añadir foto</value>
     <comment>Add photo</comment>
   </data>
   <data name="App_Contacts_AvatarChange" xml:space="preserve">
-    <value>Change</value>
+    <value>Cambiar</value>
     <comment>Change</comment>
   </data>
   <data name="App_Contacts_ContextMenuAddRemoveGroups" xml:space="preserve">
-    <value>Groups...</value>
+    <value>Grupos...</value>
     <comment>Groups...</comment>
   </data>
   <data name="App_Contacts_ContextMenuExport" xml:space="preserve">
-    <value>Export vCard</value>
+    <value>Exportar vCard</value>
     <comment>Export vCard</comment>
   </data>
   <data name="App_Contacts_ContextMenuInvite" xml:space="preserve">
-    <value>Invite to Mailbird</value>
+    <value>Invitar a Mailbird</value>
     <comment>Invite to Mailbird</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkContacts" xml:space="preserve">
-    <value>Link contacts</value>
+    <value>Vincular contactos</value>
     <comment>Link contacts</comment>
   </data>
   <data name="App_Contacts_ContextMenuLinkedin" xml:space="preserve">
-    <value>Look up on LinkedIn</value>
+    <value>Busca en LinkedIn</value>
     <comment>Look up on LinkedIn</comment>
   </data>
   <data name="App_Contacts_ContextMenuNewEmail" xml:space="preserve">
-    <value>Compose email</value>
+    <value>Escribir correo</value>
     <comment>Compose email</comment>
   </data>
   <data name="App_Contacts_ContextMenuNotStarred" xml:space="preserve">
-    <value>Mark as not starred</value>
+    <value>Marcar como no destacado</value>
     <comment>Mark as not starred</comment>
   </data>
   <data name="App_Contacts_ContextMenuStarred" xml:space="preserve">
-    <value>Mark as starred</value>
+    <value>Marcar como destacado</value>
     <comment>Mark as starred</comment>
   </data>
   <data name="App_Contacts_AddContact_Create" xml:space="preserve">
-    <value>Create</value>
+    <value>Crear</value>
     <comment>Create</comment>
   </data>
   <data name="App_Contacts_AddContact_NewContact" xml:space="preserve">
-    <value>New contact</value>
+    <value>Contacto nuevo</value>
     <comment>New contact</comment>
   </data>
   <data name="App_Contacts_NoContactsFound" xml:space="preserve">
-    <value>No contacts found.</value>
+    <value>No se encontraron contactos.</value>
     <comment>No contacts found.</comment>
   </data>
   <data name="App_Contacts_NoGroupsFound" xml:space="preserve">
-    <value>No groups found.</value>
+    <value>No se encontraron grupos.</value>
     <comment>No groups found.</comment>
   </data>
   <data name="App_Contacts_Intro_1" xml:space="preserve">
-    <value>All your contacts together in one place.</value>
+    <value>Todos tus contactos juntos en un solo lugar.</value>
     <comment>All your contacts together in one place.</comment>
   </data>
   <data name="App_Contacts_Intro_2" xml:space="preserve">
-    <value>You can now have your Google, Outlook, and Exchange contacts synced in Mailbird.</value>
+    <value>Ahora puede sincronizar sus contactos de Google, Outlook y Exchange en Mailbird.</value>
     <comment>You can now have your Google contacts synced in Mailbird, with more providers to come.</comment>
   </data>
   <data name="App_Contacts_Intro_3" xml:space="preserve">
-    <value>You can link contacts together to show their details in one place with just a click.</value>
+    <value>Puede vincular contactos para mostrar sus detalles en un solo lugar con solo un clic.</value>
     <comment>You can link contacts together to show their details in one place with just a click.</comment>
   </data>
   <data name="App_Contacts_Intro_4" xml:space="preserve">
-    <value>Connect your accounts now to sync them with Mailbird.</value>
+    <value>Conecta tus cuentas ahora para sincronizarlas con Mailbird.</value>
     <comment>Connect with your Google accounts now to sync them with Mailbird.</comment>
   </data>
   <data name="App_Contacts_Intro_Welcome" xml:space="preserve">
-    <value>Meet the Contacts</value>
+    <value>Conozca a los contactos</value>
     <comment>Meet the Contacts</comment>
   </data>
   <data name="App_Contacts_FieldPhoto" xml:space="preserve">
-    <value>Photo</value>
+    <value>Foto</value>
     <comment>Photo</comment>
   </data>
   <data name="App_Contacts_SearchGroup" xml:space="preserve">
-    <value>Search group</value>
+    <value>Grupo de búsqueda</value>
     <comment>Search group</comment>
   </data>
   <data name="App_Contacts_NoLinkedContacts" xml:space="preserve">
-    <value>(No linked contacts)</value>
+    <value>(Sin contactos vinculados)</value>
     <comment>(No linked contacts)</comment>
   </data>
   <data name="App_Contacts_Intro_ConnectAccounts" xml:space="preserve">
-    <value>Connect accounts</value>
+    <value>Conectar cuentas</value>
     <comment>Connect accounts</comment>
   </data>
   <data name="App_Contacts_ContextMenuMergeContacts" xml:space="preserve">
-    <value>Merge contacts</value>
+    <value>Combinar contactos</value>
     <comment>Merge contacts</comment>
   </data>
   <data name="App_Contacts_MergeContact" xml:space="preserve">
-    <value>Merge contact</value>
+    <value>Fusionar contacto</value>
     <comment>Merge contact</comment>
   </data>
   <data name="App_Contacts_AddContact" xml:space="preserve">
-    <value>Create or add a contact</value>
+    <value>Crear o agregar un contacto</value>
     <comment>Add contact</comment>
   </data>
   <data name="App_Contacts_Settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Ajustes</value>
     <comment>Settings</comment>
   </data>
   <data name="App_Contacts_ValidationEmpty" xml:space="preserve">
-    <value>Field cannot be empty</value>
+    <value>El campo no puede estar vacío</value>
     <comment>Field cannot be empty</comment>
   </data>
   <data name="App_Contacts_RemoveGroup" xml:space="preserve">
-    <value>Remove group</value>
+    <value>Quitar grupo</value>
     <comment>Remove group
 NB: tooltip for remove group button</comment>
   </data>
   <data name="App_Contacts_ContextMenuDelete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Borrar</value>
     <comment>Delete</comment>
   </data>
   <data name="App_Contacts_RemoveField" xml:space="preserve">
-    <value>Remove</value>
+    <value>Quitar</value>
     <comment>Tooltip when removing contact field in contact manager</comment>
   </data>
   <data name="App_Contacts_ShowAllFields" xml:space="preserve">
-    <value>Show all fields</value>
+    <value>Mostrar todos los campos</value>
     <comment>Show all fields
 NB: button to show extra fields when editing contact, since not all fields are shown since beginning</comment>
   </data>
   <data name="App_Contacts_ShowFewerFields" xml:space="preserve">
-    <value>Show fewer fields</value>
+    <value>Mostrar menos campos</value>
     <comment>Show fewer fields
 NB: button to hide extra fields when editing contact</comment>
   </data>
   <data name="App_Contacts_AddToGroup" xml:space="preserve">
-    <value>Add to a group</value>
+    <value>Agregar a un grupo</value>
     <comment>Add to a group</comment>
   </data>
   <data name="App_Contacts_AddContact_InAccount" xml:space="preserve">
-    <value>In "{0}"</value>
+    <value>En "{0}"</value>
     <comment>In "{0}"
 NB: This will be used to tell user in which account the new contact will be saved. {0} will be replaced with an account name, e.g. [In "email@email.com"]</comment>
   </data>
   <data name="App_Contacts_MenuGroupView" xml:space="preserve">
-    <value>Show groups</value>
+    <value>Mostrar grupos</value>
     <comment>Show groups
 NB: menu to show/hide group panel</comment>
   </data>
   <data name="App_Contacts_ContextMenuCopyField" xml:space="preserve">
-    <value>Copy</value>
+    <value>Copiar</value>
     <comment>Copy
 NB: Menu in context menu to do copy action</comment>
   </data>
   <data name="App_Contacts_OpenInBrowser" xml:space="preserve">
-    <value>Open in browser</value>
+    <value>Abrir en el navegador</value>
     <comment>Menu in context menu to open current url in browser</comment>
   </data>
   <data name="App_Contacts_SearchInGoogleMaps" xml:space="preserve">
-    <value>Open in Google Maps</value>
+    <value>Abrir en Google Maps</value>
     <comment>This is tooltip to a button that will open browser to search the corresponding location in Google Maps</comment>
   </data>
   <data name="App_Contacts_FieldNamePrefix" xml:space="preserve">
-    <value>Title</value>
+    <value>Título</value>
     <comment>A contact's title that comes before the name, e.g. 'Mr', 'Mrs' or even 'The' etc.</comment>
   </data>
   <data name="App_Contacts_FieldNameSuffix" xml:space="preserve">
-    <value>Suffix</value>
+    <value>Sufijo</value>
     <comment>A contact's name suffix that comes after the name, e.g. his "generation number", like 'III', 'IV' etc.</comment>
   </data>
   <data name="SpeedRead_Speed" xml:space="preserve">
-    <value>{0} WPM</value>
+    <value>{0} palabras por minuto</value>
     <comment>{0} will be replaced with the speed, WPM stands for words per minute</comment>
   </data>
   <data name="App_Contacts_ConnectAccount_LocalExplanation" xml:space="preserve">
-    <value>The Mailbird system account with contacts local to your computer.
+    <value>La cuenta del sistema Mailbird con contactos locales en su computadora.
 
-This cannot be removed.</value>
+Esto no se puede quitar.</value>
     <comment>Explanation for the default local account in contact manager</comment>
   </data>
   <data name="App_Contacts_ContextMenuGoogleAccount" xml:space="preserve">
-    <value>Google account</value>
+    <value>Cuenta de Google</value>
     <comment>Menu to add Google account</comment>
   </data>
   <data name="App_Contacts_ContextMenuOutlookAccount" xml:space="preserve">
-    <value>Outlook account</value>
+    <value>Cuenta de Outlook</value>
     <comment>Menu to add Outlook account</comment>
   </data>
   <data name="Dialog_DisconnectAccount" xml:space="preserve">
-    <value>Disconnect account?</value>
+    <value>¿Desconectar cuenta?</value>
     <comment>Title for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="Dialog_DisconnectAccountExplanation" xml:space="preserve">
-    <value>Are you sure you want to disconnect the account?
+    <value>¿Está seguro de que desea desconectar la cuenta?
 
-This will disable contact sync and remove the account's groups and contacts from Mailbird.</value>
+Esto deshabilitará la sincronización de contactos y eliminará los grupos y contactos de la cuenta de Mailbird.</value>
     <comment>Explanation for dialog window when user tries to disconnect account from Contacts Manager</comment>
   </data>
   <data name="App_Contacts_FieldAdd" xml:space="preserve">
-    <value>add {0}</value>
+    <value>añadir {0}</value>
     <comment>{0} will be replaced with field's name, e.g. "add title"</comment>
   </data>
   <data name="App_Contacts_FieldAddMiddleName" xml:space="preserve">
-    <value>middle name</value>
+    <value>segundo nombre</value>
     <comment>Button to show middle name when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddSuffix" xml:space="preserve">
-    <value>suffix</value>
+    <value>sufijo</value>
     <comment>Button to show suffix of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldAddTitle" xml:space="preserve">
-    <value>title</value>
+    <value>título</value>
     <comment>Button to show title of person when editing contact</comment>
   </data>
   <data name="App_Contacts_FieldOr" xml:space="preserve">
-    <value>{0} or {1}</value>
+    <value>{0} o {1}</value>
     <comment>{0} and {1} will be replaced with field's name, e.g. "title or nickname"</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Coworkers" xml:space="preserve">
-    <value>Coworkers</value>
+    <value>Compañeros de trabajo</value>
     <comment>Name of the coworkers system group with contacts</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Family" xml:space="preserve">
-    <value>Family</value>
+    <value>Familia</value>
     <comment>Name of the family system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Friends" xml:space="preserve">
-    <value>Friends</value>
+    <value>Amigos</value>
     <comment>Name of the friends system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Contacts" xml:space="preserve">
-    <value>Contacts</value>
+    <value>Contactos</value>
     <comment>Name of the contacts system group in the Contacts app</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Starred" xml:space="preserve">
-    <value>Starred</value>
+    <value>Destacado</value>
     <comment>Name of the system group with starred contacts in the Contacts app</comment>
   </data>
   <data name="App_Contacts_ValidationDuplicatedGroup" xml:space="preserve">
-    <value>Name already exists or is a protected system name</value>
+    <value>El nombre ya existe o es un nombre de sistema protegido</value>
     <comment>Error message when trying to add group with the same name</comment>
   </data>
   <data name="App_Contacts_FieldType_HomePage" xml:space="preserve">
-    <value>Home Page</value>
+    <value>Página de Inicio</value>
     <comment>Contact website field type</comment>
   </data>
   <data name="App_Contacts_DisconnectingAccount" xml:space="preserve">
-    <value>Disconnecting account...</value>
+    <value>Desconectando cuenta...</value>
     <comment>Progress message when disconnecting an account in the Contacts app</comment>
   </data>
   <data name="App_Contacts_Refresh" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Refrescar</value>
     <comment>Menu to force contact manager to sync to server</comment>
   </data>
   <data name="App_Contacts_MenuEmailGroup" xml:space="preserve">
-    <value>Email group</value>
+    <value>Grupo de correos</value>
     <comment>Menu to send email to selected group</comment>
   </data>
   <data name="App_Contacts_ConnectingAccount" xml:space="preserve">
-    <value>Connecting account...</value>
+    <value>Conectando cuenta...</value>
     <comment>Progress message when connecting an account in the Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSortFirstLast" xml:space="preserve">
-    <value>Sort by First, Last</value>
+    <value>Ordenar por Primero, Último</value>
     <comment>Sort by First, Last</comment>
   </data>
   <data name="App_Contacts_MenuSortLastFirst" xml:space="preserve">
-    <value>Sort by Last, First</value>
+    <value>Ordenar por Último, Primero</value>
     <comment>Sort by Last, First</comment>
   </data>
   <data name="Dialog_Activate" xml:space="preserve">
-    <value>Activate</value>
+    <value>Activar</value>
     <comment>Activate</comment>
   </data>
   <data name="Trial_DowngradeToLite" xml:space="preserve">
-    <value>Downgrade me to Mailbird LITE</value>
+    <value>Cambia mi licencia a Mailbird LITE</value>
     <comment>Downgrade me to Mailbird LITE</comment>
   </data>
   <data name="Trial_DowngradeToLite2" xml:space="preserve">
-    <value>No, downgrade me to Mailbird Lite</value>
+    <value>No, cambia mi licencia a Mailbird Lite</value>
     <comment>No, downgrade me to Mailbird Lite</comment>
   </data>
   <data name="Trial_EndDescription" xml:space="preserve">
-    <value>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird.</value>
+    <value>Para seguir aprovechando al máximo Mailbird, con cuentas ilimitadas y mucho más, deberá comprar Mailbird.</value>
     <comment>To continue getting the most of Mailbird, with snooze, unlimited accounts, and much more, you will need to purchase Mailbird Pro.</comment>
   </data>
   <data name="Trial_EndSubtitle" xml:space="preserve">
-    <value>Your Mailbird Pro Trial has ended.</value>
+    <value>Su prueba de Mailbird Pro ha terminado.</value>
     <comment>Your Mailbird Pro Trial has ended.</comment>
   </data>
   <data name="Trial_EndTitle" xml:space="preserve">
-    <value>Did you enjoy flying 
-with Mailbird Pro?</value>
+    <value>¿Disfrutaste volar
+con Mailbird Pro?</value>
     <comment>Did you enjoy flying 
 with Mailbird Pro?</comment>
   </data>
   <data name="Trial_ForgotLicense" xml:space="preserve">
-    <value>I don't remember my license key</value>
+    <value>No recuerdo mi clave de licencia</value>
     <comment>I don't remember my license key</comment>
   </data>
   <data name="Trial_SendInviteButton" xml:space="preserve">
-    <value>Yes, Let's do it!</value>
+    <value>¡Sí, hagámoslo!</value>
     <comment>Yes, Let's do it!</comment>
   </data>
   <data name="Trial_SendInviteConfirmationDescription" xml:space="preserve">
-    <value>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</value>
+    <value>Enviará invitaciones a todos sus contactos que tengan una dirección de correo electrónico @gmail.com, @yahoo.com y algunos de los principales proveedores de correo electrónico.</value>
     <comment>You will send invites to your all your contacts that have a @gmail.com, @yahoo.com email address and some main emails providers.</comment>
   </data>
   <data name="Trial_SendInviteDescription" xml:space="preserve">
-    <value>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</value>
+    <value>Si 5 de tus amigos instalan Mailbird a través de tu invitación, ganas, mientras tanto, extenderemos tu prueba por 7 días más.</value>
     <comment>If 5 of your friends install Mailbird through your invitation, you win, in the meantime, we'll extend your trial for 7 more days.</comment>
   </data>
   <data name="Trial_SendInviteTitle" xml:space="preserve">
-    <value>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</value>
+    <value>¿Quieres invitar a tus amigos a Mailbird para ganar Mailbird Pro Lifetime [bold]gratis?[/bold]</value>
     <comment>Do you want to invite your friends to win Mailbird Pro Lifetime [bold]for Free?[/bold]</comment>
   </data>
   <data name="App_Contacts_CreateContact" xml:space="preserve">
-    <value>Create contact</value>
+    <value>Crear contacto</value>
     <comment>Tooltip for button to create contact</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Custom" xml:space="preserve">
-    <value>Custom</value>
+    <value>Personalizado</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Date" xml:space="preserve">
-    <value>Date</value>
+    <value>Fecha</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Email" xml:space="preserve">
@@ -5252,115 +5252,115 @@ with Mailbird Pro?</comment>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Phone" xml:space="preserve">
-    <value>Phone</value>
+    <value>Teléfono</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_PostalAddress" xml:space="preserve">
-    <value>Address</value>
+    <value>Dirección</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Relation" xml:space="preserve">
-    <value>Relation</value>
+    <value>Relación</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_FieldTypeName_Website" xml:space="preserve">
-    <value>Website</value>
+    <value>Sitio Web</value>
     <comment>Singular type name for this field type in the contact manager</comment>
   </data>
   <data name="App_Contacts_Groups_CreateFromSearch" xml:space="preserve">
-    <value>"{0}" (create group)</value>
+    <value>"{0}" (crear grupo)</value>
     <comment>Menu to create new group when searching, {0} will be replaced with group name, e.g. "favourites" (create group)</comment>
   </data>
   <data name="Conversation_Refresh" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Refrescar</value>
     <comment>Refresh and sync</comment>
   </data>
   <data name="Notification_Synced" xml:space="preserve">
-    <value>Up to date</value>
+    <value>Actualizado</value>
     <comment>Up to date</comment>
   </data>
   <data name="App_Contacts_CropPicture_Done" xml:space="preserve">
-    <value>Done</value>
+    <value>Terminado</value>
     <comment>Button when finish editing picture</comment>
   </data>
   <data name="App_Contacts_RotateCCW" xml:space="preserve">
-    <value>Rotate 90° counter-clockwise</value>
+    <value>Girar 90° en sentido contrario a las agujas del reloj</value>
     <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_RotateCW" xml:space="preserve">
-    <value>Rotate 90° clockwise</value>
+    <value>Girar 90° en el sentido de las agujas del reloj</value>
     <comment>Tooltip for rotate image button</comment>
   </data>
   <data name="App_Contacts_Merge" xml:space="preserve">
-    <value>Merge</value>
+    <value>Unir</value>
     <comment>Button that when clicked will merge the selected contact with the current contact.</comment>
   </data>
   <data name="App_Contacts_ImageNotSupported" xml:space="preserve">
-    <value>Error loading image</value>
+    <value>Error al cargar la imagen</value>
     <comment>Title of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_ImageNotSupportedExplanation" xml:space="preserve">
-    <value>Format not supported or file is corrupted.</value>
+    <value>El formato no es compatible o el archivo está dañado.</value>
     <comment>Explanation of message box when opening unsupported file</comment>
   </data>
   <data name="App_Contacts_Groups_CreateIn" xml:space="preserve">
-    <value>In [semibold]{0}[/semibold]</value>
+    <value>En [semibold]{0}[/semibold]</value>
     <comment>Menu to create group in account, {0} will be replaced with the account's emails, e.g. In email.com</comment>
   </data>
   <data name="Notification_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Descartar</value>
     <comment>Dismiss</comment>
   </data>
   <data name="Notification_Syncing" xml:space="preserve">
-    <value>Syncing</value>
+    <value>Sincronizando</value>
     <comment>Syncing</comment>
   </data>
   <data name="App_Contacts_ImportedGroupName" xml:space="preserve">
-    <value>Imported</value>
+    <value>Importado</value>
     <comment>The first part of the name of the group created when importing contacts, with the date added after. E.g 'Imported 1/3/17'</comment>
   </data>
   <data name="App_Contacts_Labels_Department" xml:space="preserve">
-    <value>Department</value>
+    <value>Departmento</value>
     <comment>Label for custom field Department when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender" xml:space="preserve">
-    <value>Gender</value>
+    <value>Género</value>
     <comment>Label for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Female" xml:space="preserve">
-    <value>Female</value>
+    <value>Femenino</value>
     <comment>Female value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Gender_Male" xml:space="preserve">
-    <value>Male</value>
+    <value>Masculino</value>
     <comment>Male value for custom field Gender when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Latitude" xml:space="preserve">
-    <value>Latitude</value>
+    <value>Latitud</value>
     <comment>Label for custom field Latitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Longitude" xml:space="preserve">
-    <value>Longitude</value>
+    <value>Longitud</value>
     <comment>Label for custom field Longitude when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Mailer" xml:space="preserve">
-    <value>Mailer</value>
+    <value>Remitente</value>
     <comment>Label for custom field Mailer when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Office" xml:space="preserve">
-    <value>Office</value>
+    <value>Oficina</value>
     <comment>Label for custom field Office when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_RevisionDate" xml:space="preserve">
-    <value>Revision Date</value>
+    <value>Fecha de Revisión</value>
     <comment>Label for custom field Revision Date when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Role" xml:space="preserve">
-    <value>Role</value>
+    <value>Rol</value>
     <comment>Label for custom field Role when importing vCard</comment>
   </data>
   <data name="App_Contacts_Labels_Domestic" xml:space="preserve">
-    <value>Domestic</value>
+    <value>Doméstico</value>
     <comment>Label for contact custom address type Domestic</comment>
   </data>
   <data name="App_Contacts_Labels_International" xml:space="preserve">
@@ -5368,7 +5368,7 @@ with Mailbird Pro?</comment>
     <comment>Label for contact custom address type International</comment>
   </data>
   <data name="App_Contacts_Labels_Parcel" xml:space="preserve">
-    <value>Parcel</value>
+    <value>Parcela</value>
     <comment>Label for contact custom address type Parcel</comment>
   </data>
   <data name="App_Contacts_Labels_Postal" xml:space="preserve">
@@ -5376,37 +5376,37 @@ with Mailbird Pro?</comment>
     <comment>Label for contact custom address type Postal</comment>
   </data>
   <data name="App_Contacts_Labels_Preferred" xml:space="preserve">
-    <value>Preferred</value>
+    <value>Principal</value>
     <comment>Label for contact custom address type Preferred</comment>
   </data>
   <data name="MailEditor_RemoveSuggestion" xml:space="preserve">
-    <value>Remove suggestion</value>
+    <value>Quitar sugerencia</value>
     <comment>Button to remove an auto-complete suggestion when composing an email.</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsHeader" xml:space="preserve">
-    <value>Suggestions restored</value>
+    <value>Sugerencias restauradas</value>
     <comment>Dialog box header</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsMessage" xml:space="preserve">
-    <value>All previously removed auto-complete suggestions have been restored.</value>
+    <value>Se restauraron todas las sugerencias eliminadas anteriormente.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionHeader" xml:space="preserve">
-    <value>Removing auto-complete suggestions</value>
+    <value>Eliminar sugerencias</value>
     <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
-    <value>Removing a suggestion will keep it from appearing in the list when composing a message - for instance if an email address no longer exists or is incorrect.
+    <value>Eliminar una sugerencia evitará que aparezca en la lista al redactar un mensaje, por ejemplo, si una dirección de correo electrónico ya no existe o es incorrecta.
 
-Removed suggestions can be restored from the settings.</value>
+Las sugerencias eliminadas se pueden restaurar desde la configuración.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Restore auto-complete suggestions</value>
+    <value>Restaurar sugerencias</value>
     <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
-    <value>Restores any auto-complete suggestions you've previously removed.</value>
+    <value>Restaura cualquier sugerencia que hayas eliminado anteriormente.</value>
     <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
   <data name="App_Contacts_MenuRenameGroup" xml:space="preserve">
@@ -5414,113 +5414,113 @@ Removed suggestions can be restored from the settings.</value>
     <comment>Label of menu item to rename group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
-    <value>Loading duplicates...</value>
+    <value>Cargando duplicados...</value>
     <comment>Loading message when merge contacts are being calculated.</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedHeader" xml:space="preserve">
-    <value>Try the new and improved Contacts app with contact sync!</value>
+    <value>¡Prueba la nueva y mejorada aplicación Contactos con sincronización de contactos!</value>
     <comment>Notification header</comment>
   </data>
   <data name="Notification_NewContactsAppReleasedMessage" xml:space="preserve">
-    <value>We've not only updated the old Contacts app with a brand new design - we've also added full Google and Outlook support, so you can sync contacts with your existing accounts, and have the same contacts whether you're working in Mailbird or somewhere else.
+    <value>No solo actualizamos la antigua aplicación de Contactos con un diseño completamente nuevo, también agregamos soporte completo de Google y Outlook, para que pueda sincronizar contactos con sus cuentas existentes y tener los mismos contactos ya sea que esté trabajando en Mailbird o en algún otro lugar.
 
-New is also "linking", enabling you to link together identical contacts from different accounts - to make changes once and have them propagate to all accounts automatically.
+Lo nuevo también es 'vincular', lo que le permite vincular contactos idénticos de diferentes cuentas, para realizar cambios una vez y hacer que se propaguen a todas las cuentas automáticamente.
 
-And did we mention you can easily copy or move contacts between accounts?
+¿Y mencionamos que puede copiar o mover contactos fácilmente entre cuentas?
 
-Try the new Contacts now!</value>
+¡Prueba los nuevos Contactos ahora!</value>
     <comment>Notification message</comment>
   </data>
   <data name="Notification_OpenContactsApp" xml:space="preserve">
-    <value>Open Contacts</value>
+    <value>Abrir Contactos</value>
     <comment>Button label to open Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuDeleteGroup" xml:space="preserve">
-    <value>Delete</value>
+    <value>Borrar</value>
     <comment>Label for menu item to delete group in Contacts app</comment>
   </data>
   <data name="App_Contacts_MenuSelectedGroup" xml:space="preserve">
-    <value>Selected group</value>
+    <value>Grupo seleccionado</value>
     <comment>Label for menu item in Contacts app with menu items inside that operate on the selected group</comment>
   </data>
   <data name="Menu_Help" xml:space="preserve">
-    <value>Help</value>
+    <value>Ayuda</value>
     <comment>Menu item in main menu to show tips, shortcuts etc.</comment>
   </data>
   <data name="RateRecommend_Email" xml:space="preserve">
-    <value>Share via email</value>
+    <value>Compartir via correo electrónico</value>
     <comment>Tooltip to share via email</comment>
   </data>
   <data name="RateRecommend_Facebook" xml:space="preserve">
-    <value>Share via Facebook</value>
+    <value>Compartir por Facebook</value>
     <comment>Tooltip to share via Facebook</comment>
   </data>
   <data name="RateRecommend_HeaderFeedback" xml:space="preserve">
-    <value>Please let us know how we can improve Mailbird for you:</value>
+    <value>Háganos saber cómo podemos mejorar Mailbird para usted:</value>
     <comment>Header in rate and recommend control when asking for feedback</comment>
   </data>
   <data name="RateRecommend_HeaderRating" xml:space="preserve">
-    <value>How likely are you to recommend Mailbird to a friend?</value>
+    <value>¿Qué tan probable es que recomiendes Mailbird a un amigo?</value>
     <comment>Header in rate and recommend control when asking for rating</comment>
   </data>
   <data name="RateRecommend_HeaderShare" xml:space="preserve">
-    <value>Great! Could you share a brief post with your friends? It really helps.</value>
+    <value>¡Excelente! ¿Podrías compartir una breve publicación con tus amigos? Realmente ayuda</value>
     <comment>Header in rate and recommend control when asking for sharing</comment>
   </data>
   <data name="RateRecommend_Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Enviar</value>
     <comment>Button to send feedback</comment>
   </data>
   <data name="RateRecommend_Twitter" xml:space="preserve">
-    <value>Share via Twitter</value>
+    <value>Compartir por Twitter</value>
     <comment>Tooltip to share via Twitter</comment>
   </data>
   <data name="RateRecommend_Unlikely" xml:space="preserve">
-    <value>Unlikely</value>
+    <value>Improbable</value>
     <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="RateRecommend_VeryLikely" xml:space="preserve">
-    <value>Very likely</value>
+    <value>Muy probable</value>
     <comment>Label in rate and recommend control to show likeliness to share Mailbird for others</comment>
   </data>
   <data name="InviteV2_ShareSocial2" xml:space="preserve">
-    <value>Share on social</value>
+    <value>Compartir en redes sociales</value>
     <comment>Button for sharing invites to social</comment>
   </data>
   <data name="Background_AddYourOwn" xml:space="preserve">
-    <value>Add your own picture</value>
+    <value>Agrega tu propia imagen</value>
     <comment>Tooltip for a menu to browse picture for background image</comment>
   </data>
   <data name="Background_Christmas" xml:space="preserve">
-    <value>Christmas</value>
+    <value>Navidad</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Clover" xml:space="preserve">
-    <value>Clover</value>
+    <value>Trébol</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Custom" xml:space="preserve">
-    <value>Custom</value>
+    <value>Personalizado</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Diamonds" xml:space="preserve">
-    <value>Diamonds</value>
+    <value>Diamantes</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Flower" xml:space="preserve">
-    <value>Flower</value>
+    <value>Flor</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Leaves" xml:space="preserve">
-    <value>Leaves</value>
+    <value>Hojas</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_NarrowStripes" xml:space="preserve">
-    <value>Narrow Stripes</value>
+    <value>Rayas Estrechas</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Polcadot" xml:space="preserve">
@@ -5528,15 +5528,15 @@ Try the new Contacts now!</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Scale" xml:space="preserve">
-    <value>Scale</value>
+    <value>Escala</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Snow" xml:space="preserve">
-    <value>Snow</value>
+    <value>Nieve</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Square" xml:space="preserve">
-    <value>Square</value>
+    <value>Cuadrado</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWars" xml:space="preserve">
@@ -5544,123 +5544,123 @@ Try the new Contacts now!</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWarsDarkSide" xml:space="preserve">
-    <value>Dark Side</value>
+    <value>Lado Oscuro</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_StarWarsPixel" xml:space="preserve">
-    <value>Star Wars Pixel</value>
+    <value>Píxel de Star Wars</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Background_Stripes" xml:space="preserve">
-    <value>Stripes</value>
+    <value>Rayas</value>
     <comment>Name for type of backround</comment>
   </data>
   <data name="Invite_HowItWorks" xml:space="preserve">
-    <value>How it works?</value>
+    <value>¿Cómo funciona?</value>
     <comment>Button to learn more about invite sidebar</comment>
   </data>
   <data name="Sidebar_Collapse" xml:space="preserve">
-    <value>Collapse sidebar</value>
+    <value>Contraer barra lateral</value>
     <comment>Tooltip for a button to collapse sidebar</comment>
   </data>
   <data name="Sidebar_Expand" xml:space="preserve">
-    <value>Expand sidebar</value>
+    <value>Expandir barra lateral</value>
     <comment>Tooltip for a button to expand sidebar</comment>
   </data>
   <data name="App_AppearIn_Description" xml:space="preserve">
-    <value>Create your own video conversation room easily and share the link, up to 4 people can join for free.</value>
+    <value>Cree su propia conversación de video fácilmente y comparta el enlace, hasta 4 personas pueden unirse de forma gratuita.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
-    <value>Store your files in the cloud, 100 GB free cloud backup.</value>
+    <value>Almacene sus archivos en la nube, copia de seguridad gratuita en la nube de 100 GB.</value>
   </data>
   <data name="App_Feedly_Description" xml:space="preserve">
-    <value>The content you need to accelerate your research, marketing, and sales.</value>
+    <value>El contenido que necesita para acelerar su investigación, marketing y ventas.</value>
   </data>
   <data name="App_FollowUp_Description" xml:space="preserve">
-    <value>File, sort and schedule emails with ease.</value>
+    <value>Archive, clasifique y programe correos electrónicos con facilidad.</value>
   </data>
   <data name="App_FormSwift_Description" xml:space="preserve">
-    <value>Generate a signature for your emails.</value>
+    <value>Genere una firma para sus correos electrónicos.</value>
   </data>
   <data name="App_Moodo_Description" xml:space="preserve">
-    <value>Beautiful minimalistic task management app. Drag and organize emails in your task list.</value>
+    <value>Hermosa aplicación de gestión de tareas minimalista. Arrastre y organice los correos electrónicos en su lista de tareas.</value>
   </data>
   <data name="App_Slack_Description" xml:space="preserve">
-    <value>Cloud based real-time messaging, archiving and search for modern teams.</value>
+    <value>Mensajería, archivado y búsqueda en tiempo real basados en la nube para equipos modernos.</value>
   </data>
   <data name="App_TechCrunch_Description" xml:space="preserve">
-    <value>News website that offers news, videos, and events about IT companies, technology-oriented blogs, and other web properties.</value>
+    <value>Sitio web de noticias que ofrece noticias, videos y eventos sobre empresas de TI, blogs orientados a la tecnología y otras propiedades web.</value>
   </data>
   <data name="App_TheVerge_Description" xml:space="preserve">
-    <value>American news and media network publishing articles on technology, science, art, business, U.S., world politics and culture.</value>
+    <value>Red estadounidense de noticias y medios que publica artículos sobre tecnología, ciencia, arte, negocios, EE. UU., política y cultura mundial.</value>
   </data>
   <data name="App_Todoist_Description" xml:space="preserve">
-    <value>Todoist lets you manage your tasks anywhere. At home. At school. At work. Online. Offline. And on 13 platforms and devices.</value>
+    <value>Todoist te permite administrar tus tareas en cualquier lugar. En casa. En la escuela. En el trabajo. En línea. Desconectado. Y en 13 plataformas y dispositivos.</value>
   </data>
   <data name="App_Trello_Description" xml:space="preserve">
-    <value>Trello lets you work more collaboratively and get more done.</value>
+    <value>Trello le permite trabajar de forma más colaborativa y hacer más cosas.</value>
   </data>
   <data name="App_Twitter_Description" xml:space="preserve">
-    <value>Read and share tweets from all over the world.</value>
+    <value>Lee y comparte tweets de todo el mundo.</value>
   </data>
   <data name="App_UnrollMe_Description" xml:space="preserve">
-    <value>Clean up your inbox.</value>
+    <value>Limpia tu bandeja de entrada.</value>
   </data>
   <data name="App_WeChat_Description" xml:space="preserve">
-    <value>More social. More fun. Free messaging and calling app.</value>
+    <value>Más social. Más diversión. Aplicación gratuita de mensajería y llamadas.</value>
   </data>
   <data name="App_Weibo_Description" xml:space="preserve">
-    <value>Microblogging and social network with chat functions based in China (partially translated to english).</value>
+    <value>Microblogging y red social con funciones de chat con base en China (parcialmente traducido al inglés).</value>
   </data>
   <data name="App_Whatsapp_Description" xml:space="preserve">
-    <value>Simple. Personal. Real Time Messaging. Drag attachments right into WhatsApp from Mailbird.</value>
+    <value>Simple. Personal. Mensajería en tiempo real. Arrastra los archivos adjuntos directamente a WhatsApp desde Mailbird.</value>
   </data>
   <data name="Tutorial_ContactsAccount" xml:space="preserve">
     <value>Connect your email accounts and sync contacts.</value>
     <comment>Tutorial text to guide user to connect account in contact manager</comment>
   </data>
   <data name="App_Contacts_BrowseContacts_Search" xml:space="preserve">
-    <value>Search</value>
+    <value>Buscar</value>
     <comment>Watermark for search textbox</comment>
   </data>
   <data name="App_Contacts_BrowseContacts_SelectAll" xml:space="preserve">
-    <value>Select all</value>
+    <value>Seleccionar todo</value>
     <comment>Label for checkbox to select all contacts</comment>
   </data>
   <data name="App_Contacts_Browse_Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Agregar</value>
     <comment>Button to add selected contacts</comment>
   </data>
   <data name="App_Contacts_RemoveContact" xml:space="preserve">
-    <value>Remove</value>
+    <value>Remover</value>
     <comment>Tooltip for button to remove contact from list</comment>
   </data>
   <data name="MailEditor_Browse" xml:space="preserve">
-    <value>Browse contacts</value>
+    <value>Buscar contactos</value>
     <comment>Tooltip in button to open browse contacts window</comment>
   </data>
   <data name="Apps_Kin_Calendar_Description" xml:space="preserve">
-    <value>The sun will rise again. Here's the best calendar experience. (requires subscription)</value>
+    <value>El sol volverá a salir. Aquí está la mejor experiencia de calendario. (requiere suscripción)</value>
     <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
   <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Hold meetings on the go, virtual training classes, remote interviews, and more.</value>
+    <value>Organice reuniones sobre la marcha, clases de capacitación virtual, entrevistas remotas y más.</value>
     <comment>Hangouts app description displayed in the App storefront.</comment>
   </data>
   <data name="DripSurvey_MoreInfo" xml:space="preserve">
-    <value>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</value>
+    <value>Al comprender mejor quién es usted, qué le gusta y qué no le gusta en Mailbird, podemos hacer que Mailbird sea aún mejor.</value>
     <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
   </data>
   <data name="AppStore_Apps" xml:space="preserve">
-    <value>Apps</value>
+    <value>Aplicaciones</value>
     <comment>Tab in add-ons to show list of apps in Mailbird</comment>
   </data>
   <data name="AppStore_Services" xml:space="preserve">
-    <value>Services</value>
+    <value>Servicios</value>
     <comment>Tab in add-ons to show list of 3rd party services in Mailbird</comment>
   </data>
   <data name="Options_ShowCcBccByDefault" xml:space="preserve">
-    <value>Show Cc and Bcc by default</value>
+    <value>Mostrar Cc y Bcc por defecto</value>
     <comment>Option to show Cc and Bcc by default in compose window</comment>
   </data>
   <data name="Notification_LimitingAccountsHeader" xml:space="preserve">
@@ -5728,11 +5728,11 @@ Try the new Contacts now!</value>
     <comment>Description of the Google Keep App displayed in the app store.</comment>
   </data>
   <data name="SpellCheck_Off" xml:space="preserve">
-    <value>Off</value>
+    <value>Apagado</value>
     <comment>Label when spellcheck is off</comment>
   </data>
   <data name="MailEditorFormattingBar_Align" xml:space="preserve">
-    <value>Align</value>
+    <value>Alinear</value>
     <comment>Formatting button to align paragraph</comment>
   </data>
   <data name="MailEditorFormattingBar_IndentLess" xml:space="preserve">
@@ -8769,11 +8769,11 @@ Muchas gracias!</value>
     <comment>Button label to get help on how to fill the settings</comment>
   </data>
   <data name="Search_Clear" xml:space="preserve">
-    <value>Clear search</value>
+    <value>Borrar búsqueda</value>
     <comment>Label to clear search query</comment>
   </data>
   <data name="AdvancedSearch_MailSpamTrash" xml:space="preserve">
-    <value>Mail &amp; Spam &amp; Trash</value>
+    <value>Correo &amp; Spam &amp; Papelera</value>
     <comment>Item to search in Mail, Spam, and Trash folders</comment>
   </data>
   <data name="Limit_Body" xml:space="preserve">
@@ -8807,15 +8807,15 @@ Si prefiere utilizar Mailbird en este dispositivo por favor confírmelo para rea
     <comment>Warning text on device limit window</comment>
   </data>
   <data name="License_DeviceLimitHint" xml:space="preserve">
-    <value>This license key has reached its device limit.
+    <value>Esta clave de licencia ha alcanzado su límite de dispositivos.
 
-Please enter another license key, or continue with the activation to change the registration to this device.</value>
+Ingrese otra clave de licencia o continúe con la activación para cambiar el registro de este dispositivo.</value>
     <comment>This license key has reached its device limit.
 
 Please enter another license key, or continue with the activation to change the registration to this device.</comment>
   </data>
   <data name="UpgradeToPro_Paid2YearPlan" xml:space="preserve">
-    <value>(billed every 2 years)</value>
+    <value>(facturado cada 2 años)</value>
     <comment>Text to explain the payment is every 2 years.</comment>
   </data>
   <data name="Welcome_AuthenticationType_AOLOAuth2" xml:space="preserve">
@@ -8823,153 +8823,153 @@ Please enter another license key, or continue with the activation to change the 
     <comment>Shown in edit server settings window under authentication field</comment>
   </data>
   <data name="ETAddOn_Benefit1" xml:space="preserve">
-    <value>Email Tracking for all your emails</value>
+    <value>Seguimiento de correo electrónico para todos sus correos electrónicos</value>
     <comment>Email tracking feature benefit: ability to have unlimited number of email tracking</comment>
   </data>
   <data name="ETAddOn_Benefit2" xml:space="preserve">
-    <value>Email Tracking opens notifications</value>
+    <value>Seguimiento de correo electrónico abre notificaciones</value>
     <comment>Email tracking feature benefit: get notifications when an email is opened</comment>
   </data>
   <data name="ETAddOn_Benefit3" xml:space="preserve">
-    <value>Email Tracking Notification Center</value>
+    <value>Centro de notificación de seguimiento de correo electrónico</value>
     <comment>Email tracking feature benefit: see list of opened email in notification center</comment>
   </data>
   <data name="ETAddOn_Header" xml:space="preserve">
-    <value>You have reached your monthly Email Tracking limit</value>
+    <value>Ha alcanzado su límite mensual de seguimiento de correo electrónico</value>
     <comment>Header for popup to offer Email Tracking add on upgrade</comment>
   </data>
   <data name="ETAddOn_Pricing" xml:space="preserve">
-    <value>For only $20/year</value>
+    <value>Por solo $20/año</value>
     <comment>Email tracking add on pricing</comment>
   </data>
   <data name="ETAddOn_Purchase" xml:space="preserve">
-    <value>Get unlimited Email Tracking access</value>
+    <value>Obtenga acceso ilimitado al seguimiento de correo electrónico</value>
     <comment>Label for purchase button</comment>
   </data>
   <data name="ETAddOn_SubHeader" xml:space="preserve">
-    <value>Would you like to continue using Email Tracking?
-You can now get access to the unlimited Email Tracking feature, including:</value>
+    <value>¿Le gustaría seguir usando el seguimiento de correo electrónico?
+Ahora puede obtener acceso a la función ilimitada de seguimiento de correo electrónico, que incluye:</value>
     <comment>Subheader for popup to offer Email Tracking add on upgrade</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Blocked" xml:space="preserve">
-    <value>Blocked</value>
+    <value>Bloqueado</value>
     <comment>Name of blocked contacts system group.</comment>
   </data>
   <data name="App_Contacts_SystemGroup_Chat" xml:space="preserve">
-    <value>Chat buddies</value>
+    <value>Amigos de chat</value>
     <comment>Name of chat buddies system group.</comment>
   </data>
   <data name="Contacts_CantAddContact" xml:space="preserve">
-    <value>Contacts can be removed, but not added to this group, due to limitations by the contact provider.</value>
+    <value>Los contactos pueden eliminarse, pero no agregarse a este grupo, debido a las limitaciones del proveedor de contactos.</value>
     <comment>Explanation when certain groups cant add new member due to some limitations</comment>
   </data>
   <data name="Upgrade_AdvancedSearchFeatureName" xml:space="preserve">
-    <value>Advanced Search</value>
+    <value>Búsqueda Avanzada</value>
   </data>
   <data name="Upgrade_EmailTrackingFeatureName" xml:space="preserve">
-    <value>Email Tracking</value>
+    <value>Seguimiento de correo electrónico</value>
     <comment>Name of the feature displayed on upgrade window for lite users when trying to access Email Tracking feature</comment>
   </data>
   <data name="Upgrade_LinkedinLookupFeatureName" xml:space="preserve">
-    <value>LinkedIn Lookup</value>
+    <value>Búsqueda de LinkedIn</value>
   </data>
   <data name="Upgrade_SendLaterFeatureName" xml:space="preserve">
-    <value>Send Later</value>
+    <value>Envíalo después</value>
   </data>
   <data name="Upgrade_UnsubscribeButtonFeatureName" xml:space="preserve">
-    <value>Unsubscribe Button</value>
+    <value>Botón para darse de baja</value>
   </data>
   <data name="Upgrade_AppsButton" xml:space="preserve">
-    <value>Get {0} and more</value>
+    <value>Obtenga {0} y más</value>
     <comment>Button content of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsDescription" xml:space="preserve">
-    <value>Want to build your personal productivity dashboard?
-Gain acces to this, and other apps with a Mailbird license.</value>
+    <value>¿Quiere construir su tablero de productividad personal?
+Obtenga acceso a esta y otras aplicaciones con una licencia de Mailbird.</value>
     <comment>Desciptions of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>Deberá mejorar su licencia para acceder a {0}</value>
     <comment>Title of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_BenefitAdvancedSearch" xml:space="preserve">
-    <value>Advanced Search to find what you need fast</value>
+    <value>Búsqueda avanzada para encontrar lo que necesita rápidamente</value>
     <comment>Benefit of advanced search presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitApps" xml:space="preserve">
-    <value>35+ app integrations to help your productivity and communication</value>
+    <value>Más de 35 integraciones de aplicaciones para ayudar a su productividad y comunicación</value>
     <comment>Benefit of apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitBusinessApps" xml:space="preserve">
-    <value>Business apps like Asana, Slack, Trello, and more</value>
+    <value>Aplicaciones comerciales como Asana, Slack, Trello y más</value>
     <comment>Benefit of business apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTracking" xml:space="preserve">
-    <value>Email Tracking for all your emails</value>
+    <value>Seguimiento de correo electrónico para todos sus correos electrónicos</value>
     <comment>Benefit of email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotificationCenter" xml:space="preserve">
-    <value>Email Tracking Notification Center</value>
+    <value>Centro de notificación de seguimiento de correo electrónico</value>
     <comment>Benefit of email tracking notification center presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotifications" xml:space="preserve">
-    <value>Email Tracking opens notifications</value>
+    <value>Seguimiento de correo electrónico abre notificaciones</value>
     <comment>Benefit of email tracking open notifications presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitPrioritySupport" xml:space="preserve">
-    <value>Priority Support whenever you have an issue or question</value>
+    <value>Soporte prioritario siempre que tenga un problema o una pregunta</value>
     <comment>Benefit of priority support presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSentLater" xml:space="preserve">
-    <value>Send Later so emails send themselves</value>
+    <value>Enviar más tarde para que los correos electrónicos se envíen solos</value>
     <comment>Benefit of send later presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSignatures" xml:space="preserve">
-    <value>Multiple signatures and identities</value>
+    <value>Múltiples firmas e identidades</value>
     <comment>Benefit of signatures presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnifiedInbox" xml:space="preserve">
-    <value>A Unified Inbox to streamline your inbox management</value>
+    <value>Una bandeja de entrada unificada para agilizar la gestión de sus correos</value>
     <comment>Benefit of unified account presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedAccounts" xml:space="preserve">
-    <value>Unlimited accounts so you never miss an email</value>
+    <value>Cuentas ilimitadas para que nunca pierdas un correo electrónico</value>
     <comment>Benefit of unlimited accounts presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedEmailTracking" xml:space="preserve">
-    <value>Unlimited Email Tracking for all your emails</value>
+    <value>Seguimiento de correo electrónico ilimitado para todos sus correos electrónicos</value>
     <comment>Benefit of unlimited email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnsubscribeButton" xml:space="preserve">
-    <value>Unsubscribe Button to stop getting unwanted newsletters</value>
+    <value>Botón de cancelación de suscripción para dejar de recibir boletines no deseados</value>
     <comment>Benefit of unsubscribe button presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BusinessAppsButton" xml:space="preserve">
-    <value>Get access to business apps and more</value>
+    <value>Obtenga acceso a aplicaciones comerciales y más</value>
     <comment>Button content of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Optimice su flujo de trabajo con Mailbird Business. Mejore su licenciapara obtener acceso a:</value>
     <comment>Description of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business to enable {0}</value>
+    <value>Necesitará Mailbird Business para habilitar {0}</value>
     <comment>Title of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>Obtenga acceso a {0} y más</value>
     <comment>Button content of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Optimice su flujo de trabajo con Mailbird Business. Mejore su licencia para obtener acceso a:</value>
     <comment>Description of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericTitle" xml:space="preserve">
-    <value>Get access to {0} and much more</value>
+    <value>Obtenga acceso a {0} y mucho más</value>
     <comment>Title of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingButton" xml:space="preserve">
-    <value>Get unlimited Email Tracking and more</value>
+    <value>Obtenga seguimiento de correo electrónico ilimitado y más</value>
     <comment>Button content of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingDescription" xml:space="preserve">
@@ -8977,156 +8977,156 @@ Gain acces to this, and other apps with a Mailbird license.</value>
     <comment>Description of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingTitle" xml:space="preserve">
-    <value>You've reached your 
-monthly Email Tracking limit</value>
+    <value>Has llegado a tu
+límite mensual de seguimiento de correo electrónico</value>
     <comment>Title of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_ExchangeButton" xml:space="preserve">
-    <value>Get access to MS Exchange and more</value>
+    <value>Obtenga acceso a MS Exchange y más</value>
     <comment>Button content of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeDescription" xml:space="preserve">
-    <value>Are you looking to use an Exchange account? Upgrade to
-Mailbird Business and you can. You'll also get access to:</value>
+    <value>¿Está buscando utilizar una cuenta de Exchange? Compre
+Mailbird Business podrá hacerlo. También obtendrá acceso a:</value>
     <comment>Description of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business
-to use an Exchange account</value>
+    <value>Necesitarás Mailbird Business
+para usar una cuenta de Exchange</value>
     <comment>Title of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_GenericButton" xml:space="preserve">
-    <value>Simplify your email management</value>
+    <value>Simplifica la gestión de tu correo electrónico</value>
     <comment>Button content of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericDescription" xml:space="preserve">
-    <value>Want to cut inbox clutter and make managing your accounts a breeze?
-Purchase a Mailbird licence to get access to:</value>
+    <value>¿Quiere reducir el desorden de su bandeja de entrada y facilitar la administración de sus cuentas?
+Compre una licencia de Mailbird para obtener acceso a:</value>
     <comment>Description of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericTitle" xml:space="preserve">
-    <value>Stay on top of your emails</value>
+    <value>Manténgase al tanto de sus correos electrónicos</value>
     <comment>Title of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_OfflineDescription" xml:space="preserve">
-    <value>Are you looking for an app that makes managing all your accounts a breeze? Purchase a Mailbird licence and get access to:</value>
+    <value>¿Está buscando una aplicación que facilite la administración de todas sus cuentas? Compre una licencia de Mailbird y obtenga acceso a:</value>
     <comment>Desciptions of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_OfflineTitle" xml:space="preserve">
-    <value>Your Mailbird account
-has gone offline</value>
+    <value>Tu cuenta Mailbird
+se ha desconectado</value>
     <comment>Title of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewButton" xml:space="preserve">
-    <value>Get access to Quick Preview and more</value>
+    <value>Obtenga acceso a Vista previa rápida y más</value>
     <comment>Button content of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewDescription" xml:space="preserve">
-    <value>Find what you need faster with Quick Preview. Get access to it and other
-useful features like:</value>
+    <value>Encuentre lo que necesita más rápido con Vista previa rápida. Obtenga acceso a él y a otras
+opciones útiles como:</value>
     <comment>Descriptionof upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewTitle" xml:space="preserve">
-    <value>The Quick Preview feature
-is not available</value>
+    <value>La función de vista previa rápida
+no está disponible</value>
     <comment>Title of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_SprintButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>Obtenga acceso a {0} y más</value>
     <comment>Button content of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintDescription" xml:space="preserve">
-    <value>Do you need to block out distractions? Get access to features that
-help you focus like:</value>
+    <value>¿Necesitas bloquear las distracciones? Obtenga acceso a funciones que
+te ayuden a concentrarte como:</value>
     <comment>Desciptions of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>Deberá mejorar su licencia para acceder a {0}</value>
     <comment>Title of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_ThisApp" xml:space="preserve">
-    <value>this app</value>
+    <value>esta aplicación</value>
     <comment>Placeholder text for generic app</comment>
   </data>
   <data name="Upgrade_ThisFeature" xml:space="preserve">
-    <value>this feature</value>
+    <value>esta característica</value>
     <comment>Placeholder text for generic feature</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsButton" xml:space="preserve">
-    <value>Get access to Unlimited Accounts and more</value>
+    <value>Obtenga acceso a cuentas ilimitadas y más</value>
     <comment>Button content of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsDescription" xml:space="preserve">
-    <value>Add Unlimited Accounts and manage everything from one place:</value>
+    <value>Agregue cuentas ilimitadas y administre todo desde un solo lugar:</value>
     <comment>Desciptions of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsTitle" xml:space="preserve">
-    <value>You will need to upgrade
-to add Unlimited Accounts</value>
+    <value>Tendrá que mejorar su licencia
+para agregar cuentas ilimitadas</value>
     <comment>Title of upgrade window unlimited accounts trigger</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanationPOP3" xml:space="preserve">
-    <value>If you remove a POP3 account, you could lose all your emails unless you have backed them up. 
+    <value>Si elimina una cuenta POP3, podría perder todos sus correos electrónicos a menos que los haya respaldado.
 
-POP3 accounts download all emails from a server to a single computer (i.e your computer), either keeping them on the server or deleting them as they're downloaded, depending on the account settings.
+Las cuentas POP3 descargan todos los correos electrónicos de un servidor a una sola computadora (es decir, su computadora), ya sea manteniéndolos en el servidor o eliminándolos a medida que se descargan, según la configuración de la cuenta.
 
-To find out more about how to backup your emails, please see [link href={0}]this article[/link], or [link href={1}]contact support[/link].
+Para obtener más información sobre cómo hacer una copia de seguridad de sus correos electrónicos, consulte [link href={0}]este artículo[/link] o [link href={1}]póngase en contacto con el servicio de asistencia[/link].
 
-Are you sure you want to remove this account?</value>
+¿Está seguro de que desea eliminar esta cuenta?</value>
     <comment>Text of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Dialog_RemoveAccountPOP3" xml:space="preserve">
-    <value>Remove POP3 account?</value>
+    <value>¿Quitar cuenta POP3?</value>
     <comment>Title of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Upgrade_BilledAnnually" xml:space="preserve">
-    <value>billed annually</value>
+    <value>facturado anualmente</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_OnlyFor" xml:space="preserve">
-    <value>Only for</value>
+    <value>Solo para</value>
     <comment>Text that appears before the price on upgrade popup for personal users triggers</comment>
   </data>
   <data name="Upgrade_PerMonth" xml:space="preserve">
-    <value>per month</value>
+    <value>por mes</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_StartingFrom" xml:space="preserve">
-    <value>Starting from</value>
+    <value>A partir de</value>
     <comment>Text that appears before the price on upgrade popup for trial/offline users triggers</comment>
   </data>
   <data name="App_Grammarly_Description" xml:space="preserve">
-    <value>Compose bold, clear, mistake-free emails with Grammarly directly from Mailbird.</value>
+    <value>Redacte correos electrónicos llamativos, claros y sin errores con Grammarly directamente desde Mailbird.</value>
     <comment>App description for Grammarly that will appear in app store.</comment>
   </data>
   <data name="Options_CancelSubscription" xml:space="preserve">
-    <value>Cancel your subscription</value>
+    <value>Cancela tu suscripción</value>
     <comment>Text for cancel subscription button in Options window</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_ICloud" xml:space="preserve">
-    <value>Using an iCloud account with a third-party application requires you {0}create an app-specific password{1}. Enter an app-specific password for {2}</value>
+    <value>El uso de una cuenta de iCloud con una aplicación de terceros requiere que {0}cree una contraseña de aplicación{1}. Introduce una contraseña de aplicación para {2}</value>
     <comment>Message shown when adding an iCloud account, asking for an app-specific password. {0} and {1} will make the text in between a link to a page to create a password, and {2} will be replaced by the user's email address.</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_Zoho" xml:space="preserve">
-    <value>Enter the password used to log in to {0}
+    <value>Introduce la contraseña utilizada para iniciar sesión en {0}
 
-If two-factor authentication is enabled for your Zoho account then {1}an app-specific password{2} is required instead of your normal password.</value>
+Si la autenticación de dos factores está habilitada para su cuenta de Zoho, entonces se requiere {1}una contraseña de aplicación{2} en lugar de su contraseña normal.</value>
     <comment>Message shown when adding a Zoho account, saying an app-specific password may be required. {1} and {2} will make the text in between a link to a page to create a password, and {0} will be replaced by the user's email address.</comment>
   </data>
   <data name="Dialog_GrammarlyConnectedAccountsError_Description" xml:space="preserve">
-    <value>Please make sure there is only one compose window opened while connecting Grammarly acount.</value>
+    <value>Asegúrese de que solo haya una ventana de redacción abierta al conectar la cuenta de Grammarly.</value>
     <comment>Message shown when there are more then one compose window opened while connecting Grammarly account</comment>
   </data>
   <data name="Dialog_GrammarlyConnectedAccountsError_Title" xml:space="preserve">
-    <value>Too many compose windows opened</value>
+    <value>Demasiadas ventanas de redacción abiertas</value>
     <comment>Message shown when there are more then one compose window opened while connecting Grammarly account</comment>
   </data>
   <data name="Announcement_BFCloseWindow" xml:space="preserve">
-    <value>Close Window</value>
+    <value>Cerrar Ventana</value>
     <comment>Button to close announcement window</comment>
   </data>
   <data name="Announcement_CMDisclaimer" xml:space="preserve">
-    <value>* The discount code is valid until 30 November 2022. By activating the discount generator you agree for Mailbird to send you the discount code via email.</value>
+    <value>* El código de descuento es válido hasta el 30 de noviembre de 2022. Al activar el generador de descuentos, acepta que Mailbird le envíe el código de descuento por correo electrónico.</value>
     <comment>Disclaimer for cyber monday promo</comment>
   </data>
 </root>
