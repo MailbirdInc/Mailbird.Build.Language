@@ -5400,11 +5400,11 @@ with Mailbird Pro?</comment>
     <comment>Dialog box header</comment>
   </data>
   <data name="Dialog_RestoredAutoCompleteSuggestionsMessage" xml:space="preserve">
-    <value>All previously removed auto-complete suggestions have been restored.</value>
+    <value>Toutes les suggestions de saisie semi-automatique précédemment supprimées ont été restaurées.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionHeader" xml:space="preserve">
-    <value>Removing auto-complete suggestions</value>
+    <value>Supprimer les suggestions de saisie semi-automatique</value>
     <comment>Dialog box header</comment>
   </data>
   <data name="Notification_RemovedAutoCompleteSuggestionMessage" xml:space="preserve">
@@ -5414,11 +5414,11 @@ Removed suggestions can be restored from the settings.</value>
     <comment>Dialog box message</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestions" xml:space="preserve">
-    <value>Restore auto-complete suggestions</value>
+    <value>Supprimer les suggestions de saisie semi-automatique</value>
     <comment>Settings button to restore all auto-complete suggestions</comment>
   </data>
   <data name="Options_RestoreAutoCompleteSuggestionsExplanation" xml:space="preserve">
-    <value>Restores any auto-complete suggestions you've previously removed.</value>
+    <value>Restaurer toutes les suggestions de saisie semi-automatique que vous avez précédemment supprimées.</value>
     <comment>Explanation for restore auto-complete suggestions button in settings</comment>
   </data>
   <data name="App_Contacts_MergeContacts_LoadingMessage" xml:space="preserve">
@@ -5588,7 +5588,7 @@ Try the new Contacts now!</value>
     <value>File, sort and schedule emails with ease.</value>
   </data>
   <data name="App_FormSwift_Description" xml:space="preserve">
-    <value>Generate a signature for your emails.</value>
+    <value>Générez une signature pour vos e-mails.</value>
   </data>
   <data name="App_Moodo_Description" xml:space="preserve">
     <value>Beautiful minimalistic task management app. Drag and organize emails in your task list.</value>
@@ -5756,7 +5756,7 @@ Try the new Contacts now!</value>
     <comment>Text to guide user when dragging image in compose window to put the image in the body of the email</comment>
   </data>
   <data name="Options_AutoTagRecipients" xml:space="preserve">
-    <value>Auto-add recipients when @ tagging</value>
+    <value>Ajouter automatiquement les destinataires en ajoutant le tag @</value>
     <comment>Option to show  autocomplete while tagging (@name) in compose window</comment>
   </data>
   <data name="UpdatePreference_Auto" xml:space="preserve">
@@ -5814,7 +5814,7 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Label of the domain field in the user account setup window</comment>
   </data>
   <data name="Options_ShowReadingPane" xml:space="preserve">
-    <value>Show reading pane</value>
+    <value>Afficher le volet de lecture</value>
     <comment>Option to hide the email view</comment>
   </data>
   <data name="Account_Exchange_Url" xml:space="preserve">
@@ -5822,7 +5822,7 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Label of the Exchange server field in the user account setup window</comment>
   </data>
   <data name="Theme_FullDark" xml:space="preserve">
-    <value>Full dark theme</value>
+    <value>Thème sombre complet</value>
     <comment>Label for full dark theme</comment>
   </data>
   <data name="Welcome_AuthenticationType_Exchange" xml:space="preserve">
@@ -5872,23 +5872,23 @@ Please contact support for information on how to resolve this.</value>
     <comment>{0} will be replaced by the number of new messages, so the result will be "2 new messages"</comment>
   </data>
   <data name="Options_ScaleApplication" xml:space="preserve">
-    <value>Application scaling level</value>
+    <value>Niveau de Zoom</value>
     <comment>Header for option to change the UI scaling</comment>
   </data>
   <data name="Options_ScaleInfo" xml:space="preserve">
-    <value>The new scaling level will be applied to this window the next time you open it.</value>
+    <value>Le nouveau niveau d'échelle sera appliqué à cette fenêtre la prochaine fois que vous l'ouvrirez.</value>
     <comment>Info wdhen scale is changed in Settings window</comment>
   </data>
   <data name="Options_ScaleOthers" xml:space="preserve">
-    <value>Other scaling levels</value>
+    <value>Autre niveau de zoom</value>
     <comment>Header for other options to scale the UI</comment>
   </data>
   <data name="Options_ScaleOthersExplanation" xml:space="preserve">
-    <value>The following scaling levels will be applied to the application scaling level, and can be used to fine tune the level for emails and the apps that supports it.</value>
+    <value>Les niveaux de mise à l'échelle suivants seront appliqués au niveau de mise à l'échelle de l'application et peuvent être utilisés pour affiner le niveau des e-mails et des applications qui le prennent en charge.</value>
     <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
-    <value>Reset scaling level</value>
+    <value>Remise à zéro du zoom</value>
     <comment>Tooltip text for button to reset the scaling level, (Ctrl+0) doesn't need to be translated</comment>
   </data>
   <data name="MailEditor_CcBcc" xml:space="preserve">
@@ -5940,7 +5940,7 @@ Please contact support for information on how to resolve this.</value>
     <comment>Button to give consent</comment>
   </data>
   <data name="Options_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>Zoom</value>
     <comment>Section in settings window to adjust scaling of the UI</comment>
   </data>
   <data name="Folder_SearchResult" xml:space="preserve">
@@ -7628,7 +7628,7 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Placeholder in from and to field in filter condition</comment>
   </data>
   <data name="Filter_EditFilter_Applied" xml:space="preserve">
-    <value>The filter will be applied to incoming messages in the [bold]{0}[/bold] account.</value>
+    <value>Le filtre sera appliqué aux messages entrants dans le compte [bold]{0}[/bold].</value>
     <comment>Explanation in filter window</comment>
   </data>
   <data name="Notification_FiltersWithMissingFolderButton" xml:space="preserve">
@@ -7644,7 +7644,7 @@ Are you sure you want to continue with the purchase of Mailbird Personal?</value
     <comment>Error message when on filter item</comment>
   </data>
   <data name="Options_Filters_FiltersNote" xml:space="preserve">
-    <value>The filters will be applied to incoming messages when Mailbird is running.</value>
+    <value>Les filtres seront appliqués aux messages entrants lorsque Mailbird est en cours d'exécution.</value>
     <comment>Note in the bottom of filters list</comment>
   </data>
   <data name="Filter_ContactTooltip" xml:space="preserve">
@@ -7714,7 +7714,7 @@ NB {0} will be replaced with the amount of discount. Please also keep it short, 
     <comment>Menu to create filter from context menu</comment>
   </data>
   <data name="Options_SignatureNewConversation" xml:space="preserve">
-    <value>Add signatures to new conversations only</value>
+    <value>Ajouter des signatures aux nouvelles conversations uniquement</value>
     <comment>Setting to only add signature to new conversation</comment>
   </data>
   <data name="App_ToDo_Description" xml:space="preserve">
@@ -8888,96 +8888,96 @@ Vous pouvez maintenant accéder à la fonctionnalité d'accusé de réception il
     <value>Se désabonner</value>
   </data>
   <data name="Upgrade_AppsButton" xml:space="preserve">
-    <value>Get {0} and more</value>
+    <value>Activez {0} et toutes les autres</value>
     <comment>Button content of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsDescription" xml:space="preserve">
-    <value>Want to build your personal productivity dashboard?
-Gain acces to this, and other apps with a Mailbird license.</value>
+    <value>Vous souhaitez créer votre tableau de bord de productivité personnel ?
+Accédez à cela et à d'autres applications avec une licence Mailbird.</value>
     <comment>Desciptions of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_AppsTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>Mettez à niveau votre license pour accèder à {0}</value>
     <comment>Title of upgrade window for apps trigger</comment>
   </data>
   <data name="Upgrade_BenefitAdvancedSearch" xml:space="preserve">
-    <value>Advanced Search to find what you need fast</value>
+    <value>Recherche avancée pour trouver rapidement ce dont vous avez besoin</value>
     <comment>Benefit of advanced search presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitApps" xml:space="preserve">
-    <value>35+ app integrations to help your productivity and communication</value>
+    <value>Plus de 35 intégrations d'applications pour améliorer votre productivité et votre communication</value>
     <comment>Benefit of apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitBusinessApps" xml:space="preserve">
-    <value>Business apps like Asana, Slack, Trello, and more</value>
+    <value>Apps "Pro" telles que Asana, Slack, Trello, et plus encore</value>
     <comment>Benefit of business apps presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTracking" xml:space="preserve">
-    <value>Email Tracking for all your emails</value>
+    <value>Suivi des e-mails pour tous vos e-mails</value>
     <comment>Benefit of email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotificationCenter" xml:space="preserve">
-    <value>Email Tracking Notification Center</value>
+    <value>Centre de notification de suivi des e-mails</value>
     <comment>Benefit of email tracking notification center presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitEmailTrackingNotifications" xml:space="preserve">
-    <value>Email Tracking opens notifications</value>
+    <value>Suivi des ouvertures d'emails</value>
     <comment>Benefit of email tracking open notifications presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitPrioritySupport" xml:space="preserve">
-    <value>Priority Support whenever you have an issue or question</value>
+    <value>Support client prioritaire à chaque fois que vous avez un problème ou une question</value>
     <comment>Benefit of priority support presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSentLater" xml:space="preserve">
-    <value>Send Later so emails send themselves</value>
+    <value>Planifiez vos emails</value>
     <comment>Benefit of send later presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitSignatures" xml:space="preserve">
-    <value>Multiple signatures and identities</value>
+    <value>Signatures et identités multiples</value>
     <comment>Benefit of signatures presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnifiedInbox" xml:space="preserve">
-    <value>A Unified Inbox to streamline your inbox management</value>
+    <value>Une boîte de réception unifiée pour simplifier la gestion de votre boîte de réception</value>
     <comment>Benefit of unified account presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedAccounts" xml:space="preserve">
-    <value>Unlimited accounts so you never miss an email</value>
+    <value>Comptes illimités pour ne jamais manquer un e-mail</value>
     <comment>Benefit of unlimited accounts presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnlimitedEmailTracking" xml:space="preserve">
-    <value>Unlimited Email Tracking for all your emails</value>
+    <value>Suivi illimité des e-mails pour tous vos e-mails</value>
     <comment>Benefit of unlimited email tracking presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BenefitUnsubscribeButton" xml:space="preserve">
-    <value>Unsubscribe Button to stop getting unwanted newsletters</value>
+    <value>Bouton "Se désabonner" pour ne plus recevoir de newsletters indésirables</value>
     <comment>Benefit of unsubscribe button presented on upgrade window</comment>
   </data>
   <data name="Upgrade_BusinessAppsButton" xml:space="preserve">
-    <value>Get access to business apps and more</value>
+    <value>Accédez à des applications professionnelles et plus encore</value>
     <comment>Button content of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Simplifier votre travail avec Mailbird Business. Mettez à niveau pour accéder à :</value>
     <comment>Description of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business to enable {0}</value>
+    <value>Activez Mailbird Business to accèder à {0}</value>
     <comment>Title of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>Accèdez à {0} et plus encore</value>
     <comment>Button content of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Simplifiez votre flux de travail avec Mailbird Business. Mettez à niveau pour accéder à :</value>
     <comment>Description of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericTitle" xml:space="preserve">
-    <value>Get access to {0} and much more</value>
+    <value>Accèdez à {0} et bien plus encore</value>
     <comment>Title of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingButton" xml:space="preserve">
-    <value>Get unlimited Email Tracking and more</value>
+    <value>Suivez l'ouverture de vos e-mails et plus encore</value>
     <comment>Button content of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingDescription" xml:space="preserve">
@@ -8985,156 +8985,156 @@ Gain acces to this, and other apps with a Mailbird license.</value>
     <comment>Description of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_EmailTrackingTitle" xml:space="preserve">
-    <value>You've reached your 
-monthly Email Tracking limit</value>
+    <value>Vous avez atteint votre limite mensuelle de  
+Email suivis</value>
     <comment>Title of upgrade window for email tracking trigger</comment>
   </data>
   <data name="Upgrade_ExchangeButton" xml:space="preserve">
-    <value>Get access to MS Exchange and more</value>
+    <value>Accédez à MS Exchange et plus encore</value>
     <comment>Button content of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeDescription" xml:space="preserve">
-    <value>Are you looking to use an Exchange account? Upgrade to
-Mailbird Business and you can. You'll also get access to:</value>
+    <value>Vous souhaitez utiliser un compte Exchange ? Mise à niveau vers
+Mailbird Business. Vous aurez également accès à</value>
     <comment>Description of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business
-to use an Exchange account</value>
+    <value>Vous aurez besoin de Mailbird Business
+utiliser un compte Exchange</value>
     <comment>Title of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_GenericButton" xml:space="preserve">
-    <value>Simplify your email management</value>
+    <value>Simplifiez la gestion de votre messagerie</value>
     <comment>Button content of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericDescription" xml:space="preserve">
-    <value>Want to cut inbox clutter and make managing your accounts a breeze?
-Purchase a Mailbird licence to get access to:</value>
+    <value>Vous voulez simplifier votre boîte de réception et la gestion de vos comptes ?
+Achetez une licence Mailbird pour accéder à :</value>
     <comment>Description of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_GenericTitle" xml:space="preserve">
-    <value>Stay on top of your emails</value>
+    <value>Restez au courant de vos e-mails</value>
     <comment>Title of upgrade window for generic trigger</comment>
   </data>
   <data name="Upgrade_OfflineDescription" xml:space="preserve">
-    <value>Are you looking for an app that makes managing all your accounts a breeze? Purchase a Mailbird licence and get access to:</value>
+    <value>Vous recherchez une application qui facilite la gestion de tous vos comptes ? Achetez une licence Mailbird et accédez à :</value>
     <comment>Desciptions of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_OfflineTitle" xml:space="preserve">
-    <value>Your Mailbird account
-has gone offline</value>
+    <value>Votre compte Mailbird
+est hors ligne</value>
     <comment>Title of upgrade window for offline trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewButton" xml:space="preserve">
-    <value>Get access to Quick Preview and more</value>
+    <value>Accédez à l'aperçu rapide et plus encore</value>
     <comment>Button content of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewDescription" xml:space="preserve">
-    <value>Find what you need faster with Quick Preview. Get access to it and other
-useful features like:</value>
+    <value>Trouvez plus rapidement ce dont vous avez besoin avec la prévisualisation rapide. Accédez-y et à d'autres
+fonctionnalités utiles telles que :</value>
     <comment>Descriptionof upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_QuickPreviewTitle" xml:space="preserve">
-    <value>The Quick Preview feature
-is not available</value>
+    <value>La fonction Aperçu rapide
+n'est pas disponible</value>
     <comment>Title of upgrade window for quick preview trigger</comment>
   </data>
   <data name="Upgrade_SprintButton" xml:space="preserve">
-    <value>Get access to {0} and more</value>
+    <value>Accédez à {0} et plus</value>
     <comment>Button content of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintDescription" xml:space="preserve">
-    <value>Do you need to block out distractions? Get access to features that
-help you focus like:</value>
+    <value>Avez-vous besoin de bloquer les distractions ? Accédez à des fonctionnalités qui
+vous aider à vous concentrer comme :</value>
     <comment>Desciptions of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_SprintTitle" xml:space="preserve">
-    <value>You'll need to upgrade to access {0}</value>
+    <value>Vous devrez effectuer une mise à niveau pour accéder à {0}</value>
     <comment>Title of upgrade window for sprint trigger</comment>
   </data>
   <data name="Upgrade_ThisApp" xml:space="preserve">
-    <value>this app</value>
+    <value>Cette app</value>
     <comment>Placeholder text for generic app</comment>
   </data>
   <data name="Upgrade_ThisFeature" xml:space="preserve">
-    <value>this feature</value>
+    <value>Cette fonctionnalité</value>
     <comment>Placeholder text for generic feature</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsButton" xml:space="preserve">
-    <value>Get access to Unlimited Accounts and more</value>
+    <value>Accédez à des comptes illimités et plus encore</value>
     <comment>Button content of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsDescription" xml:space="preserve">
-    <value>Add Unlimited Accounts and manage everything from one place:</value>
+    <value>Ajoutez des comptes illimités et gérez tout depuis un seul endroit :</value>
     <comment>Desciptions of upgrade window for unlimited accounts trigger</comment>
   </data>
   <data name="Upgrade_UnlimitedAccountsTitle" xml:space="preserve">
-    <value>You will need to upgrade
-to add Unlimited Accounts</value>
+    <value>Vous devrez mettre à niveau
+pour ajouter des comptes illimités</value>
     <comment>Title of upgrade window unlimited accounts trigger</comment>
   </data>
   <data name="Dialog_RemoveAccountExplanationPOP3" xml:space="preserve">
-    <value>If you remove a POP3 account, you could lose all your emails unless you have backed them up. 
+    <value>Si vous supprimez un compte POP3, vous risquez de perdre tous vos e-mails à moins que vous ne les ayez sauvegardés.
 
-POP3 accounts download all emails from a server to a single computer (i.e your computer), either keeping them on the server or deleting them as they're downloaded, depending on the account settings.
+Les comptes POP3 téléchargent tous les e-mails d'un serveur vers un seul ordinateur (c'est-à-dire votre ordinateur), soit en les conservant sur le serveur, soit en les supprimant au fur et à mesure de leur téléchargement, selon les paramètres du compte.
 
-To find out more about how to backup your emails, please see [link href={0}]this article[/link], or [link href={1}]contact support[/link].
+Pour en savoir plus sur la sauvegarde de vos e-mails, veuillez consulter [link href={0}]cet article[/link] ou [link href={1}]contacter l'assistance[/link].
 
-Are you sure you want to remove this account?</value>
+Voulez-vous vraiment supprimer ce compte ?</value>
     <comment>Text of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Dialog_RemoveAccountPOP3" xml:space="preserve">
-    <value>Remove POP3 account?</value>
+    <value>Supprimer le compte POP3 ?</value>
     <comment>Title of warning shown when trying to remove POP3 account</comment>
   </data>
   <data name="Upgrade_BilledAnnually" xml:space="preserve">
-    <value>billed annually</value>
+    <value>facturés annuellement</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_OnlyFor" xml:space="preserve">
-    <value>Only for</value>
+    <value>Seulement pour</value>
     <comment>Text that appears before the price on upgrade popup for personal users triggers</comment>
   </data>
   <data name="Upgrade_PerMonth" xml:space="preserve">
-    <value>per month</value>
+    <value>par mois</value>
     <comment>Text that appears after the price on upgrade popup</comment>
   </data>
   <data name="Upgrade_StartingFrom" xml:space="preserve">
-    <value>Starting from</value>
+    <value>Débute à</value>
     <comment>Text that appears before the price on upgrade popup for trial/offline users triggers</comment>
   </data>
   <data name="App_Grammarly_Description" xml:space="preserve">
-    <value>Compose bold, clear, mistake-free emails with Grammarly directly from Mailbird.</value>
+    <value>Composez des e-mails audacieux, clairs et sans erreur avec Grammarly directement depuis Mailbird.</value>
     <comment>App description for Grammarly that will appear in app store.</comment>
   </data>
   <data name="Options_CancelSubscription" xml:space="preserve">
-    <value>Cancel your subscription</value>
+    <value>Annuler votre abonnement</value>
     <comment>Text for cancel subscription button in Options window</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_ICloud" xml:space="preserve">
-    <value>Using an iCloud account with a third-party application requires you {0}create an app-specific password{1}. Enter an app-specific password for {2}</value>
+    <value>L'utilisation d'un compte iCloud avec une application tierce nécessite que vous {0} créiez un mot de passe spécifique à l'application{1}. Saisissez un mot de passe spécifique à l'application pour {2}</value>
     <comment>Message shown when adding an iCloud account, asking for an app-specific password. {0} and {1} will make the text in between a link to a page to create a password, and {2} will be replaced by the user's email address.</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_Zoho" xml:space="preserve">
-    <value>Enter the password used to log in to {0}
+    <value>Entrez le mot de passe utilisé pour vous connecter à {0}
 
-If two-factor authentication is enabled for your Zoho account then {1}an app-specific password{2} is required instead of your normal password.</value>
+Si l'authentification à deux facteurs est activée pour votre compte Zoho, {1}un mot de passe spécifique à l'application{2} est requis au lieu de votre mot de passe normal.</value>
     <comment>Message shown when adding a Zoho account, saying an app-specific password may be required. {1} and {2} will make the text in between a link to a page to create a password, and {0} will be replaced by the user's email address.</comment>
   </data>
   <data name="Dialog_GrammarlyConnectedAccountsError_Description" xml:space="preserve">
-    <value>Please make sure there is only one compose window opened while connecting Grammarly acount.</value>
+    <value>Assurez-vous qu'il n'y a qu'une seule fenêtre de rédaction ouverte lors de la connexion au compte Grammarly.</value>
     <comment>Message shown when there are more then one compose window opened while connecting Grammarly account</comment>
   </data>
   <data name="Dialog_GrammarlyConnectedAccountsError_Title" xml:space="preserve">
-    <value>Too many compose windows opened</value>
+    <value>Trop de fenêtres de composition ouvertes</value>
     <comment>Message shown when there are more then one compose window opened while connecting Grammarly account</comment>
   </data>
   <data name="Announcement_BFCloseWindow" xml:space="preserve">
-    <value>Close Window</value>
+    <value>Fermer la fenêtre</value>
     <comment>Button to close announcement window</comment>
   </data>
   <data name="Announcement_CMDisclaimer" xml:space="preserve">
-    <value>* The discount code is valid until 30 November 2022. By activating the discount generator you agree for Mailbird to send you the discount code via email.</value>
+    <value>* Le code de réduction est valable jusqu'au 30 novembre 2022. En activant le générateur de réduction, vous acceptez que Mailbird vous envoie le code de réduction par e-mail.</value>
     <comment>Disclaimer for cyber monday promo</comment>
   </data>
 </root>
