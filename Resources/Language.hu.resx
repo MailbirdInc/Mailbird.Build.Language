@@ -9133,4 +9133,10 @@ Ha a Zoho fiókhoz kétlépcsős hitelesítés engedélyezve van, akkor a normá
     <value>A ChatGPT egy AI-alapú chatbot, amelyet az OpenAI fejlesztett ki, a GPT (generatívan előre képzett transzformátor) nyelvi modell alapján. Mély tanulási technikákat alkalmaz, hogy beszélgetési módon generálja az emberi jellegű válaszokat a szövegbevitelre.</value>
     <comment>App description for ChatGPT that will appear in app store.</comment>
   </data>
+  <data name="Options_NoUpdateDueToWindowsVersion" xml:space="preserve">
+    <value>Future updates to Mailbird unfortunately does not support this version of Windows, due to factors outside of our control. Because of this, updating has been disabled.
+
+To receive the latest updates to Mailbird, please update to a newer version of Windows.</value>
+    <comment>Message shown on the updates page of the options, in the event that future updates does not support the user's version of Windows.</comment>
+  </data>
 </root>
