@@ -5571,7 +5571,7 @@ Probeer nu de nieuwe contacten!</value>
     <value>Creëer eenvoudig uw eigen video conversatie ruimte en deel de link, maximaal 4 personen kunnen gratis deelnemen.</value>
   </data>
   <data name="App_Degoo_Description" xml:space="preserve">
-    <value>Bewaar uw bestanden in de cloud, 100 GB gratis cloud backup.</value>
+    <value>AI based cloud storage that helps you rediscover your best photos.</value>
   </data>
   <data name="App_Feedly_Description" xml:space="preserve">
     <value>De inhoud die u nodig heeft om uw onderzoek, marketing en verkoop te versnellen.</value>
@@ -5692,7 +5692,7 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Sommige van uw accounts zijn uitgeschakeld omdat uw proefversie van Mailbird is beëindigd. U gebruikt nu Mailbird Lite. Mailbird Lite ondersteund {0} email account(s) levenslang gratis. Koop Mailbird om al uw accounts te kunnen blijven gebruiken.</value>
+    <value>Some of your accounts have been disabled because your current plan has account limit. Your current plan supports up to {0} email account(s). Please purchase Mailbird Business in order to continue using all of your accounts.</value>
     <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
@@ -5700,7 +5700,7 @@ Probeer nu de nieuwe contacten!</value>
     <comment>Sub title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowTitle" xml:space="preserve">
-    <value>Uw proefperiode is geëindigd.</value>
+    <value>Account limit exceeded.</value>
     <comment>Title text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationContactUs" xml:space="preserve">
@@ -9138,5 +9138,40 @@ If two-factor authentication is enabled for your Zoho account then {1}an app-spe
 
 To receive the latest updates to Mailbird, please update to a newer version of Windows.</value>
     <comment>Message shown on the updates page of the options, in the event that future updates does not support the user's version of Windows.</comment>
+  </data>
+  <data name="Filters_UnavailableForFreemium" xml:space="preserve">
+    <value>Filters are not available for free version. Existing filters will not work in the free version.</value>
+    <comment>Message shown in the option window on Filters tab on free version</comment>
+  </data>
+  <data name="BrandedSignature_Show" xml:space="preserve">
+    <value>Show "Sent from Mailbird"</value>
+    <comment>Checkbox for enabling/disabling branded signature</comment>
+  </data>
+  <data name="BrandedSignature_Hide" xml:space="preserve">
+    <value>Hide "Sent from Mailbird"</value>
+    <comment>Checkbox for enabling/disabling branded signature</comment>
+  </data>
+  <data name="Options_StatusFreemium" xml:space="preserve">
+    <value>You are running Mailbird Free.</value>
+    <comment>Message shown in the About window when running Mailbird Free</comment>
+  </data>
+  <data name="Dialog_FreemiumRestartRequired" xml:space="preserve">
+    <value>Attention</value>
+    <comment>Message box title to restart Mailbird</comment>
+  </data>
+  <data name="Dialog_FreemiumRestartRequired_Explanation" xml:space="preserve">
+    <value>Mailbird will restart and change to free mode with limited features.</value>
+    <comment>Message box explanation to restart Mailbird</comment>
+  </data>
+  <data name="Dialog_GoFreeExplanation" xml:space="preserve">
+    <value>By not extending your trial Mailbird will restart and go to free mode. Do you wish to continue?</value>
+    <comment>Explanation for messagebox when dismissing trial extension window</comment>
+  </data>
+  <data name="License_DismissGoFree" xml:space="preserve">
+    <value>Dismiss and go to free mode</value>
+    <comment>Button to dismiss offer</comment>
+  </data>
+  <data name="Upgrade_FiltersFeatureName" xml:space="preserve">
+    <value>Filters</value>
   </data>
 </root>
