@@ -3726,7 +3726,7 @@ If you continue to experience this error, please contact support.</comment>
     <comment>Create shortcut on desktop</comment>
   </data>
   <data name="InstallationForm_InstallationCompleted" xml:space="preserve">
-    <value>A telepítés befejeződött</value>
+    <value>A telepítés befejeződött.</value>
     <comment>Installation complete</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
@@ -3918,7 +3918,7 @@ To prevent errors, please close the email client you'll import from before conti
     <comment>Importing account data</comment>
   </data>
   <data name="Import_Cancelled" xml:space="preserve">
-    <value>Az importálás megszakításra került</value>
+    <value>Az importálás megszakításra került.</value>
     <comment>Import cancelled</comment>
   </data>
   <data name="Import_Error_Client_Running" xml:space="preserve">
@@ -6814,7 +6814,7 @@ e.g. "2 occurrences"</comment>
     <comment>Header when there is no events to import or export</comment>
   </data>
   <data name="App_Calendar_Import_Canceled" xml:space="preserve">
-    <value>Az importálás megszakításra került</value>
+    <value>Az importálás megszakításra került.</value>
     <comment>Header when import was canceled</comment>
   </data>
   <data name="App_Calendar_Import_CanceledExplanation" xml:space="preserve">
@@ -9247,116 +9247,116 @@ A Mailbird legújabb frissítéseinek megtekintéséhez frissítsünk a Windows 
     <comment>Text content 2 for ChatGPT announcement page 3 for non business users</comment>
   </data>
   <data name="AppStore_AddCustomApp" xml:space="preserve">
-    <value>Custom app</value>
+    <value>Egyedi alkalmazás</value>
     <comment>Button to add custom app. It'll be formatted as: + Custom app</comment>
   </data>
   <data name="CustomApp_CreateApp" xml:space="preserve">
-    <value>Create app</value>
+    <value>Alkalmazás létrehozása</value>
     <comment>Title for window to create custom app</comment>
   </data>
   <data name="AccountValidationRule_InvalidName" xml:space="preserve">
-    <value>Name can't be empty</value>
+    <value>A név nem lehet üres.</value>
     <comment>Validation message when name field is empty</comment>
   </data>
   <data name="CustomApp_AppInfo" xml:space="preserve">
-    <value>App info</value>
+    <value>Alkalmazás infó</value>
     <comment>Section title for the custom app info</comment>
   </data>
   <data name="CustomApp_Go" xml:space="preserve">
-    <value>Go</value>
+    <value>Mehet</value>
     <comment>Button to open the url in the preview browser</comment>
   </data>
   <data name="CustomApp_Icon" xml:space="preserve">
-    <value>Icon</value>
+    <value>Ikon</value>
     <comment>Label for Icon field</comment>
   </data>
   <data name="CustomApp_Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Név</value>
     <comment>Label for Name field</comment>
   </data>
   <data name="CustomApp_Sidebar" xml:space="preserve">
-    <value>Enable sidebar version of the app</value>
+    <value>Az alkalmazás oldalsáv verziójának engedélyezése</value>
     <comment>Checkbox to enable app in the sidebar</comment>
   </data>
   <data name="CustomApp_SubTitle" xml:space="preserve">
-    <value>You can turn any website into an app inside Mailbird for easy access.</value>
+    <value>Bármely webhely alkalmazássá alakítható a Mailbirdben a könnyű hozzáférés érdekében.</value>
     <comment>Subtitle for add custom app window</comment>
   </data>
   <data name="CustomApp_Title" xml:space="preserve">
-    <value>Add an app</value>
+    <value>Alkalmazás hozzáadása</value>
     <comment>Title for add custom app window</comment>
   </data>
   <data name="CustomApp_UrlPlaceHolder" xml:space="preserve">
-    <value>Enter web url, e.g. youtube.com</value>
+    <value>Webcím megadása, példa: youtube.com</value>
     <comment>Placeholder in a url textbox </comment>
   </data>
   <data name="CustomApp_Preview" xml:space="preserve">
-    <value>Preview</value>
+    <value>Előnézet</value>
     <comment>Section for previewing the website inside the window</comment>
   </data>
   <data name="CustomApp_Url" xml:space="preserve">
-    <value>Url</value>
+    <value>Webcím</value>
     <comment>Label field for url</comment>
   </data>
   <data name="CustomApp_IconExplanation" xml:space="preserve">
-    <value>We recommend {0} for finding free icons to download and use.</value>
+    <value>Célszerű {0} használata ingyenes letölthető és használható ikonokhoz.</value>
     <comment>Explanation for custom icon recommendation. {0} will be replaced with a website url.</comment>
   </data>
   <data name="CustomApp_EditingTitle" xml:space="preserve">
-    <value>Edit app</value>
+    <value>Alkalmazás szerkesztése</value>
     <comment>Title for when editing a custom app</comment>
   </data>
   <data name="Apps_Category_Custom" xml:space="preserve">
-    <value>Custom</value>
+    <value>Egyedi</value>
     <comment>Category in app store for custom apps</comment>
   </data>
   <data name="Apps_Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Szerkesztés</value>
     <comment>Button to edit custom app</comment>
   </data>
   <data name="Apps_Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Törlés</value>
     <comment>Button to delete custom app</comment>
   </data>
   <data name="CustomApp_PreviewMessage" xml:space="preserve">
-    <value>Click the "{0}" button to preview the website before saving</value>
+    <value>Kattintás "{0}" gombra a webhely előnézetének megtekintéséhez a mentés előtt.</value>
     <comment>Error message when user didnt preview the website before saving. Leave the {0} part, it'll be replaced by the button name</comment>
   </data>
   <data name="Dialog_DeleteApp" xml:space="preserve">
-    <value>Delete "{0}"?</value>
+    <value>"{0}" törlése?</value>
     <comment>Header in message box when deleting a custom app.
 {0} will be replaced by the name of the app</comment>
   </data>
   <data name="Dialog_DeleteAppExplanation" xml:space="preserve">
-    <value>Are you sure you want to delete this app?</value>
+    <value>Biztosan törlésre kerüljön ez az alkalmazás?</value>
     <comment>Explanation in message box when deleting a custom app</comment>
   </data>
   <data name="Dialog_FailedToSaveApp" xml:space="preserve">
-    <value>Failed to save</value>
+    <value>A mentés sikertelen volt.</value>
     <comment>Error message when failed to save custom app</comment>
   </data>
   <data name="Dialog_FailedToSaveAppExplanation" xml:space="preserve">
-    <value>Please try again or contact our support if the issue persists.</value>
+    <value>Próbáljuk újra vagy lépjünk kapcsolatba ügyfélszolgálattal, ha a probléma továbbra is fennáll.</value>
     <comment>Explanation for when it's failed to save custom app</comment>
   </data>
   <data name="Dialog_FailedToSetAppIcon" xml:space="preserve">
-    <value>Failed to set icon</value>
+    <value>Az ikon beállítása sikertelen volt.</value>
     <comment>Error message when failed to set custom icon for custom app</comment>
   </data>
   <data name="Dialog_FailedToSetAppIconExplanation" xml:space="preserve">
-    <value>Please make sure the file is not being used by another program and try again.</value>
+    <value>Győződjünk meg arról, hogy a fájlt nem használja más program, majd próbáljuk újra.</value>
     <comment>Explanation for when it's failed to set custom icon for custom app</comment>
   </data>
   <data name="Dialog_CantDeleteApp" xml:space="preserve">
-    <value>Can't delete app</value>
+    <value>Az alkalmazás nem törölhető.</value>
     <comment>Message when user is trying to delete an app that's being edited</comment>
   </data>
   <data name="Dialog_CantDeleteAppExplanation" xml:space="preserve">
-    <value>You can't delete an app while it's edited.</value>
+    <value>Szerkesztés közben az alkalmazás nem törölhető.</value>
     <comment>Explanation when user is trying to delete an app that's being edited</comment>
   </data>
   <data name="CustomApp_WaitForPreview" xml:space="preserve">
-    <value>Please wait for the website to finish loading</value>
+    <value>Várakozás a webhely betöltéséig</value>
     <comment>Message when user is trying to save before the website is loaded</comment>
   </data>
 </root>
