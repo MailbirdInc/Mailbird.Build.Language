@@ -9243,4 +9243,117 @@ To receive the latest updates to Mailbird, please update to a newer version of W
     <value>Зачем ждать? Целый новый мир расширенных коммуникаций и производительности находится на расстоянии одного клика.</value>
     <comment>Text content 2 for ChatGPT announcement page 3 for non business users</comment>
   </data>
+  <data name="AppStore_AddCustomApp" xml:space="preserve">
+    <value>Custom app</value>
+    <comment>Button to add custom app. It'll be formatted as: + Custom app</comment>
+  </data>
+  <data name="CustomApp_CreateApp" xml:space="preserve">
+    <value>Create app</value>
+    <comment>Title for window to create custom app</comment>
+  </data>
+  <data name="AccountValidationRule_InvalidName" xml:space="preserve">
+    <value>Name can't be empty</value>
+    <comment>Validation message when name field is empty</comment>
+  </data>
+  <data name="CustomApp_AppInfo" xml:space="preserve">
+    <value>App info</value>
+    <comment>Section title for the custom app info</comment>
+  </data>
+  <data name="CustomApp_Go" xml:space="preserve">
+    <value>Go</value>
+    <comment>Button to open the url in the preview browser</comment>
+  </data>
+  <data name="CustomApp_Icon" xml:space="preserve">
+    <value>Icon</value>
+    <comment>Label for Icon field</comment>
+  </data>
+  <data name="CustomApp_Name" xml:space="preserve">
+    <value>Name</value>
+    <comment>Label for Name field</comment>
+  </data>
+  <data name="CustomApp_Sidebar" xml:space="preserve">
+    <value>Enable sidebar version of the app</value>
+    <comment>Checkbox to enable app in the sidebar</comment>
+  </data>
+  <data name="CustomApp_SubTitle" xml:space="preserve">
+    <value>You can turn any website into an app inside Mailbird for easy access.</value>
+    <comment>Subtitle for add custom app window</comment>
+  </data>
+  <data name="CustomApp_Title" xml:space="preserve">
+    <value>Add an app</value>
+    <comment>Title for add custom app window</comment>
+  </data>
+  <data name="CustomApp_UrlPlaceHolder" xml:space="preserve">
+    <value>Enter web url, e.g. youtube.com</value>
+    <comment>Placeholder in a url textbox </comment>
+  </data>
+  <data name="CustomApp_Preview" xml:space="preserve">
+    <value>Preview</value>
+    <comment>Section for previewing the website inside the window</comment>
+  </data>
+  <data name="CustomApp_Url" xml:space="preserve">
+    <value>Url</value>
+    <comment>Label field for url</comment>
+  </data>
+  <data name="CustomApp_IconExplanation" xml:space="preserve">
+    <value>We recommend {0} for finding free icons to download and use.</value>
+    <comment>Explanation for custom icon recommendation. {0} will be replaced with a website url.</comment>
+  </data>
+  <data name="CustomApp_EditingTitle" xml:space="preserve">
+    <value>Edit app</value>
+    <comment>Title for when editing a custom app</comment>
+  </data>
+  <data name="Apps_Category_Custom" xml:space="preserve">
+    <value>Custom</value>
+    <comment>Category in app store for custom apps</comment>
+  </data>
+  <data name="Apps_Edit" xml:space="preserve">
+    <value>Edit</value>
+    <comment>Button to edit custom app</comment>
+  </data>
+  <data name="Apps_Delete" xml:space="preserve">
+    <value>Delete</value>
+    <comment>Button to delete custom app</comment>
+  </data>
+  <data name="CustomApp_PreviewMessage" xml:space="preserve">
+    <value>Click the "{0}" button to preview the website before saving</value>
+    <comment>Error message when user didnt preview the website before saving. Leave the {0} part, it'll be replaced by the button name</comment>
+  </data>
+  <data name="Dialog_DeleteApp" xml:space="preserve">
+    <value>Delete "{0}"?</value>
+    <comment>Header in message box when deleting a custom app.
+{0} will be replaced by the name of the app</comment>
+  </data>
+  <data name="Dialog_DeleteAppExplanation" xml:space="preserve">
+    <value>Are you sure you want to delete this app?</value>
+    <comment>Explanation in message box when deleting a custom app</comment>
+  </data>
+  <data name="Dialog_FailedToSaveApp" xml:space="preserve">
+    <value>Failed to save</value>
+    <comment>Error message when failed to save custom app</comment>
+  </data>
+  <data name="Dialog_FailedToSaveAppExplanation" xml:space="preserve">
+    <value>Please try again or contact our support if the issue persists.</value>
+    <comment>Explanation for when it's failed to save custom app</comment>
+  </data>
+  <data name="Dialog_FailedToSetAppIcon" xml:space="preserve">
+    <value>Failed to set icon</value>
+    <comment>Error message when failed to set custom icon for custom app</comment>
+  </data>
+  <data name="Dialog_FailedToSetAppIconExplanation" xml:space="preserve">
+    <value>Please make sure the file is not being used by another program and try again.</value>
+    <comment>Explanation for when it's failed to set custom icon for custom app</comment>
+  </data>
+  <data name="Dialog_CantDeleteApp" xml:space="preserve">
+    <value>Can't delete app</value>
+    <comment>Message when user is trying to delete an app that's being edited</comment>
+  </data>
+  <data name="Dialog_CantDeleteAppExplanation" xml:space="preserve">
+    <value>You can't delete an app while it's edited.</value>
+    <comment>Explanation when user is trying to delete an app that's being edited</comment>
+  </data>
+  <data name="CustomApp_WaitForPreview" xml:space="preserve">
+    <value>Please wait for the website to finish loading</value>
+    <comment>Message when user is trying to save before the website is loaded</comment>
+  </data>
 </root>
