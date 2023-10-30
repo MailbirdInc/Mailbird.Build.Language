@@ -2458,9 +2458,9 @@ Message: {0}</comment>
   <data name="Invite_SentExplanation" xml:space="preserve">
     <value>Nagyszerű munka az ismerősök meghívása a Mailbird használatához. Ne álljunk meg itt!
 
-4 ismerősre van szükség a Mailbird telepítéséhez és az INGYENES Mailbird Business Pay nevű egyszeri jutalom kinyitásához (400 dolláros értékben).
+4 ismerősre van szükség a Mailbird telepítéséhez és az INGYENES Mailbird Premium Pay nevű egyszeri jutalom kinyitásához (400 dolláros értékben).
 
-Amikor az ismerősök telepítik a Mailbird programot, egyszerűen meg kell adniuk a hivatkozó kódot annak érdekében, hogy INGYEN használhassák a Mailbird Business verziót egy hónapon keresztül.</value>
+Amikor az ismerősök telepítik a Mailbird programot, egyszerűen meg kell adniuk a hivatkozó kódot annak érdekében, hogy INGYEN használhassák a Mailbird Premium verziót egy hónapon keresztül.</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_UnableInvitePeople" xml:space="preserve">
@@ -3801,7 +3801,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Ismerősök meghívása - A Mailbird Business Pay Once verzió használata INGYEN</value>
+    <value>Ismerősök meghívása - A Mailbird Premium Pay Once verzió használata INGYEN</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -4430,13 +4430,13 @@ Please select another image to use as a background.</comment>
 
 Felhívjuk figyelmet, hogy e-mail címenként 1 jutalom a korlát a hivatkozó és a hivatkozott számára egyaránt. Amikor {0} vagy több ismerős telepíti a Mailbird programot a meghívóból:
 
-1. [bold]Mailbird Business egyszer fizetős csomagot kapunk ($399 vértékben) DÍJMENTESEN[/bold] 
+1. [bold]Mailbird Premium egyszer fizetős csomagot kapunk ($399 vértékben) DÍJMENTESEN[/bold] 
 
-2. A Mailbird alkalmazást telepítő ismerősök [bold]1 teljes havi[/bold] Mailbird Business csomagot kapnak [bold]DÍJMENTESEN[/bold]</value>
+2. A Mailbird alkalmazást telepítő ismerősök [bold]1 teljes havi[/bold] Mailbird Premium csomagot kapnak [bold]DÍJMENTESEN[/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Mailbird Business 
+    <value>Mailbird Premium 
 egyszer fizetős csomag beszerzése ($399 értékben) DÍJMENTESEN</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
@@ -5692,7 +5692,7 @@ Próbáljuk ki most az új Kapcsolatok alkalmazást!</value>
     <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Egyes fiókok letiltásra kerültek, mert jelenlegi csomaghoz fiók korlátozás tartozik. A jelenlegi csomag legfeljebb {0} email fiókot támogat. Vásároljuk meg a Mailbird Business terméket, hogy továbbra is használni tudjuk az összes fiókját.</value>
+    <value>Egyes fiókok letiltásra kerültek, mert jelenlegi csomaghoz fiók korlátozás tartozik. A jelenlegi csomag legfeljebb {0} email fiókot támogat. Vásároljuk meg a Mailbird Premium terméket, hogy továbbra is használni tudjuk az összes fiókját.</value>
     <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
@@ -7160,12 +7160,12 @@ Melyik verziót szeretnénk kipróbálni?</value>
     <comment>Button to ask extra trial days</comment>
   </data>
   <data name="License_NewLite_Explanation" xml:space="preserve">
-    <value>A legfrissebb hírlevél alapján a Mailbird Lite verzió a továbbiakban nem érhető el új felhasználók részére és helyette az új Mailbird Personal vagy a Mailbird Business verzió használható.
+    <value>A legfrissebb hírlevél alapján a Mailbird Lite verzió a továbbiakban nem érhető el új felhasználók részére és helyette az új Mailbird Standard vagy a Mailbird Premium verzió használható.
 
 A régi ügyfeleket a fejlesztők megbecsülik! Ezért lehetővé válik a Mailbird Lite licensz megtartása lejárat nélkül. Ez a lehetőség új felhasználók részére nem érhető el.
 Egy egyedi licensszel változás nélkül folytatható a Mailbird Lite verzió használata.
 
-A Mailbird Lite nem kerül frissítésre új elemekkel az új termékvonal létrehozásával, így azért, hogy ne vesszen el s sok közelgő Mailbird frissítés és továbbfejlesztés mint a beépített naptár, célszerű egy egyszeri frissítés jelentős árcsökkentéssel az egyik új verzióra, a Mailbird Personal vagy a Mailbird Business verzióra.</value>
+A Mailbird Lite nem kerül frissítésre új elemekkel az új termékvonal létrehozásával, így azért, hogy ne vesszen el s sok közelgő Mailbird frissítés és továbbfejlesztés mint a beépített naptár, célszerű egy egyszeri frissítés jelentős árcsökkentéssel az egyik új verzióra, a Mailbird Standard vagy a Mailbird Premium verzióra.</value>
     <comment>Explanation of the new lite version</comment>
   </data>
   <data name="License_NewLite_Header" xml:space="preserve">
@@ -7215,7 +7215,7 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <comment>Label for business features</comment>
   </data>
   <data name="License_WelcomeBusiness_Explanation" xml:space="preserve">
-    <value>A következő {0} napon át korlátlanul elérhető az összes Mailbird Business lehetőség.</value>
+    <value>A következő {0} napon át korlátlanul elérhető az összes Mailbird Premium lehetőség.</value>
     <comment>Explanation for business trial</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureAndMore" xml:space="preserve">
@@ -7259,21 +7259,21 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <comment>Explanation for messagebox</comment>
   </data>
   <data name="License_EndTrialNoExtension_Explanation" xml:space="preserve">
-    <value>A kiterjesztett Mailbird próbaidőszak véget ért. Választhatunk a Mailbird vagy a Mailbird Business verzió között.Ajánlott a Mailbird Business verzió a legjobb megoldásért.</value>
+    <value>A kiterjesztett Mailbird próbaidőszak véget ért. Választhatunk a Mailbird vagy a Mailbird Premium verzió között.Ajánlott a Mailbird Premium verzió a legjobb megoldásért.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrialNoExtension_ExplanationBusiness" xml:space="preserve">
-    <value>A Mailbird Business próbaverzió az összes Mailbird lehetőség kihasználásával véget ért.
+    <value>A Mailbird Premium próbaverzió az összes Mailbird lehetőség kihasználásával véget ért.
 
-Választhatunk a Mailbird Personal vagy a Mailbird Business verzió között az igényeknek megfelelően.</value>
+Választhatunk a Mailbird Standard vagy a Mailbird Premium verzió között az igényeknek megfelelően.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrial_ExplanationBusiness" xml:space="preserve">
-    <value>A Mailbird Business verzió használatának folytatásához Exchange támogatással, LinkedIn kereséssel, belső válasszal és sok egyébbel meg kell vásárolni a Mailbird Business verziót.</value>
+    <value>A Mailbird Premium verzió használatának folytatásához Exchange támogatással, LinkedIn kereséssel, belső válasszal és sok egyébbel meg kell vásárolni a Mailbird Premium verziót.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
-    <value>Érthető, hogy több idő szükséges a Mailbird Business verzió összes lehetőségének kipróbálásához. Lehetőség van {0} napig a Mailbird további megismerésére.</value>
+    <value>Érthető, hogy több idő szükséges a Mailbird Premium verzió összes lehetőségének kipróbálásához. Lehetőség van {0} napig a Mailbird további megismerésére.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_Header" xml:space="preserve">
@@ -7317,15 +7317,15 @@ Választhatunk a Mailbird Personal vagy a Mailbird Business verzió között az 
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
-    <value>A Mailbird Business beszerzése aaz Exchange fiókok használatához.</value>
+    <value>A Mailbird Premium beszerzése aaz Exchange fiókok használatához.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_LinkedInLookup" xml:space="preserve">
-    <value>A Mailbird Business beszerzése a LinkedIn keresési funkció használatához.</value>
+    <value>A Mailbird Premium beszerzése a LinkedIn keresési funkció használatához.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Disabled_IdentityExchange" xml:space="preserve">
-    <value>Ez az azonosítás letiltásra került. Vásároljuk meg a Mailbird Business verziót Exchange fiókból küldéshez.</value>
+    <value>Ez az azonosítás letiltásra került. Vásároljuk meg a Mailbird Premium verziót Exchange fiókból küldéshez.</value>
     <comment>Tooltip when identity is disabled due to using Mailbird personal</comment>
   </data>
   <data name="Disabled_AccountExchange" xml:space="preserve">
@@ -7341,11 +7341,11 @@ Választhatunk a Mailbird Personal vagy a Mailbird Business verzió között az 
     <comment>Error message on the explanation</comment>
   </data>
   <data name="Upgrade_Apps" xml:space="preserve">
-    <value>A Mailbird Business beszerzése ennek az alkalmazásnak a használatához.</value>
+    <value>A Mailbird Premium beszerzése ennek az alkalmazásnak a használatához.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_AppsBusiness" xml:space="preserve">
-    <value>A Mailbird Business beszerzése a Slack, a FormSwift, a Freedly és sok más alkalmazás használatához.</value>
+    <value>A Mailbird Premium beszerzése a Slack, a FormSwift, a Freedly és sok más alkalmazás használatához.</value>
     <comment>Feature description</comment>
   </data>
   <data name="License_OfflineWelcome_Explanation" xml:space="preserve">
@@ -7355,16 +7355,16 @@ A Mailbird további használatához egy licenszet kell megvásárolni vagy meg k
     <comment>Explanation when Mailbird has offline in welcome window</comment>
   </data>
   <data name="Welcome_Exchange" xml:space="preserve">
-    <value>Az Exchange fiókok csak a Mailbird Business verziónál érhetők el.</value>
+    <value>Az Exchange fiókok csak a Mailbird Premium verziónál érhetők el.</value>
     <comment>Warning text when trying to add exchange account while license is not business</comment>
   </data>
   <data name="Dialog_Downgrade" xml:space="preserve">
     <value>A továbbiakban nem használjuk a {0} verziót</value>
-    <comment>Message box header when license is downgraded, Nb: You're leaving Mailbird Business</comment>
+    <comment>Message box header when license is downgraded, Nb: You're leaving Mailbird Premium</comment>
   </data>
   <data name="Dialog_Downgrade_Explanation" xml:space="preserve">
-    <value>A {0} verzió bekapcsolásra kerül az újraindítás után. A Mailbird legjobb kihasználásához a jövőben át kell állni a Mailbird Business verzió használatára.</value>
-    <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
+    <value>A {0} verzió bekapcsolásra kerül az újraindítás után. A Mailbird legjobb kihasználásához a jövőben át kell állni a Mailbird Premium verzió használatára.</value>
+    <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Standard. </comment>
   </data>
   <data name="License_OfflineWelcome_Header" xml:space="preserve">
     <value>Licensz szükséges</value>
@@ -7376,11 +7376,11 @@ A Mailbird további használatához egy licenszet kell megvásárolni vagy meg k
   </data>
   <data name="License_Trial" xml:space="preserve">
     <value>{0} próbaidőszak</value>
-    <comment>{0} will be replaced with license name, e.g. Mailbird Business</comment>
+    <comment>{0} will be replaced with license name, e.g. Mailbird Premium</comment>
   </data>
   <data name="License_Mailbird" xml:space="preserve">
     <value>Mailbird {0} verzió</value>
-    <comment>Label for license, e.g. Mailbird Business</comment>
+    <comment>Label for license, e.g. Mailbird Premium</comment>
   </data>
   <data name="License_Offline" xml:space="preserve">
     <value>A Mailbird üzemen kívül vab. Licensz szükséges.</value>
@@ -7457,15 +7457,15 @@ A Mailbird most egy másik böngészővel próbálkozik. Ha ez továbbra sem mű
     <comment>Explanationfor messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
-    <value>Az Exchange támogatás nem tartozik a Mailbird Personal verzióhoz</value>
+    <value>Az Exchange támogatás nem tartozik a Mailbird Standard verzióhoz</value>
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
-    <value>A Mailbird Personal programot választottuk, amely nem tartalmazza az Exchange támogatást. Az Exchange támogatáshoz és más, az üzleti életre fókuszáló szolgáltatásokhoz a Mailbird Business verzió szükséges.
+    <value>A Mailbird Standard programot választottuk, amely nem tartalmazza az Exchange támogatást. Az Exchange támogatáshoz és más, az üzleti életre fókuszáló szolgáltatásokhoz a Mailbird Premium verzió szükséges.
 
-Vegyük figyelembe, hogy a már hozzáadott Exchange fiókok a Mailbird alkalmazásban le letiltásra kerülnek a Personal verzió aktiválása után.
+Vegyük figyelembe, hogy a már hozzáadott Exchange fiókok a Mailbird alkalmazásban le letiltásra kerülnek a Standard verzió aktiválása után.
 
-Biztosan folytatni szretnénk a Mailbird Personal verzió megvásárlását?</value>
+Biztosan folytatni szretnénk a Mailbird Standard verzió megvásárlását?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
@@ -7947,8 +7947,8 @@ Igen esetén átkerülünk a leiratkozás oldalra.</value>
     <comment>Tooltip for button to collapse all day event section</comment>
   </data>
   <data name="Disabled_NotificationBusiness" xml:space="preserve">
-    <value>A Mailbird Business verzió megvásárlása emailek figadásához és küldéshez ennél az Exchange fióknál.</value>
-    <comment>Notification when an Exchange account is disabled due to using Mailbird lite or Personal. Mailbird Business is a name, so don't translate that part.</comment>
+    <value>A Mailbird Premium verzió megvásárlása emailek figadásához és küldéshez ennél az Exchange fióknál.</value>
+    <comment>Notification when an Exchange account is disabled due to using Mailbird lite or Personal. Mailbird Premium is a name, so don't translate that part.</comment>
   </data>
   <data name="AdvancedSearch_SearchFields" xml:space="preserve">
     <value>Kereső mezők megjelenítése</value>
@@ -8151,11 +8151,11 @@ Biztosan a lomtárba kerüljön a beszélgetés?</value>
     <comment>Section in settings window for Email Tracking</comment>
   </data>
   <data name="Options_BusinessFeatureExplanation" xml:space="preserve">
-    <value>Ez a beállítás Mailbird Business licenszet igényel..</value>
-    <comment>Explanation when feature is only available on Mailbird Business</comment>
+    <value>Ez a beállítás Mailbird Premium licenszet igényel..</value>
+    <comment>Explanation when feature is only available on Mailbird Premium</comment>
   </data>
   <data name="UpgradeToPro_TitleBusiness" xml:space="preserve">
-    <value>A Mailbird Business beszerzése most!</value>
+    <value>A Mailbird Premium beszerzése most!</value>
     <comment>Title in upgrade to pro window</comment>
   </data>
   <data name="Upgrade_EmailTracking" xml:space="preserve">
@@ -8241,7 +8241,7 @@ Megpróbálhatjuk ismét elküldeni ezt vagy a hibát figyelmen kívül hagyva e
     <comment>Message when no one has opened email in the email tracking list</comment>
   </data>
   <data name="App_Referral_Description" xml:space="preserve">
-    <value>Ismerősök meghívása és a Mailbird Business egyszeri fizetős verzió beszerzése (399 dollár értékben) DÍJMENTESEN</value>
+    <value>Ismerősök meghívása és a Mailbird Premium egyszeri fizetős verzió beszerzése (399 dollár értékben) DÍJMENTESEN</value>
     <comment>Description of referral app shown in apps store section</comment>
   </data>
   <data name="App_Referral_Title" xml:space="preserve">
@@ -8290,7 +8290,7 @@ Ellenőrizzük, hogy semmi sem használja vagy blokkolja {0} portot és próbál
     <value>A mai naptól már nem férhetünk hozzá ingyen a következő funkciókhoz: [félkövér]Részletes keresés[/ félkövér], [félkövér]Leiratkozás gomb[/ félkövér], [félkövér]Küldés később[/ félkövér] és [félkövér ]Email követés[/ bold].
 
 A folytatáshoz a következő lehetőségek állnak rendelkezésre:
-1. Frissítsünk Mailbird Personal vagy Mailbird Business szolgáltatásra és szerezzünk 50% kedvezményt
+1. Frissítsünk Mailbird Standard vagy Mailbird Premium szolgáltatásra és szerezzünk 50% kedvezményt
 2. Használjuk a Mailbird Lite alkalmazást úgy, ahogy a 12 hetes gyorshasználat előtt volt.</value>
     <comment>Body for announcement window for lite user</comment>
   </data>
@@ -8391,7 +8391,7 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
     <comment>Button to close</comment>
   </data>
   <data name="Announcement_HigherTierPayonce" xml:space="preserve">
-    <value>Nem szeretnénk az üzleti Mailbird alkalmazást? Akkor válasszuk a Personal Pay Once licenszet helyette.</value>
+    <value>Nem szeretnénk az üzleti Mailbird alkalmazást? Akkor válasszuk a Standard Pay Once licenszet helyette.</value>
     <comment>Text footer explanation</comment>
   </data>
   <data name="Announcement_HigherTierRemindMe" xml:space="preserve">
@@ -8403,7 +8403,7 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
     <comment>Subheader in promotion</comment>
   </data>
   <data name="Announcement_HigherTierUpgrade" xml:space="preserve">
-    <value>Áttérés a [bold]Mailbird Business[/bold] csomagra ls korlátlan hozzáférés az összes olyan kedvenc [bold]Mailbird funkcióra[/bold] mint</value>
+    <value>Áttérés a [bold]Mailbird Premium[/bold] csomagra ls korlátlan hozzáférés az összes olyan kedvenc [bold]Mailbird funkcióra[/bold] mint</value>
     <comment>Description in the banner</comment>
   </data>
   <data name="Announcement_HigherTierUpgradeNow" xml:space="preserve">
@@ -8447,8 +8447,8 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
     <comment>Menu item to open debug window</comment>
   </data>
   <data name="UpgradeToPro_BusinessIncludes" xml:space="preserve">
-    <value>A Mailbird Business tartalmazza:</value>
-    <comment>Label before list of Mailbird Business features</comment>
+    <value>A Mailbird Premium tartalmazza:</value>
+    <comment>Label before list of Mailbird Premium features</comment>
   </data>
   <data name="UpgradeToPro_YourDetails" xml:space="preserve">
     <value>Saját adatok:</value>
@@ -8561,11 +8561,11 @@ Csatolhatjuk a naplófájlt ehhez az emailhez?</value>
     <comment>Header for cyber monday promo</comment>
   </data>
   <data name="Announcement_BFExplanationBusinessYearly" xml:space="preserve">
-    <value>Pörgessünk a Mailbird Business Pay Once beszerzéséhez akár 99% kedvezménnyel.</value>
+    <value>Pörgessünk a Mailbird Premium Pay Once beszerzéséhez akár 99% kedvezménnyel.</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalPayOnce" xml:space="preserve">
-    <value>Pörgessünk a Mailbird Business Pay Once beszerzéséért akár 99% kedvezménnyel.</value>
+    <value>Pörgessünk a Mailbird Premium Pay Once beszerzéséért akár 99% kedvezménnyel.</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalYearly" xml:space="preserve">
@@ -8949,11 +8949,11 @@ Hozzáférés ehhez és más alkalmazásokhoz a Mailbird licensszel.</value>
     <comment>Button content of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsDescription" xml:space="preserve">
-    <value>Egyszerűsítsük munkafolyamatot a Mailbird Business segítségével. Áttérés a hozzáféréshez:</value>
+    <value>Egyszerűsítsük munkafolyamatot a Mailbird Premium segítségével. Áttérés a hozzáféréshez:</value>
     <comment>Description of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsTitle" xml:space="preserve">
-    <value>Mailbird Business szükséges {0} engedélyezéséhez</value>
+    <value>Mailbird Premium szükséges {0} engedélyezéséhez</value>
     <comment>Title of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericButton" xml:space="preserve">
@@ -8961,7 +8961,7 @@ Hozzáférés ehhez és más alkalmazásokhoz a Mailbird licensszel.</value>
     <comment>Button content of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericDescription" xml:space="preserve">
-    <value>Egyszerűsítsük a munkafolyamatot a Mailbird Business segítségével. Áttérés az eléréshez:</value>
+    <value>Egyszerűsítsük a munkafolyamatot a Mailbird Premium segítségével. Áttérés az eléréshez:</value>
     <comment>Description of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericTitle" xml:space="preserve">
@@ -8987,11 +8987,11 @@ havi email nyomkövetési korlátot</value>
   </data>
   <data name="Upgrade_ExchangeDescription" xml:space="preserve">
     <value>Exchange fiókot szeretnénk használni? Térjünk át a
-Mailbird Business verzióra és mindezt megtehetjük. A következőkhöz is hozzáférhetünk:</value>
+Mailbird Premium verzióra és mindezt megtehetjük. A következőkhöz is hozzáférhetünk:</value>
     <comment>Description of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeTitle" xml:space="preserve">
-    <value>Mailbird Business verzió szükséges
+    <value>Mailbird Premium verzió szükséges
 Exchange fiók használatához</value>
     <comment>Title of upgrade window for exchange trigger</comment>
   </data>
@@ -9231,11 +9231,11 @@ A Mailbird legújabb frissítéseinek megtekintéséhez frissítsünk a Windows 
     <comment>Text content for ChatGPT announcement page 3 point 3</comment>
   </data>
   <data name="Announcement_ChatGPT_Page3_NonBusiness_Content" xml:space="preserve">
-    <value>Ha frissítünk a Mailbird Business szolgáltatásra, a ChatGPT teljes erejét és lehetőségeit közvetlenül a postaládában fogjuk felszabadítani.</value>
+    <value>Ha frissítünk a Mailbird Premium szolgáltatásra, a ChatGPT teljes erejét és lehetőségeit közvetlenül a postaládában fogjuk felszabadítani.</value>
     <comment>Text content for ChatGPT announcement page 3 for non business users</comment>
   </data>
   <data name="Announcement_ChatGPT_Page3_NonBusiness_CTA" xml:space="preserve">
-    <value>Áttérés a Mailbird Business verzióra még ma</value>
+    <value>Áttérés a Mailbird Premium verzióra még ma</value>
     <comment>Text content for ChatGPT announcement page 3 CTA button for non business users</comment>
   </data>
   <data name="Announcement_ChatGPT_Page3_NonBusiness_Header" xml:space="preserve">

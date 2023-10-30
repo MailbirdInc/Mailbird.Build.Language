@@ -2458,9 +2458,9 @@ Message: {0}</comment>
   <data name="Invite_SentExplanation" xml:space="preserve">
     <value>Fedt at du har lyst til at invitere dine venner til Mailbird. Festen er kun lige begyndt!
 
-Få 4 venner til at installere Mailbird for at låse op for din GRATIS Mailbird Business Pay Once-belønning (værdi $400).
+Få 4 venner til at installere Mailbird for at låse op for din GRATIS Mailbird Premium Pay Once-belønning (værdi $400).
 
-Når dine venner installerer Mailbird skal de blot indtaste henvisningskoden, så får de 1 måneds GRATIS adgang til Mailbird Business.</value>
+Når dine venner installerer Mailbird skal de blot indtaste henvisningskoden, så får de 1 måneds GRATIS adgang til Mailbird Premium.</value>
     <comment>Thanks for inviting!</comment>
   </data>
   <data name="Invite_UnableInvitePeople" xml:space="preserve">
@@ -3801,7 +3801,7 @@ So leave the texts inside bracket, but you can change the position within senten
     <comment>No accounts</comment>
   </data>
   <data name="Menu_InviteFriendsEarnPro" xml:space="preserve">
-    <value>Inviter dine venner - Få Mailbird Business Pay Once FREE</value>
+    <value>Inviter dine venner - Få Mailbird Premium Pay Once FREE</value>
     <comment>Invite friends - earn Pro</comment>
   </data>
   <data name="Dialog_NoAccount" xml:space="preserve">
@@ -4430,13 +4430,13 @@ Please select another image to use as a background.</comment>
 
 Bemærk dog at antallet af belønninger pr. henvist mailadresse er begrænset til 1 for både henvisere og henviste. Når {0} eller flere af dine venner installerer Mailbird fra din invitation modtager I følgende belønninger:
 
-1. Du får [bold]Mailbird Business Pay Once (værdi $399) GRATIS[/bold] 
+1. Du får [bold]Mailbird Premium Pay Once (værdi $399) GRATIS[/bold] 
 
-2. Dine venner får [bold]1 måneds adgang[/bold] til Mailbird Business [bold]GRATIS[/bold]</value>
+2. Dine venner får [bold]1 måneds adgang[/bold] til Mailbird Premium [bold]GRATIS[/bold]</value>
     <comment>Invite your friends, it's easy. When {0} or more of them install Mailbird from your invite, you get Mailbird Pro Lifetime [bold]for FREE[/bold].</comment>
   </data>
   <data name="InviteV2_TitleBlock" xml:space="preserve">
-    <value>Få Mailbird Business 
+    <value>Få Mailbird Premium 
 Pay Once (værdi $399) GRATIS</value>
     <comment>Get Mailbird Pro Lifetime FREE</comment>
   </data>
@@ -5692,7 +5692,7 @@ Prøv de nye Kontakter nu!</value>
     <comment>Button to upgrade to pro</comment>
   </data>
   <data name="Disabled_NotificationWindowExplanation" xml:space="preserve">
-    <value>Some of your accounts have been disabled because your current plan has account limit. Your current plan supports up to {0} email account(s). Please purchase Mailbird Business in order to continue using all of your accounts.</value>
+    <value>Some of your accounts have been disabled because your current plan has account limit. Your current plan supports up to {0} email account(s). Please purchase Mailbird Premium in order to continue using all of your accounts.</value>
     <comment>Explanation text in notification window where user's accounts are disabled due to using Mailbird lite</comment>
   </data>
   <data name="Disabled_NotificationWindowSubTitle" xml:space="preserve">
@@ -7160,12 +7160,12 @@ Hvilken version vil du prøve?</value>
     <comment>Button to ask extra trial days</comment>
   </data>
   <data name="License_NewLite_Explanation" xml:space="preserve">
-    <value>I vores seneste nyhedsbrev gjorde vi opmærksom på at Mailbird Lite ikke længere ville være tilgængelig for nye brugere, og at de i stedet får mulighed for at vælge imellem den fantastiske nye Mailbird Personal og den klassiske Mailbird Business version.
+    <value>I vores seneste nyhedsbrev gjorde vi opmærksom på at Mailbird Lite ikke længere ville være tilgængelig for nye brugere, og at de i stedet får mulighed for at vælge imellem den fantastiske nye Mailbird Standard og den klassiske Mailbird Premium version.
 
 Men du har været bruger hos os længe, og det sætter vi stor pris på! Af den grund vil vi gerne give dig muligheden for at beholde dit Mailbird Lite licens for evigt - nye brugere vil ikke få dette tilbud.
 Hvis du takker ja, vil du derfor modtage en unik licensnøgle, så du fortsat kan bruge Mailbird Lite som du plejer.
 
-Mailbird Lite vil dog ikke længere blive opdateret med nye funktioner, eftersom vi skifter til vores nye produktudvalg. For at du ikke går glip at de mange spændende opdateringer og forbedringer i Mailbird, såsom den nye indbyggede kalender, vil vi desuden tilbyde en one-time opgradering til stærkt nedsat pris til en af vores nye versioner, Mailbird Personal eller Mailbird Business.</value>
+Mailbird Lite vil dog ikke længere blive opdateret med nye funktioner, eftersom vi skifter til vores nye produktudvalg. For at du ikke går glip at de mange spændende opdateringer og forbedringer i Mailbird, såsom den nye indbyggede kalender, vil vi desuden tilbyde en one-time opgradering til stærkt nedsat pris til en af vores nye versioner, Mailbird Standard eller Mailbird Premium.</value>
     <comment>Explanation of the new lite version</comment>
   </data>
   <data name="License_NewLite_Header" xml:space="preserve">
@@ -7215,7 +7215,7 @@ Har du fortrudt, og ønsker du stadig at bruge Mailbird? Det kan du heldigvis sa
     <comment>Label for business features</comment>
   </data>
   <data name="License_WelcomeBusiness_Explanation" xml:space="preserve">
-    <value>De næste {0} dage får du ubegrænset adgang til alle Mailbird Business-funktioner.</value>
+    <value>De næste {0} dage får du ubegrænset adgang til alle Mailbird Premium-funktioner.</value>
     <comment>Explanation for business trial</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureAndMore" xml:space="preserve">
@@ -7243,7 +7243,7 @@ Har du fortrudt, og ønsker du stadig at bruge Mailbird? Det kan du heldigvis sa
     <comment>Feature label for auto tagging contacts</comment>
   </data>
   <data name="License_WelcomeBusiness_Header" xml:space="preserve">
-    <value>Velkommen til Mailbird Business prøveversionen</value>
+    <value>Velkommen til Mailbird Premium prøveversionen</value>
     <comment>Header for welcome to mailbird business trial window</comment>
   </data>
   <data name="License_Welcome_Question" xml:space="preserve">
@@ -7259,21 +7259,21 @@ Har du fortrudt, og ønsker du stadig at bruge Mailbird? Det kan du heldigvis sa
     <comment>Explanation for messagebox</comment>
   </data>
   <data name="License_EndTrialNoExtension_Explanation" xml:space="preserve">
-    <value>Din forlængede prøveperiode i Mailbird er udløbet. Du kan nu vælge mellem Mailbird eller Mailbird Business. Vi anbefaler Mailbird Business hvis du vil have mest muligt ud af din email.</value>
+    <value>Din forlængede prøveperiode i Mailbird er udløbet. Du kan nu vælge mellem Mailbird eller Mailbird Premium. Vi anbefaler Mailbird Premium hvis du vil have mest muligt ud af din email.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrialNoExtension_ExplanationBusiness" xml:space="preserve">
-    <value>Din prøveversion af Mailbird Business har ladet dig udforske alt hvad Mailbird har at byde på, og er desværre udløbet.
+    <value>Din prøveversion af Mailbird Premium har ladet dig udforske alt hvad Mailbird har at byde på, og er desværre udløbet.
 
-Du kan nu vælge mellem Mailbird Personal eller Mailbird Business, afhængigt af dine behov.</value>
+Du kan nu vælge mellem Mailbird Standard eller Mailbird Premium, afhængigt af dine behov.</value>
     <comment>End of trial text explanation when it can not be extended</comment>
   </data>
   <data name="License_EndTrial_ExplanationBusiness" xml:space="preserve">
-    <value>For at fortsætte med at bruge Mailbird Business med Exchange support, LinkedIn lookup, In-line besvarelse og meget mere, bedes du købe Mailbird Business.</value>
+    <value>For at fortsætte med at bruge Mailbird Premium med Exchange support, LinkedIn lookup, In-line besvarelse og meget mere, bedes du købe Mailbird Premium.</value>
     <comment>Explanation when trial ends</comment>
   </data>
   <data name="License_TrialExtension_ExplanationBusiness" xml:space="preserve">
-    <value>Vi forstår godt hvis du gerne vil have mere tid til at prøve de mange smarte funktioner i Mailbird Business. Derfor giver dig {0} ekstra dage til at blive forelsket i Mailbird.</value>
+    <value>Vi forstår godt hvis du gerne vil have mere tid til at prøve de mange smarte funktioner i Mailbird Premium. Derfor giver dig {0} ekstra dage til at blive forelsket i Mailbird.</value>
     <comment>Trial extension explanation</comment>
   </data>
   <data name="License_TrialExtension_Header" xml:space="preserve">
@@ -7317,15 +7317,15 @@ Du kan nu vælge mellem Mailbird Personal eller Mailbird Business, afhængigt af
     <comment>Notification message when Mailbird is on offline mode</comment>
   </data>
   <data name="Upgrade_Exchange" xml:space="preserve">
-    <value>Få Mailbird Business for at bruge Exchange-konti.</value>
+    <value>Få Mailbird Premium for at bruge Exchange-konti.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_LinkedInLookup" xml:space="preserve">
-    <value>Få Mailbird Business for at bruge LinkedIns opslagsfunktion.</value>
+    <value>Få Mailbird Premium for at bruge LinkedIns opslagsfunktion.</value>
     <comment>Feature description</comment>
   </data>
   <data name="Disabled_IdentityExchange" xml:space="preserve">
-    <value>Denne identitet er inaktiv. Du bedes købe adgang til Mailbird Business for at sende fra din Exchange konto.</value>
+    <value>Denne identitet er inaktiv. Du bedes købe adgang til Mailbird Premium for at sende fra din Exchange konto.</value>
     <comment>Tooltip when identity is disabled due to using Mailbird personal</comment>
   </data>
   <data name="Disabled_AccountExchange" xml:space="preserve">
@@ -7345,7 +7345,7 @@ Du kan nu vælge mellem Mailbird Personal eller Mailbird Business, afhængigt af
     <comment>Feature description</comment>
   </data>
   <data name="Upgrade_AppsBusiness" xml:space="preserve">
-    <value>Få Mailbird Business for at bruge Slack, FormSwift, Feedly og mange andre apps.</value>
+    <value>Få Mailbird Premium for at bruge Slack, FormSwift, Feedly og mange andre apps.</value>
     <comment>Feature description</comment>
   </data>
   <data name="License_OfflineWelcome_Explanation" xml:space="preserve">
@@ -7355,16 +7355,16 @@ Hvis du fortsat ønsker at bruge Mailbird kan du købe licens nedenfor, eller in
     <comment>Explanation when Mailbird has offline in welcome window</comment>
   </data>
   <data name="Welcome_Exchange" xml:space="preserve">
-    <value>Exchange konti er kun tilgængelige i Mailbird Business.</value>
+    <value>Exchange konti er kun tilgængelige i Mailbird Premium.</value>
     <comment>Warning text when trying to add exchange account while license is not business</comment>
   </data>
   <data name="Dialog_Downgrade" xml:space="preserve">
     <value>Du flyttes fra {0}</value>
-    <comment>Message box header when license is downgraded, Nb: You're leaving Mailbird Business</comment>
+    <comment>Message box header when license is downgraded, Nb: You're leaving Mailbird Premium</comment>
   </data>
   <data name="Dialog_Downgrade_Explanation" xml:space="preserve">
-    <value>{0} aktiveres efter genstart. For at få mest muligt ud af Mailbird, kan du altid opgradere til Mailbird Business senere.</value>
-    <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Personal. </comment>
+    <value>{0} aktiveres efter genstart. For at få mest muligt ud af Mailbird, kan du altid opgradere til Mailbird Premium senere.</value>
+    <comment>Message box explanation when license is downgraded, {0} is license name e.g. Mailbird Standard. </comment>
   </data>
   <data name="License_OfflineWelcome_Header" xml:space="preserve">
     <value>Licens påkrævet</value>
@@ -7376,11 +7376,11 @@ Hvis du fortsat ønsker at bruge Mailbird kan du købe licens nedenfor, eller in
   </data>
   <data name="License_Trial" xml:space="preserve">
     <value>{0} prøveversion</value>
-    <comment>{0} will be replaced with license name, e.g. Mailbird Business</comment>
+    <comment>{0} will be replaced with license name, e.g. Mailbird Premium</comment>
   </data>
   <data name="License_Mailbird" xml:space="preserve">
     <value>Mailbird {0}</value>
-    <comment>Label for license, e.g. Mailbird Business</comment>
+    <comment>Label for license, e.g. Mailbird Premium</comment>
   </data>
   <data name="License_Offline" xml:space="preserve">
     <value>Mailbird er offline. Licens er påkrævet.</value>
@@ -7457,15 +7457,15 @@ Mailbird vil nu forsøge igen ved hjælp af en anden browser. Hvis dette ikke ly
     <comment>Explanationfor messagebox when dismissing trial extension window</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarning" xml:space="preserve">
-    <value>Exchange support ikke understøttet i Mailbird Personal</value>
+    <value>Exchange support ikke understøttet i Mailbird Standard</value>
     <comment>Messagebox title when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="Upgrade_PersonalExchangeWarningExplanation" xml:space="preserve">
-    <value>Du har valgt Mailbird Personal, som ikke inkluderer Exchange support. For at få adgang til Exchange support og andre professionelle funktioner skal du have Mailbird Business.
+    <value>Du har valgt Mailbird Standard, som ikke inkluderer Exchange support. For at få adgang til Exchange support og andre professionelle funktioner skal du have Mailbird Premium.
 
-Bemærk venligst at tilføjede Exchange konti deaktiveres i Mailbird efter du aktiverer Mailbird Personal.
+Bemærk venligst at tilføjede Exchange konti deaktiveres i Mailbird efter du aktiverer Mailbird Standard.
 
-Er du sikker på du ønsker at fortsætte med købet af Mailbird Personal?</value>
+Er du sikker på du ønsker at fortsætte med købet af Mailbird Standard?</value>
     <comment>Messagebox explanation when trying to purchase Personal license while there is Exchange account that is not supported.</comment>
   </data>
   <data name="App_Calendar_EditEvent_GuestsCan" xml:space="preserve">
@@ -7947,8 +7947,8 @@ Hvis ikke, vil du blive sendt til en afmeldingsside.</value>
     <comment>Tooltip for button to collapse all day event section</comment>
   </data>
   <data name="Disabled_NotificationBusiness" xml:space="preserve">
-    <value>Køb Mailbird Business for at fortsætte med at sende og modtage mails fra denne Exchange konto.</value>
-    <comment>Notification when an Exchange account is disabled due to using Mailbird lite or Personal. Mailbird Business is a name, so don't translate that part.</comment>
+    <value>Køb Mailbird Premium for at fortsætte med at sende og modtage mails fra denne Exchange konto.</value>
+    <comment>Notification when an Exchange account is disabled due to using Mailbird lite or Personal. Mailbird Premium is a name, so don't translate that part.</comment>
   </data>
   <data name="AdvancedSearch_SearchFields" xml:space="preserve">
     <value>Vis søgefelter</value>
@@ -8151,11 +8151,11 @@ Er du sikker på du ønsker at slette samtalen?</value>
     <comment>Section in settings window for Email Tracking</comment>
   </data>
   <data name="Options_BusinessFeatureExplanation" xml:space="preserve">
-    <value>Denne indstilling kræver et Mailbird Business licens.</value>
-    <comment>Explanation when feature is only available on Mailbird Business</comment>
+    <value>Denne indstilling kræver et Mailbird Premium licens.</value>
+    <comment>Explanation when feature is only available on Mailbird Premium</comment>
   </data>
   <data name="UpgradeToPro_TitleBusiness" xml:space="preserve">
-    <value>Få Mailbird Business nu!</value>
+    <value>Få Mailbird Premium nu!</value>
     <comment>Title in upgrade to pro window</comment>
   </data>
   <data name="Upgrade_EmailTracking" xml:space="preserve">
@@ -8241,7 +8241,7 @@ Du kan vælge at sende meddelelsen til dem igen, eller ignorere fejlen for at fj
     <comment>Message when no one has opened email in the email tracking list</comment>
   </data>
   <data name="App_Referral_Description" xml:space="preserve">
-    <value>Inviter dine venner og få Mailbird Business Pay Once (værdi $399) GRATIS</value>
+    <value>Inviter dine venner og få Mailbird Premium Pay Once (værdi $399) GRATIS</value>
     <comment>Description of referral app shown in apps store section</comment>
   </data>
   <data name="App_Referral_Title" xml:space="preserve">
@@ -8290,7 +8290,7 @@ Kontrollér venligst at port {0} er fri og tilgængelig, og prøv herefter igen.
     <value>As of today you will no longer be able to access the following features for free:  [bold]Advanced Search[/bold], [bold]Unsubscribe button[/bold], [bold]Send Later[/bold], and [bold]Email Tracking[/bold].
 
 You have the following options to continue:
-1. Upgrade to Mailbird Personal or Mailbird Business and get 50% off
+1. Upgrade to Mailbird Standard or Mailbird Premium and get 50% off
 2. Use Mailbird Lite as it was before the 12-week sprint.</value>
     <comment>Body for announcement window for lite user</comment>
   </data>
@@ -8391,7 +8391,7 @@ You have the following options to continue:
     <comment>Button to close</comment>
   </data>
   <data name="Announcement_HigherTierPayonce" xml:space="preserve">
-    <value>Vil du ikke have Mailbird Business? Opgrader til Personal Pay Once-licensen i stedet.</value>
+    <value>Vil du ikke have Mailbird Premium? Opgrader til Standard Pay Once-licensen i stedet.</value>
     <comment>Text footer explanation</comment>
   </data>
   <data name="Announcement_HigherTierRemindMe" xml:space="preserve">
@@ -8403,7 +8403,7 @@ You have the following options to continue:
     <comment>Subheader in promotion</comment>
   </data>
   <data name="Announcement_HigherTierUpgrade" xml:space="preserve">
-    <value>Opgrader til [bold]Mailbird Business[/bold], og få ubegrænset adgang til alle dine foretrukne [bold]Mailbird-funktioner[/bold] som fx</value>
+    <value>Opgrader til [bold]Mailbird Premium[/bold], og få ubegrænset adgang til alle dine foretrukne [bold]Mailbird-funktioner[/bold] som fx</value>
     <comment>Description in the banner</comment>
   </data>
   <data name="Announcement_HigherTierUpgradeNow" xml:space="preserve">
@@ -8447,8 +8447,8 @@ You have the following options to continue:
     <comment>Menu item to open debug window</comment>
   </data>
   <data name="UpgradeToPro_BusinessIncludes" xml:space="preserve">
-    <value>Mailbird Business omfatter:</value>
-    <comment>Label before list of Mailbird Business features</comment>
+    <value>Mailbird Premium omfatter:</value>
+    <comment>Label before list of Mailbird Premium features</comment>
   </data>
   <data name="UpgradeToPro_YourDetails" xml:space="preserve">
     <value>Dine oplysninger:</value>
@@ -8561,11 +8561,11 @@ Må vi vedhæfte din logfil til denne mail?</value>
     <comment>Header for cyber monday promo</comment>
   </data>
   <data name="Announcement_BFExplanationBusinessYearly" xml:space="preserve">
-    <value>Spin for up to 99% off Mailbird Business Pay Once.</value>
+    <value>Spin for up to 99% off Mailbird Premium Pay Once.</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalPayOnce" xml:space="preserve">
-    <value>Spin for up to 99% off Mailbird Business Pay Once.</value>
+    <value>Spin for up to 99% off Mailbird Premium Pay Once.</value>
     <comment>Explanation for blackfriday promo</comment>
   </data>
   <data name="Announcement_BFExplanationPersonalYearly" xml:space="preserve">
@@ -8949,11 +8949,11 @@ Gain acces to this, and other apps with a Mailbird license.</value>
     <comment>Button content of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Streamline your workflow with Mailbird Premium. Upgrade to get access to:</value>
     <comment>Description of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessAppsTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business to enable {0}</value>
+    <value>You'll need Mailbird Premium to enable {0}</value>
     <comment>Title of upgrade window for business apps trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericButton" xml:space="preserve">
@@ -8961,7 +8961,7 @@ Gain acces to this, and other apps with a Mailbird license.</value>
     <comment>Button content of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericDescription" xml:space="preserve">
-    <value>Streamline your workflow with Mailbird Business. Upgrade to get access to:</value>
+    <value>Streamline your workflow with Mailbird Premium. Upgrade to get access to:</value>
     <comment>Description of upgrade window for generic business trigger</comment>
   </data>
   <data name="Upgrade_BusinessGenericTitle" xml:space="preserve">
@@ -8987,11 +8987,11 @@ monthly Email Tracking limit</value>
   </data>
   <data name="Upgrade_ExchangeDescription" xml:space="preserve">
     <value>Are you looking to use an Exchange account? Upgrade to
-Mailbird Business and you can. You'll also get access to:</value>
+Mailbird Premium and you can. You'll also get access to:</value>
     <comment>Description of upgrade window for exchange trigger</comment>
   </data>
   <data name="Upgrade_ExchangeTitle" xml:space="preserve">
-    <value>You'll need Mailbird Business
+    <value>You'll need Mailbird Premium
 to use an Exchange account</value>
     <comment>Title of upgrade window for exchange trigger</comment>
   </data>
@@ -9231,11 +9231,11 @@ To receive the latest updates to Mailbird, please update to a newer version of W
     <comment>Text content for ChatGPT announcement page 3 point 3</comment>
   </data>
   <data name="Announcement_ChatGPT_Page3_NonBusiness_Content" xml:space="preserve">
-    <value>When you upgrade to Mailbird Business, you will unlock the full power and potential of ChatGPT right in your inbox.</value>
+    <value>When you upgrade to Mailbird Premium, you will unlock the full power and potential of ChatGPT right in your inbox.</value>
     <comment>Text content for ChatGPT announcement page 3 for non business users</comment>
   </data>
   <data name="Announcement_ChatGPT_Page3_NonBusiness_CTA" xml:space="preserve">
-    <value>Upgrade to Mailbird Business today</value>
+    <value>Upgrade to Mailbird Premium today</value>
     <comment>Text content for ChatGPT announcement page 3 CTA button for non business users</comment>
   </data>
   <data name="Announcement_ChatGPT_Page3_NonBusiness_Header" xml:space="preserve">
