@@ -298,7 +298,7 @@
     <comment>To</comment>
   </data>
   <data name="Conversation_Trash" xml:space="preserve">
-    <value>Usuń</value>
+    <value>Przenieś do kosza</value>
     <comment>Trash</comment>
   </data>
   <data name="Dialog_AbortReport" xml:space="preserve">
@@ -1451,7 +1451,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>{0} Conversations trashed</comment>
   </data>
   <data name="Notification_TrashSingle" xml:space="preserve">
-    <value>Konwersacja usunięta</value>
+    <value>Konwersacja przeniesiona do kosza</value>
     <comment>Conversation trashed</comment>
   </data>
   <data name="Notification_Undo" xml:space="preserve">
@@ -1491,7 +1491,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Automatically download attachments smaller than the chosen size.</comment>
   </data>
   <data name="Options_AutoSelectOnArchive" xml:space="preserve">
-    <value>Automatycznie otwieraj kolejną konwersację po zarchiwizowaniu</value>
+    <value>Automatycznie wybieraj następną konwersację po zarchiwizowaniu</value>
     <comment>Auto-select next conversation when archiving</comment>
   </data>
   <data name="Options_CheckUpdate" xml:space="preserve">
@@ -1507,7 +1507,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>(Default)</comment>
   </data>
   <data name="Options_DefaultNotification" xml:space="preserve">
-    <value>Powiedz mi, jeśli Mailbird nie jest domyślnym klientem poczty</value>
+    <value>Powiadom mnie, jeśli Mailbird nie jest domyślnym klientem poczty</value>
     <comment>Tell me if Mailbird is not the default email client</comment>
   </data>
   <data name="Options_DownloadOnDemand" xml:space="preserve">
@@ -1799,15 +1799,15 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Delete</comment>
   </data>
   <data name="Shortcut_DeleteExplanation" xml:space="preserve">
-    <value>Usuwa konwersację.</value>
+    <value>Przenosi konwersację do Kosza.</value>
     <comment>Moves the conversation to Trash.</comment>
   </data>
   <data name="Shortcut_DeleteTrash" xml:space="preserve">
-    <value>Usuń wersję roboczą lub konwersację</value>
+    <value>Usuń wersję roboczą lub przenieś konwersację do kosza</value>
     <comment>Delete Draft or Trash Conversation</comment>
   </data>
   <data name="Shortcut_DeleteTrashExplanation" xml:space="preserve">
-    <value>Usuń wybraną wersję roboczą lub konwersację.</value>
+    <value>Usuń wybraną wersję roboczą lub przenieś wybraną konwersację do kosza.</value>
     <comment>Delete selected draft or trash the selected conversation.</comment>
   </data>
   <data name="Shortcut_Exit" xml:space="preserve">
@@ -2476,11 +2476,11 @@ Kiedy Twoi znajomi zainstalują Mailbird, muszą tylko wprowadzić kod polecają
     <comment>Network</comment>
   </data>
   <data name="Options_ProxyExplanation" xml:space="preserve">
-    <value>Mailbird wykorzystuje systemowe ustawienia proxy do połączenia się z siecią.</value>
+    <value>Mailbird korzysta z systemowych ustawień proxy komputera, aby połączyć się z siecią.</value>
     <comment>Mailbird is using your computer's system proxy settings to connect to the network.</comment>
   </data>
   <data name="Options_ProxyNeedAuthentication" xml:space="preserve">
-    <value>Proxy wymaga autoryzacji</value>
+    <value>Serwer proxy wymaga uwierzytelnienia</value>
     <comment>Proxy requires authentication</comment>
   </data>
   <data name="Options_ProxyPassword" xml:space="preserve">
@@ -3362,7 +3362,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Someday</comment>
   </data>
   <data name="Snooze_Type_Tomorrow" xml:space="preserve">
-    <value>Jutro</value>
+    <value>jutro</value>
     <comment>Tomorrow</comment>
   </data>
   <data name="Snooze_Type_TomorrowEve" xml:space="preserve">
@@ -3370,7 +3370,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>Tomorrow evening</comment>
   </data>
   <data name="Snooze_Type_ThisWeekend" xml:space="preserve">
-    <value>Najbliższy weekend</value>
+    <value>najbliższy weekend</value>
     <comment>This weekend</comment>
   </data>
   <data name="Snooze_Type_NextWeekend" xml:space="preserve">
@@ -3552,7 +3552,7 @@ Zunifikowane konto można wyłączyć w ustawieniach lub poprzez edycję wybrany
 You can disable the unified account from the options, or edit each of your accounts to decide which should be included in it.</comment>
   </data>
   <data name="Options_SelectUnifiedAccountOnStartup" xml:space="preserve">
-    <value>Wybierz przy starcie</value>
+    <value>Wybierz przy uruchomieniu</value>
     <comment>Select on startup</comment>
   </data>
   <data name="Options_SelectUnifiedAccountOnStartupTooltip" xml:space="preserve">
@@ -5876,7 +5876,7 @@ Skontaktuj się z pomocą techniczną, by uzyskać informacje na temat możliwo�
     <comment>Header for other options to scale the UI</comment>
   </data>
   <data name="Options_ScaleOthersExplanation" xml:space="preserve">
-    <value>Następujące poziomy skalowania będę zastosowane do poziomu skalowania aplikacji i mogą zostać użyte do dostrojenia poziomu wiadomości e-mail i aplikacji, które je wspierają.</value>
+    <value>Poniższe poziomy skalowania zostaną zastosowane do poziomu skalowania aplikacji i można ich użyć do dostrojenia poziomu dla wiadomości e-mail i aplikacji, które je obsługują.</value>
     <comment>Explanation for other options to scale the UI</comment>
   </data>
   <data name="Scaling_Reset" xml:space="preserve">
@@ -6132,7 +6132,7 @@ Wyłączy to synchronizację kalendarza z Mailbird.</value>
     <comment>Option to show or hide week numbers</comment>
   </data>
   <data name="App_Calendar_Settings_StartWeekOn" xml:space="preserve">
-    <value>Tydzień zaczyna się w</value>
+    <value>Początek tygodnia</value>
     <comment>Option to set first day of week</comment>
   </data>
   <data name="App_Calendar_Settings_ViewOptions" xml:space="preserve">
@@ -6465,7 +6465,7 @@ e.g. "2 occurrences"</comment>
     <comment>Error message when entring not valid number</comment>
   </data>
   <data name="App_Calendar_Frequency_Daily" xml:space="preserve">
-    <value>Każdego dnia</value>
+    <value>Codziennie</value>
     <comment>An event repeats every day</comment>
   </data>
   <data name="App_Calendar_Frequency_Monthly" xml:space="preserve">
@@ -6485,7 +6485,7 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats N times. Example: 3 times</comment>
   </data>
   <data name="App_Calendar_Recurrence_DoesNotRepeat" xml:space="preserve">
-    <value>Nie powtarzaj</value>
+    <value>Nie powtarza się</value>
     <comment>An event  of a calendar does not repeat, it's only 1 day</comment>
   </data>
   <data name="App_Calendar_Recurrence_EveryPeriod" xml:space="preserve">
@@ -6493,18 +6493,18 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats every "period". Example: Every 2 years, Every 5 months</comment>
   </data>
   <data name="App_Calendar_Recurrence_First" xml:space="preserve">
-    <value>pierwszy/a</value>
+    <value>pierwszy/ą</value>
     <comment>An event repeats on the first weekday of the month. Example: First Monday, First Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Fourth" xml:space="preserve">
-    <value>czwarty/a</value>
+    <value>czwarty/ą</value>
     <comment>An event repeats on the fourth weekday of the month. Example: Fourth Tuesday, Fourth Thursday</comment>
   </data>
   <data name="App_Calendar_Recurrence_In" xml:space="preserve">
     <value>w {0}</value>
   </data>
   <data name="App_Calendar_Recurrence_Last" xml:space="preserve">
-    <value>ostatni/a</value>
+    <value>ostatni/ą</value>
     <comment>An event repeats on the last weekday of the month. Example: Last Monday, Last Saturday</comment>
   </data>
   <data name="App_Calendar_Recurrence_On" xml:space="preserve">
@@ -6524,11 +6524,11 @@ e.g. "2 occurrences"</comment>
     <comment>An event repeats on n day of the week. Example: on the first Monday, on the third Thursday, on the last Friday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Second" xml:space="preserve">
-    <value>drugi/a</value>
+    <value>drugi/ą</value>
     <comment>An event repeats on the second weekday of the month. Example: Second Monday, Second Tuesday</comment>
   </data>
   <data name="App_Calendar_Recurrence_Third" xml:space="preserve">
-    <value>trzeci/a</value>
+    <value>trzeci/ą</value>
     <comment>An event repeats on the third weekday of the month. Example: Third Friday, Third Sunday</comment>
   </data>
   <data name="App_Calendar_Recurrence_UntilDate" xml:space="preserve">
@@ -6598,7 +6598,7 @@ e.g. "2 occurrences"</comment>
     <comment>Menu to show or hide weekends from calendar</comment>
   </data>
   <data name="App_Calendar_ShowDeclinedEvents" xml:space="preserve">
-    <value>Pokaż odmówione wydarzenia</value>
+    <value>Pokaż odrzucone wydarzenia</value>
     <comment>Menu to show or hide declined events</comment>
   </data>
   <data name="App_Calendar_ValidationNotValidEndTime" xml:space="preserve">
@@ -6606,7 +6606,7 @@ e.g. "2 occurrences"</comment>
     <comment>Error message when end time is less than start time</comment>
   </data>
   <data name="App_Calendar_Settings_FadeOutEvents" xml:space="preserve">
-    <value>Zanikaj minione wydarzenia</value>
+    <value>Zmniejsz jasność przeszłych wydarzeń</value>
     <comment>Option to reduce brightness of past events</comment>
   </data>
   <data name="App_Calendar_Notification_Cancel" xml:space="preserve">
@@ -6842,7 +6842,7 @@ e.g. "2 occurrences"</comment>
     <comment>Instruction for import feature</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport" xml:space="preserve">
-    <value>Importowanie i eksportowanie</value>
+    <value>Import &amp; eksport</value>
     <comment>Tab section for import &amp; export</comment>
   </data>
   <data name="App_Calendar_Settings_ImportExport_SyncWarning" xml:space="preserve">
@@ -6963,7 +6963,7 @@ Skrzynki odbiorczej.</value>
     <comment>Tutorial title</comment>
   </data>
   <data name="App_Calendar_Settings_MatchWindowsTimezone" xml:space="preserve">
-    <value>Dopasuj strefę czasową systemu Windows</value>
+    <value>Strefa czasowa systemu Windows</value>
     <comment>Label of checkbox that indicates that the Calendar App will use the same timezone as the one set in Windows</comment>
   </data>
   <data name="App_Calendar_AllDay" xml:space="preserve">
@@ -7750,16 +7750,16 @@ Pamiętaj, że nie wszystkie zmiany dokonane w jednej wersji programu Mailbird b
     <comment>Mailbird Alpha</comment>
   </data>
   <data name="Options_MailbirdAlphaDescription" xml:space="preserve">
-    <value>Jeśli chcesz pomóc w testowaniu najnowszych aktualizacji i funkcji programu Mailbird, a jednocześnie mieć wpływ na kierunek, w którym zmierzamy, to zapisz się na testera Alpha.
+    <value>Jeśli chcesz pomóc w testowaniu najnowszych aktualizacji i funkcji programu Mailbird, a jednocześnie mieć wpływ na kierunek, w jakim podążamy, zarejestruj się, aby zostać testerem wersji Alpha.
 
-Wersja Alpha programu Mailbird jest instalowana oddzielnie, więc nadal będziesz mógł uruchamiać normalną wersję, jednak wersja Alpha dostanie aktualizacje szybciej, w tym nowe funkcje i możesz dołączyć do naszej dedykowanej społeczności użytkowników o nazwie The Mailbird Influencers na Facebooku.
+Wersja Alpha programu Mailbird jest instalowana oddzielnie, więc nadal będziesz mógł nadal uruchamiać normalną wersję, ale wersja Alpha dostaje aktualizacje szybciej, w tym nowe funkcje i możesz dołączyć do naszej dedykowanej społeczności użytkowników o nazwie The Mailbird Influencers na Facebooku.
 
 - Połącz się z podobnie myślącymi osobami
 - Uzyskaj dostęp do ekskluzywnych upominków, zniżek i ofert Mailbird.
-- Znajduj inspiracje, zdobywaj wskazówki, wymieniaj się spostrzeżeniami i poradami dotyczącymi produktywności.
-- Pomóż nam lepiej Cię zrozumieć, abyśmy mogli kształtować Mailbird pod Ciebie.
+- Znajdź inspiracje, zdobywaj wskazówki, wymieniaj się spostrzeżeniami i poradami zwiększającymi produktywnośź.
+- Pomóż nam lepiej cię zrozumieć, abyśmy mogli kształtować Mailbird pod Ciebie.
 
-Miej na uwadze, że ponieważ jest to wersja Mailbird "w fazie rozwoju", problemy mogą występować nieco częściej, ale jesteśmy też w stanie naprawić je szybciej — i zawsze możesz przełączyć się z powrotem na normalną wersję w razie problemu — dopóki go nie naprawimy.</value>
+Miej na uwadze, że ponieważ jest to wersja Mailbird "w fazie rozwoju", problemy mogą występować nieco częściej, ale jesteśmy też w stanie rozwiązać je szybciej — i zawsze możesz przełączyć się z powrotem na normalną wersję w razie problemu — dopóki go nie naprawimy.</value>
     <comment>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
 
 The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
@@ -7805,11 +7805,11 @@ Twoja normalna wersja programu Mailbird jest nienaruszona, ale ta wersja zostani
     <comment>Button to leave date entry empty</comment>
   </data>
   <data name="AdvancedSearch_DateWithin" xml:space="preserve">
-    <value>Z datą</value>
+    <value>Z datą w ciągu</value>
     <comment>Field in advanced search, to filter message that is received/sent around date</comment>
   </data>
   <data name="AdvancedSearch_DoesntHave" xml:space="preserve">
-    <value>Nie ma</value>
+    <value>Nie zawiera</value>
     <comment>Field in advanced search, to filter message that doesnt have certain words</comment>
   </data>
   <data name="AdvancedSearch_GreaterThan" xml:space="preserve">
@@ -7817,7 +7817,7 @@ Twoja normalna wersja programu Mailbird jest nienaruszona, ale ta wersja zostani
     <comment>Option to search message with size greater than certain value</comment>
   </data>
   <data name="AdvancedSearch_HasWords" xml:space="preserve">
-    <value>Ma słowa</value>
+    <value>Zawiera słowa</value>
     <comment>Field in advanced search, to filter message that has some words</comment>
   </data>
   <data name="AdvancedSearch_LessThan" xml:space="preserve">
@@ -7857,7 +7857,7 @@ Twoja normalna wersja programu Mailbird jest nienaruszona, ale ta wersja zostani
     <comment>Field in advanced search, to filter message that is unread</comment>
   </data>
   <data name="AdvancedSearch_Field_Day" xml:space="preserve">
-    <value>dzień</value>
+    <value>dnia</value>
     <comment>Duration field: day</comment>
   </data>
   <data name="AdvancedSearch_Field_DayPlural" xml:space="preserve">
@@ -7865,23 +7865,23 @@ Twoja normalna wersja programu Mailbird jest nienaruszona, ale ta wersja zostani
     <comment>Duration field: days (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Month" xml:space="preserve">
-    <value>miesiąc</value>
+    <value>miesiąca</value>
     <comment>Duration field: month</comment>
   </data>
   <data name="AdvancedSearch_Field_MonthPlural" xml:space="preserve">
-    <value>miesiące</value>
+    <value>miesięcy</value>
     <comment>Duration field: months (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Week" xml:space="preserve">
-    <value>tydzień</value>
+    <value>tygodnia</value>
     <comment>Duration field: week</comment>
   </data>
   <data name="AdvancedSearch_Field_WeekPlural" xml:space="preserve">
-    <value>tygodnie</value>
+    <value>tygodni</value>
     <comment>Duration field: weeks (plural)</comment>
   </data>
   <data name="AdvancedSearch_Field_Year" xml:space="preserve">
-    <value>rok</value>
+    <value>roku</value>
     <comment>Duration field: year</comment>
   </data>
   <data name="AdvancedSearch_Field_YearPlural" xml:space="preserve">
@@ -8311,7 +8311,7 @@ Dostępne są następujące opcje:
     <comment>Settings for text formatting preference</comment>
   </data>
   <data name="TextFormattingPreference_Display" xml:space="preserve">
-    <value>Pokazuj</value>
+    <value>Wyświetlacz</value>
     <comment>Settings for text formatting preference</comment>
   </data>
   <data name="TextFormattingPreference_Ideal" xml:space="preserve">
@@ -8415,7 +8415,7 @@ Dostępne są następujące opcje:
     <comment>Message when failed to remove image</comment>
   </data>
   <data name="Options_ShowAccountsPaneSeparately" xml:space="preserve">
-    <value>Wyświetlanie folderów oddzienie w oddzielnych oknach nawigacji</value>
+    <value>Pokaż foldery osobno w rozwiniętym panelu nawigacji</value>
     <comment>Option to show accounts pane separately</comment>
   </data>
   <data name="Options_ShowAccountsPaneSeparatelyExplanation" xml:space="preserve">
@@ -8736,7 +8736,7 @@ Jeszcze raz bardzo dziękujemy!</value>
     <comment>Button to create filter</comment>
   </data>
   <data name="AdvancedSearch_CreateFilterExplanation" xml:space="preserve">
-    <value>Utwórz z łatwością filtr dla tych pól:
+    <value>Utwórz z łatwością filtr na podstawie tych pól:
 - Od
 - Do
 - Temat
@@ -9271,7 +9271,7 @@ Aby otrzymać najnowsze aktualizacje Mailbird, proszę uaktualnić system Window
     <comment>Checkbox to enable app in the sidebar</comment>
   </data>
   <data name="CustomApp_SubTitle" xml:space="preserve">
-    <value>Możesz przekształcić dowolną witrynę w aplikację w Mailbird, aby mieć do niej łatwy dostęp.</value>
+    <value>Przekształć dowolną witrynę w aplikację Mailbird, aby mieć do niej łatwy dostęp.</value>
     <comment>Subtitle for add custom app window</comment>
   </data>
   <data name="CustomApp_Title" xml:space="preserve">
@@ -9279,7 +9279,7 @@ Aby otrzymać najnowsze aktualizacje Mailbird, proszę uaktualnić system Window
     <comment>Title for add custom app window</comment>
   </data>
   <data name="CustomApp_UrlPlaceHolder" xml:space="preserve">
-    <value>Wprowadź adres URL, np. youtube.com</value>
+    <value>Wprowadź URL, np. youtube.com</value>
     <comment>Placeholder in a url textbox </comment>
   </data>
   <data name="CustomApp_Preview" xml:space="preserve">
@@ -9291,7 +9291,7 @@ Aby otrzymać najnowsze aktualizacje Mailbird, proszę uaktualnić system Window
     <comment>Label field for url</comment>
   </data>
   <data name="CustomApp_IconExplanation" xml:space="preserve">
-    <value>Polecamy {0} do znalezienia bezpłatnych ikon do pobrania i użycia.</value>
+    <value>Polecamy {0} dla bezpłatnych ikon do pobrania i użycia.</value>
     <comment>Explanation for custom icon recommendation. {0} will be replaced with a website url.</comment>
   </data>
   <data name="CustomApp_EditingTitle" xml:space="preserve">
