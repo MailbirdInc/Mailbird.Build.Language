@@ -3414,7 +3414,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
-    <value>Restrângere automată a câmpurilor destinatarului la deselectare</value>
+    <value>Show sender and recipient details only when cursor is on address field</value>
     <comment>Auto-collapse recipient fields on lost focus</comment>
   </data>
   <data name="Options_ComposeWindow" xml:space="preserve">
@@ -9091,10 +9091,6 @@ Sigur doriți să eliminați acest cont?</value>
     <value>Începând de la</value>
     <comment>Text that appears before the price on upgrade popup for trial/offline users triggers</comment>
   </data>
-  <data name="App_Grammarly_Description" xml:space="preserve">
-    <value>Compuneți emailuri îndrăznețe, clare și fără greșeli cu Grammarly, direct din Mailbird.</value>
-    <comment>App description for Grammarly that will appear in app store.</comment>
-  </data>
   <data name="Options_CancelSubscription" xml:space="preserve">
     <value>Anulare abonament</value>
     <comment>Text for cancel subscription button in Options window</comment>
@@ -9651,5 +9647,9 @@ Pentru a primi cele mai recente actualizări pentru Mailbird, vă rugăm să act
   <data name="License_NeedUpgradeExplanation" xml:space="preserve">
     <value>Cheia dvs. de licență nu este validă pentru versiunea curentă de Mailbird. Vă rugăm să obțineți o cheie de licență validă [link href={0}]făcând clic aici[/link].</value>
     <comment>Message when license needs to be upgraded</comment>
+  </data>
+  <data name="App_Sapling_Description" xml:space="preserve">
+    <value>Compose bold, clear, mistake-free emails with Sapling directly from compose window in Mailbird.</value>
+    <comment>Sapling app description</comment>
   </data>
 </root>

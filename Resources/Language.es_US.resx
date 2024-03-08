@@ -3418,7 +3418,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
-    <value>Auto colapsar los campos de destinatarios cuando se pierde el foco</value>
+    <value>Show sender and recipient details only when cursor is on address field</value>
     <comment>Auto-collapse recipient fields on lost focus</comment>
   </data>
   <data name="Options_ComposeWindow" xml:space="preserve">
@@ -9092,10 +9092,6 @@ Para obtener más información sobre cómo hacer una copia de seguridad de sus c
     <value>A partir de</value>
     <comment>Text that appears before the price on upgrade popup for trial/offline users triggers</comment>
   </data>
-  <data name="App_Grammarly_Description" xml:space="preserve">
-    <value>Redacte correos electrónicos llamativos, claros y sin errores con Grammarly directamente desde Mailbird.</value>
-    <comment>App description for Grammarly that will appear in app store.</comment>
-  </data>
   <data name="Options_CancelSubscription" xml:space="preserve">
     <value>Cancele su suscripción</value>
     <comment>Text for cancel subscription button in Options window</comment>
@@ -9652,5 +9648,9 @@ To receive the latest updates to Mailbird, please update to a newer version of W
   <data name="License_NeedUpgradeExplanation" xml:space="preserve">
     <value>Your license key is not valid for the current version of Mailbird. Please obtain a valid license key by [link href={0}]clicking here[/link].</value>
     <comment>Message when license needs to be upgraded</comment>
+  </data>
+  <data name="App_Sapling_Description" xml:space="preserve">
+    <value>Compose bold, clear, mistake-free emails with Sapling directly from compose window in Mailbird.</value>
+    <comment>Sapling app description</comment>
   </data>
 </root>

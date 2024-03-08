@@ -3414,7 +3414,7 @@ Note that Mailbird must be running for the message to be moved back. If it's not
     <comment>{0} will be replaced by the duration, so the result will be "Snoozed until 12/04/2015 9:00 PM"</comment>
   </data>
   <data name="Options_AutoHideRecipients" xml:space="preserve">
-    <value>Odaklanılmayan alıcı alanlarını otomatik daralt</value>
+    <value>Show sender and recipient details only when cursor is on address field</value>
     <comment>Auto-collapse recipient fields on lost focus</comment>
   </data>
   <data name="Options_ComposeWindow" xml:space="preserve">
@@ -9091,10 +9091,6 @@ Bu hesabı kaldırmak istediğinizden emin misiniz?</value>
     <value>Bundan başlayarak</value>
     <comment>Text that appears before the price on upgrade popup for trial/offline users triggers</comment>
   </data>
-  <data name="App_Grammarly_Description" xml:space="preserve">
-    <value>Mailbird'den doğrudan gözalıcı, anlaşılır, dilbilgisi açısından hatasız e-postalar oluşturun.</value>
-    <comment>App description for Grammarly that will appear in app store.</comment>
-  </data>
   <data name="Options_CancelSubscription" xml:space="preserve">
     <value>Aboneliğinizi iptal edin</value>
     <comment>Text for cancel subscription button in Options window</comment>
@@ -9651,5 +9647,9 @@ Mailbird'e yönelik en son güncellemeleri almak için lütfen Windows'un daha y
   <data name="License_NeedUpgradeExplanation" xml:space="preserve">
     <value>Lisans anahtarınız Mailbird'ün güncel sürümü için geçerli değil. Lütfen [link href={0}]burayı tıklayarak[/link] geçerli bir lisans anahtarı edinin.</value>
     <comment>Message when license needs to be upgraded</comment>
+  </data>
+  <data name="App_Sapling_Description" xml:space="preserve">
+    <value>Compose bold, clear, mistake-free emails with Sapling directly from compose window in Mailbird.</value>
+    <comment>Sapling app description</comment>
   </data>
 </root>
