@@ -217,10 +217,6 @@
     <value>Папки</value>
     <comment>Folders</comment>
   </data>
-  <data name="Conversation_CopyTo" xml:space="preserve">
-    <value>Копировать в</value>
-    <comment>Copy to</comment>
-  </data>
   <data name="Conversation_CopyTo2" xml:space="preserve">
     <value>Копировать в...</value>
     <comment>Copy to...</comment>
@@ -1034,14 +1030,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>Станьте суперзвездой социальных сетей! Просматривайте Facebook и общайтесь с друзьями прямо из Mailbird.</value>
     <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
-  <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Помогите сделать Mailbird лучшим почтовым клиентом в мире.</value>
-    <comment>Help make Mailbird the best email app in the world.</comment>
-  </data>
-  <data name="App_Feedback_Title" xml:space="preserve">
-    <value>Обратная связь с Mailbird</value>
-    <comment>Feedback</comment>
-  </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
     <value>Быстро переходите к важным документам из Mailbird.</value>
     <comment>Quickly navigate to your important documents from Mailbird.</comment>
@@ -1249,10 +1237,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <data name="Menu_Shortcut" xml:space="preserve">
     <value>Сочетания клавиш</value>
     <comment>Shortcuts</comment>
-  </data>
-  <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Отправить отзыв</value>
-    <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
     <value>Получить поддержку</value>
@@ -1462,10 +1446,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>О Mailbird</value>
     <comment>About Mailbird</comment>
   </data>
-  <data name="Options_Policy" xml:space="preserve">
-    <value>Просмотр политики конфиденциальности</value>
-    <comment>View privacy policy</comment>
-  </data>
   <data name="Options_Accounts" xml:space="preserve">
     <value>Учетные записи</value>
     <comment>Accounts</comment>
@@ -1555,7 +1535,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
-    <value>Вступление при ответе в тексте</value>
+    <value>In-line reply</value>
     <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
@@ -1685,10 +1665,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <data name="Options_VersionHistory" xml:space="preserve">
     <value>Посмотреть историю версий</value>
     <comment>View version history</comment>
-  </data>
-  <data name="Options_ViewLicense" xml:space="preserve">
-    <value>Показать лицензионное соглашение</value>
-    <comment>View license agreement</comment>
   </data>
   <data name="Option_Invalid" xml:space="preserve">
     <value>Неверно:</value>
@@ -2579,10 +2555,6 @@ Please exit out of this window to check the credentials and try again.</comment>
     <value>От:</value>
     <comment>From:</comment>
   </data>
-  <data name="Title_License" xml:space="preserve">
-    <value>Лицензионное соглашение Mailbird</value>
-    <comment>Mailbird License Agreement</comment>
-  </data>
   <data name="Title_ShowSource" xml:space="preserve">
     <value>Источник сообщения</value>
     <comment>Message Source</comment>
@@ -2594,10 +2566,6 @@ Please exit out of this window to check the credentials and try again.</comment>
   <data name="Options_Add" xml:space="preserve">
     <value>Добавить</value>
     <comment>Add</comment>
-  </data>
-  <data name="Options_AdditionalResource" xml:space="preserve">
-    <value>Дополнительные ресурсы и информация</value>
-    <comment>Additional resources &amp; information</comment>
   </data>
   <data name="Options_AppBehavior" xml:space="preserve">
     <value>Поведение приложения</value>
@@ -4043,7 +4011,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>The type of authentication to use. OAuth 2.0 only works with Google, Microsoft 365, Yahoo and AOL accounts.</value>
+    <value>The type of authentication to use. OAuth 2.0 is only supported by certain providers.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -5643,10 +5611,6 @@ with Mailbird Pro?</comment>
     <value>Солнце снова взойдет. Представляем лучший календарь. (Требуется подписка.)</value>
     <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
-  <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Проводите встречи на ходу, виртуальные занятия, удаленные собеседования и многое другое.</value>
-    <comment>Hangouts app description displayed in the App storefront.</comment>
-  </data>
   <data name="DripSurvey_MoreInfo" xml:space="preserve">
     <value>Мы сможем сделать Mailbird еще лучше, если будем больше понимать вас и ваши предпочтения.</value>
     <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
@@ -7227,7 +7191,7 @@ NB {0} will be replaced with the amount of discount</comment>
     <comment>Feature label for exchange support</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureInlineReply" xml:space="preserve">
-    <value>Ответ в тексте</value>
+    <value>In-line reply</value>
     <comment>Feature label for inline reply</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureLinkedInLookup" xml:space="preserve">
@@ -8361,10 +8325,6 @@ Note that since this is the "in development" version of Mailbird, issues may occ
   <data name="Welcome_AuthenticationType_YahooOAuth2" xml:space="preserve">
     <value>Yahoo OAuth 2.0</value>
     <comment>Shown in edit server settings window under authentication field</comment>
-  </data>
-  <data name="Welcome_OAuth2OutlookNotSupported" xml:space="preserve">
-    <value>OAuth 2.0 не поддерживается для личных учетных записей Outlook. Авторизуйтесь с помощью имя пользователя и пароля.</value>
-    <comment>Error shown when trying to use OAuth2 with personal Outlook account</comment>
   </data>
   <data name="Announcement_HigherTierDiscount" xml:space="preserve">
     <value>Получите скидку от 50 до 90%</value>
@@ -9648,5 +9608,21 @@ To receive the latest updates to Mailbird, please update to a newer version of W
   <data name="App_Sapling_Description" xml:space="preserve">
     <value>Compose bold, clear, mistake-free emails with Sapling directly from compose window in Mailbird.</value>
     <comment>Sapling app description</comment>
+  </data>
+  <data name="Conversation_CopyOrMoveTo" xml:space="preserve">
+    <value>Folders</value>
+    <comment>Label of the folders popup shown on a selected conversation.</comment>
+  </data>
+  <data name="App_OutlookCalendar_Description" xml:space="preserve">
+    <value>Calendar is the calendar and scheduling component of Outlook that is fully integrated with email, contacts, and other features.</value>
+    <comment>Outlook app description.</comment>
+  </data>
+  <data name="Options_EnableInlineReply" xml:space="preserve">
+    <value>Enable in-line reply</value>
+    <comment>Setting to enable in-line reply.</comment>
+  </data>
+  <data name="Options_InlineReplyPrefix" xml:space="preserve">
+    <value>Prefix</value>
+    <comment>Label for the in-line reply prefix textbox.</comment>
   </data>
 </root>

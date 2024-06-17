@@ -217,10 +217,6 @@
     <value>Mappák</value>
     <comment>Folders</comment>
   </data>
-  <data name="Conversation_CopyTo" xml:space="preserve">
-    <value>Másolás</value>
-    <comment>Copy to</comment>
-  </data>
   <data name="Conversation_CopyTo2" xml:space="preserve">
     <value>Másolás...</value>
     <comment>Copy to...</comment>
@@ -1034,14 +1030,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>Legyünk közösségi szupersztár. Kapcsolódás a Facebookhoz és csevegés az ismerősökkel a Mailbird alkalmazásban.</value>
     <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
-  <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Segítség a Mailbird részére a világ legjobb levelező alkalmazássá fejlesztéséhez.</value>
-    <comment>Help make Mailbird the best email app in the world.</comment>
-  </data>
-  <data name="App_Feedback_Title" xml:space="preserve">
-    <value>Mailbird visszajelzés</value>
-    <comment>Feedback</comment>
-  </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
     <value>Gyors navigálás a fontos dokumentumokhoz a Mailbirdben.</value>
     <comment>Quickly navigate to your important documents from Mailbird.</comment>
@@ -1249,10 +1237,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <data name="Menu_Shortcut" xml:space="preserve">
     <value>Gyorsbillentyűk</value>
     <comment>Shortcuts</comment>
-  </data>
-  <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Visszajelzés küldése</value>
-    <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
     <value>Támogatás kérés</value>
@@ -1462,10 +1446,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>Mailbird névjegy</value>
     <comment>About Mailbird</comment>
   </data>
-  <data name="Options_Policy" xml:space="preserve">
-    <value>Az adatvédelmi rendszabály megtekintése</value>
-    <comment>View privacy policy</comment>
-  </data>
   <data name="Options_Accounts" xml:space="preserve">
     <value>Fiókok</value>
     <comment>Accounts</comment>
@@ -1555,7 +1535,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
-    <value>A sorközi válasz bevezető szövege</value>
+    <value>In-line reply</value>
     <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
@@ -1685,10 +1665,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <data name="Options_VersionHistory" xml:space="preserve">
     <value>Verziótörténet megtekintése</value>
     <comment>View version history</comment>
-  </data>
-  <data name="Options_ViewLicense" xml:space="preserve">
-    <value>Licensz megállapodás megtekintése</value>
-    <comment>View license agreement</comment>
   </data>
   <data name="Option_Invalid" xml:space="preserve">
     <value>Érvénytelen:</value>
@@ -2579,10 +2555,6 @@ Please exit out of this window to check the credentials and try again.</comment>
     <value>Feladó:</value>
     <comment>From:</comment>
   </data>
-  <data name="Title_License" xml:space="preserve">
-    <value>Mailbird licensz megállapodás</value>
-    <comment>Mailbird License Agreement</comment>
-  </data>
   <data name="Title_ShowSource" xml:space="preserve">
     <value>Üzenetforrás</value>
     <comment>Message Source</comment>
@@ -2594,10 +2566,6 @@ Please exit out of this window to check the credentials and try again.</comment>
   <data name="Options_Add" xml:space="preserve">
     <value>Hozzáadás</value>
     <comment>Add</comment>
-  </data>
-  <data name="Options_AdditionalResource" xml:space="preserve">
-    <value>Kiegészítő források és információ</value>
-    <comment>Additional resources &amp; information</comment>
   </data>
   <data name="Options_AppBehavior" xml:space="preserve">
     <value>Alkalmazás viselkedés</value>
@@ -4043,7 +4011,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>A használni kívánt hitelesítés típusa. Az OAuth 2.0 csak a Google, a Microsoft 365, a Yahoo és az AOL fiókokkal működik.</value>
+    <value>The type of authentication to use. OAuth 2.0 is only supported by certain providers.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -5643,10 +5611,6 @@ Próbáljuk ki most az új Kapcsolatok alkalmazást!</value>
     <value>A nap újra felkel. Itt van a legjobb naptár élmény. (előfizetés szükséges)</value>
     <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
-  <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Tartsunk megbeszéléseket, virtuális képzési órákat, távoli interjúkat és egyebeket útközben.</value>
-    <comment>Hangouts app description displayed in the App storefront.</comment>
-  </data>
   <data name="DripSurvey_MoreInfo" xml:space="preserve">
     <value>A Mailbird jobbá tehető a jobb bemutatkozással, annak megismerésével, hogy mi jó és mi nem a Mailbird alkalmazásban.</value>
     <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
@@ -7227,7 +7191,7 @@ Ha mindez félreértés volt és szeretnénk folytatni a Mailbird használatát?
     <comment>Feature label for exchange support</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureInlineReply" xml:space="preserve">
-    <value>Belső válasz</value>
+    <value>In-line reply</value>
     <comment>Feature label for inline reply</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureLinkedInLookup" xml:space="preserve">
@@ -8361,10 +8325,6 @@ A folytatáshoz a következő lehetőségek állnak rendelkezésre:
   <data name="Welcome_AuthenticationType_YahooOAuth2" xml:space="preserve">
     <value>Yahoo OAuth 2.0</value>
     <comment>Shown in edit server settings window under authentication field</comment>
-  </data>
-  <data name="Welcome_OAuth2OutlookNotSupported" xml:space="preserve">
-    <value>Az OAuth 2.0 nem támogatott a személyes Outlook fiókoknál. Kapcsoljunk át a felhasználó névre és jelszóra.</value>
-    <comment>Error shown when trying to use OAuth2 with personal Outlook account</comment>
   </data>
   <data name="Announcement_HigherTierDiscount" xml:space="preserve">
     <value>50% - 90% kedvezmény beszerzése</value>
@@ -9651,5 +9611,21 @@ A Mailbird legújabb frissítéseinek megtekintéséhez frissítsünk a Windows 
   <data name="App_Sapling_Description" xml:space="preserve">
     <value>Készítsünk merész, világos, hibamentes emaileket, közvetlenül az Üzenet írása ablakból a Mailbirdben.</value>
     <comment>Sapling app description</comment>
+  </data>
+  <data name="Conversation_CopyOrMoveTo" xml:space="preserve">
+    <value>Folders</value>
+    <comment>Label of the folders popup shown on a selected conversation.</comment>
+  </data>
+  <data name="App_OutlookCalendar_Description" xml:space="preserve">
+    <value>Calendar is the calendar and scheduling component of Outlook that is fully integrated with email, contacts, and other features.</value>
+    <comment>Outlook app description.</comment>
+  </data>
+  <data name="Options_EnableInlineReply" xml:space="preserve">
+    <value>Enable in-line reply</value>
+    <comment>Setting to enable in-line reply.</comment>
+  </data>
+  <data name="Options_InlineReplyPrefix" xml:space="preserve">
+    <value>Prefix</value>
+    <comment>Label for the in-line reply prefix textbox.</comment>
   </data>
 </root>

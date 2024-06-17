@@ -217,10 +217,6 @@
     <value>Klasörler</value>
     <comment>Folders</comment>
   </data>
-  <data name="Conversation_CopyTo" xml:space="preserve">
-    <value>Kopyala</value>
-    <comment>Copy to</comment>
-  </data>
   <data name="Conversation_CopyTo2" xml:space="preserve">
     <value>Kopyala...</value>
     <comment>Copy to...</comment>
@@ -1034,14 +1030,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>Sosyal medyanın kralı olun. Facebook'a bağlanıp arkadaşlarınızla Mailbird üzerinden sohbet edin.</value>
     <comment>Be a social superstar. Access Facebook and chat with friends from Mailbird.</comment>
   </data>
-  <data name="App_Feedback_Description" xml:space="preserve">
-    <value>Mailbird'ü dünyadaki en iyi eposta uygulaması yap.</value>
-    <comment>Help make Mailbird the best email app in the world.</comment>
-  </data>
-  <data name="App_Feedback_Title" xml:space="preserve">
-    <value>Mailbird Geri bildirim</value>
-    <comment>Feedback</comment>
-  </data>
   <data name="App_GoogleDocs_Description" xml:space="preserve">
     <value>Önemli belgelerinize Mailbird aracılığıyla erişin.</value>
     <comment>Quickly navigate to your important documents from Mailbird.</comment>
@@ -1249,10 +1237,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <data name="Menu_Shortcut" xml:space="preserve">
     <value>Kısayollar</value>
     <comment>Shortcuts</comment>
-  </data>
-  <data name="Menu_Suggestions" xml:space="preserve">
-    <value>Geri bildirim gönder</value>
-    <comment>Suggest improvements</comment>
   </data>
   <data name="Menu_Support" xml:space="preserve">
     <value>Destek al</value>
@@ -1462,10 +1446,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <value>Mailbird Hakkında</value>
     <comment>About Mailbird</comment>
   </data>
-  <data name="Options_Policy" xml:space="preserve">
-    <value>Gizlilik politikasını görüntüle</value>
-    <comment>View privacy policy</comment>
-  </data>
   <data name="Options_Accounts" xml:space="preserve">
     <value>Hesaplar</value>
     <comment>Accounts</comment>
@@ -1555,7 +1535,7 @@ If you want to send the email without attachments, just press "Ok" below.</comme
     <comment>Show "important mail" indicator</comment>
   </data>
   <data name="Options_InlineReply" xml:space="preserve">
-    <value>Çevrimiçi yanıt giriş metni</value>
+    <value>In-line reply</value>
     <comment>In-line reply intro text</comment>
   </data>
   <data name="Options_IsDefault" xml:space="preserve">
@@ -1685,10 +1665,6 @@ If you want to send the email without attachments, just press "Ok" below.</comme
   <data name="Options_VersionHistory" xml:space="preserve">
     <value>Sürüm geçmişini görüntüle</value>
     <comment>View version history</comment>
-  </data>
-  <data name="Options_ViewLicense" xml:space="preserve">
-    <value>Lisans sözleşmesini görüntüle</value>
-    <comment>View license agreement</comment>
   </data>
   <data name="Option_Invalid" xml:space="preserve">
     <value>Geçersiz:</value>
@@ -2579,10 +2555,6 @@ Please exit out of this window to check the credentials and try again.</comment>
     <value>Kimden:</value>
     <comment>From:</comment>
   </data>
-  <data name="Title_License" xml:space="preserve">
-    <value>Mailbird Lisans Sözleşmesi</value>
-    <comment>Mailbird License Agreement</comment>
-  </data>
   <data name="Title_ShowSource" xml:space="preserve">
     <value>İleti Kaynağı</value>
     <comment>Message Source</comment>
@@ -2594,10 +2566,6 @@ Please exit out of this window to check the credentials and try again.</comment>
   <data name="Options_Add" xml:space="preserve">
     <value>Ekle</value>
     <comment>Add</comment>
-  </data>
-  <data name="Options_AdditionalResource" xml:space="preserve">
-    <value>Ek kaynaklar &amp; bilgi</value>
-    <comment>Additional resources &amp; information</comment>
   </data>
   <data name="Options_AppBehavior" xml:space="preserve">
     <value>Uygulama davranışı</value>
@@ -4043,7 +4011,7 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>We've found server settings for your account.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeExplanation" xml:space="preserve">
-    <value>Kullanılacak kimlik doğrulama türü. OAuth 2.0 yalnızca Google, Microsoft 365, Yahoo ve AOL hesaplarıyla çalışır.</value>
+    <value>The type of authentication to use. OAuth 2.0 is only supported by certain providers.</value>
     <comment>The type of authentication to use. Google OAuth 2.0 only works with Google accounts.</comment>
   </data>
   <data name="Welcome_AuthenticationTypeHeader" xml:space="preserve">
@@ -5643,10 +5611,6 @@ Yeni Kişileri şimdi deneyin!</value>
     <value>Güneş yeniden doğacak. İşte en iyi takvim deneyimi. (abonelik gerektirir.)</value>
     <comment>Description of Kin Calendar displayed in the App storefront.</comment>
   </data>
-  <data name="Apps_Hangouts_Description" xml:space="preserve">
-    <value>Hareket halindeyken toplantılar, sanal eğitim sınıfları, uzaktan görüşmeler ve daha fazlasını düzenleyin.</value>
-    <comment>Hangouts app description displayed in the App storefront.</comment>
-  </data>
   <data name="DripSurvey_MoreInfo" xml:space="preserve">
     <value>Kim olduğunuzu, Mailbird'de neyi sevdiğinizi ve sevmediğinizi daha iyi anlayınca, Mailbird'ü daha da iyi hale getirebiliriz.</value>
     <comment>By better understanding who you are, what you like and don't like in Mailbird, we can make Mailbird even better.</comment>
@@ -7227,7 +7191,7 @@ Bu bir yanlış anlaşılma ve Mailbird'ü kullanmaya devam etmek mi istiyorsunu
     <comment>Feature label for exchange support</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureInlineReply" xml:space="preserve">
-    <value>Satır içi cevap</value>
+    <value>In-line reply</value>
     <comment>Feature label for inline reply</comment>
   </data>
   <data name="License_WelcomeBusiness_FeatureLinkedInLookup" xml:space="preserve">
@@ -8361,10 +8325,6 @@ Devam etmek için aşağıdaki seçeneklere sahipsiniz:
   <data name="Welcome_AuthenticationType_YahooOAuth2" xml:space="preserve">
     <value>Yahoo OAuth 2.0</value>
     <comment>Shown in edit server settings window under authentication field</comment>
-  </data>
-  <data name="Welcome_OAuth2OutlookNotSupported" xml:space="preserve">
-    <value>OAuth 2.0, kişisel Outlook hesapları için desteklenmez. Lütfen kullanıcı adı ve şifreye geçin.</value>
-    <comment>Error shown when trying to use OAuth2 with personal Outlook account</comment>
   </data>
   <data name="Announcement_HigherTierDiscount" xml:space="preserve">
     <value>%50 - %90 İNDİRİM alın</value>
@@ -9651,5 +9611,21 @@ Mailbird'e yönelik en son güncellemeleri almak için lütfen Windows'un daha y
   <data name="App_Sapling_Description" xml:space="preserve">
     <value>Sapling ile doğrudan Mailbird'deki oluşturma penceresinden cesur, net ve hatasız e-postalar oluşturun.</value>
     <comment>Sapling app description</comment>
+  </data>
+  <data name="Conversation_CopyOrMoveTo" xml:space="preserve">
+    <value>Folders</value>
+    <comment>Label of the folders popup shown on a selected conversation.</comment>
+  </data>
+  <data name="App_OutlookCalendar_Description" xml:space="preserve">
+    <value>Calendar is the calendar and scheduling component of Outlook that is fully integrated with email, contacts, and other features.</value>
+    <comment>Outlook app description.</comment>
+  </data>
+  <data name="Options_EnableInlineReply" xml:space="preserve">
+    <value>Enable in-line reply</value>
+    <comment>Setting to enable in-line reply.</comment>
+  </data>
+  <data name="Options_InlineReplyPrefix" xml:space="preserve">
+    <value>Prefix</value>
+    <comment>Label for the in-line reply prefix textbox.</comment>
   </data>
 </root>
