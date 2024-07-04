@@ -7709,31 +7709,6 @@ Note that not all changes you make in one version of Mailbird will sync to the o
     <value>Existing installation detected</value>
     <comment>Existing installation detected</comment>
   </data>
-  <data name="Options_MailbirdAlpha" xml:space="preserve">
-    <value>Mailbird Alpha</value>
-    <comment>Mailbird Alpha</comment>
-  </data>
-  <data name="Options_MailbirdAlphaDescription" xml:space="preserve">
-    <value>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
-
-The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features and you can join our dedicated user community called The Mailbird Influencers on Facebook. 
-
-- Connect with like-minded individuals 
-- Access exclusive Mailbird gifts, deals, and offers 
-- Find inspiration, gain tips, insights, and productivity hacks
-- Help us understand you better to shape your Mailbird
-
-Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</value>
-    <comment>If you'd like to help test the latest updates and features in Mailbird, while at the same time influence the direction we're taking, then sign up to be an Alpha tester.
-
-The Alpha version of Mailbird is installed separately, so you can still run the normal version when you want to, but the Alpha gets updates faster, including new features - and you get access to our closed Facebook group where we conduct research and ask for feedback when implementing new ideas.
-
-Note that since this is the "in development" version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them sooner - and you can always switch back to the normal version if you run into an issue - until we have it fixed.</comment>
-  </data>
-  <data name="Options_SignUpForAlpha" xml:space="preserve">
-    <value>Sign up to be an Alpha tester</value>
-    <comment>Sign up to be an Alpha tester</comment>
-  </data>
   <data name="Dialog_StartingMailbird" xml:space="preserve">
     <value>Starting Mailbird</value>
     <comment>Starting Mailbird</comment>
@@ -9627,5 +9602,126 @@ To receive the latest updates to Mailbird, please update to a newer version of W
   <data name="Options_InlineReplyPrefix" xml:space="preserve">
     <value>Prefix</value>
     <comment>Label for the in-line reply prefix textbox.</comment>
+  </data>
+  <data name="Options_EarlyAdopterHeader" xml:space="preserve">
+    <value>Join the early adopters</value>
+    <comment>Header of the early adopter program in settings.</comment>
+  </data>
+  <data name="Options_EarlyAdopterDescription" xml:space="preserve">
+    <value>If you'd like to help test the latest updates and features in Mailbird before they're made available to the general public, while at the same time influence the direction we're taking, you can sign up to be an early adopter, running a separate version of Mailbird.
+
+Apart from getting updates faster, including new features, you can join our dedicated user community on Facebook. 
+
+- Connect with like-minded individuals.
+- Access exclusive Mailbird gifts, deals, and offers.
+- Find inspiration, gain tips, insights, and productivity hacks.
+- Help us understand you better, to shape your Mailbird.
+
+Note that since this is an early access version of Mailbird, issues may occur a bit more frequently, but we're also able to fix them faster. And since this special version of Mailbird is installed separately, you can always run the normal version if you run into issues, until we have them fixed.</value>
+    <comment>Description of the early adopter program in settings.</comment>
+  </data>
+  <data name="Options_EarlyAdopterSignUpButton" xml:space="preserve">
+    <value>Become an early adopter</value>
+    <comment>Label of button to sign up as an early adopter</comment>
+  </data>
+  <data name="License_BuyPremium_Button" xml:space="preserve">
+    <value>Buy Mailbird Premium</value>
+    <comment>Button to buy premium</comment>
+  </data>
+  <data name="License_EndTrialWithoutExtension_Desc" xml:space="preserve">
+    <value>This might be the end of your free trial but that doesn't mean your journey needs to stop here. A world of powerful time-saving tools is a simple click away—with up to 75% savings. So what are you waiting for?</value>
+    <comment>End of trial text explanation when it can not be extended</comment>
+  </data>
+  <data name="License_EndTrialWithoutExtension_Title" xml:space="preserve">
+    <value>Stick around, there's no need to leave so soon!</value>
+    <comment>Sub header when trial is end and it can not be extended</comment>
+  </data>
+  <data name="License_EndTrial_Desc" xml:space="preserve">
+    <value>Although you've come to the end of your trial, there's still time to breathe new life and possibility into your email workspace. Order now and save up to 75% on Mailbird Premium.</value>
+    <comment>Explanation when trial ends</comment>
+  </data>
+  <data name="License_EndTrial_Title" xml:space="preserve">
+    <value>Enjoying Mailbird? Why stop now?</value>
+    <comment>Sub header when trial is end</comment>
+  </data>
+  <data name="License_ExtendTrial_Button" xml:space="preserve">
+    <value>Let's keep going</value>
+    <comment>Button to extend trial</comment>
+  </data>
+  <data name="License_ExtendTrial_Desc" xml:space="preserve">
+    <value>If you enjoyed your free, full-access trial, here are [bold]four more days.[/bold] You can use the extra time to explore more tools and more options—available only in Mailbird Premium.</value>
+    <comment>Trial extension explanation</comment>
+  </data>
+  <data name="License_ExtendTrial_Title" xml:space="preserve">
+    <value>Haven't made up your mind yet?</value>
+    <comment>Sub header when trial can be extended</comment>
+  </data>
+  <data name="License_Features_AI_Desc" xml:space="preserve">
+    <value>Beat writer's block by using ChatGPT to generate natural-sounding, human-like email in seconds.</value>
+    <comment>Feature description for AI tools</comment>
+  </data>
+  <data name="License_Features_AI_Title" xml:space="preserve">
+    <value>Power your email with AI tools</value>
+    <comment>Feature label for AI tools</comment>
+  </data>
+  <data name="License_Features_Apps_Desc" xml:space="preserve">
+    <value>Boost productivity by integrating all your favorite apps into a single easy-to-use workspace.</value>
+    <comment>Feature description for apps</comment>
+  </data>
+  <data name="License_Features_Apps_Title" xml:space="preserve">
+    <value>Integrate third-party apps</value>
+    <comment>Feature label for apps</comment>
+  </data>
+  <data name="License_Features_Personalize_Desc" xml:space="preserve">
+    <value>Customize Mailbird with a background of your favorite movie, a timeless painting, or an inspiring landscape.</value>
+    <comment>Feature description for personalization</comment>
+  </data>
+  <data name="License_Features_Personalize_Title" xml:space="preserve">
+    <value>Personalize your workspace</value>
+    <comment>Feature label for personalization</comment>
+  </data>
+  <data name="License_Features_Template_Desc" xml:space="preserve">
+    <value>Reduce the effort of writing and managing messages for common email situations.</value>
+    <comment>Feature description for template</comment>
+  </data>
+  <data name="License_Features_Template_Title" xml:space="preserve">
+    <value>Create &amp; customize email templates</value>
+    <comment>Feature label for template</comment>
+  </data>
+  <data name="License_Features_UnifiedAccount_Desc" xml:space="preserve">
+    <value>Organize multiple email accounts and manage all your messages from a single app.</value>
+    <comment>Feature description for unified account</comment>
+  </data>
+  <data name="License_Features_UnifiedAccount_Title" xml:space="preserve">
+    <value>Manage all your accounts in one place</value>
+    <comment>Feature label for unified account</comment>
+  </data>
+  <data name="License_Features_UnsubscribeBlock_Desc" xml:space="preserve">
+    <value>Focus on important messages by blocking senders and keeping spam from littering your inbox.</value>
+    <comment>Feature description for unsubscribe and block sender</comment>
+  </data>
+  <data name="License_Features_UnsubscribeBlock_Title" xml:space="preserve">
+    <value>Unsubscribe &amp; block senders</value>
+    <comment>Feature label for unsubscribe and block sender</comment>
+  </data>
+  <data name="License_GetInTouch1" xml:space="preserve">
+    <value>[bold][link href={0}]Get in touch with us[/link][/bold] if you have any questions or suggestions.</value>
+    <comment>Paragraph with link to get in touch with support</comment>
+  </data>
+  <data name="License_GetInTouch2" xml:space="preserve">
+    <value>[bold][link href={0}]Get in touch with us[/link][/bold] if you have any questions or need help with your purchase.</value>
+    <comment>Paragraph with link to get in touch with support</comment>
+  </data>
+  <data name="License_StartTrial_Button" xml:space="preserve">
+    <value>Start your trial</value>
+    <comment>Button to start trial</comment>
+  </data>
+  <data name="License_StartTrial_Desc" xml:space="preserve">
+    <value>You're about to enter a new generation of email productivity. For the next three days, enjoy free access to everything Mailbird Premium has to offer.</value>
+    <comment>Start trial explanation</comment>
+  </data>
+  <data name="License_StartTrial_Title" xml:space="preserve">
+    <value>Welcome to a premium experience</value>
+    <comment>Sub header when trial starts</comment>
   </data>
 </root>
