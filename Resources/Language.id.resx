@@ -502,9 +502,9 @@ Message:</comment>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>Sebuah kesalahan terjadi saat mencoba memverifikasi pengaturan koneksi. Pastikan bahwa semua informasi sudah benar.
+    <value>An error occurred trying to verify the connection settings. Please check that everything has been input correctly.
 
-Baca lebih lanjut:
+Read more:
 https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
@@ -2206,7 +2206,7 @@ We will never post anything to Facebook.</comment>
     <comment>Use mail editor</comment>
   </data>
   <data name="Error_DownloadingMessage" xml:space="preserve">
-    <value>Sebuah kesalahan terjadi saat mengunduh sumber pesan. Silakan coba beberapa saat lagi.</value>
+    <value>An error occurred downloading the message source. Please try again later.</value>
     <comment>An error occured downloading the message source. Please try again later.</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
@@ -3666,9 +3666,9 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="App_DefaultFatalError" xml:space="preserve">
-    <value>Sebuah kesalahan terjadi di dalam app. Silakan mulai ulang Mailbird dan coba lagi.
+    <value>An error occurred in the app. Please restart Mailbird and try again.
 
-Jika Anda terus mengalami masalah ini, silakan hubungi tim dukungan.</value>
+If you continue to experience this error, please contact support.</value>
     <comment>An error occured in the app. Please restart Mailbird and try again.
 
 If you continue to experience this error, please contact support.</comment>
@@ -4027,17 +4027,17 @@ Importing johndoe@gmail.com. Account 1 of 4.</comment>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
-    <value>Sebuah kesalahan terjadi saat mengizinkan Mailbird untuk mengakses akun surel ini.
+    <value>An error occurred authorizing Mailbird to access the email account.
 
-Silakan coba lagi atau beralih ke autentikasi nama pengguna dan kata sandi.</value>
+Please try again or switch to username and password authentication.</value>
     <comment>An error occured authorizing Mailbird to access the email account.
 
 Please try again or switch to username and password authentication.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Sebuah kesalahan yang tidak diketahui telah terjadi saat otorisasi.
+    <value>An unknown error occurred during authorization.
 
-Silakan coba lagi, atau hubungi dukungan jika masalah berlanjut.</value>
+Please try again, or contact support if the issue persists.</value>
     <comment>An unknown error occured during authorization.
 
 Please try again, or contact support if the issue persists.</comment>
@@ -4344,8 +4344,8 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Your Free Pro Trial Starts Now</comment>
   </data>
   <data name="Notification_ErrorLoadingBackgroundExplanation" xml:space="preserve">
-    <value>Sebuah kesalahan terjadi saat memuat gambar latar belakang.
-Silakan pilih gambar lainnya yang ingin digunakan sebagai latar belakang.</value>
+    <value>An error occurred loading the background image.
+Please select another image to use as a background.</value>
     <comment>An error occured loading the background image.
 Please select another image to use as a background.</comment>
   </data>
@@ -5802,11 +5802,11 @@ Mulai ulang sekarang untuk mendapatkan perbaikan dan perkembangan terbaru - hany
     <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>Kesalahan terjadi saat memasang lampiran.
+    <value>An error occurred attaching the file.
 
-Masalah ini biasanya disebabkan oleh program antivirus yang mengganggu Mailbird. Coba nonaktifkan sementara program antivirus Anda dan coba lagi.
+This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
 
-Jika galat masih berlanjut, silakan hubungi dukungan.</value>
+If the error persists, please contact support.</value>
     <comment>Error displayed when the user tries to add an attachment and fails because an antivirus is blocking the file.</comment>
   </data>
   <data name="Dialog_DatabaseMismatch" xml:space="preserve">
@@ -6710,7 +6710,7 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>Proses ekspor telah selesai. Beberapa kesalahan terjadi ketika mengekspor beberapa acara. Silakan hubungi dukungan.</value>
+    <value>The export process has finished. Some errors occurred while exporting some events. Please contact support.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
@@ -6726,7 +6726,7 @@ e.g. "2 occurrences"</comment>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>Proses impor telah selesai. Beberapa kesalahan terjadi ketika mengimpor beberapa acara. Silakan hubungi dukungan.</value>
+    <value>The import process has finished. Some errors occurred while importing some events. Please contact support.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
@@ -6853,7 +6853,7 @@ e.g. "2 occurrences"</comment>
     <comment>Description field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Error" xml:space="preserve">
-    <value>Sebuah kesalahan terjadi saat memproses undangan. Jika masalah berlanjut silakan [link href={0}]hubungi dukungan[/link]</value>
+    <value>An error occurred while processing the invitation. If the issue persists please [link href={0}]contact support[/link]</value>
     <comment>Message when there is error when opening ics file, please leave the tag [link]</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventAdded" xml:space="preserve">
@@ -9392,11 +9392,11 @@ To receive the latest updates to Mailbird, please update to a newer version of W
     <comment>Button to regenerate the email template</comment>
   </data>
   <data name="EmailTemplates_GeneratingError" xml:space="preserve">
-    <value>An error occured while generating template. Please try again, if the issue persists please [link href={0}]contact support.[/link]</value>
+    <value>An error occurred while generating template. Please try again, if the issue persists please [link href={0}]contact support.[/link]</value>
     <comment>Message when there is error when generating email template, please leave the tag [link]</comment>
   </data>
   <data name="EmailTemplates_LoadingValuesError" xml:space="preserve">
-    <value>An error occured while loading options. Please try again, if the issue persists please [link href={0}]contact support.[/link]</value>
+    <value>An error occurred while loading options. Please try again, if the issue persists please [link href={0}]contact support.[/link]</value>
     <comment>Message when there is error when loading template options, please leave the tag [link]</comment>
   </data>
   <data name="MailEditorFormattingBar_DeleteTemplate" xml:space="preserve">

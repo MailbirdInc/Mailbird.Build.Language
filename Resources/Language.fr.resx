@@ -978,10 +978,10 @@ Message:</comment>
     <comment>SMTP connection error</comment>
   </data>
   <data name="Dialog_SmtpFailExplanation" xml:space="preserve">
-    <value>Une erreur s'est produite lors de la vérification des paramètres de connexion. Veuillez vérifier que tout a été correctement saisi.
+    <value>An error occurred trying to verify the connection settings. Please check that everything has been input correctly.
 
-En savoir plus :
-https://support.getmailbird.com/hc/en-us/articles/360020966234  (lien disponible uniquement en anglais)</value>
+Read more:
+https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
     <comment>An error occured trying to verify the connection settings. Please check that everything has been input correctly.</comment>
   </data>
   <data name="Dialog_SmtpSuccess" xml:space="preserve">
@@ -2281,7 +2281,7 @@ We will never post anything to Facebook.</comment>
     <comment>Use mail editor</comment>
   </data>
   <data name="Error_DownloadingMessage" xml:space="preserve">
-    <value>Une erreur s'est produite lors du téléchargement de la source du message. Veuillez réessayer plus tard.</value>
+    <value>An error occurred downloading the message source. Please try again later.</value>
     <comment>An error occured downloading the message source. Please try again later.</comment>
   </data>
   <data name="Exception_AttachmentWhenAntiVirus" xml:space="preserve">
@@ -3726,9 +3726,9 @@ If it fails, please uninstall and reinstall Mailbird to fix the problem. All you
     <comment>It is not possible to add the file '{0}' as attachment. Please check that the file is not being used in another program and try again.</comment>
   </data>
   <data name="App_DefaultFatalError" xml:space="preserve">
-    <value>Une erreur est survenue dans l'application. Veuillez redémarrer Mailbird et essayer de nouveau.
+    <value>An error occurred in the app. Please restart Mailbird and try again.
 
-Si vous souhaitez nous faire part de cette erreur, veuillez contacter le support.</value>
+If you continue to experience this error, please contact support.</value>
     <comment>An error occured in the app. Please restart Mailbird and try again.
 
 If you continue to experience this error, please contact support.</comment>
@@ -4113,17 +4113,17 @@ Message 1 to 2</comment>
     <comment>Enter the password used to log in to [johndoe@domain.com].</comment>
   </data>
   <data name="Welcome_OAuth2UserAuthorizationError" xml:space="preserve">
-    <value>Une erreur s'est produite lors de l'accès au compte de messagerie.
+    <value>An error occurred authorizing Mailbird to access the email account.
 
-Réessayez ou utilisez l'authentification par nom d'utilisateur et mot de passe.</value>
+Please try again or switch to username and password authentication.</value>
     <comment>An error occured authorizing Mailbird to access the email account.
 
 Please try again or switch to username and password authentication.</comment>
   </data>
   <data name="Dialog_OAuth2AuthorizationError" xml:space="preserve">
-    <value>Une erreur inconnue s'est produite pendant l'autorisation.
+    <value>An unknown error occurred during authorization.
 
-Veuillez réessayer, ou contactez le service d'assistance si le problème persiste.</value>
+Please try again, or contact support if the issue persists.</value>
     <comment>An unknown error occured during authorization.
 
 Please try again, or contact support if the issue persists.</comment>
@@ -4385,7 +4385,7 @@ Once your trial is over your account will revert to the Lite (free) version.</co
     <comment>Your Free Pro Trial Starts Now</comment>
   </data>
   <data name="Notification_ErrorLoadingBackgroundExplanation" xml:space="preserve">
-    <value>An error occured loading the background image.
+    <value>An error occurred loading the background image.
 Please select another image to use as a background.</value>
     <comment>An error occured loading the background image.
 Please select another image to use as a background.</comment>
@@ -5810,7 +5810,7 @@ Restart now to get the latest improvements and fixes - it'll only take a second.
     <comment>Label in the checkbox to specify adding an Exchange account</comment>
   </data>
   <data name="Notification_AttachmentCantBeSaved" xml:space="preserve">
-    <value>An error occured attaching the file.
+    <value>An error occurred attaching the file.
 
 This is typically caused by an antivirus program interfering with Mailbird. Try disabling any antivirus program temporarily and then try again.
 
@@ -6718,7 +6718,7 @@ e.g. "2 occurrences"</comment>
     <comment>Label of the button to import events in calendar settings window</comment>
   </data>
   <data name="App_Calendar_Export_CompletedErrors" xml:space="preserve">
-    <value>The export process has finished. Some errors occured while exporting some events. Please contact support.</value>
+    <value>The export process has finished. Some errors occurred while exporting some events. Please contact support.</value>
     <comment>Message stating that not all events have been exported successfully.</comment>
   </data>
   <data name="App_Calendar_Export_CompletedNoErrors" xml:space="preserve">
@@ -6734,7 +6734,7 @@ e.g. "2 occurrences"</comment>
     <comment>Error message when there's no events to export in the selected calendar</comment>
   </data>
   <data name="App_Calendar_Import_CompletedErrors" xml:space="preserve">
-    <value>The import process has finished. Some errors occured while importing some events. Please contact support.</value>
+    <value>The import process has finished. Some errors occurred while importing some events. Please contact support.</value>
     <comment>Message stating that not all events have been imported successfully.</comment>
   </data>
   <data name="App_Calendar_Import_CompletedNoErrors" xml:space="preserve">
@@ -6861,7 +6861,7 @@ e.g. "2 occurrences"</comment>
     <comment>Description field</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_Error" xml:space="preserve">
-    <value>An error occured while processing the invitation. If the issue persists please [link href={0}]contact support[/link]</value>
+    <value>An error occurred while processing the invitation. If the issue persists please [link href={0}]contact support[/link]</value>
     <comment>Message when there is error when opening ics file, please leave the tag [link]</comment>
   </data>
   <data name="App_Calendar_AcceptInvitation_EventAdded" xml:space="preserve">
@@ -9416,11 +9416,11 @@ To receive the latest updates to Mailbird, please update to a newer version of W
     <comment>Button to regenerate the email template</comment>
   </data>
   <data name="EmailTemplates_GeneratingError" xml:space="preserve">
-    <value>An error occured while generating template. Please try again, if the issue persists please [link href={0}]contact support.[/link]</value>
+    <value>An error occurred while generating template. Please try again, if the issue persists please [link href={0}]contact support.[/link]</value>
     <comment>Message when there is error when generating email template, please leave the tag [link]</comment>
   </data>
   <data name="EmailTemplates_LoadingValuesError" xml:space="preserve">
-    <value>An error occured while loading options. Please try again, if the issue persists please [link href={0}]contact support.[/link]</value>
+    <value>An error occurred while loading options. Please try again, if the issue persists please [link href={0}]contact support.[/link]</value>
     <comment>Message when there is error when loading template options, please leave the tag [link]</comment>
   </data>
   <data name="MailEditorFormattingBar_DeleteTemplate" xml:space="preserve">
