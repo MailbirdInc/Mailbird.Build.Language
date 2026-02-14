@@ -9020,7 +9020,8 @@ Para obtener más información sobre cómo hacer una copia de seguridad de sus c
     <comment>Text for cancel subscription button in Options window</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_ICloud" xml:space="preserve">
-    <value>El uso de una cuenta de iCloud con una aplicación de terceros requiere que {0}cree una contraseña de aplicación{1}. Introduce una contraseña de aplicación para {2}</value>
+    <value>Using an iCloud account with a third-party application requires you {0}create an app-specific password{1}.
+Enter an app-specific password for {2}</value>
     <comment>Message shown when adding an iCloud account, asking for an app-specific password. {0} and {1} will make the text in between a link to a page to create a password, and {2} will be replaced by the user's email address.</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_Zoho" xml:space="preserve">
@@ -9857,5 +9858,34 @@ Here's a FREE Premium pass</value>
   <data name="App_OutlookArchive_Description" xml:space="preserve">
     <value>Outlook In-Place Archive helps you store older emails, free up mailbox space, and stay organized.</value>
     <comment>Description of Outlook In-Place Archive</comment>
+  </data>
+  <data name="Welcome_Welcome_Variant1" xml:space="preserve">
+    <value>Add existing account</value>
+    <comment>Add existing account</comment>
+  </data>
+  <data name="License_StartTrial_Title_Variant1" xml:space="preserve">
+    <value>Enjoy the full Mailbird experience</value>
+    <comment>Sub header when trial starts</comment>
+  </data>
+  <data name="License_StartTrial_Desc_Variant1" xml:space="preserve">
+    <value>For the next three days, you can use every Premium feature for free. Take the time to see how Mailbird Premium fits into your daily email routine.</value>
+    <comment>Start trial explanation</comment>
+  </data>
+  <data name="License_GetInTouch1_Variant1" xml:space="preserve">
+    <value>No credit card. No commitment. You’ll only upgrade if you choose to.</value>
+    <comment>Paragraph in start trial window</comment>
+  </data>
+  <data name="License_StartTrial_Button_Variant1" xml:space="preserve">
+    <value>Go to Inbox</value>
+    <comment>Button to start trial</comment>
+  </data>
+  <data name="License_EnterLicense_Variant1" xml:space="preserve">
+    <value>I already have a license</value>
+    <comment>Button to enter license key</comment>
+  </data>
+  <data name="Welcome_EditServerSettingsLink_Variant1" xml:space="preserve">
+    <value>We’ve found the correct server settings for your email account.
+You can [action]review them[/action] or continue to the next step.</value>
+    <comment>Edit server settings</comment>
   </data>
 </root>
