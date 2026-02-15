@@ -542,7 +542,7 @@ https://support.getmailbird.com/hc/en-us/articles/360020966234</value>
   </data>
   <data name="Dialog_WithoutAttachmentExplanation" xml:space="preserve">
     <value>Twoja wiadomość zawiera wyrażenie „{0}”, ale nie zostały załączone żadne pliki.
-Jeśli jednak chcesz wysłać wiadomość bez załączników, po prostu kliknij "OK" poniżej.</value>
+Jeśli mimo to chcesz wysłać wiadomość bez załączników, po prostu kliknij "OK" poniżej.</value>
     <comment>You wrote "{0}", and we thought you might want to attach a file.
 If you want to send the email without attachments, just press "Ok" below.</comment>
   </data>
@@ -9019,8 +9019,8 @@ Czy na pewno chcesz usunąć to konto?</value>
     <comment>Text for cancel subscription button in Options window</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_ICloud" xml:space="preserve">
-    <value>Using an iCloud account with a third-party application requires you {0}create an app-specific password{1}.
-Enter an app-specific password for {2}</value>
+    <value>Korzystanie z konta iCloud z aplikacją innej firmy wymaga {0}utworzenia hasła aplikacji{1}.
+Wprowadź hasło aplikacji dla {2}</value>
     <comment>Message shown when adding an iCloud account, asking for an app-specific password. {0} and {1} will make the text in between a link to a page to create a password, and {2} will be replaced by the user's email address.</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_Zoho" xml:space="preserve">
@@ -9859,32 +9859,32 @@ Oto bezpłatny dostęp do wersji premium</value>
     <comment>Description of Outlook In-Place Archive</comment>
   </data>
   <data name="Welcome_Welcome_Variant1" xml:space="preserve">
-    <value>Add existing account</value>
+    <value>Dodaj istniejące konto</value>
     <comment>Add existing account</comment>
   </data>
   <data name="License_StartTrial_Title_Variant1" xml:space="preserve">
-    <value>Enjoy the full Mailbird experience</value>
+    <value>Ciesz się pełnym doświadczeniem Mailbird</value>
     <comment>Sub header when trial starts</comment>
   </data>
   <data name="License_StartTrial_Desc_Variant1" xml:space="preserve">
-    <value>For the next three days, you can use every Premium feature for free. Take the time to see how Mailbird Premium fits into your daily email routine.</value>
+    <value>Przez kolejne trzy dni możesz korzystać ze wszystkich funkcji Premium za darmo. Poświęć chwilę, aby sprawdzić, jak Mailbird Premium usprawnia codzienną pracę z e-mailami.</value>
     <comment>Start trial explanation</comment>
   </data>
   <data name="License_GetInTouch1_Variant1" xml:space="preserve">
-    <value>No credit card. No commitment. You’ll only upgrade if you choose to.</value>
+    <value>Bez karty kredytowej. Bez zobowiązań. Uaktualnisz tylko wtedy, gdy zechcesz.</value>
     <comment>Paragraph in start trial window</comment>
   </data>
   <data name="License_StartTrial_Button_Variant1" xml:space="preserve">
-    <value>Go to Inbox</value>
+    <value>Przejdź do odebranych</value>
     <comment>Button to start trial</comment>
   </data>
   <data name="License_EnterLicense_Variant1" xml:space="preserve">
-    <value>I already have a license</value>
+    <value>Już mam licencję</value>
     <comment>Button to enter license key</comment>
   </data>
   <data name="Welcome_EditServerSettingsLink_Variant1" xml:space="preserve">
-    <value>We’ve found the correct server settings for your email account.
-You can [action]review them[/action] or continue to the next step.</value>
+    <value>Znaleźliśmy prawidłowe ustawienia serwera dla Twojego konta e-mail. 
+Możesz je [action]zweryfikować[/action] lub przejść do następnego kroku.</value>
     <comment>Edit server settings</comment>
   </data>
 </root>
