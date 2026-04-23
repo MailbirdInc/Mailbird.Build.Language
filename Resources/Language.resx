@@ -9903,4 +9903,52 @@ You can [action]review them[/action] or continue to the next step.</value>
     <value>Upgrade to Premium</value>
     <comment>Button to upgrade to Premium</comment>
   </data>
+  <data name="Welcome_ProviderSelectionTitle" xml:space="preserve">
+    <value>Choose your account provider</value>
+    <comment>Title for provider selection step</comment>
+  </data>
+  <data name="Welcome_ManualProviderTitle" xml:space="preserve">
+    <value>Set up manually</value>
+    <comment>Selection text to set up account manually</comment>
+  </data>
+  <data name="Welcome_OAuthSignInTitle" xml:space="preserve">
+    <value>Sign in to your account</value>
+    <comment>Title for OAuth sign in step</comment>
+  </data>
+  <data name="Welcome_OAuthSignInSubtitle" xml:space="preserve">
+    <value>For your security, please sign in via {0}'s official website in your browser to connect your account to Mailbird.</value>
+    <comment>Subtitle for OAuth sign in step</comment>
+  </data>
+  <data name="Welcome_OAuthWaitTitle" xml:space="preserve">
+    <value>Connecting your account...</value>
+    <comment>Title for OAuth wait step</comment>
+  </data>
+  <data name="Welcome_OAuthWaitSubtitle" xml:space="preserve">
+    <value>You’re almost there. Please complete sign-in in your browser to grant Mailbird access.</value>
+    <comment>Subtitle for OAuth wait step</comment>
+  </data>
+  <data name="Welcome_OAuthWaitBrowserNotOpened" xml:space="preserve">
+    <value>Didn’t open in browser? [action]Click here to retry[/action]</value>
+    <comment>Caption for retry link</comment>
+  </data>
+  <data name="Welcome_OAuthSignInContinue" xml:space="preserve">
+    <value>Continue in Browser</value>
+    <comment>Continue button text</comment>
+  </data>
+  <data name="Welcome_OAuthFailedTitle" xml:space="preserve">
+    <value>Authentication failed</value>
+    <comment>Title for OAuth failed step</comment>
+  </data>
+  <data name="Welcome_OAuthFailedSubtitle" xml:space="preserve">
+    <value>We couldn’t connect to your account. This usually happens if the browser window was closed too early or permissions weren't granted. Please try again.</value>
+    <comment>Subtitle for OAuth failed step</comment>
+  </data>
+  <data name="Welcome_OAuthFailedHelp" xml:space="preserve">
+    <value>Need help?</value>
+    <comment>Help button text</comment>
+  </data>
+  <data name="Welcome_OAuthFailedRetry" xml:space="preserve">
+    <value>Try again (Recommended)</value>
+    <comment>Try again link button text</comment>
+  </data>
 </root>
