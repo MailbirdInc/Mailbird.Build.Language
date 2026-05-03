@@ -2887,7 +2887,7 @@ Please check the identity setup and try again.</comment>
     <comment>Browse</comment>
   </data>
   <data name="App_Contacts_Import_Description" xml:space="preserve">
-    <value>VCard (.vcf), elektronik kartvizitler için standart bir dosya formatıdır. Mailbird, Gmail, Yahoo, Outlook vb. gibi diğer e-posta servislerinden oluşturulan vCard dosyalarından kişileri içe aktarabilir.
+    <value>vCard (.vcf), elektronik kartvizitler için standart bir dosya formatıdır. Mailbird, Gmail, Yahoo, Outlook vb. gibi diğer e-posta servislerinden oluşturulan vCard dosyalarından kişileri içe aktarabilir.
 
 İşte çeşitli hizmetlerdeki vCard dosyalarını üretmeye yardımcı olan birkaç bağlantı:</value>
     <comment>vCard (.vcf) is a file format standard for electronic business cards. Mailbird can import contacts from vCard files created from other email services like Gmail, Yahoo, Outlook, etc.
@@ -4075,7 +4075,7 @@ To access another mailbox, please add it as a new account in Mailbird.</comment>
     <comment>Failed to play new message sound</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanation" xml:space="preserve">
-    <value>LÜtfen ayarlardan doğru ses dosyasını seçin.</value>
+    <value>Lütfen ayarlardan doğru ses dosyasını seçin.</value>
     <comment>Please select the correct audio file from options</comment>
   </data>
   <data name="Notification_SoundFailedToPlayExplanationPopup" xml:space="preserve">
@@ -8020,7 +8020,7 @@ Mailbird planlanan zamanda çalışmıyorsa, mesaj gönderilmez, ancak bunun yer
   <data name="Dialog_TrashAndDiscardExplanation" xml:space="preserve">
     <value>Çöpe kutusuna taşındığında görüşmelerdeki taslaklar da atılır.
 
-İGörüşmeleri çöp kutusuna taşımak istediğinizden emin misiniz?</value>
+Görüşmeleri çöp kutusuna taşımak istediğinizden emin misiniz?</value>
     <comment>Message when moving conversation to trash folder but there is draft</comment>
   </data>
   <data name="Conversation_NoSubjectExplanation" xml:space="preserve">
@@ -9019,8 +9019,8 @@ Bu hesabı kaldırmak istediğinizden emin misiniz?</value>
     <comment>Text for cancel subscription button in Options window</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_ICloud" xml:space="preserve">
-    <value>Using an iCloud account with a third-party application requires you {0}create an app-specific password{1}.
-Enter an app-specific password for {2}</value>
+    <value>Üçüncü taraf bir uygulama ile iCloud hesabı kullanmak için {0}uygulamaya özel bir parola oluşturmanız gerekir.{1}
+{2} için uygulamaya özel bir parola girin</value>
     <comment>Message shown when adding an iCloud account, asking for an app-specific password. {0} and {1} will make the text in between a link to a page to create a password, and {2} will be replaced by the user's email address.</comment>
   </data>
   <data name="Welcome_SettingsFoundSubTitle_Basic_Zoho" xml:space="preserve">
@@ -9851,92 +9851,92 @@ Bu Mailbird'ün erken erişim sürümü olduğundan, sorunların biraz daha sık
     <comment>Feature name for unsubscribe</comment>
   </data>
   <data name="App_MicrosoftOneDrive_Description" xml:space="preserve">
-    <value>Access, share, and collaborate on your files from anywhere, keeping your content connected and your team productive.</value>
+    <value>Dosyalarınıza her yerden erişin, paylaşın ve üzerinde iş birliği yapın; böylece içeriğiniz bağlantılı kalır ve ekibinizin verimliliği artar.</value>
     <comment>Description of Microsoft OneDrive app</comment>
   </data>
   <data name="App_OutlookArchive_Description" xml:space="preserve">
-    <value>Outlook In-Place Archive helps you store older emails, free up mailbox space, and stay organized.</value>
+    <value>Outlook Yerinde Arşivleme, eski e-postalarınızı saklamanıza, posta kutusu alanını boşaltmanıza ve düzenli kalmanıza yardımcı olur.</value>
     <comment>Description of Outlook In-Place Archive</comment>
   </data>
   <data name="Welcome_Welcome_Variant1" xml:space="preserve">
-    <value>Add existing account</value>
+    <value>Mevcut hesabı ekle</value>
     <comment>Add existing account</comment>
   </data>
   <data name="License_StartTrial_Title_Variant1" xml:space="preserve">
-    <value>Enjoy the full Mailbird experience</value>
+    <value>Mailbird deneyiminin tadını çıkarın!</value>
     <comment>Sub header when trial starts</comment>
   </data>
   <data name="License_StartTrial_Desc_Variant1" xml:space="preserve">
-    <value>For the next three days, you can use every Premium feature for free. Take the time to see how Mailbird Premium fits into your daily email routine.</value>
+    <value>Önümüzdeki üç gün boyunca, tüm Premium özelliklerini ücretsiz olarak kullanabilirsiniz. Mailbird Premium'un günlük e-posta rutininize nasıl uyduğunu görmek için zaman ayırın.</value>
     <comment>Start trial explanation</comment>
   </data>
   <data name="License_GetInTouch1_Variant1" xml:space="preserve">
-    <value>No credit card. No commitment. You’ll only upgrade if you choose to.</value>
+    <value>Kredi kartı gerekmez. Herhangi bir taahhüt yok. Sadece isterseniz yükseltme yaparsınız.</value>
     <comment>Paragraph in start trial window</comment>
   </data>
   <data name="License_StartTrial_Button_Variant1" xml:space="preserve">
-    <value>Go to Inbox</value>
+    <value>Gelen kutusuna git</value>
     <comment>Button to start trial</comment>
   </data>
   <data name="License_EnterLicense_Variant1" xml:space="preserve">
-    <value>I already have a license</value>
+    <value>Zaten bir lisansım var</value>
     <comment>Button to enter license key</comment>
   </data>
   <data name="Welcome_EditServerSettingsLink_Variant1" xml:space="preserve">
-    <value>We’ve found the correct server settings for your email account.
-You can [action]review them[/action] or continue to the next step.</value>
+    <value>E-posta hesabınız için doğru sunucu ayarlarını bulduk.
+[action]Bunları inceleyebilirsiniz[/action] vya da bir sonraki adıma geçebilirsiniz.</value>
     <comment>Edit server settings</comment>
   </data>
   <data name="Upgrade_UpgradeBannerButton" xml:space="preserve">
-    <value>Upgrade to Premium</value>
+    <value>Premium'a yükseltin</value>
     <comment>Button to upgrade to Premium</comment>
   </data>
   <data name="Welcome_ProviderSelectionTitle" xml:space="preserve">
-    <value>Choose your account provider</value>
+    <value>Hesap sağlayıcınızı seçin</value>
     <comment>Title for provider selection step</comment>
   </data>
   <data name="Welcome_ManualProviderTitle" xml:space="preserve">
-    <value>Set up manually</value>
+    <value>Manuel olarak ayarlayın</value>
     <comment>Selection text to set up account manually</comment>
   </data>
   <data name="Welcome_OAuthSignInTitle" xml:space="preserve">
-    <value>Sign in to your account</value>
+    <value>Hesabınıza giriş yapın</value>
     <comment>Title for OAuth sign in step</comment>
   </data>
   <data name="Welcome_OAuthSignInSubtitle" xml:space="preserve">
-    <value>For your security, please sign in via {0}'s official website in your browser to connect your account to Mailbird.</value>
+    <value>Güvenliğiniz için, lütfen hesabınızı Mailbird'e bağlamak üzere tarayıcınızda {0}'ın resmi web sitesi üzerinden giriş yapın.</value>
     <comment>Subtitle for OAuth sign in step</comment>
   </data>
   <data name="Welcome_OAuthWaitTitle" xml:space="preserve">
-    <value>Connecting your account...</value>
+    <value>Hesabınız bağlanıyor...</value>
     <comment>Title for OAuth wait step</comment>
   </data>
   <data name="Welcome_OAuthWaitSubtitle" xml:space="preserve">
-    <value>You’re almost there. Please complete sign-in in your browser to grant Mailbird access.</value>
+    <value>Neredeyse tamamlandınız. Mailbird'e erişim izni vermek için lütfen tarayıcınızda oturum açma işlemini tamamlayın.</value>
     <comment>Subtitle for OAuth wait step</comment>
   </data>
   <data name="Welcome_OAuthWaitBrowserNotOpened" xml:space="preserve">
-    <value>Didn’t open in browser? [action]Click here to retry[/action]</value>
+    <value>Tarayıcıda açılmadı mı? [action]Yeniden denemek için buraya tıklayın[/action]</value>
     <comment>Caption for retry link</comment>
   </data>
   <data name="Welcome_OAuthSignInContinue" xml:space="preserve">
-    <value>Continue in Browser</value>
+    <value>Tarayıcıda devam et</value>
     <comment>Continue button text</comment>
   </data>
   <data name="Welcome_OAuthFailedTitle" xml:space="preserve">
-    <value>Authentication failed</value>
+    <value>Kimlik doğrulama başarısız oldu</value>
     <comment>Title for OAuth failed step</comment>
   </data>
   <data name="Welcome_OAuthFailedSubtitle" xml:space="preserve">
-    <value>We couldn’t connect to your account. This usually happens if the browser window was closed too early or permissions weren't granted. Please try again.</value>
+    <value>Hesabınıza bağlanamadık. Bu genellikle tarayıcı penceresinin çok erken kapatılması veya izinlerin verilmemesi durumunda olur. Lütfen yeniden deneyin.</value>
     <comment>Subtitle for OAuth failed step</comment>
   </data>
   <data name="Welcome_OAuthFailedHelp" xml:space="preserve">
-    <value>Need help?</value>
+    <value>Yardıma mı ihtiyacınız var?</value>
     <comment>Help button text</comment>
   </data>
   <data name="Welcome_OAuthFailedRetry" xml:space="preserve">
-    <value>Try again (Recommended)</value>
+    <value>Yeniden deneyin (Önerilir)</value>
     <comment>Try again link button text</comment>
   </data>
 </root>
